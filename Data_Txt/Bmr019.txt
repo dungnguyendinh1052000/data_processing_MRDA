@@ -1,0 +1,1648 @@
+__s^bk|s^t__st- ==__ca
+__s^bk__yeah .__ca
+__qy^bu^d^rt__so we're on .__c5
+__%-__that's better .__ca
+__s^bk__and somewhere is my agenda .__c5
+__s^bk^t3__i think the most important thing is morgan wanted to talk about uh the arpa demo .__c5
+__s^aa__well so | here's the thing .__c3
+__s^aa__um | why don't we s- - again start off with - with ?==__c3
+__fg|s^t^tc__uh - uh ==__c3
+__fg|qy^rt__yeah i'll get it .__c3
+__s^aa__i'll get the door .__c3
+__s^bk__um | i think we want to start off with the agenda .__c3
+__s__and then given that uh liz and andreas are going to be ten fifteen minutes late we can try to figure out what we can do most effectively without them here .__c3
+__s__so - | so - so one thing is yeah talk about demo .__c3
+__%__okay .__c5
+__b__so uh .__c5
+__s__uh i b m transcription status .__c5
+__fh__i b m transcription .__c3
+__s.%-__uh what else ?__c3
+__s^cs__smartkom .__c5
+__s^df__smartkom .__c3
+__s^aa__smartkom .__c3
+__fg__what's smartkom ?__c3
+__fh|s^t__uh | we want to talk about if w- - if we want to add the data to the mar- - meeting recorder corpus .__c5
+__fh__the data .__c4
+__s^t__the data which we are collecting here .__c4
+__s^bk__what - what - what are we collecting here ?__c3
+__fh__data .__c4
+__s__so why don't we have that on the agenda and we'll - we'll get to it and talk about it ?__c5
+__s__the smartkom data .__c4
+__fh__yeah right .__c3
+__fh__yeah .__c4
+__s__uh right .__c3
+__s^aa__uh .__c3
+__s^aa.%__uh | reorganization status .__c5
+__b.%__reorganization status .__c3
+__s^aa__oh .__c0
+__%--__files and directories ?__c0
+__b__files and directories .__c3
+__s.%-__yep .__c5
+__fg|s__uhhuh .__c5
+__b__absinthe which is the multiprocessor unix - linux .__c5
+__s.%-__i think it was - andreas wanted to talk about segmentation and recognition .__c5
+__s__and update on s r i recognition experiments .__c5
+__b__um ==__c3
+__b__and then if ti- - if there's time i wanted to talk about digits .__c5
+__s^rt__but it looked like we were pretty full so i can wait till next week .__c5
+__b__right .__c3
+__b__okay .__c3
+__b__well | let's see .__c3
+__s^ba__i think the a- - certainly the segmentation and recognition we want to maybe focus on when an- - andreas is here since that was particularly his thing .__c3
+__s^aa__and also the smartkom thing should b- ==__c4
+__s^bk__smartkom also andreas .__c3
+__qy^cs__absinthe i think also he has sort of been involved in a lot of those things .__c3
+__s^bd^no__at least ==__c5
+__s^cs.%-__yeah .__c5
+__s^ar__yeah .__c3
+__s__he'll t- - he'll probably be interested .__c5
+__s^ar|s__but ==__c5
+__qy^d^g__yeah .__c3
+__s^bk__um ==__c3
+__fh__so | i mean i think they'll be inter- - i'll be interested in all this .__c3
+__b.%__but - but uh probably if we had to pick something that we would talk on for ten minutes or so while they're coming here or i guess it would be you think reorganization status ?__c3
+__s__or ==__c3
+__qy^br^d^rt__yeah .__c5
+__s__i mean i think chuck was the one who added out the agenda item .__c5
+__s^ar|s^ba__i don't really have anything to say other than that we still haven't done it .__c5
+__fg__so ==__c5
+__s^ba^r__well i mean | i uh - just basically that ==__c1
+__s.%-__maybe i said - maybe we said this before - just that we met and we talked about it .__c1
+__s__and we sort of have a plan for getting things organized .__c1
+__%__and ==__c1
+__s^aa__and i - and i think a crucial part of that is the idea of - of not wanting to do it until right before the next level zero back up so that there won't be huge number of - of added .__c0
+__fh__right .__c1
+__s__uh ==__c0
+__fg|s^cs^j__right .__c5
+__fh__that - that was basically it .__c1
+__s^aa^j__not - not much @reject@ .__c1
+__s^df__although dave basically said that if we want to do it just tell him and he'll do a d- - level zero then .__c5
+__b__yeah .__c0
+__s^aa__uhhuh .__c0
+__s^j^na__oh excellent .__c0
+__s^na__so ==__c5
+__s.%-__oh so maybe we should just go ahead and get everything ready .__c1
+__b__oh good .__c0
+__s^j__and ==__c1
+__fh__yep .__c5
+__b__so i think we do need to talk a little bit about ==__c5
+__fg|s^t^tc__well we don't need to do it during this meeting .__c5
+__qr__we have a little more to discuss .__c5
+__s__yeah .__c1
+__s.%--__but uh we're - we're basically ready to do it .__c5
+__s__and uh | i have some web pages on ts- - more of the background .__c5
+__s__so naming conventions and things like that that i've been trying to keep actually up to date .__c5
+__s__so ==__c5
+__s^aa__and i've been sharing them with u d- - u w folks also .__c5
+__s^aa__i'm sorry you've been what ?__c0
+__b__okay .__c3
+__fh__showing them ?__c0
+__%-__sharing them with the u w folks .__c5
+__fg|s__sharing them .__c0
+__s__okay .__c0
+__b__okay .__c0
+__s__okay .__c3
+__s.%-__well maybe uh since that - that was a pretty short one maybe we should talk about the i b m transcription status .__c3
+__s^aa|s^na__someone can fill in liz and andreas later .__c3
+__%-__okay .__c5
+__s__uh ==__c3
+__b__so we uh we did another version of the beeps where we separated each beeps with a spoken digit .__c5
+__s^na__chuck came up here and recorded some di- - himself speaking some digits .__c5
+__fh__and so it just goes beep one beep and then the phrase .__c5
+__b.%__and then beep two beep and then the phrase .__c5
+__s^aa__and that seems pretty good .__c5
+__s^aa__um | i think they'll have a b- - easier time keeping track of where they are in the file .__c5
+__s__and we have done that on the automatic segmentations .__c4
+__b__and we did it with the automatic segmentation .__c5
+__s^aa__and i don't think - we ne- - we didn't look at it in detail .__c5
+__s^aa|s__we just sent it to i b m .__c5
+__fh__we - we sort of spot checked it .__c5
+__b__i listened to probably uh five or ten minutes of it from the beginning .__c1
+__qy^rt__yeah .__c4
+__fh__oh really ?__c5
+__s^nd|s^ar__okay .__c5
+__s^df__yeah .__c1
+__s.%-__and ==__c1
+__s__i sort of spot checked here and there and it sounded pretty good .__c5
+__s__so i think it'll work .__c5
+__fh__okay .__c3
+__s__and uh | we'll just have to see what we get back from them .__c5
+__s^aa__uh ==__c5
+__b__and the main thing will be if we can align what they give us with what we sent them .__c1
+__s__i mean that's the crucial part .__c1
+__b__right .__c5
+__fg|s__and i think we'll be able to do that at - with this new beep format .__c1
+__s^e__yep .__c5
+__s__well i think | it's also - they are much less likely to d- - have errors .__c5
+__s^bk__uhhuh .__c1
+__b__i mean so the problem wi- - last time is that there were errors in the transcripts where they put beeps where there weren't any or - and they put in extraneous beeps .__c5
+__fg|s__right .__c1
+__b__yeah .__c1
+__s^e__and with the numbers there it's much less likely .__c5
+__s.%--__yeah | one interesting note is - uh or problem ==__c1
+__s^rt__i don't know if this was just because of how i play it back i say uh s n d play and then the file .__c1
+__s^2__every once in a while @reject@ uh like a beep sounds like it's cut into two beeps .__c1
+__s__yeah .__c4
+__s__into two pieces .__c4
+__fh__yeah .__c4
+__s.%--__yeah | and i - i don't know if that's an uh artifact of playback .__c1
+__qy^rt__yep .__c4
+__s^ar__bu- - uh i don't think it's probably in the original file .__c1
+__s__um but uh ==__c1
+__s__i recognize that too .__c4
+__s^df.%-__yeah .__c4
+__fh__ha .__c5
+__s^df__that's interesting .__c5
+__s__i didn't hear that .__c5
+__b__yeah .__c1
+__fh__but with this new format um that hopefully they're not hearing that and if they are it shouldn't throw them .__c1
+__s.%--__yep .__c4
+__%--__so ==__c1
+__%--__well maybe we better listen to it again .__c5
+__s^no__make sure .__c5
+__s__but i mean certainly the software shouldn't do that .__c5
+__fh__yeah .__c1
+__s__that's what i thought .__c1
+__s__so ==__c5
+__s__i- - it's probably just you know huh somehow the audio device gets hung for a second .__c1
+__s__uhhuh .__c0
+__s__yeah .__c4
+__s__some latency or something .__c4
+__b__hiccups .__c5
+__s.%--__yeah .__c4
+__qy^rt__or ==__c1
+__qw^br__yeah .__c4
+__s^ar__as long as they have one number and they know that there's only one beep maximum that goes with that number .__c0
+__s^cs__yeah .__c1
+__s^df.%--__yeah .__c5
+__fh__the only - the only part that might be confusing is when chuck is reading digits .__c5
+__s__right .__c1
+__s__yep .__c4
+__s__right .__c1
+__s^df__so th- ==__c1
+__b__well you know actually are we having them ?==__c0
+__s^cs__seven four eight beep seven beep eight three two .__c5
+__s^bk|s^cs^ng__yeah but are we having them do digits ?__c0
+__s^df__yes .__c5
+__b__because uh we don't - we didn't - in order to cut them out we'd have to listen to it .__c5
+__s__we - we didn't cut those out .__c1
+__s^cs^e__yeah .__c4
+__s^aa|s^ba__they are not transcribed yet .__c4
+__s.%-__so ==__c4
+__b__yeah .__c4
+__b__yeah .__c4
+__b__and we wanted to avoid doing that .__c5
+__s^df.%--__okay .__c0
+__s__so we - they are transcribing the digits .__c5
+__b__okay .__c0
+__s^df__okay .__c0
+__b__although we could tell them - we could tell them if you hear someone reading a digits string just say bracket digit bracket .__c5
+__b__we can - we can ignore it when we get it back .__c1
+__s__huh .__c1
+__s__and don't bother actually computing the di- - writing down the digits .__c5
+__b__yeah .__c1
+__s__that'd be great .__c0
+__b.%__that'd be what i'm having the transcribers here do because it can be extracted later .__c0
+__s__yep .__c5
+__b__and then i wanted to talk about but as i said i - we may not have time what we should do about digits .__c5
+__s__we have a whole pile of digits that haven't been transcribed .__c5
+__b__le- - let's talk about it .__c3
+__s__because that's - that's something that i - i know andreas is less interested in than liz is .__c3
+__s__okay .__c5
+__qy^2^bu^d^rt__so you know .__c3
+__s^e__do we have anything else to say about transcription ?__c5
+__s__it's good .__c3
+__b.%__about i b m stuff ?__c5
+__b__uh | brian - i - i sent bresset - sent brian a message about the meeting .__c1
+__s__and i haven't heard back yet .__c1
+__s^rt__so | i g- - hope he got it and hopefully he's ==__c1
+__b__okay .__c5
+__s__huh .__c0
+__b__maybe he's gone .__c1
+__s__i don't know .__c1
+__s__he didn't even reply to my message .__c1
+__b__so i should probably ping him just to make sure that he got it .__c1
+__s__all right .__c5
+__s.%--__@reject@ ==__c1
+__s^bu__so | we have a whole bunch of digits .__c5
+__qy^d^g^rt__if we want to move on to digits .__c5
+__s__actually maybe i - one - one relate- - more related thing in transcription .__c3
+__s^aa__so that's the i b m stuff .__c3
+__s^e__we've got that sorted out .__c3
+__s^bd^cs__um | how're we doing on the - on the rest of it ?__c3
+__fg__we're doing well .__c0
+__s__i - i hire - i've hired two extra people already expect to hire two more .__c0
+__s__huh .__c5
+__s^rt__and um i've prepared um uh a set of five which i'm - which i'm calling set two .__c0
+__s^e__which are now being edited by my head transcriber in terms of spelling errors and all that .__c0
+__b__she's also checking through and mar- - and - and monitoring um the transcription of another transcriber .__c0
+__b__you know i mean she's going through and doing these kinds of checks .__c0
+__fh__uhhuh .__c3
+__s__and i've moved on now to what i'm calling set three .__c0
+__s.%-__i sort of thought if i do it in sets - groups of five then i can have like sort of a - a parallel processing through - through the - the current .__c0
+__qw^rt__uhhuh .__c3
+__s.%-__and - and you indicated to me that we have a g- - a goal now for the - for the um the uh darpa demo of twenty hours .__c0
+__s^na|s^aa__so i'm going to go up to twenty hours be sure that everything gets processed and released and - and that's - that's what my goal is .__c0
+__s__package of twenty hours right now and then once that's done move on to the next .__c0
+__s^bk^m__yeah uh ==__c3
+__s^bk__so twenty hours .__c3
+__s__but i guess the other thing is that um that that's kind of twenty hours a. sap because the longer before the demo we actually have the twenty hours the more time it'll be for people to actually do cool things with it .__c3
+__s^bk__uhhuh .__c0
+__s__so okay .__c3
+__b.%__good .__c0
+__s^df^no__i'm - i'm hiring people who uh really are ==__c0
+__b__they would like to do it full time several of these people .__c0
+__b__uhhuh .__c3
+__s.%--__and - and | i don't think it's possible really to do this full time but that - what it shows is motivation to do as many hours as possible .__c0
+__fh__it'll keep your accuracy up .__c5
+__s__yep .__c5
+__s.%-__yeah .__c3
+__b.%__yeah .__c3
+__b__and they're really excellent .__c0
+__s^df^t3__well that's good .__c3
+__%-__yeah .__c0
+__%-__yeah | i mean i guess the - so the difference if - if um if the i b m stuff works out the difference in the job would be that they p- - primarily would be checking through things that were already done by someone else ?__c3
+__s.%-__got a good core group now .__c0
+__s^cs^t3__again .__c0
+__s__uhhuh .__c0
+__s__is that most of what it ?==__c3
+__b__and correcting .__c5
+__fh__i mean - correcting .__c3
+__fg|s__correcting .__c5
+__%-__we'll - we'll expect that they'll have to move some time bins and do some corrections .__c5
+__%-__and i - you know i've also d- - uh discovered ==__c0
+__qy^rt__so with the new transcriber i'm ==__c0
+__s^aa__um ==__c0
+__s^aa^r__so ==__c0
+__qy^rt__uh | let me say that my ==__c0
+__s^no__uh ==__c0
+__s^no^r__so um ==__c0
+__s^no__at present um the people have been doing these transcriptions a channel at a time .__c0
+__s^e__and that sort of um is useful .__c0
+__s^bk__and t- - you know and then once in a while they'll have to refer to the other channels to clear something up .__c0
+__fg__okay .__c0
+__fg|s__well i realize that um w- - i- - we- - we're using the pre segmented version .__c0
+__s.%-__and um | the pre segmented version is extremely useful .__c0
+__s^bk|s^df^ng__and wouldn't it be useful also to have the visual representation of those segments ?__c0
+__b__and so i've - uh i uh - uh i've trained the new one - uh the new- - the newest one to um use the visual from the channel that is going to be transcribed at any given time .__c0
+__s^e__and that's just amazingly helpful .__c0
+__fh__because what happens then is you scan across the signal and once in a while you'll find a blip that didn't show up in the pre segmentation .__c0
+__s__oh right .__c5
+__s^bk|s^nd__i see what you mean .__c5
+__fh__and that'll be something like - i- - it's ver- - it's interesting .__c0
+__s^e__a backchannel or ==__c5
+__s^bk|s__once in a while it's a backchannel .__c0
+__b__yep .__c4
+__b__sometimes it seems to be um similar to the ones that are being picked up .__c0
+__fh__uhhuh .__c5
+__fh__and they're rare events but you can really go through a meeting very quickly .__c0
+__s__you just - you just you know yo- - you s- - you scroll from screen to screen looking for blips .__c0
+__fg__and i think that we're going to end up with uh better coverage of the backchannels .__c0
+__s.%-__yeah .__c3
+__s__but at the same time we're benefitting tremendously from the pre segmentation .__c0
+__s^aa|s__because there are huge places where there is just absolutely no activity at all .__c0
+__s__uhhuh .__c3
+__s__and uh | the audio quality is so good .__c0
+__s__so they can - they can um scroll through that pretty quick ?__c1
+__s^e__yeah .__c0
+__s^cs__uhhuh .__c0
+__b__that's great .__c1
+__b__yeah .__c0
+__s.%-__so | i think that that's going to also uh you know speed the efficiency of this part of the process .__c0
+__s^cs__huh .__c3
+__b__okay .__c3
+__s.%-__uh yeah .__c3
+__s.%--__so uh ==__c3
+__s^df__yeah .__c3
+__b__so let's talk about the digits since they're not here yet .__c3
+__qy^rt__uh so | we have a whole bunch of digits that we've read and we have the forms and so on .__c5
+__b__um but only a small number of that ha- ==__c5
+__qrr__well not a small number .__c5
+__s^df__only a subset of that has been transcribed .__c5
+__s^df^e__and so we need to decide what we want to do .__c5
+__b__and uh | liz and andreas - actually they're not here but they did say at one point that they thought they could do a pretty good job of just doing a forced alignment .__c5
+__s__and again i don't think we'll be able to do with that alone because um sometimes people correct themselves and things like that .__c5
+__s__but ==__c5
+__fg|s__so i was just wondering what people thought about how automated can we make the process of finding where the people read the digits doing a forced alignment and doing the timing .__c5
+__s^bk__well forced alignment would be one thing .__c3
+__s__what about just actually doing recognition ?__c3
+__s__well | we - we know what they read because we have the forms .__c5
+__s__no | they make mistakes .__c3
+__s^e__right .__c5
+__s^bk__but the point is that we want to get a set of clean digits .__c5
+__s__right .__c3
+__fh.%__you're talking about as a pre processing step .__c1
+__s^aa__right morgan ?__c1
+__s^df__um ==__c3
+__s^df^e__is that what you're ?==__c1
+__s__yeah i'm - i'm not quite sure what i'm talking about .__c3
+__s__i mean i ==__c3
+__s^2__i mean uh we're talking about digits now .__c3
+__s__and - and so um | there's a bunch of stuff that hasn't been marked yet .__c3
+__fg|s^ng__uh .__c3
+__s__and um | there's the issue that - that they - we know what - what was said but do we ?__c3
+__s^ng^no__i mean so | one option i- ==__c5
+__s__because people make mistakes and stuff .__c3
+__s^df__i was just asking just out of curiosity if - if with uh uh the s r i recognizer getting one percent word error .__c3
+__s^df^e__uh | would we - would we do better ?__c3
+__s.%-__so if you do a forced alignment but the force- - but the - but the transcription you have is wrong because they actually made mistakes uh or false starts it's - it's much less c- - it's much less common than one percent ?__c3
+__s__but that's pretty uncommon .__c5
+__b__um | if we could really get one percent on ==__c5
+__b__well | i guess - yeah i guess if we segmented it we could get one percent on digits .__c5
+__s__we should be able to .__c3
+__%--__right ?__c3
+__fh__yeah .__c1
+__s__yeah .__c3
+__b__so that's just my question .__c3
+__b__but ==__c5
+__qy^d^f^g__i'm not saying it should be one way or the other but it's - if ==__c3
+__s^df.%--__well there - there're a couple different ways of doing it .__c5
+__b.%__we could use the tools i've already developed and transcribe it .__c5
+__b.%__hire some people or use the transcribers to do it .__c5
+__s__we could let i b m transcribe it .__c5
+__b__you know they're doing it anyway .__c5
+__fh__and unless we tell them different they're going to transcribe it .__c5
+__fg|s__um | or we could try some automated methods .__c5
+__b__and my - my tendency right now is - well if i b m comes back with this meeting and the transcript is good just let them do it .__c5
+__s.%-__well ==__c3
+__s^t3__yeah it's - y- - you raised a point kind of uh euphemistically .__c3
+__s^t3__but i mean m- - maybe it is a serious problem .__c3
+__%-__ho- - what will they do when they go - hear beep seven beep seven three five two ?__c3
+__s^t3__i mean you think they'll - we'll get ?==__c3
+__s__it's pretty distinct .__c5
+__s^bk__the beeps are pre recorded .__c5
+__s__yeah .__c3
+__s__it'll only be a problem for m- - for mine .__c1
+__s__yeah .__c4
+__s.%__well it - it - well it'd be preceded by i'm reading transcript so-and-so ?__c0
+__s^ba__yeah .__c1
+__s^df__yes .__c5
+__s__so | i think if they're processing it at ==__c0
+__s^rt__i mean | it'll be - it will be in the midst of a digit string .__c5
+__s__so ==__c5
+__fg|s^t.%-__yeah .__c3
+__s^no.%__i mean it ==__c5
+__s__sure there - there might be a place where it's beep seven beep eight beep eight beep .__c5
+__qh^bk.%__but you know they - they're - they're going to macros for inserting the beep marks .__c5
+__b__and so i - i don't think it'll be a problem .__c5
+__s^aa__we'll have to see .__c5
+__s.%-__but i don't think it's going to be a problem .__c5
+__fh.%__okay .__c3
+__s__well | i - i - i don't know .__c3
+__s^cs.%--__i - i think that that's - if they are in fact going to transcribe these things uh certainly any process that we'd have to correct them or whatever is - needs to be much less elaborate for digits than for other stuff .__c3
+__%-__right .__c5
+__s^cs__so why not ?__c3
+__s^cs.%-__sure .__c3
+__s^df__that was it ?__c3
+__fh.%__that was it .__c5
+__%-__just what do we do with digits .__c5
+__fg|s__okay .__c3
+__s.%-__we have so many of them and it'd be nice to actually do something with them .__c5
+__s^aa|s^na__well we - we - we want to have them .__c3
+__s^na|s^aa__you mean there're more than ten ?__cb
+__s^rt^t^tc__yeah i ==__c3
+__s^t3.%__anything else ?__c5
+__b__your mike is a little low there .__c5
+__s^e__i- - in berkeley yeah .__c3
+__s^df.%-__so uh | you - you have to go a little early .__c3
+__s^bk__right ?__c3
+__s^bk__well | i can stay till about uh three forty .__cb
+__fg__at twenty ==__c3
+__s__all right .__c3
+__s__so le- - let's make sure we do the ones that - that uh saved you .__c3
+__s__yeah .__cb
+__b__uhhuh .__cb
+__s__so there was some uh in - in adam's agenda list .__c3
+__b__he had something from you about segmentation this last recognition ?__c3
+__fh__well | yeah .__cb
+__s__so this is just partly to inform everybody um and - and of course to get um input .__cb
+__%-__oops !__c5
+__fg__um so uh | we had a discussion - don and liz and i had discussion last week about how to proceed with uh you know with don's work .__cb
+__s^bk__ch- ==__c4
+__fg|s^ba__and - and - and uh | one of the obvious things that occur to us was that we're - since we now have thilo's segmenter and it works you know amazingly well um we should actually basically re evaluate the recognition um results using - you know without cheating on the segmentations .__cb
+__s__and that should be fairly ==__cb
+__s__so ==__c4
+__s__and how do we find the transcripts for those so that ?==__c4
+__fg|s__yeah .__c4
+__fh__oh okay .__cb
+__s^bd__the references for - for those segments ?__c4
+__s^bd^e__so | there's actually ==__cb
+__s^ar|s__it's not that ==__c4
+__fh__why do you ask ?__cb
+__s.%--__i could ==__c5
+__s^cs.%--__no | actually um nist has um m- - a fairly sophisticated scoring program that you can give a um a time .__cb
+__s^bk__well ==__c9
+__b.%__hand ones .__c5
+__s^ba__okay .__c4
+__s^ba__uh - | you know you basically just give two time marked sequences of words and it computes the um the uh you know the - the - th- ==__cb
+__s^cs__it does all the work for you .__c1
+__s__it does all the work for you .__cb
+__s^bk__yeah .__c1
+__s^aa__okay .__c4
+__s__so | it - we just - and we use that actually in hub five to do the scoring .__cb
+__s^cs__um | so what we've been using so far was sort of a simplified version of the scoring .__cb
+__s.%--__and we can - we can handle the - the - the type of problem we have here .__cb
+__s^aa__so we ha- ==__cb
+__s^bk__so basically you give some time constraints for - for the references and for - for the hypothesis .__c4
+__s__yeah .__cb
+__s^ba__right .__cb
+__s__right .__cb
+__s__and ==__c4
+__s^bk__yeah .__c9
+__s__maybe the start of your speech and the end of it .__c9
+__qw^t^tc__yeah okay .__c4
+__fh__so do- ==__cb
+__b__or stuff like that .__c9
+__s__okay .__c4
+__s^e__right .__cb
+__s__it does time constrained word alignment .__cb
+__s__okay .__c4
+__fh__so ==__cb
+__qw^rt.%-__so that should be possible .__cb
+__fg|s__i mean that shouldn't be a problem .__cb
+__%--__uh | so that was the one thing .__cb
+__s^bk__and the other was that ==__cb
+__s__um ==__cb
+__s^bk__what was the other problem ?__cb
+__s__oh !__cb
+__s__that thilo wanted to use the recognizer alignments to train up his um speech detector .__cb
+__b__yeah .__c4
+__s:s__um | so that we could use uh - you know there wouldn't be so much hand labelling needed to uh to generate training data for - for the speech detector .__cb
+__fg|s__yeah .__c4
+__s^e__i'm just in progress of - of doing that .__c4
+__b__so ==__c4
+__s__and i think you're in the process of doing that .__cb
+__b__so you can - you can ==__cb
+__s.%-__yeah .__c4
+__s__it'll give you a lot more data too .__c1
+__b__won't it ?__c1
+__s^aa|s^na__yeah .__c4
+__s^df.%-__so it's basically ==__c4
+__s^e__s- ==__c4
+__s^bk__i think eight meetings or something which - which i'm using .__c4
+__s^na__and it's - before it was twenty minutes of one meeting .__c4
+__s^cs^df.%-__uhhuh .__cb
+__b__so - should be a little bit better .__c4
+__qy^bu^d^rt__right .__cb
+__s^aa__that won't be perfect - the alignments aren't perfect .__cb
+__qy^bu^d^e^rt__great .__c1
+__s^aa|s^na__yeah .__c4
+__s^bu__but um it's probably still better to have all this extra data than ==__cb
+__qy^d^g__but ==__c4
+__s^aa|s.%-__yeah .__c9
+__s^df__yeah .__c4
+__s__yep .__c4
+__s^aa|s^na__yeah .__cb
+__s__we'll see that .__c4
+__s__yeah .__cb
+__s__okay .__c3
+__s__actually i had a question about that .__c9
+__s__if you find that you can lower the false alarms that you get where there's no speech that would be useful for us to know .__c9
+__s__so um ==__c9
+__s.%-__there were the false alarms .__c4
+__qw__yeah .__c9
+__s__so r- - right now you get f- - fal- - you know false - false uh speech regions when it's just like um breath or something like that .__c9
+__s__okay .__c4
+__s__yeah .__c4
+__s:s__and i'd be interested to know the - wha- - if you retrain ==__c9
+__s^df__yep .__c4
+__s:s__um ==__c9
+__%-__yeah .__c4
+__s^bu__do those actually go down or not ?__c9
+__s^aa__because of ==__c9
+__s^bk__yeah .__c4
+__s^e__i'll - can make - an- - can like make a c- - comparison of - of the old system to the - to the new one .__c4
+__s__yeah just to see if - by doing nothing in the modeling of - just having that training data wh- - what happens .__c9
+__s^cs__and then ==__c4
+__s^cs__yeah .__c4
+__b__yeah .__c4
+__s^cs^e__yep .__c4
+__s^bk|s__um | another one that we had on adam's agenda that definitely involved you was s- - something about smartkom ?__c3
+__s.%--__right .__c5
+__b__so | rob porzel ==__c5
+__qh__uh porzel ?__c5
+__qh__and the uh porzel - and the uh smartkom group are collecting some dialogues .__c5
+__b__porzel .__cb
+__s^rt__porzel .__cb
+__fh__basically they have one person sitting in here looking at a picture and a wizard sitting in another room somewhere .__c5
+__s^no__and uh | they're doing a travel task .__c5
+__s^cs__and uh | it involves starting - i believe starting with a ==__c5
+__s.%-__it's - it's always the wizard .__c5
+__s__but it starts where the wizard is pretending to be a computer and it goes through a uh speech generation system .__c5
+__b__yeah .__c4
+__%-__actually it's changed to a synthesis for - for the first part now .__c4
+__%-__synthesis system .__c5
+__s^bk__yeah .__c4
+__s^bk__um | and then it goes to a real wizard and they're evaluating that .__c5
+__s^bu__and they wanted to use this equipment and so the w- - question came up is ==__c5
+__%-__well here's some more data .__c5
+__s__should this be part of the corpus or not ?__c5
+__qrr.%--__and my attitude was yes because there might be people who are using this corpus for acoustics as opposed to just for language .__c5
+__s__um or also for dialogue of various sorts .__c5
+__s__um so it's not a meeting .__c5
+__s^cs__right ?__c5
+__%-__because it's two people and they're not face to face .__c5
+__s__wait a minute .__c3
+__qy^d^f^g__yeah .__c4
+__s^df__so | i just wanted to understand it because i - i'm - uh hadn't quite followed this process .__c3
+__s^df__um so | it's wizard in the sen- - usual sense that the person who is asking the questions doesn't know that it's uh a machi- - not a machine ?__c3
+__s^2^na|s^aa__right .__cb
+__b__actually - actually w- - w- - the - the - we do this ==__cb
+__s^na__at the beginning .__c5
+__b__i don't know who came up with it but i think it's a really clever idea .__cb
+__b__we simulate a computer breakdown halfway through the session and so then after that the person's told that they're now talking to a uh to a human .__cb
+__fg|s^cs__yeah .__c3
+__b__it's a human operator .__c4
+__s^df^ng__yeah .__c4
+__b__yeah .__c3
+__s__but of course they don't know that it's the same person both times .__c5
+__fh__so we - we collect - we collect both human computer and human human data essentially in the same session .__cb
+__s^na__you might want to try collecting it the other way around sometime saying that th- - the computer isn't up yet .__c3
+__s^na__huh .__c0
+__qy^rt__and then - so then you can separate it out whether it's the beginning or end kind of effects .__c3
+__s^aa__that's an idea .__cb
+__%--__but ==__c3
+__s^aap__yep .__c5
+__s^df^ng__yeah .__c3
+__fg|s__yeah .__cb
+__b.%__that's a good idea .__c0
+__s__i have to go now .__c5
+__s^e__you can talk to the computer .__c5
+__s__it's a lot more believable too .__c1
+__s^e__no !__c5
+__fh__if you tell them that they're - the computer part is running on a windows machine .__c1
+__s__and the whole breakdown thing kind of makes sense .__c1
+__s__o- ==__cb
+__b.x__just - just reboot it .__cb
+__s__abort ==__c5
+__b.%__abort retry fail ?__c5
+__s__so | did they actually save the far field data ?__c9
+__b__because at first they weren't - they weren't sa- ==__c9
+__s__well this was - this was the question .__c5
+__s__yes .__c4
+__s^bk.%__yeah .__cb
+__s^2__so - so they were saying they were not going to .__c5
+__s^df__yeah .__c4
+__s^j__okay .__c9
+__b__and i said well that's silly if - if we're going to try to do it for a corpus there might be people who are interested in acoustics .__c5
+__b__yeah .__c9
+__s.%--__wow !__cb
+__s__no .__c4
+__s__or ==__c9
+__s__projector we were not saying we are not doing it .__c4
+__fh__yeah .__c9
+__s^ba__s- ==__c3
+__s__no the - the question is do we save one or two far field channels or all of them ?__cb
+__%-__we wer- - we just wanted to do ==__c4
+__qw__right .__c9
+__qw^e__yeah .__c4
+__%--__yeah .__c4
+__s^aa|s^na__i - i see no reason not to do all of them .__c5
+__s__that - that if we have someone who is doing acoustic studies uh it's nice to have the same for every recording .__c5
+__s__um ==__c3
+__qw__nnn .__c9
+__s.%--__huh .__cb
+__s__yeah .__c9
+__s__so what is the purpose of this recording ?__c3
+__b__uhhuh .__cb
+__s__this is to get acoustic and language model training data for smartkom .__c3
+__b__it's to be traini- - to b- - training data and development data for the smartkom system .__cb
+__s^bk__the english system ?__c4
+__s__yeah .__cb
+__s__yeah .__c4
+__b__right .__cb
+__s__right .__cb
+__b.%__okay .__c3
+__s^e__where does this ?==__c1
+__s^bk__maybe we can have him vary the microphones too .__c9
+__s^bu__well ==__c3
+__s^bu^e__or they're different s- - speakers .__c9
+__s^aa__b- ==__c4
+__s^aa__right .__c5
+__s^bk__so - so - so | for their usage they don't need anything .__c5
+__s^no__so why not ?==__c3
+__s.%-__yeah .__c4
+__%-__but - but i'm not sure about the legal aspect of - of that .__c4
+__s__right ?__c5
+__s__is - is there some contract with smartkom or something about the data ?__c4
+__s^bk__yeah .__cb
+__fg|s__what they ?==__c4
+__fh__or is - is that our data which we are collecting here ?__c4
+__s__we've never signed anything that said that we couldn't use anything that we did .__c3
+__b__or ?==__c4
+__fh__okay .__c4
+__s^bk__okay .__c4
+__s^bk__we weren't supposed to collect any data .__cb
+__s__so ==__c4
+__s^df__okay .__c4
+__s.%--__this was all ==__cb
+__s__yeah .__c3
+__s__so | yeah th- - th- - that was the question .__c4
+__s__if - if ==__c4
+__s^bk^rt__yeah .__c4
+__fh__yeah .__cb
+__s__basically .__c4
+__s^df__no that's not a problem .__c3
+__s^bk__i - l- - look it seems to me that if we're doing it anyway and we're doing it for these - these purposes that we have and we have these distant mikes we definitely should re- - should save it all as long as we've got disk space .__c3
+__s^bk__uhhuh .__cb
+__s^bk__and disk is pretty cheap .__c3
+__fg|%-__okay .__cb
+__s__so should we save it ?__c3
+__fg__and then ==__c5
+__fg|s__now th- ==__c3
+__b__yeah .__c3
+__s__so we save it because it's - it - it's potentially useful .__c3
+__b__right .__c5
+__s__and now what do we do with it is - is a s- - separate question .__c3
+__s__i mean anybody who's training something up could choose to put it - uh to u- - include this or not .__c3
+__s.%--__right .__cb
+__fh__i - i would not say it was part of the meetings corpus .__c3
+__s^bk__it isn't .__c3
+__fg|qo^d^e__but it's some other data we have .__c3
+__s^bk__and if somebody doing experiment wants to train up including that then they can .__c3
+__s^aa|s.%--__uhhuh .__cb
+__s^bd^no__right ?__c3
+__qy^cs^rt__so | it's - it - it - i guess it - the - begs the question of what is the meeting corpus .__c5
+__qrr.%--__so if at u w they start recording two person hallway conversations is that part of the meeting corpus ?__c5
+__s__i think it's - i - i think - i th- - think the idea of two or more people conversing with one another is key .__c3
+__s__well this has two or more people conversing with each other .__c5
+__fh__nnn well ==__c3
+__s__yeah .__c4
+__s__they're just not face to face .__c5
+__s__what if we just give it a - a name like we give these meetings a name ?__c9
+__s__well this ==__c0
+__s.%--__no it doesn't .__c3
+__s^bk^no__right ?__c3
+__s__it has ==__c3
+__s__i mean that was my intention .__c5
+__s^rt__and then later on some people will consider it a meeting and some people won't .__c9
+__s__yeah .__c3
+__fh__that was my intention .__c5
+__s__well this ==__c0
+__s^ba__and ==__c9
+__s__so - so - s- - so | part of the reason that i wanted to bring this up is do we want to handle it as a special case or do we want to fold it in ?__c5
+__s__just give it a title .__c9
+__s.%-__oh .__c0
+__s^2__i think it is a s- ==__c3
+__s^ng.%--__we- - give everyone who's involved as their own user i d give it session i ds let all the tools that handle meeting recorder handle it or do we want to special case it ?__c5
+__s^aa__and if we were going to special case it who's going to do that ?__c5
+__s^e^ng__well it - it makes sense to handle it with the same infrastructure since we don't want to duplicate things unnecessarily .__cb
+__s__so ==__c4
+__%-__it - it - it ==__c4
+__s__i think ==__c0
+__s^aa__but as far as distributing it we shouldn't label it as part of this meeting corpus .__cb
+__b__we should let it be its own corp- ==__cb
+__fg|s__yeah .__c3
+__b__i don't see why not .__c5
+__b__well it's - it - well because ==__c0
+__fh|s^df__it's just a different topic .__c5
+__b__i ha- - i have an extra point which is the naturalness issue .__c0
+__s__because we have like meetings that have a reason .__c0
+__s.%--__that's one of the reasons that we were talking about this .__c0
+__s__and - and those - and this sounds like it's more of an experimental setup .__c0
+__s^e__yeah .__c3
+__s^e__it's scenario based it's - it's human computer interface it's really pretty different .__c3
+__fg|s^arp__it's got a different purpose .__c0
+__s^cs__but i- - i - i have no problem with somebody folding it in for some experiment they're going to do .__c3
+__s.%--__yeah .__c0
+__s.%--__but i don't think i- - it - it doesn't match anything that we've described about meetings .__c3
+__b__uhhuh .__c5
+__s__whereas everything that we talked about them doing at - at u w and so forth really does .__c3
+__s^fa.%__okay .__c5
+__s__they're actually talking ==__c3
+__s__so w- - so what does that mean for how we are going to organize things ?__c5
+__s^no__huh .__c0
+__fh__yeah .__c4
+__s__you can - you can ==__c3
+__fh|s__again as - as i think andreas was saying if you want to use the same tools and the same conventions there's no problem with that .__c3
+__s.%--__it's just that it's you know different directory it's called something different it's ==__c3
+__s__you know ==__c3
+__s__it is different .__c3
+__s:s__you can't just fold it in as if it's ==__c3
+__s:s__i mean digits are different too .__c3
+__s__right ?__c3
+__b__it might also be potentially confusing .__cb
+__s:s__yeah but those are folded in .__c5
+__s__and it's just - you just mark the transcripts differently .__c5
+__s^e:s__so - so one option is you fold it in .__c5
+__s__right .__cb
+__%-__and just simply in the file you mark somewhere that this is this type of interaction rather than another type of interaction .__c5
+__s__yeah i th- ==__cb
+__s__well i don- - i wouldn't call reading digits meetings .__c3
+__s^rt__right ?__c3
+__s:s__i mean we - we - we were doing ==__c3
+__b__well but - but | i put it under the same directory tree .__c5
+__s^df__you know | it's in user doctor speech data m r .__c5
+__s.%--__well ==__c3
+__s^cs^rt__can we just have a directory called like other stuff ?__c9
+__s__and ==__c9
+__s^ba__other .__c5
+__s__well - | or i - don't know .__c9
+__s^df__i mean i don't care what directory tree you have it under .__c3
+__fg__and - and just um store it there .__c9
+__b__right ?__c3
+__b__i mean that's just a ==__c3
+__s__okay .__c5
+__s^df^e__my preference is to have a single procedure so that i don't have to think too much about things .__c5
+__fg|%-__yes .__cb
+__s.%--__i mean ==__c9
+__s__and just have a marking .__c5
+__s__yeah .__c3
+__s__if we do it any other way that means that we need a separate procedure and someone has to do that .__c5
+__s^e__o - you - you can use whatever procedure you want that's p- - convenient for you .__c3
+__s__all i'm saying is that there's no way that we're going to tell people that reading digits is meetings .__c3
+__fg|s.%-__right .__c5
+__%-__and similarly we're not going to tell them that someone talking to a computer to get travel information is meetings .__c3
+__s:s__those aren't meetings .__c3
+__b.%__but if it makes it easier for you to pu- - fold them in the same procedures and have them under the same directory tree knock yourself out .__c3
+__s__you know ?__c3
+__s__there's a couple other questions that i have too .__c1
+__s__and - and one of them is what about uh consent issues ?__c1
+__s__and the other one is what about transcription ?__c1
+__s__transcription is done in munich .__c4
+__b__are ?==__c1
+__s.%--:s.%--__okay .__c1
+__s.%--:qo.%--__so we don't have to worry about transcribing it ?__c1
+__s:s__yeah .__c4
+__s__all right .__c3
+__s__so w- - we will have to worry about format .__c5
+__qy__that's a that's - another argument to keep it separate .__cb
+__qrr.%--__because it's going to follow the smartkom transcription conventions and not the icsi meeting transcription conventions .__cb
+__s.%-__oh okay .__c5
+__s^ar__yeah .__c4
+__s__uh .__c3
+__%-__okay .__c5
+__fg__well i didn't realize that .__c5
+__s^rt__good point .__c3
+__s^df__that's - that's a ==__c5
+__s^2__good point .__c3
+__b__but i'm sure no one would have a problem with our folding it in for some acoustic modeling or - or some things .__c3
+__b__um .__c3
+__s__do we h- - do we have uh um american born folk uh reading german - german uh pla- - uh place names and so forth ?__c3
+__s^cs__yeah .__c4
+__s^cs^e__is that ?==__c3
+__fh|s__exactly .__cb
+__s__yep .__c5
+__s^aa__yeah .__c4
+__qw__yeah great .__c3
+__b.%__yeah .__cb
+__s__they - they even have a reading list .__c5
+__s__i bet that sounds good .__c1
+__s^bk__it's pretty funny .__c5
+__s^ba__yeah .__c3
+__s^df__huh ?__c1
+__fh__yeah .__cb
+__s__you can do that if you want .__c4
+__s__yeah .__c3
+__b__okay .__c1
+__s__yeah .__cb
+__s__i don't know if you want that .__c1
+__b__right .__c3
+__%-__so ==__c5
+__s.%--__huh .__c0
+__s^ba__heidelberg .__c3
+__b__exactly .__cb
+__b__disk might eventually be an issue so we might - we - we might need to uh get some more disk pretty soon .__c5
+__b__do you want to be a subject ?__cb
+__s^df__yeah i be pretty good .__c3
+__s__we ==__cb
+__b__yeah .__cb
+__s^rt__we're about - we're about half - halfway through our disk right now .__c5
+__s__that was one of our concerns .__cb
+__s__yeah .__c1
+__s:s__are we only half ?__c1
+__s^ba__i thought we were more than that .__c1
+__s__we're probably a little more than that because we're using up some space that we shouldn't be on .__c5
+__fh__so | once everything gets converted over to the disks we're supposed to be using we'll be probably uh seventy five percent .__c5
+__s^df__well when i was looking for space for thilo i found one disk that had uh - i think it was nine gigs and another one had seventeen .__c1
+__s^cs__yep .__c5
+__s^cs^e__and everything else was sort of committed .__c1
+__s^e__uh .__c1
+__b__were those backed up or non backed up ?__c5
+__s__those were non backed up .__c1
+__s^bk__non back up .__c4
+__s__right .__c5
+__s^cs^df__so that's different .__c5
+__s^ar__s- ==__c1
+__s.%--__oh you're talking about backed up .__c1
+__s__i'm much more concerned about the backed up .__c5
+__s__@reject@ the non backed up .__c5
+__b__i haven't looked to see how much of that we have .__c1
+__s__yeah .__c5
+__s.%--__i- - is cheap .__c5
+__s__i mean if we need to we can buy a disk hang it off a s- - uh workstation .__c5
+__b__if it's not backed up the sysadmins don't care too much .__c5
+__s__yeah .__c3
+__s.%--__so i mean | pretty much anytime we need a disk we can get it at the rate that we're ==__c3
+__s__you can ==__cb
+__s__i shouldn't be saying this but you can just - you know since the back ups are every night you can recycle the backed up diskspace .__cb
+__b__yeah .__c5
+__s__but that's - that's - that's risky .__c5
+__fg|s.%--__yeah you really shouldn't be saying ==__c3
+__s^bk__huh .__c5
+__s__i didn't say that .__cb
+__%-__huh .__c5
+__s.%-__@reject@ yeah that's right .__c5
+__s__i didn't say that .__cb
+__s__beep that out .__c5
+__s__da- - we had allowed dave to listen to these - these uh recordings .__c3
+__s^aa__right .__cb
+__s__um - yeah .__c3
+__s.%-__i me- - and - there's been this conversation going on about getting another file server .__c3
+__s^cs__and - and we can do that .__c3
+__fh__uhhuh .__cb
+__s__we'll take the opportunity and get another big raft of - of disk i guess .__c3
+__fh__yeah .__c5
+__s.%-__well i think - i think there's an argument for having - you know you could use our old file server for - for disks that have data that is very rarely accessed .__cb
+__s__it's really the back up issue rather than the file server issue .__c5
+__s.%--__and then have a fast new file server for data that is um heavily accessed .__cb
+__b__yeah .__c5
+__s^rt__my understanding is the issue isn't really the file server .__c5
+__qy.%--__yeah .__cb
+__s.%-__we could always put more disks on .__c5
+__fg|s__yeah .__cb
+__s__it's the back- - it's the back up capaci- ==__cb
+__b__it's the back up system .__c5
+__s.%-__yeah .__cb
+__s__so ==__c5
+__%-__which is near saturation apparently .__c5
+__s^bk__so ==__c5
+__s^am__soon .__c3
+__s__i think - i think the file server could become an issue as we get a whole bunch more new compute machines .__c1
+__b__and we've got you know fifty machines trying to access data off of abbott at once .__c1
+__b__well we're all right for now .__c5
+__s.%-__because the network's so slow .__c5
+__s.%--__i mean i think - i think we've raised this before and someone said this is not a reliable way to do it .__cb
+__s__but the ==__cb
+__b__what about putting the stuff on like c - c d rom or d v d or something ?__cb
+__fg|s__yeah .__c5
+__b.%__that was me .__c5
+__s__i was the one who said it was not reliable .__c5
+__s__okay .__cb
+__s^rt__the- - they - they wear out .__c5
+__fh__oh okay .__cb
+__s^bk^m__yeah .__c5
+__s__the - the - th- ==__c5
+__s^bk__but they wear out just from sitting on the shelf ?__cb
+__s^cs__yep .__c5
+__b.%__absolutely .__c5
+__s__or from being read and read ?__cb
+__b.%__no .__c5
+__fh__read and write don't hurt them too much unless you scratch them .__c5
+__s^bu.%--__oh okay .__cb
+__s__but the r- - the write once and the read writes don't last .__c5
+__s^aa__so you don't wa- - you don't want to put ir- - un- - reproduceable data on them .__c5
+__s^e__uhhuh .__cb
+__s.%--__wear out after what amount of time ?__c1
+__fh__year or two .__c5
+__s^nd__would it be ?==__c0
+__s^m^na__year or two ?__c3
+__s^df__yep .__c5
+__s__wow !__c3
+__b__huh .__c0
+__b__but if that ==__cb
+__s__then you would think you'd hear much more clamoring about data loss .__cb
+__fh__yeah .__c4
+__s__and ==__cb
+__s__i mean yeah | all the l ==__c3
+__s^ba__i - i don't know many people who do it on c d .__c5
+__s__i mean they're - the most - fo- ==__c5
+__s^ba__l d c- - all the l d c distributions are on c d rom .__c3
+__s^bk__yeah .__c9
+__s^ng__they're on c d | but they're not - tha- - that's not the only source .__c5
+__fh__like ==__c9
+__%--__they have them on disk .__c5
+__s^aa|s__and they burn new ones every once in a while .__c5
+__s^bk__but you know we have ==__cb
+__s__but if you go - if you go k- ==__c5
+__s^cs__but we have like thirty you know from ten years ago ?__c9
+__s^bk__no .__c9
+__s^bk__we have all sorts of c d roms from a long time ago .__c3
+__qy^rt__yeah .__c9
+__s__right .__cb
+__s^aa__ten years ago .__c9
+__s^aa|s^na__yeah .__c4
+__s__well ==__c5
+__s.%--__th- - th- - okay .__c5
+__s__ninety one .__c9
+__%--__and they're still all fine .__c9
+__s__were they burned or were they pressed ?__ca
+__s__yeah .__c3
+__s__uh both .__c9
+__b__i've burned them and they're still okay .__c9
+__b__yeah .__ca
+__s__i mean usually they're ==__c9
+__s__the - the pressed ones last for- ==__c5
+__s^df__well not forever .__c5
+__s.%--__they've been finding even those degrade .__c5
+__b__oh i see .__c3
+__s__but uh | the burned ones ==__c5
+__s__i mean when i say two or three years what i'm saying is that i have had disks which are gone in a year .__c5
+__s__that's what i ==__c9
+__s__on the average it'll probably be three or four years .__c5
+__s.%-__but uh i - i - you don't want to per- - p- - have your only copy on a media that fails .__c5
+__b__huh .__cb
+__s__and they do .__c5
+__qy^rt__so how about ?==__cb
+__s^rt__um | if you have them professionally pressed y- - you know they're good for decades .__c5
+__s.%-__so - so | how about putting them on that plus like on a on - on dat or some other medium that isn't risky ?__cb
+__s__i think th- ==__c5
+__b__um ==__c5
+__b.%__we can already put them on tape .__c5
+__s__okay .__cb
+__s.%-__and the tape is hi- - is very reliable .__c5
+__s^aa|s^na__uhhuh .__cb
+__s^aa|s.%-__so the - the only issue is then if we need access to them .__c5
+__b__right .__cb
+__s:s__so that's fine f- - if we don't need access to them .__c5
+__fg|s__well if - if - if you - if they last ==__cb
+__s^rt__say they actually last like five years huh in - in the typical case .__cb
+__s^fe__and - and occasionally you might need to re create one .__cb
+__qy^d^f^g__and then you get your tape out but otherwise you don't .__cb
+__s__can't you just ?==__cb
+__s__you just put them on ==__cb
+__s__so you just archive it on the tape and then put it on c d as well ?__ca
+__s__yeah .__cb
+__b__right .__cb
+__qy^rt__oh .__c5
+__qrr__so you're just saying put them on c ds for normal access .__c5
+__s__right .__cb
+__s.%--__yeah .__ca
+__fg|s^df__yeah .__c5
+__s^ft__i mean you can do that .__c5
+__s^fw__what you ==__c1
+__s__but that's pretty annoying .__c5
+__s^bk__because the c ds are so slow .__c5
+__s__see ==__c9
+__s__yeah .__ca
+__s^aa|s__huh .__cb
+__s^bk__yeah .__c9
+__s^bd^df__what'd be nice is a system that re burned the c ds every year .__c1
+__b__h- - every time it was a going to - going to die .__c9
+__b__well i mean the c ds are - are an op- ==__c5
+__s^bd^e__well ==__c3
+__b__yeah .__c4
+__s__it's like - like dynamic ra- - d ram .__cb
+__s__just before .__c4
+__s__just before they- - be- - before it goes bad it burns them in .__c9
+__b__yeah .__c1
+__s.%--__the - the c d is an alternative to tape .__c5
+__s__yeah .__ca
+__s__icsi already has a perfectly good tape system and it's more reliable .__c5
+__s.%--__you know - | i would think ==__c3
+__s__so for archiving we'll just use tape .__c5
+__s:qy__one - one thing i don't understand is if you have the data - if - if you- - if the meeting data is put on disk exactly once then it's backed up once and the back up system should never have to bother with it uh more than once .__cb
+__s__well | regardless ==__c5
+__s__well first of all there was um a problem with the archive in that i was every once in a while doing a chmod on all the directories an- - or recursive chmod and chown .__c5
+__s__because they weren't getting set correctly every once in a while .__c5
+__s:s__uhhuh .__cb
+__s^ba__and i was just doing a minus r star not realizing that that caused it to be re backed up .__c5
+__s^bd__uhhuh .__cb
+__b__uh ==__c9
+__s^df__but normally you're correct .__c5
+__s^ar|s^ba__but even without that the back up system is becoming saturated .__c5
+__s__but - but this back up system is smart enough to figure out that something hasn't changed and doesn't need to be backed up again .__cb
+__b__sure but we still have enough changed that the nightly back ups are starting to take too long .__c5
+__fg__the b- - i think th- - the - at least the once tha- - that you put it on it would - it would kill that .__c3
+__s.%--__okay .__cb
+__s^ba__so - so then if - so - so then let's ==__cb
+__s^ar|s__it has nothing to do with the meeting .__c5
+__b__so ==__c3
+__s^e__it's just the general icsi back up system is becoming saturated .__c5
+__b.%__right .__cb
+__s__okay .__cb
+__s__right .__cb
+__s^aa__so what if we buy uh - uh what - what do they call these um high density ?==__cb
+__s^df__well why don't you have this - have a - this conversation with dave johnson tha- - rather than with me ?__c5
+__s^aa__no no .__cb
+__s__because this is maybe something that we can do without involving dave and - and putting more burden on him .__cb
+__s^bk__how about we buy uh - uh - uh - one of these high density tape drives ?__cb
+__s.%--__and we put the data actually on non backed up disks .__cb
+__b__and we do our own back up once and for all - all and then - and we don't have to bother this @reject@ up .__cb
+__b__actually you know we could do that just with the tape with - the current tape .__c5
+__b__i don't know what the- - these tapes .__cb
+__b__uh ==__cb
+__s.%--__at some point these ==__cb
+__s.%-__i don't know .__cb
+__%-__what kind of tape drive is it ?__cb
+__s:s__is it - is ?==__cb
+__b__i don't know but it's an automatic robot so it's very convenient .__c5
+__%-__wh- ==__c3
+__s__right .__cb
+__s__you just run a program to restore them .__c5
+__s^df.%-__the o- - the one that we have ?__c3
+__s^e__yeah .__c5
+__s__but it might interfere with their back up schedule .__cb
+__s^ng:s__the - i mean ==__c3
+__b.%__but ==__c9
+__b__no we have s- - we - don't we have our own ?__c3
+__s__uh .__cb
+__s__something wi- - th- - that doesn't - that isn't used by the back up gang ?__c3
+__s^bk__don't we have something downstairs ?__c3
+__s:s__well they ==__c0
+__s__what kind of tape drive ?__c1
+__s^e__just in ?==__c3
+__s:s__well ==__c5
+__s:s__yeah .__c3
+__s.%--__but ==__c5
+__s__no .__c5
+__s__but andreas's point is a good one .__c5
+__s^df__and we don't have to do anything ourselves to do that .__c5
+__s^na__right .__cb
+__s.%-__they're already right now on tape .__c5
+__%-__right ?__c5
+__s.%-__so your - your point is and i think it's a good one that we could just get more disk and put it there .__c5
+__s__huh .__cb
+__s^e__on an x h uh x - x whatever partition .__cb
+__s.%-__yeah .__c5
+__b__that's not a bad idea .__c5
+__s__yeah .__cb
+__b.%__yeah that's basically what i was going to say is that a disk is - is so cheap it's es- - essentially you know close to free .__c3
+__s^ba__so once it's on tape ==__c5
+__s__right .__cb
+__s__and the only thing that costs is the back up issue uh to first order .__c3
+__s__right .__cb
+__s^e__and we can take care of that by putting it on non back up drives and just backing it up once onto this tape .__c3
+__s.%-__uhhuh .__cb
+__s^m^na__i think that's a good idea .__c5
+__qrr__right .__cb
+__b__oh .__c3
+__b__okay .__cb
+__s__yeah .__c3
+__s__good .__c3
+__fg|s^df__it's good .__c3
+__qy__so | who's going to do these back ups ?__c9
+__qrr.%--__the people that collect it ?__c9
+__qy^bu^d^rt__uh ==__c5
+__s^aa__well i'll talk to dave and - and see what th- - how - what the best way of doing that is .__c5
+__s^bk|s__it's probably going to n- ==__c1
+__s^na__there's a little utility that will manually burn a tape for you .__c5
+__b.%__and that's probably the right way to do it .__c5
+__s__yeah and we should probably make that part of the procedure for recording the meetings .__c1
+__s:s__well s- ==__c9
+__s.%-__yep .__c5
+__fg|s__yeah .__c9
+__s:s__that's what i'm wondering .__c9
+__b__if ==__c9
+__fg__well | we're g- - we're going to automate that .__c5
+__s__okay .__c9
+__s__my intention is to do a script that'll do everything .__c5
+__s__i mean you don't have to physically put a tape in the drive ?__c9
+__s__no .__c5
+__s__or ?==__c9
+__b.%__oh okay .__c9
+__s^aa__it's all tape robot .__c5
+__s__so it's just ==__c9
+__s__so you just sit down at your computer and you type a command .__c5
+__s__oh okay .__c9
+__s^rt__yeah but then you're effectively using the resources of the back up system .__cb
+__s__or is that a different tape robot ?__cb
+__s.%--__but not at the same time .__c9
+__s__yeah .__c5
+__s__but y- - but you would be anyway .__c5
+__s__no no .__cb
+__s__right ?__c5
+__s:s__no no no .__c1
+__s^df__because ==__c5
+__b.%__see ==__cb
+__fg|s__he's saying get a whole different drive .__c1
+__b__yeah just give a dedi- ==__cb
+__qy^bu^d^rt__but there's no reason to do that .__c5
+__s^bk__well | i'm saying is @reject@ @reject@ i- - if you go to dave and - and - and ask him can i use your tape robot .__cb
+__s^aa__it - we already have it there and it - it's ==__c5
+__s^bk__he will say well that's going to screw up our back up operation .__cb
+__s^bk__no we won't .__c5
+__s__he'll say if - if that means that it's not going to be backed up standardly great .__c5
+__s.%-__he- - i - dave has - has promoted this in the past .__c3
+__s^df.%--:s.%--__so i don't think he's actually against it .__c3
+__s^bk__yeah .__c5
+__s__it's - it's definitely no problem .__c5
+__s__oh okay .__cb
+__s^ba__all right .__cb
+__b__all right .__cb
+__qo__yeah .__c3
+__b__good .__cb
+__b.%__okay .__c3
+__qy^bu^d^rt__what about if the times overlap with the normal back up time ?__c9
+__s.%-__um | it's - it's just - it's just a utility which queues up .__c5
+__s__okay .__c9
+__s__it just queues it up and - and when it's available it will copy it .__c5
+__qy^rt__yeah .__c3
+__fh__and then you can tell it to then remove it from the disk or you can you know do it a- - a few days later or whatever you want to do .__c5
+__s__after you confirm that it's really backed up .__c5
+__s^2__okay .__c9
+__s^na|s^aa__n w ==__c5
+__s.%-__you saying n w archive ?__c0
+__s__n w archive .__c5
+__%__that's what it is .__c5
+__s.%--__yep and if you did that during the day it would never make it to the nightly back ups .__c0
+__%-__okay .__c3
+__s^ba__right .__c5
+__qy__and then there wouldn't be this extra load .__c0
+__s^cs.%-__well it - if he - you have to put the data on a - on a non backed up disk to begin with .__cb
+__s__so that - so that - otherwise you don't - you ==__cb
+__s.%-__right .__c5
+__s^ba^rt__well but you can have it n w archive to - you can have uh a non backed up disk n w archived .__c0
+__%-__right .__c5
+__b__and it'll never show up on the nightly back ups .__c0
+__fh__and then it never ==__c5
+__s__right .__cb
+__b__right .__cb
+__s__right .__c5
+__fh__which i'm sure would make ever- - the sysadmins very happy .__c5
+__b__right .__cb
+__%-__yeah .__c0
+__s.%-__so i think that's a good idea .__c5
+__s__okay .__cb
+__s^ba__that's what we should do .__c5
+__%-__okay .__cb
+__s__so that means we'll probably want to convert all - all those files - filesystems to non backed up media .__c5
+__s^aa__that sounds good .__c1
+__s__yep .__c5
+__%-__yeah .__c3
+__s^no__um | another thing on the agenda said s r i recognition experiments ?__c3
+__s^co__what's that ?__c3
+__s.%--__s r i recognition ?__cb
+__s:s__oh .__cb
+__s^bd^df__that wasn't me .__c5
+__b__um well ==__cb
+__s__uh .__c3
+__s.%--__who's that ?__c3
+__s__we have lots of them .__cb
+__s__uh | i don't know .__cb
+__b__chuck do you have any - any updates ?__cb
+__s.%-__n- - i'm successfully uh increasing the error rate .__c1
+__s|qy^d^f^g__uh ==__c1
+__s^aa|s__that's good .__c5
+__s.%-__oh .__cb
+__s__huh .__ca
+__fh__lift the herve approach .__c9
+__s__yeah .__c1
+__s__so i mean i'm just playing with um the number of gaussians that we use in the - the recognizer and ==__c1
+__s.%--__well you have to sa- - you have to tell people that you're - you're doing - you're trying the tandem features .__cb
+__fh__yes | i'm using tandem features .__c1
+__fg|s__oh you are ?__c5
+__s^e__a- - and i'm still tinkering with the p l p features .__cb
+__s^e__cool .__c5
+__fh|s^e__and ==__c1
+__fg|s.%--__@reject@ ==__c5
+__fh__yeah | i got confused by the results .__c3
+__s__it sai- - because - uh the meeting before you said okay we got it down to where they're - they're within a tenth of a percent .__c3
+__b__that was on males .__c1
+__s__right .__cb
+__s__that was - that was before i tried it on the females .__cb
+__b__oh .__c3
+__b__see women are nothi- - are trouble .__cb
+__s__it's the women are the problem .__c3
+__s^bsc__okay .__c3
+__fh__right ?__cb
+__s__as we all know .__cb
+__s__so ==__cb
+__s__well let's just say that men are simple .__c9
+__s__so - so when - so i - i had - i ha- ==__cb
+__s__that was a quick response .__c5
+__s__so we had reached the point where ==__cb
+__s__i'm well rehearsed .__c9
+__s__yeah .__c3
+__b.%__we had reached the point where um on the male portion of the development set the um - or one of the development sets i should say the um the male error rate with uh icsi p l p features was pretty much identical with uh s r i features .__cb
+__s__which are m f c c .__cb
+__s__so um | then i thought oh great .__cb
+__s__i'll j- - i'll - just let's make sure everything works on the females .__cb
+__s__and the error rate - you know there was a three percent difference .__cb
+__s__oh .__c3
+__s__uhhuh .__c3
+__s__so ==__cb
+__b__is there less training data ?__c9
+__s__uh ==__cb
+__%-__i mean we don- ==__c9
+__qo^df__no actually there's more training data .__cb
+__s__this is on just digits ?__c9
+__fh__no no .__cb
+__s.%--__oh sorry .__c9
+__b__no .__c3
+__s__no .__c5
+__s^e.x__it's uh swi- ==__c5
+__fg__okay .__c9
+__s^ba__hub five .__c1
+__%-__this is on ==__c9
+__s.%-__this is hub five .__cb
+__s__oh okay .__c9
+__s^aap__hub five .__c5
+__%-__yeah .__c5
+__%-__yeah .__cb
+__s__um | and the test data is callhome and switchboard .__cb
+__s^aa__so uh - so then um ==__cb
+__s^aa__oh and plus the - the vocal tract length normalization didn't - actually made things worse .__cb
+__s__so something's really seriously wrong .__cb
+__b.%__so ==__cb
+__s^na__um ==__cb
+__s.%-__aha .__c3
+__s^bk|s__so - so ==__cb
+__s__okay .__c3
+__s^e__so | but you see now between - between the males and the females there's certainly a much bigger difference in the scaling range than there is say just within the males .__c3
+__b__and what you were using before was scaling factors that were just from the - the m- - the s r i front end .__c3
+__s__and that worked - that worked fine .__c3
+__fh__that's true .__cb
+__s__yeah .__cb
+__s__uh | but now you're looking over a larger range and it may not be so fine .__c3
+__fh__well um ==__cb
+__s__so ==__cb
+__s__i just ==__cb
+__s__d- - so the one thing that i then tried was to put in the low pass filter which we have in the ==__cb
+__s^df__so most - most hub five systems actually band limit the uh - at about uh thirty seven hundred um hertz .__cb
+__b__uhhuh .__c3
+__s:qw__although you know normally i mean the channel goes to four - four thousand .__cb
+__s.%--__right ?__cb
+__s^aa__so um ==__cb
+__s^ba__and that actually helped uh uh a little bit .__cb
+__s__uhhuh .__c3
+__s__um | and it didn't hurt on the males either .__cb
+__b__so um ==__cb
+__s__and i'm now uh trying the ==__cb
+__s^aa.x|s__oh and suddenly also the v- - the vocal tract length normalization only in the test se- - on the test data .__cb
+__b.x__so you can do vocal tract length normalization on the test data only or on both the training and the test .__cb
+__s.x__yeah .__c3
+__s__and you expect it to help a little bit if you do it only on the test and s- - more if you do it on both training and test .__cb
+__s^e__yeah .__c3
+__s__and so the - it now helps if you do it only on the test .__cb
+__s__and i'm currently retraining another set of models where it's both in the training and the test .__cb
+__s__and then we'll - we'll have hopefully even better results .__cb
+__s__so ==__cb
+__s^df__but there's ==__cb
+__s__it looks like there will still be some difference .__cb
+__s__maybe between one and two percent um for the females .__cb
+__s^aa__huh .__c3
+__s.%-__and so um | you know i'm open to suggestions .__cb
+__s.%-__and it is true that the uh that the - you know we are using the ==__cb
+__s^aa|s__uhhuh .__c5
+__s__but ==__cb
+__s__it can't be just the v t l .__cb
+__s__uhhuh .__c3
+__b__because if you don't do v t l in both systems uh you know the the females are considerably worse in the - with the p l p features .__cb
+__s__no - no .__c3
+__s^ba__i - i remember that .__c3
+__s__it's much worse .__c5
+__s^no__yeah .__c5
+__s__so there must be some - something else going on .__cb
+__b__well what's the standard ?__c9
+__s^bk|s^ba.%-__yeah so i thought the performance was actually a little better on females than males .__c9
+__s.%-__that's what i thought too .__c5
+__fh__um | that ye- - overall yes .__cb
+__qw^br.%__but on this particular development test set they're actually a little worse .__cb
+__s__but that's beside the point .__cb
+__s^df__we're looking at the discrepancy between the s r i system and the s r i system when trained with icsi features .__cb
+__s.%--__right .__c9
+__s^rt__i'm just wondering if that - if - if you have any indication of your standard features .__c9
+__b__what's - are the freq- ?==__c5
+__s^cs__you know if that's also different or in the same direction or not .__c9
+__s^bd^no__you're - this is - let me ask a q- - more basic que- ==__c3
+__s^bk__because ==__c9
+__s.%-__uhhuh .__cb
+__s^ba__i mean is this uh uh iterative baum welch training ?__c3
+__b__or is it viterbi training ?__c3
+__b__or ?==__c3
+__b__it's baum welch training .__cb
+__b.%__baum welch training .__c3
+__b.%__and how do you determine when to - to stop iterating ?__c3
+__s.%-__um ==__cb
+__s__well | actually we - we just basically do a s- - a fixed number of iterations .__cb
+__s^df.%--__huh .__c5
+__b.%__uh | in this case four .__cb
+__s^2__um | which uh - we used to do only three .__cb
+__b.%__and then we found out we can squeeze ==__cb
+__s^aa__and it was basically - we're s- - we're keeping it on the safe side .__cb
+__s^2__but you're d- ==__cb
+__s^df.%-__right .__cb
+__s__it might be that one more iteration would - would help but it's sort of ==__cb
+__s^e__you know .__cb
+__s^df.%-__or maybe - or maybe you're doing one too many .__c3
+__s.%-__i mean it's - it's ==__c3
+__s^bk__no | but with baum welch there shouldn't be an over fitting issue really .__cb
+__s.%-__@reject@ uh well there can be .__c3
+__b__sure .__c3
+__s^ar__um ==__cb
+__%-__well you can try each one on a cross validation set .__c5
+__s^ar__it d- - if you - if you remember some years ago bill byrne did a thing where he was - he was looking at that .__c3
+__%__can't you ?__c5
+__s^df__and he showed that you could get it .__c3
+__b__yeah .__cb
+__s__so ==__c3
+__b__but - but - but um ==__c3
+__b__well yeah .__cb
+__fh__we can ==__cb
+__s^na__well that's - that's the easy one to check .__cb
+__s__because we save all the intermediate models .__cb
+__s^r__yeah .__c3
+__s.%-__do you ?==__c5
+__s__and we can ==__cb
+__%-__and in each case ho- ==__c3
+__b__what ?==__c5
+__%-__um i'm sorry .__c3
+__s^aa__in each case how do you determine you know the - the usual fudge factors ?__c3
+__s__the uh the uh | language uh scaling acoustic scaling .__c3
+__fh__uh - uh ==__c3
+__s__um | i - i'm actually re optimizing them .__cb
+__s__although that hasn't shown to make a big difference .__cb
+__b.%__okay .__c3
+__b__and the pru- - the question he was asking at one point about pruning .__c3
+__fg|s.%-__uh ==__c3
+__%-__pruning ?==__cb
+__%-__remember that one ?__c3
+__s__pruning in the ?==__cb
+__s__well he was - he's - it looked like the probabil- - at one point he was looking at the probabilities he was getting out - at the likelihoods he was getting out of p l p versus mel cepstrum and they looked pretty different .__c3
+__s^bk__yeah the likelihoods were lower for the p l p .__c1
+__b__as i recall .__c3
+__b__oh .__c9
+__b__and so uh there's the question .__c3
+__s.%-__i- - you mean - did you see this in the s r i system ?__cb
+__s^bk|s.%-__uhhuh .__c1
+__s^cs__um | well the likelihoods are ==__cb
+__b.%__was just looking through the log files .__c1
+__s^aa__and ==__c1
+__s^aa__you can't directly compare them because for every set of models you compute a new normalization .__cb
+__s^fe^na^rt__and so these log probabilities they aren't directly comparable .__cb
+__s.%-__oh .__c1
+__s^aa__because you have a different normalization constants for each model you train .__cb
+__s__so ==__cb
+__s^aap__huh .__c1
+__%-__but still it's a question .__c3
+__s.%-__if you have some threshold somewhere in terms of beam search or something ?__c3
+__s.%-__well yeah .__c1
+__s^aa__or ?==__c3
+__s__that's what i was wondering .__c1
+__%__w- - yeah .__cb
+__s^aa|s__i mean ==__cb
+__s^df__uh ==__cb
+__s^m^na.%--__i mean if you have one threshold that works well because the range of your likelihoods is in this area ==__c1
+__s^e__we prune very conservatively .__cb
+__s.%-__i mean as we saw with the meeting data um we could probably tighten the pruning without really ==__cb
+__s__so we- - we basically we have a very open beam .__cb
+__s__but you're only talking about a percent or two .__c3
+__%-__yeah .__c1
+__s.%--__right ?__c3
+__s__here we're - we're saying that we- - there - gee there's this b- - uh there's this difference here .__c3
+__s.%-__and it ==__c3
+__s^df__see because i- - i- - there could be lots of things .__c3
+__b__right ?__c3
+__s__right .__cb
+__s^df^no__but - but - but - but um let's suppose just for a second that uh we've sort of taken out a lot of the - the major differences uh between the two .__c3
+__b.%__course .__cb
+__s^cs^df__uhhuh .__cb
+__s^cs^e.%-__right .__cb
+__s^nd__i mean we're already sort of using the mel scale and we're using the same style filter integration .__c3
+__s.%-__and and well we're making sure that low and high ==__c3
+__%-__actually there is - the difference in that .__cb
+__fh.%__so for the p l p features we use the triangular filter shapes .__cb
+__s__and for the - in the s r i front end we use the trapezoidal one .__cb
+__s__and what's the top frequency of each ?__c5
+__s.%--__well now it's the same .__cb
+__fh__it's thirty - thirty to seven hundred and sixty hertz .__cb
+__fh__yeah .__c5
+__s^bd^no__exp- - one's triangular one's trapezoidal .__c5
+__s.%--__so ==__c5
+__s.%-__no no .__cb
+__s^no__but ==__cb
+__s__before we - i- - i- - th- - with straight p l p it's trapezoidal also .__c3
+__qo^cs__well ==__cb
+__%__but ==__cb
+__s^2__but then we had a slight difference in the - in the scale .__c3
+__s^bk__uh so ==__c3
+__s^aa__since currently the feacalc program doesn't allow me to change the filter shape independently of the scale .__cb
+__s^am__uhhuh .__c5
+__s^bk^m__and i did the experiment on the s r i front end where i tried the - y- - where the standard used to be to use trapezoidal filters .__cb
+__s^ba__you can actually continuously vary it between the two .__cb
+__s^na__and so i wen- - i swi- - i tried the trap- - uh triangular ones .__cb
+__s^df__and it did slightly worse but it's really a small difference .__cb
+__s^aa__huh .__c5
+__s__so ==__cb
+__b__coup- - couple tenths of a percent or something .__c3
+__s__okay .__c5
+__s__yeah exactly .__cb
+__s.%-__so it's not just losing some frequency range .__c5
+__s__right .__c3
+__s.%-__so it's not ==__cb
+__s^e__i don't think the filter shape by itself will make a huge difference .__cb
+__s^df__yeah .__c3
+__s.%--__right .__c3
+__s^df__so the oth- - the other thing that ==__c3
+__s^fe__yeah .__c5
+__s^df__so f- ==__c3
+__s.%-__i- ==__c3
+__s^e__we've always viewed it anyway as the major difference between the two is actually in the smoothing .__c3
+__s.%-__uhhuh .__cb
+__s^bk|qy^bu^d^j^rt__that the - that the um p l p and - and the reason p l p has been advantageous in uh slightly noisy situations is because p l p does the smoothing at the end by an auto regressive model .__c3
+__b.%__uhhuh .__cb
+__s^no__and mel cepstrum does it by just computing the lower cepstral coefficients .__c3
+__s__uhhuh .__cb
+__s__um so um - uhhuh .__c3
+__s^aa__okay .__cb
+__s^bk__so one thing i haven't done yet is to actually do all of this with a much larger - with our full training set .__cb
+__s^cs__so right now we're using a ==__cb
+__s.%-__i don't know .__cb
+__s^aa|s^na__forty ?__cb
+__s.%-__i- - i- - it's - it's - it's a f- - training set that's about um you know by a factor of four smaller than what we use when we train the full system .__cb
+__s.%-__so some of these smoothing issues are over fitting for that matter .__cb
+__s^nd.%-__and the baum welch should be much less of a factor if you go full - whole hog .__cb
+__%-__uhhuh .__c3
+__%-__could be .__c3
+__s^df^nd|qy^d^f^g__yeah .__c3
+__s^bk__and so w- - so just um | so the strategy is to first sort of treat things with fast turnaround on a smaller training set and then when you've sort of narrowed it down you try it on a larger training set .__cb
+__%-__yeah .__c3
+__s^rt__and so we haven't done that yet .__cb
+__s__now the other que- - related question though is - is uh what's the boot models for these things ?__c3
+__s^rt.%--__th- - th- - the boot models are trained from scratch .__cb
+__b__so we compute ==__cb
+__s__um ==__cb
+__b__so we start with a um alil- - alignment that we computed with the b- - sort - of the best system we have .__cb
+__s__and - and then we train from scratch .__cb
+__s__so we com- - we do a you know w- - um we collect the - uh the observations from those alignments under each of the feature sets that - that we train .__cb
+__s^df__and then from there we do ==__cb
+__b__um ==__cb
+__s__there's a lot of ==__cb
+__s__actually - the way it works you first train a phonetically tied mixture model .__cb
+__b__um ==__cb
+__s__you do a total of ==__cb
+__s__first you do a context independent p t m model .__cb
+__s__then you switch to a context ==__cb
+__qo.%-__you do two iterations of that .__cb
+__b__then you do two iterations of - of - of context dependent phonetically tied mixtures .__cb
+__b.%__and then from that you - you do the - you - you go to a state clustered model .__cb
+__s^2__yeah .__c3
+__s.%--__and you do four iterations of that .__cb
+__b__so there's a lot of iterations overall between your original boot models and the final models .__cb
+__s^rt__i don't think that ==__cb
+__s^aa__huh .__cb
+__fh__we have never seen big differences .__cb
+__s.%--__once i thought oh i can - now i have these much better models .__cb
+__s^bk.%__i'll re generate my initial alignments .__cb
+__s^tc__then i'll get much better models at the end .__cb
+__b__made no difference whatsoever .__cb
+__s^fe__it's - i think it's - uh i- ==__cb
+__s^bk__right .__c3
+__fg__the boot models are recur- ==__cb
+__fh__well mis- - for making things better .__c3
+__s__yeah .__c3
+__s__but this for making things worse .__c3
+__s^aa__this it migh- ==__c3
+__b__th- - the thought is - is - is possible - another possible - partial cause is if the boot models used a comple- - used a different feature set that ==__c3
+__s__uhhuh .__cb
+__b__uhhuh .__cb
+__s__but there are no boot models in fact .__cb
+__b__you - you're not booting from initial models .__cb
+__s__you're booting from initial alignments .__cb
+__s.%-__which you got from a different feature set .__c3
+__s__@reject@ that's correct .__cb
+__fh__so those features look at the data differently actually .__c3
+__s__yeah but ==__cb
+__s__i mean you know they - they will find boundaries a little differently though .__c3
+__fh__you know all th- - all that sort of thing is actually slightly different .__c3
+__s__i'd expect it to be a minor effect .__c3
+__b__but - but - but | what i'm - what i'm saying is ==__cb
+__s__but ==__c3
+__s^df__so | we e- - w- - f- - w- - for a long time we had used boot alignments that had been trained with a - with the same front end but with acoustic models that were like fifteen percent worse than what we use now .__cb
+__b__uhhuh .__c3
+__fh__and with a dict- - different dictionary - with a considerably different dictionary which was much less detailed and much less well suited .__cb
+__s.%--__uhhuh .__c3
+__fh__yeah .__c3
+__s.%--__and so then we switched to new boot alignments .__cb
+__s^no__which - which now had the benefit of all these improvements that we've made over two years in the system .__cb
+__qr__right .__c3
+__s__and the result in the end was no different .__cb
+__s.%-__right .__c3
+__s^bk^m__so what i'm saying is the exact nature of these boot alignments is probably not a big factor in the quality of the final models .__cb
+__s^bk__yeah maybe not .__c3
+__s^ba__but it - it - i st- - still see it as - i mean there's - there's a history to this too .__c3
+__b__yeah .__cb
+__s^bk__but i uh i don't want to go into .__c3
+__fg|s__uhhuh .__cb
+__s.%-__but - but i - i - i th- - i think it could be the things that it - the data is being viewed in a certain way uh that - a beginning is here rather than there and so forth .__c3
+__fh__yeah .__cb
+__s^aa__right .__cb
+__s^aa__because the actual signal processing you're doing is slightly different .__c3
+__s.%--__right .__cb
+__b__but it's - it's - that's probably not it .__c3
+__s^bk__yeah .__cb
+__s__anyway | i - i - i should really reserve uh any conclusions until we've done it on the large training set um and until we've seen the results with the - with the v t l in training .__cb
+__b__so ==__cb
+__s^bk__yeah .__c3
+__s^bk__at some point you also might want to take the same thing and try it on uh some broadcast news data or something else that actually has - has some noisy - noisy components so we can see if any conclusions we come to holds across different data .__c3
+__fg|s^tc__yeah .__cb
+__s^t^tc.%--__right .__cb
+__s__uh ==__c3
+__qo__and uh with this i have to leave .__cb
+__qo^e^rt__huh !__ca
+__fh__okay .__c3
+__s.%--__so is there something quick about absinthe that you ?==__c3
+__s^df__with this said .__cb
+__s__uh | just what we were talking about before which is that i ported a blass library to absinthe .__c5
+__s__and then got - got it working with fast forward .__c5
+__fh__and got a speedup roughly proportional to the number of processors times the clock cycle .__c5
+__s^bk__oh .__cb
+__s__so that's pretty good .__c5
+__b__oh !__cb
+__fh__cool .__cb
+__qy^rt__um i'm in the process of doing it for quicknet .__c5
+__qrr.%--__but there's something going wrong .__c5
+__s^aa__and it's about half the speed that i was estimating it should be .__c5
+__s^bk__and i'm not sure why .__c5
+__s^e__uhhuh .__cb
+__s.%-__but i'll keep working on it .__c5
+__qy^rt__but the - what it means is that it's likely that for net training and forward passes we'll - absinthe will be a good machine .__c5
+__b__especially if we get a few more processors and upgrade the processors .__c5
+__%__a few more processors ?__cb
+__s^df^ng__how many are you shooting for ?__cb
+__%--__there're five now .__c5
+__s^ar|s^nd__it can hold eight .__c5
+__fh__oh okay .__cb
+__s^nd__yeah we'll just go buy them i guess .__c3
+__s^bk__and it's also five fifty megahertz and you can get a gigahertz .__c5
+__s__yeah .__cb
+__s__so ==__c5
+__s^2__can you mix t- - uh processors of different speed ?__cb
+__s.%-__i don't think so .__c5
+__s^m^na__i think we'd have to do all ==__c5
+__s^rt__okay .__cb
+__b__probably just throw away the old ones .__c3
+__s__yep .__c5
+__s^cs__and ==__c3
+__fh__thank you for the box .__c3
+__s^j__and - i'll just go buy their process .__c3
+__s__oh okay .__cb
+__s.%-__huh !__ca
+__b__maybe we can stick them in another system .__cb
+__s^aa__i don't know .__cb
+__%-__we'd have to get a - almost certainly have to get a uh netfinity server .__c5
+__s.%-__i see .__cb
+__s^df__they're pretty - pretty specialized .__c5
+__s^bk__yeah .__c3
+__s.%-__okay .__cb
+__b__okay .__c3
+__%-__is - is liz coming back do you know ?__c3
+__fh__or ?==__c3
+__s^no__i don't know .__c3
+__s^cs__yeah .__c3
+__%-__oh you don't .__c3
+__s^cs^e.%--__okay .__c3
+__s^cs__all right .__c3
+__qw^br^rt__all right .__c3
+__s^cs^r__see you .__c3
+__s^cs__um .__c3
+__s^2__all right .__c3
+__s^m^na__so ==__c3
+__s^ng__uh | they're having tea out there .__c3
+__s^m__so i guess the other thing that we were going to talk about is - is uh demo .__c3
+__%__and um | so these are the demos for the uh july uh meeting and um darpa mee- ==__c3
+__s^aa__july what ?__c5
+__%-__early july ?__c5
+__s^no__late july ?__c5
+__%-__oh i think it's july fifteenth .__c3
+__s^j.%-__sixteen to eighteen i think .__c0
+__s^2^bu^rt__is that it ?__c3
+__%-__yeah sixteenth eighteenth .__c3
+__s^aa|%-__roughly .__c0
+__s^cs__yeah .__c3
+__fh__so we talked about getting something together for that .__c3
+__s^bk__but maybe uh maybe we'll just put that off for now given that ==__c3
+__qy.%-__but i think maybe we should have a - a sub meeting .__c3
+__fg__i think uh probably uh adam and - and uh chuck and me should talk about - should get together and talk about that sometime soon .__c3
+__s^bk|s__over a cappuccino tomorrow ?__c5
+__qy.%-__yeah | something like that .__c3
+__s.%-__um uh | you know maybe - maybe we'll involve dan ellis at some - some level as well .__c3
+__fh__uhhuh .__c5
+__qrr.%--__um .__c3
+__s__okay the - the tea is - is going so uh i suggest we do uh - uh a unison .__c3
+__s__a unison digits ?__c5
+__s^bk__okay .__c0
+__s.%-__yeah .__c3
+__s__which is going to be a little hard for a couple people because we have different digits forms .__c5
+__s.%-__gets our ==__c3
+__s.%--__oops !__c4
+__s__we have a - i found a couple of old ones .__c5
+__b__huh .__ca
+__s__oh .__c3
+__fh__well | that'll be interesting .__c3
+__s__so ==__c3
+__s^e__uh ==__c3
+__s__have you done digits before ?__c5
+__b__no .__c3
+__s^df.%--__i haven't done it .__c2
+__s^df^e__okay .__c5
+__b__so uh | the idea is just to read each line with a short pause between lines .__c5
+__s^bk__all right .__c2
+__b__not between .__c5
+__s__and uh since we're in a hurry we were just going to read everyone all at once .__c5
+__s^ba__so if you sort of plug your ears and read ==__c5
+__fh__okay .__c2
+__s^bk__so first read the transcript number and then start reading the digits .__c5
+__qy^d^rt__sure .__c2
+__s^aa|s__okay ?__c5
+__s^aa__one two three .__c5
+__fh__DIGIT_TASK__c5
+__s^ba__DIGIT_TASK__c0
+__s__DIGIT_TASK__c1
+__s__DIGIT_TASK__ca
+__s.%-__DIGIT_TASK__c4
+__s^aa|s^na__DIGIT_TASK__c3
+__s^ba__DIGIT_TASK__c2
+__s^no__okay we're done .__c3
+__s^df__and ==__c5

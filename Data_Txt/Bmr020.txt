@@ -1,0 +1,1190 @@
+__z__uh so comfortable .__c1
+__z__smooth .__c9
+__z__uhhuh .__c1
+__z__good .__c1
+__z__i know that he's going to like taiwan and other places to eat .__c1
+__z__so ==__c1
+__z__on .__c4
+__z__am i on ?__c4
+__z__i think i'm on .__c4
+__z__yep yep .__c1
+__z__yeah .__c2
+__z__good good .__c4
+__z__actually ==__c2
+__z__bye .__c1
+__z__i just had one of the most frustrating meetings of my career .__c9
+__z__you a- ==__c4
+__z__it's definitely not the most frustrating meeting i've ever had .__c1
+__z__you're - you remember you're being recorded at this point .__c4
+__z__yeah .__c9
+__z__yeah .__c5
+__z__oh yeah so w- - we didn't yet specify with whom .__c1
+__z__right .__c5
+__z__but um .__c1
+__z__uh right .__c5
+__z__uh ==__c5
+__z__so that's why keith and i are going to be a little dazed for the first half m- - the meeting .__c1
+__z__huh ==__c9
+__z__yeah i'm just going to sit here .__c9
+__z__and ==__c9
+__z__right yeah i - i - i avoided that as long as i could for you guys .__c5
+__z__growl .__c9
+__z__yeah .__c9
+__z__but uh ==__c5
+__z__uhhuh .__c1
+__z__for which we thank you by the way .__c9
+__z__are very appreciative .__c1
+__z__yeah .__c1
+__z__right .__c5
+__z__i know you were - you were doing that .__c9
+__z__but anyway ==__c9
+__z__oh yeah how di- - how d- - exactly did uh that paper lead to anti lock brakes ?__c4
+__z__oh i could tell you had a rough day man !__c9
+__z__nah .__c4
+__z__what ?__c1
+__z__i love that story .__c4
+__z__yeah .__c9
+__z__it's a great story .__c9
+__z__okay .__c3
+__z__oh my goodness !__c9
+__z__oh yeah | um liz suggested we could start off by uh doing the digits all at the same time .__c3
+__z__what ?__c1
+__z__all at the same time ?__c4
+__z__i don't know if - i would get distracted and confused probably .__c4
+__z__e- ==__c5
+__z__really ?__c1
+__z__do we have to like synchronize ?__c1
+__z__well i think you're supposed to ==__c5
+__z__are you being silly ?__c9
+__z__okay we can do this .__c5
+__z__oh wait do we have t- ?==__c4
+__z__everybody's got different digits .__c5
+__z__right ?__c5
+__z__uh .__c9
+__z__yep .__c3
+__z__yeah do we have to time them at the same time or just overlapping ?==__c4
+__z__you're kidding .__c1
+__z__no .__c5
+__z__no no just - just start whenever you want .__c3
+__z__e- ==__c5
+__z__yeah the- ==__c5
+__z__and any rate ?__c1
+__z__all right .__c9
+__z__well they - they have s- - they have the close talking microphones for each of us .__c5
+__z__yeah that's true .__c1
+__z__so ==__c5
+__z__all right .__c9
+__z__yeah there's separate channels .__c5
+__s^fe^tc__yeah .__c3
+__fg__okay .__c1
+__s^t__so when i say ==__c5
+__qy^bu^d^rt^t3__just plug one ear .__c9
+__s__yeah .__c3
+__s__DIGIT_TASK__c5
+__s^co__DIGIT_TASK__c3
+__fg|s^bu__DIGIT_TASK__c4
+__fh__DIGIT_TASK__c9
+__s^aa__DIGIT_TASK__c1
+__s__DIGIT_TASK__c2
+__s.%--__okay .__c5
+__b__you lose .__c1
+__s^e__okay bye !__c9
+__fh__that was a great meeting .__c9
+__fh__right .__c5
+__s__now uh why ?__c9
+__fg|s__all right .__c4
+__fh__just to save time .__c3
+__%--__okay .__c9
+__s^bk__does matter for them .__c3
+__s^na__are we going to start all our meetings out that way from now on ?__c1
+__fh__no .__c5
+__s__oh too bad .__c1
+__qy^bu^d^rt__i kind of like it .__c1
+__s^aa__well could we ?==__c9
+__s^df__it's strangely satisfying .__c4
+__s^df__yeah it's a ritual .__c1
+__s^j^rt__are we to r- - just to make sure i know what's going on we're talking about robert's thesis proposal today ?__c4
+__s^j__is that ?==__c4
+__s^bk__we could .__c3
+__s__true ?__c4
+__fh__we are ?__c1
+__fh__we might .__c3
+__fg|s__okay .__c1
+__s^e__well you - you had s- - you said there were two things that you might want to do .__c5
+__qy^bu^d^rt__is ==__c4
+__qy^bu^d__one was rehearse your i- - i- - talk ==__c5
+__s^aa__oh yes | and that too .__c4
+__s^aa__not - not rehearse .__c3
+__s^na__i mean i have just not spent any time on it .__c3
+__%-__so i can show you what i've got get your input on it and maybe some suggestions .__c3
+__s^fe__that would be great .__c3
+__s^aa__and the same is true for the proposal .__c3
+__b__i will have time to do some revision and some additional stuff on various airplanes and trains .__c3
+__fg__so um ==__c3
+__s^fe__i don't know how much of a chance you had to actually read it .__c3
+__s.%-__i haven't looked at it .__c1
+__s__because ==__c3
+__fh__yet .__c1
+__s^df__but you could always send me comments per electronic mail .__c3
+__%-__but i will .__c1
+__%-__and they will be incorporated .__c3
+__s^aa__okay .__c1
+__s^na__um the ==__c3
+__qy^rt__it basically says well this is construal .__c3
+__h|s^nd__and then it continues to say that one could potentially build a probabilistic relational model that has some general - domain general rules ==__c3
+__s__how things are construed .__c3
+__b__and then the idea is to use ontology situation user and discourse model to instantiate elements in the classes of the probabilistic relational model to do some inferences in terms of what is being construed as what .__c3
+__qy^rt__huh .__c1
+__s^aa__in our beloved tourism domain .__c3
+__s__but with a focus on ==__c3
+__s__can i s- ==__c1
+__fh__i think i need a copy of this | yes .__c9
+__s^na__sorry .__c1
+__s^arp__huh ?__c3
+__fh__i- - is there an extra copy around ?__c9
+__s^t3__okay we can - we can - we can pass - pass my uh - we can pass my extra copy around .__c4
+__s^bk|s^aa__uh he sent it .__c1
+__b__okay | you can keep it .__c1
+__fh__alrigh- ==__c9
+__s^bk^t3__uh actually my only copy now that i think about it .__c4
+__b__okay .__c1
+__s^na__but i already read half of it .__c4
+__fg__um i don't - i uh - i don't need it .__c3
+__b__so it's okay .__c4
+__s^ba__okay .__c9
+__fg__um actually this is the - the newest version after your comments .__c3
+__s__and ==__c3
+__s^e__yeah no | i s- - i s- - i see this has got the castle in it and stuff like that .__c5
+__b__yeah .__c3
+__qw^br^d^rt__yep .__c5
+__s^r__oh maybe the version i didn't have ==__c4
+__%-__that i - mine - the w- ==__c4
+__%--__did the one you sent on the email have the ?==__c4
+__s^fe__yeah .__c5
+__s^bk__that was the most recent one ?__c4
+__s__uh yeah | i think so .__c5
+__qy^bu.%-__okay .__c4
+__s^ar__yep .__c3
+__s^bk__because i read halfway but i didn't see a castle thing .__c4
+__s__i'm changing this .__c1
+__%__just so you know .__c1
+__%__yeah .__c3
+__qy__but anyway ==__c1
+__qrr.%--__um if you would have checked your email you may have received a note from yees asking you to send me the uh up-to-d- ==__c3
+__s^ar|s__oh oh sorry .__c1
+__qrr__okay .__c1
+__s^aa__sorry .__c1
+__s__current formalism thing that you presented .__c3
+__s^bk__okay | i will .__c1
+__s__okay okay .__c1
+__s__okay .__c1
+__s.%--__but for this it doesn't matter .__c3
+__s__but uh ==__c3
+__s__we can talk about it later .__c1
+__s.%-__that's not even ready .__c1
+__fh__so um ==__c1
+__qy^rt__okay | go on t- - to uh whatever .__c1
+__s^ar__and ==__c3
+__s^nd__i'm making changes .__c1
+__fh__don't worry about that .__c1
+__b__okay uhhuh ==__c1
+__b__oh okay | sorry .__c1
+__s^j__go on .__c1
+__s^j__and any type of comment whether it's a spelling or a syntax or ==__c3
+__b__uhhuh .__c1
+__fh__there's only one s in interesting .__c9
+__b__readability ==__c3
+__fg__huh ?__c3
+__qw^rt__there's only one s in interesting on page five .__c9
+__h__interesting .__c3
+__s__anyway .__c1
+__s__and y- - uh email any time .__c1
+__s__but most usefully before ==__c1
+__fh__the twenty first i'm assuming .__c4
+__s__the twenty first ?__c1
+__fh|s^e__twenty ninth .__c3
+__s^j__no | this is the twenty first .__c5
+__fh__that's ==__c9
+__s^e__what ?__c4
+__s__today's the twenty first ?__c4
+__s^e__well better hurry up then !__c9
+__fh|s__oh man !__c4
+__s^e__the twenty ninth .__c3
+__s^e__before the twenty ninth .__c1
+__s^e__okay .__c1
+__s^e__okay .__c4
+__s__that's when i'm meeting with wolfgang wahlster to sell him this idea .__c3
+__fh__uhhuh .__c1
+__s.%--__okay .__c1
+__fh__okay .__c3
+__s__then i'm also going to present a little talk at e m l about what we have done here .__c3
+__fh|s__and so ==__c3
+__s^e__of course i'm - i'm going to start out with this slide .__c3
+__s^e__so the most relevant aspects of our stay here .__c3
+__s^e__and um ==__c3
+__fh__then i'm asking them to imagine that they're standing somewhere in heidelberg .__c3
+__s__and someone asks them in the morning - the cave forty five is a - is a well known discotheque .__c3
+__s^t3__which is certainly not open at that - that time .__c3
+__s.%-__okay .__c9
+__s__and so ==__c3
+__s^bk__they're supposed to imagine that you know do they think the person wants to go there or just know where it is .__c3
+__s__uh ==__c3
+__b__which is probably not uh the case in that discotheque example .__c3
+__b__or in the bavaria example .__c3
+__b__you just want to know where it is .__c3
+__s__and so forth .__c3
+__s^bk__so basically we can make a point that here is ontological knowledge .__c3
+__s^ba__but if it's nine - nine p m in the evening then the discotheque question would be for example one that might ask for directions instead of just location .__c3
+__fh__um and so forth and so forth .__c3
+__b__that's sort of motivating it .__c3
+__s__then what have we done so far ?__c3
+__qy^rt__we had our little bit of um - um smartkom stuff that we did .__c3
+__qrr.%--__um ==__c3
+__s__everth- ==__c3
+__s^e__oh you've got the parser done .__c9
+__b__sorry .__c9
+__s__that's the - not the construction parser .__c3
+__b__okay .__c9
+__b__that's the uh tablet based parser .__c3
+__s__easy parser .__c1
+__%-__okay .__c9
+__s^df__and ==__c3
+__b__the generation outputter .__c3
+__%-__halfway done .__c4
+__s^ng__yeah .__c4
+__fg__that's done .__c3
+__fh__huh .__c1
+__s^bk|s__you have to change those strategies .__c3
+__fg__okay .__c4
+__fg__right ?__c3
+__qr^bu^d^rt__yeah .__c4
+__s^bk__that's ten words ?__c3
+__s^bk|s__well i- - it you know ==__c4
+__s__maybe twelve .__c4
+__b__twelve okay .__c3
+__s^aa__and um and fey is doing the synthesis stuff as we speak .__c3
+__s.%-__that's all about that .__c3
+__s^df__then i'm going to talk about the data .__c3
+__s^bk__you know these things about ==__c3
+__fh__uh actually i have an example ==__c3
+__s^df__probably .__c3
+__s^bk__two s- ==__c3
+__s.%--__can you hear that ?__c3
+__s__uhhuh .__c9
+__s__or should i turn the l- - volume on ?__c3
+__s^e__i could hear it .__c1
+__b__i- - i can hear it .__c4
+__qw__i heard it .__c9
+__b__they might not hear it in the ==__c4
+__%-__well maybe they will .__c4
+__fg__i don't know .__c4
+__qy^bu^d^m^rt__this was an actual um subject ?__c1
+__s.%--__uh .__c1
+__fh|s__uhhuh .__c3
+__qy^d^rt__sounds like fey .__c9
+__s^nd__yeah .__c1
+__s.%-__but they're - they're mimicking the synthesis when they speak to the computer .__c3
+__s^bk__oh okay .__c9
+__s^no__the - you can observe that all the time .__c3
+__s^df.%-__oh really ?__c9
+__s__they're trying to match their prosody onto the machine .__c3
+__b__interesting .__c9
+__s^na__oh it's pretty slow .__c9
+__s__yeah you have to ==__c3
+__s^bk__wh- ==__c1
+__s^ba__the system breaking .__c9
+__s^aa__what is the s- ?==__c1
+__s^bk__oh !__c1
+__s__okay | and so forth and so forth .__c3
+__s^ba__um i will talk about our problems with the rephrasing .__c3
+__%--__and how we solved it .__c3
+__s__and some preliminary observations .__c3
+__b__also um ==__c3
+__s__i'm not going to put in the figures from liz .__c3
+__b__but i thought it would interesting to uh um point out that it's basically the same .__c3
+__qy^d^f^g^rt__um as in every human human telephone conversation and the human computer telephone conversation is of course quite d- - quite different from uh some first uh observations .__c3
+__s^na__then ==__c3
+__s.%-__sort of feed you back to our original problem .__c3
+__b__because uh ==__c3
+__s^bk__how to get there .__c3
+__s^bk__what actually is happening there today ?__c3
+__s__and then maybe talk about the big picture here .__c3
+__b__e- - tell a little bit - as much as i can about the n t l story .__c3
+__b__i - i wa- - i do want to um ==__c3
+__s__i'm not quite sure about this whether i should put this in .__c3
+__fg__um that you know you have these two sort of different ideas that are - or two different camps of people envisioning how language understanding works .__c3
+__s^df__and then talk a bit about the embodied and simulation approach favored here .__c3
+__s^bk__and as a prelude i'll talk about monkeys in italy .__c3
+__s__and um srini was going to send me some slides .__c3
+__s^aa|s^na__but he didn't do it .__c3
+__b__so from - but i have the paper .__c3
+__s^df.%-__i can make a resume of that .__c3
+__b__and then i stole an x schema from one of your talks i think .__c3
+__s^j__oh .__c1
+__b__i was like where'd you get that .__c1
+__s.%--__yeah that looks familiar .__c9
+__fh__okay .__c1
+__s__looks familiar .__c1
+__b__i think that's bergen chang something or the other .__c3
+__b__uh ==__c1
+__s__whatever .__c5
+__s^e__okay .__c1
+__s__um | and that's ==__c3
+__s.%--__now i'm not going to bring that .__c3
+__b__so that's basically what i have so far .__c3
+__fg__and the rest is for airplanes .__c3
+__s.%--__so x schemas then i would like to do ==__c3
+__s__talk about the construction aspect .__c3
+__s__and then at the end about our bayes net .__c3
+__b__uhhuh .__c1
+__s^ar__end of story .__c3
+__b__anything i forgot that we should mention ?__c3
+__b__oh maybe the f m r i stuff .__c3
+__s__should i mention the fact that um we're also actually started - going to start to look at people's brains in a more direct way ?__c3
+__s__you certainly can .__c5
+__fh|s.%--__i mean i- - y- - i- - you know i don't know ==__c5
+__s.%--__you might just want to like tack that on as a comment to something .__c1
+__s__right .__c5
+__s.%--__um .__c5
+__fh__future activities something ?__c3
+__qw^rt__well the time to mention it if you mention it is when you talk about mirror neurons .__c5
+__s^bk__then you should talk about the more recent stuff about the kicking .__c5
+__s__and you know the ==__c5
+__%-__yeah .__c3
+__s__yeah yeah .__c5
+__b__and - that the plan is to see to what extent the - you'll get the same phenomena with stories about this .__c5
+__s__so that ==__c5
+__s__uhhuh .__c3
+__s^aa__and that we're planning to do this .__c5
+__fg__um ==__c5
+__s__which we are .__c5
+__fh|s__so that's one thing .__c5
+__s__um ==__c5
+__s^aa__depends i mean there is a um whole language learning story .__c5
+__qy^d^f^g^rt__okay ?__c5
+__s__yeah .__c3
+__s__which ==__c5
+__s__uh actually i- - i- ==__c5
+__s__even on your five layer slide you - you've got an old one that - that leaves that off .__c5
+__fh__yeah | i - i - i do have it here .__c3
+__s__huh .__c1
+__s__yeah .__c5
+__s__um ==__c3
+__s__and of course you know the - the big picture is this bit .__c3
+__s__right .__c5
+__s__but you know it would ==__c3
+__s^ba__but i don't think i - i am capable of - of do- - pulling this off and doing justice to the matter .__c3
+__b__i mean there is interesting stuff in her- - terms of how language works .__c3
+__s.%-__so the emergentism story would be nice to be - you know it would be nice to tell people .__c3
+__s__how - what's happening there .__c3
+__s^df__plus how the uh language learning stuff works .__c3
+__b__okay so so anyway | i - i agree that's not central .__c5
+__b__but ==__c3
+__b__what you might want to do is ==__c5
+__b__uhhuh .__c1
+__fh__um ==__c5
+__s.%-__and may not .__c5
+__qw^rt__but you might want to - this is - rip off a bunch of the slides on the ==__c5
+__h|s.%-__anal- ==__c5
+__s^e__there - the - there - we've got various i- - generations of slides that show language analysis and matching to the underlying image schemas .__c5
+__s^e__and ==__c5
+__s__um | how the construction and simulation ?==__c5
+__s__that ho- - that whole th- ==__c5
+__fh__yeah | th- - that - that's c- - that comes up to the x schema slide .__c3
+__qy^bu^d^rt__okay right .__c1
+__s^ng__so basically i'm going to steal that from nancy .__c3
+__qrr^d__one of nancy's st- ==__c3
+__s^t1.%--__okay | i can give you a more recent - if you want .__c1
+__s.%--__well that might have enough .__c1
+__fh__uh i ==__c3
+__b__yeah | but i also have stuff you - trash you left over .__c3
+__s__okay .__c5
+__s.%--__your quals and your triple a i .__c3
+__s__the quals w- - the - the - the quals slides would be fine .__c5
+__b__yeah .__c1
+__qy^d^f^g__you could get it out of there or some- ==__c5
+__b__which i can even email you then .__c1
+__s__you know like there probably was a little - few changes .__c1
+__s__not a big deal .__c1
+__s^e.%-__yeah you could steal anything you want .__c1
+__qy^rt__i don't care .__c1
+__s^aa__which you've already done obviously .__c1
+__qy^rt__so ==__c1
+__h|s^aa__well i - i don't feel bad about it at all .__c3
+__qrr.%--__sorry .__c1
+__qy^d^rt__no | you shouldn't .__c1
+__s^aap__because - because you are on the uh title .__c3
+__s^aa__i mean on the - the you're - that's - see that's you .__c3
+__s^e__oh that's great that's great .__c1
+__s^2__yeah .__c5
+__s.%--__i'm glad to see propagation .__c1
+__fh__yeah .__c5
+__s.%-__huh !__c1
+__s^cc__huh ?__c3
+__s^cs__propagated ?__c3
+__s.%--__yes .__c1
+__s^aa__i mean i might even mention that this work you're doing is sort of also with the m p i in leipzig .__c3
+__%--__so ==__c3
+__s^aa__it's - it's certainly related .__c1
+__fh__um ==__c1
+__s^aa__because um e m l is building up a huge thing in leipzig .__c3
+__s^df.%-__might want to say .__c1
+__b__is it ?__c1
+__s__so it ==__c3
+__s__it's on biocomputation would ==__c3
+__b__yeah | it's different .__c5
+__s^t3__this is the uh d n a building or someth- - the double helix building .__c5
+__b__yeah .__c5
+__fg__yeah .__c3
+__s__kind of a different level of analysis .__c1
+__s__the - yeah it was - it turns out that if - if you have multiple billions of dollars y- - you can do all sorts of weird things .__c5
+__s^e__and ==__c5
+__s.%--__wait | they're building a- - building in the shape of d n a ?__c4
+__s__what ?__c1
+__s__is that what you said ?__c4
+__fh__roughly yeah .__c5
+__fh__oh oh boy .__c9
+__qy__including cr- - cross bridges .__c5
+__fh__o- ==__c1
+__qw^br^rt__and ==__c5
+__s.%-__what ?__c1
+__s^ar__that's brilliant !__c9
+__s^e^nd__oh my god !__c1
+__s^bk__hhh .__c9
+__s.%--__you d- - you really - now i- - i spent - the last time i was there i spent maybe two hours hearing this story .__c5
+__s^df__which is um ==__c5
+__s^bk__of what ?__c1
+__s.%-__y- - you definitely want to w- - don't want to waste that money on research .__c4
+__s^bd__the building .__c1
+__%--__you know ?__c4
+__qy^d__right .__c5
+__s^nd__that's horrible .__c4
+__s^ar__right .__c5
+__s.%--__well no no y- - i- - there's infinite money .__c5
+__fh__see .__c5
+__qw__you th- - you th- - you then fill it with researchers .__c5
+__b__and give them more money .__c1
+__fh__they just want a fun place for them to - to work .__c1
+__s__right .__c5
+__s__right .__c5
+__qy^d^f^g^rt__and everybody gets a trampoline in their office .__c9
+__s^bu__well the - the offices are actually a little ==__c3
+__s.%--__the ==__c3
+__s^bk__think of um ramps coming out of the double helix .__c3
+__qw^br^d^rt__and then you have these half domes glass half domes .__c3
+__s^bu^r__and the offices are in - in the glass half dome .__c3
+__s^aa__really ?__c1
+__s^e__all right | let's stop talking about this .__c9
+__b__yeah .__c5
+__s__does it exist yet ?__c1
+__s^cs^j__yeah .__c5
+__s__uh | as a model .__c3
+__%-__they are w- - now building it ?__c1
+__s.%--__huh .__c1
+__fh__but i th- ==__c3
+__s^cs^j__so yeah | i think that's - that's a good point .__c5
+__s.%--__th- - th- - that the date the uh ==__c5
+__fh__a lot of the - this is interacting with uh people in italy .__c5
+__s__but also definitely the people in leipzig .__c5
+__fh__and ==__c5
+__s__the ==__c5
+__s^e__the b- - the combination of the biology and the leipzig connection might be interesting to these guys .__c5
+__s^e__yeah .__c5
+__b__okay .__c5
+__s__okay .__c5
+__s^df__anyway | enough of that .__c5
+__s.%-__let's talk about your thesis proposal .__c5
+__s^e__yeah | if somebody has something to say .__c3
+__s.%--__yep .__c5
+__s.%--__you might want to uh double check the spellings of the authors' names on your references .__c9
+__s^fa__you had a few uh misspells in your slides there .__c9
+__s^bsc__like i believe you had jackendorf .__c9
+__s__um ==__c5
+__s^df__uh unless there's a person called jackendorf .__c9
+__s__no no no .__c5
+__s__yeah .__c9
+__s__on that one ?__c1
+__fh__but that's the only thing i noticed in there .__c9
+__s__in the presentation ?__c1
+__s^e__in the presentation .__c9
+__s^e__i'll probably - i c- - might have - i'll probably have comments for you separately .__c1
+__fh|qw^t1__not important .__c1
+__s^e__anyway ==__c1
+__s__oh in the presentation here .__c3
+__s^e__yeah | that's what he was talking about .__c1
+__s^e__yeah .__c9
+__s.%--__i was ac- - actually worried about bibtex .__c3
+__s__uh | no that's quite possible .__c3
+__s__that's copy and paste from something .__c3
+__s__so i did note- ==__c5
+__s__i- - i- - it looks like the uh metaphor didn't get in yet .__c5
+__s__uh it did .__c3
+__s__there is a reference to srini ==__c3
+__fh__well s- - reference is one thing .__c5
+__s.%--__the question is is there any place ?==__c5
+__s__oh did you put in something about ?==__c5
+__s__metonymy and metaphor here .__c1
+__s__right ?__c1
+__fh__uh the individual ==__c5
+__s.%--__we'd talked about putting in something about people had ==__c5
+__s__uh ==__c5
+__fh__oh yeah okay .__c5
+__s__good | i see where you have it .__c5
+__s^e__so the top of the second - of pa- - page two you have a sentence .__c5
+__s^e.%--__uhhuh .__c3
+__s__but what i meant is i think even before you give this to wahlster uh you should ==__c5
+__fh__unless you put it in the text .__c5
+__s.%-__and i don't think it's there yet .__c5
+__s^df__about - we talked about is the um scalability that you get by um combining the constructions with the general construal mechanism .__c5
+__s.%-__is that in there ?__c5
+__s__yeah .__c3
+__s^aa__huh um ==__c3
+__s__uh okay | so where - where is it ?__c5
+__s^df__because i'll have to take a look .__c5
+__s.%-__um | but i - i did not focus on that aspect .__c3
+__fh__but um uh ==__c3
+__s^bk__um it's just underneath uh um that reference to metaphor .__c3
+__s^ng__so it's the last paragraph .__c3
+__b__before two .__c3
+__s__so on page two ==__c3
+__b__um the main focus ==__c3
+__s^ar__uh okay .__c5
+__b__yeah .__c5
+__s^bk__but that's really ==__c3
+__fh__that's not about that .__c1
+__b__yeah .__c3
+__s^na__is it ?__c1
+__s.%--__no it - it - it s- - says it .__c5
+__s__but it doesn't say - it doesn't - it d- - it d- ==__c5
+__s__why .__c3
+__s^bk__yeah | it doesn't give the punch line .__c5
+__b__uhhuh .__c3
+__s__because let me tell the gang what i think the punch line is .__c5
+__s__because it's actually important .__c5
+__b__which is that the constructions that uh nancy and keith and friends are doing uh are in a way quite general .__c5
+__b__but cover only base cases .__c5
+__fg__and to make them apply to metaphorical cases and metonymic cases and all those things requires this additional mechanism of construal .__c5
+__s^e__and the punch line is he claimed that if you do this right you can get essentially orthogonality .__c5
+__s__that if you introduce a new construction at - at the base level it should com- - uh interact with all the metonymies and metaphors .__c5
+__s__so that all of the projections of it also should work .__c5
+__s__uhhuh .__c9
+__s__and similarly if you introduce a new metaphor it should then uh compose with all of the constructions .__c5
+__s^ba__uhhuh .__c9
+__s__yeah .__c9
+__s__and it - to the extent that that's true then - then it's a big win over anything that exists .__c5
+__%--__so does that mean instead of having tons and tons of rules in your context free grammar you just have these base constructs and then a general mechanism for coercing them ?__c4
+__fh__yeah .__c9
+__%-__uhhuh .__c5
+__s^j__so that you know for example uh in the metaphor case that you have a kind of direct idea of a source path and goal .__c5
+__s^m^na__and any metaphorical one - and abstract goals and all that sort of stuff - you can do the same grammar .__c5
+__s^bk__and it is the same grammar .__c5
+__s^ar__huh .__c4
+__s^ng__but um ==__c5
+__s.%--__the trick is that the ==__c5
+__s__the way the construction's written it requires that the object of the preposition for example be a container .__c5
+__s^bk|s.%--__well trouble isn't a container .__c5
+__s__but it gets constr- - construed as a c- - container .__c5
+__s^2__right .__c4
+__b__et cetera .__c5
+__s__so that's - that's where this um ==__c5
+__s__so with construal you don't have to have a construction for every possible thing that can fill the rule .__c4
+__qy__right .__c5
+__b__so's it's - it - it's a very big deal i- - i- - in this framework .__c5
+__s__and the thesis proposal as it stands doesn't ==__c5
+__b__um | i don't think say that as clearly as it could .__c5
+__b__no it doesn't say it at all | no .__c3
+__fh__even though one could argue what - if there are basic cases even .__c3
+__s__i mean it seems like nothing is context free .__c3
+__s^e__oh nothing is context free .__c5
+__s^bk__but there are basic cases .__c5
+__s__that is um there are physical containers .__c5
+__fg__there are physical paths .__c5
+__qy.%-__there ==__c5
+__s^nd__you know .__c5
+__s^bk__et cetera .__c5
+__s__but walked into the cafe and ordered a drink and walked into the cafe and broke his nose .__c3
+__%-__that's sort of ==__c3
+__s^e__oh it doesn't mean that they're unambiguous .__c5
+__s^aa|s__i mean a cafe can be construed as a container or it can be construed you know as - as a obstacle .__c5
+__fh__huh yeah .__c3
+__s__uhhuh .__c9
+__%--__or as some physical object .__c5
+__b__so there are multiple construals .__c5
+__s__and in fact that's part of what has to be done .__c5
+__qh^bk^rt__this is why there's this interaction between the analysis and the construal .__c5
+__b__uhhuh .__c3
+__s^aa__yep .__c3
+__qy^rt__the b- - the - the double arrow .__c5
+__fh__yep .__c3
+__%--__so uh yeah i mean it doesn't magically make ambiguity go away .__c5
+__h|s^no__no .__c3
+__b__but it does say that uh if you walked into the cafe and broke your nose then you are construing the cafe as an obstacle .__c5
+__s__uhhuh .__c3
+__b__and if that's not consistent with other things then you've got to reject that reading .__c5
+__%--__yep .__c3
+__s__you con - you conditioned me with your first sentence .__c4
+__s__and so i thought why would he walk into the cafe and then somehow break his nose .__c4
+__b__he slipped on the wet floor .__c9
+__%--__uh oh uh ==__c4
+__fh__right .__c5
+__s^e__you don't find that usage .__c3
+__s__uh - uh i checked for it in the brown national corpus .__c3
+__s^e__yeah .__c5
+__b__the walk into it never really means w- - as in walked smack ==__c3
+__s^e__but run into does .__c5
+__b__yeah | but y- - y- - if you find walked smacked into the cafe or slammed into the wall ==__c3
+__s^bk__yeah | no but run into does .__c5
+__fg__uhhuh .__c3
+__s^e__because you will find run into ==__c5
+__s__uh ==__c5
+__s^e__cars run into telephone poles all the time .__c4
+__qy^rt__well or into the cafe for that m- ==__c5
+__s^bk__you know .__c5
+__b__right .__c3
+__b__his car ran into the cafe .__c5
+__s.%--__yeah | or you can run into an old friend or run .__c3
+__s__well you can run into in that sense too .__c5
+__s__but uh ==__c5
+__b__yeah | run into might even be more impact sense than you know container sense .__c1
+__s.%--__right .__c5
+__s^bk__depends .__c9
+__s__but - like run into an old friend it probably needs its own construction .__c5
+__s__i mean uh you know george would have i'm sure some exa- - complicated ex- - reason why it really was an instance of something else .__c5
+__b__uhhuh uhhuh .__c1
+__s^e__and maybe it is .__c5
+__s^e__but um ==__c5
+__%--__there are idioms .__c5
+__fh__and my guess is that's one of them .__c5
+__b__but um - i don't know .__c5
+__s^j__all contact .__c1
+__s^j__i mean there- - there's contact that doesn't - social contact .__c1
+__s^na__whatever .__c1
+__b__i mean ==__c1
+__fh__uh ==__c5
+__s__sudden surprising contact .__c9
+__s__right ?__c9
+__s__yeah but it's - it's - it's - it's - right i- - yeah | it's more ==__c5
+__s^e__forceful .__c1
+__s^e__but of course no .__c9
+__qo^e__i- - i- - i mean it has a life of its own .__c9
+__fg__it's sort of partially inspired by the spatial ==__c9
+__s__well this is this motivated ==__c5
+__%--__but yeah .__c5
+__s__yeah .__c9
+__s__oh yeah | mo- - for sure .__c5
+__b__motivated .__c5
+__b__but then you can't parse on motivated .__c5
+__s^t3__yeah .__c9
+__s__yeah right .__c9
+__s^t3__uh ==__c5
+__b__too bad .__c1
+__s^rt__you should get a t shirt that says that .__c4
+__fh__okay .__c5
+__s__there's - there's lots of things you could make t shirts out of .__c1
+__s^df__but uh ==__c1
+__s^e__this has gotten ==__c1
+__fh__i mean wh- ==__c1
+__s^cc.%-__we don't need the words to that .__c1
+__qy^rt__pro- - probably not your marks in the kitchen today .__c3
+__s__what ?__c1
+__s^e.%--__not - not your marks .__c3
+__fh__oh no no no no no no no no no | we're not going there .__c1
+__x__okay .__c1
+__s__in other news .__c9
+__qy^bu^d^rt__okay so um ==__c5
+__s^aa__anything else you want to ask us about ?__c5
+__s^bk__the thesis proposal you got ==__c5
+__s.%-__well ==__c3
+__s.%-__we could look at a particular thing and give you feedback on it .__c5
+__s__well there - actually ==__c3
+__s__the - i- - what would have been really nice is to find an example for all of this uh from our domain .__c3
+__%--__so maybe if we w- - if we can make one up now that would be c- - incredibly helpful .__c3
+__s^bk__so w- - where it should illustrate ==__c1
+__s__okay .__c5
+__s^bk__how ==__c3
+__s^df__uh - wh- - when you say all this do you mean like i don't know the related work stuff ?__c1
+__s__as well as mappings ?__c1
+__s^e__right - right - r- ==__c5
+__fh|s.%--__w- - well we have for example a canonical use of something .__c3
+__s^2__and y- - it's you know we have some constructions .__c3
+__s^m^na__and then it's construed as something .__c3
+__s^aa__and then we - we may get the same constructions with a metaphorical use that's also relevant to the - to the domain .__c3
+__s__okay f- - let's - let's suppose you use in and on .__c5
+__qw^t1__i mean that's what you started with .__c5
+__s.%--__uhhuh .__c3
+__s__so in the bus and on the bus .__c5
+__s^cs^j__um that's actually a little tricky in english .__c5
+__%--__because to some extent they're synonyms .__c5
+__s^bk__okay .__c5
+__s^aa__i had two hours w- - with george on this .__c3
+__s^aa__okay | what did he say ?__c5
+__s__so it ==__c3
+__%--__did you ?__c1
+__s^bk__um - um ==__c3
+__fh__join the club .__c1
+__s__right oh h- - that's ==__c5
+__fh__on the bus is a m- - is a metaphorical metonymy .__c3
+__s.%--__that relates some meta- - path metaphorically .__c3
+__b__and you're on - on that path .__c3
+__s__and th- - w- - i mean it's - he - there's a platform notion .__c3
+__s^e__yeah | i - i believe all that .__c5
+__s^df__it's just ==__c5
+__s__right ?__c3
+__b__he's on the - standing on the bus waving to me .__c3
+__b__yeah .__c5
+__fh__but th- - the regular as we speak j- - johno was on the bus to new york .__c3
+__fh|s__yeah .__c5
+__s^df__yeah .__c5
+__s.%--__um uh ==__c3
+__s__he's ==__c3
+__s__that's uh ==__c3
+__s^df__what did i call it here ?__c3
+__s.%--__the transportation schema something .__c3
+__qrr^bu__yeah .__c5
+__s.%-__where you can be on the first flight on the second flight .__c3
+__s__yeah .__c5
+__s__and you can be you know on the wagon .__c3
+__fh__right so - so | that - that may or may not be what you - what you want to do .__c5
+__s__i mean you could do something much simpler .__c5
+__s^df__yeah .__c3
+__fh__like under the bus or something .__c5
+__fh__where ==__c5
+__s__but it's - it's - unfortunately this is not really something a tourist would ever say .__c3
+__s__so ==__c3
+__s__well unless he was repairing it or something .__c5
+__fh__but yeah .__c5
+__s__yeah .__c3
+__s^bk.%__but um ==__c3
+__b__uh but okay .__c5
+__qy^d^rt__so in terms of the - this ==__c3
+__s^aa__i see .__c1
+__qw^d__we had - we had - initially we'd - started discussing the out of film .__c3
+__s^bk^fe__right .__c5
+__%--__and there's a lot of out of analysis .__c3
+__s.%-__so um ==__c3
+__qy^d^rt__right .__c5
+__s^na.%--__could we capture that ?__c3
+__qy^rt^t1__with a different construal of ==__c3
+__s^aa__yeah | it's a little - it's ==__c1
+__s^na^r__uh - we've thought about it before uh t- - uh - to use the examples in other papers .__c1
+__s^df__and it's - it's a little complicated .__c1
+__s^bk__out of - out of film in particular .__c9
+__s__because you're like it's a state of - there's resource .__c1
+__s^bk__yeah .__c9
+__fg__right ?__c1
+__fg__and like what is film ?__c1
+__%-__the state - you know you're out of the state of having film right and somehow film is standing for the re- - the resour- - the state of having some resource is just labeled as that resource .__c1
+__s.%--__it's ==__c9
+__b__yeah i mean ==__c9
+__s.%--__i mean ==__c1
+__s^ba__but ==__c9
+__s__and plus the fact that there's also s- ==__c9
+__b__it's a little bit ==__c1
+__s.%-__i mean can you say like the film ran out ?__c9
+__s__you know .__c9
+__s^bk|s.%-__or maybe you could say something like the film is out .__c9
+__s__yeah | is film the trajector ?__c1
+__fg|s^co__so like the - the film went away from where it should be .__c9
+__s^cc__namely with you or something .__c9
+__s^bk__right ?__c9
+__s.%--__you know .__c9
+__s^aa__the - the film - the film is gone .__c9
+__s^bk__right ?__c9
+__s^bk__um ==__c9
+__b__i never really knew what was going on .__c9
+__s^rt__i mean i - i find it sort of a little bit farfetched to say that - that i'm out of film means that i have left the state of having film or something like that .__c9
+__qy^bu^d^rt__it's weird .__c1
+__s^na__that ==__c1
+__s^aa__but ==__c9
+__s^bk__uh .__c5
+__s^cs__or | having is also um associated with location .__c1
+__b__yeah yeah .__c9
+__fg__right ?__c1
+__s^bk|s__so if the film left ==__c1
+__s^bk|s__you know - state is being near film .__c1
+__s^bk__so running - running out of something is different from being out of somewhere .__c3
+__s^df__or being out of something as uh - as well .__c5
+__s.%--__so running out of it definitely has a process aspect to it .__c5
+__%--__uhhuh .__c1
+__s^bk__but that's from run | yeah .__c1
+__s^bu__uhhuh .__c9
+__s^na__so ==__c5
+__s^aa__b- - that's okay .__c5
+__s^bk__i mean - b- - but the difference ==__c5
+__s__yeah .__c1
+__s^bk__is the d- - the final state of running out of something is being out of it .__c3
+__fh__is ?==__c5
+__s^cs__yeah .__c9
+__s^aa__right .__c5
+__fg__yeah | so th- ==__c1
+__fg__you got there .__c9
+__fg|s^cc.%--__that part is fine .__c1
+__fh__you got to out of it .__c9
+__s__yeah .__c5
+__%-__yeah .__c9
+__s.%--__but uh ==__c5
+__s^bk__huh !__c9
+__s^cc__yeah so - so nob- - so no one has in - in - of the ==__c5
+__s^bk__uh ==__c5
+__s^bk__professional linguists .__c5
+__s__they haven't ==__c5
+__fh.%__uh ==__c1
+__s^bk__there was this whole thesis on out of .__c5
+__s__there was ?__c1
+__fg|s^df__well there - i thought - or there was a paper on it .__c5
+__s^m^na__who ?__c1
+__s^e__out .__c9
+__b__huh ?__c5
+__b__there was one on - on out or out of ?__c9
+__b__there was a- ==__c5
+__s^e__well it may be just out .__c5
+__s__okay .__c9
+__fh__yeah .__c5
+__s__i think there was over .__c5
+__b__but there was also a paper on out .__c5
+__b__yeah | lind- - susan lindner .__c9
+__fg__right ?__c9
+__s^ba__or something .__c5
+__s^ba.%--__oh yeah you're right yeah .__c1
+__s^ba.%-__the - the - the syrup spread out .__c9
+__s^bu__that kind of thing ?__c9
+__qy^d^g^rt__yeah | and all that sort of stuff .__c5
+__s^aa__yeah .__c1
+__s__and undoubtably there's been reams of work about it in cognitive linguistics .__c1
+__b__okay | but anyway we're not going to do that between now and next week .__c5
+__fg__but ==__c1
+__s__yeah .__c1
+__%--__yeah .__c3
+__s^cs^t^tc.%--__okay .__c5
+__s^bk__so um ==__c5
+__b__it's not one of the y- - it's more straightforward ones - forward ones to defend .__c1
+__h|qy^d^rt__so you probably don't want to use it for the purposes .__c1
+__s^e__uhhuh .__c3
+__fh__right .__c5
+__s^cs__okay .__c5
+__s__th- - these are - you're addressing like computational linguists .__c1
+__s^df__right ?__c1
+__s^e__or - are you ?__c1
+__fh__there's going to be four computational linguists .__c3
+__s.%--__okay | but more emphasis on the computational or emphasis on the linguist ?__c1
+__fh__computer- ==__c3
+__s__it's ==__c3
+__s^ba__more - there's going to be the - just four computational linguists by coincidence .__c3
+__b__but the rest is whatever biocomputing people and physicists .__c3
+__s^bu__no no no | but not for your talk .__c5
+__s^df__oh okay .__c1
+__fh|s^e__i'm- - we're worrying about the th- - the thes- ==__c5
+__s^ba__oh the thesis .__c3
+__s__it's just for one guy .__c5
+__b__oh | i meant this .__c1
+__s__that's - that's computa- - should be very computational .__c3
+__qy^d^f^g__you know like ==__c1
+__b__okay .__c1
+__s^e__yeah .__c5
+__s__and uh someth- ==__c3
+__s^bk__so i would try to - i would stay away from one that involves weird construal stuff .__c1
+__s^bk__yeah .__c9
+__s__right .__c5
+__s^ba__you know it's an obvious one .__c1
+__s^bk__totally weird stuff .__c9
+__s^bk__i mean the - the old bakery example might be nice .__c3
+__s^aa__but uh ==__c1
+__s^aa__is there a bakery around here ?__c3
+__s^na__yeah .__c9
+__fh|s__so if you c- - we really just construe it as a ==__c3
+__b__around ?__c1
+__s^bk__no | it's the bakery itself .__c3
+__s^ba__is it a building uh that you want to go to or is it something to eat that you want to buy ?__c3
+__s^aa__oh .__c1
+__s^ba__oh oh yeah yeah .__c1
+__s^aa__we've thought about that .__c1
+__s^ba__right right .__c1
+__s__and then ==__c3
+__s__nnn .__c1
+__b__no !__c1
+__s__what ?__c1
+__s__bakery can't be something you're going to eat .__c1
+__s^ba__no no | the question is d- - do you want to - do you want to construe - do you want to constr strue ==__c5
+__s__sh- ==__c9
+__s^fe__it's a speech act .__c4
+__s^bk__r- ==__c5
+__s.%--__exactly | it's because do you want to c- - do you want to view the bakery as a p- - a place that - that - i- - for example if - y- ==__c5
+__s^aa__yeah .__c1
+__s^m^na__where you can get baked goods .__c1
+__s^bu__well th- - well that's one .__c5
+__s^bk__you want to buy something .__c5
+__s__but the other is ==__c5
+__b__uh yo- - you might have smelled a smell and are just curious about whether there'd be a bakery in the neighborhood .__c5
+__s.%-__or ==__c5
+__b__uhhuh .__c9
+__s^ba__um pfff ==__c5
+__s^bk__you know you wonder how people here make their living .__c5
+__s^bk__and - there're all sorts of reasons why you might be asking about the existence of a bakery .__c5
+__b__yeah .__c9
+__s^ba__that doesn't mean i want to buy some baked goods .__c5
+__qy.%-__okay .__c1
+__s^ba__but um ==__c5
+__s^na__those are interesting examples .__c5
+__s__but it's not clear that they're mainly construal examples .__c5
+__s^bk__yeah .__c9
+__s^bk__so it's a lot of pragmatics there that ==__c1
+__s__huh .__c3
+__s.%-__there's all sorts of stuff going on .__c5
+__fh__so ==__c5
+__s^e.%--__might be beyond what you want to do .__c1
+__fh__let's - so let's think about this from the point of view of construal .__c5
+__s^e__so let's first do a ==__c5
+__s__so the metonymy thing is probably the easiest .__c5
+__s__and a- - and actually the ==__c5
+__fg__though the one you have isn't quite ==__c5
+__s.%--__you mean the s- ?==__c1
+__b__you mean the steak wants to pay ?__c1
+__s.%--__n- - no | not that one .__c5
+__%-__that's - that's a - the sort of background .__c5
+__s__this is the t- - uh page five .__c5
+__s^e__about plato and the book ?__c4
+__s^bk__no .__c5
+__s__oh .__c1
+__s__no .__c3
+__s__um ==__c1
+__s__onward .__c9
+__s__just beyond that .__c5
+__qy^d^f^g^rt__how much does it cost ?__c1
+__s__where is the castle ?__c3
+__b__yeah .__c5
+__s^e__a castle .__c9
+__b__how old is it ?__c3
+__b__how much does it cost ?__c3
+__s^na__oh .__c4
+__b__uhhuh .__c9
+__fh__to go in .__c1
+__s^bk__that's like ==__c1
+__s^df__two hundred million dollars .__c9
+__s^bk__right .__c5
+__s^na__it's not for sale .__c5
+__fg|s.%-__uh so ==__c5
+__fh__yeah | i think that's a good example actually .__c9
+__s^bk__s- ==__c3
+__s.%-__yeah | that's good .__c1
+__s^bk__u- ==__c1
+__s__but as nancy just su- - suggested it's probably ellipticus .__c3
+__s^e__ellipsis .__c1
+__s^nd__huh ==__c3
+__s^df__like it doesn't refer to thing .__c1
+__s^e__it refers to acti- - you know j- ==__c1
+__b__thing standing for activ- - most relevant activity for a tourist .__c1
+__s^t3__you could think of it that way .__c1
+__qy^bu^d^m^rt^t3__but ==__c1
+__s^aa^t3__yeah .__c5
+__fh__well shoot !__c9
+__fh__isn't that - i mean that's what ?==__c9
+__s__well i mean my argument here is - it's - it's - it's the same thing as plato's on the top shelf .__c3
+__s__figuring that out is what this is about .__c9
+__s^bk__yeah yeah | no i- - i agree .__c1
+__s.%--__i'm con- ==__c3
+__s^bk__you know th- - that you can refer to a book of plato by using plato .__c3
+__fh__yeah .__c1
+__s__and you can refer back to it .__c3
+__s^bk__no no | i - i'm agreeing that this is a good um ==__c1
+__b__and so you can - castles have - as tourist sites have admission fees .__c3
+__s^aa__so you can say where is the castle .__c3
+__qw__how much does it cost .__c3
+__s^ba^t3__um ==__c3
+__s^aa__how far is it from here .__c3
+__s^ba__uhhuh .__c9
+__s__so ==__c3
+__s^bk__you're also not referring to the width of the object or so .__c3
+__s^df__huh .__c1
+__s^df.%-__www .__c3
+__fg__uhhuh .__c1
+__s.%--__huh .__c9
+__s.%--__okay | can we think of a nice metaphorical use of where in the tourist's domain ==__c5
+__s^co^t3__um ==__c5
+__s.%--__huh .__c9
+__b__so you know it's ==__c5
+__s^na__you - you can sometimes use where f- - for when .__c5
+__s^df.%--__o- ==__c9
+__s^na^r__in the sense of you know ==__c5
+__s^ba__um ==__c5
+__s^df^na__where - wh- - where - where was um ?==__c5
+__fh__where was heidelberg um in the thirty years' war ?__c5
+__s__or something .__c5
+__fh__uh yeah .__c9
+__s^df__uhhuh .__c3
+__fh__you know or some such thing .__c5
+__s^no__um ==__c5
+__s__like what side were they on ?__c9
+__b__or ?==__c9
+__b__what ?__c1
+__b__yeah essentially yeah .__c5
+__qy^rt__okay | i was like huh .__c1
+__%--__it was here .__c1
+__qy^d^f^g__like - um ==__c1
+__qw^bu__but anyway th- - so there are - there are cases like that .__c5
+__s.%--__um ==__c5
+__s__uh .__c1
+__b__or like its developmental state or something like that .__c1
+__s^e__you could - i guess you could get that .__c1
+__b__yeah .__c5
+__s^e__um .__c5
+__s^e__um .__c1
+__s^e__i mean there's also things like - i mean s- ==__c9
+__b__um ==__c9
+__s^bk__i guess i could ask something like where can i find out about blah blah blah .__c9
+__s^e__in a sort of ==__c9
+__s__doesn't nece- - i don't necessarily have to care about the spatial location .__c9
+__s.%--__just give me a phone number .__c9
+__b__and i'll call them or something like that .__c9
+__s__yeah there certainly is that | yeah .__c5
+__b__you know where could i learn its opening hours or something .__c5
+__s__yeah .__c9
+__s^e__but that's not metaphorical .__c5
+__fh__huh .__c1
+__s^e__it's another ==__c5
+__s.%--__yeah .__c9
+__s__so we're thinking about um ==__c5
+__b__or we could also think about ==__c5
+__qy^d^f^g__uh ==__c5
+__b__well i - i - i ==__c3
+__s.%--__how about i'm in a hurry ?__c5
+__s__state .__c1
+__b__it i- - but it's a state - and the - the issue is - is that - it may be just a usage .__c5
+__s__huh .__c9
+__s__you know that it's not particularly metaphorical .__c5
+__b__i don't know .__c5
+__s__huh .__c9
+__s^df.%--__right .__c1
+__s__so you want a more exotic one - version of that .__c1
+__s^e__oh .__c9
+__s^aa__yeah yeah right .__c5
+__s^na__uh !__c5
+__s__how about ?==__c5
+__s__i'm really into ==__c1
+__b__i - i - i - you know i'm in - i'm in a state of exhaustion .__c5
+__s^no__or something like that .__c5
+__s__do you really say that ?__c1
+__b__which a tourist w- ==__c5
+__s^e__huh ?__c5
+__s.%--__would you really say that ?__c1
+__b__a st- - uh well you can certainly say um you know i'm in overload .__c5
+__s__yeah .__c9
+__s^df__tu- - stur- - tourists will often say that .__c5
+__s__i- - i'm really into art .__c4
+__b__yeah | i was going to say like ==__c1
+__s^df__uh ==__c4
+__s^df__oh you can do that ?__c5
+__b__really ?__c5
+__fh__of course that's - that - that's definitely a uh ==__c5
+__fh__fixed .__c9
+__s__a fixed expression | yeah .__c1
+__s.%--__that's a uh ==__c5
+__s^e__right | but ==__c5
+__b__there're too - there're all sorts of fixed expressions .__c1
+__fh__i don't - like uh ==__c1
+__fh__i'm out of sorts now .__c1
+__s^bk|s__right .__c5
+__s^e__like i'm in trouble .__c1
+__b__well i - when uh - just f- - u- ==__c3
+__s^bk__the data that i've looked at so far that rec- ==__c3
+__fh__yeah .__c5
+__b__i mean there's tons of cases for polysemy .__c3
+__b__right .__c5
+__b__so you know mak- - re- - making reference to buildings as institutions as containers as build- ==__c3
+__s.%--__uhhuh .__c1
+__s__right .__c5
+__s__you know whatever .__c3
+__b__um so ib- - in mus- - for example in museums you know as a building or as something where pictures hang versus you know ev- - something that puts on exhibits .__c3
+__s^bk__right | as an institution .__c5
+__s__so forth .__c3
+__s__but ==__c3
+__fh__yeah .__c5
+__s__um .__c3
+__s^am^e__why don't you want to use any of those ?__c1
+__s__huh ?__c3
+__s__so y- - you don't want to use one that's ==__c1
+__s__yeah | well ==__c3
+__s.%--__no | but this ==__c3
+__fh__that's what i have you know started doing .__c3
+__s__the castle - the - that old castle one is sort of ==__c5
+__b__metonymy polysemy .__c3
+__s^aa__i love van gogh .__c4
+__s__yeah .__c5
+__b__uh !__c5
+__fh__i want to go see the van gogh .__c1
+__b__oh geez .__c9
+__s__anyway | i'm sorry .__c1
+__s^cs__but i think the argument should be uh can be made that you know despite the fact that this is not the most met- - metaphorical domain ==__c3
+__b__because people interacting with h t i systems try to be straightforward and less lyrical ==__c3
+__s^e__yeah .__c5
+__b__construal still is uh you know completely um key in terms of finding out any of these things .__c3
+__s^e__so um ==__c3
+__b__right .__c5
+__b__so that's - that's - that's a - that's a reasonable point .__c5
+__s^rt__that it - in this domain you're going to get less metaphor and more metonymy .__c5
+__b__we uh - i - with a - i looked - with a student i looked at the entire database that we have on heidelberg for cases of metonymy .__c3
+__s^e__and polysemy and stuff like that .__c5
+__s^aa__yeah .__c5
+__s^e__hardly anything .__c3
+__s^bk__so not even in descriptions w- - did we find anything um relevant .__c3
+__fh__i have to go .__c9
+__fg__all right yeah .__c5
+__s__but okay | this is just something we'll - we'll see .__c3
+__fg__um ==__c3
+__%-__right .__c5
+__s^aa__s- - see you .__c5
+__s__and deal with .__c3
+__b__okay well | i guess if anybody has additional suggestions ==__c5
+__s__i mean maybe the where is something question as a whole you know can be construed as u- - i- - locational versus instructional request .__c3
+__s__w- ==__c5
+__fh|s.%--__yeah .__c5
+__s__so if we're not talk about the lexic- ==__c3
+__s^e__location versus what ?__c1
+__fh__instruction .__c3
+__s__instruction | oh directions yeah .__c1
+__fh__sure .__c5
+__s__yeah .__c3
+__s.%--__oh i thought that was definitely treated as an example of construal .__c1
+__s__right ?__c1
+__s__yeah | but then you're not on the lexical level .__c3
+__s__that's sort of one level higher .__c3
+__s__oh you want a lexical example .__c1
+__fh|s^e__but i don't need it .__c3
+__fh|s__well you might want both .__c5
+__fh|s.%--__uhhuh .__c3
+__fh__yeah .__c1
+__s__also it would be nice to get - ultimately to get a nice mental space example .__c3
+__s^df__we ==__c5
+__fh|s^cs__so even temporal references are ==__c3
+__s^cs__just in the spatial domain are rare .__c3
+__s^ba__but it's - it's easy to make up plausible ones .__c5
+__s.%--__you know ?__c5
+__s^no__when - when you're getting information on objects .__c3
+__fh__right .__c5
+__fh__so i mean ==__c3
+__s^ba__you know - you know where r- ==__c5
+__s__yeah .__c5
+__s__what color was this in - in - in the nain- - nineteenth century ?__c5
+__s^ng__yeah .__c3
+__s^na__what was this p- ==__c5
+__fh__instead of - wh- - what - you know - how was this painted .__c5
+__s.%--__what color was this painted ?__c5
+__s^bk__um ==__c5
+__s__was this alleyway open ?__c5
+__s__yeah | maybe we can include that also in our second uh data run .__c3
+__s__uh ==__c5
+__s^df__we c- - we can show people pictures of objects .__c3
+__s^df__and then have then ask the system about the objects .__c3
+__s^e__and engage in conversation on the history and the art and the architecture and so forth .__c3
+__fh__uhhuh .__c5
+__s__okay | so why don't we plan to give you feedback electronically .__c5
+__fg__wish you a good trip .__c5
+__s^e__all success .__c5
+__s^e__for some reason when you said feedback electronically i thought of that ==__c4
+__s^e__you ever see the simpsons where they're - like the family's got the buzzers ?__c4
+__s^cc__and they buzz each other when they don't like what the other one is saying .__c4
+__s^cc__yeah | that's the first one i think .__c1
+__fh|s__it was a very early one .__c4
+__s__the very very first one .__c1
+__s^e__i don't know if it's the first one .__c4
+__qy^d^rt__huh .__c1
+__qw^d__huh .__c1

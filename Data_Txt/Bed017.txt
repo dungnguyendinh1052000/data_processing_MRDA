@@ -1,0 +1,782 @@
+__z__@reject@ now can you give me the uh - remote t ?__c2
+__z__DIGIT_TASK__c4
+__z__okay so eva co- - uh - could you read your numbers ?__c3
+__z__go ahead and read .__c0
+__z__yeah .__c3
+__z__okay .__c0
+__z__DIGIT_TASK__c0
+__z__all right .__c2
+__z__yeah let's get started .__c3
+__z__um - | hopefully nancy will come .__c3
+__z__if not she won't .__c3
+__z__uh - | robert do you uh - have any way to turn off your uh - screensaver on there so that it's not going off every uh ?==__c1
+__z__it seems to have about at two minute ==__c1
+__z__yeah | i've - i - uh - it's not that i didn't try .__c2
+__z__okay .__c1
+__z__and um - i - i told it to stay on forever and ever but if it's not plugged in it just doesn't obey my commands .__c2
+__z__okay .__c1
+__z__it has a mind .__c2
+__z__got it .__c1
+__z__wants to conserve .__c4
+__z__but i - i just - you know - sort of keep on wiggling .__c2
+__z__yeah okay .__c1
+__z__but uh - we'll just be m- - m- - working on it at intensity so it doesn't happen .__c2
+__z__we'll see .__c2
+__z__should we plunge right into it ?__c2
+__z__yeah .__c3
+__z__so would you like to ?==__c2
+__z__i think so .__c3
+__z__so what i've tried to do here is list all the decision nodes that we have identified on this side .__c2
+__z__commented and - what they're about and sort of - the properties we may um - give them .__c2
+__z__and here are the uh - tasks to be implemented via our data collection .__c2
+__z__so all of these tasks ==__c2
+__z__the reading is out of these tasks more or less imply that the user wants to go there sometime or the other .__c2
+__z__and analogously for example here we have our eva um - intention .__c2
+__z__and these are the data tasks where w- - we can assume the person would like to enter view or just approach the thing .__c2
+__z__analogously the same on the object information .__c2
+__z__we can see that you know - we have sort of created these tasks before we came up with our decision nodes .__c2
+__z__so there's a lot of things where we have no analogous tasks and that may or may not be a problem .__c2
+__z__we can change the tasks slightly if we feel that we should have data for e- - sort of for every decision node .__c2
+__fg|s^t^tc__so - trying to im- - um - implant the intention of going to a place now going to a place later on the same tour .__c2
+__s^2__or trying to plant the intention of going sometime on the next tour or the next day or whenever .__c2
+__s^m__right right .__c3
+__s^aa__but i think that might be overdoing it a little .__c2
+__s__so - yeah .__c3
+__fh|s__so let me pop up a level .__c3
+__s^e__and uh - s- - s- - make sure that we're all oriented the same .__c3
+__s^df__so what we're going to do today is two related things .__c3
+__fh|qh^co^t__uh - | one of them is to work on the semantics of the belief net which is going to be the main inference engine for thi- - the system uh - making decisions .__c3
+__h__and decisions are going to turn out to be parameter choices for calls on other modules .__c3
+__s^rt__so f- - the natural language understanding thing is uh - we think going to only have to choose parameters but you know - a fairly large set of parameters .__c3
+__s__so to do that we need to do two things .__c3
+__fh|s__one of which is figure out what all the choices are which we've done a fair amount .__c3
+__s__then we need to figure out what influences its choices .__c3
+__s^rt__and finally we have to do some technical work on the actual belief relations and presumably estimates of the probabilities and stuff .__c3
+__s^co^rt__but we aren't going to do the probability stuff today .__c3
+__fh|s__technical stuff we'll do uh - another day .__c3
+__s__probably next week .__c3
+__s^cs__but we are going to worry about all the decisions and the things that pert- - that contribute to them .__c3
+__s^df__and we're also sort of - uh - in the same process going to work with fey on what there should be in the dialogues .__c3
+__s^df^e__so one of the s- - steps that's coming up real soon is to actually get subjects uh - in here and have them actually record like this .__c3
+__fh__uh - record dialogues more or less .__c3
+__s__and depending on what fey sort of provokes them to say we'll get information on different things .__c3
+__s^e__so ==__c3
+__s^e__well how people phrase different intentions more or less .__c2
+__fh__fo- - v- - yeah - people with the - phrase them .__c3
+__fh|s^e__huh ?__c2
+__s^rt__and so - uh - for you know - keith and people worrying about what constructions people use uh - we have some i- - we have some ways to affect that by the way the dialogues go .__c3
+__s__so what robert kindly did is to lay out a table of the kinds of uh - things that - that might come up .__c3
+__s^rt__and the kinds of decisions .__c3
+__s^ba__so the uh - uh - on the left are decision nodes and discreet values .__c3
+__fh__so if - if we're right you can get by with um - just this middle column worth of decisions .__c3
+__s:s__and it's not all that many and it's perfectly feasible technically to build belief nets that will do that .__c3
+__s^rt__and he has a handout .__c3
+__s__yeah .__c2
+__s^am__maybe it was too fast plunging in there because j- - we have two updates .__c2
+__s__yeah .__c3
+__s^am__um - you can look at this if you want .__c2
+__s^e__these are what our subject's going to have to fill out .__c2
+__s__any comments i can - can still be made and the changes will be put in correspondingly .__c2
+__s^rt^tc__m- - yes .__c4
+__fh__let me summarize in two sentences .__c2
+__%--__mainly for eva's benefit who probably has not heard about the data collection at all .__c2
+__fh|s__okay .__c0
+__s^df^rt__or have you heard about it ?__c2
+__fh__not that much .__c0
+__s__no .__c2
+__fh__you didn't ==__c0
+__s^rt__okay we were going to put this in front of people .__c2
+__s__they give us some information on themselves .__c2
+__fg__okay .__c0
+__s^aa__then - then they will read uh - a task where lots of german words are sort of thrown in between .__c2
+__s__and um - and they have to read isolated proper names .__c2
+__s^m__and these change ==__c2
+__fh__s- - i don't see a release ==__c3
+__s__no this is not the release form .__c2
+__s__this is the speaker information form .__c2
+__s^bk__got it .__c3
+__s^bu__okay fine .__c3
+__qy^d^g^rt__okay .__c3
+__s^aa__the release form is over there in that box .__c2
+__s^bk__all right fair enough .__c3
+__s__and um - and then they going to have to f- - um - um - choose from one of these tasks which are listed here .__c2
+__fh.%__they - they pick a couple .__c2
+__b__say three uh - uh - six as a matter of fact .__c2
+__s__six different things they sort of think they would do if they were in heidelberg or traveling someplace .__c2
+__qy^bu^rt__and um - | and they have a map .__c2
+__s^aa__huh .__c1
+__s^bk__like this .__c2
+__s__very sketchy simplified map .__c2
+__s__and they can take notes on that map .__c2
+__fh__and then they call this computer system that works perfectly and understands everything .__c2
+__%--__okay .__c0
+__fh|s^t__and um ==__c2
+__s__the comp- - yeah the computer system sits right in front of you .__c2
+__s^df__this is a fictional system obviously .__c1
+__fh|qy^rt__huh ?__c1
+__s^aa__that's fey .__c2
+__qy^t^tc__i've - i understand everything .__c4
+__s__and she does know everything .__c3
+__s^cs.%--__yes i do .__c4
+__h__and she has a way of making this machine talk .__c2
+__s^aa__so she can copy sentences into a window or type really fast .__c2
+__fg|s.%--__and this machine will use speech synthesis to produce that .__c2
+__s^fe__so if you ask how do i get to the castle then a m- - s- - several seconds later it'll come out of here in order to get to the castle you do ==__c2
+__qh__okay ?__c2
+__b__yeah .__c1
+__fh__and um - and then after three tasks the system breaks down .__c2
+__fh__and fey comes on the phone as a human operator .__c2
+__s__and says sorry the system broke down but let's continue .__c2
+__fh__and we sort of get the idea what people do when they s- - think they speak to a machine and what people say when they think they speak to a human or know or assume they speak to a human .__c2
+__s__okay .__c0
+__fh__huh .__c0
+__s__uhhuh .__c1
+__s^e__uhhuh .__c1
+__s__that's the data collection .__c2
+__s^df__and um - and fey has some thirty subjects lined up ?__c2
+__s__something ==__c2
+__fh__yeah .__c4
+__s__and more and more every day .__c4
+__s.%--__and um - and they're - r- - ready uh - to roll .__c2
+__s__and we're going to start tomorrow at three ?__c2
+__s__four ?__c2
+__s__one ?__c2
+__fh|s^e__tomorrow ==__c4
+__fh__well we don't know for sure .__c4
+__s__because we don't know whether that person is coming or not .__c4
+__fh__okay .__c2
+__s__but ==__c4
+__fh__around four-ish .__c2
+__s^rt__and um - we're still l- - looking for a room on the sixth floor because they stole away that conference room um - behind our backs .__c2
+__s^e^rt__but ==__c2
+__s^df__well there are these uh - uh ==__c3
+__s__oh i see we have to ==__c3
+__s^e__yeah it's tricky .__c3
+__s__we'll - let's - let - we'll do that off line okay .__c3
+__s^bc__yeah but i - i- - i- - it's happening .__c2
+__s^e__david and - and jane and - and lila are working on that as we speak .__c2
+__s.%--__okay .__c3
+__s^rt__okay .__c2
+__s^e__that was the uh - the data collection in a nutshell .__c2
+__s__and um - | i can report a - so i did this but i also tried to do this ==__c2
+__s^e__so if i click on here ==__c2
+__s__isn't this wonderful ?__c2
+__s^e__we get to the uh - uh - belief net just focusing on - on the g- - go there node .__c2
+__s^e__uh - analogously this would be sort of - the reason node and the timing node and so forth .__c2
+__s^e__uhhuh .__c1
+__fh|s__and what w- - what happened is that um - design wise i'd sort of n- - noticed that we can - we still get a lot of errors from a lot of points to one of these sub go there user go there situation nodes .__c2
+__s^df__so i came up with a couple of additional nodes here where um ==__c2
+__s__whether the user is thrifty or not and what his budget is currently like is going to result in some financial state of the user .__c2
+__fh__how much will he - is he willing to spend ?__c2
+__s__or can spend .__c2
+__fh|s__being the same at this - just the money available which may influence us whether he wants to go there .__c2
+__s.%--__if it is - you know - charging tons of dollars for admission or its going to g- - cost a lot of t- - e- ==__c2
+__s__whatever .__c2
+__fh__twenty two million to fly to international space station you know .__c2
+__s__right .__c3
+__s^df.%--__just - not all people can do that .__c2
+__s__so and this actually turned out to be pretty key because having specified sort of these uh - this - this intermediate level um - and sort of noticing that everything that happens here ==__c2
+__fh__let's go to our favorite endpoint one .__c2
+__s.%--__is again more or less we have um ==__c2
+__s^bc__then the situation nodes contributing to the - the endpoint situation node which contributes to the endpoint and so forth .__c2
+__s__um - i can now sort of draw straight lines from these to here meaning it g- - of course goes where the sub s .__c2
+__s^df__everything that comes from situation everything that comes from user goes with the sub u .__c2
+__s__and whatever we specify for the so called keith node or the discourse what comes from the um - parser construction parser um - will contribute to the d and the ontology to the sub o node .__c2
+__fh__and um - | one just s- - sort of has to watch which - also final decision node so it doesn't make sense - t- - to figure out whether he wants to enter view or approach an object if he never wants to go there in the first place .__c2
+__s__but this makes the design thing fairly simple .__c2
+__fh|s__and um - | now all w- - that's left to do then is the c p g's the conditional probabilities for the likelihood of a person having enough money actually wanting to go a place if it costs you know - this or that .__c2
+__s__and um - | okay .__c2
+__s^e__and once um - bhaskara has finished his classwork that's where we're going to end up doing .__c2
+__s.%--__you get involved in that process too .__c2
+__s__and um - | and for now uh - the - the question is how much of these decisions do we want to build in explicitly into our data collection ?__c2
+__s__so - um - | one could sort of - think of ==__c2
+__fh|s__you know we could call the z- - see or you know - people who visit the zoo .__c2
+__s^ar.%--__we could s- - call it visit the zoo tomorrow .__c2
+__qy^d^g^rt__so we have an intention of seeing something but not now - but later .__c2
+__s^ar^rt__right .__c3
+__s^df__yeah .__c3
+__s^m__yeah | so - let's s- - uh - s- - see i th- - i think that from one point of view uh - um - all these places are the same .__c3
+__qw__so that d- - d- - that um - in terms of the linguistics and stuff there may be a few different kinds of places .__c3
+__fg|s__so i th- - i- - it seems to me that we ought to decide you know - what things are k- - are actually going to matter to us .__c3
+__s__and um - | so the zoo and the university and the castle et cetera um - are all big-ish things that um - you know - have different parts to them and one of them might be fine .__c3
+__s^e__huh .__c2
+__s__huh huh .__c2
+__s^e__and ==__c3
+__fh__yeah - | the - the reason why we did it that way as a - as a reminder is uh - no person is going to do all of them .__c2
+__s^cc^rt__they're just going to select u- - um - according to their preferences .__c2
+__s__yeah yeah .__c3
+__s__uh yeah i usually visit zoos or i usually visit castles or i usually ==__c2
+__fh__and then you pick that one .__c2
+__qy^t__right | no no .__c3
+__s__but - but s- - th- - point is to - to y- - to build a system that's got everything in it that might happen you do one thing .__c3
+__s__they're redundant .__c4
+__s__t- - to build a system that um - had the most data on a relatively confined set of things you do something else .__c3
+__fh__and the speech people for example are going to do better if they - if things come up uh - repeatedly .__c3
+__fh__now of course if everybody says exactly the same thing then it's not interesting .__c3
+__qy^bu^d__so all i'm saying is i- - th- - there's - there's a kind of question of what we're trying t- - to accomplish .__c3
+__s^aa__and | i think my temptation for the data gathering would be to uh ==__c3
+__fh__you know - and each person is only going to do it once .__c3
+__s^bk__so you don't have to worry about them being bored .__c3
+__s.%--__so if - if it's one service one luxury item you know one big-ish place and so forth and so on um - then my guess is that - that the data is going to be easier to handle .__c3
+__b^rt__now of course you have this i guess possible danger that somehow there're certain constructions that people use uh - when talking about a museum that they wouldn't talk about with a university and stuff .__c3
+__h|s^cc__um - but i guess i'm - i - uh - m- - my temptation is to go for simpler .__c3
+__s^cs__you know less variation .__c3
+__fh|s__but i don't know what other people think about this in terms of ==__c3
+__fh__uh ==__c3
+__s__so i don't exactly understand ==__c1
+__fh|s^am__like - i - i - i guess we're trying to - limit the detail of our ontology or types of places that someone could go .__c1
+__s__right ?__c1
+__s__but who is it that has to care about this ?__c1
+__s__or what component of the system ?__c1
+__s^e__oh .__c3
+__fh|s^am__well | uh - th- - i think there are two places where it comes up .__c3
+__s__one is uh - in the - th- - these people who are going to take this and - and try to do speech with it .__c3
+__s__uhhuh .__c1
+__s^no__uh - lots of pronunciations of th- - of the same thing are going to give you better data than l- - you know - a few pronunciations of lots more things .__c3
+__s__okay .__c1
+__b__that's one .__c3
+__s__so we would rather just ask - uh - have a bunch of people talk about the zoo .__c1
+__s__uh - and assume that that will - that the constructions that they use there will give us everything we need to know about these sort of zoo castle whatever type things these bigger places .__c1
+__fh|s^e__bigger .__c3
+__s^e__y- - yeah | thi- - well this is a question for ==__c3
+__s__and that way you get the speech data of people saying zoo over and over again or whatever too .__c1
+__s^df__yeah .__c3
+__fh__yeah .__c3
+__s^tc__yeah .__c3
+__fh|s.%--__okay .__c1
+__s^cs__so this is a question for you .__c3
+__s^e__uhhuh .__c1
+__fh|s__and you know if we - if we do and we probably will actually try to uh - build a prototype uh ==__c3
+__s__probably we could get by with the prototype only handling a few of them anyway .__c3
+__s__so um ==__c3
+__%__yeah the- - this was sort of - these are all different sort of activities .__c2
+__s__um - but i think y- - i - i got the point and i think i like it .__c2
+__s__we can do - put them in a more hierarchical fashion .__c2
+__fh__so go to place and then give them a choice .__c2
+__%--__you know - either they're the symphony type or opera type or the tourist site guide type or the nightclub disco type person and they say yeah this is - on that go to big-ish place .__c2
+__s^cs__this is what i would do .__c2
+__s__uhhuh .__c1
+__b__and then we have the fix thing and then maybe do something the other day thing .__c2
+__fh__so - my question is ==__c2
+__s.%--__i guess to some extent we should y- - we just have to try it out and see if it works .__c2
+__qy^rt__it would be challenging in - in a sense to try to make it so - so complex that they even really should schedule or to plan it uh - a more complex thing in terms of ==__c2
+__s^aa__okay .__c2
+__fh|qy^rt__you know - they should get the feeling that there are these s- - six things they have to do .__c2
+__s^t3__and they sh- - can be done maybe in two days .__c2
+__qrr__well ==__c3
+__s__yeah .__c3
+__b__well i think th- - th- ==__c3
+__s__so they make these decisions .__c2
+__b__yeah .__c3
+__fh|s__can i go there tomorrow ?__c2
+__s:s__or you know - influences .__c2
+__b__yeah .__c3
+__fh|s__uhhuh .__c1
+__s__well i think it's easy enough to set that up if that's your expectation .__c3
+__%-__so the uh - system could say well uh - we'd like to - to set up your program for two days in heidelberg .__c3
+__qy^bu^rt__you know - let's first think about all the things you might like to do .__c3
+__s^aa__so there - th- - i- - i- - in - i mean - in - i th- - i - i'm sure that if that's what you did then they would start telling you about that and then you could get into um - various things about ordering if you wanted .__c3
+__fg|%--__uhhuh .__c2
+__s__yeah .__c2
+__s^no__yeah but i think this is part of the instructor's job .__c2
+__b__and that can be done sort of - to say okay now we've picked these six tasks .__c2
+__fh|s__now you have - you can call the system and you have two days .__c2
+__s__and th- - w- ==__c2
+__s^e__i'm sorry .__c3
+__s^bk__no | we have to help - we have to decide .__c3
+__s^e__fey will p- - carry out whatever we decide .__c3
+__fg__but we have to decide you know - what is the appropriate scenario .__c3
+__s.%-__that's what we're going to talk about t- - yeah .__c3
+__fh__yep yep .__c2
+__s__but these are two different scenarios entirely .__c5
+__s.%-__i mean one is a planner the other it kind of give you instructions on the spot .__c5
+__b__yeah | but th- - the - i don't - i'm not really interested in sort of phase planning capabilities .__c2
+__s^no__but it's more the - how do people phrase these planning requests ?__c2
+__b__so are we going to masquerade the system as this - as you said simple response system ?__c2
+__s__i have one question i get one response .__c2
+__s^e__or should we allow for a certain level of complexity ?__c2
+__b__and a- - i w- - think the data would be nicer if we get temporal references .__c2
+__fh__well so keith what do you think ?__c3
+__b__well um - | it seems that ==__c1
+__b__yeah i mean ==__c1
+__s^cc__off the top of my head it kind of seems like you would probably just want you know - richer data .__c1
+__s__more complex stuff going on .__c1
+__fh__people trying to do more complex sets of things .__c1
+__s^aa__i mean - you know - if our goal is to really sort of - be able to handle a whole bunch of different stuff then throwing harder situations at people will get them to do more linguistic more - interesting linguistic stuff .__c1
+__s^cs__but i mean - i'm i'm - not really sure .__c1
+__s^cc__uh - because i don't fully understand like what our choices are of ways to do this here yet .__c1
+__s^bk__i mean w- - we have tested this and a- - y- ==__c2
+__s^bk^rt__have you heard - listen to the f- - first two or th- ?==__c2
+__s__as a matter of fact the second person is uh - is - was faced with exactly this kind of setup .__c2
+__s^co__and ==__c2
+__s^e:qw__i started to listen to one and it was just like - um - uh - sort of depressing .__c1
+__s__i thought i'd just sort of listen to the beginning part and the person was just sort of reading off her script or something .__c1
+__b__and ==__c1
+__s^e__oh okay .__c2
+__s^e__yeah .__c3
+__qy^rt__that was the first subject .__c2
+__s^aa__yeah .__c1
+__fh__first one wasn't very good .__c3
+__s^cc^rt__yeah .__c1
+__qy^d^g^rt__yeah .__c2
+__s^aa__so um - i ==__c1
+__s^df__although ==__c4
+__qy^d^g^rt__um - | it is - already with this it got pretty - with this setup and that particular subject it got pretty complex .__c2
+__s^ng__uhhuh .__c1
+__s^df__maybe - i suggest we make some fine tuning of these get - sort of - run through ten or so subjects .__c2
+__fh|s:s__uhhuh .__c1
+__fg__and then take a breather .__c2
+__s^cs__and see whether we want to make it more complex or not depending on what - what sort of results we're getting .__c2
+__fh|s.%-__right .__c1
+__s^ba__yeah .__c1
+__s^j__it - in fact um - i am just you know - today next couple days going to start really diving into this data .__c1
+__%-__i've basically looked at one of the files .__c1
+__s^na.%-__you know - one of these ==__c1
+__s__l- - y- - y- - y- - you gave me those dozens of files .__c1
+__s^aa__and i looked at one of them which was about ten sentences found fifteen twenty different construction types that we would have to look for and so on .__c1
+__s^aa__and like - all right well let's start here .__c1
+__b__um - so i haven't really gone into the you know - looked at all of the stuff that's going on .__c1
+__s^cs^j.%--__so i don't really ==__c1
+__b__right i mean - once i start doing that i'll have more to say about this kind of thing .__c1
+__s.%--:s__okay .__c3
+__s__and y- - and always ==__c2
+__s^aa__but well th- - but you did say something important which is that um - you can probably keep yourself fairly well occupied uh - with the simple cases for quite a while .__c3
+__b__yeah .__c1
+__fh__although obviously th- - so - so that sa- - s- - does suggest that ==__c3
+__qw^j^rt__uh now i have looked at all the data and it's pre- - it's actually at least to an amateur quite redundant .__c3
+__b__that - that it was - it was very stylized and quite a lot of people said more or less the same thing .__c3
+__s^j^na__yeah yeah .__c1
+__s^aa__i um - i did sort of scan it at first and noticed that and then looked in detail at one of them .__c1
+__s^aa__yeah .__c3
+__s^ba__but yeah yeah i noticed that too .__c1
+__b__so we - we - we want to do more than that .__c3
+__fg__and with this we're getting more .__c2
+__s__okay .__c3
+__s^cs^e__no question .__c2
+__s__right .__c3
+__s^df__so ==__c3
+__s^tc__uh - w- - do we want to get going beyond more which is sort of the ?==__c2
+__fh__well okay | so let's - let's take - let's i ==__c3
+__s^ba__i think your suggestion is good which is we'll do a b- - uh - a batch .__c3
+__s__okay .__c3
+__s^e__and uh ==__c3
+__fg|s^t^tc__fey how long is it going to be till you have ten subjects ?__c3
+__s^e__couple days ?__c3
+__fg|s^ft__or thr- - f- - a- - a week ?__c3
+__fh|s__or - i don't - i don't have a feel for th- ==__c3
+__s__um - | i can - yeah i mean - i s- - i think can probably schedule ten people uh - whenever .__c4
+__s__well it's - it's up to you .__c3
+__s__i mean i j- - i - uh - e- - we don't have any huge time pressure .__c3
+__fh|s__it's just - when you have t- ==__c3
+__s__how long will it be ?__c4
+__s__um - | i - i would say maybe two weeks .__c4
+__s__yeah .__c3
+__s__oh okay .__c3
+__fh__so let's do this .__c3
+__s__let's plan next monday okay - to have a review of what we have so far .__c3
+__s__and ==__c3
+__s__this means audio but ==__c2
+__fh__huh ?__c3
+__s__no transcriptions of course .__c2
+__s__no we won't have the transcriptions .__c3
+__s__yeah .__c2
+__s^e__but what we should be able to do ==__c3
+__s__and i don't know if fey if you will have time to do this .__c3
+__s__but it would be great if you could um - not transcribe it all but pick out uh - some stuff .__c3
+__s^e__i mean we could lis- - uh - just sit here and listen to it all .__c3
+__s^e.%--__are you going to have the audio on the web site ?__c3
+__s__okay .__c3
+__s__until we reach the gigabyte thing and david johnson s- - ki- - kills me and we're - going to put it on the web site yeah .__c2
+__s^df__oh we could get ==__c3
+__s^e__i mean - you can buy another disk for two hundred dollars .__c3
+__fh__right ?__c3
+__s__i mean it's - it's not like ==__c3
+__s__okay .__c3
+__s__so we'll take care of david johnson .__c3
+__s^e__okay .__c3
+__s.%--__no he - uh - he - he has been solving all our problems or - is wonderful .__c2
+__s__take care of him .__c4
+__s__okay .__c3
+__s__so s- ==__c2
+__s.%--__all right .__c3
+__fh|s.%--__so we'll buy a disk .__c3
+__s__but anyway so um - if you - if you can think of a way to uh - point us to th- - to interesting things sort of as you're doing this or - or something .__c3
+__s^df__uh - make your - make notes or something that - that this is you know - something worth looking at .__c3
+__s^df^e__and other than that yeah i guess we'll just have to uh - listen ==__c3
+__s^df^e__although i guess it's only ten minutes each .__c3
+__s^df^e__right ?__c3
+__s^df^e__roughly .__c3
+__s:s__well | i guess .__c4
+__s__i'm not sure how long it's actually going to take .__c4
+__s^co__the reading task is a lot shorter .__c2
+__s^e:s__that was cut by fifty percent .__c2
+__fh__and the reading ==__c2
+__s__nobody's interested in that except for the speech people .__c2
+__s__right .__c3
+__s__no we don't care about that at all .__c3
+__fh|s^cs__so ==__c2
+__fh|s:qw__it's actually like five minutes dialogue .__c2
+__s:qw__i- - b- - my guess is it's going to be ten .__c3
+__s:qw__people ==__c3
+__fh|s:qw__ten minutes is long .__c2
+__s__i understand .__c3
+__fh__but people - people - you know uh ==__c3
+__fh__it feels like a long time .__c4
+__s.%--__but ==__c4
+__s^cs__yeah .__c2
+__s__yeah .__c3
+__fh|s__it feels like forever when you're doing it .__c2
+__s__but then it turns out to be three minutes and forty five seconds .__c2
+__s^e__yeah .__c3
+__s__could be .__c3
+__fh|s__yeah .__c1
+__s^cs__okay .__c3
+__s^cs__i was thinking people would you know - hesitate and whatever .__c3
+__s^rt__whatever it is we'll - we'll deal with it .__c3
+__s__yeah it's not ==__c2
+__s^cs__okay so that'll be - that'll be - um - on - on the web page .__c3
+__s__and it's fun .__c2
+__s:qw__okay .__c2
+__s__that's great .__c3
+__s__um - | but anyway - yeah so i think it's a good idea to start with the sort of relatively straight forward res- - just response system .__c3
+__s__and then if we want to uh - get them to start doing uh - multiple step planning with a whole bunch of things and then organize them .__c3
+__s__an- - um ==__c3
+__s__tell them which things are near each other .__c3
+__s__and ==__c3
+__fh|s__you know any of that stuff .__c3
+__s^e__uh - | you know - which things would you like to do tuesday morning .__c3
+__s__yeah .__c2
+__s__so yeah i - th- - that seems pretty straight forward .__c3
+__fh|s__but were you saying that ?==__c4
+__s__i need those back by the way .__c2
+__s^e__okay .__c3
+__fh__yeah .__c4
+__s__okay .__c1
+__s^df__that's for ==__c2
+__s^ba__i'm sorry | fey what ?__c3
+__s^e__that w- - maybe one thing we should do is go through this list and sort of select things that are categories and then o- - offer only one member of that category ?__c4
+__s__that's what i was suggesting for the first round yeah .__c3
+__s^rt__okay .__c4
+__s.%--__so rather than having zoo and castle ==__c1
+__s^df__and then i mean - they could be alternate versions of the same if you wanted data on different constructions .__c4
+__s__they could but i- - but i- - uh - tha- - uh- - they - c- ==__c3
+__s__yeah | but uh - but ==__c3
+__s^e__like one person gets the version with the zoo as a choice and the other person gets the ==__c4
+__s__you could ==__c3
+__s^e__but i- - but i - i - i think in the short run ==__c3
+__s__and ==__c2
+__s__no th- - the per- ==__c2
+__fh__the person don't get it .__c2
+__s^rt^tc__i mean this is why we did it because when we gave them just three tasks for w- - part a and three tasks for part b a- ==__c2
+__s__right .__c3
+__qy.%-__yeah .__c3
+__s__well no they could still choose .__c4
+__s__they just wouldn't be able to choose both zoo and say touring the castle .__c4
+__s.%--__exactly .__c2
+__b__this is limiting the choices but yeah .__c2
+__fh|s.%--__right .__c2
+__s__okay sorry .__c2
+__s__but um - i - i think this approach will very well work .__c2
+__s__but the person was able to look at it and say okay this is what i would actually do .__c2
+__b^rt__yeah .__c4
+__s__okay .__c3
+__s__yeah .__c2
+__s.%-__@reject@ okay .__c2
+__fg|s__he was vicious .__c4
+__s^2__@reject@ okay we got to - we got to disallow uh - traveling to zoos and uh - castles at the same time sort of ==__c2
+__s__i mean there - they are significantly different but ==__c4
+__b^rt__but no they're - i mean they're sort of - this is where tour becomes - you know ==__c2
+__s^bk__tourists maybe a bit different .__c2
+__s^e__yeah i guess so .__c4
+__s^bk__and um - these are just places where you - you enter um - much like here .__c2
+__s__yeah .__c3
+__s^ba__but we can uh ==__c2
+__s^ng__yeah | in fact if y- - if y- - if you use the right verb for each in common ==__c3
+__b__like at- - you know - attend a theater symphony or opera is - is a group .__c3
+__b__and tour the university castle or zoo .__c3
+__s^bu__uhhuh yeah .__c2
+__s^bu__all of these d- - do have this kind of tour um - aspect about the way you would go to them .__c3
+__s^na__and uh - | the movie theater is probably also uh - e- - is a- - attend et cetera .__c3
+__%-__attend .__c2
+__s^bk__yeah .__c2
+__fh__so it may turn out to be not so many different kinds of things .__c3
+__s^bk__huh uhhuh .__c2
+__s^cs__and then what one would expect is that - that the sentence types would - uh - their responses would tend to be grouped according to the kind of activity you would expect .__c3
+__s__uhhuh .__c1
+__b__but i mean - i- - it seem that um - there is a difference between going to see something and things like exchange money or dine out .__c5
+__s.%--__oh absolutely .__c3
+__s__yeah .__c3
+__b__uh - @reject@ function yeah .__c5
+__b^rt__yeah this is where ==__c2
+__s__yeah .__c2
+__s__th- - the function stuff is definitely different and the getting information or g- - stuff - yeah .__c2
+__s__okay .__c2
+__fh|s^cs__but this is open .__c2
+__s^e__so since people going to still pick something we- - we're not going to get any significant amount of redundancy .__c2
+__s^e__and for reasons we don't want it really in that sense .__c2
+__b__and um - we would be ultimately more interested in getting all the possible ways of people asking oh - for different things with - or with a computer .__c2
+__b^rt__and so if you can think of any other sort of high level tasks a tourist may do just always - just m- - mail them to us and we'll sneak them into the collection .__c2
+__s.%-__we're not going to do much statistical stuff with it .__c2
+__s.%--__we don't have enough .__c3
+__s__no .__c2
+__b__but it seems like since we - since we are getting towards uh - subject - uh - fifty subjects .__c2
+__s^df__and if we can keep it up um - to a - uh - sort of five four-ish per week rate we may even reach the one hundred before fey t- - takes off to chicago .__c2
+__s^bu^rt__that means that one hundred people have to be interested .__c4
+__s^aa__good luck .__c1
+__s^bk__yeah .__c4
+__s^df__well um - these are all f- - people off campus s- - from campus so far .__c3
+__fh__yeah .__c4
+__b__right ?__c3
+__s^aa^r__yeah .__c4
+__s.%--__so we - yeah we don't know how many we can get next door at the uh - shelter for example .__c3
+__s^cs__huh .__c1
+__qy^rt__uh for ten bucks probably quite a few .__c3
+__h|s^aa__yeah .__c1
+__h|s^aap__that's right .__c1
+__s^bk__yeah .__c3
+__%--__so all right so let's go - let's go back then to the - the chart with all the decisions and stuff and see how we're doing .__c3
+__s^cs__yep .__c2
+__s^e__do - do people think that you know - this is - is going to - um - cover what we need or should we be thinking about more ?__c3
+__s^df__okay | in terms of decision nodes ?__c2
+__s.%--__yep .__c3
+__b__i mean go there is - is a yes or no .__c2
+__s__right ?__c2
+__s__yep .__c3
+__s__uhhuh .__c1
+__s^e__i'm also interested in th- - in this property uh - line here .__c2
+__s^e__so if you look at - sorry look at that ==__c2
+__s__um - timing was um - i have these three .__c2
+__s__do we need a final differentiation there ?__c2
+__s^cs__now later on the same tour sometimes on the next tour ?__c2
+__s^aa__what's this idea of next tour ?__c1
+__s__i mean ==__c1
+__b__it's sort of next day .__c2
+__s__so you're doing something now and you have planned to do these three four things .__c2
+__s__uhhuh .__c1
+__s__and you can do something immediately .__c2
+__qy^d^rt__uhhuh .__c1
+__s^aa__you could sort of - tag it on to that tour .__c2
+__s^e__or okay .__c1
+__s^aa__or you can say this is something i would do s- - i want to do sometime l- - in my life basically .__c2
+__s^e__okay .__c1
+__s^aa__okay .__c1
+__b__so - so this tour is sort of just like th- - the idea of current s- - round of - of touristness or whatever .__c1
+__s^e__right .__c3
+__s__yeah .__c3
+__s^e.%-__okay .__c1
+__s.%-__yeah | probably between stops back at the hotel .__c3
+__s^aa__okay .__c1
+__s__got it .__c1
+__fg__i mean if you - if - if you wanted precise about it uh - you know ==__c3
+__fg__got it .__c1
+__s^aa__uh - and i think that's the way tourists do organize their lives .__c3
+__s^e__sure sure sure .__c1
+__b__you know okay we'll go back to the hotel and then we'll go off .__c3
+__b__and ==__c3
+__fh__okay .__c1
+__s.%-__so all tours - b- - a tour happens only within one day ?__c5
+__s^bu__yes .__c3
+__qy^d^g^rt__okay .__c1
+__s^aa__so the next tour will be tomorrow ?__c5
+__s^e__it ==__c3
+__b__right .__c3
+__b__for this .__c3
+__s__okay .__c1
+__b__just to be totally clear .__c1
+__s.%-__okay .__c1
+__qy^bu^d^rt__well my visit to prague there were some nights where i never went back to the hotel .__c2
+__s^aa__so whether that counts as a two day tour or not we'll have to think .__c2
+__fh|s__you just spend the whole time at u fleku or something .__c1
+__fh__yeah .__c5
+__s__i - w- - we will - we will not ask you more .__c3
+__s__ri- ?==__c1
+__b__right .__c4
+__s.%-__right .__c5
+__s__that's enough .__c4
+__b__i don't know .__c2
+__qy^d^rt__what is the uh - the - the english co- - uh - um - cognate if you want for sankt nimmerlandstag ?__c2
+__s^df__keine ahnung .__c1
+__s^aa__sort of we'll do it on - when you say on that d- - day it means it'll never happen .__c2
+__fg__yeah .__c3
+__s__right .__c3
+__%--__okay .__c1
+__b__do you have an expression ?__c2
+__s^df^r__probably you sh- ==__c2
+__s^df^e__not that i know of actually .__c1
+__s^bk__yeah | when hell - yep we'll do it when hell freezes over .__c2
+__b__yeah .__c3
+__s^aa__so maybe that should be another property in there .__c2
+__fh__right .__c5
+__b__never .__c4
+__s.%--__yeah .__c3
+__b__yeah .__c3
+__b__no- ==__c3
+__s^co__okay .__c2
+__s^fe__um the reason why - why do we go there in the first place ==__c2
+__s__i e uh - it's either uh - for sightseeing for meeting people for running errands or doing business .__c2
+__s^e__entertainment is a good one in there i think .__c2
+__fh__i agree .__c2
+__b__so business is supposed to uh - be sort of - it - like professional type stuff ?__c1
+__b__right ?__c1
+__s^cs__or something like that ?__c1
+__b__yep .__c2
+__fh|s__okay .__c1
+__b__um ==__c1
+__s^cc__i mean - this w- - this is uh - an old uh - johno thing .__c2
+__s^bk__he sort of had it in there .__c2
+__fh__who is the - the tour- - is the person ?__c2
+__s__so it might be a tourist .__c2
+__s^aa__it might be a business man who's using the system who wants to sort of go to some ==__c2
+__s^no.%--__uhhuh .__c1
+__s^df__yeah .__c1
+__qh__yeah or - or both .__c3
+__s__yeah .__c1
+__%-__yeah | i mean - like - for example my - my father is about to travel to prague .__c1
+__s^cs^rt__yep .__c2
+__s^df.%-__he'll be there for two weeks .__c1
+__s^aa__he is going to uh ==__c1
+__s^2__he's there to teach a course at the business school but he also is touring around .__c1
+__s^ba__and so he may have some mixture of these things .__c1
+__fh|s.%--__huh .__c3
+__b__yep .__c2
+__s.%--__sure .__c3
+__s^df__yep .__c2
+__s^df__right .__c3
+__s__he would ==__c2
+__b__what ab- - what do you have in mind in terms of um - socializing ?__c5
+__fh__what kind of activities ?==__c5
+__s^e__uh just meeting people basically .__c2
+__fh__oh ==__c5
+__qw^rt__i want to meet someone somewhere which be- - puts a very heavy constraint on the eva .__c2
+__s__you know - because then if you're meeting somebody at the town hall you're not entering it usually .__c2
+__s^e__yeah .__c1
+__qw^rt__you're just - want to approach it .__c2
+__s^cc__so - i mean - does this capture like - where do you put ?==__c1
+__s__exchange money is an errand .__c1
+__fh__right ?__c1
+__s^bk__but what about uh ?==__c1
+__b__uhhuh .__c3
+__s__yep .__c2
+__fg|qy^rt^t__so - like - go to a movie is now entertainment .__c1
+__s__dine out is ?==__c1
+__s^aa__socializing i guess .__c5
+__s.%--__no i - i ==__c3
+__s__well i don't know .__c3
+__s^bk__let - let - well we'll put it somewhere .__c3
+__fh__so i mean ==__c1
+__s^co__but - but - um ==__c3
+__s^df__right .__c1
+__s^ba^fe__i would say that if dine out is a special c- - uh ==__c3
+__s^j__if you're doing it for that purpose then it's entertainment .__c3
+__fh__yeah .__c1
+__s__and - we'll also as y- - as you'll s- - further along we'll get into business about well you're - you know - this is going over a meal time .__c3
+__s.%-__do you want to stop for a meal or pick up food or something ?__c3
+__s^j__uhhuh .__c1
+__s^ar__and that's different .__c3
+__s^df^ng__that's - that's sort of part of th- - that's not a destination reason that's sort of en passant right .__c3
+__s^df__right .__c1
+__s^aa__that goes with the energy depletion function blech .__c2
+__s__yeah .__c1
+__qy^bu^d^rt__right yeah .__c3
+__qy^bu^d^rt__okay endpoint ==__c2
+__s^e__tourist needs food badly .__c1
+__h|s.%--__right .__c3
+__s__endpoint is pretty clear .__c2
+__fh|s^e__um - | mode .__c2
+__s^df__uh - i have found three .__c2
+__s__drive there walk there uh - or be driven which means bus taxi bart .__c2
+__s__okay .__c3
+__b__yeah .__c2
+__fh__yep .__c2
+__s__obviously taxis are very different than buses .__c3
+__s__but on the other hand the system doesn't have any public transport - this - the planner system doesn't have any public transport in it yet .__c3
+__s__so this granularity would suffice i think w- - if we say the person ==__c2
+__fh__probably based on the utterance we - on the situation we can conclude ==__c2
+__s^cc__wants to drive there walk there or use some other form of transportation .__c2
+__qy^d^g^rt__h- - how much of heidelberg can you get around by public transport ?__c1
+__s^cc__i mean in terms of the interesting bits .__c1
+__s__there's lots of bits where you don't really ==__c1
+__s^e__i've only ev- - was there ten years ago for a day so i don't remember but ==__c1
+__s^bsc__huh- - well ==__c3
+__fh|s__i mean - like - the - sort of the touristy bits ==__c1
+__s__everywhere .__c2
+__s^e__is it like ?==__c1
+__fh|s__you can't get to the philosophers' way very well .__c3
+__s__but ==__c3
+__s^e__yeah .__c1
+__s^no__i mean - there are hikes that you can't get to .__c3
+__s__but ==__c3
+__s__yeah .__c2
+__s__okay .__c1
+__s^e__but i think other things you can if i remember right .__c3
+__s__so is like biking there part of like driving there ?__c0
+__s:s__yeah | um - we actually - biking should be - should be a separate point because we have a very strong bicycle planning component .__c2
+__s^e:s__or ?==__c0
+__s.%--:s__oh !__c3
+__s__so ==__c2
+__s:s__huh g- - that's good .__c4
+__s^e:s__um ==__c2
+__s^e:s__put it in .__c3
+__s:s__bicycles c- - should be in there .__c2
+__fh|s^ba:s__but ==__c2
+__s.%-__will we have bic- ?==__c2
+__s^aa__i mean is this realistic ?__c2
+__s__i mean ==__c2
+__s__yeah .__c1
+__%--__okay | we can leave it out i guess .__c3
+__s^na__yeah .__c1
+__b__we can - we can sort of uh - drive ==__c2
+__fh__i would - i would lump it with walk because hills matter .__c1
+__s.%--__yeah .__c2
+__s^bk__right ?__c1
+__fh__you know .__c1
+__s__things like that .__c1
+__s^e__yeah .__c2
+__b__okay .__c3
+__s^am__skateboards @reject@ .__c3
+__s^no__right ?__c3
+__s__right .__c5
+__s__anyway .__c3
+__s^e__scooters .__c3
+__s^e__right ?__c3
+__qy^d^g^rt__yep .__c2
+__s^aa^rt__all right .__c3
+__s^bk__okay | length is um - you want to get this over with as fast as possible .__c2
+__fh__you want to use some part of what - of the time you have .__c2
+__s__um - | they can .__c2
+__fh|s^cs__ye- ==__c3
+__s__but we should just make a decision whether we feel that they want to use some substantial or some fraction of their time .__c2
+__s__you know they want to do it so badly that they are willing to spend uh - you know - the necessary and plus time .__c2
+__b__huh .__c1
+__fh__and um ==__c2
+__fh__and y- - you know - if we feel that they want to do nothing but that thing then you know - we should point out that - to the planner that they probably want to use all the time they have .__c2
+__s__so stretch out that visit for that .__c2
+__s^e__uhhuh .__c3
+__s:qy__wow !__c1
+__s^tc__it seems like this would be really hard to guess .__c1
+__b__i mean - on the part of the system .__c1
+__fg|s__it seems like it ==__c1
+__s^ar__i mean - you're - you're talking about rather than having the user decide this you're supposed t- - we're supposed to figure it out ?__c1
+__s^bsc__w- - well ==__c3
+__b__th- - the user can always s- - say it but it's just sort of we - we hand over these parameters if we make - if we have a feeling that they are important .__c2
+__s__overrider @reject@ .__c1
+__s^aa__yeah .__c3
+__s^e.%--__uhhuh .__c1
+__s^ft__and that we can actually infer them to a significant de- - degree or we ask .__c2
+__s^e__and ==__c3
+__s__and par- - yeah and part of the system design is that if it looks to be important and you can't figure it out then you ask .__c3
+__qy^bu^d^rt__okay .__c1
+__s^ba__yeah .__c2
+__s^nd.%-__okay .__c1
+__s^aa__but hopefully you don't ask you know - a- - all these things all the time .__c3
+__b__or - uh - so y- - but there's th- - but definitely a back off position to asking .__c3
+__b__yeah .__c1
+__fg|s^ba__yeah .__c1
+__s__right .__c1
+__qy^d^g^rt__yeah .__c1
+__s^aa__and if no - no part of the system ever comes up with the idea that this could be important no planner is ever going to ask for it .__c2
+__s^bk__yeah .__c1
+__s__y- - so - and i like the idea that you know - sort of ==__c2
+__s^bk__jerry pushed this idea from the very beginning that it's part of the understanding business to sort of - make a good question of what's s- - sort of - important in this general picture what you need t- ==__c2
+__s^bk__uhhuh .__c1
+__qy^d^rt__if you want to simulate it for example what parameters would you need for the simulation ?__c2

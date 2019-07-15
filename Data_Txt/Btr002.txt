@@ -1,0 +1,1466 @@
+__z__sorry .__c1
+__z__mental - mental palm pilot .__c1
+__z__right .__c1
+__z__hence no problem .__c1
+__z__let's see .__c5
+__z__so | what ?__c5
+__z__i'm supposed to be on channel five ?__c5
+__z__her | nope .__c5
+__z__doesn't seem to be .__c5
+__z__yeah .__c5
+__z__hello i'm channel one .__c1
+__z__@@ ==__c3
+__z__what does your thing say on the back ?__c4
+__z__nnn five .__c5
+__z__testing .__c3
+__z__all right i'm five .__c5
+__z__sibilance .__c3
+__z__sibilance . three three .__c3
+__z__i am three .__c3
+__z__uh .__c1
+__z__see that matches the seat up there .__c3
+__z__yeah well i g- - guess it's coming up then or ==__c5
+__z__so ==__c3
+__z__because it's that starts counting from zero .__c3
+__z__and these start counting from one .__c3
+__z__ergo the classic off by one error .__c3
+__z__but mine is correct .__c1
+__z__is it ?__c3
+__z__no .__c4
+__z__it's one .__c1
+__z__channel one .__c1
+__z__look at the back .__c4
+__z__your mike number is what we're t- ==__c3
+__z__oh oh oh !__c1
+__z__oh .__c1
+__z__ho !__c3
+__z__so ==__c1
+__z__i've bested you again nancy .__c3
+__z__but your p- ==__c1
+__z__no but the paper's correct .__c1
+__z__the paper is correct .__c3
+__s^bk__look at the paper .__c1
+__fg|s__i didn't det- - i was saying the microphone not the paper .__c3
+__s^ft__nnn ==__c2
+__fh|s__it's n- ==__c2
+__s.%--__oh .__c1
+__s__it's always offset | yeah .__c2
+__s__okay .__c1
+__s__yes | you've bested me again .__c1
+__s^df__that's how i think of our continuing interaction .__c1
+__s^bk|s.%--__damn !__c1
+__x__foiled again !__c1
+__s^ft^t1__so | is keith showing up ?__c3
+__s^t1__he's talking with george right now .__c3
+__%-__uh is he going to get a rip - uh - rip himself away from - from that ?__c3
+__s__what ?__c2
+__s.%--__he'll probably come later .__c1
+__fh__he- - he- - he's ==__c2
+__s^rt:s__probably not is my guess .__c2
+__s:s__oh | then it's just going to be the five of us ?__c3
+__s^rt:qy^d^rt__well he - he was very affirmative in his way of saying he will be here at four .__c4
+__s^ft__yeah .__c2
+__s^bk__but you know that was before he knew about that george lecture probably .__c4
+__s^ft__right .__c2
+__%--__this - this is not - it's not bad for the project if keith is talking to george .__c2
+__s^ba__okay | so my suggestion is we just ==__c2
+__s__forge ahead .__c1
+__s^na__forge ahead | yeah .__c2
+__s^cs^rt__cool .__c4
+__s^no__are you in charge ?__c1
+__s^ba__sure .__c4
+__s^cs__um ==__c4
+__b__well i sort of had informal talks with most of you .__c4
+__s^cs__so eva just reported she's really happy about the c. b. t.'s being in the same order in the x. m. l .__c4
+__s^cs__as in the um - be- - java declaration format .__c4
+__b__yeah .__c5
+__fh__the e- ==__c5
+__s__so you don't have to do too much in the style sheet transversion .__c4
+__b__uh yeah .__c5
+__s__yeah so ==__c5
+__s.%--__the - uh java - the embedded bayes wants to take input - uh uh a bayes-net - in - in some java notation .__c4
+__s:s__and eva is using the xalan style sheet processor to convert the x. m. l that's output by the java bayes for the - into the uh e. bayes input .__c4
+__s:s__huh .__c3
+__s__actually maybe i could try like emailing the guy .__c5
+__s^aa__and see if he has any- - something already .__c5
+__b__sure .__c2
+__s^ba__huh .__c4
+__b__that'd be weird that he has both the java bayes and the embedded bayes in ==__c5
+__s^aa__yeah .__c5
+__s^rt:s^rt__but that's some sort of conversion program ?__c3
+__b__yeah .__c5
+__s^ft__and put them into different formats .__c5
+__s.%-__oh ==__c5
+__qy^bu^d^m^rt__yep | he could do that too .__c5
+__s^m^na__i think you should demand things from him .__c3
+__s__he charges so much | right ?__c2
+__s^bk^m__yeah .__c3
+__fg|qw__no i think it's a good idea that you may as well ask | sure .__c2
+__s__yeah .__c5
+__s__and um | well pretty mu- - pretty much on t- - on the top of my list i would have asked keith how the where is x.  hand parse is standing .__c4
+__b__um | but we'll skip that .__c4
+__s.%--__uh there's good news from johno .__c4
+__s^ba__the generation templates are done .__c4
+__s__so the trees for ==__c3
+__b__the x. m. l trees for the - for the gene- - for the synthesizer are written .__c3
+__s__so i just need to do the uh - write a new set of tree combining rules .__c3
+__s^rt__but i think those will be pretty similar to the old ones .__c3
+__fh__so ==__c3
+__s^am__just going to be - you know ==__c3
+__s^no__oh .__c2
+__s__you were going to send me a note about hiring ==__c2
+__fh__yes .__c4
+__s__i didn't finish the sentence .__c2
+__s:s__but he understood it .__c2
+__s:s__i know what he's talking about .__c3
+__b__okay .__c2
+__b__but nancy doesn't .__c2
+__b__hiring somebody .__c1
+__b__we - w- - um ==__c4
+__fh|s__the guy .__c3
+__s__okay so | natural language generation produces not a - just a surface string that is fed into a text to speech but a surface string with a syntax tree that's fed into a concept to speech .__c4
+__s:s__no .__c2
+__s:s^bu|qy^d^g^rt__yeah .__c1
+__s^bk__uhhuh .__c1
+__b__now and this concept to speech module has certain rules on how if you get the following syntactic structure how to map this onto prosodic rules .__c4
+__s^ba__better .__c1
+__s^bk__uhhuh .__c1
+__s^ba__sure .__c1
+__%--__uhhuh .__c1
+__s^na__and fey has foolheartedly agreed to rewrite uh the german concept- - uh syntax-to-prosody rules .__c4
+__s:s__i didn't know she spoke german .__c1
+__qy^bu^d^rt__no | she doesn't .__c4
+__s^ba__oh okay .__c1
+__s^df__but she speaks english .__c4
+__s^aa__oh | rewrite the german ones into english .__c1
+__s^aa__into english .__c4
+__s__okay got it .__c1
+__s^aa__and um | therefore the ==__c4
+__b__uh ==__c4
+__s.%--__if it's okay that we give her a couple of more hours per week then she'll do that .__c4
+__fh__okay got it .__c1
+__s^t1__what language is that written ?==__c3
+__s__i- - is that that scheme thing that you showed me ?__c3
+__s.%--__yeah .__c4
+__s:s__that's the lisp type scheme .__c4
+__s__she knows how to program in scheme .__c3
+__s:s__i hope .__c3
+__s^bk__no | i - @@ .__c4
+__s__my guess is - i - i asked for a commented version of that file .__c4
+__s^bk__if we get that then it's doable .__c4
+__s__even without getting into it even though the scheme li- - uh stuff is really well documented in the festival .__c4
+__b__well i guess if you're not used to functional programming scheme can be completely incomprehensible .__c3
+__s.%-__because there's no ==__c3
+__b__like there's lots of unnamed functions .__c3
+__b__syntax .__c2
+__b__yeah .__c2
+__s__and ==__c3
+__b__you know .__c3
+__s.%--__uhhuh .__c1
+__b__anyway it - we'll sort this out .__c2
+__b__um ==__c2
+__s^bk__but anyway send me the note .__c2
+__s^ba__and then i'll- - i'll check with uh morgan on the money .__c2
+__s__i - i don't anticipate any problem .__c2
+__s^df.%--__but we have to ask .__c2
+__fh__oh so | this was you know on the generation thing ==__c2
+__s__um ==__c2
+__s__if sh- - y- - she's really going to do that then we should be able to get prosody as well .__c2
+__s__so it'll say it's nonsense with perfect intonation .__c2
+__s__are we going to - can we change the voice of the - of the thing ?__c3
+__s^e__because right now the voice sounds like a murderer .__c3
+__s^e__yep | we ha- - we have to change the voice .__c4
+__s__wh- - which one ?__c1
+__s__the - the little smarticus .__c3
+__b__smarticus sounds like a murderer .__c3
+__s^aa__oh .__c1
+__s__that's good to know .__c0
+__b__i have your reservations .__c3
+__s__but i will not give them to you unless you come into my lair .__c0
+__s__it is - uh we have the choice between the uh usual festival voices .__c4
+__fh__which i already told the smartkom people we aren't going to use because they're really bad .__c4
+__s__festival ?__c1
+__s__it's the name of some program .__c2
+__b__the - the synthesizer .__c2
+__s^df.%--__oh oh got it okay .__c1
+__b__but um ==__c4
+__s__you know the usual party voices .__c0
+__s__yeah | i know .__c1
+__b__that doesn't sound exactly right either .__c1
+__fh__o. g. i has uh crafted a couple of diphone type voices that are really nice .__c4
+__s^bk|s__and we're going to use that .__c4
+__s__we can still um d- - agree on a gender if we want .__c4
+__fh__so we still have male or female .__c4
+__b__i think ==__c1
+__qy.%-__well let's just pick whatever sounds best .__c1
+__s__huh ?__c4
+__s^rt:s__whatever sounds best .__c1
+__b__uh ==__c4
+__s__does o. g. i stand for - original german institute ?__c3
+__b__unfortunately probably male voices a bit more research on .__c1
+__s.%--__orego- ==__c2
+__s__so ==__c1
+__fh__or- ==__c2
+__s:s__oregon .__c4
+__b__oregon @@ graduate institute .__c2
+__qy^d^f^g^rt__try oregon .__c4
+__s:s__oh .__c3
+__s^e__oregon graduate insti- ==__c1
+__b__uh .__c3
+__s^df.%-__it turns out there's the longstanding links with these guys in the speech group .__c2
+__b__huh !__c1
+__qy:s__very long .__c2
+__s^aa__huh !__c3
+__qr__huh .__c4
+__fh__in fact there's this guy who's basically got a joint appointment .__c2
+__s^aa__hynek hermansky .__c2
+__s^aa|s^na__he's- - spends a fair amount of time here .__c2
+__s^bk__anyway ==__c2
+__s^bk__leave it .__c2
+__s:s__won't be a problem .__c2
+__b__okay .__c4
+__b__and it's probably also absolutely uninteresting for all of you to um learn that as of twenty minutes ago david and i per accident uh managed to get the whole smartkom system running on the - uh icsi linux machines with the icsi n. t machines .__c4
+__s^bk__thereby increasing the number of running smartkom systems in this house from one on my laptop to three .__c4
+__s__huh that's good .__c1
+__s__how was this by accident ?__c3
+__s^aa|s__yeah i know .__c1
+__b__tha- - that's the part i didn't understand .__c1
+__s__um | i suggested to try something that was really kind of .__c4
+__fh__even though against better knowledge shouldn't have worked .__c4
+__%--__but it worked .__c4
+__s__huh !__c1
+__s.%--__intuition .__c4
+__s^ba^fe__maybe - maybe - maybe a bit for the a. i i- - intuition thing .__c4
+__b__will it work again ?__c1
+__fh__yeah .__c0
+__s:s__or ?==__c1
+__s^aap|s^aa__yeah .__c3
+__s:s__okay .__c4
+__s^bk^m:s__and um | we'll never found out why .__c4
+__s__it- - it's just like why - why the generation ma- - the presentation manager is now working .__c4
+__b__huh !__c0
+__b__which ==__c4
+__fh__this is something you ha- - you get used to as a programmer | right ?__c0
+__fh__you know | and it's cool it works out that way .__c0
+__qw__huh .__c4
+__qw__so | the - the people at saarbruecken and i decided not to touch it ever again .__c4
+__s:s__yeah | that would work .__c4
+__s^bk__okay .__c4
+__qy^d^f__um - | i was going to ask you where something is .__c4
+__s:s__and what we know about that .__c4
+__s^bk|s__where ==__c0
+__s:s__where the where is construction is .__c1
+__fg__okay .__c0
+__%-__where is x.  ?__c4
+__s:s__what - what thing is this ?__c0
+__s.%-__okay .__c0
+__%-__oh !__c4
+__fg|s__but by - uh we can ask uh did you get to read all four hundred words .__c4
+__s.%-__was it okay ?__c4
+__s^aa|s__i did .__c2
+__%-__was it ?==__c4
+__s:s__i - i wa- - i was looking at it .__c3
+__b__yeah .__c2
+__%-__it doesn't follow logically .__c3
+__s__it doesn't - the first paragraph doesn't seem to have any link to the second paragraph .__c3
+__s:s^fe__and so on .__c0
+__s__huh .__c4
+__s__that ==__c4
+__s^aa|%-__yeah .__c2
+__s^aa__yeah .__c3
+__s.%--__you know i- - yeah it ==__c2
+__%-__each paragraph is good though .__c3
+__b__i li- ==__c3
+__s^rt:s__i- - i- ==__c2
+__s^rt__yeah | well it- - it's fine .__c2
+__b__it was written by committee .__c0
+__s^rt__anyway ==__c2
+__b__um ==__c2
+__s^rt__but c- - the meeting looks like it's it's going to be good .__c2
+__s^na__so ==__c2
+__fh|s__yeah .__c4
+__%-__i think it's uh ==__c2
+__s^df__yeah | i didn't know about it until robert told me like ==__c1
+__b__yeah | i - i ra- - i ran across it in - i don't even know where .__c2
+__s^arp__@@ ==__c1
+__s^aa__you know - some just - some weird place .__c2
+__s.%--__and uh yeah | i- - i'm surprised i didn't know about it .__c2
+__s^aa__y- - yeah well yeah | i was like why didn't dan tell me .__c1
+__b__since we know all the invited speakers .__c2
+__b__an- ==__c2
+__s:s__right | or some- ==__c2
+__s^aa__right .__c0
+__s^f|s__anyway .__c2
+__s^aa__so - but anyway ==__c2
+__b__yeah .__c2
+__s.%-__i- - so i - i did see that .__c2
+__s__oh wha- - yeah before we get started on this st- ==__c2
+__b__so i also had a nice email correspondence with daphne kohler who said yes indeed she would love to work with us on the um - you know using these structured belief nets and stuff .__c2
+__b__but starting in august .__c2
+__s:s__that she's also got a new student working on this and that we should get in touch with them again in august .__c2
+__s:qw__and then we'll figure out a way for you - uh - you to get seriously connected with um their group .__c2
+__s__so ==__c2
+__b__that's uh - looks pretty good .__c2
+__b__and um ==__c2
+__s^aa__yeah i'll say it now .__c2
+__s^aa__so um ==__c2
+__b__and it looks to me like we're now at a good point to do something - start working on something really hard .__c2
+__s^ba__we've been so far working on things that are easy .__c2
+__s^na__oh !__c0
+__s^ba__uh | w- - which is mental spaces and uh and or ==__c2
+__s.%--__huh !__c0
+__s__it's hard .__c1
+__s^aa__huh ?__c2
+__s^df__yeah it's hard .__c1
+__b__it's a hard puzzle .__c2
+__s__yeah .__c1
+__s__yeah .__c0
+__s^2|s^bk__but the other part of it is the way they connect to these uh probabilistic relational models .__c2
+__b__so there's all the problems that the linguists know about about mental spaces and the cognitive linguists know about .__c2
+__s^bk__but then there's this problem of the belief net people have only done a moderately good job of dealing with temporal belief nets .__c2
+__s__uh which they call dynamic ==__c2
+__s.%--__they incorrectly call dynamic belief nets .__c2
+__s__huh .__c1
+__b__so there's a term dynamic belief net doesn't mean that .__c2
+__s__it means time slices .__c2
+__s__and srini used those and people use them .__c2
+__b__uh but ==__c2
+__s^aa|s__one of the things i w- - would like to do over the next uh month it may take more is to st- - understand to what extent we can not only figure out the constructions for them for multiple worlds ==__c2
+__b^rt__and ==__c2
+__%-__uh sort of what the formalism will look like and where the slots and fillers will be but also what that would translate into in terms of belief net and the inferences .__c2
+__s__so the story is that if you have these probabilistic relational models they're set up in principle so that you can make new instances .__c2
+__b__and instances connect to each other and all that sort of stuff .__c2
+__s^df__so it should be feasible to set them up in such a way that if you've got the past tense and the present tense and each of those is a separate uh belief structure that they do their inferences with just the couplings that are appropriate .__c2
+__s^bc^bu__but that's g- - that's as far as i can tell it's - it's putting together two real hard problems .__c2
+__s^na|s^aa__one is the linguistic part of what are the couplings .__c2
+__s^aa__and - and when you have a certain uh construction that implies certain couplings and other couplings .__c2
+__b__you know | between let's say between the past and the present .__c2
+__s^aa__or any other one of these things .__c2
+__s__and then we have this inference problem of exactly technically how does the belief net work .__c2
+__s^aa|s^na__if it's got um let's say one in - in you know different tenses .__c2
+__b__or my beliefs and your beliefs .__c2
+__s__or any of these other ones of - of multiple models .__c2
+__s^aa|qh__so um ==__c2
+__s^e.%-__you know in the long run we need to solve both of those .__c2
+__s^bk|s^aa__and my suggestion is that we start digging into them both uh in a way we- - that you know th- ==__c2
+__qy^rt__hopefully turns out to be consistent .__c2
+__qrr.%-__so that the ==__c2
+__s^ar|s^nd__um ==__c2
+__s^bk__and sometimes it's actually easier to solve two hard problems than one .__c2
+__s^ba__yeah .__c0
+__s^na__because they constrain each other .__c2
+__fg|s__i mean if you've got huge ra- - huge range of possible choices ==__c2
+__s^df__um ==__c2
+__s^na__we'll see .__c2
+__s^aa__but anyway | so that's um ==__c2
+__s^aa__oh | yeah like uh i solved the - the problem of um - we were talking about how do you ==__c0
+__s^e__various issues of how come a plural noun gets to quote count as a noun phrase .__c0
+__b__you know occur as an argument of a higher construction but a bare singular stem doesn't get to act that way .__c0
+__s__right .__c2
+__s.%--__um ==__c0
+__b__and it would take a really long time to explain it now .__c0
+__s__but i'm about to write it up this evening .__c0
+__s__i solved that at the same time as how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase to get something like i the kicked dog .__c0
+__s^bu__um ==__c0
+__s^nd.%--__that's great .__c2
+__s^nd|s^ar__did it - did it at once .__c0
+__s^bk__so maybe - maybe it'll be a similar thing .__c0
+__%-__yeah .__c2
+__h|s^nd:s__cool .__c1
+__s^aa|s^na:s__no i know i th- - i- - i think that is going to be sort of the key to this wh- - to th- - the big project of the summer of - of getting the constructions right .__c2
+__s^aap__is that people do manage to do this .__c2
+__s__so there probably are some uh relatively clean rules .__c2
+__b__they're just not context free trees .__c2
+__s^bk__right .__c0
+__s^ba__and if we - if the formalism is - is good then we should be able to have you know sort of moderate scale thing .__c2
+__s^aa__and that by the way is - is keith what i encouraged george to be talking with you about .__c2
+__fg|s__not the formalism yet .__c2
+__s__uhhuh .__c0
+__b__but the phenomena .__c2
+__s__yeah .__c0
+__b__the p- ==__c2
+__s^aa__and ==__c2
+__b__oh | another thing ==__c2
+__s^aa__um ==__c2
+__fg|s:s__there was this uh thing that nancy agreed to in a - in a weak moment this morning that .__c2
+__b__huh .__c0
+__s^am^rt__i was really strong .__c1
+__fh__huh .__c0
+__s^rt__huh .__c5
+__s^am__uh sorry | in a - in a friendly moment .__c2
+__b__same thing .__c0
+__qy^f^rt__anyway uh | that we were - that we're going to try to get a uh first cut at the revised formalism by the end of next week .__c2
+__qw:s__okay .__c2
+__s^no__all right .__c0
+__s__probably skipping the mental spaces part .__c2
+__s:s__seems ==__c1
+__s^bd^tc__right | i do .__c0
+__fh__uh | just trying to write up essentially what - what you guys have worked out so that everybody has something to look at .__c2
+__s^aa__we've talked about it but only the innermost inner group currently uh ==__c2
+__s^aa__uhhuh .__c0
+__s^no__knows .__c0
+__s:s__knows | uh ==__c2
+__s:s__okay .__c0
+__s^t1__yeah | and - and not even all of them really do .__c1
+__s^bk__yeah .__c0
+__s^m^t1__but like ==__c1
+__s^m^t1__right .__c2
+__s__there's - the group as a whole knows .__c0
+__fg|s.%-:s.%-__but no individual member kno- ==__c0
+__s^2__well that that - yeah th- - there's one of the advantages of a document | right ?__c2
+__s^aa|s:s__yeah .__c0
+__s^aa__is - is that it actually transfers from head to head .__c2
+__s^aa|s__right .__c1
+__x__so anyway .__c2
+__s^f|s__okay .__c0
+__%--__so um ==__c2
+__s:s__uh communication .__c1
+__s.%--__huh ?__c2
+__fg__communication .__c1
+__s^t1.%--__communication documentation and stuff .__c2
+__s.%--__huh .__c0
+__s^t1.%--__anyway so uh with a little luck ==__c2
+__s__uh - | l- - let's let's have that as a goal anyway .__c2
+__s^bk|s^df.%-__and ==__c2
+__s^cs__so uh what was the date there ?__c0
+__b__monday ?__c0
+__x__or ?==__c0
+__s:s__no no no .__c2
+__fg|s__it's a friday .__c0
+__%--__no w- - uh - we're talking about a week fr- - e- - end of next week .__c2
+__s__but uh but - but the two of us will probably talk to you at well before th- ==__c1
+__b__end of next week .__c0
+__s:s|qy^d^f^g__i thought you said beginning of n- ==__c0
+__s^am__i mean ==__c1
+__s__yeah .__c0
+__s__anyway w- - let's talk separately about how t- ==__c1
+__s^bd^no__yeah i have a busy weekend .__c0
+__s^am__but after that yeah .__c0
+__b__gung ho .__c0
+__b__okay | yeah so - so someti- - sometime next week .__c2
+__fg|s__great .__c0
+__s^aa__now if it turns out that that effort leads us into some big hole that's fine .__c2
+__s^aa__uhhuh .__c0
+__%-__okay .__c0
+__b__you know if you say we're - we're dump - dump - dump .__c2
+__fg|s^ba__there's a really hard problem .__c2
+__b.%__we haven't solved yet .__c2
+__s^e__that that's just fine .__c2
+__b__okay .__c0
+__fg|s__uhhuh .__c1
+__s__but at - at least sort of try and work out what the state of the art is right now .__c0
+__b__right | t- - t- - if - to the extent that we have it let's write it .__c2
+__s__okay .__c0
+__s__and to the extent we don't let's find out what we need to do .__c2
+__s__okay .__c0
+__s__so uh ==__c2
+__s__can we - is it worth thinking of an example out of our tourism thing domain that involves a - a - a decent mental space shift or setting up ?__c4
+__s__i think it is .__c2
+__b__but - uh - but i interrupted before keith got to tell us what happened with where is the powder tower or whatever .__c2
+__s^ba__right .__c1
+__s^ba^r__well | uh what was supposed to happen ?__c0
+__b__i've sort of been actually caught up in some other ones .__c0
+__b__so um you know i don't have a write up of or i haven't elaborated on the ideas that we were already talking about .__c0
+__s^rt__huh yeah | i think - i think we already came to the conclusion that we have two alternative paths that we - two alternative ways of representing it .__c4
+__b__which were ==__c0
+__s__one is sort of a - has a ==__c4
+__qy^rt__um ==__c4
+__s__it's gone .__c0
+__s^bu__um ==__c4
+__s^aa__the question of whether the polysemy is sort of like in the construction or pragmatic .__c0
+__s^bk__one of them was th- ==__c1
+__s__right .__c1
+__s^e__or comes ==__c4
+__s__right .__c1
+__b__is resolved later .__c4
+__fh__yeah .__c4
+__s.%--__i think it has to be the - the second case .__c0
+__qy.%--__yeah .__c4
+__s__um | so did you - is it clear what we're talking about here ?__c0
+__s:s__i agree .__c1
+__s^r:s__uh ==__c2
+__s__the question is whether the construction is semantic or like ambiguous between asking for location and asking for path .__c0
+__s:s__it's ==__c4
+__s:s__so you might be - yeah y- - and asking for directions .__c1
+__s:s__um ==__c0
+__s^e:s__should we have a - a - a ?==__c4
+__b__or - or whether the construction semantically uh is clearly only asking for location .__c0
+__b__uh ==__c1
+__s__but pragmatically that's construed as meaning tell me how to get there .__c0
+__s__uhhuh .__c2
+__fg|s__so assume these are two uh nodes we can observe in the bayes-net .__c4
+__s^df__yep .__c2
+__b__yeah .__c1
+__b__right .__c2
+__b__so these are either true or false .__c4
+__b__and it's also just true or false .__c4
+__s__if we encounter a phrase such as where is x.  should that set this to true and this to true ?__c4
+__s.%--__and the bayes-net figures out which under the c- - situation in general is more likely .__c4
+__b__um or should it just activate this have this be false ?__c4
+__s^ba__and the bayes-net figures out whether this actually now means ?==__c4
+__b__uh w- - that's a s- ==__c2
+__s__okay | so that's a - that's a separate issue .__c2
+__b__slightly different .__c1
+__s^e__okay .__c0
+__qy^d^g^rt__so i a- - i i th- - i agree with you that um it's a disaster to try to make separate constructions for every uh pragmatic reading .__c2
+__b__uhhuh .__c0
+__s__although there are some that will need to be there .__c2
+__s.%--__good .__c1
+__b__uhhuh .__c1
+__s^rt__right .__c0
+__s__right .__c1
+__s__i mean there- - there's some that ==__c2
+__s^na__or have every construction list all the possible pragmatic implications of the same one .__c1
+__s^bk__you can't do that either .__c2
+__s__yeah .__c2
+__b.%__right .__c1
+__s^cs^rt__yeah .__c1
+__s^na|s^df^na__but you know c- - um - almost certainly can you pass the salt is a construction worth noting that there is this th- - this - this - this - uh ==__c2
+__b__yeah .__c0
+__s.%--__request .__c1
+__qh^t1__uhhuh yeah .__c0
+__s__very yeah .__c1
+__s^bk^fe__so right | this one is maybe in the gray area .__c0
+__b__is it - is it like that or is it just sort of obvious from world knowledge that no one - you wouldn't want to know the location without wanting to know how to get there or whatever ?__c0
+__s^df__ri- ==__c2
+__qy^bu^d^rt__huh .__c1
+__s^aa|s__yeah .__c2
+__b__one ==__c4
+__b__or in some cases it's - it's quite definitely .__c4
+__b__yeah .__c2
+__s__s- - so that you just know - want to know where it is .__c4
+__s__yeah .__c0
+__s__well the question is basically is this conventional or conversational implicature .__c0
+__s^df__exactly yeah .__c2
+__s^bk__might be yeah .__c1
+__s.%-__and i guess see the more important thing at this stage is that we should be able to know how we would handle it in ei- ==__c2
+__fg__f- - in the short run it's more important to know how we would treat - technically what we would do if we decided a.  and what we would do if we decided b.  than it is t- - to decide a.  or b.  r- - right now .__c2
+__s^aa|s__right .__c1
+__b__okay right .__c0
+__s^e__right .__c1
+__x__which one it is .__c1
+__b__which of that is | yeah okay .__c0
+__fg|s^bu__huh .__c4
+__s^aa|s__because there will be other k- - examples that are one way or the other | right .__c1
+__s^bk__w- - we know for sure that we have to be able to do both .__c2
+__s^rt.%--__yeah .__c0
+__s.%--__so i guess in the short run let's - let's be real clear on h- - what the two alternatives would be .__c2
+__%--__okay .__c0
+__s__and then the- - we had another idea floating around um which we wanted to uh get your input on .__c4
+__s^f|qy^rt__and that concerns the ==__c4
+__s^aa__but the nice thing is w- - we would have a person that would like to work on it .__c4
+__s__and that's ir- - irina gurevich from e. m. l who is going to be visiting us uh the week before uh august .__c4
+__fh__and a little bit into august .__c4
+__s__and she would like to apply the ontology that is um being crafted at e. m. l .__c4
+__fg|s__that's not the one i sent you .__c4
+__s__the one i sent you was from g. m. d out of a european crumpet .__c4
+__s^e__it was terrible .__c2
+__s^bsc__agreed .__c4
+__b__um | and one of the reas- - one of the - those ideas was ==__c4
+__b__so ==__c4
+__b__back to the old johno observation that if y- - if you have a dialogue history and it said the word admission fee was uh mentioned um it's more likely that the person actually wants to enter than just take a picture of it .__c4
+__s__from the outside .__c4
+__b__now what could imagine - to you know have a list for each construction of things that one should look up in the discourse history | yeah .__c4
+__qy^bu^d__that's the really stupid way .__c4
+__s^m^na__then there is the really clever way that was suggested by keith .__c4
+__s^bk|s__and then there is the uh middle way that i'm suggesting .__c4
+__s^df.%--__and that is you - you get x.  which is whatever .__c4
+__qy.%--__the castle .__c4
+__s^aa|s^na__the ontology will tell us that castles have opening hours .__c4
+__s__that they have admission fees .__c4
+__s^df__they have whatever .__c4
+__s^df^e__and then this is - we go via a thesaurus .__c4
+__b__and look up certain linguistic surface structures that are related to these concepts .__c4
+__s^bk__and feed those through the dialogue history .__c4
+__b__and check dynamically ==__c4
+__b__for each e- - entity we look it up check whether any of these were mentioned and then activate the corresponding nodes on the discourse side .__c4
+__s.%--__but keith suggested that a - a much cleaner way would be - is you know to keep track of the discourse in such a way that you - if you know that something like that ha- - has been mentioned before this just a- - continues to add up ==__c4
+__s^ba__you know in th- - in a ==__c4
+__s^ba.%--__so if someone mentions admission f- - fees that activates an enter schema which sticks around for a little while in your rep- - in the representation of what's being talked about .__c0
+__s__and then when someone asks where is x.  you've already got the - the enter schema activated .__c0
+__s__uhhuh .__c2
+__b__kind of a priming ==__c1
+__b__and you're able to - to conclude on it .__c0
+__s__yeah .__c2
+__s__priming a spreading activation .__c1
+__s^bk|s:s__right .__c2
+__s.%-:s.%-__yeah .__c0
+__fg|qy^2^bu^d^rt__yeah | so that's certainly more realistic .__c2
+__s^m^na__i m- - i mean psychologically .__c2
+__b__right .__c0
+__s.%-__now technically ==__c2
+__b__yeah .__c0
+__qw__um ==__c2
+__qy^bu^d^rt__well | uh is it - doesn't it seem like if you just managed the dialogue history with a - a thread that you know kept track of ho- - of the activity of ?==__c3
+__%-__i mean because it would - the - the thread would know what nodes like needed to be activated .__c3
+__s.%-__so it could just keep track of how long it's been since something's been mentioned and automatically load it in .__c3
+__s__yeah .__c2
+__s^e__you could do that .__c2
+__s^bk__um ==__c2
+__b__but here's - here's a way ==__c2
+__b__in th- - in the bl- - bayes-net you could - you could think about it this way that if um at the time admissions fee was mentioned you could increase the probability that someone wanted to enter .__c2
+__s^bk__turn prior on .__c1
+__s^e__we- - yeah - | th- - th- - that's what i wa- - i wasn't - i was - i wasn't thinking in terms of enter schemas .__c3
+__s__i was just ==__c3
+__b__fair enough | okay .__c2
+__b__but but in terms of the c- - c- - the current implementation ==__c2
+__s__right .__c2
+__s.%--__so that ==__c2
+__s.%--__um ==__c2
+__b__it would already be higher in the context .__c1
+__s__th- - that th- - the - the - the conditional probability that someone ==__c2
+__s__so at the time you mentioned it ==__c2
+__s^nd__this is - this is essentially the bayes-net equivalent of the spreading activation .__c2
+__%__uhhuh .__c0
+__s__yeah .__c0
+__b__it's in some ways it's not as good .__c2
+__s^rt__but it's the implementation we got .__c2
+__s^bk|s__yeah sure .__c0
+__s^df.%-__we don't have a connectionist implementation .__c2
+__s__no i mean ==__c0
+__s__now now my guess is that it's not a question of time but it is a question of whether another intervening object has been mentioned .__c2
+__s__yeah | relevance .__c1
+__s^df__yeah .__c1
+__b__i mean we could look at dialo- ==__c2
+__s__yeah .__c0
+__s.%--__this is ==__c2
+__s__of course the other thing we ha- - we do is is we have this data coming .__c2
+__s__yeah .__c0
+__s__which probably will blow all our theories .__c2
+__s^aa__but - but skipping that ==__c2
+__s^aa__yeah right .__c0
+__b__so - so - but my guess is what - what'll probably will happen here's a - here's a proposed design is that there're certain constructions which uh for our purposes do change the probabilities of eva decisions and various other kinds .__c2
+__fg|s__and ==__c2
+__s^aa|s^na__th- - that the uh standard way that - that the- - these contexts work is sort of stack like or whatever .__c2
+__s^aa__but that's sort of the most recent thing .__c2
+__qy^bu^d^f^g^rt__and so it could be that when another uh en- - tourist entity gets mentioned you ==__c2
+__s__renew @@ .__c1
+__b__re- - re- - essentially re-initiali- - you know re i  - essentially re-initialize the state .__c2
+__fh|s__huh .__c3
+__s__yeah .__c1
+__s^df.%--__uhhuh .__c0
+__fh__and of course i- - if we had a fancier one with multiple worlds you could have - uh you could keep track of what someone was uh saying about this and that .__c2
+__s^fe__you know i want to go - in the morning .__c2
+__s__yeah .__c0
+__s__i want to ==__c2
+__s__here's my plan for today .__c0
+__s__here's my plan for tomorrow .__c0
+__%--__yeah | or - yeah in the morning morning i- - i'm planning t- - to go shopping .__c2
+__fg|s^rt__hypothetically .__c0
+__s__in the afternoon to the powder tower .__c2
+__qy^rt__yeah .__c0
+__qrr.%--__uh tal- - so i'm talking about shopping .__c2
+__s^ar|s.%--__and then you say uh you know well um what's it cost or something .__c2
+__s^bk^m__uhhuh .__c0
+__s__or ==__c2
+__s^df__anyway .__c2
+__s^bk__so one could well imagine ==__c2
+__b__but not yet .__c2
+__s.%-__yeah .__c0
+__s^bk__but i do th- - think that the - it'll turn out that it's going to be - depend pretty much on whether there's been an override .__c2
+__fh__yeah | i mean if - if you ask how much does a train ride and - and cinema around the vineyards cost and then somebody tells you it's sixty dollars and then you say okay how much is uh - i would like to visit the - whatever something completely different then i go to you know point reyes .__c4
+__s^bk__yeah .__c2
+__s__it - it's not more likely that you want to enter anything .__c4
+__b__but it's as a matter of fact a complete rejection of entering by doing that .__c4
+__s^bk__right .__c2
+__b__right .__c1
+__fh__right .__c2
+__s__yeah .__c0
+__s^bk__so when you admit- - have admission fee and it changes something it's only for that particular - it's relational | right ?__c1
+__s^rt__it's only for that particular object .__c1
+__s^rt__yeah | i th- - th- ==__c2
+__s^bk__yeah .__c2
+__s__well and - and - and the simple idea is that it's on- - it's only for m- - for the current uh tourist e- - entity of instre- - interest .__c2
+__s^bd^no__yeah .__c1
+__s^df__yeah .__c0
+__s__right .__c1
+__s__yeah | but that's ==__c4
+__b__i mean this - this function ==__c4
+__s.%--__so has the current object been mentioned in - in - with a question about - concerning its ==__c4
+__s__no no | it's - it - it goes the other d- - it goes in the other direction .__c2
+__s__is ==__c2
+__s__when th- - when the - this is mentioned the uh probability of - of let's say entering changes .__c2
+__s^2__of that object .__c1
+__b__changes .__c2
+__b__for - but ==__c1
+__s__right .__c1
+__b__you could just hav- - uh just basically ob- - it - it observes an - uh it sets the - a node for entered or true or something .__c3
+__b__yeah .__c2
+__s__yeah .__c2
+__b__now uh - | but i think ro- - robert's right that to determine that okay you may well want to go through a th- - thesaurus .__c2
+__b__discourse enter .__c3
+__s^ba.%-__and - and ==__c2
+__b__so | if the issue is if - so now th- - this construction has been matched and you say okay does this actually have any implications for our decisions then there's another piece of code that presumably does that computation .__c2
+__s^e__so sort of forward chaining in a way rather than backward .__c1
+__s^aa__yeah yeah .__c2
+__b__okay .__c1
+__s^na|s^ba^m__but - but what's robert's saying is - is ==__c2
+__s^m^na__and i think he's right is you don't want to try to build into the construction itself all the synonyms and all - you know all the wo- ==__c2
+__s^na__uh ==__c2
+__fh__maybe .__c2
+__s.%__i'll have to think about that .__c2
+__b__huh .__c1
+__b__i don't know .__c2
+__%-__i mean it - th- - i can thi- - i can think of arguments in either direction on that .__c2
+__b__but somehow you want to do it .__c2
+__fg|s.%__uhhuh .__c4
+__s__well it's just another sort of construction side is how to get at the possible inferences we can draw from the discourse history .__c4
+__s__or changing of the probabilities and or .__c4
+__s__guess it's like - i g- - the other thing is whether you have a m- - m- - user model that has you know whatever a current plan whatever plans that had been discussed .__c1
+__fg|s.%__and ==__c1
+__%-__i don't know .__c1
+__fg|s__i mean ==__c1
+__s^aa|s__what - uh what's the argument for putting it in the construction ?__c3
+__b__is it just that the s- - synonym selection is better or ?==__c3
+__b__oh wel- - well the ar- - the - the argument is that you're going to have the ==__c2
+__b__if you've recognized the word ==__c2
+__b__you've recognized the word which means you have a lexical construction for it .__c2
+__b__so you could just as well tag the lexical construction with the fact that it's a uh you know thirty percent increase in probability of entering .__c2
+__s^rt__you - so you could - you could - you could invert - invert the whole thing so you s- - you tag that information on to the lexicon .__c2
+__s^aa__huh .__c3
+__b.%__oh i see .__c3
+__s^fe__since you had to recognize it anyway .__c2
+__s^aa|s^ba__that - that's the argument in the other direction .__c2
+__s^bu__at - at ==__c2
+__s^aa__yeah | and this is ==__c2
+__s^aa__even though uh the lexical construction itself - out - out of context uh won't do it .__c4
+__s^aa__i mean y- - you have to keep track whether the person says .__c4
+__s^bk__but i- - but i'm not interested in the opening times .__c4
+__s__yeah .__c1
+__s:s^fe__is sort of a- - more a v.  type .__c4
+__s__yeah | there's yeah ther- - there's that as well .__c2
+__s__yep .__c4
+__s^aa__huh .__c4
+__s__so ==__c4
+__s^2^bu__but we'll ==__c4
+__b__@@ ==__c4
+__s^bk__uh we have time to ==__c4
+__fh|s^aa__this is a s- - just a sidetrack .__c4
+__b__but uh ==__c4
+__s.%--__i think it's also something that people have not done before is um sort of abuse an ontology for these kinds of uh inferences on ==__c4
+__b__whether anything relevant to the current something has been - uh has crept up in the dialogue history already or not .__c4
+__s__and um ==__c4
+__fh__i have the uh - if we wanted to have that function in the dialogue hi- - dialogue module of smartkom i have the written consent of jan to put it in there .__c4
+__s.%-__good .__c2
+__b__okay | well this - this is highly relevant to someone's thesis .__c2
+__b__yes .__c4
+__s__um | that's - uh i'm - i'm keeping on good terms with jan .__c4
+__s__you've noticed that .__c2
+__fg|s^r__yeah .__c4
+__b__okay .__c2
+__s^df__so the point is it's very likely that robert's thesis is going to be along these lines .__c2
+__fh__and the local rules are if it's your thesis you get to decide how it's done .__c2
+__b__oh | s- ==__c1
+__b__okay | so if you know - if this is - seriously if this becomes part of your thesis you can say hey we're going to do it this way that's the way it's done .__c2
+__s__huh .__c4
+__b__yay it's not me !__c1
+__b__it's always me when it's someone's thesis .__c1
+__s|s^bk__no no no !__c2
+__s^na|s^aa__no no we've got a lot - we've got a lot of theses going .__c2
+__b__there's a few of us around now .__c0
+__s^bk__yay !__c1
+__s__i know it is .__c1
+__b__yeah .__c2
+__fh__right .__c2
+__%--__well let's - let's talk after friday the twenty ninth .__c4
+__%-__then we'll see how f- - f- ==__c4
+__s__right | so h- - he's got a th- - he's got a meet- - meeting in germany with his thesis advisor .__c2
+__s.%-__yeah | he said he's going to f- - finish his thesis by then .__c1
+__%--__oh yeah .__c0
+__fg|s__yeah .__c4
+__s^df__i should try to finish it by then | yeah .__c4
+__s^na__oh right .__c2
+__b__so ==__c4
+__s^aa|s__BLEEPED__c0
+__%-__BLEEPED__c1
+__s^aa__BLEEPED__c2
+__s^aa__BLEEPED__c3
+__s^aa__BLEEPED__c4
+__s^aa__BLEEPED__c5
+__s^ba__um ==__c2
+__s__yeah so | i think in fact that's the other thing .__c2
+__s__uh this is - this is speaking of hard problems this is a very good time um to start trying to make explicit where construal comes in .__c2
+__s^aa__and - you know where c- - where the construction per se ends and where construal comes in .__c2
+__s^2.%-__uhhuh .__c0
+__s__uhhuh .__c4
+__fh__because this is clearly part of th- ==__c2
+__s^aa|s__yeah | we've - we've done quite a bit of that .__c1
+__s^bk__huh ?__c2
+__s^aa|%--__yeah .__c0
+__b__we've been doing quite a bit of that .__c1
+__s^cs^t^tc__yeah .__c0
+__fh__well i said but that's part of what the f- ==__c2
+__s^e__we have many jobs for you ro- - robert .__c1
+__b__yeah | well he's going to need this .__c2
+__s__the conclusion .__c1
+__qy__yeah | it seems to always land in your category .__c0
+__s^rt__yeah .__c1
+__s^rt__right so right | so thing - that's part of why we want the formalism .__c2
+__s^ba__you're lucky .__c0
+__s^aa__is - is because th- - it is going to have implicit in it ==__c2
+__s^aa__yeah .__c0
+__s:s__was i in the room ?__c4
+__b__no | you weren't there on purpose .__c1
+__s__yeah .__c2
+__b__like ==__c1
+__s^aa__made it much easier to make these decisions .__c0
+__s^cs:s__obviously .__c1
+__s.%-__uh ==__c0
+__b__yeah .__c1
+__s^nd__right | well i - that's tentative .__c2
+__s^aa__they aren't decisions .__c2
+__s__yeah right right right .__c0
+__s.%-__they're ju- - they're just proposals .__c2
+__qy^bu^d^rt__no | they're decisions .__c1
+__s^na__yes | excuse me .__c0
+__s^aa__okay .__c1
+__s^ba__yeah that - that's the point is - is th- ==__c2
+__fg|s__yeah .__c0
+__b__constraints .__c4
+__s__let's call them constraints around which one has to ==__c4
+__b__yeah .__c2
+__s^df__yeah anyway | but so that's that's w- ==__c2
+__b__actually ==__c1
+__b__yeah | there's a problem with that word too though .__c1
+__b__yeah | but it - he- - the decisions i made wer- - had to do with my thesis .__c3
+__s^aa__yeah .__c2
+__s^bu.%--__so consequently don't i get to decide then that it's robert's job ?__c3
+__s^no__no .__c2
+__s^aa|%-__uh ==__c2
+__s__anyhow .__c0
+__fg|s__well i'll just pick a piece of the problem and then just push the hard stuff into the center and say it's robert's .__c1
+__s__i've always been completely in favor of consensus decisions .__c4
+__s__like ==__c1
+__b__so we'll - we'll find a way .__c4
+__s__right .__c2
+__b__i can ==__c1
+__s^aa__well we - we - we will .__c2
+__s^f__but um ==__c2
+__s^aa__i haven't | okay .__c1
+__s__not ==__c2
+__b__it - it might even be interesting then to say that i should be forced to um sort of pull some of the ideas that have been floating in my head out of the uh - out of the top hat .__c4
+__s^bk__yes .__c2
+__s^ba__and um ==__c4
+__s^cc__always good .__c0
+__fg|s__right .__c2
+__fg|s__that metaphor is not going anywhere you know .__c4
+__b__so- ==__c2
+__s^aa|s__yeah .__c0
+__s__ri- - no | absolutely .__c2
+__qy^bu^d^rt__so uh wh- - you had - you know you ha- - you had done one draft .__c2
+__s.%-__yes | and um it's ha- - none of that is basically still around .__c4
+__s^bk__and a- - another draft ==__c2
+__s__i didn't get ==__c1
+__b__but it's ==__c4
+__s__okay .__c2
+__s^bk|s^ba^fe__d- - i- - @@ ==__c2
+__s__that's normal .__c0
+__b__oh i guess it's good i didn't read it .__c1
+__fh.%__i- - i- ==__c2
+__b.%__i - this is - i'm shocked .__c2
+__s__this is the first time i've seen a thesis proposal change .__c2
+__qw__right anyway uh so ==__c2
+__s^aa|s__really ?__c1
+__b__but yeah | a second - that would be great .__c2
+__s.%--__so uh a sec- - i mean you're going to need it anyway .__c2
+__b__huh .__c4
+__b__yeah | and i would like to d- - discuss it .__c4
+__s^e__and ==__c2
+__s^rt__and you know get you guys's input .__c4
+__s.%-__right .__c2
+__qw__and make it sort of bomb proof .__c4
+__qw^bsc__yep .__c2
+__h|s__bomb proof .__c1
+__s^e__good .__c0
+__s^bk__oh oh okay .__c1
+__b__bulletproof .__c4
+__s^bk__that's the word i was looking for .__c4
+__s^bk__both proof .__c2
+__s__either way .__c0
+__b__both .__c1
+__s__right .__c2
+__qw__uh ==__c2
+__b__good luck really .__c1
+__qy^bh^rt|s__so that so th- - thi- - this - i mean so this is the point is we - we're going to have to cycle through this .__c2
+__s^rt__but th- - the draft of the p- - proposal on the constructions is - is going to tell us a lot about what we think needs to be done by construal .__c2
+__s__yeah .__c0
+__s^rt__and um | we ought to be doing it .__c2
+__b__okay .__c4
+__s^rt__yeah | we need - we need some - then we need to make some dates .__c4
+__s^2__um ==__c4
+__s^2.%-__@@ ==__c1
+__s^bk__meeting - regular meeting time for the summer .__c4
+__s.%--__we really haven't found one .__c4
+__s^2.%--__we did thursdays one for a while .__c4
+__qw^t1__i just talked to ami .__c4
+__s__it's- - it's a coincidence that he can't do - couldn't do it today here .__c4
+__s^bk|s__@@ ==__c1
+__s|s^bk__usually he can .__c1
+__s__usually he has no real constraints .__c4
+__s^bk__so ==__c4
+__b__and the n. t. l meeting moved to wednesday .__c2
+__s__because of - of uh ==__c2
+__s^bk^fe__yeah | it was just an exception .__c4
+__s^bk|s__yeah | you weren't here .__c2
+__b__but - but - but - s- - uh - and so if that's okay with you .__c2
+__s^bk|qy__you would ==__c2
+__qy^bh__it's i- - is it staying basically at the wednesday noon ?__c0
+__s^df.%-__yeah | it was th- ==__c2
+__b__okay | it was th- - off this week .__c0
+__s^m^na__yeah | i always thought it was staying .__c1
+__s__yeah .__c0
+__s.%__right .__c2
+__s__yeah | i thought it was just this week that we were changing it .__c1
+__s__huh yeah .__c4
+__s__okay .__c2
+__b__and um | how do we feel about doing it wednesdays ?__c4
+__s__because it seems to me that this is sort of a time where when we have things to discuss with other people there .__c4
+__s__they seem to be s- - tons of people around .__c4
+__s^na__the only disadvantage is that it may interfere with other .__c2
+__b__or ==__c4
+__b__subgroup meetings .__c4
+__s.%-__s- - you know other - other ==__c2
+__b__no | you - uh people in this group connecting with - with .__c2
+__fg|s__those people who happen to be around .__c1
+__b__those people who - who might not be around so much .__c2
+__s^aa|s^na__uh | i don't care .__c2
+__s__i- - i- - uh you know i have no fixed ==__c2
+__b__to tell you the truth i'd rath- - i'd i'd - would like to avoid more than one i. c. s. i meeting per day if possible .__c0
+__s^bk__okay .__c2
+__b__but - i mean i don't know .__c0
+__b__whatever .__c0
+__b__no that's fine .__c2
+__b__i mean that ==__c2
+__s__the - i'd like to have them all in one day .__c4
+__b__so package them up and then ==__c4
+__fh__yeah | i can understand that .__c0
+__fg|s^rt__well p- ==__c2
+__s^bk__people - people differ in their tastes in this matter .__c2
+__s^df__yeah .__c0
+__b__i - i'm neutral .__c2
+__s^df^e__yeah .__c0
+__%-__yeah | i'm always here anyway .__c1
+__s__it's okay that ==__c4
+__b__so ==__c1
+__b__yeah | @@ that's - me too .__c2
+__b__it doesn't matter .__c1
+__s^aa__i'm basically - i'm here .__c2
+__s__so ==__c2
+__s^2__well if - one sort of thing is this room is taken at - after three thirty pr- - pretty much every day .__c4
+__b__by the data collection .__c4
+__b__oh .__c1
+__s__so we have subjects anyway - except for this week we have subjects in here .__c4
+__s^cs__that's why it was one .__c4
+__s^ba__oh .__c1
+__b__okay .__c2
+__s.%-__so we just knew i- ==__c4
+__b__so did you just say that ami can't make one o'clock ?__c1
+__s^cs:s__no | he can .__c4
+__s^aa__oh okay .__c1
+__s^na__oh .__c0
+__s^aa__so let's say thursday one .__c4
+__s^df__but for next week this is a bit late .__c4
+__s^aa|s^na__so i would suggest that we need to - to talk ==__c4
+__s^na__oh oh ==__c1
+__s^cs.%-__okay .__c1
+__b.%__okay | about the c- - the - th- ==__c4
+__s^df__could we do thursday at one thirty ?__c1
+__s^cs__would that - that be horrible ?__c1
+__fg|s^ng__no .__c4
+__s^na__yes .__c4
+__s^df.%-__oh really ?__c1
+__b__because uh this room is again taken at two thirty by morgan .__c4
+__s^2__oh okay okay | you didn't tell me that .__c1
+__fg|s^2^fe__okay | that's fine .__c1
+__qy^rt__and the - s- - meeting recorder meeting meeting meeting recording on meeting meetings .__c4
+__s__okay okay okay okay yeah .__c1
+__s.%-__so ==__c4
+__b__interesting .__c2
+__qy^bu^d__uh yeah .__c0
+__x__so you're proposing that we meet tuesday .__c2
+__s__how about that ?__c4
+__fg__i - i could ==__c2
+__s:s^fe__next week .__c0
+__s:s^fe__well we're meeting tuesday .__c1
+__s^aa__i mean we usually meet tuesday - or l- - like linguists um at two .__c1
+__s:qw__would it ==__c3
+__s__that's right .__c0
+__s__so ==__c1
+__fh__and the s- ==__c3
+__b__do you want to meet again here bef- ?==__c1
+__fg|s__i mean w- ==__c4
+__b__is the speech-gen meeting still at - on tuesdays ?__c3
+__s.%--__well actually we- - w- - we- - we did scrap our monday time just because bhaskara couldn't come monday .__c4
+__s.%--__hhh maybe i do need a palm pilot .__c1
+__s^aa__so there's - nothing's impeding monday anymore either .__c4
+__s__that doesn't apply to a ==__c0
+__s__get a fresh start .__c4
+__s^m^na|s^aa__although i thought you wanted to go camping on monday - uh take off mondays a lot so you could go camping .__c3
+__s__yeah that's another s- - thing | yeah .__c4
+__b__but um | i mean there are also usually then holidays anyways .__c4
+__s^na.%-__i mean like sometimes it works out that way .__c4
+__s^aa|s^na__usually ?__c1
+__s__so | huh .__c4
+__s__well | i mean the linguists' meeting i- - happens to be at two .__c1
+__s^aa__but i think that's - i mean ==__c1
+__s:s^fe__that should be relatively flexible be- ==__c0
+__s^aa|s^ba__pretty flexible i think .__c1
+__fg|s__yeah | there's just sort of the two to four of us .__c0
+__b__so ==__c1
+__s^df__the multiple meetings .__c1
+__b__right ?__c0
+__b__yeah .__c0
+__fh__yeah .__c1
+__b__so ==__c0
+__b__right .__c1
+__qw__and you know of course nancy and i are just sort of always talking anyway and sometimes we do it in that room .__c0
+__s__yeah .__c1
+__fh|s__so you know i mean ==__c0
+__%-__okay | so l- - forget about the b- - the camping thing .__c4
+__b__so let's - uh any other problems w- - w- - w- - ?==__c4
+__s^bk^fe__but i suggested monday .__c4
+__s:s__if that's a problem for me then i shouldn't suggest it .__c4
+__s^aa__ha ha ha .__c3
+__b__okay .__c2
+__s:s^fe__so ==__c4
+__s^bk__um all of the proposed times sound fine with me .__c0
+__fg__same here .__c1
+__fg|s__monday ?__c4
+__b__okay | whate- - i mean what i think robert's saying is that ==__c2
+__s^bk|s^bu^rt__earlier in the week .__c0
+__b__earlier we ==__c2
+__s__at least for next week there's a lot of stuff we want to get done .__c2
+__s^am__uhhuh yeah .__c0
+__b__so why don't we plan to meet monday ?__c2
+__b__huh .__c4
+__b__and we'll see if we want to meet any more than that .__c2
+__%-__okay .__c0
+__s^aa__okay .__c4
+__qy^g^rt__what time ?__c1
+__s^aa|s__at o- - o- - o- - o- - one two three - ?__c1
+__s.%-__one two three ?__c4
+__s.%-__three's too late .__c4
+__s__two thirty ?__c4
+__s^bk__oh | i i- - yeah i actually - two is the earliest i can meet on monday .__c2
+__b__okay | two .__c4
+__s.%--__here i'm blissfully agreeing to things and realizing that i actually do have some stuff scheduled on monday .__c2
+__b__sure | sounds great .__c0
+__s.%--__uh so that's the eighteenth .__c0
+__s.%-__you guys will still remind me | right ?__c1
+__%-__no way .__c3
+__qy^2^bu^d^rt__y- - you'll come and take all the - the headph- - the good headphones first and then remind me .__c1
+__s^ar|s__w- - why do you ?==__c4
+__qy^bu^d^rt__yeah exactly .__c0
+__s^m^na__and ==__c4
+__s^bk__sorry | two p. m .__c0
+__s__why do i have this unless i'm going to write ?__c1
+__%-__do i get to see th- - uh your formalism before that ?__c4
+__s__fine .__c1
+__fg|s__yes .__c1
+__qy^d^g^rt__uh | would you like to ?__c1
+__s__uhhuh .__c4
+__s^fe__i wo- - i would like - i would sort of get a - get a notion of what - what you guys have in store for me .__c4
+__s__okay | i was actually going to work on it for tomorrow - like this - this weekend .__c1
+__s__yeah .__c1
+__s^ba^bd^rt__well m- - @@ you know w- - maybe mond- - maybe we can put - this is part of what we can do monday if we want .__c2
+__s__yeah | i- ==__c1
+__b__okay .__c1
+__s.%-__all right .__c0
+__s^no__okay .__c4
+__s__i mean i - i - i ==__c1
+__s^cs__is some - some version .__c2
+__s^ar|s^ba__yeah | so there was like you know m- - m- - in my head the goal to have like an intermediate version like everything i know .__c1
+__fg|s.%-__uhhuh .__c0
+__qw.%-__and then w- - i would talk to you and figure out everything you know that - you know see if they're consistent .__c1
+__s__yeah .__c0
+__s^df^no__okay .__c0
+__qw__why don't w- - maybe you and i should meet sort of more or less first thing monday morning and then we can work on this .__c0
+__qw^e.%--__yes yeah .__c1
+__b__that's f- - fine with me .__c1
+__s__okay .__c0
+__qw__so ==__c1
+__s^e__i might - i might - um ==__c1
+__s^e__you- - y- ==__c4
+__s.%-__s- - you said you're busy over th- - until the weekend | right ?__c1
+__qy^bu^d^rt__yeah | sort of through the weekend .__c0
+__qy^bu^d^rt__because kate has a photography show .__c0
+__s__that's fine | so we might continue our email thing .__c1
+__s^bu__yeah .__c0
+__qy^d^g^rt__and that might be fine too .__c1
+__s^no__so maybe i'll send you some .__c1
+__s^no__um if you have time after this i'll show you the noun phrase thing .__c0
+__%-__okay | that would be cool .__c1
+__s^aa__so ==__c1
+__b__okay | and we'll you want to m- ==__c1
+__s^no__so the idea is on monday at two we'll - we'll see an intermediate version of the formalism for the constructions .__c4
+__s^ar^bsc__yeah .__c0
+__b__so that's okay for you ==__c1
+__s__and do an online merging with my construal ideas .__c4
+__s__sure sure .__c1
+__fh__okay .__c2
+__s^aa__all right .__c0
+__s__so it won't be like a for- - semi formal presentation of my proposal .__c4
+__s^aa__that's okay .__c1
+__s__it'll be more like towards finalizing that proposal .__c4
+__s^na__okay that's fine .__c4
+__s__okay .__c0
+__s^bd__because then you'll find out more of what we're making you do .__c1
+__s.%-__yep | and then ==__c4
+__s__yeah .__c0
+__b__huh huh .__c3
+__s^no__yikes .__c4
+__s^bk|s__oy deadlines .__c0
+__b__we'll make a presentation of your propo- - of your proposal .__c1
+__s.%-__perfect | can you also write it up ?__c4
+__b__it's like this is what we're doing .__c1
+__s^2__abso- ==__c2
+__s^bk__and the complement is robert .__c1
+__s.%-__i'll - i'll send you ==__c4
+__qy__i'll - i'll send you a style file | right ?__c4
+__s^2|s^aa__okay .__c1
+__b__you just ==__c4
+__s^na|s^aa__i already sent you my fi- - my bib file .__c1
+__b__so ==__c1
+__s^bk__okay .__c4
+__s__and um ==__c4
+__%-__sounds good .__c4
+__s^bu|qy^d^g__someday we also have to - we should probably talk about the other side of the where is x.  construction .__c0
+__s__which is the issue of um how do you simulate questions ?__c0
+__%-__what does the simspec look like for a question ?__c0
+__s^e__yeah .__c4
+__qy^d^g^r.%__uhhuh .__c2
+__s^aa|s.%-__because it's a little different .__c0
+__qy^bu^d^rt__yeah .__c1
+__s^aa|s__yeah | now we- - we w- ==__c2
+__s__we had to - we had an idea for this which seemed like it would probably work .__c0
+__fg|s__great | okay .__c2
+__s^aa__yeah | simspec may need - we may n- - need to rename that .__c2
+__s^bk__i - yeah | i ==__c1
+__%-__yeah .__c0
+__b__okay | so let's think of a name for - for whatever the - this intermediate structure is .__c2
+__s__oh we talked about semspec for semantic spec- - specification .__c2
+__s^bk__huh .__c0
+__s^bk__and that seems ==__c2
+__b__um ==__c2
+__s^e__it's more general @@ .__c0
+__s^aa__you know so it's a m- - minimal change .__c2
+__s^aa__only have to change one vowel .__c1
+__fg|qw.%-__that's great .__c1
+__s^aa__yeah just ==__c2
+__s.%--__all the old like graphs .__c1
+__s__right .__c2
+__fh__just change the - just like mark out the ==__c1
+__s^aa__cool .__c0
+__%-__right | a little substi- - substi- ==__c2
+__fg__you know that's what text substitution uh macros are for .__c2
+__s^ba__yeah | it's good for you .__c0
+__qw__yeah .__c1
+__s^bk|s__anyway | uh so let's - let's for the moment call it that until we think of something better .__c2
+__qw^rt__okay .__c0
+__s^rt__and yeah we absolutely need to find ==__c2
+__s__part of what was missing were markings of all sorts that weren't in there .__c2
+__s__incl- - including the questions .__c2
+__s__we didn't - we never did figure out how we were going to do emphasis in - in uh the semspec .__c2
+__s^ba__uhhuh .__c0
+__s^aa|s__yeah .__c0
+__qy^bu^d^rt__yeah | we've talked a little bit about that too .__c1
+__b.%__which ==__c1
+__b.%__uh uh it's hard for me to figure out with sort of our general linguistic issues how they map onto this particular one .__c1
+__s^ba__but ==__c1
+__s^bk__yeah .__c0
+__fg|s.%-__okay yeah understood .__c1
+__s__but that's part of the formalism .__c2
+__s__is got to be uh how things like that get marked .__c2
+__s^aa__uhhuh .__c0
+__s__w- - do you have data like the - the you have preliminary data ?__c1
+__s^aa|s^m^na__because i know you know we've been using this one easy sentence .__c1
+__s^bk__and i'm sure you guys have - uh maybe you are the one who've been looking at the rest of it .__c1
+__b__um i- ==__c0
+__s^df.%-__it'd - it'd be useful for me if we want to have it a little bit more data oriented .__c1
+__b__to tell you the truth what i've been looking at has not been the data so far .__c0
+__s^bk__yeah .__c1
+__s^no__uhhuh uhhuh .__c1
+__s__and i have not gotten them out of the way yet .__c0
+__s^bk__uhhuh .__c1
+__s__surprise .__c0
+__s__so um ==__c0
+__s.%-__yeah .__c1
+__b__so i have not really approached a lot of the data .__c0
+__s^e__but i mean obviously like these - the - the question one .__c0
+__s^na__since we have this idea about the indefinite pronoun thing and all that you know i ca- - can try and um run with that .__c0
+__b__you know try and do some of the sentence constructions now .__c0
+__s^no__okay | do you want to run the indefinite pronoun idea past jerry ?__c4
+__s^bk__it would make sense .__c0
+__b__okay .__c1
+__b__oh yeah | the basic idea is that ==__c0
+__b__um | uh you know ==__c0
+__b__uh let's see if i can formulate this .__c0
+__b__so mary fixed the car with a wrench .__c4
+__s.%--__yeah .__c0
+__s__so you perform the mental sum .__c4
+__s__and then you know who fixed the car with a wrench .__c4
+__b__you basically are told to - to do this .__c4
+__s__in the - in - analogously to the way you would do someone fixed the car with a wrench .__c4
+__%-__and then you hand it back to your hippocampus .__c4
+__fh__and find out what that you know .__c4
+__s^bk__means .__c0
+__s^ba__means .__c4
+__s^t1__and then come up with that - so who that someone was .__c4
+__fh|s__the w. h question has this as sort of extra thing which says and when you're done tell me who fills that slot or w- - you know .__c0
+__s__uhhuh .__c2
+__b^rt__so um ==__c0
+__fh__and you know this is sort of a nice way to do it .__c0
+__s__the idea of sort of saying that you treat - from the simulation point of view or whatever - you treat uh w. h constructions similarly to uh indefinite pronouns .__c0
+__s^ba__like someone fixed the car .__c0
+__s^bk__because lots of languages um have w. h questions with an indefinite pronoun in situ or whatever .__c0
+__s__use actually the same one .__c1
+__%-__and you just get intonation to tell you that it's a question .__c0
+__s^rt__all right | which is ==__c2
+__s.%--__so it makes sense .__c0
+__s__um ==__c0
+__s^rt__skolemization .__c2
+__s__huh ?__c0
+__s__in - in logic it's - it's - @@ it's actual- - huh .__c2
+__s__huh .__c1
+__b__right | let's put a skolem - skolem constant in .__c1
+__s^rt__yeah .__c0
+__s__shko- ==__c0
+__s^bk__what ?__c2
+__s__yeah .__c1
+__b__sure .__c0
+__s__yeah right .__c1
+__s__okay .__c0
+__b__that- - that's not - that's not saying it's bad .__c2
+__b__it's just that ==__c2
+__fh__right right no of course .__c0
+__s^bk__huh .__c1
+__s__that - that - the logicians have - have uh ==__c2
+__fh__that's right .__c0
+__s__come up with this .__c4
+__s__it makes sense from that point of view too which is actually better .__c0
+__s^aa|s^na__so yeah um ==__c0
+__s.%--__anyway | but just that kind of thing .__c0
+__s__and we'll figure out exactly how to write that up and so on .__c0
+__b__but ==__c0
+__s__good .__c2
+__s__uh no all the focus stuff .__c0
+__qy^rt__we sort of just dropped that .__c0
+__s^ar__because it was too weird .__c0
+__s__and we didn't even know like what we were talking about exactly .__c0
+__s^na__what the object of study was .__c0
+__qy^rt__um huh .__c1
+__s__so ==__c0
+__s^bk__yeah well if - if - i mean i- - part of - of what the exercise is t- - by the end of next week is to say what are the things that we just don't have answers for yet .__c2
+__s^bd^e__yeah .__c0
+__b__that's fine .__c2
+__b__yep .__c0
+__fg__i mean ==__c2
+__fg|s__uhhuh .__c1
+__fg|qw__well if you - if you do want to discuss focus background and then get me into that .__c4
+__qy^bu^d^rt__because - i mean i wo- - i w- - scientifically worked on that for - for almost two years .__c4
+__qrr.%-__yeah .__c0
+__s^rt__okay | then certainly we will .__c0
+__%__yeah | you should definitely um be on on that ==__c1
+__s^bk__good .__c0
+__%-__maybe - maybe by - after monday we'll - y- - you can see what things we are and aren't ==__c1
+__qy^bu^d^rt__yeah | w- - we should figure out what our questions are for example to ask you .__c0
+__s^aa__yeah yeah .__c1
+__s__so ==__c0
+__b.%__okay .__c1
+__s__okay .__c0
+__s^rt__wel- - then- - t- - hans .__c2
+__s.%--__has - i haven't seen hans boas .__c2
+__s__he's been around .__c1
+__s__yeah .__c0
+__s__okay | so has he been - been involved with this ?__c2
+__b__just maybe not today .__c1
+__b__or ?==__c2
+__s__uh with us ?__c1
+__s__yeah .__c1
+__b__yeah .__c0
+__s^ba__yeah .__c2
+__s^ba__i would say that tha- - that those discussions have been primarily um keith and - keith and me .__c1
+__s.%--__but um ==__c1
+__s__like in th- - the meeting - i mean he sort of - i thin- - like the last meeting we had i think we were all very much part of it .__c1
+__s__yeah .__c0
+__s__but um ==__c1
+__b__sometimes hans has been sort of coming in there as sort of like a devil's advocate type role or something .__c0
+__b__but different perspec- ==__c1
+__s__yeah .__c1
+__b__like this make - you know i'm going to pretend i'm a linguist who has nothing to do with this .__c0
+__b__this makes no sense .__c0
+__s__and he'll just go off on parts of it which definitely need fixing .__c0
+__s__right .__c1
+__s__but aren't where we're at right now .__c0
+__s.%-__like - like what you call certain things .__c1
+__b__so it's ==__c0
+__s__which we decided long ago we don't care that much right now .__c1
+__b__yeah .__c0
+__b__right .__c2
+__b__okay .__c2
+__fh__but in a sense it's good to know that he of all people ==__c1
+__s__you know like maybe a lot of people would have m- - much stronger reactions .__c1
+__s__so you know he's like a relatively friendly linguist .__c1
+__s^ba__yeah .__c0
+__s__and yet a word like constraint causes a lot of problems .__c1
+__b__yeah .__c0
+__s__and so right so ==__c1
+__b^rt__okay | this is consistent with um the role i had suggested that he - he play .__c2
+__s^no__uh .__c1
+__s__uhhuh .__c0
+__%-__okay | which was that o- - one of the things i would like to see happen is a paper that was tentatively called towards a formal cognitive semantics .__c2
+__s^bk__which was addressed to these linguists uh who haven't been following this stuff at all .__c2
+__s^e__yeah .__c0
+__fg|s__so it could be that he's actually at some level thinking about how am i going to communicate this story .__c2
+__b^rt__yeah .__c0
+__s^df__yeah .__c0
+__s^bk__so internally we should just do whatever works .__c2
+__s^df^e__yeah .__c0
+__s^e__because it's hard enough .__c2
+__s^bk__yeah .__c0
+__s__but if he g- - if he turns - is - is really going to turn around and help t- - to write this version that does connect with as many as possible of the other linguists in the world um then - then it becomes important to use terminology that doesn't make it hard .__c2
+__s^ba__uhhuh .__c1
+__b__uhhuh .__c0
+__s^df__yeah .__c0
+__b__yeah .__c0
+__s^aa.%__uhhuh sure .__c1
+__b__i mean it's going to be plenty hard for - for people to understand it as it is .__c2
+__fh__but y- - y- - you don't want to make it worse .__c2
+__b__yeah .__c0
+__s^df__yeah .__c0
+__s^bu|qy^d^g__so ==__c2
+__b.%__no right | i mean tha- - that role is - is uh indispensable .__c0
+__s__but that's not where sort of our heads were at in these meetings .__c0
+__b.%__right .__c2
+__s__yeah yeah | no that's fine .__c2
+__s^bk__it was a little strange .__c0
+__b__i just wanted t- - to ==__c2
+__s.%-__i have to catch up with him and i wanted t- - to get a feeling for that okay .__c2
+__fg|s__yeah .__c0
+__s^aa__uhhuh .__c1
+__s__so i don't know what his take will be on these meetings exactly you know .__c0
+__s^ba__okay good .__c2
+__s^bd__because sometimes he sort of sounds like we're talking a bunch of goobledy-gook from his point of view .__c0
+__b__i think it's good when we're ==__c1
+__s^e__when we're into data and looking at the - some specific linguistic phenomenon in - in english or in german in particular whatever that's great .__c1
+__fh__yeah .__c2
+__s__uhhuh .__c0
+__s^e__and ben and - and hans are if - if anything more - you know they have more to say than let's say i would about some of these things .__c1
+__s__right .__c2
+__b__but when it's like well w- - how do we capture these things you know i think it's definitely been keith and i who have d- - you know who have worried more about the ==__c1
+__s__well that's good | that's - i- - i- - i think that should be the - the core group .__c2
+__b__uhhuh .__c0
+__fh|s__s- - which is fine .__c1
+__s^e__yeah .__c0
+__qy^rt__uhhuh .__c1
+__s^bk__and um ==__c2
+__s__that's you know i think very close to the maximum number of people working together that can get something done .__c2
+__s__yeah .__c0
+__s^bk|s^no__yes .__c1
+__s__yeah | we actually have - i think we have been making progress .__c1
+__fg__and its sort of surprising .__c1
+__fg|s__yeah .__c0
+__b__i - i - i - i definitely get that impression | yeah .__c2
+__s__you know like ==__c1
+__s^df__that's great .__c2
+__b__yep .__c0
+__s^bk__yeah .__c1
+__b__so anyone else would like uh ruin the balance of ==__c1
+__b__anyway .__c1
+__s__well but - well but th- - th- - then w- - then we have to come back to the bigger group .__c2
+__b__right .__c1
+__b__yeah .__c0
+__fh__yeah great | and then we're gon- - we're going to ==__c2
+__s^bk__because of this other big thing we haven't talked about is actually implementing this stuff .__c2
+__s__so that i guess the three of us are going to connect tomorrow about that .__c2
+__b__yeah | we could talk tomorrow .__c1
+__s^df.%--__i was just going to say though that for instance there was - you know out of a meeting with johno came the suggestion that oh could it be that the meaning constraints really aren't used for selection .__c1
+__s__which has sort of been implicit in the parsing strategy we talked about .__c1
+__b__right .__c2
+__s^aa__in which case we w- - we can just say that they're the effects or the bindings .__c1
+__s__which uh so far in terms of like putting up all the constraints as you know pushing them into type constraints the - when i've you know propo- - then proposed it to linguists who haven't yet given me - you know we haven't yet thought of a reason that that wouldn't work .__c1
+__s__right | as long as we allow our type constraints to be reasonably complex .__c1
+__b__well it ==__c2
+__b__so - anyway to be - to talk about later .__c1
+__fh__yeah | it has to in the sense that you're going to use them eventu- ==__c2
+__b__it's - you know it's sort of a um generate and test kind of thing .__c2
+__s__uhhuh uhhuh .__c1
+__s__and if you over generate then you'll have to do more .__c2
+__s__i mean if there are some constraints that you hold back and don't use uh in your initial matching then you'll match some things .__c2
+__s.%--__uhhuh uhhuh .__c1
+__s.%--__i mean i - i d- - i don't think there's any way that it could completely fail .__c2
+__s__it - it could be that uh you wind up ==__c2
+__s.%-__i mean ==__c2
+__b__the original bad idea of purely context free grammars died because there were just vastly too many parses .__c2
+__b__you know exponentially num- - num- - many parses .__c2
+__s__and so th- - the concern might be that - not that it would totally fail but that ==__c2
+__s__uhhuh .__c1
+__s__uhhuh .__c1
+__b__that it would still generate too many | right ?__c1
+__s__it would still genera- ==__c2
+__s^rt__so by just having semantic- - even bringing semantics in for matching just in the form of j- - semantic types | right ?__c1
+__b__like conceptually these have to be construed as this this and this might still give us quite a few possibilities .__c1
+__b__yeah .__c2
+__s^bk__we don't know .__c2
+__b__that you know - and - and it certainly helps a lot .__c1
+__b__but yeah .__c2
+__s__i mean le- - let's put it that way .__c1
+__s^rt__no question | yeah .__c2
+__s__so ==__c1
+__s__and i think it's a - it's a perfectly fine place to start .__c2
+__qy^bh__you know and say let- - let's see how far we can go this way .__c2
+__s__uhhuh uhhuh .__c1
+__s^bk__and uh ==__c2
+__s.%-__well it definitely makes the problem easier .__c3
+__b__i'm - i'm in favor of that .__c2
+__s.%-__uh because i think i- - i think it's - as you know i think it's real hard and if w- - if we ==__c2
+__s__right .__c2
+__s^bk__so friday ?__c1
+__s__monday ?__c1
+__s^df.%-__yeah .__c0
+__fg|%-__monday .__c1
+__s^ba^df__yeah .__c0
+__s^aa|s__so okay that's - tuesday .__c1
+__%-__yeah .__c2
+__s^rt__yeah .__c0
+__b__like - th- - that's the conclusion | okay .__c1
+__fh|s^bd^no__so you- - your dance card is completely filled now ?__c4
+__s^cc__uhhuh .__c3
+__s^df.%--__shoot .__c0
+__s^df__yeah | and i have nothing to do this weekend but work .__c1
+__b__why don't ?==__c4
+__s^bsc__no | that's not really true ==__c1
+__b__but like ==__c1
+__s^df__bummer .__c0
+__fg|s__what about - what about d. d. r ?__c3
+__%-__@@ ==__c5
+__s__it's almost true .__c1
+__s^df.%-__oh i don't have it this weekend .__c1
+__b__so tsk don't have to worry about that .__c1
+__fg|%-__huh .__c3
+__b__d. d. r he asked ?__c2
+__s__speaking of dance .__c1
+__s^df.%-__dance dance revolution .__c1
+__s^2__i can't believe i'm ==__c1
+__s^2|s^aa__it's a - it's like a game but it's for like dancing .__c1
+__s^rt__hard to - it's like karaoke but for dancing .__c1
+__s^aa|s__and they tell you what ==__c1
+__b__it's amazing .__c1
+__s^bk__it's so much fun .__c1
+__s__yeah it's so good .__c1
+__s^bu__my friend has a home version and he brought it over .__c1
+__s^aa__and we are so into it .__c1
+__b__it's so amazing .__c1
+__s__well y- - you know of it ?__c1
+__s^bk__i- - i- - i- - it's one of your hobbies ?__c1
+__s^no__it's great exercise i must say .__c1
+__s^bd^no__i can't wait to hear this .__c1
+__qy^bh^rt__uhhuh .__c1
+__s__oh definitely | they have like places - instead of like - yeah instead of karaoke bars now that have like d. d. r .__c1
+__s^bsc|s^bk__like ==__c1
+__qy^bu__yeah yeah | i didn't until i started hanging out with this friend who's like oh well i can bring over the d. d. r if you want .__c1
+__s^bk__oh oh dance dance revolution - okay .__c1
+__qy^bu^d^rt__he actually brought a clone called stepping selection .__c1
+__s^bu^e__but it's just as good .__c1
+__h|s__so ==__c1
+__s__anyw- ==__c1

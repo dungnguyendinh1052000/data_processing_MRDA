@@ -1,0 +1,1394 @@
+__z__yeah we had a long discussion about how much w- - how easy we want to make it for people to bleep things out .__c3
+__z__so ==__c3
+__z__morgan wants to make it hard .__c3
+__z__it - it doesn't ==__c4
+__z__did - did - did it ?==__c3
+__z__i didn't even check yesterday whether it was moving .__c3
+__z__it didn't move yesterday either when i started it .__c4
+__z__so ==__c3
+__z__so i don't know if it doesn't like both of us .__c4
+__z__channel three ?__c3
+__z__channel three ?__c3
+__z__you know i discovered something yesterday on these um wireless ones .__c4
+__z__channel two .__c2
+__z__uhhuh ?__c3
+__z__you can tell if it's picking up breath noise and stuff .__c4
+__z__yeah .__c3
+__z__it has a little indicator on it - on the a. f .__c3
+__z__uhhuh .__c4
+__z__so if you ==__c4
+__z__yeah if you breathe under - breathe and then you see a. f go off then you know it's p- - picking up your mouth noise .__c4
+__z__oh that's good .__cb
+__z__because we have a lot of breath noises .__cb
+__z__yep .__c3
+__z__test .__c3
+__z__in fact if you listen to just the channels of people not talking it's like @@ .__cb
+__z__it's very disgust- ==__cb
+__z__what ?__c3
+__z__did you see hannibal recently or something ?__c3
+__z__sorry .__cb
+__z__exactly .__cb
+__z__it's very disconcerting .__cb
+__fg__okay .__cb
+__fh__so um ==__cb
+__%__@@ .__c3
+__s^rt__i was going to try to get out of here like in half an hour .__cb
+__fh__um ==__cb
+__s__because i really appreciate people coming .__cb
+__s__and the main thing that i was going to ask people to help with today is to give input on what kinds of database format we should use in starting to link up things like word transcripts and annotations of word transcripts .__cb
+__s^e__so anything that transcribers or discourse coders or whatever put in the signal with time marks for like words and phone boundaries and all the stuff we get out of the forced alignments and the recognizer .__cb
+__fh|s.%--__so | we have this um ==__cb
+__s__i think a starting point is clearly the - the channelized output of dave gelbart's program .__cb
+__s^e^rt__which don brought a copy of .__cb
+__b__yeah .__c3
+__s^bk|s__yeah | i'm - i'm familiar with that .__c3
+__s__i mean we - i sort of already have developed an x. m. l format for this sort of stuff .__c3
+__fh__um ==__cb
+__%-__which ==__cb
+__qy^rt^t3__can i see it ?__c4
+__s__and so the only question is it the sort of thing that you want to use or not .__c3
+__qy^rt__have you looked at that ?__c3
+__s^df__i mean i had a web page up .__c3
+__s^aa__right .__cb
+__fh__so ==__cb
+__s.%--__i actually mostly need to be able to link up or ==__cb
+__fg__so ==__c3
+__s.%-__i- - it's - it's a question both of what the representation is and ==__cb
+__qy^d^rt^t3__you mean this ?__c3
+__s__i guess i am going to be standing up and drawing on the board .__c3
+__s^bk__okay .__cb
+__s^aa__yeah .__cb
+__s^na__so you should definitely .__cb
+__s__um so - so it definitely had that as a concept .__c3
+__s__so tha- - it has a single timeline .__c3
+__s^bk__uhhuh .__cb
+__s__and then you can have lots of different sections .__c3
+__s__each of which have i. d.'s attached to it .__c3
+__s__and then you can refer from other sections to those i. d.'s .__c3
+__s^e__if you want to .__c3
+__s.%--__so that ==__c3
+__fh__um ==__c3
+__s^df__so that you start with - with a timeline tag .__c3
+__s^t1__timeline .__c3
+__s__and then you have a bunch of times .__c3
+__s^no__i don't e- - i don't remember exactly what my notation was .__c3
+__s^bk|s__oh | i remember seeing an example of this .__c1
+__%-__but it ==__c3
+__s^bk__right .__cb
+__s^bk^r__right .__cb
+__s^bk__yeah .__c1
+__s^bk__yeah .__c3
+__s^t1__t.  equals one point three two .__c3
+__fh__uh ==__c3
+__s__and then i - i also had optional things like accuracy .__c3
+__s^t1__and then i. d equals t.  one uh one seven .__c3
+__s__and then i also wanted to - to be i- - to be able to not specify specifically what the time was and just have a stamp .__c3
+__s^bk__right .__cb
+__s__yeah so these are arbitrary assigned by a program .__c3
+__s^e__not - not by a user .__c3
+__s__so you have a whole bunch of those .__c3
+__s__and then somewhere la- - further down you might have something like an utterance tag .__c3
+__s^e__which has start equals t. seventeen .__c3
+__s^e__end equals t. eighteen .__c3
+__s:s__so what that's saying is we know it starts at this particular time .__c3
+__s:s^no__we don't know when it ends .__c3
+__s^bk__okay .__cb
+__qy^d^f^g^rt__right ?__c3
+__s__but it ends at this t. eighteen .__c3
+__s^e__which may be somewhere else .__c3
+__s__we say there's another utterance .__c3
+__s__we don't know what the t- - time actually is .__c3
+__s__but we know that it's the same time as this end time .__c3
+__b__huh .__c1
+__s^e__you know thirty eight .__c3
+__s__whatever you want .__c3
+__s^bu__so you're essentially defining a lattice .__c1
+__b__okay .__c3
+__s^aa__yes .__c3
+__s^aa__exactly .__c3
+__b__yeah .__c1
+__s__and then uh - and then these also have i. d.'s .__c3
+__qy^d^f^g^rt__right ?__c3
+__s^cs__so you could - you could have some sort of other - other tag later in the file that would be something like um oh i don't know uh noise type equals door slam .__c3
+__qy^d^f^g__you know ?__c3
+__s^cs__and then uh you could either say time equals a particular time mark or you could do other sorts of references .__c3
+__s__so - or - or you might have a prosody .__c3
+__s__prosody .__c3
+__qy^d^f^g^rt__right ?__c3
+__qy^bu^d^rt__d.  ?__c3
+__qy^bu^d^rt__t.  ?__c3
+__s^df^nd__it's an o.  instead of an i.  .__cb
+__s^aap__but the d.  is good .__cb
+__qy^d^j^rt__you like the d.  ?__c3
+__s^aa__yeah .__cb
+__s^ba__that's a good d.  .__c3
+__fg__um ==__c3
+__s__you know so you could have some sort of type here .__c3
+__s.%--__and then you could have ==__c3
+__fh__um ==__c3
+__s__the utterance that it's referring to could be u. seventeen or something like that .__c3
+__s^bk__okay .__cb
+__fh__so ==__cb
+__s^ba__i mean that seems that seems g- - great for all of the encoding of things with time .__cb
+__fh__and ==__cb
+__s^bk__oh well .__c3
+__fh__um ==__cb
+__qw__i - i guess my question is more uh what d- - what do you do with say a forced alignment ?__cb
+__%__how- - how- ==__c1
+__s^df__i mean you've got all these phone labels .__cb
+__qw__and what do you do if you just conceptually if you get um transcriptions where the words are staying but the time boundaries are changing because you've got a new recognition output ?__cb
+__qw__or s- - sort of - what's the um sequence of going from the waveforms that stay the same the transcripts that may or may not change and then the utterance which - where the time boundaries that may or may not change ?__cb
+__s^bk.%-__oh that's ==__c1
+__s__that's actually very nicely handled here .__c1
+__fh__um ==__cb
+__s^df__because you could - you could - all you'd have to change is the um time stamps in the timeline without - without uh changing the i. d.'s .__c1
+__qy^bu^d__and you'd be able to propagate all of the - the information ?__cb
+__s^bk__right .__c3
+__s__that's the who- - that's why you do that extra level of indirection .__c3
+__s^df__so that you can just change the timeline .__c3
+__s__except the timeline is going to be huge .__c1
+__s.%--__if you say ==__c1
+__s^aa__yes .__c3
+__s^aa__yeah .__cb
+__s^na__yeah especially at the phone level .__cb
+__s^e__suppose you have a phone level alignment .__c1
+__s__the - we - we have phone level backtraces .__cb
+__%-__you'd have - you'd have ==__c1
+__fg|%-__yeah | this ==__c3
+__s^ng__i don't think i would do this for phone level .__c3
+__fh__um ==__cb
+__s__i think for phone level you want to use some sort of binary representation .__c3
+__s^df__because it'll be too dense otherwise .__c3
+__fg__okay .__cb
+__fh|qw__so | if you were doing that and you had this sort of companion uh thing that gets called up for phone level uh what would that look like ?__cb
+__qw.%-__how would you ?==__cb
+__s__i would use just an existing - an existing way of doing it .__c3
+__%-__why- ==__c1
+__b__huh .__c1
+__qw__but - but why not use it for phone level ?__c1
+__%-__h- - h- ==__cb
+__s^df__it's just a matter of - it's just a matter of it being bigger .__c1
+__s.%--__but if you have ==__c1
+__s.%-__you know barring memory limitations or- - uh - i- - w- - i mean this is still the m- ==__c1
+__s^nd__it's parsing limitations .__c3
+__s__i don't want to have this text file that you have to read in the whole thing to do something very simple for .__c3
+__s^ar__oh no .__c1
+__s^nd__you would use it only for purposes where you actually want the phone level information i'd imagine .__c1
+__s__so you could have some file that configures how much information you want in your - in your x. m. l or something .__cb
+__s^bk__right .__c3
+__%--__i mean you'd - y- ==__c3
+__fh__um ==__cb
+__s^df.%-__because th- - it does get very bush- - with ==__cb
+__s__i - i am imagining you'd have multiple versions of this depending on the information that you want .__c3
+__%-__you ==__c1
+__s^aa__right .__cb
+__fh__um ==__c3
+__s.%--__i'm just ==__c3
+__s.%--__what i'm wondering is whether ==__c3
+__s__i think for word level this would be okay .__c3
+__s^aa__yeah .__cb
+__s^aa^r__yeah .__cb
+__s__for word level it's all right .__c3
+__s^na__definitely .__cb
+__b__uhhuh .__c1
+__s^no__for lower than word level you're talking about so much data that i just - i don't know .__c3
+__s.%--__i don't know if that ==__c3
+__s.%--__i mean we actually have ==__cb
+__s__so one thing that don is doing is we're - we're running for every frame you get a pitch value .__cb
+__s__lattices are big too .__c4
+__s^e__and not only one pitch value but different kinds of pitch values .__cb
+__s^e.%-__depending on ==__cb
+__fg|s__yeah i mean | for something like that i would use p. file .__c3
+__s__or - or any frame level stuff i would use p. file .__c3
+__qw^d^rt__meaning ?__cb
+__s__uh that's a - well or something like it .__c3
+__s__it's ics- - uh icsi has a format for frame level representation of features .__c3
+__s^bk__okay .__cb
+__fh__um ==__c3
+__s^bu__that you could call - that you would tie into this representation with like an i. d .__cb
+__s^aa__right .__c3
+__s^aa^r__right .__c3
+__s__or - or there's a - there's a particular way in x. m. l to refer to external resources .__c3
+__fh__and ==__cb
+__s^bk__okay .__cb
+__s:s^co__so you would say refer to this external file .__c3
+__fh__um ==__c3
+__s.%--__so that external file wouldn't be in ==__c3
+__s^na__so that might - that might work .__cb
+__qw^rt__but what - what's the advantage of doing that versus just putting it into this format ?__c4
+__s__@@ more compact .__c3
+__s^ba__which i think is - is better .__c3
+__b__uhhuh .__c4
+__s.%-__i mean if you did it at this ==__c3
+__s__i mean these are long meetings .__cb
+__s.%--__and with - for every frame ==__cb
+__s.%--__you don't want to do it with that ==__c3
+__fh__um ==__cb
+__s__anything at frame level you had better encode binary .__c3
+__s^df__or it's going to be really painful .__c3
+__s^cs.%--__or you just compre- ==__c1
+__s^cs__i mean i like text formats .__c1
+__fh__um ==__c1
+__s^cs^df__b- - you can always uh g. zip them .__c1
+__fh|s^cs^df__and um | you know c- - decompress them on the fly if y- - if space is really a concern .__c1
+__fg|s.%--__yeah | i was thi- ==__c4
+__s__i was thinking the advantage is that we can share this with other people .__c4
+__s^nd__well but if you're talking about one per frame you're talking about gigabyte-size files .__c3
+__s^df__you're going to actually run out of space in your filesystem for one file .__c3
+__s^na__these are big files .__cb
+__s.%--__these are really ==__cb
+__fh__i mean ==__cb
+__qy^d^f^g^rt__right ?__c3
+__s^df__because you have a two-gigabyte limit on most o. s.'s .__c3
+__s^bk__right .__c1
+__s^bk__okay .__c1
+__s.%--__i would say ==__c1
+__s^bk|s^na__okay | so frame level is probably not a good idea .__c1
+__%-__and th- - it's ==__cb
+__s.%--__but for phone level stuff it's perfectly ==__c1
+__s__like phones or syllables or anything like that .__c1
+__s^ng__phones are every five frames though .__cb
+__fh__so ==__cb
+__s^e__or something like that .__cb
+__s^df__but - but - but most of the frames are actually not speech .__c1
+__fh__so ==__c1
+__s.%--__you know people don't ==__c1
+__s^bk__yeah .__cb
+__qy^bu^d^df^rt__v- - look at it words times the average - the average number of phones in an english word is i don't know five maybe ?__c1
+__s^ng.%--__but we actually ==__cb
+__s^df__so look at it t- - number of words times five .__c1
+__s^bu.%--__oh so you mean pause phones take up a lot of the ==__cb
+__%-__that's not - that not ==__c1
+__s^bsc__long pause phones .__cb
+__s^aa__yep .__c3
+__s^aa__exactly .__c1
+__s^bk__yeah .__cb
+__s^bk__okay .__cb
+__s^aa__yeah .__c1
+__s^aa__that's true .__cb
+__s__but you do have to keep them in there .__cb
+__fh__y- - yeah .__cb
+__s__so i think it - it's debatable whether you want to do phone level in the same thing .__c3
+__s^bk__okay .__cb
+__s^ba__but i think a- - anything at frame level even p. file is too verbose .__c3
+__s^bk__okay .__cb
+__fg__so ==__cb
+__s^cs__i would use something tighter than p. files .__c3
+__qy^rt__do you - are you familiar with it ?__cb
+__fh__so ==__c3
+__s^df__i haven't seen this particular format .__cb
+__s^na__i mean i've - i've used them .__c1
+__fh__but ==__cb
+__s^no__i don't know what their structure is .__c1
+__s^bk__okay .__cb
+__s^no.%-__i've forgot what the str- ==__c1
+__s^co__but wait a minute .__c4
+__s^bu__p. file for each frame is storing a vector of cepstral or p. l. p values .__c4
+__qy^d^g^rt__right ?__c4
+__s^ng__it's whatever you want actually .__c3
+__s^bk__right .__c4
+__s.%--__so that - what's nice about the p. file - it - i- ==__c3
+__s__built into it is the concept of frames utterances sentences that sort of thing that structure .__c3
+__s__and then also attached to it is an arbitrary vector of values .__c3
+__s^bk__oh .__cb
+__s__and it can take different types .__c3
+__s__so it - th- - they don't all have to be floats .__c3
+__s^e__you know you can have integers and you can have doubles and all that sort of stuff .__c3
+__s.%-__so that - that sounds - that sounds about what i w- ==__cb
+__fh__um ==__c3
+__qy^d^g^rt__right ?__c3
+__s__and it has a header - it has a header format that describes it to some extent .__c3
+__fh__so ==__c3
+__s__the only problem with it is it's actually storing the utterance numbers and the frame numbers in the file .__c3
+__s^e__even though they're always sequential .__c3
+__s__and so it does waste a lot of space .__c3
+__b__huh .__c1
+__s__but it's still a lot tighter than - than ascii .__c3
+__s__and we have a lot of tools already to deal with it .__c3
+__qy^d__you do ?__cb
+__s^bk__okay .__cb
+__qy^rt__is there some documentation on this somewhere ?__cb
+__s^aa__yeah .__c3
+__s^na__there's a ton of it .__c3
+__s^bk__okay .__cb
+__s^ba__great .__cb
+__s^df__man pages and uh source code and me .__c3
+__fh__so ==__cb
+__s^ba__i mean that sounds good .__cb
+__s.%--__i - i was just looking for something ==__cb
+__s^df__i'm not a database person .__cb
+__s__but something sort of standard enough that you know if we start using this we can give it out .__cb
+__s__other people can work on it .__cb
+__s^bk|s^nd__yeah | it's not standard .__c3
+__qy.%-__or - is it ?==__cb
+__s^df^nd__i mean it's something that we developed at icsi .__c3
+__fh__but uh ==__c3
+__s__but it's been used here .__cb
+__s^m^na__but it's been used here .__c3
+__s.%-__and people've ==__cb
+__s__and - and you know we have a well configured system that you can distribute for free .__c3
+__%-__and ==__c3
+__s^bu|qy^d^g^rt__i mean it must be the equivalent of whatever you guys used to store feat- - your computed features in | right ?__c4
+__b__okay .__cb
+__s^aa__yeah .__c1
+__s.%--__th- - we have ==__c1
+__s^rt__actually we - we use a generalization of the - the sphere format .__c1
+__s^bk__huh .__c4
+__fh__um ==__c1
+__fh__but ==__c1
+__s^na__yeah so there is something like that .__c1
+__s.%-__but it's um probably not as sophist- ==__c1
+__s.%-__and i think there's ==__c4
+__qw__well what does h. t. k do for features ?__c3
+__qy__or does it even have a concept of features ?__c3
+__s.%--__they ha- - it has its own ==__c1
+__s__i mean entropic has their own feature format that's called like s.  - s. d or some so- - s. f or something like that .__c1
+__s^bk__yeah .__cb
+__s^bk__yeah .__c4
+__qy^cs^df^rt__i'm just wondering would it be worth while to use that instead ?__c3
+__%__huh ?__c1
+__s^bk__yeah .__cb
+__s.%-__th- - this is exactly the kind of decision - it's just whatever ==__cb
+__s^bu|qy^d^g^rt__but i mean people don't typically share this kind of stuff | right ?__c4
+__b__right .__c1
+__fh__i mean ==__c4
+__s^na__they generate their own .__c3
+__fg|s__actually | i - i just - you know we - we've done this stuff on prosodics .__cb
+__s^bk__yeah .__c4
+__s__and three or four places have asked for those prosodic files .__cb
+__s__and we just have an ascii uh output of frame by frame .__cb
+__s^bk__uh right .__c3
+__s^df__which is fine .__cb
+__s__but it gets unwieldy to go in and - and query these files with really huge files .__cb
+__s^bk__right .__c3
+__s__i mean we could do it .__cb
+__s.%--__i was just thinking if there's something that - where all the frame values are ==__cb
+__s.%-__and a- - and again if you have a ==__c3
+__qw^rt__huh ?__cb
+__s.%-__if you have a two hour long meeting that's going to ==__c3
+__s__they're - they're fair- - they're quite large .__cb
+__s__and these are for ten minute switchboard conversations .__cb
+__s^na__yeah i mean they'd be emo- - enormous .__c3
+__s^aa__right .__c3
+__fh__and ==__cb
+__s__so it's doable .__cb
+__s^df__it's just that you can only store a feature vector at frame by frame .__cb
+__s.%--__and it doesn't have any kind of ==__cb
+__fh__um ==__cb
+__qy^rt__is - is the sharing part of this a pretty important consideration ?__c4
+__qrr__or does that just sort of uh - a nice thing to have ?__c4
+__s^no^rt__i - i don't know enough about what we're going to do with the data .__cb
+__s__but i thought it would be good to get something that we can - that other people can use or adopt for their own kinds of encoding .__cb
+__s^df__and just i mean we have to use some- - we have to make some decision about what to do .__cb
+__b__yeah .__c3
+__s__and especially for the prosody work what - what it ends up being is you get features from the signal .__cb
+__s__and of course those change every time your alignments change .__cb
+__s__so you rerun a recognizer .__cb
+__s__you want to recompute your features um and then keep the database up to date .__cb
+__b__right .__c3
+__s__or you change a word or you change a utterance boundary segment which is going to happen a lot .__cb
+__s__and so i wanted something where all of this can be done in a elegant way .__cb
+__s__and that if somebody wants to try something or compute something else that it can be done flexibly .__cb
+__fh__um ==__cb
+__s__it doesn't have to be pretty .__cb
+__s.%--__it just has to be you know easy to use and ==__cb
+__s.%--__yeah the other thing ==__c3
+__s^cs__we should look at atlas .__c3
+__s^e__the nist thing .__c3
+__b__oh .__cb
+__b__huh .__c1
+__s^cs__and see if they have anything at that level .__c3
+__fh__uh ==__cb
+__s^no__i mean i'm not sure what to do about this with atlas .__c3
+__s^df__because they chose a different route .__c3
+__s.%--__i chose something that ==__c3
+__s__th- - there are sort of two choices .__c3
+__s^e__your - your file format can know about - know that you're talking about language and speech which is what i chose and time .__c3
+__s^e__or your file format can just be a graph representation .__c3
+__s__and then the application has to impose the structure on top .__c3
+__s__so what it looked like atlas chose is they chose the other way .__c3
+__s^e__which was their file format is just nodes and links .__c3
+__s^e__and you have to interpret what they mean yourself .__c3
+__qw^rt__and why did you not choose that type of approach ?__cb
+__s__uh because i knew that we were doing speech .__c3
+__s__and i thought it was better if you're looking at a raw file to be - t- - for the tags to say it's an utterance as opposed to the tag to say it's a link .__c3
+__s^bk__okay .__cb
+__s^bk__okay .__cb
+__qy^rt__but other than that are they compatible ?__cb
+__fh__so but ==__c3
+__s.%--__i mean you could sort of ==__cb
+__s^aa__yeah .__c3
+__s^na__they're reasonably compatible .__c3
+__s.%-__i mean you - you could ==__cb
+__s__you could probably translate between them .__c4
+__s^bk|s.%--__yeah | that's w- ==__cb
+__s^aa__yep .__c3
+__fh__so ==__cb
+__fg__so ==__c3
+__s__well the other thing is if we choose to use atlas which maybe we should just do we should just throw this out before we invest a lot of time in it .__c3
+__b__okay .__cb
+__%-__i don't ==__cb
+__s__so this is what the meeting's about .__cb
+__s^df.%--__just sort of how to ==__cb
+__s^aa__yeah .__c3
+__s^df__um because we need to come up with a database like this just to do our work .__cb
+__s__and i actually don't care as long as it's something useful to other people what we choose .__cb
+__b__yeah .__c3
+__s.%--__so maybe it's - maybe oth- - you know ==__cb
+__s^no__if - if you have any idea of how to choose because i don't .__cb
+__s.%-__the only thing ==__c3
+__s^bk__yeah .__c3
+__qy^rt__do they already have tools ?__c1
+__s__i mean i - i chose this for a couple reasons .__c3
+__s^df__one of them is that it's easy to parse .__c3
+__s^df__you don't need a full x. m. l parser .__c3
+__s^df__it's very easy to just write a perl script to parse it .__c3
+__s__as long as uh each tag is on one line .__c1
+__s^aa__exactly .__c3
+__s^aa^r__exactly .__c3
+__s__which i always do .__c3
+__s__and you can have as much information in the tag as you want .__cb
+__qy^d^g__right ?__cb
+__s__well i have it structured .__c3
+__qy^d^f^g^rt__right ?__c3
+__s__so each type tag has only particular items that it can take .__c3
+__s^bu.%--__can you - but you can add to those structures if you ==__cb
+__s^aa__sure .__c3
+__s^2__if you have more information .__c3
+__s:s__so what - what nist would say is that instead of doing this you would say something like link start equals um you know some node i. d .__c3
+__s^aa__yeah .__cb
+__fh__so ==__cb
+__s:s__end equals some other node i. d .__c3
+__s__and then type would be utterance .__c3
+__b__huh .__c1
+__s__you know so it's very similar .__c3
+__qw__so why would it be a - a waste to do it this way if it's similar enough that we can always translate it ?__cb
+__s^ng__it probably wouldn't be a waste .__c4
+__s^df__it would mean that at some point if we wanted to switch we'd just have to translate everything .__c4
+__s^2__write a translator .__c3
+__fg__but it se- ==__c3
+__s.%-__but it - but that sounds ==__cb
+__s.%-__since they are developing a big ==__c3
+__s.%--__but that's ==__c4
+__s^ba__i don't think that's a big deal .__c4
+__s.%-__as long as it is ==__cb
+__s__they're developing a big infrastructure .__c3
+__s^cs.%-__and so it seems to me that if - if we want to use that we might as well go directly to what they're doing rather than ==__c3
+__s.%-__if we want to ==__c1
+__qy^rt__do they already have something that's - that would be useful for us in place ?__c1
+__s^bk__yeah .__c4
+__s__see that's the question .__c4
+__qw.%--__i mean how stable is their ?==__c4
+__qy^rt__are they ready to go ?__c4
+__s.%--__the - i looked at it ==__c3
+__qrr.%--__or ?==__c4
+__s^no__the last time i looked at it was a while ago .__c3
+__s^e__probably a year ago .__c3
+__s^bk__huh .__c4
+__s^e__uh when we first started talking about this .__c3
+__s^nd__and at that time at least it was still not very complete .__c3
+__s^e^nd__and so specifically they didn't have any external format representation at that time .__c3
+__s^e__they just had the sort of conceptual node uh annotated transcription graph .__c3
+__s^e__which i really liked .__c3
+__s__and that's exactly what this stuff is based on .__c3
+__s__since then they've developed their own external file format .__c3
+__s^e__which is uh you know this sort of s- - this sort of thing .__c3
+__fh|s__um | and apparently they've also developed a lot of tools .__c3
+__s__but i haven't looked at them .__c3
+__s^cs__maybe i should .__c3
+__s^cs^na__@@ we should - we should find out .__c1
+__qy__i mean would the tools - would the tools run on something like this if you can translate them anyway ?__cb
+__h|s__um | th- - what would - would - would - what would worry me is that maybe we might miss a little detail .__c3
+__s.%--__i mean that - i guess it's a question that ==__cb
+__s^ng__it's a hassle .__c1
+__fh__uh yeah .__cb
+__%__if ==__c1
+__s^df__that would make it very difficult to translate from one to the other .__c3
+__s^bk__okay .__cb
+__s.%--__i - i think if it's conceptually close and they already have or will have tools that everybody else will be using i mean it would be crazy to do something s- - you know separate that ==__c1
+__s^bk__okay .__cb
+__s^aa|s^na__yeah | we might as well .__c3
+__s^bk__yep .__c3
+__b__yeah .__cb
+__s^cc__so i'll - i'll take a closer look at it .__c3
+__fg__actually ==__cb
+__fg__so it's ==__cb
+__s__that - that would really be the question is just what you would feel is in the long run the best thing .__cb
+__fh__and ==__c3
+__s^bk__right .__c3
+__s^df__because once we start sort of doing this i don't - we don't actually have enough time to probably have to rehash it out again .__cb
+__%-__the ==__c3
+__b__yep .__c3
+__fh__and ==__cb
+__s__the other thing - the other way that i sort of established this was as easy translation to and from the transcriber format .__c3
+__%__s- ==__cb
+__s^bk__right .__cb
+__fh__um ==__c3
+__s^bk^r__right .__cb
+__fh__but ==__c3
+__s__i mean i like this .__cb
+__s__this is sort of intuitively easy to actually r- - read .__cb
+__s^bk__yep .__c3
+__s^e__as easy it could - as it could be .__cb
+__fh__but ==__cb
+__s.%--__i suppose that as long as they have a type here that specifies utt ==__cb
+__fh__um ==__cb
+__s__it's almost the same .__c3
+__s.%--__it's - yeah close enough that ==__cb
+__s__the - the - the - the point is - with this though is that you can't really add any supplementary information .__c3
+__qy^d^f^g^rt__right ?__c3
+__s.%-__so if you suddenly decide that you want ==__c3
+__s^cs__you have to make a different type .__cb
+__s^aa__yeah .__c3
+__s^m^na__you'd have to make a different type .__c3
+__fg__so ==__cb
+__s.%--__well if you look at it ==__cb
+__fh__and um ==__cb
+__s__i guess in my mind i don't know enough - jane would know better about the types of annotations .__cb
+__s.%--__and - and - but i imagine that those are things that would - well you guys mentioned this that could span any ==__cb
+__s__it could be in its own channel .__cb
+__s__it could span time boundaries of any type .__cb
+__b__right .__c3
+__s__it could be instantaneous .__cb
+__s__things like that .__cb
+__fh__um ==__cb
+__s__and then from the recognition side we have backtraces at the phone level .__cb
+__s__if - if it can handle that it could handle states or whatever .__cb
+__b__right .__c3
+__s__and then at the prosody-level we have frame - sort of like cepstral feature files .__cb
+__b__yep .__c3
+__s^e__uh like these p. files or anything like that .__cb
+__s.%--__and that's sort of the world of things that i ==__cb
+__s__and then we have the aligned channels of course .__cb
+__b__right .__c3
+__fh__and ==__cb
+__s^bs__it seems to me you want to keep the frame level stuff separate .__c1
+__s^aa__yeah .__cb
+__s^na__i - i definitely agree .__cb
+__%-__and then ==__c1
+__s__and i wanted to find actually a f- - a nicer format or a - maybe a more compact format than what we used before .__cb
+__b__right .__c3
+__s^df__just because you've got ten channels or whatever and two hours of a meeting .__cb
+__s.%-__it's - it's a lot of ==__cb
+__qw__now - now how would you - how would you represent um multiple speakers in this framework ?__c1
+__s^na__huge .__c3
+__s.%--__were - you would just represent them as ==__c1
+__h__um ==__c3
+__qy^d^rt__you would have like a speaker tag or something ?__c1
+__s__there's a spea- - speaker tag up at the top which identifies them .__c3
+__s.%--__and then each utt- ==__c3
+__s__the way i had it is each turn or each utterance i don't even remember now had a speaker i. d tag attached to it .__c3
+__b__uhhuh .__c1
+__s^bk__okay .__c1
+__s__and in this format you would have a different tag .__c3
+__s__which - which would uh be linked to the link .__c3
+__s^bk__yeah .__cb
+__s.%--__so - so somewhere else you would have another thing that would be ==__c3
+__fh__um ==__c3
+__qr^t1__let's see would it be a node or a link ?__c3
+__fh__um ==__c3
+__s__and so - so this one would have um an i. d is link - link seventy four or something like that .__c3
+__s__and then somewhere up here you would have a link that - that uh you know was referencing l. seventy four and had speaker adam .__c3
+__b__uhhuh .__c1
+__s^ng.%--__actually it's the channel i think that ==__cb
+__%__is i- - ?__c1
+__fh__you know .__c3
+__s__or something like that .__c3
+__%--__i mean w- ==__cb
+__s__well channel or speaker or whatever .__c1
+__s.%-__yeah channel is what the channelized output out- ==__cb
+__s.%-__it doesn't ==__c1
+__s__this isn't quite right .__c3
+__s__i have to look at it again .__c3
+__b__right .__c1
+__s^bk|%-__yeah | but ==__cb
+__fg|qw__but - but - | so how in the nist format do we express a hierarchical relationship between um say an utterance and the words within it ?__c1
+__qw__so how do you tell that these are the words that belong to that utterance ?__c1
+__h|s__um | you would have another structure lower down than this that would be saying they're all belonging to this i. d .__c3
+__s^bk__uhhuh .__c1
+__s^bu__so each thing refers to the utterance that it belongs to .__c4
+__s^aa__right .__c3
+__s^bu__so it's - it's not hi- - it's sort of bottom up .__c4
+__s__and then each utterance could refer to a turn .__c3
+__s__and each turn could refer to something higher up .__c3
+__qw.%--__and what if you actually have ?==__cb
+__s__so right now what you have as utterance um the closest thing that comes out of the channelized is the stuff between the segment boundaries that the transcribers put in or that thilo put in .__cb
+__s^e__which may or may not actually be like a s- - it's usually not - um the beginning and end of a sentence say .__cb
+__s^df__well that's why i didn't call it sentence .__c3
+__fh__so ==__cb
+__s^bk__right .__cb
+__s__um so it's like a segment or something .__cb
+__s^aa__yeah .__c3
+__fh__so ==__cb
+__s__i mean i assume this is possible that if you have - someone annotates the punctuation or whatever when they transcribe you can say you know from - for - from the c- - beginning of the sentence to the end of the sentence from the annotations this is a unit .__cb
+__s^e.%--__even though it never actually ==__cb
+__s^e__i- - it's only a unit by virtue of the annotations at the word level .__cb
+__s^aa__sure .__c3
+__s__i mean so you would - you would have yet another tag .__c3
+__s__and then that would get a tag somehow .__cb
+__s__you'd have another tag which says this is of type sentence .__c3
+__s^bk__okay .__cb
+__s^bk__okay .__cb
+__fh__and ==__c3
+__s.%--__but it's just not overtly in the ==__cb
+__%-__what ==__c3
+__b__okay .__c1
+__fh|s.%--__um | because this is exactly the kind of ==__cb
+__fg__so ==__c1
+__s.%--__i think that should be possible as long as the ==__cb
+__s^no__but uh what i don't understand is where the - where in this type of file that would be expressed .__cb
+__s^bk__right .__c3
+__s__you would have another tag somewhere .__c3
+__s__it's - well there're two ways of doing it .__c3
+__s__s- - so it would just be floating before the sentence or floating after the sentence without a time mark .__cb
+__s^df__you could have some sort of link type .__c3
+__s^df__type equals sentence .__c3
+__s^df__and i. d is s. whatever .__c3
+__s^df__and then lower down you could have an utterance .__c3
+__s^df__so the type is utterance equals utt .__c3
+__s.%--__and you could either say that ==__c3
+__s^ar__no .__c3
+__s^no__i don't know .__c3
+__s__i take that back .__c3
+__s__so here's the thing .__c1
+__fh__um ==__c1
+__s.%-__see because it's ==__cb
+__qy^rt__can you - can you say that this is part of this ?__c3
+__%__hhh .__c1
+__%__it's ==__cb
+__s.%-__you would just have a r- ==__c4
+__%-__s- ==__cb
+__qrr__or do you say this is part of this ?__c3
+__s.%--__i think ==__c3
+__s.%-__but they're ==__cb
+__s__you would refer up to the sentence .__c4
+__s.%-__well the thing ==__c1
+__s^nd__they're actually overlapping each other sort of .__cb
+__fg__so ==__c3
+__s^ng__the thing is that some- - something may be a part of one thing for one purpose and another thing of another purpose .__c1
+__b__right .__c3
+__s__you have to have another type then i guess .__cb
+__%-__so f- ==__c1
+__%-__s- ==__c1
+__fg__um ==__c1
+__fg__well .__c1
+__s^cs__well i think i'm - i think w- - i had better look at it again .__c3
+__s.%-__s- - let's - let's ta- - so let's ==__c1
+__b__yeah .__cb
+__s^bk__okay .__cb
+__fg__so ==__c1
+__s^df.%--__because i - i'm ==__c3
+__b__okay .__cb
+__s.%-__y- - so for instance @@ sup- ==__c1
+__s__there's one level - there's one more level of indirection that i'm forgetting .__c3
+__s__suppose you have a word sequence .__c1
+__s__and you have two different segmentations of that same word sequence .__c1
+__s__f- - say one segmentation is in terms of um you know uh sentences .__c1
+__s__and another segmentation is in terms of um i don't know prosodic phrases .__c1
+__s__and let's say that they don't nest .__c1
+__fh|s__so | you know a prosodic phrase may cross two sentences or something .__c1
+__b__right .__c3
+__s^no__i don't know if that's true or not .__c1
+__fh|s.%-__but | let's as- ==__c1
+__s__well it's definitely true with the segment .__cb
+__s^bk__right .__c1
+__s^df.%--__that's what i - exactly what i meant by the utterances versus the sentence could be sort of ==__cb
+__b__yeah .__c1
+__s__so you want to be s- - you want to say this - this word is part of that sentence and this prosodic phrase .__c1
+__fh__yeah .__cb
+__b__yeah .__cb
+__s__but the phrase is not part of the sentence .__c1
+__s__and neither is the sentence part of the phrase .__c1
+__s^aa__right .__cb
+__s^na__i- - i'm pretty sure that you can do that .__c3
+__s^no__but i'm forgetting the exact level of nesting .__c3
+__fg|s__so | you would have to have two different pointers from the word up - one level up .__c1
+__s.%-__one to the sent- ==__c1
+__s:s__so - so what you would end up having is a tag saying here's a word .__c3
+__s:s__and it starts here and it ends here .__c3
+__s^bk__@@ right .__c1
+__s:s__and then lower down you would say here's a prosodic boundary .__c3
+__s:s__and it has these words in it .__c3
+__s:s__and lower down you'd have here's a sentence .__c3
+__b__an- - right .__cb
+__b__right .__c1
+__s:s__and it has these words in it .__c3
+__s:s^co__so you would be able to go in and say you know give me all the words in the bound- - in the prosodic phrase .__cb
+__s.%-:s^co.%-__and give me all the words in the ==__cb
+__s^aa__yep .__c3
+__s^bk__yeah .__cb
+__s.%--__so i think that's - that would wor- ==__c3
+__s^bk__um okay .__cb
+__s^co__let me look at it again .__c3
+__b__uhhuh .__c1
+__s^bk__okay .__cb
+__s^tc__the - the o- - the other issue that you had was how do you actually efficiently extract um - find and extract information in a structure of this type .__c1
+__fh__so ==__c3
+__s^ba^t3__that's good .__cb
+__fh|s.%--__so | you gave some examples like ==__c1
+__h__well .__cb
+__s.%--__uh and i mean you guys might ==__cb
+__s^no__i don't know if this is premature .__cb
+__s^df__because i suppose once you get the representation you can do this .__cb
+__s.%--__but the kinds of things i was worried about is ==__cb
+__s^ar|s^nd__no | that's not clear .__c1
+__fh__uh ==__cb
+__s^df__i mean yeah you c- - sure you can do it .__c1
+__s^bk__well okay .__cb
+__s.%-__so i- - if it ==__cb
+__s^df.%--__but can you do it sort of l- - l- - you know it ==__c1
+__s^j^nd__i- - i mean i can't do it .__cb
+__s.%--__but i can ==__cb
+__fh__um ==__cb
+__s__y- - y- - you got to - you got to do this - you - you're going to want to do this very quickly .__c1
+__fg__well ==__c3
+__s__or else you'll spend all your time sort of searching through very complex data structures .__c1
+__s^bk__right .__cb
+__s__you'd need a p- - sort of a paradigm for how to do it .__cb
+__s__but an example would be find all the cases in which adam started to talk while andreas was talking and his pitch was rising .__cb
+__s^e__andreas's pitch .__cb
+__s__that kind of thing .__cb
+__s^bk__right .__c3
+__s.%--__i mean that's going to be ==__c3
+__qy^rt__is the rising pitch a feature ?__c3
+__qrr__or is it going to be in the same file ?__c3
+__h|s__well | the rising pitch will never be hand annotated .__cb
+__s^df.%--__so the - all the prosodic features are going to be automatically ==__cb
+__fg__but the ==__c3
+__s__i mean that's going to be hard regardless .__c3
+__s^df.%-__so they're going to be in those ==__cb
+__qy^d^g^rt__right ?__c3
+__s^df__because you're going to have to write a program that goes through your feature file and looks for rising pitches .__c3
+__b__yeah .__c1
+__fg__so ==__cb
+__s^aa__right .__cb
+__s:qw^rt__so normally what we would do is we would say what do we want to assign rising pitch to .__cb
+__s:qy^rt__are we going to assign it to words .__cb
+__s.%--:qy.%--__are we going to just assign it to sort of ?==__cb
+__s__when it's rising we have a begin end rise representation .__cb
+__s__but suppose we dump out this file .__cb
+__s:s__and we say uh for every word we just classify it as w- - you know rise or fall or neither .__cb
+__s^bk__okay .__c3
+__s__well in that case you would add that to this format .__c3
+__s^bk__okay .__cb
+__s__so we would basically be sort of um taking the format and enriching it with things that we want to query in relation to the words that are already in the file .__cb
+__%--__r- ==__c3
+__s^bk__right .__c3
+__s__and then querying it .__cb
+__fh__okay .__cb
+__s^cs__you want sort of a grep that's - that works at the structural - on the structural representation .__c1
+__s^ng__you have that .__c3
+__s__there's a standard again in x. m. l specifically for searching x. m. l documents - structured x.  - x. m. l documents where you can specify both the content and the structural position .__c3
+__s^bk|s^ng.%--__yeah | but it's - it's not clear that that's ==__c1
+__%-__if ==__cb
+__s^df^nd__that's relative to the structure of the x. m. l document .__c1
+__s^df^nd__not to the structure of what you're representing in the document .__c1
+__s^df__you use it as a tool .__c3
+__s^df^r__you use it as a tool .__c3
+__s^df__not an end user .__c3
+__s^df__it's not an end user thing .__c3
+__s^bk__right .__c1
+__s^df__it's - it's - you would use that to build your tool to do that sort of search .__c3
+__b__right .__c1
+__%-__be- ==__c1
+__s__because here you're specifying a lattice .__c1
+__%__uh ==__cb
+__s__so the underlying - that's the underlying data structure .__c1
+__s.%-__but as long as the ==__cb
+__s__and you want to be able to search in that lattice .__c1
+__s^ng__it's a graph .__c3
+__fh__but ==__c3
+__s__that's different from searching through the text .__c1
+__s.%-__but it seems like as long as the features that ==__cb
+__fg__well .__c3
+__s^ar__no no no .__c3
+__s^df__the whole point is that the text and the lattice are isomorphic .__c3
+__s__they represent each other completely .__c3
+__fg__um ==__c1
+__s.%--__so that ==__c3
+__%-__i mean th- ==__c3
+__s^aap__that's true if the features from your acoustics or whatever that are not explicitly in this are at the level of these types .__cb
+__%__hhh .__c1
+__s.%-__that - that if you can do that ==__cb
+__s^bk|s^df^ng__yeah | but that's going to be the trouble no matter what .__c3
+__qy^d^g__right ?__c3
+__s^df__no matter what format you choose you're going to have the trou- - you're going to have the difficulty of relating the - the frame level features .__c3
+__s^aa__that's right .__cb
+__s^aa__that's true .__cb
+__s^df__that's why i was trying to figure out what's the best format for this representation .__cb
+__b__yep .__c3
+__s.%--__and it's still going to be ==__cb
+__s__it's still going to be uh not direct .__cb
+__b__huh .__c1
+__s.%--__you know it ==__cb
+__s^bk__right .__c3
+__s__or another example was you know uh where in the language - where in the word sequence are people interrupting .__cb
+__fh__so ==__cb
+__s^ba__i guess that one's actually easier .__cb
+__qw.%--__what about ?==__c4
+__qo^r__what about um the idea of using a relational database to uh store the information from the x. m. l ?__c4
+__s^df.%--__so you would have ==__c4
+__s^df.%--__x. m. l basically would ==__c4
+__fh__uh ==__c4
+__s^df__you - you could use the x. m. l to put the data in .__c4
+__s^df__and then when you get data out you put it back in x. m. l .__c4
+__s^df__so use x. m. l as sort of the - the transfer format .__c4
+__s^2__transfer .__c3
+__s^df__uh but then you store the data in the database .__c4
+__s^e__which allows you to do all kinds of good search things in there .__c4
+__fg__the uh ==__c3
+__s__one of the things that atlas is doing is they're trying to define an a. p. i which is independent of the back store .__c3
+__qy^bh__huh ?__cb
+__s^df__so that uh you could define a single a. p. i and the - the storage could be flat x. m. l files or a database .__c3
+__b__uhhuh .__c4
+__s^ba__my opinion on that is for the s- - sort of stuff that we're doing i suspect it's overkill to do a full relational database that um just a flat file and uh search tools i bet will be enough .__c3
+__%__but ==__c1
+__s__but that's the advantage of atlas is that if we actually take - decide to go that route completely and we program to their a. p. i then if we wanted to add a database later it would be pretty easy .__c3
+__b__uhhuh .__c4
+__b__uhhuh .__c4
+__s^ng__it seems like the kind of thing you'd do if - i don't know if people start adding all kinds of s- - bells and whistles to the data .__cb
+__s.%--__and so that might be ==__cb
+__s^bd__i mean it'd be good for us to know - to use a format where we know we can easily um input that to some database if other people are using it .__cb
+__b__yep .__c3
+__s__something like that .__cb
+__s^bd^na__i guess i'm just a little hesitant to try to go whole hog on sort of the - the whole framework that - that nist is talking about with atlas and a database and all that sort of stuff .__c3
+__fh__so ==__cb
+__s^df__because it's a big learning curve just to get going .__c3
+__b__huh .__c4
+__b__huh .__c1
+__s^cs^df__whereas if we just do a flat file format sure it may not be as efficient .__c3
+__s^df__but everyone can program in perl and - and use it .__c3
+__s^bk__@@ okay .__cb
+__qy^d^f^g__right ?__c3
+__s.%-__so as opposed to ==__c3
+__s.%--__but this is ==__c1
+__s^nd__i - i'm still um not convinced that you can do much at all on the text - on the flat file that - that - you know the text representation .__c1
+__%__e- ==__c1
+__s^df__because the text representation is going to be uh not reflecting the structure of - of your words and annotations .__c1
+__s^df.%--__it's just - it's ==__c1
+__qw^df^nd^rt__well if it's not representing it then how do you recover it ?__c3
+__s^nd__of course it's representing it .__c3
+__s^ar__no .__c1
+__s.%--__you - you have to ==__c1
+__s^df__that's the whole point .__c3
+__s.%--__what you have to do is you have to basically ==__c1
+__s^df__y- - yeah you can use perl to read it in and construct a internal representation that is essentially a lattice .__c1
+__s.%--__but the ==__c1
+__b__@@ yeah .__c4
+__s^bk__okay .__c3
+__s.%--__and then ==__c1
+__s^ng__well that was a different point .__c3
+__qy^d^g^rt__right ?__c3
+__s^df.%-__so what i was saying is that ==__c3
+__b__right .__c1
+__s^ng__but that's what you'll have to do .__c1
+__s^df^ng__for perl - if you want to just do perl .__c3
+__%-__bec- - be- ==__c1
+__s^nd__if you wanted to use the structured x. m. l query language that's a different thing .__c3
+__s^df__and it's a set of tools that let you specify given the d.  - d. d. t - d. t. d of the document um what sorts of structural searches you want to do .__c3
+__s^e__so you want to say that you know you're looking for um a tag within a tag within a particular tag that has this particular text in it um and uh refers to a particular value .__c3
+__s^e__and so the point isn't that an end user who is looking for a query like you specified wouldn't program it in this language .__c3
+__s^e__what you would do is someone would build a tool that used that as a library .__c3
+__s^df__so that they - so that you wouldn't have to construct the internal representations yourself .__c3
+__%-__is a ==__cb
+__s__see i think the kinds of questions at least in the next - to the end of this year are - there may be a lot of different ones .__cb
+__s__but they'll all have a similar nature .__cb
+__s__they'll be looking at either a word level prosodic uh an - a value .__cb
+__s^e__like a continuous value .__cb
+__b__uhhuh .__c3
+__s^e__like the slope of something .__cb
+__fh__but ==__cb
+__s__you know we'll do something where we - some kind of data reduction where the prosodic features are sort o- - uh either at the word level or at the segment level .__cb
+__s^bk__right .__c3
+__s^e__or - or something like that .__cb
+__s__they're not going to be at the phone level and they're no- - not going to be at the frame level when we get done with sort of giving them simpler shapes and things .__cb
+__fh|s.%--__and so | the main thing is just being able ==__cb
+__s__well i guess the two goals .__cb
+__s^df__um one that chuck mentioned is starting out with something that we don't have to start over that we don't have to throw away if other people want to extend it for other kinds of questions .__cb
+__b__right .__c3
+__s^df__and being able to at least get enough uh information out on where we condition the location of features on information that's in the kind of file that you put up there .__cb
+__s__and that would - that would do it .__cb
+__s^df__i mean for me .__cb
+__s^bk__yeah .__c3
+__s__i think that there are quick and dirty solutions .__c3
+__s__and then there are long-term big infrastructure solutions .__c3
+__s^cs__and so we want to try to pick something that lets us do a little bit of both .__c3
+__s^2__in the between .__cb
+__s^aa__right .__cb
+__s^df^na__and especially that the representation doesn't have to be thrown away .__cb
+__fh__um ==__c3
+__b__right .__c3
+__s^e__even if your tools change .__cb
+__s.%--__and so it seems to me that ==__c3
+__s__i mean i have to look at it again to see whether it can really do what we want .__c3
+__s__but if we use the atlas external file representation um it seems like it's rich enough that you could do quick tools just as i said in perl .__c3
+__b__yeah .__cb
+__s__and then later on if we choose to go up the learning curve we can use the whole atlas inter- - infrastructure .__c3
+__s^na__i mean that sounds good to me .__cb
+__s^e__which has all that built in .__c3
+__%-__i - i don't ==__cb
+__fg__so ==__cb
+__s^cs.%--__if - if you would l- - look at that and let us know what you think ==__cb
+__s^aa__sure .__c3
+__s^ba__i mean i think we're sort of guinea pigs .__cb
+__s^df__because i - i want to get the prosody work done .__cb
+__s^df.%--__but i don't want to waste time you know getting the ==__cb
+__%-__oh maybe ==__c1
+__qw^rt__yeah ?__cb
+__h__um ==__c1
+__s^cs__well i wouldn't wait for the formats because anything you pick we'll be able to translate to another form .__c3
+__fg__well ==__c1
+__%--__ma- ==__c1
+__s^bk__okay .__cb
+__s^cs__well maybe you should actually look at it yourself too to get a sense of what it is you'll - you'll be dealing with .__c1
+__s^df__because um you know adam might have one opinion but you might have another .__c1
+__b__yeah .__c2
+__fh__so ==__c1
+__s^aa__yeah definitely .__cb
+__s^cs^df__i think the more eyes look at this the better .__c1
+__s^na.%--__especially if there's e- - um - you know if someone can help with at least the the setup of the right ==__cb
+__s__oh hi .__cb
+__s__hi jane .__c3
+__b__huh .__c1
+__s^r__the right representation .__cb
+__s.%--__then i- - you know i hope it won't ==__cb
+__s__we don't actually need the whole full-blown thing to be ready .__cb
+__qy^t3.%--__can you ?==__c3
+__s^ba^t3__oh well .__c3
+__fh__so ==__cb
+__fh__um ==__cb
+__s^co.%--__so maybe if you guys can look at it and sort of see what ==__cb
+__s^aa__sure .__c3
+__s^aa__yeah .__c2
+__fh__um ==__cb
+__s^tc.%--__i think we're - we're - we're actually just ==__cb
+__s__we're about done .__c3
+__s^aa__yeah .__cb
+__s^na__wrapping up .__cb
+__b__huh .__c2
+__fh__but ==__cb
+__fh__um ==__cb
+__s^bk__yeah .__cb
+__s^fa|s^df__sorry | it's a uh short meeting .__cb
+__fh__but um ==__cb
+__s^no__well i don't know .__cb
+__qo^rt^tc__is there anything else ?__cb
+__%--__like ==__cb
+__s__i mean that helps me a lot .__cb
+__h|s^cs__well | i think the other thing we might want to look at is alternatives to p. file .__c3
+__fh__but ==__cb
+__s^df__i mean th- - the reason i like p. file is i'm already familiar with it .__c3
+__s^df__we have expertise here .__c3
+__s__and so if we pick something else there's the learning curve problem .__c3
+__s^df__but i mean it is just something we developed at icsi .__c3
+__fh__and so ==__c3
+__qy^rt__is there an - is there an i. p.- - a. p. i ?__c1
+__s^aa__yeah .__c3
+__s^bk__okay .__c1
+__s^na__there's an a. p. i for it .__c3
+__fh__and uh ==__c3
+__s^rt__there used to be a problem that they get too large .__c1
+__s^na__a bunch of libraries p. file utilities .__c3
+__s.%-__and so basically the - uh the filesystem wouldn't ==__c1
+__s^ng__well that's going to be a problem no matter what .__c3
+__s^df__you have the two-gigabyte limit on the filesystem size .__c3
+__s^e__and we definitely hit that with broadcast news .__c3
+__s^cs__maybe you could extend the a. p. i to uh support uh like splitting up you know conceptually one file into smaller files on disk .__c1
+__s^df.%-__so that you can essentially you know have arbitrarily long f- ==__c1
+__s^bk__yep .__c3
+__s^ng__most of the tools can handle that .__c3
+__s.%--__so that ==__c3
+__b__yeah .__c1
+__s__we didn't do it at the a. p. i. level .__c3
+__s__we did it at the t- - tool level .__c3
+__s__that - that - most - many of them can s- - you can specify several p. files .__c3
+__s__and they'll just be done sequentially .__c3
+__s^bk__okay .__c1
+__fh__so ==__c3
+__s.%--__so i guess ==__cb
+__s^bk__yeah .__cb
+__s^co__if - if you and don can - if you can show him the p. file stuff and see .__cb
+__s^aa__sure .__c3
+__s^df__so this would be like for the f. zero .__cb
+__s__i mean if you do man p. file or apropos p. file you'll see a lot .__c3
+__b__true .__c2
+__s^ng__i've used the p. file i think .__c2
+__s^bd__i've looked at it at least briefly i think when we were doing s- - something .__c2
+__qw__what does the p.  stand for anyway ?__c1
+__s^no__i have no idea .__c3
+__s^t1__oh in there .__c2
+__s^df__i didn't de- - i didn't develop it .__c3
+__s^df__you know it was - i think it was dave johnson .__c3
+__s^df__so it's all part of the quicknet library .__c3
+__s^e__it has all the utilities for it .__c3
+__s^ar|s^nd__no | p. files were around way before quicknet .__c1
+__qy^bh^rt__oh were they ?__c3
+__s^df__p. files were - were around when - w- - with um rap .__c1
+__s^aa__uhhuh .__c4
+__qy^d^g^rt__right ?__c1
+__s^j__it's like the history of icsi .__cb
+__s^bu__you worked with p. files .__c1
+__%__like ==__cb
+__b__uhhuh .__c3
+__s^ar__no .__c4
+__s__i worked with p. files .__c1
+__qy^bh^rt__yeah ?__cb
+__s^no__i don't remember what the p.  is though .__c4
+__s^ar__no .__c1
+__s.%--__but there are ni- - they're ==__c3
+__s__the quicknet library has a bunch of things in it to handle p. files .__c3
+__b__yeah .__c1
+__s__so it works pretty well .__c3
+__%__@@ .__c1
+__s__and that isn't really i guess as important as the - the main - i don't know what you call it the - the main sort of word level .__cb
+__s^t3__neither do i .__c3
+__s__probably stands for phil .__c4
+__s^e__phil kohn .__c4
+__qy^d^rt__it's a phil file ?__c3
+__s^bk__yeah .__c4
+__s^na__that's my guess .__c4
+__b__huh .__cb
+__fg__okay .__cb
+__s^ba__well that's really useful .__cb
+__s__i mean this is exactly the kind of thing that i wanted to settle .__cb
+__fh__um ==__cb
+__fh__so ==__cb
+__s__yeah i've been meaning to look at the atlas stuff again anyway .__c3
+__s^ba__great .__cb
+__s.%--__so just keep ==__c3
+__b__yeah .__cb
+__s.%--__i guess it's also sort of a political deci- ==__cb
+__s^na__i mean if - if you feel like that's a community that would be good to tie into anyway then it's sounds like it's worth doing .__cb
+__s^bk|s.%-__yeah | i think it - it w- ==__c3
+__s.%-__j- - i think there's ==__c1
+__s__and w- - uh as i said i - what i did with this stuff - i based it on theirs .__c3
+__s^df__it's just they hadn't actually come up with an external format yet .__c3
+__s^df__so now that they have come up with a format it doesn't - it seems pretty reasonable to use it .__c3
+__b__huh .__c1
+__s^cc__but let me look at it again .__c3
+__s^bk__okay .__cb
+__s^ba__great .__cb
+__s.%--__as i said that ==__c3
+__s.%-__because we actually can start ==__cb
+__s__there's one level - there's one more level of indirection .__c3
+__s__and i'm just blanking on exactly how it works .__c3
+__s^cc__i got to look at it again .__c3
+__s^cs__i mean we can start with um i guess this input from dave's .__cb
+__s^e__which you had printed out the channelized input .__cb
+__s^df__because he has all of the channels .__cb
+__s^e__you know with the channels in the tag and stuff like that .__cb
+__s^bk|s__yeah | i've seen it .__c3
+__s.%--__so that would be i- - directly ==__cb
+__s^bk__yep .__c3
+__fh__um ==__cb
+__s^2__easy - easy to map .__c3
+__s^aa__yeah .__cb
+__s.%-__and so then it would just be a matter of getting - making sure to handle the annotations that are you know not at the word level and um t- - to import the- ==__cb
+__qw^rt__where are those annotations coming from ?__c2
+__s^no.%--__well right now i g- - jane would - would ==__cb
+__b__uhhuh .__c3
+__b__yeah .__cb
+__qy^bu^rt__are you talking about the overlap a- - annotations ?__c8
+__s^aa__yeah .__cb
+__s^df^na__any kind of annotation that like isn't already there .__cb
+__s^df__uh you know anything you can envision .__cb
+__s^bk__yeah .__c8
+__s__so what i was imagining was - um so dave says we can have unlimited numbers of green ribbons .__c8
+__s__and so put uh a - a green ribbon on for an overlap code .__c8
+__s.%--__and since we w- - we ==__c8
+__s^cs__i - i think it's important to remain flexible regarding the time bins for now .__c8
+__s.%--__and so it's nice to have ==__c8
+__s^cs__however you know you want to have it uh time- - time- - uh located in the discourse .__c8
+__fh__so ==__c8
+__fh__um ==__c8
+__s__if we - if we tie the overlap code to the first word in the overlap then you'll have a time marking .__c8
+__s__it won't - it'll be independent of the time bins .__c8
+__s^e__however these e- - evolve shrink or whatever .__c8
+__s^e__increase .__c8
+__fh__or ==__c8
+__s^cs__also you could have different time bins for different purposes .__c8
+__s__and having it tied to the first word in an overlap segment is unique uh you know anchored clear .__c8
+__s__and it would just end up on a separate ribbon .__c8
+__s__so the overlap coding is going to be easy with respect to that .__c8
+__b__right .__c3
+__s__you look puzzled .__c8
+__s^no__i - i just - i don't quite understand what these things are .__c4
+__s^bk__okay .__c8
+__qy^bu^d^rt__what - the codes themselves ?__c8
+__fh__uh ==__c4
+__s__well th- - overlap codes .__c4
+__qrr.%-__or the ?==__c8
+__s^no.%-__i'm not sure what that @@ ==__c4
+__qy.%--__well i mean is that ?==__c3
+__s__well we don't have to go into the codes .__c8
+__s__it probably doesn't matter .__c4
+__s^r__we don't have to go into the codes .__c8
+__%-__no i d- ==__c4
+__s.%--__i mean it doesn't ==__c3
+__s__i mean that - not for the topic of this meeting .__c3
+__s^co.%--__but let me just ==__c8
+__s^ar__no .__c8
+__s^bs__w- - the idea is just to have a separate green ribbon .__c8
+__fh__you know .__c8
+__s__and - and - and let's say that this is a time bin .__c8
+__s__there's a word here .__c8
+__s__this is the first word of an overlapping segment of any length .__c8
+__s__overlapping with any other uh word - uh i- - segment of any length .__c8
+__fh__and um ==__c8
+__s__then you can indicate that this here was perhaps a ch- - a backchannel .__c8
+__s__or you can say that it was um a usurping of the turn .__c8
+__s__or you can - you know any - any number of categories .__c8
+__s__but the fact is you have it time tagged in a way that's independent of the uh sp- - particular time bin that the word ends up in .__c8
+__s^e.%--__if it's a large unit or a small unit or ==__c8
+__b__uhhuh .__c1
+__s__we sh- - change the boundaries of the units .__c8
+__b__right .__cb
+__s__it's still unique and - and uh fits with the format .__c8
+__s^e__flexible all that .__c8
+__fg__um ==__c1
+__s.%--__it would be nice ==__c1
+__fh__um ==__c1
+__s^df__uh gr- - this is sort of r- - regarding - uh uh it's related but not directly germane to the topic of discussion .__c1
+__s__but when it comes to annotations um you often find yourself in the situation where you have different annotations of the same say word sequence .__c1
+__b__yeah .__c8
+__qy^d^f^g__okay ?__c1
+__b__yeah .__c8
+__s__and sometimes the word sequences even differ slightly because they were edited s- - at one place but not the other .__c1
+__s__so once this data gets out there some people might start annotating this for i don't know dialogue acts or um you know topics or what the heck .__c1
+__fh__you know .__c1
+__s__there's a zillion things that people might annotate this for .__c1
+__s__and the only thing that is really sort of common among all the versi- - the various versions of this data is the word sequence .__c1
+__b__yep .__c8
+__s.%-__or approximately ==__c1
+__s__or the time .__cb
+__s^m^na__or the times .__c1
+__s^ng__but see if you'd annotate dialogue acts you don't necessarily want to - or topics - you don't really want to be dealing with time marks .__c1
+__fh__i guess .__cb
+__s^df|qy^d^f^g^rt__you'd - it's much more efficient for them to just see the word sequence | right ?__c1
+__b__uhhuh .__cb
+__s^bd^df__i mean most people aren't as sophisticated as - as we are here with you know uh time alignments and stuff .__c1
+__fg__so ==__c1
+__s.%-__so the - the - the point is ==__c1
+__qy^cs^j.%--__should - should we mention some names on the people who are n- ?==__c3
+__b__right .__c1
+__fh__so ==__c1
+__fh__um ==__c1
+__s__the p- - my point is that you're going to end up with uh word sequences that are differently annotated .__c1
+__s__and you want some tool uh that is able to sort of merge these different annotations back into a single uh version .__c1
+__qy^d^f^g__okay ?__c1
+__fh|s.%--__um | and we had this problem very massively uh at s. r. i when we worked uh a while back on uh - well on dialogue acts as well as uh you know ==__c1
+__fh|qw__um | what was it ?__c1
+__fh__uh ==__c1
+__s__well all the switchboard in it .__cb
+__s__utterance types .__c1
+__b__yeah .__cb
+__s__there's uh automatic uh punctuation and stuff like that .__c1
+__s^df__because we had one set of annotations that were based on uh one version of the transcripts with a particular segmentation .__c1
+__s^df__and then we had another version that was based on uh a different s- - slightly edited version of the transcripts with a different segmentation .__c1
+__s__so we had these two different versions which were - you know you could tell they were from the same source but they weren't identical .__c1
+__s__so it was extremely hard to reliably merge these two back together to correlate the information from the different annotations .__c1
+__s^bk__yep .__c3
+__s__i - i don't see any way that file formats are going to help us with that .__c3
+__s^aa__no .__c1
+__s^df__it's - it's all a question of semantic .__c3
+__s^aa^r__no .__c1
+__s__but once you have a file format i can imagine writing not personally but someone writing a tool that is essentially an alignment tool um that mediates between various versions .__c1
+__b__uhhuh .__cb
+__b__yeah .__c3
+__s^e__and uh sort of like th- - uh you know you have this thing in unix where you have uh diff .__c1
+__s^2__diff .__c3
+__s^2__w. diff or diff .__cb
+__s^df__there's the uh diff that actually tries to reconcile different - two diffs f- - based on the same original .__c1
+__b__yeah .__cb
+__qy__is it s. diff ?__c8
+__b__yep .__c3
+__b.%__huh .__c8
+__s__something like that .__c1
+__fh|s__um | but operating on these lattices that are really what's behind this - uh this annotation format .__c1
+__s^bk__yep .__c3
+__fh__so ==__c1
+__s^cs.%-__you could definitely do that with the ==__cb
+__s__there's actually a diff library you can use to do things like that that - so you have different formats .__c3
+__s__so somewhere in the a. p. i you would like to have like a merge or some - some function that merges two - two versions .__c1
+__s^bk|s^ng__yeah | i think it's going to be very hard .__c3
+__s^df__any sort of structured anything when you try to merge is really really hard .__c3
+__b__right .__c1
+__s^df.%--__because you ha- - i- ==__c3
+__s^df__the hard part isn't the file format .__c3
+__s^df__the hard part is specifying what you mean by merge .__c3
+__s^2.%-__is ==__c1
+__s^aa__exactly .__c1
+__s^cs__but the one thing that would work here actually for i- - that is more reliable than the utterances is the - the speaker ons and offs .__cb
+__s^ba__and that's very difficult .__c3
+__s.%--__so if you have a good ==__cb
+__fh__um ==__cb
+__s^na.%-__but this is exactly what i mean is that - that the problem i- ==__c3
+__b__yeah .__cb
+__s__you just have to know wha- - what to tie it to .__cb
+__s^aa__yeah .__c3
+__s^aa__exactly .__c3
+__s:qw__the problem is saying what are the semantics .__c3
+__%-__and ==__cb
+__s:qw__what do you mean by merge .__c3
+__s^aa__right right .__cb
+__b__right .__c1
+__fh__so ==__c3
+__fg|s.%--__so - | so just to let you know what we - where we kluged it by uh doing - uh by doing - hhh ==__c1
+__s__both were based on words .__c1
+__s__so bo- - we have two versions of the same words intersp- - you know sprinkled with - with different tags for annotations .__c1
+__s__and then you did diff .__c3
+__s__and we did diff .__c1
+__s^bk__yeah .__c3
+__s^aa__exactly .__c1
+__s__that's just what i thought .__c3
+__s.%-__and that's how ==__c1
+__s__that's just wh- - how i would have done it .__c3
+__s^bk__yeah .__c1
+__s__but you know it had lots of errors .__c1
+__s__and things would end up in the wrong order and so forth .__c1
+__fh__uh ==__c1
+__fh__so ==__c1
+__b__yep .__c3
+__fh|s.%--__um | if you had a more ==__c1
+__fh__uh ==__c1
+__s__it - it was a kluge .__c1
+__s^df__because it was basically reducing everything to - uh to - uh uh to textual alignment .__c1
+__s^2__a textual .__c3
+__fh__um ==__c1
+__fh__so ==__c1
+__fg__but ==__cb
+__qy.%--__d- - isn't that something where whoever - if - if the people who are making changes say in the transcripts because this all happened when the transcripts were different ye- - um if they tie it to something like if they tied it to the acoustic segment - if they ?==__cb
+__qy^d^f^rt__you know what i mean ?__cb
+__s__then - or if they tied it to an acoustic segment and we had the time marks that would help .__cb
+__s__but the problem is exactly as adam said that you get you know y- - you don't have that information or it's lost in the merge somehow .__cb
+__b__yep .__c3
+__fh__so ==__cb
+__qy^rt__well can i ask one question ?__c8
+__s__it - it seems to me that um we will have o- - an official version of the corpus which will be only one - one version in terms of the words - where the words are concerned .__c8
+__s.%--__we'd still have the - the merging issue maybe if coding were done independently of the ==__c8
+__s__and you're going to get that .__c1
+__fh__but - but ==__c8
+__s^df__because if the data gets out people will do all kinds of things to it .__c1
+__s^e__and uh s- - you know several years from now you might want to look into um the prosody of referring expressions .__c1
+__s^e__and someone at the university of who knows where has annotated the referring expressions .__c1
+__b__right .__c3
+__s__so you want to get that annotation and bring it back in line with your data .__c1
+__s__but unfortunately they've also hand edited it .__c3
+__qy^d^f^g__okay ?__c1
+__%__okay then ==__c8
+__s.%--__but they've also ==__cb
+__s^aa__exactly .__cb
+__s__and so that's exactly what we should - somehow when you distribute the data say that - you know that - have some way of knowing how to merge it back in and asking people to try to do that .__cb
+__s^aa__yeah .__c1
+__b__yep .__c3
+__b__right .__c1
+__%-__well then the ==__c8
+__qw^rt__what's - what's wrong with doing times ?__c4
+__s^aa__i agree .__c8
+__%-__i ==__c4
+__s__that was what i was wondering .__c8
+__h|s.%--__uh yeah | time is the ==__cb
+__s__time is unique .__c8
+__fg__well ==__c3
+__s.%--__you were saying that you didn't think we should ==__c8
+__s^fe^j__time is passing !__cb
+__s^j__time - time - times are ephemeral .__c1
+__s.%--__andreas was saying ==__c8
+__fh__yeah .__c8
+__qw__what if they haven't notated with them times ?__c3
+__b__yeah .__cb
+__s__he - he's a language modeling person though .__cb
+__fh__um ==__c1
+__fg|s.%--__so - so | imagine ==__c3
+__s^ba__i think his - his example is a good one .__c3
+__s__imagine that this person who developed the corpus of the referring expressions didn't include time .__c3
+__b__uhhuh .__c1
+__s^aa__yeah .__c1
+__s__he included references to words .__c3
+__%__ach !__c8
+__%-__well then ==__c8
+__s__he said that at this word is when - when it happened .__c3
+__s^aa__yeah .__c1
+__s^ng__or she .__c1
+__qy__but then couldn't you just indirectly figure out the time tied to the word ?__c8
+__s^m^na__or she .__c3
+__s.%-__but still they ==__cb
+__s^aa__exactly .__cb
+__s^aa__sure .__c3
+__s^aa__yeah .__cb
+__qw^ng^rt__but what if - what if they change the words ?__c3
+__%--__not ==__c8
+__fh__well .__c8
+__s__but you'd have some anchoring point .__c8
+__s^ng__he couldn't have changed all the words .__c8
+__qy^rt__but can they change the words without changing the time of the word ?__c4
+__s^aa__sure .__c3
+__s^arp__but they could have changed it a little .__c3
+__s__the - the point is that - that they may have annotated it off a word transcript that isn't the same as our word transcript .__c3
+__qw__so how do you merge it back in ?__c3
+__s__i understand what you're saying .__c3
+__b__huh .__c1
+__b__uhhuh .__c1
+__s__and i - i guess the answer is um it's going to be different every time .__c3
+__s.%--__it's j- - it's just going to be ==__c3
+__b__yeah .__cb
+__b.%__yeah .__c8
+__s.%-__you only know the boundaries of the ==__cb
+__s__i- - it's exactly what i said before .__c3
+__s__which is that what do you mean by merge .__c3
+__qw__so in this case where you have the words and you don't have the times well what do you mean by merge ?__c3
+__b__right .__cb
+__s__if you tell me what you mean i can write a program to do it .__c3
+__s^bk__right .__cb
+__s__you can merge at the level of the representation that the other person preserved and that's it .__cb
+__s^aa__right .__c3
+__s__and that's about all you can do .__c3
+__s__and beyond that all you know is - is relative ordering .__cb
+__s__and sometimes even that is wrong .__cb
+__fg|s__so - so | in - so in this one you would have to do a best match between the word sequences .__c3
+__fh__so ==__cb
+__b__uhhuh .__c1
+__s__extract the times f- - from the best match of theirs to yours .__c3
+__s__and use that .__c3
+__s__and then infer that their time marks are somewhere in between .__cb
+__s^aa__right .__c3
+__s^aa__yeah exactly .__cb
+__s__but it could be that they just - uh i mean it could be that they chunked - they - they lost certain utterances and all that stuff .__c8
+__s^aa__right .__c3
+__s^aa__exactly .__c3
+__s__so it could get very very ugly .__c3
+__%--__or ==__c8
+__s^aa__definitely .__cb
+__s^aa__definitely .__cb
+__b__yeah .__c8
+__fg__all right .__cb
+__s^tc__well i guess w- - i - i didn't want to keep people too long .__cb
+__s^ba__that's interesting .__c8
+__s.%--__and adam wanted t- - people ==__cb
+__s^cc__i'll read the digits .__cb
+__s__if anyone else offers to that'd be great .__cb
+__fh__and ==__cb
+__s^t1__uh well .__c1
+__s.%-__if not i guess ==__cb
+__b__yeah .__c3
+__s__more digits the better .__c3
+__s^j__for th- - for the - for the benefit of science we'll read the digits .__c1
+__fg__okay .__c3
+__s^ft__thanks - thanks a lot .__cb
+__s.%--__this is ==__c3
+__s__it's really helpful .__cb
+__s__i mean adam and don will sort of meet .__cb
+__s^ba__and i think that's great .__cb
+__s^ba__very useful .__cb
+____DIGIT_TASK__c3
+__z__go next .__cb
+____DIGIT_TASK__c4
+__z__scratch that .__c4
+____DIGIT_TASK__c4
+____DIGIT_TASK__c8
+__z__s- ==__c8
+____DIGIT_TASK__c8
+__z__oh right .__c3
+____DIGIT_TASK__cb
+____DIGIT_TASK__c1
+____DIGIT_TASK__c2

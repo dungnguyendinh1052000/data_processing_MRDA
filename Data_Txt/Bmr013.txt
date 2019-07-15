@@ -1,0 +1,1069 @@
+__%-__time .__ca
+__s^tc.%__thanks .__c2
+__fg|s^t.x__are you fey ?__ca
+__s^ba__i am fey .__c3
+__b.x__oh .__ca
+__s^bk^rt^t__yeah .__c3
+__fh|s^rt.x__hi .__ca
+__qw^t__i think we've met before .__ca
+__s^cs^rt.x__hi .__c3
+__s^bk^m^rt__what day is today ?__c1
+__fg|qy^t__like i remember talking to you about aspect or something like that at some point or other .__ca
+__s^aa|qy^cs.%-__a couple times yeah .__c3
+__s^bk^m__it's the uh - twenty - nineteenth .__c5
+__s^e__nineteenth ?__c1
+__s^aa__that's right .__c3
+__qw^br^rt__yeah .__c3
+__s__so ==__ca
+__s__and you were my g s i briefly until i dropped the class .__c3
+__b__@reject@ ==__c5
+__s^e__right right .__c1
+__s^aa__oh that's right .__ca
+__s^bk__but ==__c3
+__qy^d^rt^t.x__well ==__ca
+__fh|qh^cs^t__no offense .__ca
+__s.%--__okay wh- - wh- ==__c2
+__s^bk__like ==__ca
+__fg|s^tc__yeah .__c2
+__s^rt__okay .__c2
+__fh|s__some in- - some introductions are in order .__c2
+__s__oh okay .__ca
+__s^e^rt__sorry .__ca
+__fh|s__okay .__c2
+__s^cs__getting ahead of myself .__ca
+__qy^bu^d^rt__so ==__c2
+__%-__um | for those who don't know ==__c2
+__s^e^na__everyone knows me .__c2
+__s^m|s^bk__this is great .__c2
+__s__yay !__ca
+__s__um - | apart from that sort of the old gang johno and bhaskara have been with us from - from day one .__c2
+__s^bk__hi .__c4
+__s__and um - | they're engaged in - in various activities some of which you will hear about today .__c2
+__sj^ba__ami is um - our counselor and spiritual guidance .__c2
+__sj^ba^r__and um - also interested in problems concerning reference of the more complex type .__c2
+__fh__oh wow .__c4
+__s__well ==__c0
+__s^cs__and um - he sits in as a interested participant and helper .__c2
+__s^cs__is that a good characterization ?__c2
+__b__u- - that's pretty good i think .__c0
+__s^aa__i don't know .__c2
+__sj^j__yeah .__c0
+__s^j__thanks .__c0
+__b__okay .__c2
+__fg|s__keith is not technically one of us yet .__c2
+__s^aa__not yet .__c4
+__fh|s__ha ha .__c2
+__s__one of us .__ca
+__fh|s__but um - | it's too late for him now .__c2
+__fh|s__yeah right .__c4
+__s__so ==__c2
+__qy.%-__i've got the headset on after all .__c4
+__qr__um ==__c2
+__s^bsc__officially i guess he will be joining us in the summer .__c2
+__s__yes .__c4
+__s^bsc__and um - | hopefully it is by - by means of keith that we will be able to get a b- - a better formal and a better semantic um - idea of what a construction is .__c2
+__sj__and um - how we can make it work for us .__c2
+__fh__additionally his interest um - surpasses um - english .__c2
+__fg|qw__because it also entails german .__c2
+__sj.%--__an extra capability of speaking and writing and understanding and reading that language .__c2
+__s__and um - | is there anyone who doesn't know nancy ?__c2
+__sj^ba^na__do you - do you know nancy ?__c2
+__s__me ?__ca
+__s__uhhuh .__ca
+__s__i know nancy .__c4
+__sj^ba__okay .__c2
+__s.%-__i made that joke already nancy sadly .__c1
+__qy^bu^d__what ?__ca
+__s^aa__the i don't know myself joke .__c1
+__s^bk__you did ?__ca
+__s__when ?__ca
+__b__uh - before you came in .__c1
+__b__oh .__ca
+__s__about me or you ?__ca
+__fh|s__man !__c4
+__s^e__about me .__c1
+__sj^ng__okay okay .__ca
+__s^df__you could do it about you .__c0
+__b__well i didn't know .__ca
+__s.%-__yeah .__c1
+__fg|qy^rt__i didn't mean to be humor copying .__ca
+__qrr.%-__but okay .__ca
+__s^ar|s__sorry .__ca
+__s^e__yes i know myself .__ca
+__s^bk__it's okay .__ca
+__fh|s__it's a ==__ca
+__s^bk__okay .__c2
+__fh|s^cs__and um - fey is with us as of six days ago officially .__c2
+__s^e__officially .__c3
+__b__yeah .__c3
+__fg|s__officially .__c2
+__s__but in reality already um - much much longer .__c2
+__h__and um - um - next to some - some more or less bureaucratic uh - stuff with the - the data collection she's also the wizard in the data collection .__c2
+__s__of oz .__ca
+__%-__um ==__c2
+__s^bu^m__it's very exciting .__c3
+__s^m.%__we're sticking with the term wizard .__c2
+__s^aa__yes .__c3
+__s__yes .__c3
+__b__okay .__c2
+__s__and um ==__c2
+__s^t1.%--__not witch like .__ca
+__fh|s__wizardette .__c1
+__fh|s__wizard .__c4
+__s__wizardess .__c5
+__fh|s__sorceress i think .__c2
+__s__okay .__ca
+__s.%--__wizard .__c3
+__s__wizard .__c2
+__s.%-__okay .__ca
+__sj^ba__uh - by - by popular vote .__c2
+__qy^d^g^rt__um ==__c2
+__qy^bu^rt__didn't take a vote .__ca
+__s^aa__okay .__ca
+__sj__okay | um - why don't we get started on that subject anyways ?__c2
+__s^df__um - | so we're about to collect data .__c2
+__sj__and um - the uh - s- - the following things have happened since we last met .__c2
+__b__when will we three meet again ?__c2
+__fh|s__and um ==__c2
+__b__more than three of us .__ca
+__sj__what happened is that um - a - there was some confusion between you and jerry with the - that leading to your talking to catherine snow .__c2
+__b__and he was uh - he - he agreed completely that some- - something confusing happened .__c2
+__qw^tc__um - his idea was to get sort of the l- - the lists of mayors of the department .__c2
+__sj^ba__the students .__c2
+__s__it - it's exactly how you interpreted it .__c2
+__sj^ba__the list of majors in the department ?__c4
+__s__sort of s- ==__c2
+__b__m- - m- - majors ?__c3
+__s^no__ma- - majors majors .__c2
+__qw__majors ?__c3
+__qw.%-__okay mayor .__c3
+__h|s^rt__mayors .__c2
+__s__something i don't know about these .__c3
+__qw__majors .__c2
+__qy^rt__the department has many mayors .__ca
+__s^no__majors .__c2
+__s^no^r__okay .__c3
+__qrr.%--__and um - just sending the - the little write up that we did on to those email lists .__c2
+__h|s^no.%--__okay .__c3
+__%-__yeah yeah yeah .__c3
+__s__but ==__c3
+__s^bk^m__yeah .__c3
+__s^bk__uh ==__c2
+__s__so it was really carol snow who was confused not me and not jerry .__c3
+__%-__yep yep yep .__c2
+__s^aa__okay .__c2
+__fg|s__so ==__c2
+__%-__that's good .__c3
+__s^aa__so that is uh ==__c2
+__s__so i should still do that ?__c3
+__qw__yep .__c2
+__s^no__okay .__c3
+__sj^ba__and using the thing that you wrote up .__c3
+__qy^d^g__and ==__c2
+__s^aa|s.%-__yep .__c2
+__qy^2^bu^d^rt__okay .__c3
+__h|s^ar__wonderful .__c2
+__qy^bu^rt__and um - we have a little description of asking peop- - subjects to contact fey for you know recruiting them for our thing .__c2
+__s^df__and um - | there was some confusion as to the consent form which is basically that - that what - what you just signed .__c2
+__b__right .__ca
+__s__and since we have one already um ==__c2
+__s^bk__did jerry talk to you about maybe using our class ?__ca
+__b__the students in the undergrad class that he's teaching ?__ca
+__s^df__um - | well he said um - we - definitely yes .__c2
+__b__e- ==__ca
+__s^e__however there is always more people in a - in a facul- - uh - in a department than are just taking his class or anybody else's class at the moment .__c2
+__s__yeah .__ca
+__b__and one should sort of reach out and try and get them all .__c2
+__s__okay | but th- - i guess it's that um - people in his class cover a different set .__ca
+__s^aa__so ==__ca
+__s^aa__than the c- ==__ca
+__s__is the cogsci department that you were talking about ?__ca
+__s^j__i guess .__c3
+__s^2^j__uh - reaching out to .__ca
+__b__see ==__c3
+__s__because we have you know people from other areas .__ca
+__s^aa__that's what i suggested to him that people like - like jerry and george and et cetera just ==__c3
+__b__yeah .__c2
+__%__advertise in their classes as well .__ca
+__s^j^na__yeah .__c3
+__b__or even i could - you know i could do the actual ==__c3
+__fh__because i mean i - i know how to contact our students .__ca
+__s^j__uhhuh .__c2
+__s^j^m|s^bk__that's generally the way it's done .__c3
+__s^j__so if there's something that you're sending out you can also s- - um - send me a copy .__ca
+__fg|s^cc^tc__yeah .__c2
+__s^cc__me or bhaskara could - either of us could post it to ==__ca
+__b__uh ==__ca
+__b__is it ==__ca
+__s__if it's a general solicitation that you know is just contact you then we can totally pro- - post it to the news group .__ca
+__b__a mailing list .__c3
+__fh__uhhuh .__c2
+__s__yeah .__c3
+__s__yeah .__c2
+__sj__so ==__ca
+__s.%--__do it .__c2
+__s__that's ==__c3
+__s^r__yeah .__c2
+__s^e__okay .__ca
+__s__so you'll send it ?__ca
+__fh|s__or something ?__ca
+__sj__so ==__ca
+__s^no__as a matter of fact if you ==__c2
+__qo^rt__i can send it .__c3
+__s__i'll send it .__c3
+__sj__you can send it to me .__ca
+__b__if ==__c2
+__b__okay .__ca
+__s^na__yeah .__c3
+__%-__now i- ==__c2
+__s__don't worry .__ca
+__%-__we - this doesn't concern you anymore robert .__ca
+__b__it's fine .__ca
+__b__how - however i suggest that if you - if you look at your email carefully you may think - you may find that you already have it .__c2
+__s__oops !__ca
+__fg|qy__already ?__ca
+__s^e__really ?__ca
+__b__oops !__ca
+__s__probab- ==__c3
+__b__maybe .__c2
+__s__okay .__c2
+__s^no__i don't remember getting anything .__ca
+__s^cs__w- - we'll see .__c2
+__s^cs__anyhow .__c2
+__fh|s^cs__um - the uh ==__c2
+__s__yeah | not only cogsci .__c2
+__s^df.%--__also we will talk about linguistics and of course computer science .__c2
+__s^no__uhhuh .__ca
+__fg__um - | and then secondly we had you may remember um - the problem with the re phrasing .__c2
+__b__that subject always rephrase sort of the task that uh - we gave them .__c2
+__s__right .__c1
+__b__and so we had a meeting on friday talking about how to avoid that .__c2
+__s__and it proved finally fruitful in the sense that we came up with a new scenario for how to get the - the subject m- - to really have intentions .__c2
+__b__and sort of to act upon those .__c2
+__s__and um ==__c2
+__qy^d^f^g^rt__there the idea is now that next actually we - we need to hire one more person to actually do that job .__c2
+__s__because it - it's getting more complicated .__c2
+__sj^cs__so if you know anyone interested in - in what i'm about to describe tell that person to - to write a mail to me or jerry soon .__c2
+__fg__fast .__c2
+__s^na__um - | the idea now is to sort of come up with a high level of sort of abstract tasks .__c2
+__s.%--__go shopping .__c2
+__s__um - take in uh - a batch of art .__c2
+__s^bk__um ==__c2
+__s^bk^r__visit ==__c2
+__b__do some sightseeing .__c2
+__b__blah blah blah blah blah .__c2
+__s^aa|s^arp__sort of analogous to what fey has started in - in - in compiling - compiling here .__c2
+__b__and already - she has already gone to the trouble of - of anchoring it with specific um - o- - um - entities and real world places you will find in heidelberg .__c2
+__s__and um ==__c2
+__b__so out of these f- - s- - these high level categories the subject can pick a couple .__c2
+__fh__such as if - if there is a cop- - uh - a category in emptying your roll of film the person can then decide okay i want to do that at this place .__c2
+__b__sort of make up their own itinerary a- - and - and tasks .__c2
+__sj^bu__and the person is not allowed to take sort of this h- - high level category list with them .__c2
+__qy^g^rt__but uh ==__c2
+__s__the person is able to take notes on a map that we will give him and the map will be a tourist's sort of schematic representation with - with symbols for the objects .__c2
+__sj.%--__and so the person can maybe make a mental note that uh yeah i wanted to go shopping here .__c2
+__s__and i wanted to maybe take a picture of that .__c2
+__b__and maybe um - eat here .__c2
+__qw^bu^m^rt__and then goes in and solves the task with the system .__c2
+__qw^rt__i e fey .__c2
+__s__and um ==__c2
+__b.%__and we're going to try out that .__c2
+__s^e__any questions ?__c2
+__s.%__so um - | y- - you'll have those say somewhere what their intention was ?__ca
+__s__so you still have the - the nice thing about having data where you know what the actual intention was .__ca
+__s^m__uhhuh yeah .__c2
+__s^bsc^m__but they will um ==__ca
+__b__there's nothing that says you know these are the things you want to do  .__ca
+__s.%__so they'll say well these are the things i want to do .__ca
+__s^ft.%--__and ==__ca
+__b.%__right .__ca
+__b__so they'll have a little bit more natural interaction .__ca
+__s__okay .__ca
+__s^bk__hopefully .__c2
+__b__uhhuh .__ca
+__fg|s^tc__so they'll be given this map which means that they won't have to like ask the system for in- - for like high level information about where things are ?__c5
+__b__yeah | it's a schematic tourist map .__c2
+__fh__so it'll be uh - i- - it'll still require the - that information .__c2
+__fg|s^tc__and an- ==__c2
+__s__it w- - it doesn't have like streets on it that would allow them to figure out their way ?==__ca
+__b__n- - not - not - not really the street network .__c2
+__b__okay .__ca
+__%--__nuh .__c2
+__sj^cs__so you're just saying like what part of town the things are in or whatever ?__c4
+__s__yeah | a- ==__c2
+__sj__and um ==__c2
+__s__the map is more a means for them to have the buildings and their names .__c2
+__s^aap__and maybe some ma- - ma- - major streets and their names .__c2
+__s^arp__uhhuh .__ca
+__fh|s__and we want to maybe ask them if you have - get it sort of isolated street .__c2
+__s__the - the whatever .__c2
+__s__river street .__c2
+__b__and they know that - they have decided that yes that's where they want to do this kind of action um - that they have it with them and they can actually read them .__c2
+__s__or sort of have the label for the object .__c2
+__b__because it's too hard to memorize all these st- - strange german names .__c2
+__s__and then we're going to have another - we're going to have w- - another trial run .__c2
+__b__i e the first with that new setup tomorrow at two .__c2
+__s^na__and we have a real interesting subject which is ron kay .__c2
+__s__for who - those who know him he's the founder of i c i .__c2
+__b__so he'll - he's around seven- - seventy years old or something .__c2
+__fg__i didn't know he was the founder .__ca
+__b__that's ==__ca
+__s^nd^tc__okay .__ca
+__s__and he also approached me and he offered to help um - our project .__c2
+__s.%__and he was more thinking about some high level thinking tasks .__c2
+__b__and i said sure we need help .__c2
+__b__you can come in as a subject .__c2
+__s__and he said okay .__c2
+__b__so that's what's going to happen tomorrow .__c2
+__fh__using this new - new um - plan .__ca
+__s__data .__c2
+__sj^cs__new - new set up .__c2
+__b__okay .__ca
+__s^df__yeah .__c2
+__sj^nd__which i'll hopefully sort of scrape together t- ==__c2
+__qy^bu.%-__but thanks to fey we already have sort of a nice blueprint and i can work with that .__c2
+__b.%__questions ?__c2
+__s__comments on that ?__c2
+__s__if not we can move on .__c2
+__s__no ?__c2
+__sj^cs__no more questions ?__c2
+__fh__so what's the s- - this is what you made fey ?__ca
+__s__i'm not sure i totally understand this .__c4
+__b__but ==__c4
+__qy^d^f^g__huh ?__c2
+__s^e__i'm not sure i totally understand everything that's being talked about .__c4
+__b__like so - so it's just based on like the materials you had about heidelberg ?__ca
+__s^e__but i - i imagine i'll c- - just catch on .__c4
+__s.%--__um - are you familiar with - with the - with the very rough setup of the data ?__c2
+__s__based on the web site .__c3
+__b__yeah at the ==__c3
+__s__oh okay .__ca
+__s.%-__there's a web site .__ca
+__s^bu__and then you could like um - figure out what the cate- ==__ca
+__qy^d^g^rt__experiment .__c2
+__qy^e^rt__right .__c3
+__s^aa|s.%-__uh - | this is where they're supposed to ==__c4
+__s.%--__it's a tourist information web site .__c3
+__s__okay .__ca
+__b__so ==__c3
+__s^df__okay .__ca
+__b__talk to a machine and it breaks down and then the human comes on .__c2
+__s__yeah .__c4
+__fh|s^e__yeah .__c4
+__s__the question is just sort of how do we get the tasks in their head that they have an intention of doing something and have a need to ask the system for something without giving them sort of a clear wording or phrasing of the task .__c2
+__b__okay .__c4
+__s^df__okay .__c4
+__b__okay .__c4
+__s__okay .__c4
+__b__because what will happen then is that people repeat - repeat or as much as they can of that phrasing .__c2
+__s__huh .__ca
+__s^cs__um - | are you worried about being able to identify ?==__ca
+__s^aa__okay .__c4
+__s__um ==__ca
+__s^aa__the - the goals that we've d- - you guys have been talking about are this - these you know identifying which of three modes um - their question uh - concerns .__ca
+__b__uhhuh .__c2
+__s^aa^r__so it's like the enter versus view ==__ca
+__fg|s__yeah | we - we - we will sort of get a protocol of the prior interaction .__c2
+__s^df__uhhuh .__ca
+__fh__right ?__c2
+__s^no.%--__that's where the instructor the person we are going to hire um - and the subjects sit down together with these high level things .__c2
+__fg|s^aap__uhhuh .__ca
+__s^arp.%--__uhhuh .__ca
+__s__and so ==__c2
+__qy^d^f^g__th- - the q- - first question for the subject is so these are things you know we thought a tourist can do .__c2
+__s__is there anything that interests you ?__c2
+__s__uhhuh .__ca
+__b__and the person can say yeah sure sh- ==__c2
+__s^e__this is something i would do .__c2
+__s^m__i would go shopping .__c2
+__b.%__yeah ?__c2
+__b__uhhuh .__ca
+__s__and then we can sort of - this s- - instructor can say well uh - then you - you may want to find out how to get over here .__c2
+__s^bs__because this is where the shopping district is .__c2
+__b__so the interaction beforehand will give them hints about how specific or how whatever though the kinds of questions that are going to ask during the actual session ?__ca
+__fg__no .__c2
+__s__just sort of - okay what - what - what would you like to buy .__c2
+__s__and then um - okay there you want to buy a whatever cuckoos clocks .__c2
+__fg__yeah .__ca
+__s.%--__okay and the- - there is a store there .__c2
+__b__uhhuh .__c4
+__b__so the task then for that person is t- - finding out how to get there .__c2
+__s__uhhuh .__ca
+__b__right ?__c2
+__fg__that's sort of what's left .__c2
+__b__uhhuh .__ca
+__s__and we know that the intention is to enter because we know that the person wants to buy a cuckoos clock .__c2
+__b__okay | that's what i mean .__ca
+__s__so like those tasks are all going to be um - unambiguous about which of the three modes .__ca
+__b__hopefully .__c2
+__s.%-__right okay .__ca
+__s__so ==__ca
+__s^aa__well so the idea is to try to get the actual phrasing that they might use and try to interfere as little as possible with their choice of words .__c0
+__b__hopefully .__c2
+__b__t- - that they'll be here ?__ca
+__b.x__yes | in a sense that's exactly the - the - the idea .__c2
+__s__uh - uh ==__c0
+__qy^d^f^g__which is never possible in a - in a s- - in a lab situation .__c2
+__s__well u- - u- - the one experiment th- - that - that - that i've read somewhere it was - they u- - used pictures .__c0
+__b__nuh ?__c2
+__b__yep .__c2
+__s__uhhuh .__c4
+__b__so to - to uh - actually um - uh - specify the - the tasks .__c0
+__sj__uh - but you know i- - i- ==__c0
+__fg__yeah .__c2
+__s^aa|s^arp__we had exactly that on our list of possible way- - things .__c2
+__b__so we - uh - i even made a sort of a silly thing how that could work how you control you are here .__c2
+__s__you - you want to know how to get someplace .__c2
+__s^aa|sj^arp__and this is the place .__c2
+__%-__and it's a museum .__c2
+__s^arp^tc__and you want to do some- ==__c2
+__qy^bu^rt__and - and - and there's a person looking at pictures .__c2
+__s^aa__so you know this is exactly getting someplace with the intention of entering and looking at pictures .__c2
+__sj.%--__right .__c0
+__fg|s__however not only was - the common census were - among all participants of friday's meeting was it's going to be very laborious to - to make these drawings for each different things .__c2
+__s^cs__all the different actions if at all possible .__c2
+__s__right .__c0
+__qy^d^f^g__and also people will get caught up in the pictures .__c2
+__s__so all of a sudden we'll get descriptions of pictures in there .__c2
+__s__right .__c0
+__s__and people talking about pictures and pictorial representations .__c2
+__s__huh .__c4
+__s__and um ==__c2
+__s__right .__c0
+__s__i would s- - i would still be willing to try it .__c2
+__fh|s__i mean i- - i'm - i'm not saying it's necessary .__c0
+__s__but - but uh - i- - uh - uh - i- - you might be able to combine you know text uh - and - and some sort of picture .__c0
+__fh|s__and also uh - i think it - it will be a good idea to show them the text and kind of chew the task .__c0
+__fh|s__and then take the test away - the - the - the - the - the text away .__c0
+__s^bs^cs__uhhuh .__c2
+__fg|sj.%--__yeah .__c2
+__fh__so that they are not uh - guided by - by - by what you wrote .__c0
+__qy^rt__we will ==__c2
+__qrr__but can come up with their - with their own ==__c0
+__s^na__yeah .__c2
+__s^cs__they will have no more linguistic matter in front of them when they enter this room .__c2
+__sj^cs__right .__c0
+__s^cs.%--__okay .__c2
+__b__then i suggest we move on to the - to ==__c2
+__fh|s^df__we have um - uh - the e d u project .__c2
+__b__let me make one more general remark has sort of two - two side uh - um - actions its um - action items that we're do- - dealing with .__c2
+__s__one is modifying the smartkom parser and the other one is modifying the smartkom natural language generation module .__c2
+__s.%-__and um - | this is not too complicated .__c2
+__b__but i'm just mentioning it .__c2
+__s^df^na__put it in the framework .__c2
+__s^t1__because this is something we will talk about now .__c2
+__s^aa__um - i have some news from the generation .__c2
+__s__do you have news from the parser ?__c2
+__s^aa__um - | not ==__c5
+__s^aa|s__by that look i ==__c2
+__fh__yes | uh - i would really p- - it would be better if i talked about it on friday .__c5
+__s.%-__okay .__c2
+__b__if that's okay .__c5
+__s.%-__yeah .__c2
+__s__wonderful .__c2
+__s__um - | did you run into problems or did you run into not h- - having time ?__c2
+__s__yeah .__c5
+__b^rt__but not - not any time part .__c5
+__fg|s__okay | so that's good .__c2
+__b__that's better than running into problems .__c2
+__b__okay .__c5
+__s^cs__and um - i - i do have some good news for the natural language generation however .__c2
+__fh__and the good news is i guess it's done .__c2
+__s^e__uh - | meaning that tilman becker who does the german one actually took out some time and already did it in english for us .__c2
+__s^bu__and so the version he's sending us is already producing the english that's needed to get by in version one point one .__c2
+__s^2__so i take it that was similar to the - what - what we did for the parsing .__c5
+__s^aa__yeah .__c2
+__s^cs.%--__i - i - it - even though the generator is a little bit more complex .__c2
+__b__and it would have been not changing one hundred words but maybe four hundred words .__c2
+__s^aa__okay .__c5
+__s__but it would have been @reject@ .__c2
+__s__okay .__c5
+__s^rt__but this - this is i guess good news .__c2
+__s^cs^rt__and the - uh - the time ==__c2
+__s^e__and especially bhaskara ==__c2
+__qy^bu^d^rt__and - uh - and um ==__c2
+__s.%--__oh do i have it here ?__c2
+__fg|s^nd__no .__c2
+__qrr__the time is now pretty much fixed .__c2
+__s^e__it's the last week of april until the fourth of may .__c2
+__s^cs__so it's twenty sixth through fourth that they'll be here .__c2
+__fg__so it's - it's extremely important that the two of you are also present in this town during that time .__c2
+__s^aa__wait what - what are the days ?__c1
+__s^aa__april twenty sixth to the - may fourth ?__c1
+__s^na.%-__yeah | something like that .__c2
+__s.%-__i'll probably be here .__c1
+__b__yeah .__c5
+__b.%__it's ==__c2
+__s__you will be here .__c4
+__b__there is a d- ==__c2
+__s^df__isn't finals coming up then pretty much after that ?__c2
+__b.%__finals was that .__c5
+__s^nd__yeah | w- - it doesn't really have much meaning to grad students .__ca
+__s^bk.%__but final projects might .__ca
+__s.%-__okay .__c2
+__sj^na__yeah | actually that's true .__c5
+__qy^rt__that ==__ca
+__s^aa.%__anyway | so this is ==__c2
+__s^cs.%--__well i'll be here working on something .__c1
+__s^bk__guaranteed .__c1
+__h|sj__it's just uh - will i be here you know in ==__c1
+__b__uh ==__c1
+__s.%--__i'll be here too actually .__c1
+__s__but ==__c1
+__s__huh .__c0
+__fh__no | it's just um - you know they're coming for us so that we can bug them .__c2
+__s^aa__ye- ==__ca
+__s^cs__and ask them more questions .__c2
+__fh|s^cs__and sit down together .__c2
+__b.%__and write sensible code .__c2
+__b__and they can give some nice talks and stuff .__c2
+__b__but uh ==__c2
+__s__just make a ==__c2
+__b.%__but it's not like we need to be with them twenty four hours a day s- - for the seven days that they're here .__c1
+__s__not - not unless you really really want to .__c2
+__qr^rt.%--__they're very dependent .__c4
+__s^na^rt__not unless you really want to .__c2
+__s__and they're both nice guys .__c2
+__b__so you may - may want to .__c2
+__b__okay | that much from the parser and generator side .__c2
+__s^tc__unless there are more questions on that .__c2
+__b.%__so no sample generator output yet ?__ca
+__s^e__no .__c2
+__sj^ba__okay .__ca
+__s^aa__it - just a mail that you know he's sending me the - the - the stuff soon .__c2
+__qw__this is being sent .__ca
+__sj^ba__uhhuh .__ca
+__%-__okay .__ca
+__sj^ba__uhhuh .__ca
+__s^cs^e__and i was completely flabbergasted here .__c2
+__b__and i - and that's also it's - it's going to produce the concept to speech uh - blah blah blah information for - necessary for one point one in english .__c2
+__sj^ba__based on the english .__c2
+__%-__you know in english .__c2
+__b.%__so ==__c2
+__sj^cs.%-__i was like okay .__c2
+__s^cs__we're done .__c4
+__qy^bu^d^rt__we're done !__c2
+__s^aa__so that was like one of the first l- - you know the first task was getting it working for english .__ca
+__s^aa__so that's basically over now .__ca
+__b__is that right ?__ca
+__b__yeah .__c2
+__sj^cs^rt__so the basic requirement fulfilled .__ca
+__qy^e__um - | the basic requirement is fulfilled almost .__c2
+__s^df__when andreas stolcke and - and his gang ==__c2
+__s__uhhuh .__ca
+__s^no__when they have um - changed the language model of the recognizer and the dictionary then we can actually a- - put it all together .__c2
+__s__uhhuh .__ca
+__b__so the speech recognizer also works .__ca
+__s^e__uhhuh .__ca
+__s^e__uhhuh .__ca
+__fh__and ==__c2
+__sj^ba__you can speak into it and ask for t v and movie information .__c2
+__s.x__toll .__c4
+__s^e.x__and then when ==__c2
+__s^co^t__if - if something actually happens and some answers come out then we're done .__c2
+__s^aa__uhhuh .__ca
+__h|qo^d^rt^t__if - and they're kind of correct .__ca
+__fg|s^rt__so it's not done basically .__c4
+__s__huh ?__c2
+__s^bsc^rt__and they kind of are - are correct .__ca
+__fh|s^rt__right .__c4
+__s^bk.%__it's not just like anything .__ca
+__s^rt__perhaps if the answers have something to do with the questions for example .__c4
+__s^rt__and they're mostly in english .__ca
+__s^rt__so ==__ca
+__s^bk__then um ==__c2
+__b__are they - is it using the database ?__ca
+__sj^ba__the german t v movie .__ca
+__fh__yeah .__c2
+__%-__okay .__ca
+__s^bu__so all the actual data might be german names .__ca
+__s^aa__um - well actually th- - um ==__c2
+__fg__or are they all like american t v programs ?__ca
+__s^aa|s.%-__um - well ==__c2
+__s^bk__i want to see die dukes von hazard @reject@ .__c4
+__s^bu__the ==__c2
+__s^aa__okay | so you don't know how the german dialogue - uh - the german - the demo dialogue actually works .__c2
+__s^aa__it works ==__c2
+__s^fe__the first thing is what's you know showing on t v .__c2
+__fg|s__and then the person is presented with what's running on t v .__c2
+__sj^ba__in germany on that day on that evening .__c2
+__s^df^rt__uhhuh .__ca
+__s__uhhuh .__ca
+__sj__and so you take one look at it and then you say well that's really nothing - there's nothing for me there .__c2
+__b.%__what's running in the cinemas ?__c2
+__sj^ba__uhhuh .__ca
+__s__so maybe there's something better happening there .__c2
+__s^rt.%--__and then you get - you're shown what movies play which films .__c2
+__s^bsc__and it's going to be of course all the heidelberg movies and what films they are actually showing .__c2
+__s^aa|s__uhhuh .__ca
+__qy^rt__and most of them are going to be hollywood movies .__c2
+__b__huh .__ca
+__qy^bu^rt__so american beauty is american beauty .__c2
+__s.%-__right ?__c2
+__fg|s.%-__yeah .__c2
+__s^ar|s^df__uhhuh .__c4
+__s^aa__right .__ca
+__fg__and um ==__c2
+__sj__but they're shown like on a screen .__ca
+__sj^ba__it's a - i mean so would the generator ?==__ca
+__s__n- ==__c2
+__b__like the english language sentence of it is these are the follow- - you know the following films are being shown or something like that .__ca
+__sj^ba__yeah | but it in that sense it doesn't make - in that case uh - it doesn't really make sense to read them out loud .__c2
+__sj^ba^r^rt__s- ==__ca
+__s^cs.%-__right .__ca
+__fh__so it'll just display ==__ca
+__s__if you're displaying them .__c2
+__s.%-__okay .__ca
+__s^ar|s^nd__so we don't have to worry about um ==__ca
+__s^bk__but uh - it'll tell you that this is what's showing in heidelberg and there you go .__c2
+__fh|s__yeah .__ca
+__b__and the presentation agent will go nuh .__c2
+__s__okay .__ca
+__b.%__like that - the avatar .__c2
+__b.%__okay .__ca
+__s__and um ==__c2
+__s__and then you pick - pick a movie and - and - and it show- - shows you the times .__c2
+__s__and you pick a time .__c2
+__b__and you pick seats and all of this .__c2
+__b__so ==__c2
+__s__okay .__ca
+__b__pretty straightforward .__c2
+__b.%__okay .__c4
+__fh__but it's - so this time we - we are at an advantage .__c2
+__s__because it was a problem for the german system to incorporate all these english movie titles .__c2
+__s^arp|s^cs__yeah .__ca
+__b__nuh ?__c2
+__s^2__right .__ca
+__s^cs__but in english that's not really a problem .__c2
+__s^bk__uhhuh .__ca
+__s^bk__unless we get some - some topical german movies that have just come out and that are in their database .__c2
+__b__right .__ca
+__qw.%-__so the person may select huehner rennen or whatever .__c2
+__s__chicken run .__c4
+__qw__okay .__c2
+__sj^cs__then uh - on to the modeling .__c2
+__h__right ?__c2
+__s^e^no__yeah yeah i guess .__c1
+__qr^bu^d^rt.%--__um - | then modeling .__c2
+__s__there it is .__c2
+__s^r__okay | what's the next thing ?__c4
+__s^bk__yep .__c1
+__s__e- ==__c1
+__fg|s__this is very rough but this is sort of what um - johno and i managed to come up with .__c2
+__fh|s.%--__the idea here is that ==__c2
+__s^arp.%-__this is the uh - s- - the schema of the x m l here .__c1
+__b__not an example or something like that .__c1
+__b__yeah | this is not an x m l .__c2
+__s^cs.%--__okay .__c4
+__h|s^ar.%-__this is sort of towards an - a schema .__c2
+__s__nuh ?__c2
+__qy^bu^d^rt__right .__c0
+__s^df^na|s^aa__definition .__c2
+__s^bk^rt__the idea is - so imagine we have a library of schema .__c2
+__s^bk__such as the source path goal .__c2
+__b.%__and then we have forced uh - motion .__c2
+__s^cs.%--__we have cost action .__c2
+__s^rt__uhhuh .__c4
+__s^df__uhhuh .__ca
+__s^df__we have a whole library of schemas .__c2
+__b__and they're going to be you know fleshed out in - in their real ugly detail .__c2
+__s^df__source path goal .__c2
+__s^cs__and there's going to be s- - a lot of stuff on the goal and blah blah blah that a goal can be and so forth .__c2
+__s^fe^t1.%__what we think is ==__c2
+__b__and all the names could - should be taken cum grano salis .__c2
+__b__so ==__c2
+__s^2__this is a ==__c2
+__b__the fact that we're calling this action schema right now should not entail that we are going to continue calling this action schema .__c2
+__b__but what that means is we have here first of all ==__c2
+__qy^bu__on the - in the - in the first iteration a stupid list of source path goal actions .__c2
+__b__actions that can be categorized with ==__c1
+__s__or that are related to source path goal .__c1
+__s__wi- ==__c2
+__fg__okay .__c4
+__%-__to that schema .__c2
+__s^no__uhhuh .__ca
+__s^cs__and we will have you know forced motion and cost action actions .__c2
+__s^bk__and then those actions can be in multiple categories at the same time if necessary .__c1
+__b__so a push may be in - in - in both you know push uh - in this or this .__c2
+__s^ng|qy^cs^d^rt__forced motion and caused action for instance .__ca
+__b__uh ==__c2
+__b__exactly .__c2
+__s^aa__okay .__ca
+__s^am__yeah .__c2
+__b.%__also | these things may or may not get their own structure in the future .__c2
+__s__so this is something that you know may also be a res- - as a result of your work .__c2
+__b__in the future we may find out that you know there're really s- - these subtle differences between ==__c2
+__s__um ==__c2
+__b__even within the domain of entering in the light of a source path goal schema that we need to put in - fill in additional structure up there .__c2
+__s^2.%--__but it gives us a nice handle .__c2
+__s^aa__so with this we can basically um - you know s- - slaughter the cow any- - anyway we want .__c2
+__s^aa^r__uh ==__c2
+__s__it - it is - it was sort of a - it gave us some headache .__c2
+__s__how do we avoid writing down that we have sort of the enter source path goal ?__c2
+__s^aa__that this - but this sort of gets the job done in that respect .__c2
+__s__and maybe it is even conceptually somewhat adequate in a sense that um - we're talking about two different things .__c2
+__b__we're talking more on the sort of intention level up there .__c2
+__s^cc__and more on the - this is the - your basic bone um - schema down there .__c2
+__sj^ba__uh - one question robert .__c1
+__qw^rt.%--__when you point at the screen is it your shadow that i'm supposed to look at ?__c1
+__s__yeah | it's the shadow .__ca
+__%--__okay .__c1
+__s__whereas - i keep looking where your hand is .__c1
+__s__and it doesn't ==__c1
+__s__well that wouldn't have helped you at all .__c2
+__fh|s^rt__right .__ca
+__fh__yeah .__c1
+__s^bs__basically what this is - is that there's an interface between what we are doing and the action planner .__c1
+__b__spit right here .__c4
+__s__and right now the way the interface is action go and then they have the - what the person claimed was the source and the person claimed as the goal passed on .__c1
+__qy.%--__uhhuh .__ca
+__s^df.%--__and the problem is is that the current system does not distinguish between goes of type going into goes of type want to go to a place where i can take a picture of et cetera .__c1
+__qy^rt__so this is sort of what it looks like ==__c2
+__qy^rt__now some simple go action from it - from an object named peter's kirche of the type church to an object named powder tower of the type tower .__c2
+__s^aa__this is the - uh - what the action planner uses ?__ca
+__sj^ba__right ?__c2
+__s__this is ==__ca
+__b__right | currently .__c1
+__b__okay .__ca
+__s__currently .__c2
+__s^bk__and is that - and tha- - that's changeable ?__ca
+__%-__or not ?__ca
+__s^bk^r__yeah | well ==__c2
+__s^am__like are we adapting to it ?__ca
+__s__or ?==__ca
+__s__no .__c2
+__s^cs__we - this is the output sort of of the natural language understanding .__c2
+__fh__oh yeah .__ca
+__fh__uhhuh .__ca
+__s__right ?__c2
+__s__the input into the action planning as it is now .__c2
+__sj^ba__uhhuh .__ca
+__qy^rt__uhhuh .__ca
+__qy^rt__and what we are going to do ==__c2
+__s^no__we going to ==__c2
+__s^ar__and you can see here ==__c2
+__qy^bu^d^rt__and again for johno please - please focus the shadow .__c2
+__s^aa__okay .__c1
+__s^aa^r__um - we're gon- ==__c2
+__s__uh - uh ==__c2
+__qw.%--__here you have the action and the domain object .__c2
+__s^ar.%__and w- - and on - on ==__c2
+__qy__what did you think he was doing ?__ca
+__qr.%--__okay sorry !__ca
+__s__i just ==__c1
+__s^fa__a laser pointer would be most appropriate here i think .__c4
+__fh__eee ==__c3
+__h|s^aa^rt__yeah | i - i um - have - i have no ==__c2
+__%-__robert likes to be abstract .__c1
+__s^e__and that's what i just thought he was doing .__c1
+__s^e__you look up here .__ca
+__s__okay .__ca
+__fg__sort of between here and here .__c2
+__s^no.%--__so as you can see this is on one level and we are going to add another um - struct if you want i e a rich action description on that level .__c2
+__b__uhhuh .__c4
+__qy^bu^d^rt__so in the future ==__c2
+__s^aa__so it's just an additional information ==__ca
+__s^aa__exactly .__c2
+__qy^r.%--__in the future though the content of a hypothesis will not only be an object and an - an action and a domain object but an action a domain object and a rich action description .__c2
+__h|s^ar__right .__ca
+__s^bk^m__that doesn't hurt the current way .__ca
+__s^bsc^rt.%--__uhhuh .__ca
+__s__uhhuh .__ca
+__s^cc__which is ==__c2
+__b__which - which we're abbreviating as rad .__c1
+__s__good .__ca
+__%__huh .__ca
+__b__rad !__c4
+__sj^df__so um - | you had like an action schema and a source path goal schema .__c5
+__fh__huh .__ca
+__s^e__huh .__ca
+__b__uhhuh .__ca
+__b__right ?__c5
+__b__so how does this source path goal schema fit into the uh - action schema ?__c5
+__s.%--__like is it one of the tags there ?__c5
+__s^t1.%--__yeah | can you go back to that one ?__ca
+__s__so the source path goal schema in this case ==__c1
+__s^cc__i've - if i understand how we described - we set this up ==__c1
+__qy^d^g^rt__um ==__c1
+__s__because we've been arguing about it all week .__c1
+__qy^d^g^rt__but uh - we'll hold the - the ==__c1
+__qy^rt__well in this case it will hold the - i mean the - the features i guess .__c1
+__s^aa__i'm not - it's hard for me to exactly s- ==__c1
+__s.%--__so basically that will store the - the object that is w- ==__c1
+__fh__the source will store the object that we're going from .__c1
+__%-__uhhuh .__c4
+__%-__the goal will store the - the f- ==__c1
+__s^bsc__so the fillers of the role source .__ca
+__s__we'll fill those in - fill those roles in .__c1
+__s^e__okay .__ca
+__s^bu__right ?__c1
+__s^aa__yeah .__c2
+__fh__the s- - action schemas basically have extra ==__c1
+__s.%--__see we - so those are - schemas exist ==__c1
+__s^t1__because in case we need extra information ==__c1
+__s__instead of just making it an attribute and which - which is just one thing we - we decided to make it's own entity so that we could explode it out later on in case there is some structure that - that we need to exploit .__c1
+__b__okay | so th- ==__ca
+__fh__sorry | i just don't kn- ==__ca
+__b__um - um - um ==__ca
+__s.%--__this is just uh - x m l mo- - notational .__ca
+__%-__but um - the fact that it's action schema and then sort of slash action schema .__ca
+__fg__that's a whole entit- ==__ca
+__s__that's a block .__c1
+__qr^rt.%--__that's a block .__ca
+__h|s^ng__yeah .__c1
+__s^bk__whereas source is just an attribute ?__ca
+__%--__is that ?==__ca
+__s__no no no .__c2
+__s^e__source is just not spelled out here .__c2
+__b__oh okay okay .__ca
+__s^e__source meaning - source will be uh - will have a name a type maybe a dimensionality .__c2
+__s__uhhuh uhhuh .__ca
+__fh__maybe canonical uh - orientation ==__c2
+__b__okay | could it - it could also be blocked out then as ==__ca
+__s__yeah .__c1
+__s^aa__the - so ==__c1
+__s__okay .__ca
+__s^bk__yeah .__c1
+__s__s- - source it will be ==__c2
+__%-__you know we'll f- ==__c2
+__s^rt__we know a lot about sources .__c2
+__s__so we'll put all of that in source .__c2
+__b.%__okay .__ca
+__b.%__but it's independent whether we are using the s p g schema in an enter view or approach mode .__c2
+__b.%__uhhuh .__ca
+__s.%--__right ?__c2
+__s.%--__this is just properties of the s p g schema .__c2
+__fh|s__we can talk about paths being the fastest the quickest the nicest and so forth .__c2
+__s__uh - or - or - and the trajector should be coming in there as well .__c2
+__s^aa__okay .__ca
+__b.%__and then g- - the same about goals .__c2
+__s^t^tc__okay .__ca
+__s^t3__so i guess the question is when you actually fill one of these out it'll be under action schema ?__ca
+__s^co__those are ==__ca
+__s^2__it's going to be one - y- - you'll pick one of those for ==__ca
+__s^m__right .__c1
+__s__okay | these are - this is just a layout of the possible that could go - play that role .__ca
+__fh|s__right | so the - the - the roles will be filled in with the schema .__c1
+__s__huh ?__c2
+__s__okay go it .__ca
+__s__uhhuh .__ca
+__s__and then what actual a- - action is chosen is - will be in the - in the action schema section .__c1
+__s__okay .__ca
+__s__okay .__ca
+__s__s- - s- ==__ca
+__s__okay | so one question .__ca
+__s^cc__this was - in this case it's all um - clear sort of obvious .__ca
+__s__but you can think of the enter view and approach as each having their roles .__ca
+__b.%__right ?__ca
+__s__the - i mean it's - it's implicit that the person that's moving is doing entering viewing and approaching .__ca
+__s__but you know the usual thing is we have bindings between sort of ==__ca
+__s__they're sort of like action specific roles and the more general source path goal specific roles .__ca
+__s.%--__so are we worrying about that or not for now ?__ca
+__b__yes yes .__c2
+__s__okay .__ca
+__%-__since you bring it up now we will worry about it .__c2
+__b__okay .__ca
+__s.%-__tell us more about it .__c2
+__fh|s__what do you - what do you ?==__c2
+__s:s__what's that ?__ca
+__b__oh | i guess it ==__ca
+__s^bsc__i - i may be just um - reading this and interpreting it into my head in the way that i've always viewed things .__ca
+__s.%--__huh .__c2
+__s__huh .__c4
+__s__and that - that may or may not be what you guys intended .__ca
+__s^cc__but if it is then the top block is sort of like ==__ca
+__s^ba__um - | you know you have to list exactly what x schema ==__ca
+__s__or in this action schema ==__ca
+__s__there'll be a certain one that has its own s- - structure .__ca
+__fh|s__and maybe it has stuff about that specific to entering or viewing or approaching .__ca
+__s__but those could include roles like the thing that you're viewing the thing that you're entering the thing that you're ==__ca
+__s__whatever .__ca
+__s__you know that - which are ==__ca
+__fg|s__so very specific role names are viewed thing entered thing .__c4
+__fh|s__think - think of enter view and approach as frames .__ca
+__s__and they have frame specific parameters and - and roles .__ca
+__s^e__yeah .__c4
+__s.%--__uhhuh .__c2
+__fh__yeah .__c2
+__s__and you can also describe them in a general way as source path goal schema .__ca
+__b__and maybe there's other image schemas that you could you know add after this that you know how do they work in terms of you know a force dynamics ?__ca
+__s__uhhuh .__c2
+__s__or how do they work in f- - terms of other things ?__ca
+__s__uhhuh uhhuh uhhuh .__c2
+__s^ba__so all of those have um - basically f- - either specific - frame specific roles or more general frame specific roles that might have binding .__ca
+__s__so the question is are - um - how to represent when things are linked in a certain way ?__ca
+__s__so we know for enter that there's container potentially involved .__ca
+__b.%__uhhuh .__c2
+__b.%__and it's not ==__ca
+__s.%-__uh - i don't know if you want to have in the same level as the action schema s p g schema .__ca
+__s^2__it - it's somewhere in there that you need to represent that there is some container .__ca
+__fg__and the interior of it corresponds to some part of the source path goal um - you know goal - uh - goal i guess in this case .__ca
+__s^aa__uhhuh .__c2
+__s__so uh - | is there an easy way in this notation to show when there's identity basically between things ?__ca
+__s__yeah .__c2
+__s__and i di- - don't know if that's something we need to invent .__ca
+__s^df__or you know just ==__ca
+__fh__the ==__c1
+__s__wa- - wasn't there supposed to be a link in the ?==__c1
+__b__right .__c5
+__s__i don't know if this answers your question .__c1
+__s__i was just staring at this while you were talking .__c1
+__s__sorry .__c1
+__s__it's okay .__ca
+__s__uh - | a link between the action schema a field in the s- - in the schema for the image schemas that would link us to which action schema we were supposed to use .__c1
+__s__so we could ==__c1
+__%-__yeah .__c2
+__s__um - | well that's - that's one - one thing is that we can link up .__c2
+__s^e__think also that um - we can have one or m- - as many as we want links from - from the schema up to the s- - action um - description of it .__c2
+__b__huh .__ca
+__s^ba__but the notion i got from nancy's idea was that we may f- - find sort of concepts floating around i- - in the a- - action description of the action f- - enter frame up there that are e- - when you talk about the real world actually identical to the goal of the - the s- - source path goal schema .__c2
+__s__exactly .__ca
+__s^df__right right .__ca
+__s^aa|s^ba__and do we have means of - of telling it within that .__c2
+__%-__right .__ca
+__s^no__a- - and the answer is absolutely .__c2
+__qw.%-__yeah .__ca
+__qy^bu^d.%-__the way - we absolutely have those means that are even part of the m three l a a p i .__c2
+__s__oh great .__ca
+__s__s- - uhhuh .__ca
+__s__meaning we can reference .__c2
+__s^bk__so meaning ==__c2
+__fg|%-__great .__ca
+__s__that's exactly what is necessary .__ca
+__qr__yeah .__c1
+__s^ar|s^df.%--__and um ==__c2
+__s__st- ==__c1
+__fg|s__this referencing thing however is of temporary nature .__c2
+__s.%-__because sooner or later the w three c will be finished with their x path uh - um - specification .__c2
+__b__and then it's going to be even much nicer .__c2
+__s^e__then we have real means of pointing at an individual instantiation of one of our elements here .__c2
+__b__uhhuh .__ca
+__s__uhhuh .__ca
+__b__and link it to another one and this not only within a document but also via documents .__c2
+__b__uhhuh .__c4
+__b__okay .__ca
+__s^bd^no__and - and all in a v- - very easy e- - homogenous framework .__c2
+__s__so you know - happen to know how - what - what sooner or later means like in practice ?__ca
+__s^ba__that's @reject@ .__c2
+__s^cc__or estimated .__ca
+__s^bk__but it's soon .__c2
+__qy^bu^d__okay okay .__ca
+__s^aa__so it's g- - it's - the spec is there .__c2
+__s^aa|s^na__and it's going to part of the m three l a p - a p i filed by the end of this year .__c2
+__b__so that this means we can start using it basically now .__c2
+__s__uhhuh .__ca
+__b__but this is a technical detail .__c2
+__s__so a pointer - a way to really say pointers .__ca
+__b__basically references from the roles in the schema - the bottom schemas to the action schemas is wha- - uh - i'm assuming .__c1
+__s^rt__yeah .__ca
+__s.%--__okay yeah .__ca
+__b__yeah .__c2
+__s__yeah .__c2
+__s__okay .__ca
+__b__i mean personally i'm looking even more forward to the day when we're going to have x forms which l- - is a form of notation where it allows you to say that if the s p g action up there is enter then the goal type can never be a statue .__c2
+__s^ba^rt^tc__uhhuh .__ca
+__s^t^tc__right .__ca
+__fg|s__uhhuh .__c4
+__qw^rt__so you have constraints that are dependent on the c- - actual s- - specific filler uh - of some attribute .__ca
+__s^rt__uhhuh yeah .__c2
+__qw.%-__w- ==__c2
+__h|s__yeah e- - exactly .__c2
+__s^bk|s^ba__um - | you know this of course does not make sense in light of the statue of liberty .__c2
+__s^bk__uhhuh .__ca
+__s^bk__right .__c4
+__qy^bu^d^rt__however it is uh - you know sort of - these sort of things are imaginable .__c2
+__s^aa__tsk ==__ca
+__s^ba__yeah .__ca
+__qw__or the gateway arch in st .__ca
+__s__yeah ?__c2
+__h__s- - so um - | like are you going to have similar schemas for f m ?__c5
+__qy^rt__louis .__ca
+__qrr.%--__yeah .__c2
+__s.%--__so ==__ca
+__s__like forced motion and caused action and stuff .__c5
+__s.%-__like you have for s p g .__c5
+__s^aa|%--__yeah .__c2
+__b__and if so like can - are you able to enforce that you know if - if it's - if it's s p g action then you have that schema .__c5
+__s__if it's a forced motion then you have the other schema present in the ==__c5
+__s__um - | we have absolute ==__c2
+__s^e__no .__c2
+__s^2^m__we have absolutely no means of enforcing that .__c2
+__s__so it would be considered valid if we have an s p g action enter and no s p g schema but a forced action schema .__c2
+__s__could happen .__c2
+__b__whi- - which is not bad .__ca
+__s__because i mean that there's multiple sens- ==__ca
+__s^bk__i mean that particular case there's mult- - there - there's a forced side of - of that verb as well .__ca
+__b__huh .__c2
+__s__it - maybe it means we had nothing to say about the source path goal .__c2
+__s__okay .__c5
+__s^bu__what's also nice and for a- - i- - for me in my mind .__c2
+__s^aa__it's - it's crucially necessary is that we can have multiple schemas and multiple action schemas in parallel .__c2
+__b__right .__c5
+__s__and um - we started thinking about going through our bakery questions .__c2
+__qw__so when i say is there a bakery here .__c2
+__s__you know i do ultimately want our module to be able to first of all f- - tell the rest of the system hey this person actually wants to go there .__c2
+__s^e__and b that person actually wants to buy something to eat there .__c2
+__s__nuh ?__c2
+__s__and if these are two different schemas ==__c2
+__b.%__i e the source path goal schema of getting there and then the buying snacks schema ==__c2
+__s__nuh ?__c2
+__s__would they both be listed here in ?==__ca
+__s__yes .__c2
+__s__okay .__ca
+__qy^bu^d^rt__under so o- - under action schema there's a list that can include both - both things .__ca
+__s^aa__ye- - yeah | they - they would - both schemas would appear .__c2
+__fg|s^aa__right .__c1
+__z__so what is the ?==__c2
+__s^ba__snack action .__c4
+__s^j__uh - is - is there a buying s- - snacks schema ?__c2
+__%-__that's interesting .__ca
+__qw^br__what is the - uh - have ?==__c2
+__s^bk__what ?__ca
+__qw^br^r__the buying snack schema .__c2
+__s^bk__see .__c4
+__s^r__buying - buying his food ==__c3
+__s^aa__i'm sure there's a commercial event schema in there somewhere .__c4
+__s__oop .__ca
+__s__i- - d- - f- ==__ca
+__s^co^j__yeah .__c2
+__b__a commercial event or something .__c2
+__s^bu__yeah i - i ==__ca
+__qy^g^rt__yeah ?__c2
+__s^bu^r__so uh - | so we would - we would instantiate the s p g schema with a source path goal blah blah blah .__c2
+__s^bk__i see .__ca
+__qy^g^rt__and the buying event you know at which - however that looks like the place f- - thing to buy .__c2
+__s^aa__uhhuh .__ca
+__s^bk|s__uhhuh .__ca
+__s__interesting .__ca
+__s^j__would you say that the - like ?==__ca
+__s^bk__i mean you could have a flat structure and just say these are two independent things .__ca
+__s__but there's also this sort of like causal .__ca
+__s^bk__well so one is really facilitating the other and it's part of a compound action of some kind which has structure .__ca
+__fh__yeah .__c2
+__s__now it's technically possible that you can fit schema within schema .__c2
+__fh|s^e__uh i - i think that's nicer for a lot of reasons .__ca
+__z__and schema within schemata ==__c2
+__s__but might be a pain .__ca
+__z__so uh ==__ca
+__b__um ==__c2
+__s^cs:s__well for me it seems that uh ==__c2
+__s^bk__i mean there are truly times when you have two totally independent goals that they might express at once .__ca
+__b__r- - yes .__c2
+__s^cs^j__but in this case it's really like there's a purpo- - means that you know f- - for achieving some other purpose .__ca
+__qy^rt^t^tc__well if i'm - if i'm recipient of such a message .__c2
+__s^aa|s^co__and i get a source path goal where the goal is a bakery .__c2
+__s^bk__and then i get a commercial action which takes place in a bakery .__c2
+____right ?__c2
+____uhhuh .__ca
+__z__and - and - and they - they are obviously via identifiers identified to be the same thing here .__c2
+____yeah .__ca
+____see that - that bothers me that they're the same thing .__ca
+__z__no no | just the ==__c2
+____yeah ?__c2
+____yeah .__ca
+____because they're two different things .__ca
+__z__one of which is l- ==__ca
+____you could think of one a sub you know pru- - whatever pre condition for the second .__ca
+__z__yeah yeah .__c2
+__z__right .__ca
+__z__yeah yeah .__ca

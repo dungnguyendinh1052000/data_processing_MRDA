@@ -1,0 +1,1333 @@
+__qy^rt__is it starting now ?__c1
+__s^t^tc__yep .__c5
+__fg|s__so what - what - from what ==__c1
+__fh__whatever we say from now on it can be held against us .__c1
+__s.%-__hello ?__c0
+__s__right ?__c1
+__fh__that's right .__c5
+__s^bk|s__and uh ==__c1
+__s__it's your right to remain silent .__c0
+__fh__yeah .__c1
+__s__so i - i- - the - the problem is that i actually don't know how th- - these held meetings are held .__c1
+__s^bu__if they are very informal and sort of just people are say what's going on .__c1
+__qy^d^g^rt__yeah .__c5
+__s|s^aa__and ==__c1
+__s.%-__yeah that's usually what we do .__c5
+__s^fe__we just sort of go around and people say what's going on what's the latest uh ==__c5
+__s__okay .__c1
+__s^bk__yeah .__c1
+__s^e__okay .__c1
+__fg__so i guess that what may be a reasonable is if i uh - first make a report on what's happening in aurora in general at least what from my perspective .__c1
+__s__yeah .__c5
+__s__that would be great .__c5
+__s__uh - o- ==__c4
+__s__and - and uh - | so i - i think that carmen and stephane reported on uh - amsterdam meeting .__c1
+__b__which was kind of interesting .__c1
+__s__because it was for the first time we realized we are not friends really but we are competitors .__c1
+__s__because until then it was sort of like everything was like wonderful .__c1
+__s__and ==__c1
+__s__yeah .__c5
+__s__it seemed like there were still some issues .__c5
+__s^fe__yeah .__c1
+__s__right ?__c5
+__s__that they were trying to decide .__c5
+__s.%--__there is a plenty of - there're plenty of issues .__c1
+__s__like the - voice activity detector ==__c5
+__s.%--__well and what happened was that they realized that if two leading proposals which was french telecom alcatel and us both had uh voice activity detector .__c1
+__b__right .__c5
+__s^2__and i said well a big surprise i mean we could have told you that n- - n- - n- - four months ago except we didn't because nobody else was bringing it up .__c1
+__s__obviously french telecom didn't volunteer this information either .__c1
+__s__right .__c5
+__b__because we were working on - mainly on voice activity detector for past uh - several months .__c1
+__s__because that's buying us the most uh - thing .__c1
+__s__and everybody said well but this is not fair we didn't know that .__c1
+__s__and of course uh - the - it's not working on features really .__c1
+__s__right .__c5
+__b__and be- - i agreed .__c1
+__s__i said well yeah .__c1
+__%-__you are absolutely right .__c1
+__s__i mean if - i wish that you provided better end point at speech because uh ==__c1
+__qy^bu^d^rt__or at least that if we could modify the recognizer uh - to account for these long silences .__c1
+__s^aa__because otherwise uh - that - that - th- - that wasn't a correct thing .__c1
+__s^bu__and | so then ev- - ev- - everybody else says well we should - we need to do a new eval- - evaluation without voice activity detector .__c1
+__s__or we have to do something about it .__c1
+__s^e__right .__c5
+__s__and in principle i - uh - i - we agreed .__c1
+__s^df__uhhuh .__c5
+__s^cs__we said uh - yeah .__c1
+__s__because - uh ==__c1
+__s^aa__but in that case uh - we would like to change the - uh - the algorithm .__c1
+__s^aa|s^na__because uh - if we are working on different data we probably will use a different set of tricks .__c1
+__s^na|s^aa__right .__c5
+__s^cs__but unfortunately nobody ever officially can somehow acknowledge that this can be done .__c1
+__s.%-__because french telecom was saying no no no now everybody has access to our code .__c1
+__s^ba__so everybody is going to copy what we did .__c1
+__s__yeah .__c1
+__qy^bu^d^rt__well our argument was everybody ha- - has access to our code and everybody always had access to our code .__c1
+__%-__we never uh - uh - denied that .__c1
+__s__we thought that people are honest that if you copy something and if it is protected - protected by patent then you negotiate or something .__c1
+__s__yeah .__c5
+__%-__right .__c5
+__s^bk__right ?__c1
+__b__i mean if you find our technique useful we are very happy .__c1
+__s^nd|s^ar__right .__c5
+__s^bk|s^df.%-__uhhuh .__c5
+__qh__but - and french telecom was saying no no no .__c1
+__b__there is a lot of little tricks which uh - sort of uh - cannot be protected and you guys will take them which probably is also true .__c1
+__s^bd^df__i mean you know | it might be that people will take uh - uh - th- - the algorithms apart and use the blocks from that .__c1
+__s^cs__but i somehow think that it wouldn't be so bad as long as people are happy abou- - uh - uh - uh - honest about it .__c1
+__fh__yeah .__c5
+__b__and i think they have to be honest in the long run because winning proposal again - uh - what will be available th- - is - will be a code .__c1
+__qy^rt__uhhuh .__c5
+__s__so the - uh - the people can go to code and say well listen this is what you stole from me .__c1
+__s^df^no__right .__c5
+__b__you know ?__c1
+__fg|s^no__right .__c5
+__s__so let's deal with that .__c1
+__s__so i don't see the problem .__c1
+__b__the biggest problem of course is that f- - that alcatel french telecom cl- - claims well we fulfilled the conditions .__c1
+__s__we are the best .__c1
+__fh__uh - we are the standard .__c1
+__qy.%-__and e- - and other people don't feel that .__c1
+__s__because they - so they now decided that - that is - the whole thing will be done on well endpointed data .__c1
+__qw__essentially that somebody will endpoint the data based on clean speech .__c1
+__s__because most of this uh - the speechdat car has the - also close speaking mike and endpoints will be provided .__c1
+__s__uhhuh .__c5
+__s^bk__uh .__c5
+__qy^rt__and uh - | we will run again .__c1
+__s^ng__still not clear if we are going to run the - if we are allowed to run uh - uh - new algorithms .__c1
+__qy.%-__but i assume so .__c1
+__s^no__because uh - we would fight for that really .__c1
+__s__uh - | but since uh u- - u- - n- - u- ==__c1
+__fg|s__at least our experience is that only endpointing a - a mel cepstrum gets - uh - gets you twenty one percent improvement overall and twenty seven improvement on speechdat car .__c1
+__qy^bu^d^rt__huh .__c5
+__s^bk^fe__then obvious the database - uh - i mean the - the - the - uh - the baseline will go up .__c1
+__s.%--__right .__c5
+__b__and nobody can then achieve fifty percent improvement .__c1
+__s^fa__so they agreed that uh - there will be a twenty five percent improvement required on - on uh - h- - u- - m- - bad mis- - badly mismatched ==__c1
+__s^bu__but wait a minute .__c5
+__qy^d^g^rt__i thought the endpointing really only helped in the noisy cases .__c5
+__s^aa__it uh ==__c1
+__s^aa__oh but you still have that with the m f c c .__c5
+__s^bu__okay .__c5
+__s^aa__y- - yeah .__c1
+__s^aa__yeah .__c5
+__qh^cs__yeah | but you have the same prob- - i mean m f c c basically has an enormous number of uh - insertions .__c1
+__qw^rt__right .__c5
+__s^df__yeah .__c5
+__s^bk|s^bu__yeah .__c5
+__s^aa__yeah .__c5
+__s__and so - | so now they want to say we - we will require fifty percent improvement only for well matched condition and only twenty five percent for the serial cases .__c1
+__s__huh .__c5
+__s.%--__yeah and uh - | and they almost agreed on that except that it wasn't a hundred percent agreed .__c1
+__b__and so last time uh - during the meeting i just uh - brought up the issue .__c1
+__s^ba__i said well you know uh - quite frankly i'm surprised how lightly you are making these decisions .__c1
+__s.x__because this is a major decision .__c1
+__b__for two years we are fighting for fifty percent improvement .__c1
+__fh__and suddenly you are saying oh no we - we will do something less .__c1
+__s^aa^rt|s.%--__but maybe we should discuss that .__c1
+__s^bd__and everybody said oh we discussed that and you were not a mee- - there .__c1
+__s^df__and i said well a lot of other people were not there because not everybody participates at these teleconferencing c- - things .__c1
+__s^df__then they said oh no no no because uh - everybody is invited .__c1
+__b__however there is only ten or fifteen lines so people can't even con- - you know participate .__c1
+__fh__so uh - they agreed and so they said okay we will discuss that .__c1
+__s__immediately nokia uh - raised the question .__c1
+__fh__and they said oh yeah we agree this is not good to - to uh - dissolve the - uh - uh - the - uh - the criterion .__c1
+__b__uhhuh .__c5
+__s.%--__so now officially nokia is uh - uh - complaining and said they - they are looking for support .__c1
+__s__uh - | i think qualcomm is uh - saying too we shouldn't abandon the fifty percent yet .__c1
+__qh__we should at least try once again one more round .__c1
+__s^cs.%-__uhhuh .__c5
+__s__uhhuh .__c5
+__b__so this is where we are .__c1
+__s^cs.%--__huh .__c5
+__qy^bu^d^rt__i hope that - i hope that this is going to be a- - adopted .__c1
+__qrr.%--__next wednesday we are going to have uh - another uh - teleconferencing call so we'll see what - uh - where it goes .__c1
+__qy^bu^d^rt__so what about the issue of um - the weights on the - for the different systems ?__c5
+__s__the well matched and medium mismatched and ==__c5
+__s^2__yeah .__c1
+__s^2__that's what - that's a g- - very good uh - point .__c1
+__s^e.%--__because david says well you know we ca- - we can manipulate this number by choosing the right weights anyways .__c1
+__s__uhhuh .__c5
+__s__so while you are right but uh - you know but ==__c1
+__s^rt__uh - yeah .__c1
+__%--__if you - of course if you put a zero - uh - weight zero on a mismatched condition or highly mismatched then - then you are done .__c1
+__s__uhhuh .__c5
+__fg|s.%-__but weights were also deter- - already decided uh - half a year ago .__c1
+__s__and they're the - staying the same ?__c5
+__%--__so ==__c1
+__s^cs__well | of course people will not like it .__c1
+__s^df.%-__uhhuh .__c5
+__s^bu__now - what is happening now is that i th- - i think that people try to match the criterion to solution .__c1
+__%-__they have solution .__c1
+__s__now they want to make sure their criterion is ==__c1
+__s__right .__c5
+__s__and i think that this is not the right way .__c1
+__fg|s^cs__yeah .__c5
+__s^ba__uh - it may be that - that ==__c1
+__s^ba__eventually it may ha- - may ha- - it may have to happen .__c1
+__fh__uhhuh .__c5
+__s^aa|s^ba^na__but it's - should happen at a point where everybody feels comfortable that we did all what we could .__c1
+__b__uhhuh .__c5
+__s^aa|%-__and i don't think we did .__c1
+__s^ba__basically i think that - that this test was a little bit bogus because of the data .__c1
+__qy^g^rt__and uh - essentially there were these arbitrary decisions made and - and everything .__c1
+__s^aa__so - so - so this is - this is where it is .__c1
+__s^aa__so what we are doing at o g i now is uh - uh - uh - working basically on our parts which we - i think a little bit neglected .__c1
+__b__like noise separation .__c1
+__s__uh - | so we are looking in ways is - in uh - which - uh - with which we can provide better initial estimate of the mel spectrum basically .__c1
+__s.%-__which would be a - uh - more robust to noise .__c1
+__s^cs^j__and so far not much uh - success .__c1
+__fh__huh .__c5
+__qy^rt^t3__we tried uh - things which uh - a long time ago bill byrne suggested .__c1
+__s__instead of using fourier spectrum from fourier transform use the spectrum from l p c model .__c1
+__qw^t3__their argument there was the l p c model fits the peaks of the spectrum so it may be m- - naturally more robust in noise .__c1
+__s^df^rt__and i thought well that makes sense but so far we can't get much - much out of it .__c1
+__s^df__huh .__c5
+__s^cs__uh - | we may try some standard techniques like spectral subtraction and ==__c1
+__s__you haven't tried that yet ?__c5
+__b__not - not - not much .__c1
+__fh__huh .__c5
+__s.%--__or even i was thinking about uh - looking back into these totally ad hoc techniques .__c1
+__s__like for instance uh - dennis klatt was suggesting uh - the one way to uh - deal with noisy speech is to add noise to everything .__c1
+__qy^rt^t3__huh .__c5
+__qrr.%--__so i mean uh - uh - add moderate amount of noise to all data .__c1
+__qw^t3__oh !__c5
+__s^t3__i see .__c5
+__s__so that makes uh - th- - any additive noise less addi- - less a- - a- - effective .__c1
+__s^bk^m__right ?__c1
+__s__right .__c5
+__s__because you already uh - had the noise uh - in a ==__c1
+__qh__and it was working at the time .__c1
+__b__it was kind of like one of these things you know but ==__c1
+__s__if you think about it it's actually pretty ingenious .__c1
+__s__so well you know just take a - take a spectrum and - and - and add of the constant c to every - every value .__c1
+__s__well you're - you're basically y- ==__c5
+__s__yeah .__c5
+__s__so you're making all your training data more uniform .__c5
+__s^cs__exactly .__c1
+__qw__and if - if then - if this data be- - becomes noisy it b- - it becomes eff- - effectively becomes less noisy basically .__c1
+__h|%-__huh .__c5
+__b__but of course you cannot add too much noise because then you'll s- - then you're clean recognition goes down .__c1
+__s__but i mean he- - it's yet to be seen how much .__c1
+__s^cs^j__it's a very simple technique .__c1
+__s.%--__uhhuh .__c5
+__s^cs__yes indeed it's a very simple technique .__c1
+__s^fa__you just take your sp- - spectrum and - and use - whatever is coming from f f t add constant .__c1
+__%-__huh .__c5
+__s__you know ?__c1
+__s^bk|qy^bh^rt__on- - onto power spectrum .__c1
+__s^bk__that - that ==__c1
+__s^cc^j__or the other thing is of course if you have a spectrum what you can s- - start doing you can leave - start leaving out the p- - the parts which are uh - uh - low in energy .__c1
+__qy^d^f^g__and then perhaps uh - one could try to find a - a all pole model to such a spectrum .__c1
+__b__because a all pole model will still try to - to - to put the - the continuation basically of the - of the model into these parts where the issue set to zero .__c1
+__s__so that's what we want to try .__c1
+__b__i have a visitor from brno .__c1
+__%-__he's a k- - kind of like young faculty .__c1
+__%-__pretty hard working so he - so he's - so he's looking into that .__c1
+__s^bk|s.%--__huh .__c5
+__s^am^ba__and then most of the effort is uh - now also aimed at this e- - e- - trap recognition .__c1
+__fh|s.%--__this - uh - this is this recognition from temporal patterns .__c1
+__s^bk__huh !__c5
+__s__what is that ?__c5
+__s^fe__uh | you don't know about traps !__c1
+__qy^bu^d^rt__huh .__c0
+__b__the traps sound familiar i - but i don't ==__c5
+__%-__yeah .__c1
+__fh__i mean tha- - thi- ==__c1
+__s^bu__this is familiar like sort of because we gave you the name .__c1
+__b__but | what it is is that normally what you do is that you recognize uh - speech based on a shortened spectrum .__c1
+__s^aa__uhhuh .__c5
+__s^bd^df__uhhuh .__c5
+__s^ba__essentially l p- - l p c mel cepstrum uh - everything starts with a spectral slice .__c1
+__s^bk__uh - | so if you s- - so given the spectrogram you essentially are sliding - sliding the spectrogram along the uh - f- - frequency axis .__c1
+__s^ba__uhhuh .__c5
+__b__and you keep shifting this thing and you have a spectrogram .__c1
+__s^aa__uhhuh .__c5
+__s__so you can say well you can also take the time trajectory of the energy at a given frequency .__c1
+__s^df.%--__uhhuh .__c5
+__%-__and what you get is then that you get a p- - vector .__c1
+__s__and this vector can be a - a - s- - assigned to s- - some phoneme .__c1
+__b__namely you can say i- - it - i will - i will say that this vector will uh - will - will describe the phoneme which is in the center of the vector .__c1
+__s^ba__and you can try to classify based on that .__c1
+__s^am__huh .__c5
+__s^df:s__and you - so you classi- ==__c1
+__s^e__so it's a very different vector very different properties .__c1
+__s^df^na.%-__we don't know much about it .__c1
+__s^ba__huh .__c5
+__s^ba__but the truth is ==__c1
+__s^aa|s__but you have many of those vectors per phoneme .__c5
+__s^bk__well so you get many decisions .__c1
+__s^co__right ?__c5
+__s__uhhuh .__c5
+__s^r__and then you can start dec- - thinking about how to combine these decisions .__c1
+__s^ba__huh .__c5
+__b__exactly that's what - yeah that's what it is .__c1
+__b__huh .__c5
+__s__because if you run this uh - recognition you get - you still get about twenty percent error .__c1
+__b__uh - twenty percent correct .__c1
+__s^df__huh .__c5
+__s^e__you know ?__c1
+__s^e__on - on like for the frame by frame basis .__c1
+__b__so - uh - uh - so it's much better than chance .__c1
+__s^ba__how wide are the uh - frequency bands ?__c5
+__s^aa|s^ba__that's another thing .__c1
+__fg|%--__well c- - currently we start - i mean we start always with critical band spectrum .__c1
+__fh|s^cs^j__for various reasons .__c1
+__s^e^j__but uh - the latest uh - observation uh - is that you - you - you are - you can get quite a big advantage of using two critical bands at the same time .__c1
+__s^ba__are they adjacent ?__c0
+__s^ba__or are they s- ?==__c0
+__s^ba__adjacent adjacent .__c1
+__b__okay .__c0
+__s^aa__and the reasons - there are some reasons for that .__c1
+__s^aa|s__because there are some reasons i can - i could talk about will have to tell you about things like masking experiments which uh - uh - uh - uh - yield critical bands .__c1
+__s^df__and also experiments with release of masking which actually tell you that something is happening across critical bands - across bands .__c1
+__s^e__and ==__c1
+__s^aa__well how do you - how do you uh - convert this uh - energy over time in a particular frequency band into a vector of numbers ?__c5
+__fh__it's uh - uh - uh - i mean time t zero is one number time t- ==__c1
+__s^j__yeah but what's the number ?__c5
+__b__is it just the ?==__c5
+__b__it's a spectral energy logarithmic spectral energy .__c1
+__s__it's just the amount of energy in that band from f- - in that time interval .__c5
+__b__yeah .__c1
+__s.%--__yes yes .__c1
+__s__yes yes .__c1
+__s^e__okay .__c5
+__b__and - | that's what - that's what i'm saying then .__c1
+__s^cs__so this is a - this is a starting vector .__c1
+__s.%-__it's just like shortened f- - spectrum or something .__c1
+__s^e__uhhuh .__c5
+__s^bk__but now we are trying to understand what this vector actually represents .__c1
+__s^am__for instance a question is like how correlated are the elements of this vector .__c1
+__s^e__turns out they are quite correlated because i mean especially the neighboring ones .__c1
+__qw__yeah .__c5
+__qw__right ?__c1
+__s__they - they represent the same - almost the same configuration of the vocal tract .__c1
+__qw.%-__yeah .__c5
+__s__uhhuh .__c5
+__s^e__so there's a very high correlation .__c1
+__s.%-__so the classifiers which use the diagonal covariance matrix don't like it .__c1
+__s:qy__so we're thinking about de correlating them .__c1
+__s^e:qrr__huh .__c5
+__s:s^no__then the question is uh - can you describe elements of this vector by gaussian distributions or to what extent .__c1
+__s^e__because uh ==__c1
+__s__and - and - and so on and so on .__c1
+__s__so we are learning quite a lot about that .__c1
+__b__huh .__c5
+__b__and then another issue is how many vectors we should be using .__c1
+__s__i mean the - so the minimum is one .__c1
+__s__uhhuh .__c5
+__qh__but i mean is the - is the critical band the right uh - uh - dimension ?__c1
+__qh^e__so we somehow made arbitrary decision yes .__c1
+__s.%--__then - | but then now we are thinking a lot how to - uh - how to use at least the neighboring band because that seems to be happening .__c1
+__fh__this i somehow start to believe that's what's happening in recognition .__c1
+__s__because a lot of experiments point to the fact that people can split the signal into critical bands .__c1
+__s__but then oh - uh - uh ==__c1
+__s__so you can - you are quite capable of processing a signal in- - uh - uh - independently in individual critical bands .__c1
+__s^e__that's what masking experiments tell you .__c1
+__%--__but at the same time you most likely pay attention to at least neighboring bands .__c1
+__s^e__when you are making any decisions you compare what's happening in - in this band to what's happening to the band - to - to - to the - to the neighboring bands .__c1
+__s__and that's how you make uh - decisions .__c1
+__s.%--__that's why the articulatory events which uh - f- - f- - fletcher talks about they are about two critical bands .__c1
+__s__you need at least two basically .__c1
+__s__you need some relative - relative relation .__c1
+__qh__huh .__c0
+__fh__huh .__c5
+__s^ba^cs__absolute number doesn't tell you the right thing .__c1
+__b__you need to - you need to compare it to something else what's happening .__c1
+__%-__but it's what's happening in the - in the close neighborhood .__c1
+__s^e__so if you are making decision what's happening at one kilohertz you want to know what's happening at nine hundred hertz and it - and maybe at eleven hundred hertz .__c1
+__%--__but you don't much care what's happening at three kilohertz .__c1
+__s^ba__so it's really w- ==__c5
+__s^aap__it's sort of like saying that what's happening at one kilohertz depends on what's happening around it .__c5
+__s^ba^rt__it's sort of relative to it .__c5
+__s^ba^df^ng__to some extent it - that is also true .__c1
+__s^cs__uhhuh .__c5
+__s^bk__yeah .__c1
+__s^cs__but it's - but for - but for instance th- - uh - uh - what - what uh - humans are very much capable of doing is that if th- - if they are exactly the same thing happening in two neighboring critical bands recognition can discard it .__c1
+__s^na__huh .__c5
+__s.%--__is what's happening ?__c1
+__s.%--__hey !__c1
+__s.%--__hey !__c0
+__s__okay we need us another - another voice here .__c1
+__s^ba|s^ba__hey stephane .__c5
+__s^aa|s.%-__yeah ?__c1
+__s__i think so .__c1
+__s__yep .__c5
+__s^ba__yeah ?__c1
+__s.%--__sure .__c5
+__s__go ahead .__c5
+__s^bk__and so - | so - so for instance if you d- - if you a- - if you add the noise that normally masks - masks the - uh - the - the signal .__c1
+__s.%-__uhhuh .__c5
+__b__right ?__c1
+__s^bu^ng__and you can show that in - that if the - if you add the noise outside the critical band that doesn't affect the - the decisions you're making about a signal within a critical band .__c1
+__qy^d^g^rt__huh .__c5
+__s^cs__unless this noise is modulated .__c1
+__b__if the noise is modulated with the same modulation frequency as the noise in a critical band the amount of masking is less .__c1
+__s^cs__huh .__c5
+__s__the moment you - moment you provide the noise in n- - neighboring critical bands .__c1
+__s^cs__so the s- - m- - masking curve normally it looks like sort of ==__c1
+__fg|s.%--__i start from - from here .__c1
+__b__so you - you have uh - no noise then you - you - you are expanding the critical band so the amount of maching is increasing .__c1
+__b__and when you e- - hit a certain point which is a critical band then the amount of masking is the same .__c1
+__s.%-__huh .__c5
+__s^cs__so that's the famous experiment of fletcher a long time ago .__c1
+__s__like that's where people started thinking wow this is interesting .__c1
+__s__yeah .__c5
+__s^na__so ==__c1
+__s.%--__but if you - if you - if you modulate the noise the masking goes up and the moment you start hitting the - another critical band the masking goes down .__c1
+__%-__so essentially - essentially that's a very clear indication that - that - that cognition can take uh - uh - into consideration what's happening in the neighboring bands .__c1
+__s^cs.%-__but if you go too far in a - in a - if you - if the noise is very broad you are not increasing much more .__c1
+__s^ba^ng__so - so if you - if you are far away from the signal - uh - from the signal f- - uh - the frequency at which the signal is then the m- - even the - when the noise is co modulated it - it's not helping you much .__c1
+__s^ba__uhhuh .__c5
+__s^aa__yeah .__c5
+__b__uhhuh .__c5
+__s:s^fe__so ==__c1
+__b__huh .__c0
+__s^df.%--__so things like this we are kind of playing with - with - with the hope that perhaps we could eventually u- - use this in a - in a real recognizer .__c1
+__s^aa|s__uhhuh .__c0
+__s^bk__like uh - partially of course we promised to do this under the - the - the aurora uh - program .__c1
+__s__but you probably won't have anything before the next time we have to evaluate .__c5
+__s.%--__right ?__c5
+__s^aa|s^ba__probably not .__c1
+__s:s__yeah .__c5
+__b__well maybe - most likely we will not have anything which c- - would comply with the rules .__c1
+__b__uh .__c5
+__s.%-__like - because uh - uh ==__c1
+__s^ba__latency and things .__c5
+__b__latency currently chops the require uh - significant uh - latency amount of processing .__c1
+__s__uhhuh .__c5
+__s__because uh - we don't know any better yet than to use the neural net classifiers uh - and - uh - and uh - traps .__c1
+__s__yeah .__c5
+__s^na__uhhuh .__c0
+__s^bk__though the - the work which uh - everybody is looking at now aims at s- - trying to find out what to do with these vectors so that a g- - simple gaussian classifier would be happier with it .__c1
+__s.%-__huh .__c3
+__b__uhhuh .__c5
+__s__or to what extent a gaussian classifier should be unhappy uh ==__c1
+__s^df__that and how to gaussian ize the vectors .__c1
+__s__and ==__c1
+__fh__huh .__c5
+__s^bk__so this is uh - what's happening .__c1
+__s^fe^r__then sunil is uh - uh - uh - asked me f- - for one month's vacation .__c1
+__%-__and since he did not take any vacation for two years i had no - i didn't have a heart to tell him no .__c1
+__%-__so he's in india .__c1
+__s^r__wow !__c5
+__b__and uh ==__c1
+__s^ar__is he getting married or something ?__c5
+__s^cs__uh - well uh - he may be looking for a girl for - for i don't - i don't - i don't ask .__c1
+__s^aa|s^cc.%-__i know that naran- - when last time narayanan did that he came back engaged .__c1
+__fg|s^ba__right .__c5
+__b__well i mean i've known other friends who - they - they go to ind- - they go back home to india for a month they come back married .__c5
+__s^bk__yeah .__c1
+__%-__i know .__c1
+__s^ba__i know i know .__c1
+__s.%--__you know huh ?__c5
+__s^cs__and then of course then what happened with narayanan was that he start pushing me that he needs to get a p h d because they wouldn't give him his wife .__c1
+__s^cs^e.%--__and she's very pretty and he loves her .__c1
+__s__and so - so we had to really ==__c1
+__x__so he finally had some incentive to finish .__c5
+__s__oh yeah .__c1
+__%--__huh ?__c5
+__s^aa|s.%--__we had - well i had a incentive because he - he always had this plan except he never told me .__c1
+__s__oh .__c5
+__s^aa__sort of figured that - that was a uh - that he - uh - he told me the day when we did very well at our nist evaluations of speaker recognition the technology and he was involved there .__c1
+__s.%--__we were - after presentation we were driving home and he told me .__c1
+__b__when he knew you were happy .__c5
+__s__huh ?__c5
+__s^aa__yeah .__c1
+__%--__so i s- - s- - i said well yeah okay so he took another - another three quarter of the year but uh - he was out .__c1
+__s^cc.%-__so i - wouldn't surprise me if he has a plan like that though - though uh - pratibha still needs to get out first .__c1
+__fg|s.%--__huh .__c5
+__s.%--__because pratibha is there a - a year earlier .__c1
+__b__huh .__c5
+__s^ba__and s- - and satya needs to get out very first because he's - he already has uh - four years served .__c1
+__s^ba__though one year he was getting masters .__c1
+__s^j:s__so ==__c1
+__b__so ==__c1
+__b__huh .__c3
+__%--__so have the um ?==__c5
+__s^j:s__when is the next uh - evaluation ?__c5
+__s^bu__june or something ?__c5
+__s^aa__which ?__c1
+__s^bu.%-__speaker recognition ?__c1
+__s^no__no for uh - aurora .__c5
+__s__uh - | there - we don't know about evaluation .__c1
+__s__next meeting is in june .__c1
+__qw^br__huh .__c5
+__s^r__and uh - uh - but like getting - get together .__c1
+__s__oh okay .__c5
+__s__are people supposed to rerun their systems ?__c5
+__s.%--__nobody said that yet .__c1
+__s__or ?==__c5
+__s.%--__i assume so .__c1
+__s__huh .__c5
+__s__uh - yes uh - but nobody even set up yet the date for uh - delivering uh - endpointed data .__c1
+__s^bk__wow .__c5
+__s^bu__and this - uh - that - that sort of stuff .__c1
+__qy^d^g^rt__but i uh ==__c1
+__s^aa__yeah .__c1
+__qy^rt__what i think would be of course extremely useful if we can come to our next meeting and say well you know we did get fifty percent improvement .__c1
+__s^no__if - if you are interested we eventually can tell you how but uh - we can get fifty percent improvement .__c1
+__s^aa|s^na__uhhuh .__c5
+__s__because people will s- - will be saying it's impossible .__c1
+__s.%--__huh .__c5
+__b__do you know what the new baseline is ?__c5
+__s__oh i guess if you don't have ==__c5
+__fh__twenty two - t- - twenty - twenty two percent better than the old baseline .__c1
+__s^bk|qy^bu^d^rt__using your uh - voice activity detector ?__c5
+__%-__u- - yes .__c1
+__s^aa__yes .__c1
+__s^no__but i assume that it will be similar i don't - i - i don't see the reason why it shouldn't be .__c1
+__s^ba__similar yeah .__c5
+__s__uhhuh .__c5
+__fh__i d- - i don't see reason why it should be worse .__c1
+__s^no^r__yeah .__c5
+__s.%--__because if it is worse then we will raise the objection .__c1
+__b__we say well you know how come .__c1
+__s^df__because uh - if we just use our voice activity detector which we don't claim even that it's wonderful it's just like one of them .__c1
+__s__uhhuh .__c3
+__fg|%-__yeah .__c5
+__s__we get this sort of improvement .__c1
+__s^aa__how come that we don't see it on - on - on - on your endpointed data ?__c1
+__s__yeah .__c3
+__%-__i guess it could be even better .__c3
+__fg|s.%-__because the voice activity detector that i choosed is something that cheating it's using the alignment of the speech recognition system .__c3
+__%-__i think so .__c1
+__fg|s^cs.%-__yeah .__c1
+__s^aa__c- - yeah uh ==__c1
+__fg|s__and only the alignment on the clean channel and then mapped this alignment to the noisy channel .__c3
+__s__and on clean speech data .__c1
+__s__oh okay .__c5
+__s.%--__yeah .__c1
+__b__well | david told me ==__c1
+__s__david told me yesterday or harry actually he told harry from qualcomm .__c1
+__s__and harry uh - brought up the suggestion we should still go for fifty percent .__c1
+__s__he says are you aware that your system does only thirty percent uh - comparing to - to endpointed baselines .__c1
+__b__yeah .__c3
+__s__so they must have run already something .__c1
+__fg|s^aa__huh .__c5
+__s__so ==__c1
+__s__and harry said yeah .__c1
+__fh__but i mean we think that we - we didn't say the last word yet that we have other - other things which we can try .__c1
+__b__huh .__c5
+__s__so - | so there's a lot of discussion now about this uh - new criterion .__c1
+__s__uhhuh .__c3
+__s.%--__because nokia was objecting with uh - qualcomm's we basically supported that we said yes .__c1
+__b__uhhuh .__c3
+__fg|s^ba__now everybody else is saying well you guys might - must be out of your mind .__c1
+__s^df__uh - the - guenter hirsch who d- - doesn't speak for ericsson anymore because he is not with ericsson .__c1
+__s^df^r__and ericsson may not - may withdraw from the whole aurora activity because they have so many troubles now .__c1
+__%-__wow !__c5
+__fh__ericsson's laying off twenty percent of people .__c1
+__fg|s.%-__wow !__c0
+__b__where's uh - guenter going ?__c5
+__s__well guenter is already - he got the job uh - already was working on it for past two years or three years .__c1
+__b__uhhuh .__c5
+__s^cs__he got a job uh - at some - some fachschule the technical college not too far from aachen .__c1
+__b.%__huh !__c5
+__b__so it's like professor - u- - university professor .__c1
+__fh__uhhuh .__c5
+__s^bk__you know not quite a university not quite a sort of - it's not aachen university but it's a good school and he - he's happy .__c1
+__s.%-__uhhuh .__c5
+__s.%--__huh !__c5
+__fh__and he - well he was hoping to work uh - with ericsson like on t- - uh - like consulting basis .__c1
+__s^ba^cs__uhhuh .__c5
+__s__but right now he says - says it doesn't look like that anybody is even thinking about speech recognition .__c1
+__b__wow !__c5
+__s.%--__they think about survival .__c1
+__s__yeah .__c1
+__s.%--__huh .__c5
+__%--__so ==__c1
+__s__so - but this is being now discussed right now .__c1
+__s^cs__and it's possible that - uh - that - that it may get through that we will still stick to fifty percent .__c1
+__b__uhhuh .__c3
+__s^cs__but that means that nobody will probably get this im- - this improvement .__c1
+__s^cs__yet wi- - with the current system .__c1
+__b__which event- - es- - essentially i think that we should be happy with .__c1
+__fh__because that - that would mean that at least people may be forced to look into alternative solutions .__c1
+__s.%-__uhhuh .__c3
+__s__uhhuh .__c3
+__s.%-__and ==__c1
+__s^rt__but maybe - i - i mean we are not too far from - from fifty percent from the new baseline .__c3
+__s__uh - but not ==__c1
+__s^bk|s__which would mean like sixty percent over the current baseline which is ==__c3
+__s__yeah .__c1
+__s__yes yes .__c1
+__s^df__we - we getting - we getting there right .__c1
+__s.%--__well .__c3
+__s.%-__we are around fifty fifty five .__c3
+__s__yeah .__c1
+__s.%-__so ==__c3
+__b__yeah .__c1
+__fg|s__uhhuh .__c3
+__fh__is it like sort of - is ?==__c1
+__b__how did you come up with this number ?__c1
+__s.%-__if you improve twenty - by twenty percent the c- - the f- - the all baselines it's just a quick c- - comp- - co- - computation ?__c1
+__fg|s__yeah .__c3
+__s__i don't know exactly if it's ==__c3
+__s.%--__uhhuh .__c1
+__b__i think it's about right .__c1
+__%-__yeah because it de- - it - depends on the weightings .__c3
+__s__and ==__c3
+__b__yeah yeah .__c1
+__s__yeah .__c3
+__s__but ==__c3
+__fg|s^cs__uhhuh .__c3
+__fh__huh .__c5
+__s^cs^e__how's your documentation or whatever ?==__c5
+__b__it w- - what was it you guys were working on last week ?__c5
+__s^nd__yeah .__c3
+__fg|s.%-__finally we - we've not finished with this .__c3
+__s^df.%-__we stopped .__c3
+__s^rt__more or less it's finished .__c4
+__s^cs__yeah .__c3
+__fh__ma- - nec- - to need a little more time to improve the english and maybe s- - to fill in something - some small detail something like that .__c4
+__fg|s.%-__uhhuh .__c3
+__s__huh .__c5
+__s__but it's more or less ready .__c4
+__b__yeah .__c3
+__fh__well we have a document that explain a big part of the experiments .__c3
+__s.%-__necessary to - to include the bi- - the bibliography .__c4
+__s^bk|s__but ==__c3
+__%--__uhhuh .__c4
+__s__it's not - yeah finished yet .__c3
+__fh|s__uhhuh .__c3
+__s__so have you been running some new experiments ?__c5
+__s__i - i thought i saw some jobs of yours running on some of the machine .__c5
+__s__yeah .__c3
+__s^bk|s^arp__right .__c3
+__s^df__we've done some strange things like removing c zero or c one from the - the vector of parameters .__c3
+__s^e__and we noticed that c one is almost not useful at all .__c3
+__fh__you can remove it from the vector - it doesn't hurt .__c3
+__s^df__really ?__c5
+__s.%-__that has no effect ?__c5
+__s^bk__um ==__c3
+__s^df__uh - is this in the baseline ?__c5
+__s^nd__or in - uh ?==__c5
+__s^df^na^rt__in the ==__c3
+__s.%-__no .__c3
+__s^aa__in the proposal .__c3
+__s__in ==__c5
+__s__uh - huh uh - huh .__c5
+__s__so we were just discussing since you mentioned that in - it w- ==__c1
+__b__uhhuh .__c3
+__s^df__driving in the car with morgan this morning we were discussing a good experiment for b- - for beginning graduate student who wants to run a lot of - who wants to get a lot of numbers on something .__c1
+__s^df__uhhuh .__c3
+__s^aa__which is like imagine that you will - you will start putting every co- - any coefficient which you are using in your vector in some general power .__c1
+__s__in some what ?__c5
+__s__general pow- - power .__c1
+__s__like sort of you take a s- - power of two or take a square root or something .__c1
+__s^e__uhhuh .__c5
+__s__uhhuh .__c3
+__b__uhhuh .__c5
+__s__so suppose that you are working with a s- - c zer- - c one .__c1
+__s^df__so if you put it in a s- - square root that effectively makes your model half as efficient .__c1
+__s__because uh - your uh - gaussian mixture model .__c1
+__s__right ?__c1
+__s^e__computes the mean .__c1
+__s__uhhuh .__c5
+__s__and - and uh i- - i- - i- ==__c1
+__s__but it's - the mean is an exponent of the whatever the - the - this gaussian function .__c1
+__s__you're compressing the range .__c5
+__fg|s.%-__right ?__c5
+__s.%-__of that ==__c5
+__fg|s.%--__so you're compressing the range of this coefficient so it's becoming less efficient .__c1
+__s__right ?__c1
+__s^ba__uhhuh .__c5
+__s__so ==__c1
+__s__so ==__c1
+__s^df__morgan was @reject@ and he was - he was saying well this might be the alternative way how to play with a - with a fudge factor .__c1
+__s^df^e__you know ?__c1
+__b__uh - in the ==__c1
+__qy^rt__oh .__c5
+__s__you know just compress the whole vector .__c1
+__qy^e^rt__yeah .__c5
+__s.%--__and i said well in that case why don't we just start compressing individual elements like when - when - i- ==__c1
+__s__because in old days we were doing when - when people still were doing template matching and euclidean distances we were doing this liftering of parameters .__c1
+__s__right ?__c1
+__b__uhhuh .__c5
+__s__because we observed that uh - higher parameters were more important than lower for recognition .__c1
+__b__and basically the - the c ze- - c one contributes mainly slope .__c1
+__s__right .__c5
+__%--__and it's highly affected by uh - frequency response of the - of the recording equipment and that sort of thing .__c1
+__qy.%-__uhhuh .__c3
+__s^aa__uhhuh .__c5
+__s.%--__so ==__c1
+__s__so we were coming with all these f- - various lifters .__c1
+__s^e__uhhuh .__c5
+__fh__uh - bell labs had - he - this uh - uh - r- - raised cosine lifter which still i think is built into h - h t k for reasons n- - unknown to anybody .__c1
+__s.%--__but - | but uh - we had exponential lifter or triangle lifter basic number of lifters .__c1
+__s.%--__huh .__c5
+__s^cs__and - | but so they may be a way to - to fiddle with the f- - with the f- ==__c1
+__s^ba__insertions ?__c5
+__s^df__insertions deletions or the - the - giving a relative - uh - basically modifying relative importance of the various parameters .__c1
+__b__uhhuh .__c3
+__b__the only of course problem is that there's an infinite number of combinations .__c1
+__s^2__oh .__c5
+__s^bk__uhhuh .__c5
+__s__and if the - if you s- - if y- ==__c1
+__b__you need like a - some kind of a ==__c5
+__s^bk__yeah you need a lot of graduate students and a lot of computing power .__c1
+__s.%--__you need to have a genetic algorithm that basically tries random permutations of these things .__c5
+__s__i know .__c1
+__s__exactly .__c1
+__s__oh .__c1
+__fg|s__if you were at bell labs or i d- - d- ==__c1
+__s^ba__i shouldn't be saying this in - on - on a mike .__c1
+__s^df.%-__right ?__c1
+__s^bk__or i- - uh - i b m .__c1
+__s__that's what - maybe that's what somebody would be doing .__c1
+__s__yeah .__c5
+__fg|s__huh .__c0
+__s^e__oh i mean - i mean the places which have a lot of computing power .__c1
+__s__uhhuh .__c5
+__fh__so because it is really it's a p- - it's a - it's - it will be a reasonable search .__c1
+__%-__yeah .__c5
+__s^df__uh ==__c1
+__s__but i wonder if there isn't some way of doing this uh - search like when we are searching say for best discriminants .__c1
+__%-__you know actually i don't know that this wouldn't be all that bad .__c5
+__qy^bu^d^rt__i mean you - you compute the features once .__c5
+__s__yeah .__c1
+__s^na|s^aa__right ?__c5
+__b__yeah .__c1
+__s__and then these exponents are just applied to that .__c5
+__s__absolutely .__c1
+__s^aa|%-__and hev- - everything is fixed .__c1
+__s__so ==__c5
+__s__everything is fixed .__c1
+__s^bk__and is this something that you would adjust for training ?__c5
+__s^bk__each - each ==__c1
+__s__or only recognition ?__c5
+__s__for both - you would have to do .__c1
+__s^ba^e__you would do it on both .__c5
+__s^aa|s^na__yeah .__c1
+__s__so you'd actually ==__c5
+__s^bd__you have to do bo- - both .__c1
+__s__because essentially you are saying uh this feature is not important .__c1
+__fh__uhhuh .__c5
+__s^aa|s^na__or less important .__c1
+__s^bk__so th- - that's a - that's a painful one .__c1
+__s__yeah .__c1
+__fh__so for each uh - set of exponents that you would try it would require a training and a recognition .__c5
+__s^df__yeah .__c1
+__s^rt__but - but wait a minute .__c1
+__s^aa|s^bd__you may not need to re- - uh - uh - retrain the m- - model .__c1
+__s^bu__you just may n- - may need to c- - uh - give uh - less weight to - to uh - a mod- - uh - a component of the model which represents this particular feature .__c1
+__s__you don't have to retrain it .__c1
+__qy^d^g^rt__oh .__c5
+__s^aa__so if you ==__c5
+__s^bk__instead of altering the feature vectors themselves you - you modify the - the - the gaussians in the models .__c5
+__s__you just multiply .__c1
+__s__yeah .__c1
+__s^ba__yep .__c1
+__s^bk__you modify the gaussian in the model .__c1
+__s__but in the - in the test data you would have to put it in the power .__c1
+__s^e.%--__but in a training what you c- - in a training - uh - in trained model all you would have to do is to multiply a model by appropriate constant .__c1
+__s^na__uhhuh .__c5
+__s^bk__but why - if you're - if you're multi- - if you're altering the model why w- - in the test data - why would you have to muck with the uh - cepstral coefficients ?__c5
+__b.%__because in uh - test - in uh - test data you ca- - don't have a model .__c1
+__s^bk__you have uh - only data .__c1
+__fg__but in a - in a tr- ==__c1
+__s^t^tc__no but you're running your data through that same model .__c5
+__s__that is true .__c1
+__s^t__but w- - i mean so what you want to do - you want to say if uh - obs- - you - if you observe something like stephane observes that c one is not important you can do two things .__c1
+__s__uhhuh .__c5
+__s__uhhuh .__c5
+__s__if you have a trained - trained recognizer in the model you know the - the - the - the component which - i - i mean di- - dimension wh- ==__c1
+__s^df__uhhuh .__c5
+__fh__all of the - all of the mean and variances that correspond to c one you put them to zero .__c5
+__s__to the s- - you - you know it .__c1
+__qy^rt__yeah .__c5
+__qy^r^rt__but what i'm proposing now if it is important but not as important you multiply it by point one in a model .__c1
+__s^aa|s^cs__but - but - but ==__c1
+__s^aa__but what are you multiplying ?__c5
+__fh__because those are means .__c5
+__s^t^tc__right ?__c5
+__s^e__i mean you're ==__c5
+__s.%-__you're multiplying the standard deviation ?__c0
+__qy^2^bu^d^rt__so it's ==__c0
+__s^aa|s^na__i think that you multiply the ==__c1
+__qw^rt__i would - i would have to look in the - in the math .__c1
+__s.%--__i mean how - how does the model uh ?==__c1
+__s__i think you ==__c5
+__fg|s^ng:s__yeah i think you'd have to modify the standard deviation or something so that you make it wider or narrower .__c5
+__s^df__yeah .__c1
+__%-__because ==__c0
+__s^ba__yeah .__c1
+__s^ba__yeah .__c0
+__fh__yeah .__c3
+__qw^rt__effectively that's - that - that's - uh i ==__c1
+__s^na__exactly .__c1
+__s^bu.%-__that's what you do .__c1
+__s^2__that's what you do you - you - you m- - modify the standard deviation as it was trained .__c1
+__s^bk__yeah .__c0
+__s^aa|s^na__effectively you you know y- - in f- - in front of the - of the model you put a constant .__c1
+__s^e__s- - yeah effectively what you're doing is you - is you are modifying the - the - the deviation .__c1
+__s^cs__right ?__c1
+__s^cs^e__oop .__c5
+__s__the spread .__c0
+__s^ba__sorry .__c5
+__fh__right ?__c0
+__s__yeah .__c1
+__s__the spread .__c1
+__fh__so ==__c5
+__s.%-__it's the same - same mean .__c0
+__s^aa|s^na__and - and - and ==__c1
+__s^no__right ?__c0
+__s.%--__so by making th- - the standard deviation narrower uh - your scores get worse for ==__c5
+__s__yeah .__c1
+__s__unless it's exactly right on the mean .__c5
+__s__your als- ==__c1
+__s.%--__no .__c1
+__s^bk__by making it narrower ==__c1
+__fh__right ?__c5
+__s^df__i mean there's - you're - you're allowing for less variance .__c5
+__s^df^e__uh - y- - your ==__c1
+__b__uhhuh .__c0
+__fh__yes .__c1
+__s.%--__so you making this particular dimension less important .__c1
+__s__because see what you are fitting is the multidimensional gaussian .__c1
+__b.%__right ?__c1
+__s__uhhuh .__c5
+__fh__it's a t- - it has - it has uh - thirty nine dimensions or thirteen dimensions if you g- - ignore deltas and double deltas .__c1
+__s__uhhuh .__c5
+__s^bk__uhhuh .__c5
+__s^ba__so in order - if you - in order to make dimension which - which stephane sees uh - less important uh - uh - i mean not - not useful less important what you do is that this particular component in the model you can multiply by w- - you can - you can basically de weight it in the model .__c1
+__s^df__but you can't do it in a - in a test data .__c1
+__s__because you don't have a model for th- - i mean uh - when the test comes .__c1
+__s^df__but what you can do is that you put this particular component in and - and you compress it .__c1
+__b__that becomes uh - th- - gets less variance subsequently becomes less important .__c1
+__s.%-__couldn't you just do that to the test data and not do anything with your training data ?__c5
+__fg|s^ba__that would be very bad .__c1
+__qh^d^rt__because uh - your t- - your - model was trained uh - expecting uh ==__c1
+__fh__that wouldn't work .__c1
+__s^bk__because your model was trained expecting a certain var- - variance on c one .__c1
+__s^aa__uhhuh .__c5
+__qh^cs__and because the model thinks c one is important .__c1
+__s__after you train the model you sort of - y- - you could do - you could do still what i was proposing initially .__c1
+__fh__that during the training you - you compress c one that becomes - then it becomes less important in a training .__c1
+__s^cs.%--__uhhuh .__c5
+__%-__but if you have - if you want to run e- - ex- - extensive experiment without retraining the model you don't have to retrain the model .__c1
+__%-__you train it on the original vector .__c1
+__s^ba^df__but after you - wh- - when you are doing this parametric study of importance of c one you will de weight the c one component in the model .__c1
+__s.%-__and you will put in the - you will compress the - this component in a - in the test data s- - by the same amount .__c1
+__s^df__could you also if you wanted to ?==__c5
+__s__if you wanted to try an experiment uh - by leaving out say c one couldn't you in your test data uh - modify the - all of the c one values to be um - way outside of the normal range of the gaussian for c one that was trained in the model ?__c5
+__qy^rt__so that effectively the c one never really contributes to the score ?__c5
+__b__uhhuh .__c3
+__b__do you know what i'm say- ?==__c5
+__s^aa__no .__c1
+__s__that would be a severe mismatch .__c1
+__s^e__right ?__c1
+__s^e__what you are proposing ?__c1
+__s^bk__yeah .__c5
+__s.%-__someth- ==__c5
+__b__n- - no you don't want that .__c1
+__b__because that would - then your model would be unlikely .__c1
+__b__your likelihood would be low .__c1
+__s^cs__right ?__c1
+__s^df.%-__uhhuh .__c5
+__s^bu__because you would be providing severe mismatch .__c1
+__s^no__but what if you set if to the mean of the model then ?__c5
+__b__and it was a cons- - you set all c ones coming in through your test data you - you change whatever value that was there to the mean that your model had .__c5
+__qy^rt__no that would be very good match .__c1
+__s__right ?__c1
+__fg|s__yeah .__c5
+__s__that you would ==__c1
+__s__which ==__c3
+__b__well yeah but we have several means .__c3
+__s.%--__so ==__c3
+__%-__i see what you are sa- - saying .__c1
+__s^ba__right ?__c3
+__s^na__saying .__c0
+__s^cs__but ==__c1
+__s^aa__uh - | no no i don't think that it would be the same .__c1
+__s^aa__let me uh ==__c1
+__s__if you set it to a mean that would ==__c1
+__s^bk__no you can't do that .__c1
+__s^aa|s^na__oh that's true .__c5
+__qy^rt__y- - you ca- - you ca- - ch- - chuck you can't do that .__c1
+__s^aa__right ?__c5
+__s^bk__yeah because you - you have ==__c5
+__qw.%-__wait .__c3
+__qy__which ==__c3
+__s^e.%-__yeah .__c5
+__b__because that would be a really f- - fiddling with the data .__c1
+__s^bk^m__you can't do that .__c1
+__qy^bu^d^rt__huh huh .__c5
+__qrr.%-__uhhuh .__c5
+__s^ar|s__uhhuh .__c5
+__s^df__but what you can do - i'm confident you ca- ==__c1
+__s^bk|s__well i'm reasonably confident and i putting it on the record .__c1
+__s^cs.%-__right ?__c1
+__b__i mean y- - people will listen to it for - for centuries now .__c1
+__s^aa__is - what you can do is you train the model uh - with the - with the original data .__c1
+__s^bk__uhhuh .__c0
+__s^bk__then you decide that you want to see how important c i- - c one is .__c1
+__s^df__so what you will do is that a component in the model for c one - you will divide it by - by two .__c1
+__s__and you will compress your test data by square root .__c1
+__s^aa__uhhuh .__c5
+__qy^d^g^rt__then you will still have a perfect m- - match .__c1
+__s.%--__except that this component of c one will be half as important in a - in a overall score .__c1
+__s.%-__uhhuh .__c5
+__s^t3__uhhuh .__c5
+__fg|s.%--__then you divide it by four and you take a square f- - fourth root .__c1
+__qy^bh^t3__then if you think that some component is more - is more important then th- - th- - th- - it then - then uh - uh - i- - it is based on training then you uh - multiply this particular component in the model by - by - by ==__c1
+__s^t3__you're talking about the standard deviation ?__c5
+__b__yeah .__c1
+__s.%--__yeah .__c5
+__s^bk|s__yeah | multiply this component uh - i- - it by number b- - larger than one .__c1
+__b__uhhuh .__c5
+__qw__and you put your data in power higher than one .__c1
+__s__then it becomes more important - in the overall score i believe .__c1
+__s^bk__but don't you have to do something to the mean also ?__c5
+__s^bk^m__yeah .__c3
+__s__but at the ==__c3
+__s^bk__no .__c1
+__s^t^tc__no .__c3
+__fh__no .__c1
+__s^rt__yeah .__c0
+__s^e__but i think it's uh - the - the variance is on - on the denominator in the - in the gaussian equation .__c3
+__s__so i think it's - maybe it's the contrary .__c3
+__s__if you want to decrease the importance of a c- - parameter you have to increase it's variance .__c3
+__s^cs.%--__yes .__c1
+__s^bd__right .__c1
+__s^cs^df__yes .__c1
+__qy^bu^rt__multiply .__c4
+__s__exactly .__c1
+__qrr.%--__yeah .__c1
+__b.%__so you - so - so you may want to do it other way around .__c1
+__b.%__huh .__c3
+__s^bk|s__that's right .__c3
+__qw__okay .__c3
+__s__yeah .__c1
+__s__uhhuh .__c3
+__s^nd__right .__c0
+__s^r__but if your ==__c5
+__%-__if your um - original data for c one had a mean of two .__c5
+__s.%--__uhhuh .__c1
+__s__and now you're - you're - you're changing that by squaring it .__c5
+__%-__now your mean of your c one original data has - is four .__c5
+__s^bk|qy^bu^d^rt__but your model still has a mean of two .__c5
+__s^aa__so even though you've expended the range your mean doesn't match anymore .__c5
+__%-__uhhuh .__c3
+__s^aa__do you see what i mean ?__c5
+__qrr.%--__let's see .__c1
+__s^aa__i think - what i see - what could be done is you don't change your features which are computed once for all .__c3
+__s.%--__uhhuh .__c1
+__s__but you just tune the model .__c3
+__s__so - you have your features .__c3
+__s^aa^fe__you train your - your model on these features .__c3
+__s__uhhuh .__c5
+__s__and then if you want to decrease the importance of c one you just take the variance of the c one component in the - in the model and increase it if you want to decrease the importance of c one or decrease it ==__c3
+__qw__yeah .__c5
+__s__yeah .__c1
+__qw^e.%--__right .__c5
+__s^rt__yeah .__c1
+__s^bk|s^bk^m__you would have to modify the mean in the model .__c1
+__s__i - you - i agree with you .__c1
+__s__yeah .__c1
+__x__yeah .__c1
+__s__yeah so y- ==__c5
+__s.%-__but i mean but it's - it's i- - it's do able .__c1
+__fg|s__well .__c3
+__fg|s__right ?__c1
+__s^bk__i mean it's predictable .__c1
+__s__uh yeah .__c1
+__fg|s.%--__it's predictable yeah .__c5
+__s__yeah .__c1
+__b__yeah it's predictable .__c1
+__b.%__yeah .__c5
+__s^aa|s__huh .__c3
+__b__but as a simple thing you could just - just muck with the variance .__c5
+__s__just adjust the model .__c3
+__s^ba__yeah .__c3
+__s__to get uh - this - uh - this - the effect i think that you're talking about .__c5
+__s.%-__uhhuh .__c1
+__s^ba__right ?__c5
+__fg|s__it might be .__c1
+__%-__could increase the variance to decrease the importance .__c5
+__qh__uhhuh .__c1
+__qw^rt__uhhuh .__c3
+__s^e.%--__yeah | because if you had a huge variance you're dividing by a large number you get a very small contribution .__c5
+__s.%--__yeah .__c3
+__s^bk__it becomes more flat .__c3
+__qy^bu^d^rt__doesn't matter ==__c0
+__s__and ==__c3
+__s__right .__c0
+__s^e__yeah .__c1
+__s^bk|s^fa__yeah .__c5
+__s^bu__yeah .__c3
+__%-__huh .__c5
+__fg|s__yeah the sharper the variance the more - more important to get that one right .__c0
+__s^aa__uhhuh .__c1
+__qy^d^g^rt__yeah you know | actually this reminds me of something that happened uh - when i was at b b n .__c5
+__qw^t3__we were playing with putting um - pitch into the mandarin recognizer .__c5
+__s__uhhuh .__c1
+__s^no__and this particular pitch algorithm um - when it didn't think there was any voicing was spitting out zeros .__c5
+__s__so we were getting - uh - when we did clustering we were getting groups uh - of features ==__c5
+__s^aap|s^aa__p- - pretty new outliers - interesting outliers .__c1
+__s^e__yeah | with - with a mean of zero and basically zero variance .__c5
+__s^f__right ?__c1
+__s^df__variance .__c1
+__fh__so | when ener- - when anytime any one of those vectors came in that had a zero in it we got a great score .__c5
+__s__i mean it was just you know incredibly high score and so that was throwing everything off .__c5
+__s^ba__uhhuh .__c3
+__s.%--__so | if you have very small variance you get really good scores when you get something that matches .__c5
+__s^df__yeah .__c1
+__s^cs__so - | so that's a way yeah yeah ==__c5
+__b__uhhuh .__c3
+__s^cs^e__that's a way to increase the - yeah n- ==__c5
+__s__yeah that's interesting .__c5
+__s^bk|s.%--__so in fact that would be ==__c5
+__s__that doesn't require any retraining .__c5
+__s^no__yeah .__c1
+__s^bd__no .__c3
+__s^bk__no no .__c1
+__fh__that's right .__c3
+__s__so it's just ==__c5
+__b.%__so that means ==__c3
+__s.%-__tuning the models and testing actually .__c3
+__s__yeah .__c1
+__b__it's just recognitions .__c5
+__s^e__yeah .__c5
+__s__yeah .__c1
+__b__you - you have a step where you you modify the models make a d- - copy of your models with whatever variance modifications you make and rerun recognition .__c5
+__fh__it would be quick .__c3
+__s__yeah .__c1
+__s__uhhuh .__c3
+__s__yeah .__c1
+__s__yeah .__c1
+__s^e__yeah .__c1
+__fh__and then do a whole bunch of those .__c5
+__b__yeah .__c1
+__s__uhhuh .__c3
+__s^bu.%--__that could be set up fairly easily i think .__c5
+__qy^bu^d^rt__and you have a whole bunch of ==__c5
+__s^ar|s__you know ==__c5
+__qrr.%--__chuck is getting himself in trouble .__c1
+__s^2__that's an interesting idea actually .__c5
+__s__for testing the ==__c5
+__s__yeah .__c5
+__s^bk__huh !__c5
+__s__didn't you say you got these uh - h t k's set up on the new linux boxes ?__c0
+__s__that's right .__c5
+__s__in fact and - and they're just t- - right now they're installing - uh - increasing the memory on that - uh - the linux box .__c5
+__qh__yeah .__c0
+__qh__hey !__c1
+__qh__and chuck is sort of really fishing for how to keep his computer busy .__c1
+__fh__right .__c0
+__qh.%--__yeah .__c5
+__s^bd^no__right ?__c1
+__s__absinthe .__c5
+__b__absinthe .__c5
+__s__well you know that's ==__c1
+__s^e__we've got five processors on that .__c5
+__s__that's - yeah that's a good thing .__c1
+__s^bk|qy.%-__oh yeah .__c0
+__fh__and two gigs of memory .__c5
+__s__that's right .__c0
+__s__because then y- - you just write the do -loops and then you pretend that you are working while you are sort of - you c- - you can go fishing .__c1
+__s^e__yeah .__c3
+__s^no__yeah .__c5
+__b.%__exactly .__c5
+__fg|s^t__pretend yeah .__c0
+__s__yeah .__c5
+__s^cs__go fishing .__c4
+__s^e__see how many cycles we used ?__c5
+__%-__yeah .__c1
+__s__then you are sort of in this mode like all of those arpa people are .__c1
+__s__yeah .__c5
+__s__right ?__c1
+__s^aa|s^aap^df__uh - since it is on the record i can't say uh - which company it was .__c1
+__b__but it was reported to me that uh - somebody visited a company .__c1
+__s^df__and during a - d- - during a discussion there was this guy who was always hitting the carriage returns uh - on a computer .__c1
+__s__uhhuh .__c5
+__s__so after two hours uh - the visitor said wh- - why are you hitting this carriage return .__c1
+__b.%__and he said well you know we are being paid by a computer ty- - i mean we are - we have a government contract .__c1
+__s__and they pay us by - by amount of computer time we use .__c1
+__s__it was in old days when there were uh - of p d p eights and that sort of thing .__c1
+__s__oh my gosh !__c5
+__s__so he had to make it look like ==__c5
+__s^df__because so they had a - they literally had to c- - monitor at the time - at the time on a computer how much time is being spent i - i- - i- - or on - on this particular project .__c1
+__fh__yeah .__c5
+__s^df__how ==__c5
+__qy__idle time .__c5
+__qy^e__yeah .__c5
+__s^nd__yeah .__c0
+__s^df__nobody was looking even at what was coming out .__c1
+__s^cs.%--__have you ever seen those little ?==__c5
+__s^am__um ==__c5
+__s.%-__it's - it's this thing that's the shape of a bird and it has a red ball and its beak dips into the water .__c5
+__b__yeah i know .__c1
+__s.%-__right .__c1
+__s^e__so if you could hook that up so it hit the keyboard ==__c5
+__s^e__yeah .__c1
+__s^aa|s^arp^cs__yeah .__c1
+__fg|s^nd.%-__yeah .__c1
+__s^df__yeah .__c1
+__fh__that's an interesting experiment .__c5
+__s__it would be similar - similar to ==__c1
+__s^cs__i knew some people who were uh - that was in old communist uh - czechoslovakia .__c1
+__b__right ?__c1
+__s__so we were watching for american airplanes coming to spy on - on - uh - on us at the time .__c1
+__s__uhhuh .__c5
+__s^df__uhhuh .__c5
+__s^df^e__so there were three guys uh - uh - stationed in the middle of the woods on one l- - lonely uh - watching tower pretty much spending a year and a half there because there was this service .__c1
+__b__right ?__c1
+__s__ugh !__c5
+__s__and so they - very quickly they made friends with local girls and local people in the village .__c1
+__s__and ==__c1
+__s__yeah .__c5
+__s__and | so - but they - there was one plane flying over s- - always uh - uh - above .__c1
+__s^cs__and so that was the only work which they had .__c1
+__s^cs^e__they - like four in the afternoon they had to report there was a plane from prague to brno basically f- - flying there .__c1
+__fh__yeah .__c5
+__s.%-__so they f- - very q- - f- - first thing was that they would always run back and - and at four o'clock and - and quickly make a call this plane is uh - uh - passing .__c1
+__qy^cs.%--__then a second thing was that they - they took the line from this u- - u- - post to uh - uh - a local pub .__c1
+__s^e.%-__and they were calling from the pub .__c1
+__s^cs__and they - but third thing which they made when they screwed up they - finally they had to p- - the - the p- - the pub owner to make these phone calls because they didn't even bother to be there anymore .__c1
+__s^cs^e__and one day there was - there was no plane .__c1
+__s^bd^df__at least they were sort of smart enough that they looked if the plane is flying there .__c1
+__b__right ?__c1
+__s__yeah .__c5
+__s^ba^bd__and pub owner says oh my - four o'clock okay quickly p- - pick up the phone call that there's a plane flying .__c1
+__qh^cs.%--__there was no plane for some reason .__c1
+__s__and there wasn't ?__c5
+__qy^rt__it was downed .__c1
+__s^e.%-__or - and ==__c1
+__s^aa|s^df__so they got in trouble .__c1
+__qy^df^rt__but - but uh ==__c1
+__s^bk|qh^df__huh !__c5
+__s^cs__well that's - that's a really i- ==__c5
+__s^cs^e__so - so yeah .__c1
+__s^aa__that wouldn't be too difficult to try .__c5
+__s^df^ng__maybe i could set that up .__c5
+__fh__yeah .__c1
+__s^aa|s^na__yeah .__c1
+__%-__and we'll just ==__c5
+__s^bu__well at least go test the s- - test the uh - assumption about c- - c one i mean to begin with .__c1
+__qy^d^g^rt__but then of course one can then think about some predictable result to change all of them .__c1
+__s^ar|s__uhhuh .__c3
+__s^e__it's just like we used to do these - uh - these - uh - um - the - the uh - distance measures .__c1
+__s^e__it might be that uh ==__c1
+__s^bu__yeah | so the first set of uh - variance weighting vectors would be just you know one - modifying one and leaving the others the same .__c5
+__qy^d^g^rt__yeah .__c1
+__s^df.%-__yeah .__c1
+__b.%__yeah .__c1
+__s^bk|qy^bh^rt__yeah .__c1
+__s^bk|s__yeah .__c1
+__s^cs:s__yeah .__c3
+__s^bk__maybe .__c3
+__s^bd^no__and - and do that for each one .__c5
+__s__because you see i mean what is happening here in a - in a - in a - in such a model is that it's - tells you yeah what has a low variance uh - is - uh - is uh - is more reliable .__c1
+__s^df__that would be one set of experiment ==__c5
+__fh__right ?__c1
+__b__how do we ?==__c1
+__s__wh- - yeah when the data matches that then you get really ==__c5
+__s__yeah .__c1
+__s__yeah .__c1
+__qh^e__yeah .__c1
+__qh^e__yeah .__c1
+__s^bk__yeah .__c1
+__s__yeah .__c5
+__s^bk|s:s__right .__c5
+__s^e__how do we know especially when it comes to noise ?__c1
+__s.%-__but there could just naturally be low variance .__c5
+__s__yeah .__c1
+__b__because i - like i've noticed in the higher cepstral coefficients the numbers seem to get smaller .__c5
+__b.%__right ?__c5
+__s^df^ng__so d- ==__c5
+__s^e__they - t- ==__c3
+__b__i mean just naturally .__c5
+__s^df__yeah .__c3
+__%__yeah th- - that's ==__c1
+__%-__they have smaller means also .__c3
+__qy^d^f^g^rt__yeah .__c5
+__s^bk__uh ==__c3
+__s__exactly .__c5
+__s__and so it seems like they're already sort of compressed .__c5
+__s^aa|%-__uhhuh .__c3
+__s^bk|s__the range of values .__c5
+__s^cs__yeah that's why uh - people used these lifters were inverse variance weighting lifters basically that makes uh - uh - euclidean distance more like uh - mahalanobis distance with a diagonal co variance when you knew what all the variances were over the old data .__c1
+__s^aa__uhhuh .__c5
+__s.%--__uhhuh .__c5
+__s__huh .__c5
+__s^ba__what they would do is that they would weight each coefficient by inverse of the variance .__c1
+__s.%-__turns out that uh - the variance decreases at least at fast i believe as the index of the cepstral coefficients .__c1
+__s^df__uhhuh .__c5
+__b__i think you can show that uh - uh - analytically .__c1
+__s^aa__huh .__c5
+__qh.%-__so typically what happens is that you - you need to weight the - uh - weight the higher coefficients more than uh - the lower coefficients .__c1
+__s^ba__uhhuh .__c5
+__b__huh .__c5
+__s^cs__huh .__c3
+__s^bk__so ==__c1
+__%-__yeah ==__c5
+__s^cs^e__when - yeah is ==__c1
+__qy.%-__when we talked about aurora still i wanted to m- - make a plea - uh - encourage for uh - more communication between - between uh - uh - different uh - parts of the distributed uh - uh - center .__c1
+__s^aa|s^m^na__uh - even when there is absolutely nothing to - to s- - to say but the weather is good in ore- - in - in berkeley .__c1
+__s^cs__i'm sure that it's being appreciated in oregon and maybe it will generate a similar responses down here .__c1
+__s^e.%-__like uh ==__c1
+__s^aa__we can set up a webcam maybe .__c3
+__s^cs.%-__yeah .__c1
+__s^ar|s^nd^rt__yeah .__c0
+__s^bk__what - you know nowadays ==__c1
+__s__yeah .__c1
+__s__it's up - actually do able almost .__c1
+__s^bk__is the - um ?==__c5
+__s^e__if we mail to aurora inhouse does that go up to you guys also ?__c5
+__s^e__i don't think so .__c1
+__s^bk__no .__c3
+__s:s^rt__no .__c1
+__qh^cs__okay .__c5
+__s^df__so what is it ?==__c5
+__s^bk^m__so we should do that .__c1
+__s^e__yeah we sh- ==__c5
+__s^df__we should definitely set up .__c1
+__s.%--__yeah .__c0
+__s^bd.%-__do we have a mailing list that includes uh - the o g i people ?__c5
+__s^ar|s^df__yeah .__c1
+__s__uh - | no .__c3
+__s^bu^df__we don't have .__c3
+__qy^d^g^rt__oh !__c5
+__s^e__uhhuh .__c1
+__s^df__maybe we should set that up .__c5
+__s__that would make it much easier .__c5
+__s.%-__yeah .__c1
+__s.%-__yeah .__c1
+__s^no^rt__yeah that would make it easier .__c1
+__s^df__so maybe just call it aurora or something that would ==__c5
+__s.%-__yeah .__c1
+__%-__yeah .__c1
+__qw__and then we also can send the the dis- - to the same address .__c1
+__s__right ?__c1
+__s__and it goes to everybody ?__c1
+__s__uhhuh .__c5
+__s__uhhuh .__c5
+__s__yeah .__c3
+__s__okay .__c5
+__s__maybe we can set that up .__c5
+__%-__because what's happening naturally in research i know is that people essentially start working on something and they don't want to be much bothered .__c1
+__%-__right ?__c1
+__s__but what the - the - then the danger is in a group like this is that two people are working on the same thing and i- - c- - of course both of them come with the s- - very good solution but it could have been done somehow in half of the effort or something .__c1
+__s__uhhuh .__c5
+__s__oh there's another thing which i wanted to uh - uh - report .__c1
+__s__lucash i think uh - wrote the software for this aurora two system .__c1
+__b__reasonably uh - uh - good one because he's doing it for intel .__c1
+__s__but i trust that we have uh - rights to uh - use it uh - or distribute it and everything .__c1
+__s:s__because intel's intentions originally was to distribute it free of charge anyways .__c1
+__b__huh !__c5
+__s^cs.%--__u- - s- - and so - so uh - | we - we will make sure that at least you can see the software and if - if - if - if it is of any use .__c1
+__%-__just uh ==__c1
+__s__uhhuh .__c3
+__s__it might be a reasonable point for p- - perhaps uh - start converging .__c1
+__s^df__uhhuh .__c3
+__b__because morgan's point is that he is an experienced guy .__c1
+__s^df^e__he says well you know it's very difficult to collaborate if you are working with supposedly the same thing in quotes except which is not s- - is not the same .__c1
+__s.%--__uhhuh .__c5
+__s__which - which uh - uh - one is using that set of hurdles another one set - is using another set of hurdles .__c1
+__qy^d^f^g^rt__so - and - | and then it's difficult to c- - compare .__c1
+__s^df__what about harry ?__c3
+__s.%--__uh - | we received a mail last week and you are starting to - to do some experiments .__c3
+__s__he got the - he got the software .__c1
+__s__yeah they sent the release .__c1
+__s__and use this intel version .__c3
+__s^aa__yeah .__c1
+__s^aa__yeah .__c1
+__s__yeah .__c1
+__s__yeah .__c1
+__s.%-__huh .__c3
+__s__yeah because intel paid us uh ==__c1
+__fg|qh__should i say on a microphone ?__c1
+__s.%-__uh - | some amount of money not much .__c1
+__s^e__not much i can say on a microphone .__c1
+__s^ba^df__much less then we should have gotten for this amount of work .__c1
+__b__and they wanted uh - to - to have software so that they can also play with it which means that it has to be in a certain environment .__c1
+__fh__huh .__c5
+__s.%--__they use actu- - actually some intel libraries but in the process lucash just rewrote the whole thing because he figured rather than trying to f- - make sense uh - of uh - including icsi software uh - not for training on the nets .__c1
+__s__huh .__c5
+__s__oh .__c0
+__s__but i think he rewrote the - the - the - or so- - maybe somehow reused over the parts of the thing so that - so that - the whole thing including m l p trained m l p is one piece of uh - software .__c1
+__s__uhhuh .__c5
+__s__wow !__c5
+__b.%__is it useful ?__c1
+__s^ba__yeah .__c1
+__s__ye- - yeah .__c0
+__b__i mean i remember when we were trying to put together all the icsi software for the submission .__c0
+__s^df__or ==__c1
+__qw__that's what he was saying .__c1
+__s__right .__c1
+__b__he said that it was like - it was like just so many libraries and nobody knew what was used when .__c1
+__s__and - and so that's where he started and that's where he realized that it needs to be - needs to be uh - uh - at least cleaned up .__c1
+__fh__yeah .__c0
+__s^aa__uhhuh .__c3
+__s^bk__and so i think it - this is available .__c1
+__fg|s.%--__huh .__c0
+__s^bk__yeah .__c3
+__b__so ==__c1
+__%-__well the - the only thing i would check is if he - does he use intel math libraries .__c3
+__qy^bu^d^rt__because if it's the case it's maybe not so easy to use it on another architecture .__c3
+__s__uh - e- - ev- ==__c1
+__b__n- - not maybe - maybe not in a first - maybe not in a first ap- - approximation .__c1
+__s^e:s__uh yeah .__c3
+__s^bk__because i think he started first just with a plain c - c or c plus plus or something before ==__c1
+__%--__uhhuh .__c3
+__s^ba__i - i can check on that .__c1
+__s^cs__yeah .__c1
+__s^cs^e__yeah .__c3
+__b__okay .__c5
+__b__huh .__c5
+__s^bd^df__and uh - in - otherwise the intel libraries i think they are available free of - f- - freely .__c1
+__s__but they may be running only on - on - uh - on uh - windows .__c1
+__fh__yeah .__c3
+__qy^d^f^g^rt__yeah .__c3
+__s__or on - on the ==__c1
+__b__on intel architecture maybe .__c3
+__s__yeah on intel architecture may not run in sun .__c1
+__s__i'm ==__c3
+__fg|s.%-__yeah .__c3
+__b__yeah .__c3
+__s.%-__yeah .__c1
+__%-__that is p- - that - that is possible .__c1
+__s.%--__that's why intel of course is distributing it .__c1
+__s__well ==__c3
+__s__right ?__c1
+__s__or - that's ==__c1
+__s__yeah .__c3
+__s__well there are - at least there are optimized version for their architecture .__c3
+__s.%-__yeah .__c1
+__s^bk__i don't know .__c3
+__s.%--__i never checked carefully these sorts of ==__c3
+__b.%__i know there was some issues that initially of course we d- - do all the development on linux .__c1
+__s.%--__but we use - we don't have - we have only three uh - uh - uh - uh - s- - suns .__c1
+__%--__and we have them only because they have a spert board in .__c1
+__s^ba__otherwise - otherwise we t- - almost exclusively are working with uh - p c's now with intel .__c1
+__s__in that way intel succeeded with us because they gave us too many good machines for very little money or nothing .__c1
+__s^e__yeah .__c5
+__s^ba__so - so - so we run everything on intel .__c1
+__qh^df__wow !__c5
+__b.%__huh .__c5
+__s^e__and ==__c1
+__s__does anybody have anything else ?__c5
+__s__to ==__c5
+__s^ba.%-__shall we read some digits ?__c5
+__fg|s__yeah .__c3
+__s^bk__yes .__c1
+__s__i have to take my glasses ==__c1
+__b__so ==__c5
+__s__hynek i don't know if you've ever done this .__c5
+__s__the way that it works is each person goes around in turn and uh - you say the transcript number and then you read the digits - the - the strings of numbers as individual digits .__c5
+__s__no .__c1
+__s.%-__uhhuh .__c1
+__%-__so you don't say eight hundred and fifty you say eight five oh and so forth .__c5
+__s^co__okay .__c1
+__s__okay .__c1
+__b__um ==__c5
+__b__so can - maybe - can i t- - maybe start then ?__c1
+__s__sure .__c5
+__s__DIGIT_TASK__c1
+__s__DIGIT_TASK__c5
+__%-__DIGIT_TASK__c0
+__s__DIGIT_TASK__c4
+__b__DIGIT_TASK__c3

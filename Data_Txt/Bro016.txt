@@ -1,0 +1,901 @@
+__z__okay so we're live .__c1
+__z__okay .__c0
+__z__are we live or are we memorex ?__c1
+__z__we're somewhere in between .__c0
+__z__okay | so that's ==__c8
+__z__okay so we have some sheets for uh - some standard doohickies to ==__c0
+__z__wait .__c8
+__z__right so ==__c1
+__z__you're going to sit there ?__c8
+__s__is that all right ?__c1
+__s^e__yeah okay .__c8
+__s^e__maybe i'll put this thing here then .__c8
+__fh__okay .__c1
+__s__okay so this is february second uh - two thousand .__c0
+__s^cs__this is uh - meeting number one with adam and dan and morgan about five o'clock uh - in the afternoon .__c0
+__s^df__a range of microphones .__c0
+__%--__yeah .__c8
+__s^df^j__what's this one here ?__c0
+__s^df__this - this one is - has a couple of cheezy electrettes and ==__c0
+__fh__yeah that's - that's the dummy - dummy p d a .__c8
+__s^bk__that's connected too or ?==__c0
+__s__yep .__c1
+__fg__yeah it is .__c8
+__qw^rt^t^tc__that's connected .__c0
+__s__yeah both channels .__c1
+__s__it's got two - to both channels .__c0
+__fh__oh hang on .__c8
+__s^bk__yeah .__c0
+__fg__yeah it is at the moment .__c8
+__qy^rt__okay .__c0
+__qrr.%--__yep .__c8
+__qw.%--__okay .__c0
+__h__this is ==__c0
+__s^cs__although the gain is pretty low .__c1
+__s^df__so for the um - read numbers task i have extracted these ==__c1
+__s^cs__uhhuh .__c0
+__s__hang on | let's - let's - okay let's just - let's just name the microphones .__c8
+__s__okay .__c1
+__s^bk^rt__so i'm speaking on the ear mounted uh - wired headset thing .__c8
+__fh__okay .__c8
+__s__right | and i'm now talking on microphone number two .__c1
+__s^bk__uh - | the wireless microphone number two .__c1
+__fh__yeah .__c8
+__s__um - | i have no idea which one i'm - i'm on .__c0
+__s^e__i'm ==__c1
+__fh|s^cc__oh one !__c0
+__fh__you're on one .__c8
+__s^cc__oh i'm number one .__c0
+__s^bu__absolutely .__c8
+__s^aa__okay | which is a - a l- - a lapel .__c0
+__s^bk__in fact it's sticking through my lapel .__c0
+__s^bu__yes .__c8
+__s^aa__okay so this is - this is the p z m nearest the uh - uh - the machine room end of the table .__c8
+__s__actually i- ==__c1
+__b__then there's ==__c8
+__s__i know but yeah .__c8
+__s^e.%--__it's number three it says but we'll be able to figure it out .__c8
+__s__this is at the middle of the table .__c8
+__s__this further down the table .__c8
+__s^bs__and this - this one is right at the end of the table .__c8
+__qy^d^f^g^rt__okay ?__c8
+__s^bu__and then we've got the uh ==__c8
+__s^aa__this is the left side of the dummy p d a and this would be the right side .__c8
+__fh__i think listening to this is going to be like watching somebody's home movies .__c0
+__s.%--__yes it'll be pretty horrible .__c1
+__s__@reject@ yeah okay .__c0
+__qy^d^f^g^rt__very exciting .__c8
+__b__so what i have on these forms here is for the read numbers - read digits tasks and it's extracted directly from aurora .__c1
+__fh|s__and uh ==__c1
+__s__so what i was thinking is we could start just by filling it out and then reading - reading the numbers on the form .__c1
+__s^bk__okay | what do we do with the stuff on top ?__c0
+__fh__fill it out .__c1
+__qw__but i ==__c0
+__s^df__do we say it after we ?==__c0
+__s^bk__no .__c8
+__fh|s__no you don't need to .__c1
+__s^e__just write it down .__c8
+__s__what are we - why are we writing it down ?__c0
+__fh__so that when we transcribe the data we can figure out who said it and their gender and the date and the time and what mike they were on and all that sort of thing .__c1
+__s^cs__oh .__c0
+__s.%--__okay that's good .__c0
+__s^bu__so i don't need to fill that out right now .__c0
+__s^bu__so maybe we should just say it .__c0
+__s^bu__w- - why don't you want to fill it out right now ?__c1
+__s^na__okay .__c8
+__s.%-__just so that ==__c1
+__b__so then we're not spending the time writing it out .__c0
+__fh__so that we're spending the time talking .__c0
+__s__well - how about you give me one of those .__c8
+__s__and we can fill it out .__c8
+__qy^d^f^g__and morgan can read .__c8
+__fh__and then we can do it like that .__c8
+__qw__i'm just uh - concerned about a bunch of dead time while we all sit here and fill out the things .__c0
+__s^bk__okay .__c1
+__s__yeah yeah yeah .__c8
+__s.%--__right ?__c0
+__qw__and so you have to be sure to pause between each line since we're going to be segmenting it and then doing it that way .__c1
+__qy.%--__oh .__c0
+__qy.%--__right .__c0
+__s^no__okay | so this is morgan .__c0
+__fh__i'm going to read some numbers now .__c0
+__s^df__DIGIT_TASK__c0
+__s^no__that's my group .__c0
+__s.%--__DIGIT_TASK__c1
+__s.%--__DIGIT_TASK__c8
+__fh__so i definitely wasn't pausing enough between them .__c1
+__s__this is - these are things we will find out .__c8
+__s^bk__that'll be an issue .__c1
+__fh__yep .__c1
+__s^e__yeah .__c0
+__fh__i don't know if i said mine was transcript zero .__c0
+__s^e__but it was .__c0
+__b__uhhuh !__c1
+__s__oh - | good .__c0
+__s^bk__okay .__c8
+__fh__okay .__c0
+__s.%--__that's a little bit .__c0
+__s^bk__can i have something to write on the back of ?__c8
+__s^cc__so - | so where are we in this ?__c0
+__s^bk__thanks .__c8
+__fg__let's see so we now - we now have a few mikes that work .__c0
+__s^cc__how long did it take you to set this up ?__c0
+__s^bk__oh !__c8
+__fh__it didn't - doesn't take - well - i mean - as you see we haven't really set it up that well but it doesn't - it doesn't take long to set up .__c8
+__fg__i mean - | we just came up here one night after recording so it took like twenty minutes something like that .__c8
+__s^cs__right | and that - that included a fair amount of fiddling around since it's - it's more or less the first time we've tried to do it .__c1
+__s^cs__i mean - it's ==__c8
+__fh__yeah | i mean the equipment ==__c8
+__s__right .__c8
+__s^aa__the equip- - me and adam went through it yesterday just looked at everything .__c8
+__s__but it's all kind of here and set up so it's just a question of turning it all on .__c8
+__b__and um - running the program .__c8
+__s^cs__i mean ev- - eventually we'll want to like tape that over and run them up through the center so that wires aren't - aren't - people aren't tripping over the wires and so on .__c1
+__s^aa__right .__c8
+__s^aa__are we going to - i mean - is it going to be over there or is it going to be in there ?__c0
+__b__um - | it's - it's going to b- - it's - for reasons - because of the microphones runs we want that chunk there .__c8
+__b__there's more equipment in there .__c8
+__s__but there's - the idea is that there are these microphones on the table .__c8
+__b__there are some cables coming down sort of under a nice mat .__c8
+__s__and then that's - they - a bunch of them get sort of converged with digital there .__c8
+__b__and the idea is that this gets replaced by a cabinet with doors so that - so that it's not open to fiddling .__c8
+__b__so that's what's going to happen .__c0
+__s^bk__right .__c1
+__s.%--__that's ==__c8
+__s__do we have like a cabinet on order or do we just need to do that ?__c1
+__s^e__we need to do that .__c8
+__s^e__it's on a list of things to do .__c8
+__b__i keep on hoping that they're going to get done but they don't .__c8
+__s^e__well - i - i can help them get done um - one question is budget .__c1
+__qy.%--__i ==__c8
+__%--__yeah .__c8
+__s__do we have any money at all that we can go out and spend on things like cabinets or a hard drive or things like that ?__c1
+__s^aa__oh - i mean - | i don't know .__c0
+__s^na__did we s- - did we spend our - the budget already that we had ?__c0
+__qw__yeah .__c8
+__h__uh | how much are we talking about here ?__c0
+__fh__um - | i don't know .__c8
+__s__a cabinet is probably going to cost a hundred dollars two hundred dollars something like that .__c8
+__s__yeah i mean - you know - we - we can spend under a thousand dollars or something without - without worrying about it .__c0
+__s^bk^fe__i mean ==__c8
+__b__yeah .__c8
+__qy^d^f^g__i mean - i think - um - i'm more worried about things being kept in a funky state long enough that - that uh - stuff gets broken or - or you know .__c0
+__s^cs__yeah .__c8
+__s^cs__well - i think our intention at this point is when we're not using it to record a meeting we'll coil them all up and put them under so that people will not be tripping over them and so on .__c1
+__s^cs__yeah .__c0
+__b__so ==__c1
+__%--__but - well - we should get to a - a nice kind of working state of our set up as quickly as possible .__c8
+__%--__yeah | and there's also the minor matter it'd be kind of nice to able to bring people in and say yes this is where we do such and such and then be able to see uh - you know - some kind of - i mean - it's less important than doing what we're doing right now .__c0
+__fh__right .__c1
+__s__not have it ==__c1
+__s^df__yeah .__c8
+__s^bk__but ==__c0
+__s^aa__yeah .__c8
+__s^e__so ==__c0
+__s.%-__i mean - there's one big issue with the equipment still which is um - ultimately we're going to - well - the idea is to have any number of these wired headsets .__c8
+__s^bk__but there's this amplification problem .__c8
+__s__i built this thing it's - that's - it's very noisy .__c8
+__s^aa__we're actually recording - i'm - i'm going through it at the moment but it's so noisy that i am not using for this .__c8
+__s^df__it's - it's designed to be used for the - for the desktop meeting as well .__c8
+__s^ba__but i'm using - running that through my uh - damp machine as a pre amp as an alternative .__c8
+__s__well - we should be able to just go buy some preamps i would think .__c0
+__b__yeah .__c8
+__s__it's just - it uh ==__c8
+__s^bk__you see how clumsy this is .__c8
+__fh__right ?__c8
+__s^bu__i have to use these batteries to bias them .__c8
+__s^bu__and i'm only get two channels and there're a bunch of - there are like three connectors in the circuit .__c8
+__s^na__the thing is like - it's - it's not s- - it's not that the thing doesn't exist commercially but there isn't one unit which does the whole thing in one - in one swoop .__c8
+__s^aa__so it seemed like it was a good idea to make one .__c8
+__s^bk__um - | and i'm still not sure .__c8
+__s.%--__i mean - i think i probably know how to fix this .__c8
+__s__yeah .__c0
+__b__i can probably build it better so it doesn't have such noise but it's kind of a buy .__c8
+__qy.%--__well - ultimately we're going to need to build one anyway .__c1
+__s__are we ?__c0
+__s^bu__sure .__c1
+__qy^d^g^rt__well - we could just ==__c8
+__qy^bu^d^rt__because we- - we're going to have to put it in a p d a .__c1
+__s__well ==__c0
+__s^aa__right ?__c1
+__s^aa__if we have microphones in a p d a it's going to need bias and a pre amp .__c1
+__%--__i guess i'd sort of figured that - that jim would do that at some point .__c0
+__s^na__uhhuh .__c1
+__s^aa__right ?__c0
+__s^no__yeah .__c8
+__%--__well n- ==__c8
+__s__yeah .__c8
+__fh__jim is busy at the moment .__c8
+__s^cc__that's the problem .__c8
+__fh__i was kind of hoping that jim was going to build this box .__c8
+__s^bk__but um - but he hasn't had time .__c8
+__qw^rt__yeah .__c0
+__b__well i think - i think he is quite interested in doing it .__c8
+__s^no__but ==__c8
+__qy.%--__okay .__c0
+__s^bk^m__well - | if it's too noisy and if there's something we can buy again for you know - moderate amount of price even if it takes a couple boxes or something maybe we should just do it .__c0
+__s^bk__yeah .__c8
+__s^df.%-__yeah .__c8
+__s__and then - and then later we can uh - replace it with ==__c0
+__s.%--__because there may be other considerations that will go into the design .__c0
+__b__i mean - uh - our getting some experience with this may help to determine some of things that are - i don't know - might change this design so .__c0
+__s__uhhuh .__c1
+__b__right .__c1
+__b__there was uh - a statement made uh - which i don't think is right by the way but - there was a statement made at the uh - darpa communicator meeting i was at recently that um - microphone - multiple microphones at a distance of less than three feet or something like that were totally useless .__c0
+__s.%--__completely irrelevant .__c0
+__s__oh !__c8
+__%--__yeah .__c0
+__s__you - you mean for noise cancelling or ?==__c1
+__s^bk__for nois- - noise cancelling .__c0
+__s__um - | my counter argument is - is an - uh - uh - um - a white rat .__c0
+__fh__uh - which has th- - it's two microphones exceedingly close together and it works pretty well .__c0
+__b__oh .__c8
+__b__um - but - yeah .__c0
+__s__okay .__c8
+__b__this happened .__c8
+__fg__do they mean omnidirectional ?__c1
+__s__is that their point ?__c1
+__s^e^r__i mean - all the noise cancelling mikes they're - you know they're a few m- - millimeters away from each other pointing in different directions .__c1
+__b__i think - uh - i mean - uh - my guess is that means it's just that if it's - if it's near field the mathematics of beam - beam steering is different .__c8
+__s__but ==__c1
+__s^e__oh i see .__c1
+__b__if the f- - if the wavefronts are not approximately planar then you can't just do delay and sum and expect it to work .__c8
+__s__it's - oh okay | so they're not talking about how far apart the mikes are they're talking about how far they are from the speaker .__c1
+__s.%--__i guess .__c8
+__b__yeah .__c8
+__s__right .__c0
+__fh__but i think that if - my point is i guess if you - if you have a um - a uh - s- - a volume in between the two - the two uh - uh - sensors and you do something cleverer there clearly are ways to get more out of it .__c0
+__fh__yeah .__c8
+__fh__yeah .__c8
+__s__yeah yeah .__c8
+__fh__right right right .__c8
+__fh__i mean the - um - the - the weird thing is that actually delay in some beam forming is not - is not the clever thing to do .__c8
+__fh__yeah .__c0
+__s__the - the - the underwater guys do this stuff which is different .__c8
+__s^e__and it actually means that you should get the microphones as close together as possible .__c8
+__fh__rather than trying to get them far apart so you can get separation you sort of - you want them very close .__c8
+__fh|s^cs.%--__and - and the math is too difficult for me to understand but it's - but it's there .__c8
+__fh|s.%--__yeah .__c0
+__s.%--__well there are various points in meeting where people were making uh - uh - very strong statements as a matter of fact like one shouldn't even question it .__c0
+__fh__and this was one of them that was kind of funny .__c0
+__s__um - but i - i - i - what i take it to mean is doing - doing the dumb thing uh - with two microphones would be very difficult to get too much out of it .__c0
+__b__yeah .__c8
+__s__yeah .__c8
+__s__but i think it will be interesting to do other things that aren't dumb .__c0
+__s__so i - i still think it's potentially interesting to do that .__c0
+__s^e.%--__huh .__c1
+__b__although we- - we'll have to be uh - a- - aware of this if we're writing proposals about it wherever that there may well be reviewers who will say well everyone knows that you can't get anything out of it if it's - if it's close .__c0
+__s^e^r__yeah .__c8
+__fh__do they believe you can get speaker location out of it ?__c1
+__s__because that's - that's one way we could sneak it in .__c1
+__s__uh - that is an interesting point .__c0
+__qy.%--__yeah .__c0
+__qy^cs^rt__yeah .__c8
+__s^e.%--__certainly you can get some ==__c0
+__s^ar|s^nd__well - we could - i mean ==__c8
+__s^ar__by the time - we'll have - we'll have data so we can actually you know - demonstrate that .__c8
+__s^ar^r__yeah .__c0
+__s.%--__well ==__c1
+__s^ng__hopefully .__c0
+__s__oh you mean for location ?__c1
+__s^cs__yeah .__c8
+__b__okay .__c1
+__qw__well - we're getting some - we- - we're getting some right now .__c0
+__s^e__depends on who's working on it .__c1
+__s^aap.%--__yeah right .__c1
+__s.%--__but someone has to write some software to - to actually do it .__c1
+__s__right .__c8
+__s^cs__right .__c8
+__b__but i mean ==__c8
+__s__well someone - someone might be interested in - in it .__c0
+__s^e__someone might .__c1
+__s^bk__oh that's uh ==__c1
+__fh__i was just thinking one thing we may want to do is put the fake p d a right in front of someone instead of in the middle of the table like we have it now .__c1
+__fh__yeah .__c8
+__fh__on the thought that - my vision of it is you know - each of us will have our little p d a in front of us and so the acoustics - uh - you might want to try to match the acoustics .__c1
+__s^cs__maybe .__c0
+__b__yeah .__c8
+__s__but - on the other hand suppose that uh - you're the only one uh - who is advanced enough in this thinking to actually bring such a p d a to - to a meeting .__c0
+__b__no and i don't need to meet with those people .__c1
+__s^df__and - and - and therefore you bring it in .__c0
+__b__and you probably want it to be as near to people as possible so you might in fact shove it to the middle of the table .__c0
+__s__uhhuh .__c1
+__fh__well ==__c0
+__s^df__yep yep .__c8
+__s.%--__for those those we can make several - several more of these and then we can have actual recording with you know - three p d as .__c8
+__s__yeah .__c0
+__s__well - i think we should .__c0
+__s^e.%--__i mean - i think at least with two .__c0
+__s__uhhuh .__c8
+__b__right ?__c0
+__s__right .__c1
+__s__because uh - one of the th- - one of the fantasies that was at least fun to talk about was that uh ==__c0
+__b__uh - okay maybe you th- - you're - the range of things you can do with multiple microphones is limited if they're a few inches apart .__c0
+__%--__but what if you have two of these things ==__c0
+__s^co__yeah .__c8
+__s^e__and you know - we have this - this idea of the handshake back and forth and say i'm here i'm here .__c0
+__s^co__yeah .__c8
+__s^co__right .__c1
+__s^co__we're now an array .__c0
+__b__right right .__c8
+__s__yeah .__c8
+__s__and that - that seems very uh - easy to believe scenario i mean - given the number of palm pilots we've got on the table right now so ==__c8
+__b__that's right .__c1
+__fh__three .__c1
+__fg__right ?__c1
+__fh__yeah .__c8
+__qw^rt^tc__yeah .__c0
+__h__so i guess this a pretty dense group .__c1
+__s__but it- - it's getting a lot higher .__c1
+__qw^j__yeah but - but that - it's ==__c8
+__fh__we're not even you know - it's - we're just - it's not like we - we - we may be technical but we're not particularly p d a people .__c8
+__qw^br^d^rt__so it's - that's just how it is .__c8
+__%__well - i'm trying to be .__c1
+__s^bk__so ==__c1
+__qw^j__well - i know .__c8
+__h__well - that's true .__c8
+__s__i mean ==__c8
+__fh__except i s- - got a p d a way before ==__c1
+__fh__well - i was doing hand- - i was doing wearable computers at boeing so i guess i sort of count .__c1
+__qw^br^d^rt__okay .__c8
+__s^rt__but ==__c1
+__s^bk__so - uh - so - where are we uh - now ?__c0
+__fh__i mean - so - we've just - uh - we're doing this recording so we show we can - we're capable of doing recording .__c0
+__qw.%-__right .__c8
+__fh__uh - | there's i guess a little more wiring to do or something to have - to have more - if we had more people participating in the meeting we'd wouldn't quite be ready for that .__c0
+__s__uhhuh .__c1
+__qy^d.%--__uh .__c0
+__s^nd__well - we've got - we've got - right now we could have two more people on wireless .__c8
+__s^bk^m__uhhuh .__c0
+__fh__with a trip to leo's audio we could get a third extra person on wireless .__c8
+__qw^br^rt__and uh - right now we could have three more - three more people wearing mikes like this and that would just work .__c8
+__s.%--__i mean - i'm not sure how - how good the quality is on this mike but i think it's going to be okay .__c8
+__fh__so we could actually have eight people with - with headset mikes with i mean - basically no extra effort .__c8
+__s^2__well five with wireless .__c1
+__s^m^na__so we could have eight .__c1
+__qw__yeah .__c8
+__qw__nine .__c8
+__h|s__nine .__c1
+__s^rt__excuse me | nine .__c1
+__b__yeah .__c8
+__s__five with wireless and four without and four with wired .__c1
+__b__yeah .__c8
+__s^e__um - we don't have headsets though .__c1
+__b__yeah .__c8
+__s.%--__we have the um - the ones we've been using the ones we got for the p c .__c8
+__s^bu__oh okay | so we just have to c- - wander around and collect them up .__c1
+__fh__yeah yeah .__c8
+__s^aa__i think we have three of those .__c8
+__s^df__uhhuh .__c1
+__b__so and the h- ==__c8
+__s__uh - | there's one in my office .__c1
+__fh__so ==__c1
+__qy^bu^d^rt__right right .__c8
+__s^ar__they don't all work but the nice ones the um - plan- - plantronic ones work .__c8
+__s^nd__okay .__c0
+__qw^rt__so we'll just have to see if that works .__c1
+__s__so a little bit of futzing there's the issue about a cabinet we might want to change some pre amps .__c0
+__s^df__yeah .__c8
+__b__so we can do some more recordings but there's - there's a little - little bit of ramp up on that over the next month say .__c0
+__s^df__yeah yeah .__c8
+__s^df__right | and also i would like to work out some of the software issues a little more completely .__c1
+__fg__so um - you know - we're going to want to resample and con- - and bring them over to another machine and uh - um - organize the - how we're going to store it all .__c1
+__%-__yeah .__c8
+__fg__yeah .__c8
+__s^bs__yeah .__c8
+__s^bs__yeah .__c8
+__s^bs__yeah we were talking about that a little bit over coffee today that - that um - uh - if you downsample it sounded like it came - it sounded like it was something like a gig- - gigabyte an hour if you didn't downsample .__c0
+__b__and once you downsampled then it was something like four hundred megabytes an hour if you used all - if you used all ==__c0
+__fg__per channel or ?==__c8
+__s^nd__no if you used all the channels .__c0
+__qy^d^g^rt__something like that ?__c0
+__s__we figured out that it was t- - twelve gig- - twelve gigabytes an hour .__c8
+__fh__it was more than that .__c1
+__qy^rt__for - for all the channels .__c8
+__qrr^rt__was that with or without the ?==__c8
+__s^ar__i thought it was one gigabyte .__c0
+__qrr.%--__it couldn't be twelve .__c0
+__s^aa__because - no we've only - no i mean - we've only got four gigabytes and that ==__c8
+__s^m^na__we said four gigabytes would give us twenty minutes before we did anything else .__c1
+__s^bk__yeah .__c8
+__s^bk__right .__c8
+__b__and then we - then we cut it in half .__c8
+__s^df__and then we cut in half by ==__c1
+__%--__how'd you cut it ?__c0
+__s^e__but - by s- - saving sixteen bits on instead of thirty - instead of thirty two .__c8
+__b__okay | so - that's - so - that's two gigabytes .__c0
+__b__and then ==__c0
+__fg__well - no | i mean - it's uh - four gigabytes for forty minutes .__c8
+__s^cs__that's forty minutes .__c1
+__s^cs__right .__c0
+__s^e__so six gigabytes .__c1
+__s^e__but - that's at forty four kilohertz with sixteen channels .__c0
+__s^e__forty eight kilohertz yeah .__c8
+__s^df__so we can actually triple that .__c8
+__b__so you can ==__c0
+__fh__right | so you can ==__c0
+__qw^rt__yeah .__c1
+__h|s__so hang on .__c8
+__s^e__so that would - okay ==__c8
+__s^bk^m__i came out at the gig an hour at one point .__c1
+__s^bk__that - that's one computation i did for sixteen channels sixteen bit .__c1
+__s^cs__well - i think it's - i think it's two gig an hour .__c8
+__s^df__is it two gig an hour ?__c1
+__b__i'm off by an order of magni- ==__c1
+__b__that's all right .__c1
+__s^df__order of two .__c1
+__s.%-__because like - we don't - maybe we don't - we don't need to save all channels .__c8
+__s^cs__factor of two .__c1
+__s^df__right ?__c8
+__s^df__so on average we could - we don't - we - we wouldn't use all the channels necessarily .__c8
+__s__oh we'll do the higher math later maybe but it's - so it's - so maybe like a gig or two a - an hour .__c0
+__b__um - but - um ==__c0
+__s^bk__yeah .__c8
+__s.%--__okay that is a bit more than i thought .__c0
+__s^df__how much here would we have to reformat the drive in there to get some of the more space ?__c1
+__s^e__because it - i mean it's a nine gig drive and there's four gig on sc- - on scratch and there's about three gig unused it looked like on the home directory .__c1
+__fh__yeah .__c8
+__s^cs__i'm sure .__c8
+__b__yeah .__c8
+__b__i just don't know enough about linux .__c1
+__s^df.%--__how hard is it to repartition ?__c1
+__b__it's a pain .__c8
+__qy^d^rt__it's a pain .__c1
+__s^aa__i mean - you know - because - because we've got data on user .__c8
+__fh__right ?__c8
+__s^e__and then we'd have to back it all up and copy it back on again .__c8
+__%-__uhhuh .__c1
+__qy^rt__yeah so - this'll take some thought because we have - we - um ==__c0
+__s^e__if we are in fact going to have forty or fifty hours at some point and we - we want to ha- - have part of our work be on feature extraction it means that we need to have waveforms available somehow .__c0
+__s^e__yeah .__c8
+__h__huh .__c8
+__fh__right .__c1
+__s^aa__so i've - i've already created a u - u doctor speech data m r directory or had jane do it and uh - um - but there's not a lot of free space around .__c1
+__s^aa^r__no .__c8
+__%--__so it - it - it has currently about four gig on the drive that i think she's going to put it on um .__c1
+__s^e__uhhuh .__c8
+__s__uhhuh .__c8
+__s^e__and so we need - we definitely need to go buy uh - you know forty gig - fifty gig of drive - drive space .__c1
+__b__yeah .__c8
+__fh__we don't need all - we don't necessarily need it all online .__c8
+__fh__i mean - it will be different subsets .__c8
+__fg__so you won't - you won't you know - do all sixteen channels in a single ==__c8
+__s__that's true .__c1
+__fh__i hadn't even thought about that although it'd be kind of interesting .__c1
+__s__yeah .__c8
+__fh__what would you do ?__c0
+__s__you typically train - i mean you'd have fi- - you'd have fifty hours .__c8
+__s^df__i mean ==__c0
+__s^rt__we'd only use one of the p z m channels .__c8
+__%--__something like this .__c8
+__s^cs__and so that would - you wouldn't have to use all sixteen channels at once .__c8
+__fh__but it's kind of painful for - because basically if we put them on c ds then each c d will have all the channels for one recording .__c8
+__s^e__and then when you want to build the p files you just want to get one of those files off each of the sessions .__c8
+__fh__and ==__c8
+__s.%--__yeah it's pretty horrible .__c1
+__s.%--__so - what would we do for training ?__c0
+__qy^d^rt__so - if we're - if we're training distant mi- - we'd just use one of them ?__c0
+__h__yeah .__c8
+__fh__well - maybe two of them but i mean - we wouldn't use - we'd only use the distant mikes .__c8
+__s^na__okay .__c0
+__fh__right ?__c8
+__s^bu^e__yeah | so it might be four .__c1
+__s^2__right ?__c1
+__qy^d^g^rt__but it wouldn't be sixteen .__c1
+__fh__well - although we wanted to get alignments from the close mike stuff .__c0
+__s^br^rt__but that's a separate training .__c1
+__qw^br^rt__right .__c0
+__s__but - you don't want to be constantly take - putting that on disk and off disk and on disk .__c0
+__%-__no wait .__c1
+__fg|s.%--__more disk is better .__c1
+__fh__absolutely .__c1
+__s__i mean - my - my preference would be to get - get ourselves a hundred gig of disk .__c1
+__s.%--__yeah .__c0
+__s^ar__the thing is it's really not very expensive right now .__c0
+__s^bsc^rt__yeah .__c8
+__s^aa__and just not bother .__c1
+__s__so it's more of an issue of - of structuring it with uh - the uh - sys admin folks so we don't panic them and figuring out where it goes .__c0
+__s^e__and back up .__c1
+__s__well - we don't - it doesn't need to be backed up .__c0
+__b__right | if - if we - if we burn it all on c d rom then um ==__c8
+__s__right then it doesn't need to be backed up .__c1
+__s^aa__in fact we could you know - we could throw away the broadcast news stuff and put it on there or something like that .__c8
+__s^aa__yeah we were talking about that .__c1
+__fh__yeah .__c0
+__fh__i'm not sure if anyone's still using it .__c1
+__fh__i think the only one using it has been javier .__c0
+__s.%--__somebody used it recently .__c8
+__s__but at this point i think it's - he's only been using it for features that he calculated quite a while ago .__c0
+__b__so if nobody else is doing feature calculation ==__c0
+__fh__yeah .__c8
+__fh__i'll send mail to speech local .__c1
+__s__pardon ?__c0
+__s__i'll send mail to speech local and see if anyone's still using it .__c1
+__qy^d^f^g__how much space is that using up ?__c0
+__s^df.%--__do you have any idea ?__c0
+__fh__it's uh - twenty c ds .__c8
+__s__so that's twelve gigabytes .__c8
+__s^2__so that would last us for a while .__c1
+__s__yeah couple hours .__c0
+__b__well - anyway for this - this recording we're fine .__c0
+__b__yeah .__c8
+__fh__because we're only - we're only ==__c0
+__fh|s__how many mikes are we recording right now ?__c0
+__s^e.%--__well - | right now we don't have any choice .__c1
+__b__it r- - still records all sixteen channels .__c1
+__s__it's just most of them are all zeroes .__c1
+__s^e__so that - that's on our list too .__c1
+__b__okay .__c0
+__s__yeah | well - that we can do something about .__c0
+__fh__yeah .__c8
+__fh|s__yep .__c1
+__b__it's mostly a question of user interface .__c1
+__s.%-__how do we - how do we specify which ones are on ?__c1
+__s__yeah .__c0
+__s^df.%-__yeah | so we don't store any of our audio formats compressed in any way .__c1
+__s__do we ?__c1
+__s^df__so these large sections when you guys aren't talking ==__c1
+__s^df__yeah .__c8
+__b__probably we could - we could probably just run shorten on them or something and it will get a big win .__c8
+__fh__i think that's a good ==__c8
+__s^na__run what on those ?__c1
+__s^arp__shorten .__c8
+__s__tony robinson's uh - lossless compression thing .__c8
+__s^bk__okay .__c1
+__s^aa__what's it do ?__c0
+__fh__um - | it - it does a r modeling ==__c8
+__s^bu__and so it looks at a section it runs an a r model to sort of r- - w- - to whiten it and then quantizes the residual with a nice - with the three bits it can get away with .__c8
+__qy^d^g^rt__something like that .__c8
+__qy^bu^d^e^rt__so i think it - on - on each block it'll - it'll compress you know - if there's load on in any range it'll use ratio bits .__c8
+__s^aa__uhhuh .__c0
+__s.%--__i think it does that .__c8
+__s__yeah so p z ms .__c1
+__s__@reject@ yeah well ==__c8
+__s__yeah .__c1
+__b__yeah it's something that - that we definitely need to look at with this .__c1
+__s__maybe we shouldn't have subsampled it down to sixteen bits for our first try .__c1
+__fh__well - | it's okay .__c8
+__fh__it's only the first try .__c8
+__s__i - what i'm thinking is um - obviously we can do the we - can - we can choose any sixteen bits from the twenty four so we can just have different gain things that we use you know - per channel .__c8
+__s__right .__c1
+__s^e__yeah so we might want to see if maybe the low sixteen bits on the p z ms are better than the middle sixteen bits .__c1
+__s.%--__yeah .__c8
+__s^cs.%--__i think - probably the bottom four bits are not any good .__c8
+__s__regardless yeah .__c1
+__s^e__right ?__c8
+__s^co__although you know it claims they are .__c8
+__s^df__but probably the ==__c8
+__b__w- - i was just noticing on the - on the - there's a view meter software view meter and the p z m gain is real low .__c1
+__qy^rt__yeah | so - i think initially we should take up more space until we've analyzed this and get a better sense of it .__c0
+__qw__so ==__c1
+__qy__because uh - we don- - i mean we're not talking about forty or fifty hours at this point .__c0
+__s.%--__uhhuh .__c8
+__s^j__yeah .__c1
+__s^ba__we're talking about a half hour of - of speech .__c0
+__s__yep .__c1
+__s^j__and so uh - we should look at this carefully .__c0
+__b__yeah .__c8
+__qy^bu^d^rt__but ==__c0
+__s^nd__yeah i was interested when i saw the twenty four on there .__c0
+__b__oh yeah .__c8
+__qw__wow i mean - that's probably eight bits of noise .__c0
+__s__oh yeah .__c8
+__b__yeah .__c0
+__s^e__so ==__c0
+__s^df^no__yeah that's right .__c1
+__b__we've got lots of bits of noise .__c1
+__b__these theories things are pretty amazing .__c8
+__fg__yeah .__c0
+__fg__and and there's help - help they seem - they seem good though they seem to be ==__c8
+__s__it's some sort of oversampling thing i imagine .__c0
+__s.%--__right ?__c0
+__s.%-__didn't we already get that ?__c0
+__s__oh god knows .__c8
+__fh__yeah yeah .__c8
+__b__because you - you can't have uh - component tolerances that are uh - sixteen million - one in sixteen million parts .__c0
+__s^am__right .__c8
+__s^no__so ==__c0
+__s^df__right .__c8
+__b__right | the other - other thing another issue is just getting a sound card up here .__c1
+__b__you know - i assumed that we could just put a sound blaster in if we want sound output .__c1
+__s^bk|s^ba__that - that card - that machine's got sound - they've got a sound blaster built into it .__c8
+__s.%--__oh | it's just not working .__c1
+__s__i just - i just disabled it because i wanted to find out how well the sound infrastructure would deal with both at once .__c8
+__s__okay .__c1
+__s^bk__but i think yeah that's uh - probably it will be fine .__c8
+__s^e__yeah that way we don't - we can't listen to it on this machine .__c1
+__b__i'm s- ==__c0
+__fh__there's no ==__c8
+__qy^rt__oh !__c0
+__s^ar|s^nd__for a couple of reasons .__c8
+__s^df^nd__well - but the @reject@ - there are two ways we could listen to it .__c8
+__s.%--__there's a sound - there's actually sound output built into this thing .__c8
+__s^cs__yeah .__c0
+__s__but the driver - i haven't - the driver may not support it yet .__c8
+__s^e__and then there's also the sound or the sound card built in .__c8
+__s__huh .__c0
+__s__but i don't know how to - i don't know how the operating system would like having two sound cards .__c8
+__fg|s^nd__but - we can f t p stuff over .__c0
+__s^nd__right ?__c0
+__b__right .__c1
+__b__so it's connected .__c0
+__b__yeah .__c8
+__b__and we've looked at it so we know it's working .__c1
+__b__i mean - you can see the little squiggles and it looks like speech so ==__c1
+__b__yeah .__c8
+__s.%--__yeah .__c0
+__b__you just can't listen .__c1
+__s^2__yeah .__c0
+__fg__okay .__c0
+__s^aa__um ==__c0
+__s^ar.%--__one suggestion i have is that um - i think this - maybe we should just read some more - you made more of these .__c0
+__s^arp__right ?__c0
+__s^nd__right .__c1
+__s^df.%--__i think we should read some more because - because this is very f- ==__c0
+__s^bk^fe__okay .__c1
+__qy^d^f^g^rt__we - we need to - to work the - the - the uh - the talkers more .__c0
+__s^bk__because we're not going to have that many meetings .__c0
+__s^df__uhhuh .__c1
+__s^aa__and this is a pretty tiny amount of data .__c0
+__fh__uhhuh .__c1
+__s__so - maybe we should do another number list and ==__c0
+__b__well - | right i - i just did ten per page i could easily do twenty per page .__c1
+__b__it's just a question of uh - of how much uh - annoyance i wanted to put uh - people going to meetings through .__c1
+__s^aa__yeah .__c0
+__s^cs.%--__well - this is us .__c0
+__fh__we'll have a fair amount of annoyance .__c0
+__b__uhhuh .__c1
+__s__yeah .__c8
+__b__yeah - i think .__c0
+__s.%--__uh ==__c0
+__s__so - can we do - we do another set ?__c0
+__s__sure .__c1
+__s^e.%--__are we - are we - are we - sort of ?==__c0
+__s^no__sure .__c8
+__fg__we talked out about what we're ==__c0
+__s.%--__well - no | okay the question i still have about what we're going to do is what is - what - uh - okay so we can get the equipment set up so that basically we're in a situation where we can - with you know - ten minutes of preparation we can bring nine people in here and do a multi channel recording .__c8
+__s__okay .__c0
+__b__right .__c0
+__s^e__um ==__c8
+__s^e__what are - wh- - when are we - are we going to do that ?__c8
+__s^bs__who are they going to be ?__c8
+__s^e__what meetings are we going to record ?__c8
+__s.%--__us to begin with .__c1
+__fh__so which - which meetings - what meetings do we have ?__c8
+__s__i think that's the intention .__c1
+__fh__i mean - like us being the meeting recorder people or us being anything that speech local does ?__c8
+__b__well - i think - i think um - certainly us meeting recorder .__c1
+__s__yeah .__c8
+__b__um - | us other groups .__c1
+__fh__it just depends on how many meetings we're - we're having .__c1
+__s__um .__c1
+__b__jerry also said it would be - he would be willing to have his group some of the a i meetings do it as well .__c1
+__s^df__and we should have like - we should have decoder meetings and stuff .__c8
+__b__and uh ==__c1
+__b__exactly exactly .__c1
+__%--__i think there are enough incidental meetings for us to - to do this .__c1
+__b__and if we can get it set up so it is convenient enough um - then you can just do spontaneous meetings as well .__c1
+__fh__yeah | i mean - that's the thing .__c8
+__fh__it's okay to g- ==__c8
+__s__right .__c8
+__b__which i'm interested in .__c1
+__fh__i mean - that's one of the things the whole reason i want a p d a as opposed to a wired room is for spontaneous meetings .__c1
+__s.%--__yeah .__c8
+__s__right .__c8
+__s__well - we've got to make it really really easy to start it going then in that case .__c8
+__b__right .__c1
+__fh__because that - that's the real goal .__c8
+__s__that's right .__c1
+__fh|s^cs__that's why i put ten on here instead of thirty or forty or fifty .__c1
+__%--__right .__c8
+__fh__but i mean - if we - if we want jerry's group to use it then we probably @reject@ won't ask them to read any numbers .__c8
+__fh__right ?__c8
+__%--__right .__c1
+__fh__because ==__c8
+__s^no__well - i - i bet they would be willing to do it the first few times just for the novelty .__c1
+__s^df__yeah .__c8
+__s^df__yeah .__c8
+__fh__i think they would .__c0
+__qy.%-__and also he's - he's - he's got at least one woman .__c0
+__qy^rt__that's great .__c8
+__s^e__oh that's a good point .__c1
+__qy^d^rt__i know .__c8
+__qy__and we're - we have a little problem of no women .__c0
+__h__boy that's abs- - i had never - i hadn't even thought about that .__c1
+__s^aap__i know it's a disaster .__c8
+__s^aa__yeah well - when l- - when liz uh - shriberg starts coming then there's another woman although she ==__c0
+__b__oh man !__c1
+__b__it's all right .__c8
+__b__she doesn't mind as long as we don't video her .__c8
+__fg__yeah .__c0
+__s__right ?__c8
+__h__uh - | that's right .__c0
+__s.%--__that was it .__c0
+__fh__so ==__c0
+__s.%--__maybe we should have the reading group here and force jane to come .__c1
+__fh__yeah .__c8
+__fh__yeah .__c0
+__s^cc^rt__no well - | actually we could have jane uh - jane's interested and curious about this stuff so she could attend one of ==__c0
+__s^df^rt__uhhuh .__c1
+__fh__yeah .__c8
+__fh__probably not the decoder meeting but some of the other stuff she would be interested enough and have her read ==__c0
+__s__we could - we could have the reading group in here .__c8
+__s^bk__yeah i mean it's a different style .__c1
+__s__yeah .__c8
+__s^e__yeah .__c0
+__s^nd__i mean ==__c8
+__s.%-__but i think that's all right .__c1
+__s^df^nd__yeah it's great .__c8
+__s^aa__yeah .__c0
+__%--__um - | we were joking about having lunch up here but eating with the microphones .__c1
+__qy^d^f^g^rt__um - | i had another question briefly about transcription .__c1
+__b__okay .__c8
+__%--__so are we going get an external service or are we going to do it ?__c1
+__s^co__i mean who's going to generate the transcripts ?__c1
+__qw.%--__um - | i think that one of the neat things about having this little pilot thing from today is we should try it a couple different ways .__c0
+__qy^rt__uhhuh .__c1
+__s^no__so - we should try to do it internally .__c0
+__s^no__maybe ask - ask jane if we could get her to do it or - or - or have her supervise a linguistics student or somebody .__c0
+__%--__uhhuh .__c8
+__s.%--__uhhuh .__c1
+__s__and uh - see how long it takes and you know - multiply out the cost .__c0
+__s^bk|s^co__and then send - send the same thing out or maybe split it in halves or something - something like that to a - to an outside service .__c0
+__s.%-__uhhuh .__c8
+__b__and uh - see what that costs and how much hassle that is .__c0
+__b__right .__c1
+__fh__and then we can assess it .__c0
+__b__yeah the - the problem of course is that it's you know - in - in this meeting it's three four five six seven eight it's nine transcripts potentially .__c1
+__fh__well - except that you wouldn't transcribe them all individually .__c8
+__s.%--__no .__c0
+__s__right ?__c8
+__s__you would send - i mean - uh - a transcriber is used - i mean - i don't know assume - presumably a transcriber transcribes a single meeting .__c8
+__b__no .__c0
+__s.%--__right ?__c8
+__s__and so they - they just have to indicate that the speaker changes .__c8
+__s^df__right .__c0
+__fh__this was - this was the point of having near zero skew .__c0
+__s^co__right ?__c8
+__s__right ?__c0
+__s.%--__so - you just pick one with the best sounding one and give it to somebody and they transcribe it .__c0
+__b__oh you're right yeah yeah yeah .__c1
+__s__yeah .__c8
+__b__right .__c1
+__s^cs__so the only thing we'll have to be careful with is that they're ==__c1
+__b__well - what are they listening to ?__c1
+__fg__so - so they - they're going to - they're going to have to make speaker assignments or something like this .__c8
+__fh__they're going to have to make speaker assignments .__c1
+__s.%--__and wh- - and which recording are they going to listen to ?__c1
+__s__for one of - one of @reject@ .__c8
+__fh__or we could mix - we could mix the - the headset mikes you know - just to make a single high q- - high quality .__c8
+__fh__right .__c0
+__b__and we could do - and we could do all kinds of weird things like having you know - squelch so that you only you know - you only - you cut it out when there's no energy .__c8
+__s^bk__oh that would be interesting .__c1
+__s__so you don't @reject@ noise .__c8
+__b__uhhuh .__c1
+__s.%--__yeah you could do fancy things but it seems like that's enough .__c0
+__fh__yeah .__c1
+__s^no__yeah .__c8
+__s__i mean - there's - it's - if we - if we do something which is have a little bit of human input to get the words then we can leverage that a lot by some clever cross thing to figure out which channel they really belong to and stuff like this probably .__c8
+__s^aa__okay .__c1
+__s.%--__uhhuh .__c1
+__s.%--__yet ==__c1
+__fh__so that - i mean - that's one chunk of work and just segmenting for this is going to be another chunk of work .__c1
+__s__um ==__c1
+__b__yeah .__c8
+__b__and - yeah .__c8
+__qy^d^f^g__as much work as you want .__c8
+__s^df.%--__yeah | but uh - i don't know .__c0
+__fh__this meeting so say it's maybe going to be a half hour or something .__c0
+__s^df__and - and uh - we've heard estimates ranging between ten and twenty times uh - real time to do this kind of transcription .__c0
+__b__yeah .__c8
+__b__um - | so you know in - in principle then it'll take somebody a day for somebody to deal with this .__c0
+__fh__uhhuh .__c8
+__fg__wow !__c8
+__s^cs__yeah .__c8
+__fh__and uh - we'll see which one of those seems closest to right .__c0
+__%--__and if they - ramped up if towards the end it was faster you know - get some sort of sense from them uh - from whoever does it .__c0
+__fh__uhhuh .__c1
+__fh__and um - | then uh - like i say check it out with an external service and see if it's faster cheaper better worse whatever .__c0
+__s^cs^rt__right .__c1
+__fh__then we'll go from there .__c0
+__b__uhhuh .__c1
+__b__yeah one of the things i was thinking with transcript is that if we take the near field and we do an initial recognition pass is it easier for a transcriber to correct a transcript if the near field mike does a reasonably good job ?__c1
+__b__huh .__c8
+__s^cs__i bet it isn't unless it's really close to right .__c1
+__b__yeah .__c8
+__s.%--__i have - just because it's such an un- ==__c8
+__s^rt__the transcribing is sort of something i can imagine doing whereas having this distraction of having sort of something that looks like it might be right but has got some very wrong bits in is sort of a less - less easy thing to do .__c8
+__b__right .__c1
+__qw__some errors yeah .__c1
+__fg__i don't know .__c0
+__fg__i do- - i don't know the answer to that .__c0
+__s^bu__i'm sure the professional transcribers obviously don't have any use for ==__c8
+__qy^d^g^rt__i don't know .__c0
+__qy^bu^d^rt__yeah yeah that's true .__c8
+__s^aa__well - i mean - there's this cyber transcriber service .__c0
+__s^aa__right ?__c0
+__s^df__that's true .__c8
+__s.%-__and at least supposedly the way they work is by feeding them what is the output of the recognizer .__c0
+__s^bk__yeah | by fixing up transcripts .__c8
+__qy^bu^d^rt__so maybe it depends on what the software tools are like .__c0
+__h|s^aap__yeah but - yeah .__c8
+__s__if it's - you know - if they can easily flip through stuff and get to the right thing ==__c0
+__s^bk__or do you point ?__c0
+__fh__or i don't know .__c0
+__s^bu__there's supposed to be some out - out - out of work shepherders or something in scotland but ==__c0
+__qy^g^rt__yeah .__c8
+__h|s^ar__uh the internet .__c0
+__s^nd__they should all be in india right now .__c8
+__s^bk^m__that's where the good but the cheap english speakers are .__c8
+__s^ar__yeah .__c0
+__s^bk__not in scotland .__c1
+__fh__inexpensive .__c0
+__fg__i'm sorry yeah .__c8
+__s__not in scotland .__c1
+__fh__well - they don't speak such clear english .__c8
+__b__they - they sheep - they s- - they - they speak cheap english .__c1
+__s.%--__right ?__c1
+__s^bsc.%--__okay | so we're degenerating .__c0
+__s__right ?__c0
+__s__are - are - are we done with uh - m r business ?__c0
+__s__yep .__c8
+__s__sure .__c1
+__fh__or ?==__c0
+__fh__i mean what - what's - maybe we should - what are our action items ?__c0
+__fh__so there's - there's the continuing process of cleaning up the stuff and making it easier to do that .__c0
+__fg__there's taking the results of this meeting and putting it in some kind of decent form .__c0
+__fg__probably getting some kind of single channel merged sum data or something so that you can give a simple sound file of some sort to a transcriber to deal with it rather than this massive thing .__c0
+__s__uhhuh .__c8
+__fg__uhhuh .__c1
+__s^bk__uhhuh .__c8
+__s^e__that's a little bit of stuff to do .__c0
+__b__right .__c1
+__fg|s__right ?__c0
+__s.%--__and then do some segmenting and recognition - initial recognition would be interesting to do .__c1
+__s.%--__yeah | although it - it - it - it may be separating out these numbers from the rest .__c0
+__s__that's what i mean .__c1
+__s^e__yeah .__c0
+__b__and then ==__c0
+__s__yeah | just doing a digits on it - uh - connected digits .__c1
+__s__yeah and uh ==__c0
+__fh__right .__c0
+__fg__so - | with this next ==__c0
+__s__you want to read ?__c1
+__s__sure .__c0
+__s.%--__okay .__c0
+__s^cs__DIGIT_TASK__c0
+__s.%--__DIGIT_TASK__c1
+__fh__DIGIT_TASK__c8
+__s^e__how many more you got ?__c0
+__b__oh i on- - i did ten but i can - i have a script to generate them automatically .__c1
+__b__well - let's do some more while we got them here .__c0
+__qo^d__wow !__c8
+__fg__okay .__c1
+__s__what fun it is .__c8
+__%--__well - you know - it's not but ==__c0
+__b__it's interesting that um - it m- - it's not clear whether it's better to have them written as - as words or - or figures .__c8
+__s^e__but of course to get zero and o s distinguished we - you have to do it .__c8
+__fh__that's why .__c1
+__fg__yep .__c1
+__s^e__but it's kind of weird to read .__c8
+__s^e__DIGIT_TASK__c0
+__%--__DIGIT_TASK__c1
+__s^bk__DIGIT_TASK__c8
+__fh__yeah there's just two more .__c0
+__fh__uh ==__c0
+__fh__go ahead .__c1
+__s^bd__okay .__c0
+__b__so ==__c0
+__s^bk__thanks .__c8
+__fh__okay go ahead and read it and then fill it out .__c1
+__fh|s__okay .__c0
+__s__DIGIT_TASK__c0
+__s__DIGIT_TASK__c8
+__qy^d^f^g__okay .__c8
+__s.%--__okay .__c0
+__b__i'd say we're done .__c0
+__s__okay .__c1
+__s^e__oh i wonder - i wonder if we ran out of disk space yet .__c8
+__qy^d^g^rt__so - is it - it's going to disk ?__c0
+__s^aa__or is this ?==__c0
+__fh__and how - how much disk do we have ?__c0

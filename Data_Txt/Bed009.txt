@@ -1,0 +1,1071 @@
+__z__yeah .__c4
+__z__um - so ==__c1
+__z__if we can't we can't but uh we're going to try to make this an abbreviated meeting .__c1
+__z__because the - the next - next occupants were pushing for it .__c1
+__z__so ==__c1
+__z__um .__c1
+__z__so ==__c1
+__z__agenda is - according to this is transcription status darpa demos x m l tools disks backups et cetera and crosspads .__c1
+__z__does anyone have anything to add to the agenda ?__ca
+__z__okay .__c1
+__z__should we just go in order ?__c1
+__z__transcription status .__c1
+__z__who's - that's probably you .__c1
+__z__i can do that quickly .__c0
+__z__um i hired several more transcribers .__c0
+__z__they're making great progress .__c0
+__z__seven ?__c1
+__z__seve- - several several .__c0
+__z__oh .__c1
+__z__and uh ==__c0
+__z__and uh ==__c0
+__z__uh i've been uh finishing up the uh double checking .__c0
+__z__i hoped to have had that done by today .__c0
+__z__but it's going to take one more week .__c0
+__z__um ==__ca
+__z__as a somewhat segue into the next topic um - could i get a hold of uh - the data even if it's not really corrected yet ?__ca
+__z__i g- ==__c3
+__z__just so i can get the data formats .__ca
+____and make sure the information retrieval stuff is working .__ca
+__z__certainly .__c0
+__z__yeah i mean it's in the same place it's been .__c0
+__z__so can you just ?==__ca
+____oh it is ?__ca
+____okay .__ca
+__s^bk|s^t^tc__uhhuh no change .__c0
+__s^tc__just - so transcripts is the sub directory ?__ca
+__s^bk__uh | yes uhhuh .__c0
+__s.%--__okay .__ca
+__s__so i'll - i'll probably just make some copies of those .__ca
+__s__rather than use the ones that are there .__ca
+__s__okay .__c0
+__s^m__um | and then just - we'll have to remember to delete them once the corrections are made .__ca
+__s__okay .__c0
+__s^bk__okay | wh- ==__c1
+__s__i also got anot- - a short remark to the transcription .__c3
+__b__i've uh just processed the first five e d u meetings .__c3
+__s^bu__and they are chunked up .__c3
+__s^aa__so they would - they probably can be sent to i b m .__c3
+__b__whenever they want them .__c3
+__qy^d^g__well the second one of those ==__c5
+__s^bk__cool .__c2
+__qy^rt__yep | it's already at i b m .__c3
+__s^rt__is already at i b m .__c5
+__s^rt__but the other ones ==__c3
+__s^rt__that's the one that we're waiting to hear from them on .__c5
+__s^rt__yeah .__c3
+__s^rt__yeah .__c3
+__s^rt__yeah .__c5
+__s^rt__okay .__c0
+__s__these are separate from the ones that ==__c0
+__s^rt__as soon as ==__c5
+__s^rt__i mean these are ==__c0
+__%--__they're the i b m set .__c5
+__b__it's this one .__ca
+__s__yep .__c3
+__s^rt__excellent .__c0
+__s^rt__yeah .__c5
+__s__good .__c0
+__s^bsc.%--__is my mike on ?__ca
+__s^rt__and so as soon as we hear from brian that this one is okay .__c5
+__s^df^rt__yeah .__ca
+__b__and we get the transcript back .__c5
+__s__and we find out that hopefully there are no problems matching up the transcript with what we gave them .__c5
+__s^df__then uh we'll be ready to go and we'll just send them the next four as a big batch .__c5
+__s^bk|sj^ba__excellent .__c0
+__qy^rt__and let them work on that .__c5
+__s^aa__and so we're doing those as disjoint from the ones we're transcribing here ?__ca
+__sj^ba^df__yes .__c5
+__s^bk^rt__okay good .__ca
+__sj^bu__exactly .__c5
+__qy^d^g^rt__we're sort of doing things in parallel .__c5
+__s^aa__that way we can get as much done a- - at once .__c5
+__s^bk__yeah i think that's the right way to do it .__ca
+__s^bk__yeah .__c5
+__sj^ba__especially for the information retrieval stuff .__ca
+__fh__anything else on transcription status ?__ca
+__s__hm-huh .__c0
+__s__okay .__ca
+__s^rt__darpa demos .__c1
+__s__we had the submeeting the other day .__c1
+__s__right | which uh ==__ca
+__s__so i've been working on using the thisl tools to do information retrieval on meeting data .__ca
+__s^bk|sj^ba^rt__and the thisl tools are - there're two sets there's a back end and a front end .__ca
+__s__so the front end is the user interface .__ca
+__b__and the back end is the indexing tool and the querying tool .__ca
+__s__and so i've written some tools to convert everything into the right for- - file formats .__ca
+__s__and the command line version of the indexing and the querying is now working .__ca
+__b__so at least on the one meeting that i had the transcript for - uh conveniently you can now do information retrieval on it .__ca
+__b__do - type in a - a string and get back a list of start end times for the meeting .__ca
+__b__uh of hits .__ca
+__qy^rt__what - what kind of uh - what does that look like the string that you type in ?__c5
+__s^aa__what are you - are you - are they keywords or are they ?==__c5
+__s__keywords .__ca
+__s^bk|qy^rt__okay .__c5
+__s^bk__i see .__c5
+__b__right and so - and then it munges it to pass it to the thisl i r which uses an s g m l like format for everything .__ca
+__s^tc.%--__i see .__c5
+__s__and then - does it play something back ?__c1
+__s^cs__or that's something you're having to program ?__c1
+__b__um right now i have a tool that will do that on a command line using our standard tools .__ca
+__s.%--__yeah .__c1
+__s^no__but my intention is to do a prettier user interface based either ==__ca
+__qy^rt__so - so that's the other thing i wanted to discuss is well what should we do for the user interface .__ca
+__s^cs__we have two tools that have already been written .__ca
+__b__um | the softsound guys did a web based one .__ca
+__b__uhhuh .__c1
+__b__um | which i haven't used haven't looked at .__ca
+__qw__dan says it's pretty good .__ca
+__h|s__uhhuh .__c1
+__b.%__but it does mean you need to be running a web server .__ca
+__fh__uhhuh .__c1
+__s^bk__and so it - it's pretty big and complex .__ca
+__s__uh | and it would be difficult to port to windows .__ca
+__fh__because it means porting the web server to windows .__ca
+__fg__uhhuh .__c1
+__s^cc__uh the other option is dan did the tcl t k thisl gui front end for broadcast news .__ca
+__b^rt__yeah .__c1
+__s^e__which i think looks great .__ca
+__s^bk__i think that's a nice demo .__ca
+__fh__um and that would be much easier to port to windows .__ca
+__qy^rt__and so i think that's the way we should go .__ca
+__s^df__i - can i ask a question ?__c0
+__s^aa__uhhuh .__ca
+__h|s__so um | as it stands within the - the channeltrans interface it's possible to do a find and a play .__c0
+__s^cs__you can find a searched string and play .__c0
+__s^e__so e- - are you - so you're adding like um - i don't know uh are they fuzzy matches or are they uh ?==__c0
+__qy^cs^d^rt__it's a sort of standard text-retrieval-based .__ca
+__qo^rt__so it's uh term frequency inverse document frequency scoring .__ca
+__s^bk^rt__okay .__c0
+__qw__um | and then there are all sorts of metrics for spacing .__ca
+__h|s.%-__how far apart they have to be and things like that .__ca
+__qy^d^rt__so it - it's ==__ca
+__qy^d^g^rt__it's a lot more sophisticated than the uh - the basically windows based .__c0
+__h|s__i- - it's like doing a google query or anyth- - anything else like that .__ca
+__qy^cs^d^rt__so i- - it uses - so it pr- - produces an index ahead of time .__ca
+__s^aa__okay .__c0
+__qy^d^r^rt__so you don't - you're not doing a linear search through all the documents .__ca
+__s^rt__because you can imagine if - with - if we have the sixty hours' worth you do - wouldn't want to do a search .__ca
+__s^bk__hm-huh .__c0
+__s__um you have to do preindexing .__ca
+__b__good .__c0
+__b__and so that - these tools do all that .__ca
+__qy^bu^d^rt__and so the work to get the front end to work would be porting it ==__ca
+__qw^br__well | uh to get it to work on the unix systems our side is just rewriting them and modifying them to work for meetings .__ca
+__qy^bu^d^r^rt__so that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just sort of things like that .__ca
+__s^bk.%__uhhuh .__c1
+__s^aa__uhhuh .__c1
+__s^cs__uhhuh .__c9
+__s^ng__so what does the user see as the result of the query ?__c5
+__s^bk__on which tool ?__ca
+__s__thisl .__c5
+__s__the thisl gui tool which is the one that dan wrote tcl t k .__ca
+__s__yeah .__c5
+__s^bk__um | you type in a query and then you get back a list of hits .__ca
+__s^cs__and you can type on them and listen to them .__ca
+__sj^ba__click on them rather with a mouse .__ca
+__fg__uh .__c5
+__s.%--__so if you typed in small heads or something you could ?==__c5
+__h__huh .__c1
+__s__right | you'd get ==__ca
+__s^bd__get back a uh uh - something that would let you click and listen to some audio where that phrase had occurred .__c5
+__fh|s.x__something ==__ca
+__s.%--__you - you'd get to listen to beep .__ca
+__s^bk__or some- ==__c5
+__s__that was a really good look .__c1
+__b^rt__it's too bad that that couldn't come into the ==__c1
+__s^rt__you couldn't get a video .__ca
+__b__guess who i practice on .__c9
+__s__at some point we're going to have to say what that private joke is .__c0
+__s__that keeps coming up .__c0
+__b__yeah .__c1
+__s__and then again maybe not .__c1
+__s__so uh ==__c1
+__s__yeah that soun- - that sounds reasonable .__c1
+__b__yeah it loo- - it - my - my recollection of it is it's - it's a pretty reasonable - uh demo sort of format .__c1
+__s__right .__ca
+__s:qw__yeah that sounds good .__c5
+__s^f__and so i think there'd be minimal effort to get it to work minimally .__ca
+__b__that sounds really neat .__c5
+__s__and then we'd want to add things like query by speaker and by meeting and all that sort of stuff .__ca
+__b__um dave gelbart expressed some interest in working on that .__ca
+__b__so i'll work with him on it .__ca
+__qh__and it - it's looking pretty good .__ca
+__s__you know the fact that i got the query system working .__ca
+__b__so if we want to just do a video based one i think that'll be easy .__ca
+__s__uhhuh .__c1
+__s__if we want to get it to windows it's going to be a little more work .__ca
+__s__because the thisl i r - the information retrieval tool's - um ==__ca
+__s.%--__i had difficulty just compiling them on solaris .__ca
+__s__uhhuh .__c1
+__s.%--__so getting them to compile on windows might be challenging .__ca
+__s__uhhuh .__c1
+__s__but you were saying that - that the uh - that there's that set of tools uh cygnus tools that ==__c5
+__s__so ==__ca
+__s__it certainly helps .__ca
+__s__uhhuh .__c5
+__s^rt__um i mean without those i wouldn't even attempt it .__ca
+__s__yeah .__c5
+__s.%--__uhhuh .__c1
+__b__but what those - they - what those do is provide sort of a b s d compatibility layer .__ca
+__s^rt__so that the normal unix function calls all work .__ca
+__s__uhhuh .__c1
+__sj^df__uhhuh .__c1
+__s__um ==__ca
+__b__and you have to have all the o- ==__c5
+__b__but the problem is that - that the thisl tools didn't use anything like autoconf .__ca
+__b__and so you have the normal porting problems of different header files and th- - some things are defined and some things aren't .__ca
+__s.%--__and uh - different compiler work arounds and so on .__ca
+__s__so the fact that - um it took me a day to get it c- - to compile under solaris means it's probably going to take me s- - significantly more than that to get it to compile under windows .__ca
+__qy__how about having it run under free b s d ?__c1
+__qy^rt__well what you need ==__c4
+__qy^d^rt__free b s d would probably be easier .__ca
+__qw__all you need to do is say to dan gee it would be nice if this worked under autoconf and it'll be done in a day .__c4
+__qy__that's true .__ca
+__qy^d^rt__right ?__c4
+__s__uh ==__c3
+__s__actually you know i should check .__ca
+__s__because he did port it to sprachcore .__ca
+__s__right .__c4
+__s.%--__so he might have done that already .__ca
+__s__i - i - i wouldn't be surprised .__c4
+__s__so ==__c1
+__s^e__i'll check at that .__ca
+__fh|s__how does it play ?__c5
+__s__what i ==__c4
+__s__but it would - what would serve - would serve both purposes is if you contact him and ask him if he's already done it .__c1
+__s__yeah right .__ca
+__s__if he has then you learn .__c1
+__s__if he hasn't then he'll do it .__c1
+__s__right .__ca
+__s__wow .__c0
+__s^rt__i hope he never listens to these meetings .__c5
+__s__that's right .__ca
+__s.%--__so | and i've been corresponding with dan and also with uh - uh - softsound guy uh ==__ca
+__s__it's amazing .__c0
+__b__yeah .__c1
+__b__blanking on his name .__ca
+__sj__tony robinson ?__c5
+__s__tony robinson ?__c1
+__qw.%__do i mean tony ?__ca
+__s__i guess i do .__ca
+__s__yeah .__c1
+__b__or s- - or steve renals .__ca
+__s.x__james christie .__c4
+__s__which one do i mean ?__ca
+__fh__steve renal- - steve renals .__c1
+__qh__steve renals is not softsound .__c4
+__s^fe__is he ?__c4
+__%-__no .__c1
+__qh__my brain is not working .__ca
+__s.%-__i don't remember who i've been corresponding with .__ca
+__s^ar__okay .__c1
+__sj^cs__steve wro- - i- - it's ste- - steve renals wrote thisl i r .__c4
+__s__then it's steve renals .__ca
+__qh^cs.%--__okay .__c4
+__s__oh okay .__c1
+__b.x__so uh just getting documentation and uh and f- - and formats .__ca
+__qw^rt__yeah .__c1
+__h|s.x__so that's all going pretty well .__ca
+__s.%-__i think we'll be okay with that .__ca
+__b.x__right .__c4
+__s^bk.x__assuming we're ==__c1
+__s.%--__what about issues of playing sound files between the two platforms ?__c5
+__sj^ba__um ==__ca
+__s^bk__we have ==__ca
+__b__well that's a good point too .__ca
+__s__here's a - here's a crazy idea actually .__c4
+__s.%--__i don't know .__ca
+__s^2__why don't you try and merge transcriber and thisl i r ?__c4
+__b__well this is one of the reasons ==__ca
+__s^bk__they're both tcl interfaces .__c4
+__s^bc__this is the - one of the reasons that i'm going to have uh dave gelbart - gelbart .__ca
+__b__having him volunteer to work on it is a really good thing .__ca
+__b__because he's worked on the transcriber stuff .__ca
+__s^bk__right .__c4
+__b__and he's more familiar with tcl t k than i am .__ca
+__b__and then you get - they - then you get the windows media playing for free .__c4
+__b__well - that's snack not - not transcriber .__ca
+__s__right | but the point is that the transcriber uses snack and then you can - but you can use a - a lot of the same functionality .__c4
+__s__yeah yeah | i mean i - i think thisl - thisl gui probably uses snack .__ca
+__b__and it's ==__c4
+__b__and so my intention was just to base it on that .__ca
+__s^cs__yeah .__c4
+__s__well my thought was is that it would be nice - it would be nice to have the running transcripts - um uh you know from speaker to speaker .__c4
+__b__and if it doesn't ==__ca
+__%-__right ?__c4
+__%--__do you have - you have you know a speaker mark here and a speaker mark here ?__c4
+__%--__right | we'll have to figure out a user interface for that so .__ca
+__s^t^tc__right | well that - uh my thought was if you had like multitrans or whatever do it .__c4
+__qy.%--__or whatever .__c4
+__s^df__yeah .__ca
+__s__it might be fairly difficult to get that to work in the little short segments we'd be talking about .__ca
+__b__and having the search tools and so on .__ca
+__b__we - we can look into it .__ca
+__s__but ==__ca
+__b__yeah .__c4
+__s__the thing i was asking about with um free b s d is that it might be easier to ==__c1
+__b__get powerpoint shows running in free b s d than to get this other package running in ==__c1
+__sj^ba__yeah i mean we have to - i have to sit down and try it before i make too many judgments .__ca
+__s__yeah .__c1
+__b__so uh ==__ca
+__b__um ==__ca
+__s.%--__my experience with the gnu compatibility library is really - it's just as hard and just as easy to port to any system .__ca
+__s.%--__right ?__ca
+__s__the windows system isn't any harder .__ca
+__s__because it - it looks like a b s d system .__ca
+__s__uhhuh .__c1
+__b^rt__it's just you know - just like all of them the include files are a little different and the function calls are a little different .__ca
+__s__right .__c1
+__s__so i - it might be a little easier .__ca
+__qh__but it's not going to be a lot easier .__ca
+__b__okay .__c1
+__s__so there was that demo which was one of the main ones .__c1
+__b__and then we talked about - um some other stuff .__c1
+__s.%--__which would basically be - um showing off the - the transcriber interface itself .__c1
+__s__and as you say maybe we could even merge those in some sense .__c1
+__b__but - but um ==__c1
+__s__uh - | and part of that was showing off what the speech non - uh nonspeech stuff that thilo has done s- - looks like .__c1
+__b__yeah .__c3
+__qy^d^f__can i ask one more thing about thisl ?__c0
+__s__uhhuh .__ca
+__s__so with the i r stuff then you end up with a somewhat prioritized um ?==__c0
+__s.%--__uhhuh .__ca
+__b__ranked .__ca
+__s__excellent .__c0
+__s:qy__excellent .__c0
+__b^rt__yeah .__c0
+__s__so another idea i w- - t- - had just now actually for the demo was whether it might be of interest to sh- - to show some of the prosody - uh work that don's been doing .__c9
+__s__uhhuh .__c1
+__s__um | actually show some of the features .__c9
+__b__and then show for instance a task like finding sentence boundaries or finding turn boundaries .__c9
+__s__um ==__c9
+__s__you know you can show that graphically sort of what the features are doing .__c9
+__b__it - you know it doesn't work great but it's definitely giving us something .__c9
+__s__well i think it ==__c1
+__b__i don't know if that would be of interest or not .__c9
+__qy^d^f^g^rt__at the very least we're going to want something illustrative with that .__c1
+__b__because i'm going to want to talk about it .__c1
+__fh__and so i- - if there's something that shows it graphically it's much better than me just having a bullet point .__c1
+__fh__yeah .__c9
+__b.%__pointing at something i don't know much about .__c1
+__s__i mean you're looking at this now .__c9
+__b.%__so ==__c1
+__s__are you looking at waves or matlab ?__c9
+__b__um | yeah i'm starting to .__c2
+__b__and ==__c2
+__b__um ==__c2
+__b__yeah we can probably find some examples of different type of prosodic events going on .__c2
+__fg|s__yeah def- ==__c9
+__s__s- - so when we here were having this demo meeting what we're sort of coming up with is that we want to have all these pieces together to first order by the end of the month .__c1
+__s__i- ==__c9
+__b__and then that'll give us a week or so .__c1
+__qy^rt__oh the end of this month or next month ?__c9
+__s^bu__ooo the end of ==__c2
+__qy^d^g^rt__this month .__ca
+__s^aap__oh | you mean like today ?__c9
+__s__ju- ==__c1
+__s^bk^rt__oh .__c9
+__b__oh sorry | next month .__ca
+__s__june june june .__c1
+__s^aa__next month .__c9
+__s^aa__yeah .__c2
+__s__sorry .__c9
+__b__today isn't june first .__ca
+__s^aa__there's another one .__c5
+__s__is it ?__ca
+__b__exactly .__c4
+__s__uh | that'll - that'll give us - that'll give us a week or so to uh - to port things over to my laptop and make sure that works .__c1
+__b__sorry .__c9
+__s.%--__i think - i mean uh where ==__c9
+__qy^rt__yeah .__c1
+__s^bu__yeah | i mean i'll be here .__c2
+__s^aa^rt__yeah if d- - if don can sort of talk to whoever's ==__c9
+__s.%--__because we're doing this anyway as part of our - you know the research .__c9
+__s.%-__yeah .__c1
+__s^ar__visualizing what these features are doing .__c9
+__s.%--__yeah .__c1
+__qy^bu.%--__and so either ==__c9
+__s__it might not be integrated .__c9
+__s^am__but it - it could potentially be in it .__c9
+__b__could find some .__c9
+__s^aa__yeah well this is to an audience of researchers .__c1
+__fh|s__so i mean you know ==__c1
+__s^rt__to let s- - the goal is to let them know what it is we're doing .__c1
+__s^bk__i mean it's different .__c9
+__s^rt__so that's ==__c1
+__s^rt__i don't think anyone has done this on meeting data .__c9
+__b__so it might be neat you know .__c9
+__s^rt__yeah .__c1
+__s__good .__c1
+__s__done with that .__c1
+__fh|s__x m l tools ?__c1
+__s^aa__um ==__ca
+__s^df__so i've been doing a bunch of x m l tools .__ca
+__s__where you - we're sort of moving to x m l as the general format for everything .__ca
+__s__and i think that's definitely the right way to go .__ca
+__s__because there are a lot of tools that let you do extraction and reformatting of x m l tools .__ca
+__s__um ==__ca
+__fg|s^bk__so yet again we should probably meet to talk about transcription formats in x m l .__ca
+__fg|s__because i'm not particularly happy with what we have now .__ca
+__s^bu__i mean it works with transcriber .__ca
+__s^aa__but it - it's a pain to use it in other tools .__ca
+__b__uh because it doesn't mark start and end .__ca
+__s^aa|s__start and end of each ?==__c5
+__s^aa__uh ==__ca
+__b__yeah .__c3
+__s^m__utterance .__ca
+__b.%__utterance .__c5
+__fh|s__just marks ?__c5
+__s__so it's implicit in - in there .__ca
+__s__but you have to do a lot of processing to get it .__ca
+__b__yeah .__c5
+__s^f__right .__c5
+__s__right .__c5
+__s.%--__and so - and also i'd like to do the indirect time line business .__ca
+__s__um but regardless i mean w- - that's something that you me and jane can talk about later .__ca
+__b__um - | but i've installed x m l tools of various sorts in various languages .__ca
+__qy^d^f^g^rt__and so if people are interested in doing - extracting any information from any of these files .__ca
+__s^aa__either uh information on users because the user database is that way .__ca
+__s.%--__i'm converting the key files to x m l so that you can extract m- - uh various inf- - uh sorted information on individual meetings .__ca
+__b__cool .__c2
+__s__yeah .__c3
+__b__and then also the transcripts .__ca
+__s.%--__and so l- - just let me know there .__ca
+__s__it's mostly java and perl .__ca
+__s__but we can get other languages too if - if that's desirable .__ca
+__s.%--__oh quick question on that is - do we have the - the seat information ?__c9
+__b__in - in the key files now ?__c9
+__s__uhhuh .__c0
+__s__the seat information is on the key files for the ones which ==__ca
+__s^aa.%__uh ==__c0
+__s__oh in ==__c9
+__s__it's been recorded .__ca
+__s.%--__for the new one .__c9
+__s__okay .__c9
+__b__yeah .__ca
+__h|s__seat ?__c1
+__s__great .__c9
+__b__sea- - yeah .__c9
+__b__where - where you're sitting .__ca
+__s__oh | not - not the quality or anything no .__c1
+__s^aa__n- ==__c3
+__s__right .__ca
+__fg__okay i see .__c1
+__s^no__it's pretty soft and squishy .__ca
+__s^bk__yeah .__c1
+__qy^t3__all right .__c9
+__s.%--__yeah .__c1
+__s^aa__okay .__c1
+__b__oh but that might just be me .__ca
+__%-__okay .__c9
+__s__um ==__ca
+__s^bk__all right .__c9
+__s__that's more seat information than we wanted .__c1
+__b__never mind .__c9
+__fg|s.%--__huh ==__c4
+__s.%-__i'm just trying to figure out you know when morgan's voice appears on someone's microphone are they next to him or are they across from him .__c9
+__s^bk__maybe we should bleep that out .__ca
+__s__yeah .__c1
+__s__huh yeah .__c1
+__b__wait a minute .__c5
+__s^aa__right .__ca
+__b__how - how w- - uh where is it in the key file ?__c5
+__b.%__yeah .__c1
+__h|s.%--__the square bracket .__ca
+__%--__because i mean i haven't been putting it in .__c9
+__s^cc__and - in by ==__c9
+__s__you haven't been putting it in .__ca
+__qw.%--__right .__c9
+__s__i have not .__c9
+__s^bk|s__well bu- ==__c0
+__s^bu__oh okay .__ca
+__s^aa__isn't it always on the digits ?__c0
+__qy^d^g^rt__and ==__c9
+__s__some of these are missing .__c1
+__s^e__aren't they ?__c1
+__x__isn't it always on the digits forms ?__c0
+__s^aa|s__some fall out of ==__c1
+__s^bk|s.%--__well it- ==__c9
+__qo__yeah | so we can go back and fill them in for the ones we have .__ca
+__qo__ooo .__c2
+__qo__i mean they're on th- - right - these .__c9
+__s__but i just hadn't ever been putting it in the key files .__c9
+__s__yeah i - i never ==__c5
+__s__and i don't think chuck was either .__c9
+__b__i never knew we were supposed to put it in the key file .__c5
+__s.%--__because ==__c9
+__s__i had told you guys about it .__ca
+__s__oh | so we're both sorry .__c9
+__s__but ==__ca
+__s^df.%--__oh really ?__c5
+__s__so ==__c9
+__fg|s^aa__i mean this is why i want to use a g- - a tool to do it rather than the plain text .__ca
+__s^aa__okay .__c9
+__qy^d^f^g^rt__because with the plain text it's very easy to skip those things .__ca
+__s.%--__okay .__c5
+__fh__okay .__c9
+__s__so ==__ca
+__s__um if you use the edit key ==__ca
+__b.%__or key edit .__ca
+__s^rt.%--__i think it's edit key command .__ca
+__s^f^rt__edit key .__c3
+__s__did i show you guys that ?__ca
+__b__yep .__c3
+__qy^d^g^rt__i did show it to you .__ca
+__s__you mentioned it .__c5
+__s__but i think you both said no you'll just use text file .__ca
+__s__yeah yeah .__c5
+__s__text .__c5
+__s^f__um | it has it in there a place to fill it in .__ca
+__s__okay .__c9
+__s__okay .__c5
+__fg.%__yeah and so if you don't fill it in you're not going to get it in the meetings .__ca
+__fh__so if ==__c9
+__b__so ==__ca
+__s.%--__right well i - i just realized i hadn't been doing it .__c9
+__s__yep .__ca
+__s__and probably - so ==__c9
+__s__yeah and then the other thing also that thilo noticed is on the microphone .__ca
+__b__u- ==__c2
+__s__on channel zero it says hand held mike or crown mike .__ca
+__s^aa|s__yeah .__c9
+__b__right .__c9
+__s^t1__you actually have to say which one .__ca
+__s__i know .__c9
+__s.%--__yeah i usually delete the ==__c9
+__b__so ==__ca
+__b__i don't ==__c9
+__fh__oh okay | i didn't do that either .__c5
+__fg__maybe i forgot to d- ==__c9
+__s^rt__yeah .__c3
+__s__takes me no time at all to edit these .__c5
+__s__but it's almost ==__c9
+__b.%__yeah .__c9
+__b__yeah that's because you kn- ==__ca
+__s__i'm not doing anything .__c5
+__s__i - i know why .__ca
+__b__and i was - i was looking at chuck's like oh what did chuck do .__c9
+__fh__okay i'll do that .__c9
+__s^rt.%--__so ==__c9
+__s__and then uh also in a couple of places instead of filling the participants under participants they were filled in under description .__ca
+__b__uh okay .__c1
+__s__uh ==__c9
+__b__and so that's also a problem .__ca
+__b__so anyway .__ca
+__s__we will do better .__c9
+__qw^br^rt__that's it .__ca
+__s__oh uh | also i'm working on another version of this tool .__ca
+__qy__the - the one that shows up here that will flash yellow if the mike isn't connected .__ca
+__s.%-__and it's not quite ready to go yet .__ca
+__s__because um it's hard to tell whether the mike's connected or not .__ca
+__s^aa__because the best quality ones - the crown ones - are about the same level if they're off .__ca
+__s__and no one's o- - off or if they're on and no one's talking .__ca
+__fh__huh .__c2
+__s__um these - these ones they are much easier .__ca
+__s__there's a bigger difference .__ca
+__s^aa^rt__so i'm working on that .__ca
+__b__and it - it sort of works .__ca
+__b__and so eventually we will change to that .__ca
+__qw^br__and then you'll be able to see graphically if your mike is dropping in or out .__ca
+__b__will that also include like batteries dying ?__c2
+__qw^cs__yep .__ca
+__s^df^no__just a- - any time the mike's putting out zeros basically .__c2
+__s__yep .__ca
+__s^arp__yep .__ca
+__s^cc__but with the screensaver kicking in it ==__c5
+__s^cc__now ==__ca
+__s^df__but ==__c3
+__b__y- - yeah .__c3
+__fh__well i'll turn off the screensaver too .__ca
+__s__yeah .__c2
+__s__yeah .__c3
+__s__oops !__c2
+__s.%--__um | the other thing is as i've said before it is actually on .__ca
+__s^bk__speaking of which .__c2
+__s^t.%--__the thing .__ca
+__s__there's a little level meter .__ca
+__s__but of course no one ever pays attention to it .__ca
+__s^bk|s^ar.%--__so i think having it on the screen is more easy to notice .__ca
+__s^ng__it would be nice if - if these had little light indicators .__c0
+__s^rt__little l e d's for ==__c0
+__s^rt__uh buzzer .__ca
+__s.%--__yeah a buzzer .__c0
+__s__bamp bamp !__ca
+__s.%--__small shocks .__c1
+__sj^ba__yeah .__c0
+__s.%--__actually ==__c0
+__s__administered to the ==__c1
+__s__okay .__c1
+__b__okay disk backup et cetera ?__ca
+__fg|s__oh ==__c1
+__s^rt__um i spoke with dave johnson about putting all the meeting recorder stuff on non backed up disk to save the overhead of backup .__ca
+__b__and he pretty much said yeah you could do that if you want .__ca
+__fh|s__but he thought it was a bad idea .__ca
+__s^no__in fact what he said is doing the manual one - doing uh n w archive to copy it - is a good idea .__ca
+__s__and we should do that and have it backed up .__ca
+__b__he w- - he's a firm believer in - in lots of different modalities of backup .__ca
+__s__i mean his point was well taken .__ca
+__fh__this data cannot be recovered .__ca
+__s__yeah .__c9
+__s__and so if a mistake is made and we lose the backup we should have the archive .__ca
+__s__and if then a mistake is made and we lose the archive we should have the backup .__ca
+__fg|s.%--__well i guess it is true that even with something that's backed up it's not going to ==__c1
+__s^bk^m__if it's stationary it's not going to go through the increment- - it's not going to burden things in the incremental backups .__c1
+__qy^rt.%--__just - just the monthly full .__ca
+__qw.%-__huh ==__c0
+__s^aa|s__yeah | so the monthly full will be a bear .__c1
+__b__but ==__c1
+__s__yeah but he said that - that we sh- - shouldn't worry too much about that .__ca
+__s^bsc__that we're getting a new backup system .__ca
+__qy__and we're far enough away from saturation on full backups that it's w- - probably okay .__ca
+__s^ar__really ?__c1
+__s^ar^r|s__and uh | so the only issue here is the timing between getting more disks and uh - recording meetings .__ca
+__s^bk__so i guess the idea is that we would be reserving the non backed up space for things that took less than twenty four hours to recreate or something like that .__c1
+__sj^ba__things that are recreatable easily and also - yeah basically things that are recreatable .__ca
+__s^aa|s__right ?__c1
+__b.x__yeah .__c1
+__s__yeah .__c1
+__s^ar__the expanded files and things like that .__ca
+__s^ar^m|s__okay .__c1
+__b.x__they take up a lot more room anyway .__ca
+__s^bk__yeah .__c1
+__s__uh but we do need more disk .__ca
+__b__so we can get more disk .__c1
+__s__yeah .__ca
+__b__yeah - so .__c1
+__s^aa__and i - i think i agree with him .__ca
+__s^aa__i mean his point was well taken that if we lose one of these we cannot get it back .__ca
+__qw^br^rt__okay .__c1
+__s.%--__i don't think there was any other et cetera there .__ca
+__s^r__well i was allowing someone else to come up with something related that they had uh ==__c1
+__s__i thought you guys were going to burn c d's .__c4
+__%-__um | unfortunately - we could burn c d's but first of all it's a pain .__ca
+__b__yeah .__c4
+__s__because you have to copy it down to the p c and then burn it .__ca
+__s__and that's a multi step procedure .__ca
+__b__and second of all the - the write once burners as opposed to a professional press don't last .__ca
+__s__yeah .__c4
+__s__so i think burning them for distribution is fine .__ca
+__s__but burning them for backup is not a good idea .__ca
+__s__i see .__c4
+__s.%--__because th- - they - they fail after a couple years .__ca
+__s__okay .__c4
+__s__all right .__c4
+__s__i do have uh uh - it's a different topic can i add one top- - topic .__c0
+__s__we have time ?__c0
+__b__i wanted to ask ==__c0
+__s__i know that uh that thilo you were um - bringing the channeltrans interface onto the windows machine .__c0
+__b__yeah it's - it - basically it's done .__c3
+__s__and i wanted to know is th- ==__c0
+__s^2.%--__yeah .__c3
+__b__it's all done that's g- - wonderful great .__c0
+__b__yeah .__c3
+__s__yes since tcl t k runs on it basically things will just work .__ca
+__s^aap^rt__yeah it ==__c3
+__s__yeah it was just a problem with the snack version and the transcriber version .__c3
+__sj^ba__but it's solved .__c3
+__%-__so ==__c3
+__s.%--__does - and that - does that mean i ?==__c0
+__s.%--__maybe i should know this but i don't .__c0
+__s__does this mean that the - that this could be por- - uh ported to a think pad note- - or some other type of uh ?==__c0
+__s__yeah basically uh i did install it on my laptop .__c3
+__s:s__and - yeah .__c3
+__b^rt__wonderful .__c0
+__s__it worked .__c3
+__s^bk^rt__wonderful .__c0
+__s^bk__huh !__c1
+__s.%-__good .__c1
+__s^bk__crosspads ?__c1
+__fg|s__uh i got an email from uh - james landay .__ca
+__fg|%-__who basically said if you're not using them could you return them .__ca
+__s^bk__so he said he doesn't need them he just periodically w- - at the end of each term sends out email to everyone who was recorded as having them .__ca
+__s^bk__and asks them if they're still using them .__ca
+__s__so we've never used them .__c1
+__s__we used them once .__c0
+__qy.%--__we - we used them a couple times .__ca
+__s__once ?__c1
+__s^aa__uhhuh .__c0
+__s__them ?__c5
+__s__but ==__ca
+__b__couple times .__c0
+__s.%-__there's more than one ?__c5
+__fg|s__yeah | we have two .__ca
+__b__yeah .__c0
+__s__i- ==__c1
+__s^rt__um ==__ca
+__b__but ==__c1
+__s__my opinion on it is ==__ca
+__s__first i never take notes anyway .__ca
+__s__so i'm not going to use it .__ca
+__b__um | and second it's another level of infrastructure that we have to deal with .__ca
+__s__and i have - uh so my - my feeling on it is that i think in principle it's a really nice idea .__c0
+__b__and you have the time tags which makes it better tha- - than just taking ra- - raw notes .__c0
+__b__on the other hand i - the down side for me was that i think the pen is really noisy .__c0
+__s.%--__so you have ka- - kaplunk kaplunk kaplunk .__c0
+__s__and i - and i don't know if it's audible on the ==__c0
+__s__but i - i sort of thought that was a disadvantage .__c0
+__b__i do take notes .__c0
+__s^rt__i mean i could be taking notes on these things .__c0
+__s^rt__and i guess the plus with the crosspads would be the time markings .__c0
+__fh|s.%--__but ==__c0
+__qo__i don't know .__c0
+__s^rt__uh | what is a crosspad ?__c3
+__s__so it's - it's um - it's a regular pad just a regular pad of paper but there's this pen which indicates position .__c1
+__fh|qo__thank you .__c2
+__b__and so you have time and position stuff stored .__c1
+__s^rt__okay .__c3
+__fg__so that you can - you have a record of whatever it is you've written .__c1
+__qy.%--__okay .__c3
+__s^rt__and then you can download it .__ca
+__s__and they have o c r and searching and all sorts of things .__ca
+__b__okay .__c3
+__qw.%--__okay .__c3
+__s.%--__so i- - if you take notes it's a great little device .__ca
+__s.%--__could - uhhuh ==__c0
+__fg__but i don't take notes .__ca
+__s.%--__and one of the reasons that it was brought up originally was because uh we were interested in - in higher level things .__c1
+__fg|s__so ==__ca
+__s^aa__not just the you know microphone stuff but also summarization and so forth .__c1
+__s__and the question is if you were going to go to some gold standard of what wa- - what was it that happened in the meeting - you know where would it come from .__c1
+__qw__and um | i think that was one of the things .__c1
+__h|s^rt__yeah .__c3
+__s^rt__yep .__ca
+__s^rt__yeah .__c9
+__s__right ?__c1
+__s.%-__and so the - it seemed like a neat idea .__c1
+__fh__we'll have a - you know have a scribe .__c1
+__s^bu.%--__have somebody uh take good notes and then that's part of the record of the meeting .__c1
+__b__and then we did it once or twice and we sort of ==__c1
+__qy^rt__yep | and then just sort of died out .__ca
+__qy.%--__probably chose the wrong scribe .__c1
+__qy.%--__but it was - it's uh ==__c1
+__qy^rt__yeah that's right .__ca
+__qrr^rt__i mean ==__c9
+__s^ar|s.%--__well i did it one time .__c0
+__s__but um ==__c0
+__fg__yep .__ca
+__s.%-__yeah .__c1
+__s^bk|s^bu__u- - but i guess the - the other thing i'm thinking is if we wanted that kind of thing i wonder if we'd lose that much by having someone be a scribe .__c0
+__s^bk^r__by listening to the tape - to the recording afterwards .__c0
+__b__and taking notes in some other interface .__c0
+__s^aa__i mean we're transcribing it anyways .__c5
+__s__why do we need notes ?__c5
+__s^bk__oh it's la- - it's useful .__c0
+__%-__because that's summary .__ca
+__s__have a summary and high points .__c0
+__s.%-__i think ==__c9
+__fg__summary .__c1
+__s__there's also ==__c9
+__s__there's this use that ==__c9
+__qy^d^rt__summarize it from the transcription .__c5
+__s^df__the ==__c9
+__s^df^no__well what if you're sitting there and you just want to make an x ?__c9
+__s^bk|s__and you don't want to take notes .__c9
+__s.%--__and you're - you just want to ==__c9
+__s^bk__doodle .__c5
+__qo__get the summary of the transcript from this time location .__c9
+__b__like - you know and - and then while you're bored you don't do anything .__c9
+__s__and once in a while maybe there's a joke and you put a x .__c9
+__fh__but ==__c9
+__s__in - in other words you can use that just to highlight times in a very simple way .__c9
+__b__also with - i was thinking - and i know morgan disagrees with me on this .__c9
+__s__but - suppose you have a group in here and you want to let them note whenever they think there might be something later that they might not want to distribute in terms of content .__c9
+__%--__they could just sort of make an x near that point .__c9
+__s^bk__or a question mark that sort of alerts them that when they get the transcript back they c- - could get some red flags in that transcript region .__c9
+__fg|s__and they can then look at it .__c9
+__s.%--__so ==__c9
+__s__i know we haven't been using it .__c9
+__s__but i w- - i can imagine it being useful just for sort of marking time periods .__c9
+__s__right .__ca
+__s.%--__which you then get back in a transcript .__c9
+__qy^d^rt__well .__c0
+__s.%--__i guess - so w- - you know what - what makes one think i- - is maybe we should actually schedule some periods where people go over something later .__c1
+__s__so ==__c9
+__s^bk|s^no__and - and - and put some kind of summary or something .__c1
+__qy__uh | you know some - there'd be some scribe who would actually listen w- - who'd agreed to actually listen to the whole thing .__c1
+__s__not transcribe it but just sort of write down things that struck them as important .__c1
+__%-__but then you don't - you don't have the time reference - uh that you'd have if you had it live .__c1
+__s__right .__c9
+__s^bk__and you don't have a lot of other cues that might be useful .__c9
+__s^bk__yeah .__c1
+__s^aa__how do you synchronize the time in the crosspad and the time of the recording ?__c5
+__%-__so ==__c9
+__s.%--__i mean that was one of the issues we talked about originally .__ca
+__s__and that- - that's w- - part of the difficulty is that we need an infrastructure for using the time - the crosspads .__ca
+__s^aa__and so that means synchronizing the time ==__ca
+__s__oh .__c9
+__fg|%-__you know you want it pretty close .__ca
+__s__uhhuh .__c0
+__b__and there's a fair amount of skew because it's a hand held unit with a battery .__ca
+__b__well | when - when i d- ==__c0
+__b__and so you ==__ca
+__fg|s__okay .__c0
+__fh__so you have to synchronize at the beginning of each meeting all the pads that are being used .__ca
+__s__so that it's synchronized with the time on that .__ca
+__s^aa__and then you have to download to an application .__ca
+__b__and then you have to figure out what the data formats are and convert it over if you want to do anything with this information .__ca
+__b__and so there's a lot of infrastructure which ==__ca
+__s__w- - uhhuh .__c0
+__s__why ?==__c4
+__b__there is an alternative .__c0
+__b__unless someone ==__ca
+__qy^rt.%--__there is an alternative .__c0
+__s__i mean it's still there's uh - you know your point stands about there be - needing to be an infrastructure .__c0
+__s^aa__but it doesn't have to be synchronized with the little clock's timer on it .__c0
+__s^aa|s__you c- - i mean i - when i - when i did it i synchronized it by voice .__c0
+__s^aa__by whispering one two three four onto the microphone .__c0
+__s__huh ==__ca
+__s^aa__and uh | you know .__c0
+__qw^br__well but then there's the infrastructure at the other end .__ca
+__s^r__right .__c4
+__b__which someone has to listen to that and find that point .__ca
+__%--__yeah it's transcribed .__c0
+__s__and then mark it .__ca
+__s__it's in the transcript .__c0
+__b^rt__so ==__ca
+__s__yeah .__c0
+__s__well it's in the transcript .__c0
+__b__well could we keep one of these things for another year ?__c9
+__sj^ba__would h- - i mean is there a big cau- ==__c9
+__b__we can keep all - both of them for the whole whole year .__ca
+__b__just - just in case we ==__c9
+__s__i mean it's just ==__ca
+__s.%--__even maybe some of the transcribers who might be wanting to annotate .__c9
+__s__uh f- - just there's a bunch of things that might be neat to do .__c9
+__fh__but i - it might not be the case that we can actually synchronize them and then do all the infrastructure .__c9
+__s__but we could at least try it out .__c9
+__s^aa__well | one thing that we might try um is on some set of meetings - some collection of meetings - maybe e d u is the right one or maybe something else .__c1
+__s^arp__we - we get somebody to buy into the idea of doing this as part of the task .__c1
+__s__i mean ==__c1
+__fh__right .__c9
+__s__uh part of the reason - i think part of the reason that adam was so interested in uh the speechcorder sort of f- - idea from the beginning is he said from the beginning he hated taking notes .__c1
+__fh__yep .__ca
+__s^no__and ==__c1
+__s__and so forth .__c1
+__b__so | and - and jane is more into it .__c1
+__fh__but uh uh ==__c1
+__qy.%-__you know i don't know if you want to really do - do this all the time .__c1
+__s.%--__so i think the thing is to - to get someone to actually buy into it .__c1
+__s^bk^rt__and have at least some series of meetings where we do it .__c1
+__s__um ==__c1
+__qy^d^rt__and if so it's probably worth having one .__c1
+__h__the p- - the - the problem with the - the more extended view ==__c1
+__%-__all these other you know with uh quibbling about particular applications of it ==__c1
+__s^aa|s__is that it looks like it's hard to get people to um - uh - routinely use it .__c1
+__s^df__i mean it just hasn't happened anyway .__c1
+__s^aa__but maybe if we can get a person to ==__c1
+__s.%--__yeah i don't think it has to be part of a- - what everybody does in a meeting .__c9
+__s__but it might be a useful neat part of the project .__c9
+__s^aa__that we can you know show off as a mechanism for synchronizing events in time .__c9
+__s^aa__that happen that you just want to make a note of .__c9
+__s__like what jane was talking about .__c9
+__s.%--__with some later browsing just - just as a convenience .__c9
+__s__even if it's not a full blown note taking substitute .__c9
+__fh__well if you wanted to do that maybe the right architecture for it is to get a p d a with a wireless card .__c4
+__fg|s^df.%--__and - and that way you can synchronize very easily with the - the - the meeting .__c4
+__b__because you'll be synchroni- - you can synchronize with the - the linux server .__c4
+__fg|s__and uh ==__c4
+__s__so what kind of input would you be ?==__c9
+__s__so - so i mean if you're not worried about ==__c4
+__s__buttons .__ca
+__s^aa__you'd just be pressing like a - a ?==__c9
+__fh__well - well you have a p d a .__c4
+__s^bk__and may- - and you could have the same sort of x interface or whatever .__c4
+__sj^ba__i mean you'd have to do a little uh - a little bit of coding to do it .__c4
+__s.%-__uhhuh .__c9
+__s__but you could imagine ==__c4
+__s^bk__yeah .__c9
+__b__that be good .__c9
+__qw.%--__i mean if - if all you really wanted was - you didn't want this secondary note taking channel .__c4
+__x__but just sort of being able to use m- - markers of some sort .__c4
+__fh__a p d a with a l- - a wireless card would be the - probably the right way to go .__c4
+__qy.%--__i mean even buttons you could do .__c4
+__qy^d^rt__sort of .__c4
+__qy^d^rt__i mean as you said .__c4
+__qrr.%-__i mean for what - what you've been describing buttons would be even more convenient than anything else .__ca
+__h|s__m- ==__c9
+__qy^rt__right .__c9
+__s.%--__right ?__ca
+__s^aa|s__that would be fine too .__c9
+__s^bk__you have the ==__ca
+__s__right .__c4
+__s.%--__i mean i don't have you know grandiose ideas in mind .__c9
+__s__but i'm just sort of thinking well we've - we're getting into the next year now .__c9
+__%-__and we have a lot of these things worked out at - in terms of the speech .__c9
+__s^aa__maybe somebody will be interested in this .__c9
+__fh__and ==__c9
+__s^bu__i like this p d a idea .__c0
+__s^aa|s.%--__yeah .__c0
+__b__yeah i do like the idea of having a couple buttons .__c1
+__s__well i'm sure there would ==__ca
+__b__yeah .__c9
+__%--__where like one - one button was uh oh .__c1
+__b__yeah .__c0
+__s.%--__and then another button was that's great .__c1
+__s__and another button that's f- ==__c1
+__s.%--__or like this is my i'm supposed to do this kind of button .__c9
+__s__yeah .__c0
+__%-__like i better remember to ==__c9
+__qy^rt^t1__action item .__ca
+__h__yeah .__c9
+__s^no^t1__something like that .__c9
+__qw.%-__or ==__c9
+__fg|s__i mean i think the crosspad idea is a good one .__ca
+__s__and then ==__c0
+__%-__uhhuh .__c0
+__s^bk__it's just a question of getting people to use it .__ca
+__s__and getting the infrastructure set up in such a way that it's not a lot of extra work .__ca
+__s__i mean that's part of the reason why it hasn't happened .__ca
+__qw.%__is that it - it's been a lot of extra work for me .__ca
+__s__yeah .__c9
+__b__right .__c1
+__b__and ==__ca
+__b__well and not just for you .__c0
+__s__w- ==__c9
+__s^bu__but it's also it has this problem of having to go from an analog to a d- - a digital record too .__c0
+__s^aa__doesn't it ?__c0
+__s^aa.%__well it's digital but it's in a format that is not particularly standard .__ca
+__s^bk__i mean ==__c0
+__qw.%-__but i mean say if i- - if - if you're writing - if you're writing notes in it does - it - it can't do handwriting recognition .__c0
+__s.%-__right ?__c0
+__s__no no | but it's just - it's just storing the pixel informa- - position information .__c1
+__qw^br__okay .__c0
+__s^r__it's all digital .__c1
+__s^df__i - i guess what i'm thinking is that the p d a solution you h- - you have it already without needing to go from the pixelization to a - to a ==__c0
+__%--__i mean ==__c0
+__s^bk__right .__c1
+__s.%--__you don't have to ==__c1
+__b__the transfer function is less errorful .__c4
+__qr^d__yes .__c4
+__h|s__yeah yeah .__c9
+__s^bk__yeah .__c1
+__s^df__oh nicely put .__c0
+__qw__yeah yeah .__c1
+__b__well it also - it's maybe realistic because people are supposed to be bringing their p d a's to the meeting eventually .__c9
+__s.%--__right ?__c9
+__b__that's why we have this little ==__c9
+__sj^ba__i don't know what - i don't want to cause more work for anyone .__c9
+__b__but i can imagine some interesting things that you could do with it .__c9
+__b__and so if we don't have to return it ==__c9
+__b__and we can keep it for a year ==__c9
+__b__i don't know .__c9
+__s__well | w- - we don't - we certainly don't have to return it .__ca
+__fg__as i said all - all he said is that if you're not using it could you return it if you are using it feel free to keep it .__ca
+__fg|s__the point is that we haven't used it at all .__ca
+__s__and are we going to .__ca
+__fh.%__so we have no ==__c1
+__s^cs__but - uh by i - i would suggest you return one .__c1
+__s^no__okay .__ca
+__qy^d^rt__yeah .__c9
+__qy^g^rt__because we - we you know we - we haven't used it at all .__c1
+__s^rt__we c- ==__c9
+__fh|qy^rt__we have some aspirations of using them .__c1
+__h|s^aa__one would probably be fine .__c9
+__s.%--__maybe we could do like a student project .__c9
+__s^aa|s__and ==__c1
+__s^rt__you know maybe someone who wants to do this as their main like s- - project for something would be cool .__c9
+__s__yeah .__c1
+__s^2__yep .__ca
+__s.%--__i mean if we had them out and sitting on the table people might use them a little more .__ca
+__s__maybe jeremy could sit in some meetings and press a button when there - when - when somebody laughed .__c1
+__b.%__although there is a little ==__ca
+__s^bk__well | i'm - yeah that's not a bad ==__c9
+__sj^ba__yeah yeah .__c1
+__sj^ba__yeah .__c1
+__s^rt__jeremy's going to be an - he's a new student starting on modeling brea- - breath and laughter actually .__c9
+__s^aa__which sounds funny .__c9
+__b__but i think it should be cool .__c9
+__b__so ==__c9
+__s.%--__yeah .__c1
+__b__sounds breathy to me .__ca
+__fh__okay .__c9
+__s.%--__breath and lau- ==__ca
+__fh__ha ha ha .__c9
+__qw^rt__ha ha ha ha .__ca
+__qrr^rt__ha ha ha ha .__ca
+__qy^d^g^rt__well dear !__c1
+__h__um ==__ca
+__s^ar__huh .__c1
+__%--__that reminded me of something .__ca
+__qy^rt__oh well .__ca
+__s^aa|s^na^rt__too late .__ca
+__b__it slipped out .__ca
+__s^bk__okay .__c1
+__s^bu__oh !__ca
+__s^aa|s^na__you're - you're going to tease me ?__c9
+__s__equipment .__ca
+__b__okay .__c9
+__s^rt__ordered ==__ca
+__b^rt__uh well i'm always going to do that .__ca
+__b__w- - uh | we ordered uh more wireless .__ca
+__s__and so they should be coming in at some point .__ca
+__b__great .__c9
+__s__and then at the same time i'll probably rewire the room as per jane's suggestion .__ca
+__s__so that uh the first n channels are wireless - uh are the m- - the close talking - and the next n are far field .__ca
+__s__you know what he means .__c1
+__s__but isn't that funny sounding ?__c1
+__b__we ordered more wireless .__c1
+__s__it's like wires are the things .__c1
+__s__so you're wiring  - you're - you're - you - we're - we ordered more absence of the thing .__c1
+__s^rt__that's a very philosophical statement from morgan .__c9
+__qo__wired less wired more .__ca
+__s^e__i just - it's sort of a anachronism .__c9
+__s__i mean it's like ==__c9
+__s^rt__it's great .__c9
+__s.%--__should we do digits ?__ca
+__s__anyway .__c1
+__qo^e__do we have anything else ?__ca
+__qo^e__yeah .__c1
+__qo^e__okay .__c0
+__qo^e__i mean there's - there's all this stuff going on uh between uh andreas and - and - and dave and chuck and others with various kinds of runs .__c1
+__s__uh um | recognition runs .__c1
+__s__trying to figure things out about the features .__c1
+__qo__but it's - it's all sort of in process .__c1
+__s.%--__so there's not much to say .__c1
+__s.%--__right now .__c1
+__s.%--__uh | why don't we start with our - our esteemed guest ?__c1
+__s__okay .__c4
+__b__all right .__c4
+__qy^d^f^g^rt__so just the transcript number and then the - then the ==__ca
+__s__this is ==__c4
+__s.%--__yes | this is number two for me today .__c4
+__b__see all you have to do is go away to move way up in the ==__c1
+__b__oh .__c4
+__s__we could do simultaneous .__c9
+__s__initiate him .__c9
+__s__we - we could .__c1
+__b__should we do simultaneous ?__ca
+__s__well | i'm just thinking are you going to try to save the data before this next group comes in ?__c9
+__s__yeah .__c1
+__s__yeah .__ca
+__s__absolutely .__ca
+__s__yeah so we might want to do it simultaneous .__c9
+__s^e.%--__i mean you hav- - sort of have to .__ca
+__b__right | so ==__c9
+__b__well | okay so let's do one of those simultaneous ones .__c1
+__s__so we might n- - we might need to do that actually .__c9
+__s__okay .__ca
+__b__that sounds good .__c1
+__%--__okay .__c4
+__s__everybody ready ?__c1
+__s__yeah .__c0
+__s__a one .__c1
+__b__you have to plug your ears by the way uh eric .__c9
+__s__well i have to .__ca
+__b__or ==__c9
+__s__i don't know about other people .__ca
+__s^rt__or you start laughing .__c9
+__b__okay all right .__c4
+__s^rt__you don't have to .__c3
+__s:s^fe^rt__okay .__c1
+__s^rt__a one and a two and a three .__c1
+__s__DIGIT_TASK__ca
+__s^rt__DIGIT_TASK__c1
+__fh__DIGIT_TASK__c3
+__s.%--__DIGIT_TASK__c5
+__s__DIGIT_TASK__c2
+__s__DIGIT_TASK__c9
+__s__DIGIT_TASK__c0
+__b__DIGIT_TASK__c4
+__b__okay babble take five .__c1

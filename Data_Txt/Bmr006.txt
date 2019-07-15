@@ -1,0 +1,1895 @@
+__z__channel one .__c3
+__z__test .__c9
+__z__hello .__c4
+__z__channel three .__c3
+__z__test .__c9
+__z__uhoh .__c0
+__z__so you think we're going now .__c8
+__z__yes ?__c8
+__z__okay good .__c8
+__z__all right .__c8
+__z__going again .__c8
+__z__uh - | so we're going to go around as before and uh do - do our digits .__c8
+__z__DIGIT_TASK__c8
+__z__DIGIT_TASK__c3
+__z__DIGIT_TASK__c0
+__z__DIGIT_TASK__c1
+__z__DIGIT_TASK__c4
+__z__okay this is barry chen and i am reading transcript ==__c2
+__z__DIGIT_TASK__c2
+__z__DIGIT_TASK__c9
+__z__uh - | yeah you don't actually n- - need to say the name .__c8
+__z__that'll probably be bleeped out .__c8
+__z__okay .__c2
+__fg|s^t^tc__so ==__c8
+__s__that's if these are anonymized .__c8
+__s__but yeah ==__c8
+__fh|s__oh okay .__c2
+__s^cs__uh - | i mean - not that there's anything defamatory about uh - eight five seven or or anything .__c8
+__fh|s__but ==__c8
+__fh|s.%--__uh | anyway .__c8
+__fh__okay .__c2
+__s^no__uh - | so here's what i have for - i - i was just jotting down things i think th- - w- - that we should do today .__c8
+__qw^rt__uh - | this is what i have for an agenda so far .__c8
+__qy.%--__um | we should talk a little bit about the plans for the uh - the field trip next week .__c8
+__h|s__uh - | a number of us are doing a field trip to uh uh - o g i .__c8
+__s__and uh - | mostly uh- - first though about the logistics for it .__c8
+__b__then maybe later on in the meeting we should talk about what we actually you know might accomplish .__c8
+__s__uh  ==__c8
+__fh|s__okay .__c2
+__s__uh | in and kind of go around - see what people have been doing - talk about that a r- - progress report um essentially .__c8
+__sj^ba__um - | and then uh - another topic i had was that uh - uh - uh - dave here had uh said uh give me something to do .__c8
+__sj^ba__and i - i have - i have uh - failed so far in doing that .__c8
+__s__and so maybe we can discuss that a little bit .__c8
+__s__if we find some holes in some things that - that - someone could use some help with he's - he's volunteering to help .__c8
+__sj^ba__i've got to move a bunch of furniture .__c0
+__s^bk__okay | always count on a serious comment from that corner .__c8
+__qw^rt__so um ==__c8
+__%--__uh and uh | then uh talk a little bit about - about disks and resource - resource issues that - that's starting to get worked out .__c8
+__s__and then anything else anybody has that isn't in that list ?__c8
+__s__uh ==__c8
+__s__i was just wondering does this mean the battery's dying and i should change it ?__c3
+__b__uh | i think that means the battery's okay .__c8
+__s__d - do you ==__c8
+__sj^ba__let me see .__c0
+__fh|s^cs^rt__oh okay .__c3
+__b__so th- ==__c3
+__fh|s__yeah that's good .__c0
+__fh|s__yeah .__c8
+__fh|s^cs__you're all right .__c0
+__s^2__because it's full .__c3
+__s__yeah .__c8
+__s__yeah .__c8
+__s^e__all right .__c3
+__fh|s__yeah .__c8
+__fh|s__it looks full of electrons .__c8
+__s^e__okay .__c8
+__s__plenty of electrons left there .__c8
+__s^cs__okay .__c8
+__s__so um ==__c8
+__s.%--__uh ==__c8
+__s__okay .__c8
+__b__so uh | i wanted to start this with this mundane thing .__c8
+__fh|s__um ==__c8
+__s^e^rt__uh - i - i - it was - it was kind of my bright idea to have us take a plane that leaves at seven twenty in the morning .__c8
+__s^aa__um .__c8
+__s^aa__oh yeah that's right .__c2
+__fg|s__uh | this is uh - the reason i did it uh was because otherwise for those of us who have to come back the same day it is really not much of a - of a visit .__c8
+__s__uh ==__c8
+__fh__so um | the issue is how - how - how would we ever accomplish that ?__c8
+__b__uh ==__c8
+__s__what - what - what part of town do you live in ?__c8
+__b__um | i live in um the corner of campus .__c2
+__s^cs__the um southeast corner .__c2
+__s^co__okay .__c8
+__s^co^e__okay | so would it be easier ?==__c8
+__fg__those of you who are not you know used to this area it can be very tricky to get to the airport at - at uh - you know - six thirty .__c8
+__s__um - | so would it be easier for you if you came here and i drove you ?__c8
+__s__yeah ?__c8
+__b__yeah perhaps yeah .__c9
+__b__yeah yeah okay .__c8
+__s__yeah .__c4
+__fh__yeah sure .__c2
+__s^bk__okay | so if - if everybody can get here at six .__c8
+__s__at six .__c4
+__s__yeah | i'm afraid we need to do that to get there on time .__c8
+__s__six okay .__c2
+__s^e__yeah so .__c8
+__b__oh boy !__c8
+__fg__anyway .__c8
+__fg|s^na__so ==__c8
+__s^df__will that be enough time ?__c0
+__s^aap__yeah .__c8
+__fh|s^nd__yeah so i'll just pull up in front at six and just be out front .__c8
+__s^cs^nd__and uh | and yeah that'll be plenty of time .__c8
+__b__it'll take - it - it - it won't be bad traffic that time of day .__c8
+__b__and - and uh ==__c8
+__s^nd__i guess once you get past the bridge that that would be the worst .__c0
+__s^cs^nd__going to oakland .__c8
+__fh|s.%--__yeah oakland .__c1
+__b__oakland .__c2
+__s__yeah .__c0
+__b__bridge .__c8
+__b__once you get past the turnoff to the bay bridge .__c0
+__s__oh the turnoff to the bridge .__c8
+__s^aa|s^na__yeah .__c0
+__b__won't even do that .__c8
+__b__i mean just go down martin luther king .__c8
+__s^aa^r__yeah .__c1
+__b__yeah .__c0
+__s__okay .__c0
+__s.%--__and then martin luther king to nine eighty to eight eighty .__c8
+__s__uhhuh .__c0
+__b__yeah .__c0
+__s__and it's - it'd take us tops uh thirty minutes to get there .__c8
+__s__oh i ==__c0
+__fg|s.%-__so that leaves us fifty minutes before the plane .__c8
+__s.%--__it'll just ==__c8
+__fg|s__yeah .__c8
+__s^bk__so ==__c8
+__s^cs__great .__c8
+__s^cs__okay .__c8
+__fh__so that'll ==__c8
+__s^aa__it's - i mean it's still not going to be really easy .__c8
+__b__but - well particularly for - for uh - for barry and me .__c8
+__s^bk__we're not - we're not staying overnight .__c8
+__fg|s^cs__so we don't need to bring anything particularly except for uh - a pad of paper .__c8
+__b__and - so and uh | you two have to bring a little bit .__c8
+__s^df__okay .__c2
+__sj^ba^fe__but uh - | you know don't - don't bring a footlocker and we'll be okay .__c8
+__b__so ==__c8
+__s^bk__s- ==__c2
+__sj^ba^fe__w- - you're staying overnight .__c8
+__s__so just ==__c2
+__s.%--__i figured you wouldn't need a great big suitcase .__c8
+__fh__oh yeah yeah .__c9
+__s.%-__yeah .__c8
+__fg|s^ng__that's sort of one night .__c8
+__s^nd__so ==__c8
+__s^bk__anyway .__c8
+__s^ar|s__so s- - six a m in front .__c2
+__s__okay .__c8
+__s__six a m in front .__c8
+__b__okay .__c2
+__sj^fe__uh | i'll be here .__c8
+__s__uh - | i'll - i'll - i'll - i'll give you my phone number .__c8
+__s^na__if i'm not here for a few m- - after a few minutes then ==__c8
+__s.%-__wake you up .__c2
+__fg|s.%--__nah i'll be fine .__c8
+__s^na__i just uh - it - for me it just means getting up a half an hour earlier than i usually do .__c8
+__s__not - not - not a lot .__c8
+__s^df__okay - wednesday .__c2
+__b__so ==__c8
+__s__okay .__c8
+__s^df__that was the real real important stuff .__c8
+__s__um | i - i - i figured maybe wait on the potential goals for the meeting uh - until we talk about wh- - what's been going on .__c8
+__b__so uh - | what's been going on ?__c8
+__b__why don't we start - start over here .__c8
+__s^df^r__um | well preparation of the french test data actually .__c9
+__fh__okay .__c8
+__s^cs__so it means that um ==__c9
+__b__well it is uh a digit french database of microphone speech .__c9
+__s__downsampled to eight kilohertz .__c9
+__s^cs__i've added noise to one part with the - actually the aurora two noises .__c9
+__s^cs__and so this is a training part .__c9
+__s^df__and then the remaining part i use for testing and - with other kind of noises .__c9
+__s^aa__so we can .__c9
+__b__so this is almost ready .__c9
+__s.%--__i'm preparing the - the h t k baseline for this task .__c9
+__fh__and yeah .__c9
+__s.%--__okay .__c8
+__s__uh ==__c8
+__b__so the h t k base lines - so this is using mel cepstra and so on .__c8
+__s__or ==__c8
+__b__yeah .__c9
+__b__yeah okay .__c8
+__s__and again i guess the p- - the plan is uh to uh - then given this ==__c8
+__s.%-__what's the plan again ?__c8
+__b__the plan with these data ?__c9
+__s.%--__with ==__c8
+__%__so - so does i- - just remind me of what - what you were going to do with the - what - what - what - what's ==__c8
+__s__y- - you just described what you've been doing .__c8
+__s__yeah .__c9
+__b__so if you could remind me of what you're going to be doing .__c8
+__s__oh this is ==__c8
+__b__uh | yeah .__c9
+__b__yeah yeah .__c8
+__s__tell him about the cube .__c2
+__s.%-__the cube .__c9
+__b__i should tell him about the cube .__c9
+__s__yeah .__c2
+__fg__oh cube | yeah .__c8
+__s^bk__yeah .__c9
+__s^df.%--__uh we - actually we want to huh - uh - uh - analyze three dimensions .__c9
+__s^bk__fill in the cube .__c4
+__s^df__the feature dimension - the training data dimension and the test data dimension .__c9
+__s^cs__um ==__c9
+__b__well what we want to do is first we have number for each uh task .__c9
+__b__so we have the um - t i digit task the italian task the french task and the finnish task .__c9
+__s__yeah .__c8
+__b__so we have numbers with uh - systems i mean - i mean neural networks trained on the task data .__c9
+__s^cs__and then to have systems with neural networks trained on uh data from the same language if possible with well using a more generic database which is phonetically - phonetically balanced .__c9
+__b__and um .__c9
+__s^bs__yeah so ==__c9
+__b__so- - so we had talked i guess we had talked at one point about maybe the language i d corpus .__c8
+__s__is that a possibility for that ?__c8
+__b__ye- - uh - yeah | but uh these corpus w- - w- - there is a call home and a call friend also .__c9
+__s^cs__the call friend is for language ind- - identification .__c9
+__s__well anyway these corpus are all telephone speech .__c9
+__s^aa__so um this could be a a problem for why ?__c9
+__s^aa__because uh uh the - the speech dat databases are not telephone speech .__c9
+__s^aa__they are downsampled to eight kilohertz .__c9
+__s__but but they are not uh with telephone bandwidth .__c9
+__fh__yeah .__c8
+__b__that's really funny .__c8
+__s^na__isn't it ?__c8
+__b__i mean because th - this whole thing is for developing new standards for the telephone .__c8
+__b__telephone .__c2
+__s__yeah .__c8
+__b__yeah | but the - the idea is to compute the feature before the - before sending them to the ==__c9
+__s^na__well you don't- - do not send speech you send features computed on th- - the - the device .__c9
+__b__uhhuh .__c8
+__fh__yeah i know .__c8
+__sj^fe^j__but the reason ==__c8
+__qw^br^rt__or well .__c9
+__s__oh i see .__c8
+__s^df__so your point is that it's - it's it's uh the features are computed locally and so they aren't necessarily telephone bandwidth uh or telephone distortions .__c8
+__b__so - you ==__c9
+__b__yeah .__c9
+__s^df__yeah .__c9
+__s__did you happen to find out anything about the o g i multilingual database ?__c0
+__b__yeah that's - wh- - that's - wh- - that's what i meant .__c8
+__b__yeah | it's ==__c9
+__s^aa__i said - @reject@ there's - there's - there's an o g i language i d not the - not the uh ==__c8
+__b__the callfriend is a - is a uh l d c w- - thing | right ?__c8
+__s__yea- - yeah | there are also two other databases .__c9
+__s.%-__one they call the multi language database and another one is a twenty two language something like that .__c9
+__s__but it's also telephone speech .__c9
+__qy^cs__oh they are ?__c0
+__s^cs__okay .__c0
+__s__uh ==__c9
+__s^cs__well nnn ==__c9
+__s^f__but i'm not sure ==__c8
+__s^cs__so ==__c9
+__%-__i mean we'r- - e- - e- - the bandwidth shouldn't be such an issue .__c8
+__s^bk__right ?__c8
+__s.%--__because e- - e- - this is downsampled and - and filtered .__c8
+__s^cs__right ?__c8
+__b__so it's just the fact that it's not telephone .__c8
+__s__and there are so many other differences between these different databases .__c8
+__fg|s__i mean some of this stuff's recorded in the car .__c8
+__b__and some of it's ==__c8
+__b__i mean there's - there's many different acoustic differences .__c8
+__fh|s.%-__yeah .__c9
+__s__so i'm not sure if i mean unless we're going to include a bunch of car recordings in the - in the training database i'm not sure if it's - completely rules it out .__c8
+__b__if our - if we - if our major goal is to have phonetic context and you figure that there's going to be a mismatch in acoustic conditions does it make it much worse f- - to sort of add another mismatch if you will ?__c8
+__s__huh ==__c9
+__b__uh | i- - i- - i - i guess the question is how important is it to - for us to get multiple languages uh - in there .__c8
+__s^arp__yeah | but - uhhuh - um ==__c9
+__s^aa__yeah .__c9
+__s__well actually for the moment if we - w- - do not want to use these phone databases we - we already have uh - english spanish and french uh with microphone speech .__c9
+__b__uh ==__c9
+__s^aa__uhhuh .__c8
+__b__yeah .__c8
+__b__so ==__c9
+__s__so that's what you're thinking of using is sort of the multi- - the equivalent of the multiple ?__c8
+__fh__well .__c9
+__b__yeah .__c9
+__fh__for the multilingual part we were thinking of using these three databases .__c9
+__s^na__and for the difference in phonetic context that you - provide that .__c8
+__b__well this ==__c9
+__s__uh | actually these three databases are um generic databases .__c9
+__fh__yeah .__c4
+__fh__so w- - f- - for - for uh italian which is close to spanish french and i- - i- - uh t i digits we have both uh digits training data and also more general training data .__c9
+__b__so huh ==__c9
+__s__well we also have this broadcast news that we were talking about taking off the disk which is - is microphone data for - for english .__c8
+__b__yeah .__c9
+__b__yeah | perhaps - yeah there is also timit .__c9
+__s^cs__we could use timit .__c9
+__b__yeah .__c8
+__b__right .__c8
+__fh|s__yeah | so there's plenty of stuff around .__c8
+__b__okay | so anyway th- - the basic plan is to uh test this cube .__c8
+__b__yeah .__c9
+__s__yes .__c8
+__b__to fill in the cube .__c4
+__fg__to fill i- - fill it in .__c8
+__sj__yeah .__c8
+__b__okay .__c8
+__b__yeah | and perhaps um we were thinking that perhaps the cross language issue is not uh so big of a issue .__c9
+__qy^d^g^rt__well w- - w- - we - perhaps we should not focus too much on that cross language stuff .__c9
+__s__i mean uh training - training a net on a language and testing a- - for another language .__c9
+__s__uhhuh .__c8
+__b__but that's ==__c8
+__s__perhaps the most important is to have neural networks trained on the target languages but uh with a general database - general databases .__c9
+__s__u- - so that th- - well the - the guy who has to develop an application with one language can use the net trained o- - on that language or a generic net .__c9
+__fh|s__uh | depen- - it depen- - it depends how you mean using the net .__c8
+__s__but not trained on a ==__c9
+__s__so if you're talking about for producing these discriminative features that we're talking about you can't do that .__c8
+__s__huh .__c9
+__s__because because the - what they're asking for is - is a feature set .__c8
+__fh|s__right ?__c8
+__s__and so uh we're the ones who have been weird by - by doing this training .__c8
+__s__yeah .__c9
+__s__but if we say no you have to have a different feature set for each language i think this is ver- - going to be very bad .__c8
+__s^aa__oh .__c2
+__s.%-__so ==__c8
+__s__you think so .__c9
+__s^nd__oh .__c4
+__b__that's ==__c2
+__s^na__huh .__c9
+__qw__oh yeah .__c8
+__s^na__yeah i mean in principle i mean conceptually it's sort of like they want a re- - well they want a replacement for mel cepstra .__c8
+__s__huh .__c9
+__b__so we say okay this is the year two thousand .__c8
+__b__we've got something much better than mel cepstra .__c8
+__s^na__it's you know gobbledy gook .__c8
+__b__okay and so we give them these gobbledy gook features .__c8
+__b__but these gobbledy gook features are supposed to be good for any language .__c8
+__b__huh ==__c9
+__s__because you don't know who's going to call .__c8
+__s__and you know i mean so it's - it's - it's uh ==__c8
+__s__uh - | how do you know what language it is ?__c8
+__s^cs.%--__somebody picks up the phone .__c8
+__s.%-__so thi- - this is their image .__c8
+__b__well | i chh ==__c9
+__b__someone picks up the phone | right ?__c8
+__s^co__and - and he - he picks up the ph- ==__c8
+__b__yeah | but the - the application is ==__c9
+__s__there is a target language for the application .__c9
+__s^2|s^aa__so | if a ==__c9
+__s__yeah y- - y- - y- ==__c8
+__b__well ==__c8
+__s^co__well ==__c9
+__s^bk|s.%-__but no but y- - you - you pick up the phone .__c8
+__b__yeah .__c9
+__s__you talk on the phone .__c8
+__s^cs__and it sends features out .__c8
+__b__okay .__c8
+__s^aap__so the phone doesn't know what a - what - what your language is .__c8
+__b__yeah  .__c9
+__b__if ==__c9
+__s^cs.%-__yeah .__c9
+__s.%--__if it's th- - in the phone .__c9
+__b__but ==__c9
+__s__well it - that - that could be th- - at the server's side .__c9
+__s__but that's the image that they have .__c8
+__s__and well huh yeah .__c9
+__b__it could be .__c8
+__s^cs.%--__but that's the image they have .__c8
+__s__right ?__c8
+__s__so that's - that's ==__c8
+__s__i mean one could argue all over the place about how things really will be in ten years .__c8
+__b__but the particular image that the cellular industry has right now is that it's distributed speech recognition where the uh uh probabilistic part and - and s- - semantics and so forth are all on the servers and you compute features of the - uh on the phone .__c8
+__b__so that's - that's what we're involved in .__c8
+__b__we might - might or might not agree that that's the way it will be in ten years .__c8
+__qy^2^d^rt__but that's - that's - that's what they're asking for .__c8
+__b__so so i think that - th- - th- - it is an important issue whether it works cross language .__c8
+__s^aa__now it's the o g i uh folks' perspective right now that probably that's not the biggest deal .__c8
+__s.%-__and that the biggest deal is the um envir- - acoustic environment mismatch .__c8
+__fh|s^co__and they may very well be right .__c8
+__b__but i - i was hoping we could just do a test and determine if that was true .__c8
+__s__if that's true we don't need to worry so much .__c8
+__b__maybe - maybe we have a couple languages in the training set and that gives us enough breadth uh uh that - that - that the rest doesn't matter .__c8
+__s__um | the other thing is uh this notion of training to uh which i - i guess they're starting to look at up there training to something more like articulatory features .__c8
+__s__uh | and if you have something that's just good for distinguishing different articulatory features that should just be good across you know a wide range of languages .__c8
+__s.%-__yeah .__c9
+__s^cs__uh but ==__c8
+__s^na__yeah | so i don't th- - i know - unfortunately i don't - i see what you're comi- - where you're coming from i think .__c8
+__s^2__but i don't think we can ignore it .__c8
+__s.%-__so we - we really have to do test with a real cross language .__c9
+__s^bk__i mean tr- - for instance training on english and testing on italian .__c9
+__s__or - or we can train - or else uh can we train a net on uh a range of languages and - which can include the test - the test - the target language .__c9
+__b__test on an unseen .__c2
+__b__or ==__c9
+__s__yeah .__c8
+__b__so um ==__c8
+__fh__there's - there's uh ==__c8
+__sj__this is complex .__c8
+__s^aa__so ultimately uh as i was saying i think it doesn't fit within their image that you switch nets based on language .__c8
+__s^aa|s^cs.%--__yeah .__c9
+__sj^na__now can you include uh the - the target language ?__c8
+__b__um | from a purist's standpoint it'd be nice not to .__c8
+__s^cs__because then you can say when ==__c8
+__s^df__because surely someone is going to say at some point okay so you put in the german and the finnish .__c8
+__b__huh .__c9
+__s^cs^j__uh | now what do you do uh when somebody has portuguese ?__c8
+__b__you know ?__c8
+__s^ng__um and uh | however you aren't - it isn't actually a constraint in this evaluation .__c8
+__b__so i would say if it looks like there's a big difference to put it in then we'd make note of it and then we probably put in the other .__c8
+__s^ng__because we have so many other problems in trying to get things to work well here that - that you know it's not so bad as long as we - we note it and say look we did do this .__c8
+__s^aa__huh ?__c9
+__s^co^j__and so ideally what you'd want to do is you'd want to run it with and without the target language and the training set for a wide range of languages .__c0
+__s^co^j^na__uh ==__c8
+__b__yeah .__c8
+__b__yeah perhaps .__c9
+__b__yeah .__c9
+__fg|s__yeah .__c9
+__qy^rt__yeah .__c8
+__s^aa__and that way you can say well you know we're going to build it for what we think are the most common ones .__c0
+__s^bk__but if that - somebody uses it with a different language you know here's what's you're l- - here's what's likely to happen .__c0
+__s^aa__yeah | because the truth is is that it's - it's not like there are - i mean al- - although there are thousands of languages uh from uh - uh - the point of view of cellular companies there aren't .__c8
+__fg__there's - you know there's fifty or something .__c8
+__s__right .__c0
+__s__you know .__c8
+__s^cc__so ==__c8
+__s^co__uh | an- - and they aren't - you know with the exception of finnish which i guess it's pretty different from most - most things .__c8
+__s^na__uh | it's - it's uh - most of them are like at least some of the others .__c8
+__s^aa__so our guess that spanish is like italian and - and so on .__c8
+__s^aa__i guess finnish is a - is - is a little bit like hungarian supposedly .__c8
+__s^j__right ?__c8
+__fh__or is ==__c8
+__s^cs__i think ==__c8
+__s^bk__i don't know anything about finnish .__c0
+__s^bk__well i kn- - oh well i know that h- - uh h- - i mean i'm not a linguist but i guess hungarian and finnish and one of the - one of the languages from the former soviet union are in this sort of same family .__c8
+__b__but they're just these you know uh - countries that are pretty far apart from one another have - i guess people rode in on horses and brought their ==__c8
+__s.%-__huh .__c0
+__s__huh .__c0
+__s__okay .__c8
+__s^na__the ==__c9
+__s^co__yeah .__c9
+__s^j__your turn .__c8
+__fg__oh my turn .__c2
+__b__oh okay .__c2
+__s^j__um | let's see i - i spent the last week uh looking over stephane's shoulder and - and understanding some of the data .__c2
+__fg|s.%-__i reinstalled um um h t k the free version .__c2
+__s^j__so um | everybody's now using three point o .__c2
+__s^na__which is the same version that uh o g i is using .__c2
+__s^tc__oh good .__c8
+__s^bk__yeah .__c2
+__s.%-__so ==__c2
+__s__without - without any licensing big deals or anything like that .__c2
+__s^bk__and um | so we've been talking about this - this uh cube thing .__c2
+__s^bd__and it's beginning more and more looking like the uh the borge cube thing .__c2
+__s__it's really gargantuan .__c2
+__s^2__um ==__c2
+__s.%-__but i- - i'm - am i ==__c2
+__s^ng.%-__so are - are you going to be assimilated ?__c8
+__b__resistance is futile .__c0
+__sj^ba__exactly .__c2
+__sj^ba__um yeah | so i- - i've been looking at uh uh timit stuff .__c2
+__b__um | the - the stuff that we've been working on with timit trying to get a um a labels file so we can uh train up a - train up a net on timit and test um the difference between this net trained on timit and a net trained on digits alone .__c2
+__sj^ba__uhhuh .__c8
+__s^bk__um | and seeing if - if it hurts or helps .__c2
+__b__and again when y- - just to clarify when you're talking about training up a net you're talking about training up a net for a tandem approach ?__c8
+__s__anyway ==__c2
+__s__yeah yeah .__c2
+__b__um ==__c2
+__s__and - and the inputs are p l p and delta and that sort of thing .__c8
+__s__uhhuh .__c2
+__s__well the inputs are one dimension of the cube .__c2
+__s__or ==__c8
+__b__which um we've talked about it being uh p l p um m f c cs um j- - j rasta j rasta l d a .__c2
+__s__huh .__c9
+__b__yeah | but your initial things you're making one choice there .__c8
+__s__yeah .__c2
+__sj^ba__right ?__c8
+__fh__which is p l p or something ?__c8
+__b__right .__c2
+__s^cs__yeah .__c8
+__qw^cs__um | i - i haven't - i haven't decided on - on the initial thing .__c2
+__%-__probably probably something like p l p .__c2
+__s^bk__yeah .__c2
+__s__huh .__c9
+__b__um ==__c8
+__b__so - | so you take p l p and you - you uh do it - uh you - you uh use h t k with it with the transformed features using a neural net that's trained .__c8
+__sj^ba__and the training could either be from digits itself or from timit .__c8
+__s__and that's the ==__c8
+__sj^ba__right .__c2
+__fh__and and th- - and then the testing would be these other things which - which - which might be foreign language .__c8
+__sj^ba__right .__c2
+__s^cs__i see .__c8
+__s.%-__right .__c2
+__s^bk__i - i - i get in the picture about the cube .__c8
+__s^cs__yeah ==__c2
+__b__okay .__c8
+__s^bu__maybe .__c2
+__s^aa__okay .__c2
+__sj^ba__okay .__c8
+__qy^d^g__uhhuh .__c2
+__s^na__um ==__c8
+__s__i mean those listening to this will not have a picture either .__c8
+__s.%-__so um | i guess i'm - i'm not any worse off .__c8
+__s__but ==__c8
+__sj^ba__but at some point - somebody should just show me the cube .__c8
+__s^aa__it sounds s- ==__c8
+__sj^ba__i - i get - i think i get the general idea of it .__c8
+__s^cs__yeah yeah .__c2
+__s^aa__yeah .__c8
+__s__b- - may- ==__c2
+__s^na__so when you said that you were getting the labels for timit um are y- - what do you mean by that ?__c0
+__s^j.%--__uhhuh .__c2
+__b__oh | i'm just - i'm just uh transforming them from the um the standard timit transcriptions into - into a nice long huge p file to do training .__c2
+__sj^ba__huh .__c0
+__s^co__were the digits um hand labeled for phones ?__c0
+__s^fa__um | the - the digits ==__c2
+__s__or were they - those labels automatically derived ?__c0
+__s^bk__oh yeah .__c2
+__s^bk__those were - those were automatically derived by - by dan using um embedded - embedded training and alignment .__c2
+__b__huh .__c0
+__s^ar^t3__uh | but which dan ?__c8
+__s^bk__uh | ellis .__c2
+__s^t3__okay .__c8
+__s^bk__right .__c2
+__s__okay .__c8
+__s^bk__yeah so .__c2
+__fg|s__i was just wondering because that test you're t- ==__c0
+__s^tc__uhhuh .__c2
+__fh|s^t^tc__i - i think you're doing this test because you want to determine whether or not uh having s- - general speech performs as well as having specific speech .__c0
+__%-__that's right .__c2
+__s__well especially when you go over the different languages again .__c8
+__s__because you'd - the different languages have different words for the different digits .__c8
+__s^rt__uhhuh .__c0
+__s^rt__and i was ==__c0
+__%__so it's ==__c8
+__s__yeah .__c0
+__qw__so i was just wondering if the fact that timit - you're using the hand labeled stuff from timit might be - confuse the results that you get .__c0
+__s__i - i think it would .__c8
+__s__but - but on the other hand it might be better .__c8
+__qy^d^rt__right | but if it's better it may be better because it was hand labeled .__c0
+__s^nd__oh yeah .__c8
+__%__but still - probably use it .__c8
+__s__yeah okay .__c0
+__sj^fe__i mean ==__c8
+__s^fa__you know i - i i guess i'm sounding cavalier .__c8
+__s^bk__but i mean i think the point is you have uh a bunch of labels and - and they're han- - hand uh hand marked .__c8
+__b__uh | i guess actually timit was not entirely hand marked .__c8
+__b__it was automatically first and then hand - hand corrected .__c8
+__s^cc__but - but um uh | it - it um it might be a better source .__c8
+__s__oh okay .__c0
+__%__so i- - it's ==__c8
+__sj^fe__you're right .__c8
+__b__it would be another interesting scientific question to ask is it because it's a broad source or because it was you know carefully ?__c8
+__s__uh | and that's something you could ask .__c8
+__b__uhhuh .__c0
+__s.%-__but given limited time i think the main thing is if it's a better thing for going across languages on this training tandem system .__c8
+__s^aa__yeah .__c0
+__s__then it's probably ==__c8
+__fh|s__right .__c0
+__fh__what about the differences in the phone sets ?__c0
+__b__uh | between languages ?__c2
+__s__no | between timit and the - the digits .__c0
+__b__oh .__c2
+__s__um | right .__c2
+__qy^bu__well there's a mapping from the sixty one phonemes in timit to - to fifty six the icsi fifty six .__c2
+__s^bk__sixty one .__c4
+__b__oh okay .__c0
+__b__i see .__c0
+__s__and then the digits phonemes um there's about twenty twenty two or twenty four of them .__c2
+__s^bk__is that right ?__c2
+__s__out of that fifty six ?__c0
+__b__yep .__c9
+__qy^bu^d^rt__out of that fifty six .__c2
+__sj^ba__oh okay .__c0
+__s__yeah .__c2
+__b__so ==__c2
+__s__it's - it's definitely broader .__c2
+__s^bk__yeah .__c2
+__s^bk__but actually the issue of phoneti- - phon- - uh phone- - phoneme mappings will arise when we will do severa- - use several languages .__c9
+__b__yeah .__c4
+__qy^d^rt__because you - well some phonemes are not uh in every languages .__c9
+__%-__so we plan to develop a subset of the phonemes uh that includes uh all the phonemes of our training languages .__c9
+__qy^d^rt__and use a network with kind of one hundred outputs or something like that .__c9
+__qrr.%-__uhhuh .__c0
+__s^ar|s^nd__uhhuh .__c8
+__b__you mean a superset sort of .__c8
+__sj^ba__uh | yeah .__c9
+__s^bk__superset .__c9
+__s__yeah yeah .__c8
+__b__yeah .__c9
+__s__yeah .__c4
+__sj^fe__i th- - i looks the sampa- - sampa phone .__c4
+__b__yeah .__c9
+__sj^fe__sampa phone for english uh american english and the - the - the language who have more phone are the english .__c4
+__s__huh .__c0
+__s^e__of the - these language .__c4
+__fh|s__but n- - for example in spain the spanish have several phone that d- - doesn't appear in the e- - english and we thought to complete .__c4
+__sj^ba__but for that it needs - we must r- - h- - do a lot of work because we need to generate new tran- - transcription for the database that we have .__c4
+__s^cs__uhhuh .__c8
+__qy^bu^d^rt__uhhuh .__c8
+__s__other than the language is there a reason not to use the timit phone set ?__c1
+__qw^rt__because it's larger .__c1
+__s__as opposed to the icsi phone set .__c1
+__qw.%-__oh .__c2
+__qr^rt__you mean why map the sixty one to the fifty six ?__c2
+__s__yeah .__c1
+__s__i don't know .__c2
+__sj^fe__i have ==__c2
+__b__um | i forget if that happened starting with you or was it - o- - or if it was eric afterwards who did that .__c8
+__s__but i think basically there were several of the phones that were just hardly ever there .__c8
+__s__yeah .__c0
+__b__and i think some of them they were making distinctions between silence at the end and silence at the beginning .__c0
+__fh__oh .__c1
+__b__when really they're both silence .__c0
+__s__i th- - i think it was things like that that got it mapped down to fifty six .__c0
+__s__okay .__c1
+__s^2__yeah | especially in a system like ours which is a discriminative system .__c8
+__fh|s__you know you're really asking this net to learn .__c8
+__fh|s__yeah .__c1
+__s__yeah .__c0
+__s__it's - it's kind of hard .__c8
+__s__there's not much difference really .__c0
+__s__and the ones that are gone i think are - i think there was - they also in timit had like a glottal stop .__c0
+__s__which was basically a short period of silence .__c0
+__s__uhhuh .__c1
+__s__and so ==__c0
+__s__well we have that now too | right ?__c1
+__fh__i don't know .__c0
+__s__yeah .__c1
+__s__i- - it's actually pretty common that a lot of the recognition systems people use have things like - like say thirty nine phone symbols .__c8
+__qy__so ==__c0
+__s^aa__right ?__c8
+__fg|s__uh | and then they get the variety by - by bringing in the context the phonetic context .__c8
+__b__uh so we actually have an unusually large number in - in what we tend to use here .__c8
+__s__um ==__c8
+__b__so a- - a- - actually - maybe - now you've got me sort of intrigued .__c8
+__qy^rt__what - there's ==__c8
+__fh__can you describe what - what's on the cube ?__c8
+__s^aa__yeah .__c2
+__s^ar__i mean ==__c8
+__s__w- - i th- - i think that's a good idea .__c2
+__s__yeah yeah .__c8
+__s^bk__to - to talk about the whole cube .__c2
+__s.%-__yeah yeah .__c4
+__s__and maybe we could sections in the cube for people to work on .__c2
+__s__yeah .__c8
+__s__yeah .__c8
+__s^am__um ==__c2
+__b__okay .__c2
+__s__okay .__c8
+__b__uh | do you want to do it ?__c2
+__s__so even - even though the meeting recorder doesn't - doesn't uh ==__c8
+__fh|s__and since you're not running a video camera we won't get this .__c8
+__s__but if you use a board it'll help us anyway .__c8
+__s__okay .__c2
+__s__uh point out one of the limitations of this medium .__c8
+__fh|s__okay .__c2
+__b__but you've got the wireless on .__c8
+__s^cs__right ?__c8
+__qy.%-__yeah .__c2
+__s__i have the wireless .__c2
+__s__yeah .__c8
+__s^bk__so you can walk around .__c8
+__s^bk__okay .__c2
+__s^bk__can y- - can you walk around too ?__c2
+__qy__no .__c2
+__s^ar__okay .__c2
+__s^bk__well .__c2
+__s^no__uh he can't actually .__c8
+__b__um ==__c2
+__b__but ==__c8
+__s^cc__he's tethered .__c8
+__s^cs__s- ==__c2
+__s^bk__basically the - the cube will have three dimensions .__c2
+__s__the first dimension is the - the features that we're going to use .__c2
+__fg|s^t^tc__and the second dimension um is the training corpus .__c2
+__b__and that's the training on the discriminant neural net .__c2
+__fh__um ==__c2
+__h__and ==__c2
+__s__the last dimension happens to be ==__c2
+__b__yeah | and again ==__c8
+__s__yeah | so the - the training for h t k is always - that's always set up for the individual test .__c8
+__b__right ?__c8
+__b__that there's some training data and some test data .__c8
+__s__so that's different than this .__c8
+__s__right right .__c2
+__sj^ba__this is - this is for - for a n n only .__c2
+__s__and yeah the training for the h t k models is always uh fixed for whatever language you're testing on .__c2
+__s__right .__c8
+__s^t3__and then there's the testing corpus .__c2
+__s__so then i think it's probably instructive to go and - and - and show you the features that we were talking about .__c2
+__b__um ==__c2
+__b__so let's see .__c2
+__s^aa__help me out with ==__c2
+__b__p l p .__c9
+__s^na__with what ?__c2
+__s__p l p .__c9
+__s__p l p ?__c2
+__b__okay .__c2
+__qy^bu^d^rt__m s g .__c9
+__s^na__m s g .__c2
+__qy^rt__uh | j rasta .__c9
+__qy__j rasta .__c2
+__b__and j rasta l d a .__c9
+__s.%--__j rasta l d a .__c2
+__s__um ==__c9
+__sj^fe__multi band .__c9
+__s__multi band .__c2
+__b__so there would be multi band before um before our network i mean .__c9
+__s__yeah .__c2
+__s^aa__just the multi band features | right ?__c2
+__qr__and ==__c9
+__s^ar.%--__yeah .__c9
+__qw^br^d^rt__yeah .__c2
+__qr__so something like uh t c t within bands .__c9
+__s__uh uh .__c8
+__s^bk__and well ==__c9
+__sj^fe__and then multi band after networks meaning .__c9
+__s__that we would have uh neural networks uh discriminant neural networks for each band .__c9
+__s__uh yeah .__c9
+__s^cc__and using the - the outputs of these networks or the linear outputs or something like that .__c9
+__b__uh ==__c9
+__s^2__yeah .__c9
+__b__what about mel cepstrum ?__c0
+__fh|s__oh um ==__c2
+__s__or is that ?==__c0
+__fh|s__you don't include that because it's part of the base or something ?__c0
+__s^cc__well y- - you do have a baseline system that's m- - that's mel cepstra .__c8
+__b__yeah databases .__c4
+__s__yeah .__c4
+__s__right ?__c8
+__s__so ==__c8
+__b__uhhuh .__c4
+__s__but uh ==__c9
+__s__well ==__c9
+__b__not for the - the a n n .__c9
+__s.%--__i mean ==__c9
+__s^ba__okay .__c8
+__s^na__so yeah .__c9
+__s^na__we could - we could add m f c c also .__c9
+__s__we could add ==__c2
+__s.%--__probably should .__c8
+__b__i mean at least - at least conceptually you know it doesn't meant you actually have to do it .__c8
+__s__yeah .__c9
+__b__yeah .__c4
+__b__but ==__c8
+__qy^d^rt__conceptually it makes sense as a - as a base line .__c8
+__s__it'd be an interesting test just to have - just to do m f c c with the neural net .__c0
+__s^bk__without the ==__c4
+__s__yeah .__c4
+__s__and everything else the same .__c0
+__s__compare that with just m- - m f c c without the - the net .__c0
+__sj^fe__yeah .__c9
+__sj^ba__uhhuh .__c4
+__b__i think - i think dan did some of that .__c2
+__s^df__oh .__c0
+__s__um | in his previous aurora experiments .__c2
+__sj^ba__and with the net it's - it's wonderful .__c2
+__sj^ba__without the net it's just baseline .__c2
+__sj^ba__um | i think o g i folks have been doing that too .__c8
+__fh__d- - because i think that for a bunch of their experiments they used uh mel cepstra actually .__c8
+__s^fa__yeah .__c2
+__s__yeah .__c2
+__s__um | of course that's there and this is here and so on .__c8
+__s^t3__okay .__c8
+__s^t3__okay .__c2
+__s__um | for the training corpus - corpus um we have um the - the d- - digits from the various languages .__c2
+__s^df__um | english .__c2
+__s__spanish .__c2
+__b__um | french  .__c2
+__s.%-__what else do we have ?__c2
+__s^t1__and the finnish .__c9
+__qy^d^rt__finnish .__c2
+__s^na__and italian .__c4
+__qy.%-__where did th- - where did that come from ?__c0
+__s^bk__uh no italian no .__c4
+__s__digits ?__c0
+__s__italian no .__c4
+__b__oh .__c0
+__s__oh italian .__c2
+__s^na__i- - italian yes .__c4
+__s^2__italian .__c4
+__s__italian .__c8
+__b__is that - was that distributed with aurora ?__c0
+__s.%--__or ?==__c0
+__s^bk__one l or two l s ?__c2
+__s__the newer one .__c8
+__qy^rt__where did that ?==__c0
+__s.%-__so english uh finnish and italian are aurora .__c9
+__s__yeah .__c8
+__s^aa__and spanish and french is something that we can use in addition to aurora .__c9
+__b__uh well ==__c9
+__b__yeah .__c8
+__%-__so carmen brought the spanish .__c8
+__s^na__and stephane brought the french .__c8
+__s__okay .__c2
+__%-__and ==__c2
+__s^aa__um ==__c2
+__s^aa__oh yeah .__c2
+__s^aa__is it french french or belgian french ?__c8
+__s^bk__and ==__c2
+__s__there's a ==__c8
+__s^bu__it's uh french french .__c9
+__s^ar|s^nd__french french .__c2
+__qw^ng__like mexican spain and spain .__c4
+__b__yeah .__c8
+__b__or swiss .__c1
+__qw__i think that is more important .__c4
+__s^na__swiss german .__c1
+__h__mexican spain .__c4
+__s__yeah .__c8
+__sj^fe__because more people ==__c4
+__sj^bk|qw__yeah .__c8
+__qw__probably so .__c8
+__s.%-__yeah .__c4
+__qw__yeah .__c8
+__s^ar__yeah herve always insists that belgian is i- - is absolutely pure french .__c8
+__b__has nothing to do with ==__c8
+__s__but he says those - those - those parisians talk funny .__c8
+__s.%-__yeah yeah yeah .__c9
+__s^bu__they have an accent .__c9
+__s^df__yeah they ==__c8
+__b__they do yeah .__c8
+__s^bk__yeah but then he likes belgian fries too .__c8
+__s^bk|s.%-__so ==__c8
+__s__okay .__c8
+__s^bu__and then we have uh um broader - broader corpus um like timit .__c2
+__s^aa__timit so far .__c2
+__s^aa__and spanish too .__c4
+__b__right ?__c2
+__s__spanish .__c2
+__s^bu__oh | spanish stories ?__c2
+__s^aa.%-__albayzin is the name .__c4
+__s^aa__what about t i digits ?__c0
+__s^aa__um | t i digits ==__c2
+__b__uh all these aurora f- - d- - data p- - data is from - is derived from t i digits .__c2
+__qw__uhhuh .__c0
+__qw__oh oh okay .__c0
+__qw__um | basically they - they corrupted it with uh different kinds of noises at different s n r levels .__c2
+__s__uh .__c0
+__fg|s^df^na__i see .__c0
+__s.%-__yeah .__c2
+__s.%-__y- - and i think stephane was saying there's - there's some broader s- - material in the french also .__c8
+__s^df__yeah .__c9
+__b__we cou- - we could use ==__c9
+__b__yeah .__c9
+__s__okay .__c2
+__b__the french data .__c9
+__b__spanish stories ?__c4
+__s__no .__c4
+__b__no .__c2
+__s__sp- - not spanish stories .__c2
+__qy.%-__no .__c4
+__s__spanish .__c8
+__fg|s^nd__no albayz- ==__c4
+__%-__spanish something .__c2
+__s__yeah .__c4
+__b__okay .__c2
+__s^df__did the aurora people actually corrupt it themselves ?__c1
+__s^na__or just specify the signal and the signal-t0-noise ratio ?__c1
+__b__they - they corrupted it um themselves .__c2
+__b__okay .__c1
+__b__but they also included the - the noise files for us .__c2
+__fh__right ?__c2
+__qr.%--__or ==__c2
+__qw__yeah .__c9
+__s^na.%-__so we can go ahead and corrupt other things .__c2
+__s^ar|s^nd__i'm just curious carmen .__c8
+__s^bk__i mean i couldn't tell if you were joking or ==__c8
+__s__i- - is it - is it mexican spanish ?__c8
+__s^bk__or is it ?==__c8
+__b__no no no no .__c4
+__s^r__oh no no .__c8
+__s.%-__no no no no .__c4
+__s^nd__it's - it's spanish from spain spanish .__c8
+__fg__spanish from spain .__c4
+__s^bu__yeah okay .__c8
+__s^2__from spain .__c2
+__b__all right .__c8
+__qy^d^g^rt__spanish from spain .__c8
+__s^bs__we're really covered there .__c8
+__b__okay .__c8
+__s^ng__and the french from france .__c8
+__b__okay .__c2
+__s^bu__yeah .__c9
+__qy^d^g^rt__no | the french is f- - yeah from uh paris .__c9
+__s^arp__oh .__c2
+__b__from paris .__c2
+__s^bs__okay .__c2
+__b__yeah .__c8
+__s^nd.%--__okay .__c9
+__s^bk__and timit's from lots of different places .__c2
+__s^df__from t i .__c8
+__s^t1__i- - it's from texas .__c8
+__s^bk|s^cs^ng__so may- - maybe it's ==__c8
+__b__from the deep south .__c1
+__s^df__so- - s- - so it's not really from the u s either .__c8
+__b__is that okay ?__c8
+__b__yeah .__c2
+__b__yeah .__c2
+__s^bk|s^rt^tc__okay .__c2
+__s.%-__and um ==__c2
+__b__with- - within the training corporas um we're uh thinking about um training with noise .__c2
+__s^bk__so ==__c2
+__s__incorporating the same kinds of noises that um aurora is in- - incorporating in their um in their training corpus .__c2
+__s.%--__um | i don't think we- - we're given the uh the unseen noise conditions though .__c2
+__s^fa__right ?__c2
+__s^cc__i think what they were saying was that um for this next test there's going to be some of the cases where they have the same type of noise as you were given before hand and some cases where you're not .__c8
+__s^bk__like ==__c2
+__s.%--__uhhuh .__c2
+__s__uhhuh .__c9
+__s__okay .__c2
+__b__so presumably that'll be part of the topic of analysis of the - the test results is how well you do when it's matching noise and how well you do where it's not .__c8
+__b__right .__c2
+__s.%--__i think that's right .__c8
+__qy^bu^d^rt__so i guess we can't train on - on the - the unseen noise conditions .__c2
+__s^aa__well not if it's not seen .__c8
+__sj^fe__right .__c2
+__s__if - not if it's unseen .__c2
+__s^e^na__yeah .__c8
+__qy^bu^d^rt__yeah .__c2
+__s^ar__i mean i- - i- - i- - i- - it does seem to me that a lot of times when you train with something that's at least a little bit noisy it can - it can help you out in other kinds of noise .__c8
+__s^e__even if it's not matching .__c8
+__sj^fe__just because there's some more variance that you've built into things .__c8
+__qw__but but uh ==__c8
+__s^no__uhhuh .__c9
+__s^df__uh exactly how well it will work will depend on how near it is to what you had ahead of time .__c8
+__b__so okay so that's your training corpus .__c8
+__b__uhhuh .__c9
+__s^df.%-__and then your testing corpus ?__c8
+__s^2__um | the testing corporas are um just um the same ones as aurora testing .__c2
+__s^bk__and | that includes um the english spa- - um italian finnish .__c2
+__s^arp__finnish .__c4
+__s^aa__uh | we'r- - we're going to get german .__c2
+__s__right ?__c2
+__s__ge- - at the final test will have german .__c2
+__s__well so ==__c8
+__s^t3__yeah .__c8
+__b__the final test on a guess is supposed to be german and danish .__c8
+__s__uh yeah .__c9
+__b__right ?__c8
+__s__right .__c2
+__b__the s- ==__c9
+__%__yeah .__c9
+__s__the spanish perhaps .__c9
+__b__spanish .__c2
+__qw.%-__we will have ==__c9
+__s__oh yeah .__c2
+__s__we can - we can test on s- - spanish .__c2
+__qy^d^rt__yeah .__c9
+__b__but the - the aurora spanish i mean .__c9
+__qy^e.%-__oh yeah .__c2
+__s__uhhuh .__c2
+__s^bk__oh there's a - there's spanish testing in the aurora ?__c8
+__qw__uh not yet .__c9
+__qw__but uh uh e- ==__c9
+__s__yeah .__c4
+__s^aa|s^2__it's preparing .__c4
+__s__pre- - they are preparing it .__c9
+__s^nd__and well ==__c9
+__b__they are preparing .__c4
+__s^na__according to hynek it will be we - will have this at the end of november .__c9
+__b__or um ==__c9
+__s^nd__okay .__c8
+__b__so uh ==__c8
+__b__yeah .__c9
+__fh|%-__something like seven things in each uh each column .__c8
+__s__so that's uh three hundred and forty three uh different systems that are going to be developed .__c8
+__s^nd.%-__there's three of you .__c8
+__b__uh ==__c8
+__%-__so that's ==__c8
+__s^cs__yeah one hundred each about .__c2
+__s^na__hundred and - hundred and fourteen each .__c8
+__s__what a- - what about noise conditions ?__c3
+__b__what ?__c8
+__b__w- - don't we need to put in the column for noise conditions ?__c3
+__b__are you just trying to be difficult ?__c8
+__b__no .__c3
+__b__i just don't understand .__c3
+__s.%-__well th- ==__c2
+__%-__uh ==__c2
+__b__i'm just kidding .__c8
+__s^cc__when - when i put these testings on there i'm assumi- ==__c2
+__b__yeah .__c8
+__s__there- - there's three - three tests .__c2
+__fh__um ==__c2
+__s.%--__type a type b and type c .__c2
+__s__and they're all - they're all going to be test- - tested um with one training of the h t k system .__c2
+__s^cs__um there's a script that tests all three different types of noise conditions .__c2
+__b__test a is like a matched noise .__c2
+__fh__test b is a - is a slightly mismatched .__c2
+__s^cs__and test c is a um mismatched channel .__c2
+__s^cs__and do we do all our training on clean data ?__c3
+__b__um ==__c2
+__b__also we can clean that ==__c4
+__s^cs__no no .__c2
+__s__no .__c9
+__b__we're - we're going to be um training on the noise files that we do have .__c2
+__b__so ==__c8
+__s__um ==__c8
+__s^cs__yeah .__c8
+__b__so i guess the question is how long does it take to do a - a training ?__c8
+__x__i mean it's not totally crazy .__c8
+__b__i mean these are - a lot of these are built in things .__c8
+__b__and we know - we have programs that compute p l p .__c8
+__s__we have m s g .__c8
+__s^cs__we have j ra- ==__c8
+__b__you know a lot of these things will just kind of happen .__c8
+__b__won't take uh a huge amount of development .__c8
+__s^cs__it's just trying it out .__c8
+__s^cs__so we actually can do quite a few experiments .__c8
+__b__but how - how long does it take do we think for one of these trainings ?__c8
+__s^cs__uhhuh .__c2
+__b__that's a good question .__c2
+__fh__what about combinations of things ?__c0
+__b__oh yeah .__c8
+__qy^cs^rt__that's right .__c8
+__s__i mean because ==__c8
+__%__so for instance i think the major advantage of m s g ==__c8
+__s__oh .__c2
+__%-__yeah .__c8
+__b__och !__c2
+__b__good point .__c8
+__s__major advantage of m s g i see th- - that we've seen in the past is combined with p l p .__c8
+__s.%-__yeah .__c4
+__x__um ==__c8
+__b__now this is turning into a four dimensional cube ?__c2
+__s__or you just add it to the features .__c1
+__b__no .__c4
+__s__well you just select multiple things on the one dimension .__c0
+__s__here .__c4
+__s__just ==__c2
+__fh|s__oh yeah .__c2
+__x__okay .__c2
+__s__yeah .__c8
+__s__so i mean ==__c8
+__s__you don't want to ==__c8
+__s__uh ==__c8
+__s__let's see .__c8
+__s__seven choose two would - be uh twenty one different combinations .__c8
+__b__um ==__c8
+__b__it's not a complete set of combinations though .__c1
+__s__probably ==__c8
+__s^df__right ?__c1
+__s__what ?__c8
+__s__it's not a complete set of combinations though .__c1
+__x__no .__c2
+__s__right ?__c1
+__b__yeah .__c8
+__s__i hope not .__c8
+__s^br^fa__yeah .__c8
+__qw^br^rt__there's ==__c8
+__x__that would be ?==__c2
+__s__uh ==__c8
+__b__yeah .__c8
+__%__so p l p and m s g i think we definitely want to try .__c8
+__s__because we've had a lot of good experience with putting those together .__c8
+__s__uhhuh .__c4
+__s^2__um ==__c8
+__b__yeah .__c8
+__s__when you do that you're increasing the size of the inputs to the net .__c0
+__b__do you have to reduce the hidden layer or something ?__c0
+__%-__well so ==__c8
+__s__i mean ==__c8
+__%__so i- - it doesn't increase the number of trainings .__c8
+__b__no no .__c0
+__%-__i'm - i'm just wondering about number of parameters in the net .__c0
+__s^df__do you have to worry about keeping that the same ?__c0
+__b__or ?==__c0
+__s^cs__uh | i don't think so .__c8
+__b__there's a computation limit though .__c1
+__qy^d^f^g^rt__isn't there ?__c1
+__fh|s^co.%--__yeah .__c8
+__b__i mean it's just more compu- ==__c8
+__s^t1__excuse me ?__c8
+__fh|s^nd__isn't there like a limit on the computation load or d- - latency or something like that for aurora task ?__c1
+__b__oh yeah .__c8
+__s^nd__we haven't talked about any of that at all .__c8
+__s^e__have we ?__c8
+__b__no .__c2
+__s^ng__yeah .__c8
+__b__so there's not really a limit .__c8
+__s^cs__what it is is that there's - there's uh - it's just penalty .__c8
+__s^na__you know ?__c8
+__s__that - that if you're using uh a megabyte then they'll say that's very nice .__c8
+__s__but of course it will never go on a cheap cell phone .__c8
+__b__um ==__c8
+__b__okay .__c1
+__qy^d^f^g__and ==__c8
+__b__u- - uh - i think the computation isn't so much of a problem .__c8
+__s__i think it's more the memory .__c8
+__fh|s__uh and expensive cell phones exa- - expensive hand helds and so forth are going to have lots of memory .__c8
+__b__so it's just that uh these people see the - the cheap cell phones as being still the biggest market .__c8
+__b__so ==__c8
+__s^cs__uhhuh .__c1
+__b__um ==__c8
+__s^cs^e__but yeah .__c8
+__s^cs__i was just realizing that actually it doesn't explode out .__c8
+__b__um ==__c8
+__b__it's not really two to the seventh .__c8
+__b__but it's - but - but - i- - i- - it doesn't really explode out the number of trainings .__c8
+__s__because these were all trained individually .__c8
+__sj^ba__right ?__c8
+__%--__so ==__c8
+__b__uh if you have all of these nets trained some place then uh you can combine their outputs and do the k l transformation and so forth .__c8
+__s^fa__and - and uh ==__c8
+__s__uhhuh .__c2
+__s__so what it - it blows out is the number of uh testings .__c8
+__s^cc__and you know - and the number of times you do that last part .__c8
+__%-__but that last part i think is so - has got to be pretty quick .__c8
+__qw^br^bu^d^rt__so ==__c8
+__qw^br^bu^d^r^rt__uh ==__c8
+__s^bk__right .__c8
+__s^bk__i mean it's just running the data through .__c8
+__s^bk|s^ft__oh .__c2
+__qw__well you got to do the k l transformation .__c8
+__s__but wh- - what about a net that's trained on multiple languages though ?__c0
+__s^bk__eight y- ==__c9
+__s__but ==__c8
+__s.%-__is that just separate nets for each language then combined ?__c0
+__s^bu__necessary to put in .__c4
+__s^bu__or is that actually one net trained on ?__c0
+__s^aa__uh probably one net .__c9
+__s^e__good question .__c8
+__b__well .__c9
+__s__uh ==__c9
+__fh|s^no__one would think one net .__c8
+__%-__so ==__c9
+__s__but we've - i don't think we've tested that .__c8
+__sj__right ?__c8
+__qw.%-__so in the broader training corpus we can - we can use uh the three or a combination of - of two - two languages .__c9
+__sj__database three .__c4
+__%__in one net .__c0
+__fg|s^aap__yeah .__c9
+__s__uhhuh .__c0
+__s^df__yeah .__c8
+__b__so i guess the first thing is if w- - if we know how much a - how long a - a training takes .__c8
+__s^cs__if we can train up all these - these combinations uh then we can start working on testing of them individually and in combination .__c8
+__b__right ?__c8
+__b__because the putting them in combination i think is not as much computationally as the r- - training of the nets in the first place .__c8
+__s^cs__uhhuh .__c2
+__s__right ?__c8
+__b__yeah .__c9
+__b__so y- - you do have to compute the k l transformation .__c8
+__b__uh ==__c8
+__s^cs__which is a little bit .__c8
+__s^cs__but it's not too much .__c8
+__s^cs__it's not too much .__c9
+__b__no .__c9
+__s^aa__yeah .__c8
+__s^na__so it's ==__c8
+__%-__but yeah .__c9
+__b__but there is the testing also which implies training uh the h t k models .__c9
+__s__the - the model .__c4
+__sj^ba__and well ==__c9
+__qw__the h t k model .__c4
+__b__uh right .__c8
+__s^no__it's ==__c9
+__b__right .__c8
+__sj__yeah .__c9
+__s.%--__so if you do have lots of combinations it's ==__c8
+__s__but it's - it's - it's not so long .__c9
+__s^df__it ==__c9
+__b__yeah .__c9
+__s__how long does it take for an uh h t k training ?__c8
+__s^na__it's around six hours i think .__c9
+__b__it depends on the ==__c4
+__b__for training and testing .__c9
+__fg|s^cs^na__yeah .__c9
+__s.%-__more than six hours .__c4
+__s^2__more .__c9
+__s^aa__for the italian .__c4
+__s^cc__yes .__c4
+__s^aa__maybe one day .__c4
+__s__one day .__c9
+__qy^d__for h t k ?__c8
+__fg|s^bd__yeah .__c4
+__sj__really ?__c8
+__s^ar__well .__c4
+__qy^rt__running on what ?__c8
+__s.%-__uh m- - m f c c .__c4
+__s^aap__no .__c8
+__b__i'm sorry .__c8
+__s^aa__ru- - running on what machine ?__c8
+__s.%-__uh ravioli .__c4
+__s__uh ==__c8
+__s.%-__i don't know what ravioli is .__c8
+__qy^bu__is it - is it an ultra five ?__c8
+__h|s^nd__or is it a ?==__c8
+__s^ng__huh .__c4
+__sj__um who is that ?__c4
+__qy.%-__i don't know .__c0
+__b__i don't know .__c2
+__s^ar__i don't know .__c4
+__b__i don't know what a ravioli is .__c1
+__s__i don't know .__c4
+__s__i don't know .__c2
+__b__we can check really quickly .__c1
+__b__yeah .__c9
+__fh|s^rt__i guess .__c1
+__b__i- - i think it's- - it's- - it's not so long .__c9
+__s__because well the t i digits test data is about uh many hours .__c9
+__s__uh th- - uh thirty hours of speech i think .__c9
+__s^aa__it's a few hours .__c8
+__s^aa__something like that .__c9
+__b__huh .__c1
+__s__yeah right .__c8
+__b__and it ==__c9
+__b__well .__c9
+__s^na__so ==__c8
+__b__i mean ==__c8
+__s^bk__clearly there- - there's no way we can even begin to do an- - any significant amount here unless we use multiple machines .__c8
+__b__it's six hours .__c9
+__sj__right ?__c8
+__s^bk__so- - so - w- - we ==__c8
+__s__i mean there's plenty of machines here .__c8
+__s^ng.%-__and they're n- - they're often not in - in a great - great deal of use .__c8
+__b__so i mean i think it's - it's key that - that the - that you look at uh you know what machines are fast what machines are used a lot .__c8
+__s^arp.%-__uh are we still using p make ?__c8
+__s__is that ?==__c8
+__b__oh .__c2
+__s__i don't know how w- - how we would p make this though .__c2
+__s^cs^na__um ==__c2
+__fg__well you have a ==__c8
+__%-__i mean once you get the basic thing set up you have just all the - uh a- - all these combinations .__c8
+__s.%-__yeah .__c2
+__b__right ?__c8
+__s__uhhuh .__c2
+__b__um ==__c8
+__s__it's- - it's - let's say it's six hours or eight hours or something for the training of h t k .__c8
+__b__how long is it for training of - of uh the neural net ?__c8
+__s__the neural net ?__c2
+__b__um ==__c2
+__s.%-__i would say two days .__c9
+__s.%--__depends on the corpuses | right ?__c0
+__s^fa__it depends .__c4
+__s__yeah .__c9
+__s^cs__it s- - also depends on the net .__c1
+__s.%-__depends on the corpus .__c4
+__b__yeah .__c2
+__s^na__how big is the net ?__c1
+__s^na__for albayzin i trained on neural network .__c4
+__s__uh was um one day also .__c4
+__qy^bu^d^g^rt__uh ==__c8
+__s^aa__but on what machine ?__c8
+__s__on a spert board .__c2
+__b__uh ==__c4
+__b__i - i think the neural net spert .__c4
+__s__y- - you did a - you did it on a spert board .__c2
+__s^ar__okay .__c8
+__s^ar^r__yes .__c4
+__s^ar^r__again we do have a bunch of spert boards .__c8
+__s__yeah .__c2
+__s^aa__and i think there- - there- - there's - i think you folks are probably go- - the ones using them right now .__c8
+__s^ng__is it faster to do it on the spert ?__c0
+__%__or ?==__c0
+__s^bs__uh | don't know .__c8
+__b__used to be .__c8
+__s^bs__it's - it's still a little faster on the sperts .__c2
+__b__is it ?__c0
+__s__yeah .__c2
+__s^bs^na__yeah .__c2
+__qy.%-__ad- - adam - adam did some testing .__c2
+__qr__or either adam or - or dan did some testing .__c2
+__b__and they found that the spert board's still - still faster .__c2
+__s__and the benefits is that you know you run out of spert and then you can do other things on your - your computer .__c2
+__s^bk__uhhuh .__c0
+__s__uhhuh .__c8
+__b__and you don't ==__c2
+__fg|s__uhhuh .__c0
+__s.%-__yeah .__c8
+__s__so you could be ==__c8
+__s__we have quite a few spert boards .__c8
+__s^bk__you could set up uh you know ten different jobs or something to run on spert - different spert boards .__c8
+__b__and - and have ten other jobs running on different computers .__c8
+__b__so it's got to take that sort of thing .__c8
+__b__or - or we're not going to get through any significant number of these .__c8
+__b__yeah .__c2
+__s^bk__uh ==__c8
+__b__so this is ==__c8
+__qw__yeah i mean ==__c8
+__b__i kind of like this because - what it ==__c8
+__s__n- - no .__c8
+__s^2__what i like about it is ==__c8
+__s^na__okay .__c2
+__s^bk__we - we - we do have a problem .__c8
+__s__that we have very limited time .__c8
+__s^fa|s^bu.%-__you know .__c8
+__s__so with very limited time we actually have really quite a - quite a bit of computational resource available .__c8
+__s__if you you know get a look across the institute and how little things are being used .__c8
+__s^2__and uh ==__c8
+__s^bk__on the other hand almost anything that really i- - you know is - is new where we're saying well let's look at like we were talking before about uh uh voiced-unvoiced-silence detection features and all those sort - that's ==__c8
+__b__yeah .__c4
+__b__i think it's a great thing to go to .__c8
+__b__but if it's new then we have this development and - and - and learning process t- - to - to go through on top of - just the - the - all the - all the work .__c8
+__fh__so i - i - i don't see how we'd do it .__c8
+__x__so what i like about this is you basically have listed all the things that we already know how to do .__c8
+__s__and - and all the kinds of data that we at this point already have .__c8
+__s__yeah .__c4
+__s^bk__and uh | you're just saying let's look at the outer product of all of these things .__c8
+__s.%-__and see if we can calculate them .__c8
+__s__a- - a- - am i - am i interpreting this correctly ?__c8
+__s__is this sort of what - what you're thinking of doing in the short term ?__c8
+__s^bu__huh .__c9
+__b__okay .__c8
+__b__yeah .__c9
+__b__so - so then i think it's just the - the missing piece is that you need to uh you know - you know talk to - talk to uh chuck talk to uh adam .__c8
+__s^fa__uh sort out about uh what's the best way to really you know attack this as a - as a - as a mass problem in terms of using many machines .__c8
+__qy^d^g^rt__uh ==__c8
+__qy^bu^d__and uh then you know set it up in terms of scripts and so forth and uh in - in kind o- - some kind of structured way .__c8
+__s^na__uh ==__c8
+__s__um and you know when we go to uh o g i next week uh we can then present to them you know what it is that we're doing .__c8
+__%__and uh | we can pull things out of this list that we think they are doing sufficiently .__c8
+__s^na__huh .__c2
+__b__that you know we're not - we won't be contributing that much .__c8
+__b__uhhuh .__c2
+__sj^ba__um ==__c8
+__b__and uh ==__c8
+__s^bk__then uh like we're there .__c8
+__b__how big are the nets you're using ?__c1
+__s__um | for the - for nets trained on digits um we have been using uh four hundred order hidden units .__c2
+__b__and um | for the broader class nets we're - we're going to increase that .__c2
+__s__because the um the digits nets only correspond to about twenty phonemes .__c2
+__b__uhhuh .__c1
+__b__so ==__c2
+__s__broader class ?__c8
+__s^aa__um | the broader - broader training corpus nets .__c2
+__b__like timit .__c2
+__b__um | w- - we're going to ==__c2
+__s__oh .__c8
+__s^bs__it's not actually broader class .__c8
+__b__it's actually finer class .__c8
+__s^na.%-__but you mean - y- - you mean more classes .__c8
+__b__right .__c2
+__s__right .__c2
+__b__yeah .__c2
+__s__more classes .__c2
+__%__right right .__c2
+__x__yeah .__c8
+__s__more classes .__c2
+__s__yeah .__c8
+__b__that's what i mean .__c2
+__s__yeah .__c8
+__b__uhhuh .__c2
+__fg__and ==__c2
+__s.%-__yeah .__c2
+__s__carmen did you - do you have something else to add ?__c8
+__s^aa__we - you haven't talked too much .__c8
+__s^bk__and ==__c8
+__s^bk__d- - i begin to work with the italian database to nnn to - with the f- - front end and with the h t k program and the @reject@ .__c4
+__s.%-__and i trained uh with the spanish two neural network with p l p and with lograsta p l p .__c4
+__s^bk__i don't know exactly what is better if - if lograsta or j rasta .__c4
+__fg__well um | j rasta has the potential to do better .__c8
+__b__but it doesn't always .__c8
+__s^df__it's - i- - j rasta is more complicated .__c8
+__b__it's - it's uh - instead of doing rasta with a log you're doing rasta with a log like function that varies depending on a j parameter .__c8
+__b__uh which is supposed to be sensitive to the amount of noise there is .__c8
+__s__so it's sort of like the right transformation to do the filtering in is dependent on how much noise there is .__c8
+__fh|s__huh huh .__c4
+__fh__and so in j rasta you attempt to do that .__c8
+__sj^ba__it's a little complicated .__c8
+__s^df__because once you do that you end up in some funny domain .__c8
+__s__and you end up having to do a transformation afterwards .__c8
+__s^cs.%-__which requires some tables .__c8
+__s__and uh ==__c8
+__sj^ba__so it's - it's - it's a little messier .__c8
+__b__huh huh .__c4
+__qw__uh there's more ways that it can go wrong .__c8
+__sj^ba__uh | but if - if - if you're careful with it it can do better .__c8
+__qy^d^g^rt__it's a bit - i'll do better .__c4
+__b__so it's ==__c8
+__b__so ==__c8
+__s__um | and i think to - to - to recognize the italian digits with the neural netw- - spanish neural network .__c4
+__s__and also to train another neural network with the spanish digits .__c4
+__s^ng__the database of spanish digits .__c4
+__s^na__and i working that .__c4
+__b__yeah .__c8
+__s__but prepa- - to prepare the - the database are difficult .__c4
+__s^na__was for me n- - it was a difficult work last week with the labels .__c4
+__b__because the - the program with the label obtained that i have the albayzin is different w- - to the label to train the neural network .__c4
+__s^na__and that is another work that we must to do to - to change .__c4
+__b__i- - i didn't understand .__c8
+__b__uh for example albayzin database was labeled automatically with h t k .__c4
+__s^bk__it's not hand .__c4
+__b__it's not labels by hand .__c4
+__b__oh .__c8
+__s__l- - labeled .__c8
+__%-__i'm sorry .__c8
+__b__labels .__c4
+__s^aa__i have a p- - i had a problem with the pronunciation .__c8
+__b__i'm sorry .__c4
+__fh__i'm sorry .__c4
+__b__the labels .__c4
+__s|qy^d^g__i'm sorry .__c4
+__s^na__the labels .__c4
+__s^2^na__yeah .__c8
+__b__okay .__c8
+__qy^rt__so ==__c8
+__s__okay .__c8
+__s__oh also that ==__c4
+__s__so let's start over .__c8
+__s^e__so ti- - timi- - timit's hand labeled .__c8
+__fh__yes .__c4
+__sj^fe__and - and you're saying about the spanish ?__c8
+__b__the spanish labels .__c4
+__s__that was in different format .__c4
+__b__oh i see .__c8
+__s__that the format for the them - the program to train the neural network .__c4
+__b__i necessary to convert .__c4
+__s__and someti- ==__c4
+__s__well ==__c4
+__b__so you're just having a problem converting the labels .__c0
+__s.%-__it's - it's ==__c4
+__b__yeah .__c4
+__s^aa__yeah .__c4
+__s^aa__but n- ==__c4
+__s^na__yes .__c4
+__s^e__because they have one program feacalc .__c4
+__b__but no .__c4
+__sj^ba__l- - labecut but don't - doesn't uh include the h t k format to convert .__c4
+__b__uhhuh .__c8
+__sj__and ==__c4
+__fg|s__huh .__c1
+__s__i don't know what .__c4
+__b__i ask - e- - even i ask to dan ellis what i can do that .__c4
+__b__and h- - they - he say me that he does- - doesn't any - any s- - any form to - to do that .__c4
+__fg|s^co__and at the end i think that with labecut i can transfer to ascii format .__c4
+__s^cs__and h t k is an ascii format .__c4
+__sj^ba__and i m- - do another uh one program to put ascii format of h t k to ase- - ay- - ac- - ascii format to exceed .__c4
+__qw__uhhuh .__c8
+__s.%-__and they used labcut to - to pass .__c4
+__b__okay .__c8
+__s__yeah .__c8
+__b__actually that was complicated .__c4
+__sj^fe__so you ==__c8
+__s__but well i know how we can did that - do that .__c4
+__fh__sure .__c8
+__s^cs__so it's just usual kind of uh - sometimes say housekeeping .__c8
+__sj^ba__right ?__c8
+__%-__to get these - get these things sorted out .__c8
+__s^cs__yeah .__c4
+__sj^ba__so it seems like there's - there's some peculiarities of the uh - of each of these dimensions that are getting sorted out .__c8
+__s^cs^e__and then um if - if you work on getting the uh assembly lines together and then the - the pieces sort of get ready to go into the assembly line .__c8
+__b__and gradually can start you know start turning the crank more or less .__c8
+__b__and uh uh ==__c8
+__b__we have a lot more computational capability here than they do at o g i .__c8
+__b__so i think that i- - if ==__c8
+__sj__what's - what's great about this is it sets it up in a very systematic way .__c8
+__s^j.%-__so that uh once these - all of these you know mundane but real problems get sorted out we can just start turning the crank .__c8
+__fg__uhhuh .__c4
+__fg__and - and push all of us through .__c8
+__s^cs__and then finally figure out what's best .__c8
+__fg__yeah .__c2
+__b__um ==__c2
+__s^aa^fe__i - i was thinking two things .__c2
+__s^cs__uh | the first thing was um ==__c2
+__s__we - we actually had thought of this as sort of like um - not - not in stages but more along the - the time axis .__c2
+__s^cs__just kind of like one stream at a time .__c2
+__sj__uhhuh .__c8
+__sj__je-je-je-je-je - check out the results .__c2
+__s^bk__and - and go that way .__c2
+__b__oh yeah yeah .__c8
+__b__sure .__c8
+__fg|s^co^tc__no | i'm just saying i'm just thinking of it like loops .__c8
+__qy^2^d^rt__right ?__c8
+__fg__and so y- - y- - y- - if you had three nested loops that you have a choice for this a choice for this and a choice for that .__c8
+__fh__uhhuh .__c2
+__s^nd^tc__yeah .__c2
+__b__right ?__c8
+__qy^rt__and you're going through them all .__c8
+__s^na__uhhuh .__c2
+__s__that - that's what i meant .__c8
+__qy^rt__right .__c2
+__s^aa__right .__c2
+__s^bk__and | uh the thing is that once you get a better handle on how much you can realistically do uh um concurrently on different machines different sperts and so forth uh and you see how long it takes on what machine and so forth you can stand back from it and say okay if we look at all these combinations we're talking about and combinations of combinations and so forth you'll probably find you can't do it all .__c8
+__s__uhhuh .__c2
+__s__okay .__c2
+__s^na__okay .__c8
+__fg__so then at that point uh we should sort out which ones do we throw away .__c8
+__s^co__which of the combinations across - you know what are the most likely ones .__c8
+__s^bk__uhhuh .__c2
+__s.%-__and ==__c8
+__fg|s^tc__and uh ==__c8
+__s^cs__i still think we could do a lot of them .__c8
+__fh|s^t__i mean it wouldn't surprise me if we could do a hundred of them or something .__c8
+__s__but probably when you include all the combinations you're actually talking about a thousand of them or something .__c8
+__fh__and that's probably more than we can do .__c8
+__s^cs^na__uh ==__c8
+__fg|qw.%-__but a hundred is a lot .__c8
+__s^cs__and - and - uh - um ==__c8
+__s^cc__okay .__c2
+__s^bu|qy^d^g^rt__yeah .__c8
+__s^aa__yeah .__c2
+__qy^cs^d^rt__and the - the second thing was about scratch space .__c2
+__s^bk__and i think you sent an email about um e- - scratch space for - for people to work on .__c2
+__s^nd__and i know that uh stephane's working from an n t machine .__c2
+__s.%--__so his - his home directory exists somewhere else .__c2
+__fh|s^t^tc__his his stuff is somewhere else .__c8
+__s^co.%-__yeah .__c8
+__s^co__yeah .__c8
+__s^nd__i mean my point ==__c8
+__qy^cs^rt__i - i want to ==__c8
+__s^bk__yeah .__c8
+__s^aa__thanks for bring it back to that .__c8
+__s^df__my - th- - i want to clarify my point about that - that - that chuck repeated in his note .__c8
+__s^aa__um ==__c8
+__s^cs^nd__we're - over the next year or two we're going to be upgrading the networks in this place .__c8
+__s.%-__uhhuh .__c2
+__sj__but right now they're still all te- - pretty much all ten megabit lines .__c8
+__b__and we have reached the - this - the machines are getting faster and faster .__c8
+__s__so it actually has reached the point where it's a significant drag on the time for something to move the data from one place to another .__c8
+__s__uhhuh .__c2
+__s^cs.%-__so you - you don't - especially in something with repetitive computation where you're going over it multiple times you do - don't want to have the - the data that you're working on distant from where it's being - where the computation's being done if you can help it .__c8
+__b__uhhuh .__c2
+__s^cs^nd__uh ==__c8
+__fg__now we are getting more disk for the central file server .__c8
+__s__which since it's not a computational server would seem to be a contradiction to what i just said .__c8
+__%--__but the idea is that uh suppose you're working with uh this big bunch of multi - multi lingual databases .__c8
+__s^cc^df__um ==__c8
+__s^nd__you put them all in the central ser- - at the cen- - central file server .__c8
+__b__uhhuh .__c2
+__h|s__then when you're working with something and accessing it many times you copy the piece of it that you're working with over to some place that's close to where the computation is and then do all the work there .__c8
+__s__and then that way you - you won't have the - the network - you won't be clogging the network for yourself and others .__c8
+__s__huh .__c2
+__b__that's the idea .__c8
+__s__so uh | it's going to take us ==__c8
+__b__it may be too late for this uh p- - precise crunch we're in now .__c8
+__s__but uh ==__c8
+__qw__we're ==__c8
+__qr__uh ==__c8
+__s^ar|s^nd__it's going to take us a couple weeks at least to get the uh uh the amount of disk we're going to be getting we're actually going to get .__c8
+__s^co__uh i think four more uh thirty six gigabyte drives .__c8
+__s^ar__and uh put them on another - another disk rack ==__c8
+__s.%-__we ran out of space on the disk rack that we had .__c8
+__s^df^nd.%-__so we're getting another disk rack and four more drives to share between uh primarily between this project and the meetings - meetings project .__c8
+__s^ng__um ==__c8
+__s^bk__but uh ==__c8
+__fh|s__we've put another - i guess there's another eighteen gigabytes that's - that's in there now to help us with the immediate crunch .__c8
+__fh__but uh ==__c8
+__s__are you saying ?==__c8
+__s^nd__so i don't know where you're ==__c8
+__s^aa|s^na__stephane where you're doing your computations ?__c8
+__s^df__if - i- - so you're on n t machine .__c8
+__b__so you're using some external machine too .__c8
+__fg|s^df^ng__yeah .__c9
+__s^bk__it ==__c9
+__s^bk__uh ==__c9
+__sj^ba__well ==__c9
+__s.%__to ==__c9
+____it's nutmeg and mustard i think .__c9
+____it uh ==__c9
+____do you know these yet ?__c8
+____i don't know what kind .__c9
+____nuh uh .__c0
+____yeah okay .__c8
+__s__uh ==__c8
+__qw__are these - are these uh computational servers or something ?__c8
+__fh|s__i'm - i've been kind of out of it .__c8
+__s__yeah .__c9
+__s__i think yeah .__c9
+__s__i think so .__c9
+__s__huh .__c9
+__s^aa__unfortunately these days my idea of running comput- - of computa- - doing computation is running a spread sheet .__c8
+__qy.%--__so ==__c8
+__b__huh .__c9
+__sj^fe__uh ==__c8
+__fh|s^cc__haven't been - haven't been doing much computing personally .__c8
+__b__so ==__c8
+__s__um ==__c8
+__s__yeah .__c8
+__s__so those are computational servers .__c8
+__s^na__so i guess the other question is what disk there i- - space there is there on the computational servers .__c8
+__s.%-__right .__c0
+__s^e__yeah | i'm not sure what's available on ==__c0
+__s^aa__is it ?==__c0
+__s.%-__you said nutmeg .__c0
+__fh|s^bd__and what was the other one ?__c0
+__s__mustard .__c9
+__s^na__mustard .__c0
+__b__okay .__c0
+__x__yeah .__c8
+__fh|s^cs__huh .__c1
+__s^aa|s^df__well you're the - you're the disk czar now .__c8
+__%--__so ==__c8
+__b__right right .__c0
+__fg__well i'll check on that .__c0
+__b__yeah .__c8
+__s^bu__yeah | so basically uh chuck will be the one who will be sorting out what disk needs to be where and so on .__c8
+__s__and i'll be the one who says okay spend the money .__c8
+__sj^fe^t1__which i mean n- ==__c8
+__qy^d^g^rt__these days uh if you're talking about scratch space it doesn't increase the uh need for backup .__c8
+__s__and uh | i think it's not that big a d- ==__c8
+__b__and the - the disks themselves are not that expensive .__c8
+__s__right now it's ==__c8
+__b__what you can do when you're on that machine is uh just go to the slash scratch directory and do a d f minus k .__c0
+__sj^fe^t1__and it'll tell you if there's space available .__c0
+__s__yeah .__c9
+__s__uh and if there is then uh ==__c0
+__s^na__but wasn't it uh ?==__c8
+__s__i think dave was saying that he preferred that people didn't put stuff in slash scratch .__c8
+__s__it's more putting in d- - s- - x a or x b or ==__c8
+__b__well there's different - there um there's ==__c0
+__b__right ?__c8
+__b__right .__c0
+__s^nd__so there's the slash x whatever disks and then there's slash scratch .__c0
+__s__and both of those two kinds are not backed up .__c0
+__s^df__and if it's called slash scratch it means it's probably an internal disk to the machine .__c0
+__b__um ==__c0
+__s^aa|s^na__and so that's the kind of thing where like if um okay if you don't have an n t but you have a - a - a unix workstation and they attach an external disk it'll be called slash x something uh if it's not backed up .__c0
+__b__and it'll be slash d something if it is backed up .__c0
+__s^cs^t^tc__and if it's inside the machine on the desk it's called slash scratch .__c0
+__s__but the problem is if you ever get a new machine they take your machine away .__c0
+__fh|s__it's easy to unhook the external disks .__c0
+__s^cs__put them back on the new machine .__c0
+__b__but then your slash scratch is gone .__c0
+__b__so you don't want to put anything in slash scratch that you want to keep around for a long period of time .__c0
+__s^cs__but if it's a copy of say some data that's on a server you can put it on slash scratch .__c0
+__s__because um first of all it's not backed up .__c0
+__s^fa__and second it doesn't matter if that machine disappears and you get a new machine .__c0
+__b__because you just recopy it to slash scratch .__c0
+__s^bk__so tha- - that's why i was saying you could check slash scratch on those - on - on um mustard and - and nutmeg to see if - if there's space that you could use there .__c0
+__s^df__i see .__c8
+__qw^tc__you could also use slash x whatever disks on mustard and nutmeg .__c0
+__qy^f^rt__yeah yeah .__c9
+__qy^bu^d^rt__um ==__c0
+__s^aa__yeah .__c0
+__qw__and we do have ==__c0
+__qw^bu__i mean ==__c0
+__qw^r__yeah .__c0
+__s.%--__so - so you ==__c0
+__s.%--__yeah it's better to have things local if you're going to run over them lots of times so you don't have to go to the network .__c0
+__s.%-__right .__c8
+__s^na__so es- - so especially if you're - right if you're - if you're taking some piece of the training corpus which usually resides in where chuck is putting it all on the - on the uh file server uh then yeah it's fine if it's not backed up .__c8
+__s.%-__because if it g- - g- - gets wiped out or something y- - i mean it is backed up on the other disk .__c8
+__s__so ==__c8
+__qw__uhhuh .__c0
+__s__yeah .__c8
+__s^aa__okay .__c8
+__s^bu.%-__yeah so | one of the things that i need to - i've started looking at ==__c0
+__s__uh is this the appropriate time to talk about the disk space stuff ?__c0
+__fg|%-__sure .__c8
+__x__i've started looking at um disk space .__c0
+__s^nd__dan - david um put a new um drive onto abbott that's an x disk .__c0
+__s__which means it's not backed up .__c0
+__s__so ==__c0
+__s__um | i've been going through and copying data that is you know some kind of corpus stuff usually that - that we've got on a c d rom or something onto that new disk to free up space on other disks .__c0
+__fg|s.%--__and um so far um i've copied a couple of carmen's um databases over there .__c0
+__s^aa__we haven't deleted them off of the slash d c disk that they're on right now in abbott .__c0
+__qy^rt__um ==__c0
+__qy__uh but we - i would like to go through - sit down with you about some of these other ones and see if we can move them onto um this new disk also .__c0
+__s^bc^nd__yeah okay .__c9
+__qy^bu^d__there's - there's a lot more space there .__c0
+__qy^bu^d__and it'll free up more space for doing the experiments and things .__c0
+__s^bc^na__so anything that - that you don't need backed up we can put on this new disk .__c0
+__s__um but if it's experiments and you're creating files and things that you're going to need you probably want to have those on a disk that's backed up just in case something goes wrong .__c0
+__s__so ==__c0
+__s__um ==__c0
+__s__so far i've - i've copied a couple of things .__c0
+__s__but i haven't deleted anything off of the old disk to make room yet .__c0
+__sj__um ==__c0
+__s^co__and i haven't looked at the - any of the aurora stuff .__c0
+__s__except for the spanish .__c0
+__b__so i - i guess i'll need to get together with you and see what data we can move onto the new disk .__c0
+__s__yeah okay .__c9
+__s.%-__um ==__c8
+__b__yeah .__c8
+__sj__i - i just ==__c8
+__b__an- - another question occurred to me is - is what were you folks planning to do about normalization ?__c8
+__s__um ==__c9
+__b__well we were thinking about using this systematically for all the experiments .__c9
+__sj^ba__um ==__c9
+__s__this being ?__c8
+__s__so ==__c9
+__fg|%-__but ==__c9
+__x__uh ==__c9
+__s__so that this could be another dimension .__c9
+__b__but we think perhaps we can use the - the best uh um uh normalization scheme as o g i is using .__c9
+__b__so with parameters that they use there .__c9
+__s^ng__a- ==__c9
+__b__yeah .__c8
+__s.%-__i think that's a good idea .__c8
+__s__u- - u- ==__c9
+__s__i mean it's i- - i- - we - we seem to have enough dimensions as it is .__c8
+__s.%-__so probably if we sort of take their ==__c8
+__b__yeah yeah yeah .__c9
+__s^aap__probably the online - line normalization .__c8
+__s^nd__because then it - it's - if we do anything else we're going to end up having to do online normalization too .__c8
+__s^aa__so we may as well just do online normalization .__c8
+__s^aa__uhhuh .__c9
+__s^na__so ==__c8
+__b__so that it's plausible for the final thing .__c8
+__b__good .__c8
+__b__um ==__c8
+__b__so i guess ==__c8
+__b__yeah th- - the other topic ==__c8
+__b__i - maybe we're already there or almost there is goals for the - for next week's meeting .__c8
+__fh__uh i- - i- - i- - it seems to me that we want to do is flush out what you put on the board here .__c8
+__s__uh ==__c8
+__b__you know maybe have it be somewhat visual little bit .__c8
+__s^cs__okay .__c2
+__s^ng__like a s- - like a slide ?__c2
+__s^df__uh ==__c8
+__b__so w- - we can say what we're doing .__c8
+__s^df__yeah .__c8
+__s^bs__okay .__c2
+__b__and um also if you have sorted out um this information about how long i- - roughly how long it takes to do on what and you know what we can - how many of these trainings uh uh and testings and so forth that we can realistically do uh then one of the big goals of going there next week would be to - to actually settle on which of them we're going to do .__c8
+__fg|s__and uh | when we come back we can charge in and do it .__c8
+__s^bk__um ==__c8
+__qw^ng__anything else that ?==__c8
+__s^df^ng.%-__a- - a- - actually - started out this - this field trip started off with - with uh stephane talking to hynek .__c8
+__s^2__so you may have - you may have had other goals uh for going up .__c8
+__qy__and any- - anything else you can think of would be - we should think about accomplishing ?__c8
+__s^aa__i mean i'm just saying this because maybe there's things we need to do in preparation .__c8
+__b__oh i think basically this is - this is ==__c9
+__s.%-__uh yeah .__c9
+__sj__okay .__c8
+__sj^fe__okay .__c8
+__s^cs__uh ==__c8
+__%-__all right .__c8
+__s.%-__and uh - and the other - the - the last topic i had here was um uh dave's fine offer to - to uh do something on this .__c8
+__b__i mean he's doing - he's working on other things .__c8
+__s__but to - to do something on this project .__c8
+__s^aa__so the question is where - where could we uh uh most use dave's help ?__c8
+__b__um ==__c9
+__x__yeah .__c9
+__b__i was thinking perhaps if um additionally to all these experiments which is not really research .__c9
+__b__well i mean it's uh running programs .__c9
+__b__yeah .__c8
+__s^aa__and um trying to have a closer look at the perhaps the um speech uh noise detection or uh voiced-sound-unvoiced-sound detection .__c9
+__s^na__and which could be important in - i- - for noise - noise .__c9
+__s^cs__i think that would be a - i think that's a big - big deal .__c0
+__s^aap__because the - you know the thing that sunil was talking about uh with the labels uh labeling the database when it got to the noisy stuff .__c0
+__%__the - that - that really throws things off .__c0
+__b__you know having the noise all of a sudden your - your um speech detector .__c0
+__b__i mean the - the um ==__c0
+__qw^rt__what was it ?__c0
+__b__um .__c8
+__s^df__what was happening with his thing ?__c0
+__%-__he was running through these models very quickly .__c0
+__b__he was getting lots of uh uh insertions is what it was .__c0
+__s^df.%--__in his recognitions .__c0
+__s.%-__the only problem ==__c8
+__qw__i mean maybe that's the right thing .__c8
+__fg|s__the only problem i have with it is exactly the same reason why you thought it'd be a good thing to do .__c8
+__b__um | i - i think that ==__c8
+__b__let's fall back to that .__c8
+__s__but i think the first responsibility is sort of to figure out if there's something that uh an - an additional ==__c8
+__b__uh ==__c8
+__s__that's a good thing you remove the mike .__c8
+__s__go ahead .__c8
+__s^bk__good .__c8
+__b__uh ==__c8
+__fh__uh ==__c8
+__b__what an additional clever person could help with when we're really in a crunch for time .__c8
+__s^bk|s^bs__right ?__c8
+__s^aa__because dave's going to be around for a long time .__c8
+__s^cs__all right ?__c8
+__s^na__yeah .__c4
+__s^cs__he's - he's going to be here for years .__c8
+__s^ng__yeah .__c9
+__b__and so um ==__c8
+__b__over years if he's if - he's interested in you know voiced-unvoiced-silence he could do a lot .__c8
+__b__but if there - if in fact there's something else that he could be doing would help us when we're - we're sort of uh strapped for time .__c8
+__s^na^r__we have - we - we've you know only uh another - another month or two to - you know with the holidays in the middle of it - um to to - get a lot done .__c8
+__b__if we can think of something - some piece of this that's going to be ==__c8
+__b__the very fact that it is sort of just work and i- - and it's running programs and so forth is exactly why it's possible that it - some piece of could be handed to someone to do .__c8
+__b__because it's not ==__c8
+__s__uh yeah .__c8
+__b__so that - that's the question .__c8
+__s^cs__and we don't have to solve it right this s- - second .__c8
+__b__but if we could think of some - some piece that's - that's well defined that he could help with .__c8
+__s^co__he's expressing a will- - willingness to do that .__c8
+__s__what about training up a um a multilingual net ?__c0
+__s^2__uh ==__c8
+__s^cs__yes .__c4
+__b__yeah .__c9
+__s^2__maybe to huh put together the - the label - the labels between timit and spanish or something like that .__c4
+__x__yeah .__c9
+__qy^d^f^g__so defining the superset .__c9
+__b__yes .__c4
+__s^cs__and uh joining the data .__c9
+__s^cs__and huh ==__c9
+__s^cs__yeah .__c4
+__b__yeah .__c9
+__s.%--__uh ==__c8
+__s^nd__yeah .__c8
+__s^cs__that's something that needs to be done .__c8
+__s^cs^nd__in any event .__c8
+__s^aa__yeah .__c4
+__s^aa__so what we were just saying is that - that um - i was arguing for if possible coming up with something that - that really was development and wasn't research .__c8
+__s__because we - we're - we have a time crunch .__c8
+__s^cs^na.%-__and so uh if there's something that would - would save some time that someone else could do on some other piece then we should think of that first .__c8
+__s^cs__see the thing with voiced-unvoiced-silence is i really think that - that it's - to do - to do a - a - a - a poor job is - is pretty quick .__c8
+__b__uh ==__c8
+__s^cs__or you know a so so job .__c8
+__s__you can - you can - you can throw in a couple fea- ==__c8
+__qy^d^g__we know what - what kinds of features help with it .__c8
+__s^arp__huh .__c4
+__s^e__you can throw something in .__c8
+__qy^d^g__you can do pretty well .__c8
+__s^cs__but i remember in fact when you were working on that .__c8
+__b__and you worked on for few months as i recall .__c8
+__s^cs__and you got to say ninety three percent .__c8
+__s^nd__and getting to ninety four really really hard .__c8
+__b__uhhuh .__c0
+__s.%-__another year .__c0
+__s^aap^df__yeah .__c8
+__x__yeah .__c8
+__s^bs^nd__so ==__c8
+__s^bk__um ==__c8
+__s^cs^df__and th- - th- - the other tricky thing is since we are ==__c8
+__s^bk__uh even though we're not - we don't have a strict prohibition on memory size and - and computational complexity uh clearly there's some limitation to it .__c8
+__s^bk|s.%-__so if we have to - if we say we have to have a pitch detector say if we - if we're trying to incorporate pitch information or at least some kind of harmonic - harmonicity or something this is another whole thing .__c8
+__s^bk^r__take a while to develop .__c8
+__s__anyway it's a very very interesting topic .__c8
+__b__i mean one - i think one of the - a lot of people would say and i think dan would also uh that one of the things wrong with current speech recognition is that we - we really do throw away all the harmonicity information .__c8
+__s.%-__uh | we try to get spectral envelopes .__c8
+__s.%--__reason for doing that is that most of the information about the phonetic identity is in the spectral envelopes are not in the harmonic detail .__c8
+__sj^ba__but the harmonic detail does tell you something .__c8
+__s.%--__like the fact that there is harmonic detail is - is real important .__c8
+__s^bk__so ==__c8
+__s__um ==__c8
+__s__so uh ==__c8
+__fh__so i think ==__c8
+__b__yeah .__c8
+__s__so - wh- - that - so the - the other suggestion just came up was well what about having him work on the uh multi lingual super- - superset kind of thing .__c8
+__s^bk|s^fa__uh | coming up with that and then you know training it - training a net on that say um from - from uh from timit or something .__c8
+__sj^ba__is that - or uh - for multiple databases .__c8
+__s^cs__what - what would you - what would you think it would ?==__c8
+__b__wh- - what would this task consist of ?__c8
+__fg__yeah | it would consist in uh ==__c9
+__s__well .__c9
+__b__um | creating the - the superset .__c9
+__s^na__and uh modifying the lab- - labels for matching the superset .__c9
+__s__uh ==__c9
+__s__uh | creating a superset from looking at the multiple languages .__c8
+__b__well creating the mappings actually .__c9
+__s__and then creating i- - m- - changing labels on timit ?__c8
+__b__yeah .__c9
+__s__or on - or on multiple language - multiple languages ?__c8
+__s__no .__c4
+__s^cs^j__yeah yeah .__c9
+__fh__the multiple language .__c4
+__s^j__with the three languages .__c9
+__b__maybe for the other language .__c4
+__s^cs^j__because timit have more phone .__c4
+__s^cs^j__yeah .__c8
+__b__uh .__c8
+__qy__so you'd have to create a mapping from each language to the superset .__c0
+__s^cs^j__yeah .__c4
+__s^cs^j__from each language to the superset .__c9
+__s^cs^j__uhhuh .__c4
+__b__yeah .__c9
+__qy__yeah .__c4
+__s__there's ==__c2
+__s__um ==__c2
+__s^bu.%-__carmen was talking about this sampa thing .__c2
+__s^na__and it's um it's an effort by linguists to come up with um a machine readable i p a um sort of thing .__c2
+__s__right .__c2
+__qw__and um | they - they have a web site that stephane was showing us that has um has all the english phonemes and their sampa correspondent um phoneme .__c2
+__s__yeah .__c8
+__s^cs__and then um they have spanish .__c2
+__s^j^na__they have german .__c2
+__s^cs^j__they have all - all sorts of languages um mapping - mapping to the sampa phonemes .__c2
+__s^bk|s^j__which ==__c2
+__qw^j__yeah .__c4
+__fg__the tr- - the transcription though for albayzin is n- - the transcription are of sampa the same uh how you say symbol that sampa appear .__c4
+__fg__sampa ?__c1
+__qr^bu.%--__what does sampa mean ?__c1
+__qw__uhhuh .__c8
+__s^co^t^tc__huh .__c8
+__s^na__but i don't know if timit o- - how is timit .__c4
+__qy^bu__so i mean ==__c1
+__s__what ==__c8
+__fh__i'm sorry .__c1
+__s^bk__go ahead .__c8
+____i was going to say does that mean i p a is not really international ?__c1
+__b.%__no | it's - it's saying ==__c2
+____it uses special diacritics and stuff which you can't do with ascii characters .__c0
+____y- - can't print on ascii .__c2
+____yeah .__c4
+____oh i see .__c1
+__z__so the sampa's just mapping those .__c0
+__z__got it .__c1
+__z__what uh ?==__c8
+__z__has o g i done anything about this issue ?__c8
+__z__do they have - do they have any kind of superset that they already have ?__c8
+__z__i don't think so .__c9
+__z__well they - they - they're going actually the - the other way defining phoneme clusters apparently .__c9
+__z__well ==__c9
+__z__aha .__c8
+__z__that's right .__c8
+__z__uh and that's an interesting way to go too .__c8
+__z__so they just throw the speech from all different languages together .__c0
+__z__then cluster it into sixty or fifty or whatever clusters ?__c0
+__z__i think they've not done it uh doing uh multiple language yet .__c9
+__z__but what they did is to training uh english nets with all the phonemes .__c9
+__z__and then training it in english nets with uh kind of seventeen i think it was seventeen uh broad classes .__c9
+__z__automatically derived .__c0
+__z__uhhuh .__c0
+__z__yeah .__c9
+__z__automatically derived broad classes or ?==__c0
+__z__yeah | i think so .__c9
+__z__uhhuh .__c0
+__z__uh ==__c9
+__z__and yeah .__c9

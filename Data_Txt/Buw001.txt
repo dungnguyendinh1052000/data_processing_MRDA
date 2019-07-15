@@ -1,0 +1,1362 @@
+__s__we're i mean we - we didn't have a house before .__c1
+__b__yeah .__c3
+__s__yeah .__c3
+__s.%-__@reject@ okay .__c4
+____we're on again ?__c3
+____okay .__c3
+____uhhuh .__c0
+____that is really great .__c0
+____yeah so if uh - so if anyone hasn't signed the consent form please do so .__cb
+____okay- ==__c3
+____oh yeah !__c1
+____that's terrific .__c0
+__s^bk__the new consent form .__cb
+__s^bu|qy^d^g__the new and improved consent form .__cb
+__s.%-__now you won't be able to walk or ride your bike huh ?__c0
+__s^ar__uh .__c8
+__s^ar|s__okay .__c3
+__fg|s__okay .__c3
+__s^na__right .__c1
+__s__and uh shall i go ahead and do some digits ?__cb
+__s__uh | we were going to do that at the end .__c3
+__s^df.%-__remember ?__c3
+__s__okay | whatever you want .__cb
+__s^e.%-__yeah .__c3
+__s^aa__just - just to be consistent from here on in at least that - that we'll do it at the end .__c3
+__s^aa__the new consent form .__c1
+__b.%__it's uh - yeah it doesn't matter .__cb
+__b.%__okay .__cb
+__s__okay .__c3
+__s__testing one two three .__c8
+__s__um | well it ju- - i mean it might be that someone here has to go .__c3
+__s^aa|s__and ==__c3
+__s__right ?__c3
+__s.%-__that was - that was sort of the point .__c3
+__s__so uh | i had asked actually anybody who had any ideas for an agenda to send it to me and no one did .__c3
+__qy^rt^t^tc__so ==__c3
+__qy^e.%-__so we all forgot .__cb
+__s^aa__uh ==__c3
+__s^bk|s__from last time i wanted to - uh the - an iss- - uh one topic from last time .__c8
+__s^bk__right .__c3
+__b__s- - okay so one item for an agenda is uh jane has some uh uh some research to talk about research issues .__c3
+__fh|qw^t__um and uh | adam has some short research issues .__c3
+__s^t__and i have some short research issues .__cb
+__qy^rt__um i have a list of things that i think were done over the last three months .__c3
+__fg|qy^rt__i was supposed to send off uh and um i - i sent a note about it to uh - to adam and jane .__c3
+__s.%--__but i think i'll just run through it also and see if someone thinks it's inaccurate or uh insufficient .__c3
+__s^ba__a list that you have to send off to who ?__c0
+__%--__uh to uh | uh i b m .__c3
+__s^na__oh .__c0
+__s__@reject@ .__c4
+__s__okay .__c3
+__fh__they're you know ==__c3
+__s^df__so ==__c3
+__s.%__um so uh | so i'll go through that .__c3
+__s^ar|s.%-__um | and anything else anyone wants to talk about ?__c3
+__s^cs__no .__c3
+__qw.%-__okay .__c3
+__s^bk|s^df^nd__what about the um - your trip yesterday ?__c0
+__s.%__um .__c3
+__%__sort of off topic i guess .__c3
+__qw__because that's because that was all - all about the uh ==__c3
+__s__oh okay .__c0
+__s__i - i - i can chat with you about that off line .__c3
+__s^cs__that's another thing .__c3
+__s^fe__um | and anything else ?__c3
+__s.%--__nothing else ?__c3
+__s^f__uh | there's a - i mean there is a - a um uh telephone call tomorrow which will be a conference call that some of us are involved in for uh a possible proposal .__c3
+__b__um we'll talk - we'll talk about it next week if - if something ==__c3
+__qy.%--__do you want me to be there for that ?__cb
+__s__i noticed you c c'ed me but i wasn't actually a recipient .__cb
+__%-__i didn't quite know what to make of that .__cb
+__%--__uh | well we'll talk - talk about that after our meeting .__c3
+__s^bk|s__okay .__cb
+__s^na__okay .__c3
+__b__uh okay .__c3
+__s__so it sounds like the - the three main things that we have to talk about are uh this list uh jane and - jane and adam have some research items and other than that anything as usual anything goes beyond that .__c3
+__b__okay | uh jane since - since you were sort of cut off last time why don't we start with yours ?__c3
+__s.%-__make sure we get to it .__c3
+__s^bk|s__okay it's - it's very uh - it's very brief i mean - just let me - just hand these out .__c8
+__s^aa|s^cs__oops !__c8
+__b__is this the same as the e mail or different ?__cb
+__s^ba__it's slightly different .__c8
+__s^bk__thanks .__c2
+__s^ba__i - basically the same .__c8
+__%--__okay .__cb
+__%--__same idea ?__c0
+__s^bk__but same idea .__c8
+__b__so if you've looked at this you've seen it before .__c8
+__b__so basically um as you know uh part of the encoding includes a mark that indicates an overlap .__c8
+__b__it's not indicated with um uh tight precision it's just indicated that - okay so it's indicated to - to - so the people know what parts of sp- - which - which stretches of speech were in the clear versus being overlapped by others .__c8
+__qw__so i used this mark and um and uh uh divided the ==__c8
+__s.%--__i wrote a script which divides things into individual minutes of which we ended up with forty five and a little bit .__c8
+__s^ba__and uh you know minute zero of course is the first minute up to sixty seconds .__c8
+__s^bk__okay .__c2
+__s^bk__and um what you can see is the number of overlaps and then to the right whether they involve two speakers three speakers or more than three speakers .__c8
+__s^t^tc__and um and | what i was looking for sp- - sp- - specifically was the question of whether they're distributed evenly throughout or whether they're bursts of them .__c8
+__s__um .__c8
+__%-__and it looked to me as though ==__c8
+__s__uh you know - y- - this is just - uh - uh this would - this is not statistically verified but it did look to me as though there are bursts throughout rather than being localized to a particular region .__c8
+__qh.%--__the part down there where there's the maximum number of - of um overlaps is an area where we were discussing whether or not it would be useful to indi- - to s- - to code stress uh sentence stress as possible indication of uh information retrieval .__c8
+__fh__so it's like you know rather lively discussion there .__c8
+__qh__what was - what's the - the parenthesized stuff that says like - e- - the first one that says six overlaps and then two point eight ?__c3
+__%-__oh .__c8
+__s__th- - that's the per cent .__c8
+__s^m^na__huh .__c3
+__s__so six is uh two point eight per cent of the total number of overlaps in the session .__c8
+__s__uhhuh .__c4
+__fh__uh .__c3
+__s.%--__uhhuh .__c2
+__s.%--__at the very end this is when people were you know packing up to go basically .__c8
+__s.%--__there's this final stuff .__c8
+__s^df^no__i think we - i don't remember where the digits fell .__c8
+__qy^bu^d^rt__i'd have to look at that .__c8
+__s^bu^m^rt__but the final three there are no overlaps at all .__c8
+__s__and couple times there are not .__c8
+__s__so i- - it seems like it goes through bursts but um that's kind of it .__c8
+__s__uhhuh .__c4
+__b__uhhuh .__c4
+__s__now another question is is there - are there individual differences in whether you're likely to be overlapped with or to overlap with others .__c8
+__s^aap__and again i want to emphasize this is just one particular um - one particular meeting and also there's been no statistical testing of it all but i um i took the coding of the ==__c8
+__s:s__i you know my - i had this script figure out um who was the first speaker who was the second speaker involved in a two person overlap i didn't look at the ones involving three or more .__c8
+__b__and um this is how it breaks down in the individual cells of who tended to be overlapping most often with who - who else .__c8
+__s__and if you look at the marginal totals which is the ones on the right side and across the bottom you get the totals for an individual .__c8
+__s__so um if you look at the bottom those are the um numbers of overlaps in which um adam was involved as the person doing the overlapping and if you look ==__c8
+__b__i'm sorry but you're o- - alphabetical that's why i'm choosing you .__c8
+__s^df^nd__and then if you look across the right then that's where he was the person who was the sp- - first speaker in the pair and got overlap - overlapped with by somebody .__c8
+__s^f__huh !__c0
+__s^aa|s__uhhuh .__c4
+__s^df__and then if you look down in the summary table then you see that um th- - they're differences in whether a person got overlapped with or overlapped by .__c8
+__s^aa__is this uh just raw counts or is it ?==__cb
+__%--__raw counts .__c8
+__s__so it would be interesting to see how much each person spoke .__cb
+__%-__uhhuh .__c1
+__s^ba__yes very true - very true .__c8
+__s^df__yeah yeah .__c4
+__fh__yeah .__c2
+__s^e__normalized to how much ==__cb
+__s^aa|s^cs__it would be good to normalize with respect to that .__c8
+__b__now on the table i did take one step toward uh away from the raw frequencies by putting uh percentages .__c8
+__s^cs^e__so that the percentage of time of the - of the times that a person spoke what percentage uh w- ==__c8
+__s__so of the times a person spoke and furthermore was involved in a two - two person overlap what percentage of the time were they the overlapper and what percent of the time were they th- - the overlappee ?__c8
+__fh__and there it looks like you see some differences .__c8
+__s__um that some people tend to be overlapped with more often than they're overlapped .__c8
+__s^bk__but of course uh i- - e- - this is just one meeting uh there's no statistical testing involved and that would be required for a - for a finding of any kind of scientific reliability .__c8
+__s^bk__s- - so i- - it would be statistically incorrect to conclude from this that adam talked too much or something .__c3
+__s^t^tc__no - no | actually that would be actually statistically correct .__cb
+__s__no no no .__c8
+__s^aa__yeah yeah .__c3
+__s^m^na__yeah yeah .__c4
+__s__but ==__cb
+__qy^rt__yeah yeah .__c4
+__s^ar|s^nd.%--__yeah that's right .__c8
+__s^ar|s^df__that's right .__c8
+__fh__yeah .__c3
+__s^aa|s^rt__and i'm you know i'm - i don't see a point of singling people out .__c8
+__fh__excuse me .__c3
+__qw^t1__now this is a case where obviously ==__c8
+__s__b- - i - i - i rather enjoyed it but - but this ==__c3
+__s^rt__but the numbers speak for themselves .__c0
+__s__he's - yeah yeah yeah .__c4
+__s__yes that's right | so you don't nee- - okay .__cb
+__s__well you know it's like - i'm not - i'm not saying on the tape who did better or worse .__c8
+__s__because i don't think that it's ==__c8
+__s__sure .__c3
+__s__i - you know ==__c8
+__qy__and - and th- - here's a case where of course human subjects people would say be sure that you anonymize the results and - | and so might as well do this .__c8
+__qy.%--__yeah when - this is what - this is actually - when jane sent this e mail first is what caused me to start thinking about anonymizing the data .__cb
+__s^ar__yeah .__c3
+__s^j.%--__well fair enough .__c8
+__qy^cs^rt__fair enough .__c8
+__s^cc__and actually you know the point is not about an individual it's the point about tendencies toward you know different styles different speaker styles .__c8
+__s^bk|s__yeah .__c3
+__s__oh sure .__c3
+__s__and it would be you know of course there's also the question of what type of overlap was this and w- - what were they .__c8
+__s__and i- - and i - and i know that i can distinguish at least three types and probably more .__c8
+__s__i mean the general cultural idea which w- - uh the conversation analysts originally started with in the seventies was that we have this strict model where politeness involves that you let the person finish th- - before you start talking .__c8
+__s__and and you know i mean w- - we know that - an- - and they've loosened up on that too s- - in the intervening time that that that's - that's viewed as being a culturally relative thing .__c8
+__s__i mean that you have the high involvement style from the east coast where people will overlap often as an indication of interest in what the other person is saying .__c8
+__s__uhhuh .__cb
+__s__and ==__c8
+__s^bk__yeah exactly !__c8
+__s^ft.%__exactly !__c1
+__s__well there you go .__c8
+__s__yeah .__c4
+__s__fine that's all right that's okay .__c8
+__fh__and - and you know in contrast so deborah - d- - and also deborah tannen's thesis .__c8
+__s__she talked about differences of these types that they're just different styles .__c8
+__b__and it's um you - you can't impose a model of - there - of the ideal being no overlaps .__c8
+__s__and you know conversational analysts also agree with that .__c8
+__qy^rt__so it's now universally a- - ag- - agreed with .__c8
+__s.%--__and - and als- ==__c8
+__s^df^e.%--__i mean i can't say universally .__c8
+__s__but anyway the people who used to say it was strict um now uh don't .__c8
+__s__i mean they - they also you know uh uh ack- - acknowledge the influence of sub- - of subcultural norms and cross cultural norms and things .__c8
+__b__so um then it beco- - though - so - just - just superficially to give um a couple ideas of the types of overlaps involved i have at the bottom several that i noticed .__c8
+__s^aa__so uh there are backchannels like what adam just did now .__c8
+__s^bk__and um um | anticipating the end of a question and simply answering it earlier .__c8
+__s^aa__and there are several of those in this - in these data where ==__c8
+__s__uhhuh .__c1
+__s^ba__because we're people who've talked to each other .__c8
+__b.%__um we know basically what the topic is what the possibilities are and w- - and we've spoken with each other .__c8
+__s^bk__so we know basically what the other person's style is likely to be .__c8
+__s__and so and t- - there are a number of places where someone just answered early .__c8
+__s__no problem .__c8
+__fh__and places also which i thought were interesting where two or more people gave exactly th- - the same answer in unison - different words of course .__c8
+__s^aap__but you know the - basically you know everyone's saying yes or - you know or ev- - even more sp- - specific than that .__c8
+__s^aa|s^na__so uh the point is that um overlap's not necessarily a bad thing and that it would be im- - i- - useful to subdivide these further and see if there are individual differences in styles with respect to the types involved .__c8
+__s^aa__and that's all i wanted to say on that unless people have questions .__c8
+__s^bk__well of course th- - the biggest um result here which is one we've - we've talked about many times and isn't new to us but which i think would be interesting to show someone who isn't familiar with this is just the sheer number of overlaps .__c3
+__s^na__yep .__cb
+__s__yes yes !__c4
+__b.%__oh okay - | interesting .__c8
+__fg|s^t^tc__that - that - right - that - that um ==__c3
+__b__yeah .__c4
+__s.%__here's a relatively short meeting .__c3
+__fg__it's a forty - forty plus minute meeting .__c3
+__%--__and not only were there two hundred and fifteen overlaps but uh i think there's one - one minute there where there - where - where there wasn't any overlap .__c3
+__s__hundred ninety seven .__cb
+__s__i mean it's - uh throughout this thing .__c3
+__qh__well at the bottom you have the bottom three .__c8
+__qh__it's - you have ==__c3
+__qh__s- - n- - are ==__cb
+__qh__it'd be interesting ==__c0
+__s__yeah .__c4
+__%-__so four - four minutes all together with none - none .__c8
+__qh^e__oh so the bottom three did have s- - stuff going on ?__c3
+__s__but it w- ==__c0
+__s^aa__yes uhhuh .__c8
+__b__there was speech .__c3
+__s.%--__yeah .__c8
+__s__but just no overlaps .__c8
+__s^aa__okay so if - the - this ==__c3
+__qy^d^g^rt__it'd be interesting to see what the total amount of time is in the overlaps versus ==__c0
+__s^e__yes exactly | and that's - that's where jose's pro- - project comes in .__c8
+__b__i was about to ask ==__ca
+__fh__yeah yeah i h- - i have this- - that infor- - i have th- - that information now .__c4
+__%--__yeah .__c2
+__s__yeah .__c0
+__s__huh .__c1
+__s__oh about how much is it ?__c3
+__s.%--__the - the duration of uh - of each of the overlaps .__c4
+__s__o- - oh what's - what's the - what's the average length ?__c3
+__s__m- - i - i haven't averaged it now .__c4
+__qh^df.%-__but uh i - i will uh i will do the - the study of the - with the - with the program with the - uh the different uh the nnn distribution of the duration of the overlaps .__c4
+__s__you don't know ?__c3
+__s__okay you - you don- - you don't have a feeling for roughly how much it is ?__c3
+__qy^d^rt__huh because the - the uh budget is horrid .__c4
+__b__yeah .__c3
+__s^e__the duration is uh the variation - the variation of the duration is uh very big on the dat- ==__c4
+__s__yeah .__c3
+__%-__uhhuh .__c0
+__s__i suspect that it will also differ depending on the type of overlap involved .__c8
+__b__but uh ==__c4
+__s^bd^df__yeah .__c4
+__s^bd^e:s__so backchannels will be very brief .__c8
+__b__oh i'm sure .__c3
+__s__because on your surface uh a bit of zone of overlapping with the duration uh overlapped and another very very short .__c4
+__%-__and ==__c8
+__s__yeah .__c3
+__s^aa__yeah .__c3
+__s^e__uh i- - probably it's very difficult to - to - because the - the overlap is uh on- - is only the - in the final s of the - of the - the fin- - the - the end - the end word of the um previous speaker with the - the next word of the - the new speaker .__c4
+__s^aa__uhhuh .__c0
+__s^df^no:s__um i considered that's an overlap but it's very short it's an x with a - and - the idea is probably uh when uh - when uh we studied th- - th- - that zone uh uh we h- - we have uh uh confusion with uh uh noise .__c4
+__b__uhhuh .__c0
+__s^df^e:s__with uh that fricative sounds but uh i have new information but i have to - to study .__c4
+__%__yeah .__c3
+__s^df^ng__yeah | but i - i'd - u- ==__c3
+__s^e__can i ==__ca
+__%-__go ahead .__c3
+__s^aa__yeah .__c8
+__%-__you split this by minute um so if an overlap straddles the boundary between two minutes that counts towards both of those minutes .__ca
+__s__yes .__c8
+__s__uhhuh .__c8
+__s__actually um um actually not .__c8
+__s__uh so le- - let's think about the case where a starts speaking and then b overlaps with a and then the minute boundary happens .__c8
+__s^df__and let's say that after that minute boundary um b is still speaking and a overlaps with b .__c8
+__qw__that would be a new overlap .__c8
+__s^cs__but otherwise um let's say b comes to the conclusion of - of that turn without anyone overlapping with him or her .__c8
+__s^aa|s^ba__in which case there would be no overlap counted in that second minute .__c8
+__s^ba__no but suppose they both talk simultaneously both a - a portion of it is in minute one and another portion of minute two .__ca
+__b__okay .__c8
+__qh^cs__in that case um my c- - the coding that i was using - since we haven't uh incorporated adam's uh coding of overlap yets the coding of ==__c8
+__s^aap__yeah yets is not a word .__c8
+__s^nd.%--__uh since we haven't incorporated adam's method of handling overl- - overlaps yet um then that would have fallen through the cra- - cracks .__c8
+__qh^df^ng__it would be an underestimate of the number of overlaps because um i wou- - i wouldn't be able to pick it up from the way it was encoded so far .__c8
+__s__we just haven't done th- - the precise second to sec- - you know second to second coding of when they occur .__c8
+__b__i- - i- ==__c3
+__qy^d^f^g__i- - i- ==__c3
+__s^aa__i'm - i'm - i'm confused now .__c3
+__s^df__so l- - l- - let me restate what i thought andreas was saying and - and see .__c3
+__s__uhhuh .__c8
+__%-__let's say that in - in second fifty seven of one minute you start talking and i start talking and we ignore each other and keep on talking for six seconds .__c3
+__s__yep .__c8
+__%-__okay .__c8
+__s__uhhuh .__c8
+__s^e__so we go over - so we were - we were talking over one another and it's just - in each case it's just sort of one interval .__c3
+__b__uhhuh .__c8
+__s__right ?__c3
+__s__so um | we talked over the minute boundary .__c3
+__s__is this considered as one overlap in each of the minutes the way you have done this ?__c3
+__s__no it wouldn't .__c8
+__s^cs__it would be considered as an overlap in the first one .__c8
+__%-__okay so that's good i- - i think in the sense that i think andreas meant the question .__c3
+__s^cs^e__that's - that's good | yeah because the overall rate is ==__c1
+__s__yeah .__ca
+__s^e__hmph .__c2
+__s^aa__statistical .__cb
+__s^e.%--__yeah .__c1
+__s__yep .__cb
+__s__uhhuh .__c8
+__b__other- - otherwise you'd get double counts here and there .__ca
+__s^e__right ?__c3
+__b__yeah .__c8
+__s__they're not double counted .__c8
+__b__yeah .__c4
+__s__uh but yeah .__c1
+__b__and then it would be harder .__ca
+__s^2__@reject@ .__c1
+__s.%--__yeah .__c3
+__s^aa__yeah .__c4
+__s__i should also say i did a simplifying uh count in that if a was speaking b overlapped with a and then a came back again and overlapped with b again .__c8
+__s__i - i didn't count that as a three person overlap i counted that as a two person overlap and it was a being overlapped with by d .__c8
+__b__uhhuh .__cb
+__s^bk__because the idea was the first speaker had the floor and the second person started speaking and then the f- - the first person reasserted the floor kind of thing .__c8
+__s__these are simplifying assumptions .__c8
+__b__yeah .__c1
+__s__didn't happen very often .__c8
+__s__there may be like three overlaps affected that way in the whole thing .__c8
+__b__i want to go back and listen to minute forty one .__cb
+__s^df.%--__yeah yeah .__c8
+__s^ba__because i- - i- - i find it interesting that there were a large number of overlaps and they were all two speaker .__cb
+__s^cs__yeah .__c3
+__%-__i mean what i thought - what i would have thought in is that when there were a large number of overlaps it was because everyone was talking at once but uh apparently not .__cb
+__b__that's interesting .__c8
+__b__that's interesting .__c8
+__s^cs^e__yeah .__c4
+__s^ba__yeah .__c4
+__%-__huh .__c4
+__s.%--__that's really neat .__cb
+__s^bd^df__yeah there's a lot of backchannel a lot o- - a lot of ==__c8
+__s^bu|qy^d^g__yeah .__c3
+__fg|s^df__this is really interesting data .__cb
+__s.%-__yeah it is .__c8
+__s^df^e__i think so too i think .__c8
+__s.%-__i think what's really interesting though it is before d- - saying yes meetings have a lot of overlaps is to actually find out how many more we have than two party .__c1
+__s^bk__because in two party conversations like switchboard there's an awful lot too if you just look at backchannels if you consider those overlaps .__c1
+__s.%--__it's also ver- - it's huge .__c1
+__%-__it's just that people haven't been looking at that because they've been doing single channel processing for speech recognition .__c1
+__%__uhhuh .__cb
+__s__uhhuh .__c3
+__s^rt__so the question is you know how many more overlaps do you have of say the two person type by adding more people to a meeting .__c1
+__s__and it may be a lot more but i- - it may - it may not be .__c1
+__b__well | but see i find it interesting even if it wasn't any more .__c3
+__s__so ==__c1
+__s^df__because since we were dealing with this full duplex sort of thing in switchboard where it was just all separated out we just - everything was just nice .__c3
+__s^df^ng__uhhuh .__c1
+__qy^d^g__so that - so the issue is in - in a situation where th- - that's ==__c3
+__s.%-__well it's not really nice .__c1
+__s^aa__it depends what you're doing .__c1
+__s__so if you were actually having ==__c1
+__s__uh ==__c1
+__s__depends what you're doing .__c1
+__s__if - right now we're do- - we have individual mikes on the people in this meeting .__c1
+__s^am__uhhuh .__c3
+__%-__so the question is you know - are there really more overlaps happening than there would be in a two person party .__c1
+__s__let - let m- - let me rephrase what i'm saying because i don't think i'm getting it across .__c3
+__%-__and - and there well may be but ==__c1
+__s^aa__what - what i - what - i shouldn't use words like nice because maybe that's too - i- - too imprecise .__c3
+__s^aa__but what i mean is that um in switchboard despite the many - many other problems that we have one problem that we're not considering is overlap .__c3
+__s^na__and what we're doing now is aside from the many other differences in the task we are considering overlap .__c3
+__s__and one of the reasons that we're considering it you know one of them not all of them one of them is that w- - uh at least you know i'm very interested in the scenario in which uh both people talking are pretty much equally audible and from a single microphone .__c3
+__s__and so in that case it does get mixed in and it's pretty hard to jus- - to just ignore it to just do processing on one and not on the other .__c3
+__fh__i - i agree that it's an issue here but it's also an issue for switchboard .__c1
+__b__and if you think of meetings being recorded over the telephone which i think you know this whole point of studying meetings isn't just to have people in a room but to also have meetings over different phone lines .__c1
+__s.%--__uhhuh .__c3
+__s__maybe far field mike people wouldn't be interested in that but all the dialogue issues still apply .__c1
+__b__uhhuh .__c3
+__s.%-__so if each of us was calling and having a meeting that way you kn- - you know like a conference call .__c1
+__b__and just the question is y- - you know in switchboard you would think that's the simplest case of a meeting of more than one person .__c1
+__fg|s^df__uhhuh .__c3
+__fh__and i'm wondering how much more overlap of the types that - that jane described happen with more people present .__c1
+__s^df__so it may be that having three people is very different from having two people or it may not be .__c1
+__s.%--__that's an important question to ask .__c3
+__s__i think what i'm - all i'm s- - really saying is that i don't think we were considering that in switchboard .__c3
+__s__so ==__c1
+__s:qw__not you me .__c1
+__%-__were you ?==__c3
+__s^cs.%--__though it wasn't in the design .__cb
+__s__but uh - but - but ==__c1
+__b__were you - were you - were you - were you measuring it ?__c3
+__s^e__i mean w- - w- - were ==__c3
+__s__there - there's ==__c1
+__b.%__actually to tell you the truth the reason why it's hard to measure is because of ==__c1
+__s__so from the point of view of studying dialogue i mean which dan jurafsky and andreas and i had some projects on you want to know the sequence of turns .__c1
+__s__yeah .__c3
+__b__so what happens is if you're talking and i have a backchannel in the middle of your turn and then you keep going what it looks like in a dialogue model is your turn and then my backchannel .__c1
+__s:qw__yeah .__c3
+__fg|s^ba^nd__even though my backchannel occurred completely inside your turn .__c1
+__s^df__yeah .__c3
+__%-__so for things like language modeling or dialogue modeling it's - we know that that's wrong in real time .__c1
+__s.%-__yeah .__c3
+__s__but because of the acoustic segmentations that were done and the fact that some of the acoustic data in switchboard were missing people couldn't study it .__c1
+__b__but that doesn't mean in the real world that people don't talk that way .__c1
+__s^e__yeah | i wasn't saying that .__c3
+__s__so | it's - um ==__c1
+__s__right ?__c3
+__s__i was just saying that w- - now we're looking at it .__c3
+__s__well we've als- ==__c1
+__s^e__and - and - and you - you maybe wanted to look at it before but for these various technical reasons in terms of how the data was you weren't .__c3
+__s__right .__c1
+__fh__we're looking at it here .__c1
+__s__so that's why it's coming to us as new .__c3
+__s.%--__even though it may well be you know if your - if your hypothes- - the hypothesis you were offering uh ==__c3
+__b__um .__c1
+__s^no__right if it's the null poth- - hypothesis and if actually you have as much overlap in a two person we don't know the answer to that .__c3
+__s__the reason we don't know the answer to is because it wasn't studied and it wasn't studied because it wasn't set up right .__c3
+__b__yeah | all i meant is that if you're asking the question from the point of view of what's different about a meeting studying meetings of say more than two people versus what kinds of questions you could ask with a two person meeting .__c1
+__b__uhhuh .__c3
+__s^e__it's important to distinguish that you know this project is getting a lot of overlap but other projects were too but we just couldn't study them .__c1
+__s^aa|s^na__may have been .__c3
+__b__and and so uh ==__c1
+__s__may have been .__c3
+__s^df^e:qy__right ?__c3
+__s.%--__we do kn- - we don't know the numbers .__c3
+__b__well | there is a high rate .__c1
+__s__so ==__c1
+__s^aa__it's - but i don't know how high in fact .__c1
+__s^aa__well here- - i have a question .__c0
+__s^df__that would be interesting to know .__c1
+__b__see i mean i- - i- - le- - let me t- ==__c3
+__s__i mean my point was just if you wanted to say to somebody what have we learned about overlaps here .__c3
+__s.%-__just never mind comparison with something else .__c3
+__s^cs^df__uhhuh .__c1
+__s^aa__what we've learned about is overlaps in this situation is that - the first - the first order thing i would say is that there's a lot of them .__c3
+__b__yeah .__c4
+__s:qw__right ?__c3
+__b__in - in the sense that i- - if you said if - i- - i- - i- ==__c3
+__s__yeah i - i don't di- - i agree with that .__c1
+__s^df__in a way i guess what i'm comparing to is more the common sense notion of how - how much people overlap .__c3
+__s^aa__uh | you know the fact that when - when - when uh adam was looking for a stretch of - of speech before that didn't have any overlaps and he w- - he was having such a hard time .__c3
+__s^aa__and now i look at this and i go well i can see why he was having such a hard time .__c3
+__s.%--__right .__c1
+__s__that's also true of switchboard .__c1
+__s:s__it's happening a lot .__c3
+__s__i wasn't saying it wasn't .__c3
+__s__it may not be ==__c1
+__s^e__right .__c1
+__b.%__so it's just um ==__c1
+__s.%-__right ?__c3
+__s^ba^df^ng__i was commenting about this .__c3
+__s^e__okay .__c1
+__s^cs__i'm saying if i - i'm saying if i have this complicated thing in front of me and we sh- - which you know we're going to get much more sophisticated about when we get lots more data .__c3
+__%-__all i'm saying is that from the ==__c1
+__s^ar__but - then if i was going to describe to somebody what did you learn right here about you know the - the modest amount of data that was analyzed i'd say well the first order thing was there was a lot of overlaps .__c3
+__s^df__in fact - and it's not just an overlap - bunch of overlaps - second order thing is it's not just a bunch of overlaps in one particular point but that there's overlaps uh throughout the thing .__c3
+__qw^br^m__right .__cb
+__b__and that's interesting .__c3
+__s^e__right .__c1
+__s^ar|s^df.%--__no i - i agree with that .__c1
+__%-__that's all .__c3
+__s__i'm just saying that it may - the reason you get overlaps may or may not be due to sort of the number of people in the meeting .__c1
+__s__oh yeah .__c3
+__s__yeah .__c3
+__b__and that's all .__c1
+__s^df__yeah i wasn't making any statement about that .__c3
+__b__and - and it would actually be interesting to find out .__c1
+__s__yeah .__c3
+__b__because some of the data say switchboard which isn't exactly the same kind of context .__c1
+__s^cs__i mean these are two people who don't know each other and so forth .__c1
+__s^cs^e__but we should still be able to somehow say what - what is the added contra- - contribution to sort of overlap time of each additional person or something like that .__c1
+__b__yep .__cb
+__b.%__i could certainly see it going either way .__cb
+__s^nd__yeah | that would be good to know .__c3
+__s__okay now .__c8
+__s^rt__what ==__c0
+__s__but w- - we ==__c3
+__s__wh- - yeah i - i agree - i agree with adam .__c8
+__b__but yeah .__c1
+__s__yeah .__c4
+__s__and the reason is because i think there's a limit - there's an upper bound on how many you can have simply from the standpoint of audibility .__c8
+__b__when we speak we - we do make a judgment of can - you know as adults .__c8
+__qh__uhhuh .__c3
+__s__right .__c1
+__s__i mean children don't adjust so well .__c8
+__%-__i mean if a truck goes rolling past adults will - well depending but mostly adults will - will - will hold off to what - to finish the end of the sentence till the - till the noise is past .__c8
+__s^ng__uhhuh .__c3
+__s.%--__and i think we generally do monitor things like that about - whether we - whether our utterance will be in the clear or not .__c8
+__s.%--__right .__c1
+__s__and partly it's related to rhythmic structure in conversation .__c8
+__s^ba^bd__so you know you - you t- - yeah this is d- - also um people tend to time their - their - their um when they come into the conversation based on the overall rhythmic uh uh ambient thing .__c8
+__s^df__well ==__c0
+__s.%--__right .__c1
+__s__so you don't want to be c- - cross cutting .__c8
+__s__and - and just to finish this that um - that i think that there may be an upper bound on how many overlaps you can have simply from the standpoint of audibility and how loud the other people are who are already in the fray .__c8
+__s__but i - you know of certain types .__c8
+__s__now if it's just backchannels people may be doing that with less intention of being heard just sort of spontaneously doing backchannels .__c8
+__s:qw__in which case that - those might - there may be no upper bound on those .__c8
+__s^no__i - i have a feeling that backchannels which are the vast majority of overlaps in switchboard uh don't play as big a role here because it's very unnatural i think to backchannel if - in a multi audience - you know in a multi person audience .__ca
+__s__if you can see them actually .__c1
+__s:s__it's interesting .__c1
+__s:s__so if you watch people are going like right - right like this here .__c1
+__s.%--:qw.%--__right .__ca
+__s__yeah .__c4
+__b__but - that may not be the case if you couldn't see them .__c1
+__s__u- ==__c3
+__s__but - but it's sort of odd if one person's speaking and everybody's listening .__ca
+__b__and it's unusual to have everybody going uhhuh uhhuh .__ca
+__b__actually i think i've done it a fair number of times today .__c3
+__s__@reject@ but .__c3
+__s^aa|s^na__yeah .__c1
+__s__there's a lot of head nodding in this @reject@ .__c1
+__b__um .__cb
+__s^aa|s^na__yeah .__ca
+__qw__yep we need to put trackers on it .__cb
+__fh__in - in the two person ==__c0
+__s^df^rt__yeah yeah yeah .__c4
+__%-__he could he could .__c8
+__s__plus - plus - plus the ==__ca
+__s^df__yeah .__ca
+__%-__so so - actually um that's in part because the nodding - if you have visual contact the nodding has the same function .__ca
+__s^df^e.%--__but on the phone in switchboard you - you - that wouldn't work .__ca
+__s^df__yeah you don't have it .__cb
+__fh__so so you need to use the backchannel .__ca
+__s__your mike is ==__cb
+__s^bd__so in the two person conversations when there's backchannel is there a great deal of overlap in the speech ?__c0
+__s__that is an earphone so if you just put it so it's on your ear .__cb
+__s__or ?==__c0
+__b__because my impression is sometimes it happens when there's a pause .__c0
+__s^df__yes .__c1
+__s^df^e.%--__there you go .__cb
+__s^df^e__yeah .__c1
+__s__thank you .__cb
+__s__e- - for example .__c8
+__s__you know like you - you get a lot of backchannel when somebody's pausing .__c0
+__s^df^rt__yes .__c1
+__s__right .__c1
+__s^2__she's doing that .__c8
+__b.%__sorry | what were you saying ?__c1
+__s^aa__it's hard to do both .__c0
+__s.%--:qw__huh ?__c0
+__s^aa__um | no when - when - when there's backchannel i mean just - i was just listening and - and when there's two people talking and there's backchannel it seems like um the backchannel happens when you know the pitch drops and the first person ==__c0
+__b__oh .__c1
+__s^e:s__and a lot of times the first person actually stops talking and then there's a backchannel and then they start up again .__c0
+__b__and so i'm wondering about - h- - i just wonder how much overlap there is .__c0
+__s^e:s__is there a lot ?__c0
+__s^e:s__i think there's a lot of the kind that jose was talking about where - i mean this is called precision timing in conversation analysis where they come in overlapping but at a point where the information is mostly complete .__c1
+__s.%--__so all you're missing is some last syllables or something or the last word or some highly predictable words .__c1
+__s__huh .__c0
+__s^df__uhhuh .__c0
+__s^e.%--__so technically it's an overlap .__c1
+__b__but you know from information flow point of view it's not an overlap in the predictable information .__c1
+__s.%--__but maybe a - just a small overlap ?__c0
+__s__more yeah .__c4
+__s^e.%--__it'd be interesting if we could do prediction .__cb
+__s__i was just thinking more in terms of alignment alignment overlap .__c0
+__s^df__yeah .__c1
+__fh__language model prediction of overlap that would be really interesting .__cb
+__s^df^e__so - so ==__ca
+__b__yeah .__c3
+__s^df^e__well that's exactly exactly why we wanted to study the precise timing of overlaps ins- - in uh switchboard .__c1
+__%-__right .__ca
+__s^cs__right .__cb
+__s^bk__so - so here's a - here's a first interesting labeling task .__ca
+__b__say because there's a lot of that .__c1
+__s__uh | to distinguish between say backchannels precision timing - sort of you know benevolent overlaps and - and - and w- - and - and sort of um i don't know hostile overlaps where someone is trying to grab the floor from someone else .__ca
+__s.%-__uhhuh .__cb
+__s^e__let's pick a different word .__cb
+__s^bk__yeah .__c4
+__s^df__uh that - that might be an interesting um problem to look at .__ca
+__s__yeah .__c4
+__s^na__hostile takeovers .__c0
+__fh__yeah .__c4
+__s^na^r|s^na__yeah .__c3
+__qo.%--__well i mean you could do that .__c8
+__s__yeah .__c4
+__%-__i ju- - i - i think that in this meeting i really had the feeling that wasn't happening that the hostile - hostile type .__c8
+__s__these were - these were benevolent types as people finishing each other's sentences and stuff .__c8
+__s^aa__okay .__ca
+__fh__uhhuh .__c1
+__s__um | i could imagine that as - there's a fair number of um cases where and this is sort of not really hostile but sort of competitive where one person is finishing something and you have like two or three people jumping - trying to - trying to - trying to uh grab the next turn .__ca
+__s__trying to get the floor .__cb
+__qy^bh__yeah .__c3
+__s^na__and so it's not against the person who talks first because actually we're all waiting for that person to finish .__ca
+__s^aa|s^bd__but they all want to be next .__ca
+__qy^d^g^rt__i have a feeling most of these things are - that - that are not a benevolent kind are - are are uh um are - are competitive as opposed to real- - really - really hostile .__c3
+__s^aa__right .__ca
+__s.%--__yeah i agree .__c8
+__s.%--__but .__c3
+__s__i wonder what determines who gets the floor ?__c0
+__s__i agree .__c8
+__s^na|s^2__well there are various things you you - have the ==__c8
+__s__i mean ==__c0
+__s^aa__uh | a vote - vote in florida .__c3
+__s__it's been studied a lot .__cb
+__b__yeah .__c3
+__fg|s__voting for ==__c4
+__s^2__um | o- - one thing - i - i wanted to - or you can tell a good joke and then everybody's laughing and you get a chance to g- - break in .__c3
+__b__seniority .__ca
+__b__but .__c3
+__s^na__but .__c3
+__s^e__um .__c3
+__b__you know the other thing i was thinking was that um these - all these interesting questions are of course pretty hard to answer with uh u- - you know a small amount of data .__c3
+__s^ng.%--__ach .__cb
+__b__@reject@ so um i wonder if what you're saying suggests that we should make a conscious attempt to have um a - a fair number of meetings with uh a smaller number of people .__c3
+__qy__right ?__c3
+__s__i mean we - most of our meetings are uh meetings currently with say five six seven eight people .__c3
+__qw__should we really try to have some two person meetings or some three person meetings and re- - record them just to - to - to beef up the - the statistics on that ?__c3
+__s__that's a control .__c8
+__s__well it seems like there are two possibilities there .__c8
+__s^bk__i mean i- - it seems like if you have just two people it's not really y- - like a meeting w- - is not as similar as the rest of the - of the sample .__c8
+__b__it depends on what you're after of course .__c8
+__s^cs__but it seems like that would be more a case of the control condition compared to uh an experimental condition with more than two .__c8
+__s^ba__uhhuh .__cb
+__s^df__well liz was raising the question of - of whether i- - it's the number - there's a relationship between the number of people and the number of overlaps or type of overlaps there .__c3
+__s^no__uhhuh .__c8
+__fg|s__and um | if you had two people meeting in this kind of circumstance then you'd still have the visuals .__c3
+__s^r__you wouldn't have that difference also that you have in the say in switchboard data .__c3
+__s__uhhuh .__c8
+__s__uh .__c3
+__s.%--__yeah i'm just thinking that'd be more like a c- - control condition .__c8
+__s^cs__yeah .__c3
+__s__uhhuh .__c8
+__s^na__well but from the acoustic point of view it's all good .__cb
+__s.%-__yeah .__c4
+__s^aap|s^df^nd__is the same .__c4
+__s^bd^no__yeah acoustic is fine .__c3
+__s__if - if the goal were to just look at overlap you would - you could serve yourself - save yourself a lot of time but not even transcri- - transcribe the words .__ca
+__s__but ==__c3
+__%--__yep .__cb
+__s__well i was thinking you should be able to do this from the acoustics on the close talking mikes .__c1
+__s^aa|%-__well that's - the - that was my - my status report .__cb
+__%-__yeah .__c3
+__s__you've been working on that .__c8
+__s__right ?__c1
+__s__right | i mean adam was ==__c1
+__s.%-__yeah .__c8
+__b__yeah .__c4
+__s^na__so once we're done with this stuff discussing .__cb
+__s^aa__right .__c1
+__s^ba__yeah .__c3
+__s^e__i mean not as well as what - i mean you wouldn't be able to have any kind of typology obviously .__c1
+__s^df^na__uhhuh .__cb
+__b__but you'd get some rough statistics .__c1
+__qh^df.%-__but - | what - what do you think about that ?__c3
+__s^na__so ==__c1
+__qh^df.%-__do you think that would be useful ?__c3
+__b__i'm just thinking that as an action item of whether we should try to record some two person meetings or something .__c3
+__s^ar|s__i guess my - my first comment was um only that um we should n- - not attribute overlaps only to meetings .__c1
+__s^e__but maybe that's obvious .__c1
+__b__maybe everybody knew that .__c1
+__b__yeah .__c3
+__b__but that in normal conversation with two people there's an awful lot of the same kinds of overlap .__c1
+__s__uhhuh .__c3
+__s^df^nd__and that it would be interesting to look at whether there are these kinds of constraints that jane mentioned that what maybe the additional people add to this competition that happens right after a turn .__c1
+__b.%__you know because now you can have five people trying to grab the turn .__c1
+__b.%__but pretty quickly there're - they back off .__c1
+__b__and you go back to this sort of only one person at a time with one person interrupting at a time .__c1
+__%-__uhhuh .__c3
+__s^df__so i don't know .__c1
+__%-__to answer your question i it - i don't think it's crucial to have controls .__c1
+__s^df__but i think it's worth recording all the meetings we can .__c1
+__s^na__can .__cb
+__s^df^e.%-__well okay .__c3
+__s^cs.%-__yeah .__c4
+__s^2__so um you know .__c1
+__s^aa__i - i have an idea .__ca
+__s^aa|s^na__d- - i wouldn't not record a two person meeting just because it only has two people .__c1
+__s^na__right .__cb
+__s^df__could we - could we um ?==__ca
+__b__we have - have in the past and i think continue - will continue to have a fair number of uh phone conference calls .__ca
+__s^df.%-__uhhuh .__c3
+__s^df^e__yeah we talked about this repeatedly .__cb
+__s^df:s__and uh | and as a - to um as another c- - c- - comparison condition we could um see what - what what happens in terms of overlap when you don't have visual contact .__ca
+__fh__so um ==__ca
+__s^df^e:s__can we actually record ?__c1
+__fh__it just seems like that's a very different thing than what we're doing .__cb
+__%-__uh | well we'll have to set up for it .__c3
+__b__i mean physically can we record the o- - the other ?==__c1
+__s^na__yeah .__c3
+__s^df^e__well we're not really set up for it to do that .__c3
+__%-__but ==__c3
+__%-__or | this is getting a little extravagant we could put up some kind of blinds or something to - to remove uh visual contact .__ca
+__fh__yeah .__c3
+__%-__barriers !__cb
+__%-__yeah .__c2
+__s^e__that's what they did on map task you know this map task corpus .__c1
+__s.%--__they ran exactly the same pairs of people with and without visual cues .__c1
+__%-__and it's quite interesting .__c1
+__s__well we - we record this meeting so regularly it wouldn't be that - i mean a little strange .__c3
+__s^df__okay we can record but no one can look at each other .__cb
+__s__well | we could just put b- - blindfolds on .__c1
+__s^na__yeah .__c2
+__s^aa__close your eyes .__cb
+__s^na__well | y- - no you - f- ==__ca
+__s__blindf- ==__c8
+__s__yeah yeah .__ca
+__s^bk__turn off the lights .__cb
+__b__and we'd take a picture of everybody sitting here with blindfolds .__c1
+__s__that would ==__c1
+__b.%__oh | th- - that was the other thing .__c3
+__s^e__weren't we going to take a picture at the beginning of each of these meetings ?__c3
+__s^e__um | what - i had thought we were going to do is just take pictures of the whiteboards rather than take pictures of the meeting .__cb
+__s__well linguistic ==__c8
+__b.%__and uh ==__cb
+__s__yeah .__c8
+__b__yes .__c3
+__s.%--__linguistic anthropologists would - would suggest it would be useful to also take a picture of the meeting .__c8
+__b__there's a head nodding here vigorously yeah .__c3
+__b__why - why do we want to have a picture of the meeting ?__c0
+__s.%--__the - because you get then the spatial relationship of the speakers .__c8
+__fh__ee- - you mean transc- - no ==__c1
+__s__well you could do that by just noting on the enrollment sheet the - the seat number .__ca
+__b__and that could be ==__c8
+__s__@reject@ yeah yeah .__c4
+__qy^d^g__yeah .__c4
+__b__seat number that's a good idea .__cb
+__fh__i'll do that .__cb
+__s^df^ng__yeah .__c4
+__s__i'll do that on the next set of forms .__cb
+__s^aa__so you'd number them somehow .__ca
+__s.%-__yeah .__c4
+__s__is possible to get information from the rhythmic - f- - from the ge- - uh uh files .__c4
+__s^e__i finally remembered to put uh put native language on the newer forms .__cb
+__b__we can - can't you figure it out from the mike number ?__c0
+__s^cs.%--__no .__cb
+__s.%-__okay .__c0
+__s^e__the wireless ones .__cb
+__b__and even the jacks i mean i'm sitting here and the jack is over in front of you .__cb
+__s__oh .__c0
+__s__but probably from these you could've infer it .__c1
+__s.%-__yeah but it's - it would be trivial ==__ca
+__s^2__it would be another task .__cb
+__b__it would be a research task .__c1
+__s^aa|s__having - having ground tu- - truth would be nice so seat number would be good .__cb
+__s^na__you know where you could get it ?__c0
+__s^df.%-__yeah yeah .__c1
+__s__yeah .__c4
+__s^aa__beam forming during the digit uh stuff .__c0
+__s__so i'm going to put little labels on all the chairs with the seat number .__cb
+__s^df__uhhuh .__c2
+__s^aa__that's a good idea .__cb
+__fh__not the chairs .__ca
+__s^aa__but you have to keep the chairs in the same pla- - like here .__c1
+__b__but uh ==__cb
+__fh__the chairs are - chairs are movable .__ca
+__s^ba__put them - like put them on the table where they ==__ca
+__b__the chair- - yeah .__c4
+__s^df.%--__yep .__cb
+__s__yeah .__c2
+__b.%__yep .__cb
+__s^bk__but you know they - the - s- - the linguistic anthropologists would say it would be good to have a digital picture anyway .__c8
+__fh__just remembered a joke .__c0
+__s__because you get a sense also of posture .__c8
+__s__what people were wearing .__ca
+__s^e__yeah .__cb
+__s__posture and we could like you know block out the person's face or whatever .__c8
+__b__the fashion statement .__c1
+__s__but - but you know these are important cues .__c8
+__s^df__oh andreas was ==__ca
+__s^aa__how big their heads are .__c0
+__s^na^rt__i mean the - the - how a person is sitting is ==__c8
+__s__but if you just ==__c3
+__s^df.%-__yeah .__ca
+__s^df^e:s__f- - but from one picture i don't know that you really get that .__c3
+__b__andreas was wearing that same old sweater again .__ca
+__s^na__right ?__c3
+__b__you'd want a video for that i think .__c3
+__s^cs__it'd be better than nothing is - is - i- - just from a single picture i think you can tell some aspects .__c8
+__fh__a video yeah .__c4
+__s__think so ?__c3
+__s__i mean i - i could tell you i mean if i- - if i'm in certain meetings i notice that there are certain people who really do - uh - the body language is very uh - is very interesting in terms of the dominance aspect .__c8
+__s__and - and ==__ca
+__b__huh .__c3
+__%-__yeah .__ca
+__s.%-__and - and morgan had that funny hair again .__ca
+__s|s^aa__yeah well i mean you black out the - that part .__c8
+__s^ba__huh .__cb
+__s^df.%-__but it's just you know the - the body .__c8
+__s^aa|s^na__he agreed .__c0
+__s^e__you know ?__c8
+__s^cs__of course the - where we sit at the table i find is very interesting that we do tend to cong- - to gravitate to the same place each time .__cb
+__s.%--__yeah .__c8
+__s.%-__and it's somewhat coincidental .__cb
+__s^df^nd__i'm sitting here so that i can run into the room if the hardware starts you know catching fire or something .__cb
+__s^df__oh no you - you just like to be in charge that's why you're sitting ==__ca
+__s^df^e^rt__i just want to be at the head of the table .__cb
+__s^ar|s.%-__yeah .__ca
+__s^e__take control .__cb
+__s^ar__speaking of taking control you said you had some research to talk about .__c3
+__s^r__yeah .__c8
+__s^nd__yeah i've been playing with um uh using the close talking mike to do - to try to figure out who's speaking .__cb
+__%-__yeah .__c8
+__b.%__so my first attempt was just using thresholding and filtering that we talked about - about two weeks ago .__cb
+__s__and so i played with that a little bit and it works okay except that it's very sensitive to your choice of your filter width and your threshold .__cb
+__b__so if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone's talking and when they're not .__cb
+__b__but if you try to use the same parameters on another speaker it doesn't work anymore .__cb
+__s.%--__even if you normalize it based on the absolute loudness .__cb
+__s__but does it work for that one speaker throughout the whole meeting ?__c1
+__s__it does work for the one speaker throughout the whole meeting .__cb
+__qy^bu^d^rt^t3__um | pretty well .__cb
+__s^e__pretty well .__cb
+__qy^bu^d^e^rt^t3__how did you do it adam ?__c0
+__b__how did i do it ?__cb
+__s__what do you mean ?__cb
+__s__yeah .__c0
+__s^bk__i mean wh- - what was the ==__c0
+__s__the algorithm was uh take o- - every frame that's over the threshold and then median filter it and then look for runs .__cb
+__s^cs__yeah .__c0
+__qy^rt__uhhuh .__c0
+__fh__so there was a minimum run length .__cb
+__qrr.%--__every frame that's over what threshold ?__c0
+__s^aa^rt__so that ==__cb
+__s.%-__a threshold that you pick .__cb
+__qrr__in terms of energy ?__c0
+__s__yeah .__cb
+__fh__uh .__c0
+__b__okay .__c0
+__s.%--__say that again .__c8
+__s^no__frame over fres- - threshold .__c8
+__s^cs__so you take a - each frame and you compute the energy .__cb
+__s__and if it's over the threshold you set it to one and if it's under the threshold you set it to zero so now you have a bit stream of zeros and ones .__cb
+__s__huh .__c8
+__b__okay .__c8
+__b__and then i median filtered that using um a fairly long filter length .__cb
+__%-__uh | well actually i guess depends on what you mean by long you know tenth of a second sorts of numbers .__cb
+__s__um | and that's to average out you know pitch you know the pitch contours and things like that .__cb
+__s^df__and then uh looked for long runs .__cb
+__%-__okay .__c8
+__s.%--__and that works okay if you fil- - if you tune the filter parameters if you tune how long your median filter is and how high you're looking for your thresholds .__cb
+__s__did you ever try running the filter before you pick a threshold ?__c0
+__s^bk__no .__cb
+__s^rt__i certainly could though .__cb
+__s__but this was just i had the program mostly written already so it was easy to do .__cb
+__s__okay and then the other thing i did was i took javier's speaker change detector - acoustic change detector and i implemented that with the close talking mikes .__cb
+__b__and unfortunately that's not working real well and it looks like it's ==__cb
+__s__the problem is - he does it in two passes .__cb
+__s__the first pass is to find candidate places to do a break .__cb
+__s__and he does that using a neural net doing broad phone classification and he has the the uh one of the phone classes is silence .__cb
+__b__and so the possible breaks are where silence starts and ends .__cb
+__fh__and then he has a second pass which is a modeling - a gaussian mixture model .__cb
+__s__um | looking for uh whether it improves or - or degrades to split at one of those particular places .__cb
+__%-__and what looks like it's happening is that the - even on the close talking mike the broad phone class classifier's doing a really bad job .__cb
+__s__who was it trained on ?__c0
+__s^df__uh | i have no idea .__cb
+__s^cs__i don't remember .__cb
+__s^cs__huh .__c0
+__s^cs^e__does an- - do you remember morgan ?__cb
+__s^2__was it broadcast news ?__cb
+__b.%__i think so yeah .__c3
+__s^cs__um | so at any rate my next attempt which i'm in the midst of and haven't quite finished yet was actually using the uh thresholding as the way of generating the candidates .__cb
+__b.%__because one of the things that definitely happens is if you put the threshold low you get lots of breaks .__cb
+__fh__all of which are definitely acoustic events .__cb
+__%-__they're definitely someone talking .__cb
+__s^cs__but like it could be someone who isn't the person here but the person over there or it can be the person breathing .__cb
+__s^df__and then feeding that into the acoustic change detector .__cb
+__s^aa__and so i think that might work .__cb
+__b__but i haven't gotten very far on that .__cb
+__s^df__but all of this is close talking mike .__cb
+__%-__so ==__cb
+__s^na__it's uh just - just trying to get some ground truth .__cb
+__s__only with uh uh ==__c4
+__s__but uh i - i - i think uh when - when y- - i - i saw the - the - the - the speech from p d a and uh close talker .__c4
+__%-__i - i think the there is a - a great difference in the - in the signal .__c4
+__s^nd.%--__oh absolutely .__cb
+__s|qy^d^f^g__so s- - my intention for this is - is as an aide for ground truth .__cb
+__s^bd^no__um | but uh i - but uh i - i - i mean that uh uh in the - in the mixed file you can find uh zone with uh great different uh level of energy .__c4
+__b__not ==__cb
+__s^df.%-__um | i - i think for uh algorithm based on energy uh that um h- - huh - more or less uh like uh uh huh first sound energy detector .__c4
+__s__say it again ?__cb
+__qy^d^f^g__uh nnn .__c4
+__%-__when y- - you the detect the - the - the first at - at the end of - of the detector of um princ- - um .__c4
+__s^e__what is the - the name in english ?__c4
+__qw__the - the huh the de- - detector of um of a word in the - in the s- - in - an isolated word in - in the background that uh ==__c4
+__s__i'm - i'm not sure what you're saying .__cb
+__s^na__can you try ?==__cb
+__s__i mean that when - when you use uh uh any ==__c4
+__s^aa|s__i think he's saying the onset detector .__c0
+__s^bk__yeah .__c4
+__b__onset detector okay .__cb
+__%-__i - i think it's probably to work well uh because uh you have uh in the mixed files a great level of energy .__c4
+__s__uh and great difference between the sp- - speaker .__c4
+__s__and probably is not so easy when you use the - the p d a uh that - because the signal is uh the - in the e- - energy level .__c4
+__s__right .__cb
+__s^bd^df__in - in that uh uh speech file is uh more similar .__c4
+__b__right .__cb
+__s.%--__between the different uh speaker um i - i think is - uh it will i- - is my opinion .__c4
+__s__but different speakers .__cb
+__fh__it will be uh more difficult to - to detect bass tone energy .__c4
+__s^na.%__the - the change .__c4
+__s^rt__i think that um ==__c4
+__s^df__uh in the clo- - in the p d a you mean ?__cb
+__fg__in the p d a .__c4
+__fh__absolutely .__cb
+__s^t^tc__yeah no question .__cb
+__s^bu^rt__yeah .__c4
+__s^e__yeah .__c4
+__s^bk__it'll be much harder .__cb
+__fh__much harder .__cb
+__fh__yeah .__c3
+__s^ba__and the - the another question that when i review the - the - the work of javier .__c4
+__s^t__i think the nnn - the nnn - that the idea of using a neural network to - to get a broad class of phonetic uh from uh uh a candidate from the - the - the speech signal .__c4
+__s^ba^t1.%__if you have uh uh i'm considering only because javier uh only consider uh like candidate the nnn uh the silence because it is the - the only model uh - uh he used that uh uh nnn to detect the - the possibility of a - a change between the - between the speaker .__c4
+__s__right .__cb
+__s__um | another - another research thing different groups uh working uh on broadcast news prefer to uh to consider hypothesis uh between each phoneme .__c4
+__qy^d^g__uhhuh .__cb
+__s__yeah when a phone changes .__cb
+__qh__because i - i - i think it's more realistic that uh only consider the - the the - the silence between the speaker .__c4
+__s__uh there - there exists uh silence between - between uh a speaker .__c4
+__s^bk__is - is uh uh acoustic uh event important to - to consider .__c4
+__s.x__uhhuh .__c3
+__b__uhhuh .__c3
+__s__i - i found that the uh silence in - in many occasions in the - in the speech file .__c4
+__fh|s^df.%--__but uh when you have uh uh two speakers together without enough silence between - between them uh i think uh is better to use the acoustic change detector basically and i - i - i i x or huh bic criterion for consider all the frames in my opinion .__c4
+__%--__uhhuh .__c3
+__s^no__yeah | the - you know the reason that he uh just used silence was not because he thought it was better it was - it was - it was the place he was starting .__c3
+__s.%--__yeah .__c4
+__s__yep .__cb
+__%-__yeah .__c4
+__s^bd^df^rt__so he was trying to get something going .__c3
+__s^cs__yeah yeah yeah yeah .__c4
+__s__and uh e- - e- - you know as - as - as is in your case if you're here for only a modest number of months you try to pick a realistic goal .__c3
+__b__yeah .__c4
+__s__do something .__cb
+__s__yeah yeah yeah yeah .__c4
+__b__but his - his goal was always to proceed from there to then allow broad category change also .__c3
+__s__uhhuh .__c4
+__s^2__but uh | do - do you think that if you consider all the frames to apply the - the uh the bic criterion to detect the - the - the different acoustic change uh between speaker ?__c4
+__s^df.%--__without uh with uh silence or with overlapping .__c4
+__s^bk__uh ==__c4
+__s^cs__i think like - like uh uh a general uh uh way of process the - the acoustic change .__c4
+__s__uhhuh .__c3
+__b__in a first step i mean .__c4
+__%-__uhhuh .__c3
+__b__an- - and then uh uh without considering the you - you - you um you can consider the energy like a- - another parameter in the - in the feature vector .__c4
+__s__right .__cb
+__s^e__absolutely .__cb
+__s^bk__uh ==__c4
+__s__uhhuh .__c3
+__s^aa|s^cs__this - this is the idea .__c4
+__s^na__and if if you do that uh uh with a bic uh criterion for example or with another kind of uh of distance in a first step and then you uh you get the uh the hypothesis to the - this change acoustic uh to po- - process .__c4
+__s__right .__cb
+__s^aa|s^no__because uh uh probably you - you can find the - the uh a small gap of silence between speaker with uh uh a ga- - huh small duration less than uh two hundred milliseconds for example .__c4
+__s__uhhuh .__c3
+__s__and apply another - another algorithm another approach like uh uh detector of ene- - uh detector of bass tone energy to - to consider that uh that uh zone of s- - a small silence between speaker .__c4
+__s__or another algorithm to - to process uh the - the segment between marks uh founded by the - the the bic criterion and applied for - for each frame .__c4
+__s__uhhuh .__c3
+__b__i think is uh nnn it will be a- - an - an - a more general approach the if we compare - with use uh a neural net or another uh speech recognizer with a broad class or - or narrow class .__c4
+__s__uhhuh .__c3
+__s^bk__because in my opinion uh it's in my opinion uh if you - if you change the condition of the speech i mean if you adjust to your algorithm with a mixed speech file and to uh to uh adapt the neural net uh used by javier with a mixed file .__c4
+__s__uhhuh .__c3
+__s^e__uhhuh .__c3
+__s^aa|s^na__with the what file ?__cb
+__s^e__uh with a m- - mixed file .__c4
+__qy^d^g__with a - the mix mix .__c4
+__s^aa__mixed .__c8
+__s^cs__mixed .__c0
+__s^aa|s^na__mixed ?__cb
+__s^aa__uhhuh .__c3
+__s^bk__sorry .__c4
+__%-__and and then you - you uh you try to - to apply that uh uh uh speech recognizer to that signal to the p d a uh speech file i - i think you will have problems because the - the - the - the condition you - you will need t- - t- - i - i suppose that you will need to - to - to retrain it .__c4
+__s^bk__oh absolutely .__cb
+__s^bk__well | i - i ==__c3
+__s^ba__this is - this is not what i was suggesting to do .__cb
+__s^e__u- - look | i - i think this is a ==__c3
+__s^ba^na__really ?__c4
+__s.%-__one - once - it's a - i used to work like on voiced - on voice silence detection you know and this is this kind of thing .__c3
+__s^aa__yeah .__c4
+__s.%-__um if you have somebody who has some experience with this sort of thing and they work on it for a couple months they can come up with something that gets most of the cases fairly easily .__c3
+__s^aa__then you say okay i don't just want to get most of the cases i want it to be really accurate .__c3
+__s^cs__then it gets really hard no matter what you do .__c3
+__s^j:s^cs__so the p- - the problem is is that if you say well i - i have these other data over here that i learn things from either explicit training of neural nets or of gaussian mixture models or whatever .__c3
+__fg|s^t^tc__yeah .__c4
+__s^bk__uh | suppose you don't use any of those things .__c3
+__s^aa|s^na__you say you have looked for acoustic change .__c3
+__s^bk__well what does that mean ?__c3
+__s^bk.%__that - that means you set some thresholds somewhere or something .__c3
+__s^t^tc.%--__yeah .__c4
+__s__right ?__c3
+__s__yeah .__c4
+__s^cs:qy__and - and so where do you get your thresholds from ?__c3
+__b__from something that you looked at .__c3
+__s^bk|s^ba__so | you always have this problem you're going to new data .__c3
+__s^na__um | h- - how are you going to adapt whatever you can very quickly learn about the new data uh if it's going to be different from old data that you have ?__c3
+__b__and i think that's a problem with this .__c3
+__b__well | also what i'm doing right now is not intended to be an acoustic change detector for far field mikes .__cb
+__%-__what i'm doing is trying to use the close talking mike and just use - can- - and just generate candidate and just try to get a first pass at something that sort of works .__cb
+__fg|s__yeah .__c4
+__s__actually - actually - actually ==__ca
+__s.%--__you have candidates .__c0
+__b__the candidate .__c4
+__s__i ==__ca
+__s^ba__to make marking easier .__c0
+__fh__or ==__ca
+__s__yeah .__c0
+__s^e__and i haven't spent a lot of time on it and i'm not intending to spend a lot of time on it .__cb
+__qw^rt__okay .__ca
+__s^bk|s.%-__i - um i unfortunately have to run .__ca
+__s__so ==__cb
+__b__but um i can imagine uh building a um model of speaker change detection that takes into account both the far field and the uh actually not just the close talking mike for that speaker but actually for all of th- - for all of the speakers .__ca
+__s__yep .__cb
+__b__everyone else .__cb
+__s^2__yeah .__c3
+__s^e__um | if you model the - the effect that me speaking has on your microphone and everybody else's microphone as well as on that and you build um ==__ca
+__s^aa__basically i think you'd - you would build a - an h m m that has as a state space all of the possible speaker combinations .__ca
+__s^aa__all the - | yep .__cb
+__s^aa__yeah .__c4
+__s^cs__and um | you can control ==__ca
+__s^ba__it's a little big .__cb
+__s^aa__it's not that big actually .__ca
+__s^aa__um .__ca
+__s__two to the n .__cb
+__s^ba__two to the number of people in the meeting .__cb
+__s^cs^j__but - | actually andreas may- - maybe - maybe just something simpler but - but along the lines of what you're saying .__c3
+__s^ba__anyway .__cb
+__fh__yeah .__c4
+__s^2^bu^d^rt__i was just realizing i used to know this guy who used to build uh um mike mixers - automatic mike mixers where you know t- - in order to able to turn up the gain you know uh as much as you can you - you - you lower the gain on - on the mikes of people who aren't talking .__c3
+__s__huh .__ca
+__s^j^na__yeah yeah .__c4
+__s^ba__huh .__ca
+__qy.%-__uhhuh .__ca
+__s__right ?__c3
+__b.%__uhhuh .__ca
+__b.%__and then he had some sort of reasonable way of doing that .__c3
+__s__but uh what if you were just looking at very simple measures like energy measures but you don't just compare it to some threshold overall but you compare it to the energy in the other microphones ?__c3
+__s^aa__i was thinking about doing that originally to find out who's the loudest .__cb
+__s^bk__and that person is certainly talking .__cb
+__s^ba__yeah .__c3
+__b__but i also wanted to find threshold - uh excuse me mol- - overlap .__cb
+__b.%__yeah .__c3
+__b.%__so not just - just the loudest .__cb
+__b__uhhuh .__c8
+__%-__but uh ==__c4
+__s__i - i sorry .__c4
+__%--__i - i have found that when - when i i analyzed the - the speech files from the uh mike uh from the uh close uh microphone uh i found zones with a - a different level of energy .__c4
+__fg|s__sorry i have to go .__ca
+__b__okay .__cb
+__s^df__could you fill that out anyway ?__cb
+__s^2.%-__just put your name in .__cb
+__s^aa__are y- - you want me to do it ?__cb
+__%__i'll do it .__cb
+__fh__but he's not going to even read that .__c0
+__b__i know .__cb
+__s__oh .__c0
+__s.%-__including overlap zone .__c4
+__qy^cs^rt__including .__c4
+__s__because uh uh depend on the position of the - of the microph- - of the each speaker to uh to get more o- - or less energy i- - in the mixed sign- - in the signal .__c4
+__b__and then if you consider energy to - to detect overlapping in - in uh and you process the - the - in - the - the - the speech file from the - the - the mixed signals .__c4
+__s__the mixed signals uh .__c4
+__s__i - i think it's - it's difficult um only to en- - with energy to - to consider that in that zone we have uh uh overlapping zone uh if you process only the the energy of the of each frame .__c4
+__s__well it's probably harder .__c3
+__b__but i - i think what i was s- - nnn noting just when he - when andreas raised that was that there's other information to be gained from looking at all of the microphones and you may not need to look at very sophisticated things .__c3
+__fg|s__yeah .__c4
+__s^df__because if there's - if most of the overlaps - you know this doesn't cover say three but if most of the overlaps say are two if the distribution looks like there's a couple high ones and - and the rest of them are low .__c3
+__s^cs__yeah .__c4
+__s^df__yeah .__c4
+__s^aa__yeah .__c4
+__s^aa|s__and everyone else is low yeah .__cb
+__s^bd^no__yeah .__c4
+__s^2.%-__you know what i mean ?__c3
+__b__yeah .__c4
+__s.%--__there's some information there about their distribution even with very simple measures .__c3
+__s^df__yeah .__c4
+__b__yeah .__c4
+__s^e__uh by the way i had an idea with - while i was watching chuck nodding at a lot of these things is that we can all wear little bells on our heads so that then you'd know that .__c3
+__s^e__yeah .__c4
+__%-__ding ding ding ding .__cb
+__fg|s^na:s__ding .__c8
+__s^na:s__yeah .__c4
+__s^aa__that's cute .__c8
+__s__i think that'd be really interesting too with blindfolds .__c1
+__b__nodding with blindfolds .__cb
+__%-__then ==__c1
+__s^bd.%--__yeah .__c1
+__s.%-__what are you nodding about ?__cb
+__s__the question is like whether ==__c1
+__b__well trying with and - with and without yeah .__c1
+__s__sorry i'm just - i'm just going to sleep .__cb
+__s^e__but then there's just one @reject@ like .__c1
+__s__yeah .__c3
+__qh^cs__actually i saw a uh - a woman at the bus stop the other day who um was talking on her cell phone speaking japanese and was bowing .__c0
+__b__yeah yeah .__c4
+__s^df__you know profusely .__c0
+__s^df^e.%--__oh yeah that's really common .__c1
+__s^aa__yeah .__c2
+__s^e__uh .__c8
+__s^ba^na__just kept ==__c0
+__s^aa__yeah .__c4
+__b__wow .__c3
+__s^e__it's very difficult if you try - while you're trying say to convince somebody on the phone it's difficult not to move your hands .__c1
+__s^df__not - you know if you watch people they'll actually do these things .__c1
+__s^aa__uhhuh .__c3
+__%--__so ==__c1
+__s^t^tc__i still think we should try a - a meeting or two with the blindfolds .__c1
+__s^t3__at least of this meeting that we have lots of recordings of .__c1
+__s.%-__uhhuh .__cb
+__%-__yeah i think th- ==__c3
+__qy^rt__um maybe for part of the meeting we don't have to do it the whole meeting .__c1
+__fh__i think it's a great idea .__c3
+__s.%-__that could be fun .__c1
+__s__it'll be too hard to make barriers i was thinking because they have to go all the way .__c1
+__s^2__w- - yeah .__c3
+__s^no.%__you know i can see chuck even if you put a barrier here .__c1
+__b__well | we could just turn out the lights .__cb
+__s^aa|%-__actually well also - | i - i can say i made barr- - barriers for - so that - the stuff i was doing with collin wha- - which just used um this kind of foam board .__c8
+__b__y- - yeah ?__c1
+__s__r- - really inexpensive .__c8
+__s^ba__you can - you can masking tape it together .__c8
+__b__these are you know pretty l- - large partitions .__c8
+__s__yeah .__c3
+__s^ba__but then we also have these mikes is the other thing i was thinking .__c1
+__s^bk__so we need a barrier that doesn't disturb the sound .__c1
+__s^aa__the acoustics .__cb
+__s^aa__it's true it would disturb the um the - the long range .__c8
+__s^ba__um ==__c1
+__s__blindfolds would be good .__c3
+__s^ba__i think blindfolds .__cb
+__s^j__it would ==__c8
+__s^aa|s^na__i mean it sounds weird but - but - you know it's - it's cheap and uh be interesting to have the camera going .__c1
+__s:s__probably we should wait until after adam's set up the mikes .__c3
+__s^bk__but ==__c3
+__fg__okay .__c8
+__s__i think we're going to have to work on the uh - on the human subjects form .__c8
+__s:qw__i'll be peeking .__c0
+__s^bk__yeah that's right we didn't tell them we would be blindfolding .__cb
+__qy^bu^d^rt^t__that's ==__c3
+__s__do you mind being blindfolded while you're interviewed ?__c8
+__qy^e.%-__that's - that's - that's the one that we videotape .__c3
+__s^aa__so ==__c3
+__s__um | i - i want to move this along .__c3
+__s.%-__uh | i did have this other agenda item which is uh @reject@ - it's uh a list which i sent to uh - a couple folks but um i wanted to get broader input on it .__c3
+__qy__so this is the things that i think we did in the last three months .__c3
+__s__obviously not everything we did but - but sort of highlights that i can - can tell s- - some outside person you know what - what were you actually working on .__c3
+__b__um | in no particular order uh one uh ten more hours of meeting r- - meetings recorded something like that you know from - from uh three months ago .__c3
+__s^bd__uh | x m l formats and other transcription aspects sorted out and uh sent to i b m .__c3
+__fh__um | pilot data put together and sent to i b m for transcription .__c3
+__%-__uh | next batch of recorded data put together on the c d roms for shipment to i b m .__c3
+__s^t3__hasn't been sent yet but - it's getting ready .__cb
+__s^t3__but yeah that's why i phrased it that way yeah okay .__c3
+__b__um | human subjects approval on campus uh and release forms worked out .__c3
+__qy__so the meeting participants have a chance to request audio pixelization of selected parts of the spee- - their speech .__c3
+__s__um | audio pixelization software written and tested .__c3
+__s^bk__um | preliminary analysis of overlaps in the pilot data we have transcribed .__c3
+__s.%--__and exploratory analysis of long distance inferences for topic coherence that was - i was - wasn't sure if those were the right way - that was the right way to describe that because of that little exercise that - that you and - and lokendra did .__c3
+__s^t3__what was that called ?__c8
+__qw^d^rt__the uh say again .__c8
+__s__i - well i- - i'm probably saying this wrong but what i said was exploratory analysis of long distance inferences for topic coherence .__c3
+__qy^rt__something like that .__c3
+__h|qw__um so uh | i - a lot of that was from you know what - what - what you two were doing .__c3
+__s__so i - i sent it to you .__c3
+__s^t1__and you know please mail me you know the corrections or suggestions for changing .__c3
+__s.%--__uhhuh .__cb
+__s.%-__i - i don't want to make this twice it's length but - but you know just im- - improve it .__c3
+__s^ar|s^nd__um | is there anything anybody ==__c3
+__s^bk|s__i - i did a bunch of stuff for supporting of digits .__cb
+__s^aa__bunch of stuff for s- ==__c3
+__s^bk__okay maybe - maybe send me a sentence that's a little thought through about that .__c3
+__s__so okay i'll send you a sentence that doesn't just say a bunch of ?__cb
+__s^no__bunch of stuff yeah stuff is probably bad too .__c3
+__fh|s^co.%--__yep .__cb
+__s^bk__stuff is not very technical .__cb
+__s__yeah well .__c3
+__s__i'll try to phrase it in passive voice .__cb
+__s^bk__yeah .__c3
+__s^bsc__yeah yeah .__c3
+__s^cs__technical stuff .__c0
+__s^cs^e__range of things yeah .__c3
+__fh__um | and - and you know i sort of threw in what you did with what jane did on - in - under the uh uh preliminary analysis of overlaps .__c3
+__qw__uh uh | thilo can you tell us about all the work you've done on this project in the last uh last three months ?__c3
+__s__yeah .__c4
+__fh__so - what is - what - um ?==__c2
+__s__that's ==__c3
+__h|qw__not really .__c2
+__s.%-__it's too complicated .__c0
+__h|s__um | i didn't get it .__c2
+__s^aap|s^aa__wh- - what is audio pixelization ?__c2
+__qy^d^g^rt__uh | audio pix- - wh- - he did it .__c3
+__s^bu^e__so why don't you explain it quickly ?__c3
+__s__it's just uh beeping out parts that you don't want included in the meeting .__cb
+__s^bk__so you know you can say things like well this should probably not be on the record but beep .__cb
+__s^aa__okay okay .__c2
+__qw^br__i got that .__c2
+__s.%-__yeah .__c3
+__s^t3__we - we - we spent a - a - a fair amount of time early on just talk- - dealing with this issue about op w- - e- - e- - we realized well people are speaking in an impromptu way and they might say something that would embarrass them or others later and how do you get around that .__c3
+__s__@reject@ .__c2
+__s^2.%--__okay .__c2
+__s^aa__so in the consent form it says well you - we will look at the transcripts later and if there's something that you're unhappy with yeah .__c3
+__s^aa__okay and you can say ==__c2
+__fh__okay .__c2
+__s^e^t3__but you don't want to just totally excise it .__c3
+__fh__because ==__c3
+__qh^cs__um ==__c3
+__s^bk|s__uh well you have to be careful about excising it how - how you excise it .__c3
+__%-__keeping the timing right and so forth .__c3
+__qy^rt__so that at the moment tho- - th- - the idea we're running with is - is h- - putting the beep over it .__c3
+__s^bd__yeah you can either beep or it can be silence .__cb
+__%-__okay .__c2
+__s^bk^t3__i - i couldn't decide which was the right way to do it .__cb
+__s^ft^t3|s^t3__uh yeah .__c4
+__s__beep is good auditorily .__cb
+__s__if someone is listening to it there's no mistake that it's been beeped out .__cb
+__fh__yeah .__c2
+__s^aa__yeah .__c2
+__s^t^tc__but for software it's probably better for it to be silence .__cb
+__s__no no .__c0
+__s__you can - you know you could make a m- - as long as you keep using the same beep people could make a model of that beep .__c0
+__s__huh .__c8
+__s__yep .__cb
+__s__and ==__c0
+__s__i like that idea .__c8
+__fg|s^arp__and i use - it's - it's uh it's an a below middle c beep .__cb
+__s^aap__i think the beep is a really good idea .__c1
+__s__it's very clear .__c8
+__s.%--__yeah .__c0
+__qy^d^f^g__then you don't think it's a long pause .__c8
+__s.%-__also ==__c1
+__s^nd__so ==__cb
+__s__yeah it's more obvious that there was something there than if there's just silence .__c0
+__s^cs__yeah | that - i mean he's - he's removing the old thing .__c3
+__b__yeah .__c8
+__fh__yeah .__c2
+__s^am__yeah .__c4
+__s^no__yep .__cb
+__s.%-__and - and - and ==__c3
+__qy^d^g__yea- - right .__c0
+__s^bk__right .__c0
+__s.%--__yeah it's not ==__cb
+__qw.%--__but i mean if you just replaced it with silence it's not clear whether that's really silence or ==__c0
+__%-__yeah .__c2
+__b__yeah .__c4
+__s^2__yeah i agree .__c8
+__s__yep .__cb
+__s.%--__yeah .__c4
+__b.%__yeah .__c3
+__b__one - one question .__c8
+__b__do you do it on all channels ?__c8
+__s__of course .__cb
+__s^e__interesting .__c8
+__s^bk__i like that .__c8
+__s^cs__yeah you have to do it on all channels because it's uh audible .__cb
+__%--__yeah .__c3
+__s__yeah i like that .__c8
+__s^aa|s^na__very clear .__c8
+__s^cs__very clear .__c8
+__%-__uh it's - it's potentially audible you could potentially recover it .__cb
+__s^cs^e:qw__ke- - keep a back door .__c3
+__s^df__well the other thing that - you know i mean the - the alternative might be to s- ==__c8
+__s^ba__yeah .__cb
+__s^df__well i - i haven't thrown away any of the meetings that i beeped .__cb
+__s__actually yours is the only one that i beeped and then uh the ar- - darpa meeting .__cb
+__s^j__notice how quiet i am .__c1
+__s^j^na__sorry .__cb
+__s^na__and then the darpa meeting i just excised completely .__cb
+__s^df^na__yeah .__c8
+__s^m.%--__so it's in a private directory .__cb
+__s^aa|s^na__that's great .__c8
+__b__you have some people who only have beeps as their speech in these meetings .__c1
+__s^df__yeah .__c8
+__s^t3__okay .__c3
+__%-__they're easy to find then .__c0
+__s^aa^t3__all right so uh i think we should uh uh go on to the digits .__c3
+__s^t3__okay .__cb
+__s__i have one concept a- - t- - i - i want to say which is that i think it's nice that you're preserving the time relations .__c8
+__qh__s- - so you're - you're not just cutting - you're not doing scissor snips .__c8
+__s__right .__cb
+__s^t3__you're - you're keeping the uh the time duration of a - de- - deleted - deleted part .__c8
+__s^t3__yeah definitely .__c1
+__s__yeah .__c3
+__s.%--__okay good | digits .__c8
+__s^f__yeah since we want to possibly synchronize these things as well .__cb
+__s__oh i should have done that .__cb
+__b__shoot !__cb
+__s^e__it's great .__c8
+__s^aa|s^ba^na__oh well .__cb
+__s^df^e__yeah .__c3
+__s__oh ==__c3
+__qr__so i guess if there's an overlap like if i'm saying something that's bleepable and somebody else overlaps during it they also get bleeped too ?__c1
+__s__you'll lose it .__cb
+__s^cs__there's no way around that .__cb
+__s^aa__yeah .__c3
+__s^df|qy^d^f^g__um | i d- - i did - before we do the digits i did also want to remind people uh please do send me you know uh thoughts for an agenda .__c3
+__%-__agenda ?__cb
+__s^aa|s__yeah .__c3
+__fh__that - that would be that'd be good .__c3
+__s^cs.%--__good .__c8
+__s^bd__uh so that uh people's ideas don't get ==__c3
+__s^cs__thursday crept up on me this week .__cb
+__s^aa__yeah well it does creep up .__c3
+__s__doesn't it ?__c3
+__s__okay .__c3
+__s^aa__and i wanted to say i think this is really interesting analysis .__c1
+__s:qw__it's cool stuff definitely .__cb
+__b__thank you .__c8
+__b.%__thank you .__c8
+__b.%__i meant to say that before i started off on the switchboard stuff .__c1
+__s^e__i was going to say can you do that for the other meetings .__cb
+__s^na.%--__it's neat .__c1
+__s__can you do it for them ?__cb
+__s__and no actually you can't .__cb
+__s^no.%-__yeah .__c1
+__s^ba__does it take ?==__c1
+__s^ng__actually - actually i - i thought that's what you were giving us was another meeting and i was like oh okay .__c0
+__fg|s__thank you .__c8
+__s:s^aa|s^na__ooo cool !__cb
+__s^2:s__yeah .__c8
+__s^aa__aw thanks .__c8
+__s|qy^d^g__how long does it take just briefly like t- - to - okay - to label the ?==__c1
+__s^ba__no .__c8
+__fh__i have the script now .__c8
+__%-__so i mean it can work off the uh other thing .__c8
+__s:s__it's - as soon as we get labels yep .__cb
+__%-__okay .__c1
+__s^e:s__but it has to be hand labeled first ?__c0
+__s__but ==__c8
+__s^e__uh well | yeah .__c8
+__s^e__because uh well i mean once his - his algorithm is up and running then we can do it that way .__c8
+__s__if it works well enough .__cb
+__%--__right now it's not - not quite to the point where it works .__cb
+__s__okay .__c1
+__b__but i - i just worked off of my ==__c8
+__s__okay go ahead ==__c3
+__s__it's really neat .__c1
+__b__thanks .__c8
+__s^bk__appreciate that .__c8
+__s^e.%--__i think - what i what - this has uh caused me - so this discussion caused me to want to subdivide these further .__c8
+__s__i'm going to take a look at the uh backchannels .__c8
+__s^bk__how much we have anal- - i hope to have that for next time .__c8
+__b__yeah my - my algorithm worked great actually on these .__cb
+__fh|s__that'd be interesting .__c0
+__s.%--__but when you wear it like that or with the uh lapel or if you have it very far from your face that's when it starts failing .__cb
+__s.%--__uhhuh .__c0
+__s:s__well i can wear it i mean if you ==__c1
+__s^e:s__oh .__c0
+__b__it doesn't matter .__cb
+__s^e:qw__okay .__c1
+__fg|s.%-:s.%-__i mean we want it to work .__cb
+__%-__right ?__cb
+__b__it's too late now .__c0
+__s^aa__i - i don't want to change the way we do the meeting .__cb
+__b__i feel like this troublemaker .__c1
+__s__it's uh - so it was just a comment on the software not a comment on prescriptions on how you wear microphones .__cb
+__s__okay .__c1
+__s__okay that's - let's - let's - let's do digits .__c3
+__s^no__get the bolts whh whh .__cb
+__s^na__let's do it .__c8
+__%-__okay .__cb
+__b__okay .__c8
+__s__DIGIT_TASK__cb
+__s:s__DIGIT_TASK__c0
+__b__DIGIT_TASK__c1
+__s^e:s__i'm sorry .__c1
+__b__DIGIT_TASK__c1
+__b__DIGIT_TASK__c3
+__s__DIGIT_TASK__c2
+__s__DIGIT_TASK__c4
+__s^df__DIGIT_TASK__c8
+__s^df^e__okay thank you .__cb
+__b.%__do you want us to put a mark on the bottom of these when they've actually been read or ==__c8
+__s^bk|s.%--__do you just ==__c8
+__s__i- ==__c8
+__s__the only one that wasn't read is ==__c8
+__s^df__is known so we don't do it .__c8
+__s__okay .__c8

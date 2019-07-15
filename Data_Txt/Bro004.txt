@@ -1,0 +1,916 @@
+__z__hey you're not supposed to be drinking in here dude .__c1
+__z__okay .__c4
+__z__DIGIT_TASK__c4
+__z__do we have to read them that slowly ?__c1
+__z__okay .__c1
+__z__sounded like a robot .__c1
+__z__um this is t- ==__c1
+__z__DIGIT_TASK__c1
+__z__DIGIT_TASK__c3
+__z__okay .__c3
+__z__when you read the numbers it kind of reminded me of beat poetry .__c1
+__z__i tried to go for the e e cummings sort of feeling .__c4
+__z__but ==__c4
+__z__three three six zero zero .__c1
+__z__four two zero zero .__c1
+__z__one seven .__c1
+__z__that's what i think of when i think of beat poetry .__c1
+__z__beat poetry .__c3
+__z__you ever seen so i married an axe murderer ?__c1
+__z__uh parts of it .__c3
+__z__uhhuh .__c4
+__z__there's a part wh- - there's parts when he's doing beat poetry .__c1
+__z__oh yeah ?__c3
+__z__and he talks like that .__c1
+__z__that's why i thi- ==__c1
+__z__that uh probably is why i think of it that way .__c1
+__z__huh .__c4
+__z__no i didn't see that movie .__c4
+__z__who did - who made that ?__c4
+__z__mike meyers is the guy .__c1
+__z__oh .__c4
+__z__okay .__c4
+__z__it- - it's his uh - it's his cute romantic comedy .__c1
+__z__that's - that's ==__c1
+__z__that's his cute romantic comedy yeah .__c1
+__z__the other thing that's real funny - i'll spoil it for you .__c1
+__z__is when he's - he works in a coffee shop .__c1
+__z__in san francisco .__c1
+__z__and uh he's sitting there on this couch and they bring him this massive cup of espresso .__c1
+__z__and he's like excuse me i ordered the large espresso .__c1
+__z__uh we're having a ==__c4
+__z__tiramisu tasting contest this weekend .__c4
+__z__wait .__c1
+__z__do - are y- ?==__c1
+__z__so you're trying to decide who's the best taster of tiramisu ?__c1
+__z__no .__c4
+__z__um there was a - a - a fierce argument that broke out over whose tiramisu might be the best .__c4
+__z__and so we decided to have a contest where those people who claim to make good tiramisu make them .__c4
+__z__uh ==__c1
+__z__and then we got a panel of impartial judges that will taste - do a blind taste and then vote .__c4
+__z__huh .__c1
+__z__should be fun .__c4
+__z__seems like ==__c1
+__z__seems like you could put a s- - magic special ingredient in so that everyone know which one was yours .__c1
+__s^tc__then if you were to bribe them you could uh ==__c1
+__s__uhhuh .__c4
+__s__well i was thinking if um ==__c4
+__qw__y- - you guys have plans for sunday ?__c4
+__h|s^rt__we're - we're not ==__c4
+__s^fa__it's probably going to be this sunday but um we're sort of working with the weather here .__c4
+__s^rt__because we also want to combine it with some barbecue activity where we just fire it up and what - whoever brings whatever you know can throw it on there .__c4
+__b__so only the tiramisu is free nothing else .__c4
+__s__well i'm going back to visit my parents this weekend .__c1
+__fh|s.%--__so i'll be out of town .__c1
+__s^rt__so you're going to the west bay then ?__c4
+__s__no .__c4
+__s^rt__south bay ?__c4
+__s^rt__no the south bay .__c1
+__s^bk__yeah .__c1
+__s__south bay .__c4
+__s__well i should be free .__c3
+__s^cs__so ==__c3
+__qy__okay i'll let you know .__c4
+__s^na__okay .__c3
+__s__we are .__c1
+__fh__is nancy s- - uh going to show up ?__c1
+__fh__huh .__c1
+__s^co__wonder if these things ever emit a very like piercing screech right in your ear .__c1
+__s^co.%--__they are going to get more comfortable headsets .__c4
+__s^aa__they already ordered them .__c4
+__s^co__okay .__c4
+__s^co__uh ==__c3
+__s^bk__let's get started .__c4
+__s^cs__the uh ==__c4
+__s__should i go first with the uh - um - data ?__c4
+__qw.x__can i have the remote control ?__c4
+__s__thank you .__c4
+__s^bk__okay .__c4
+__b__so | on friday we had our wizard test data test and um - these are some of the results .__c4
+__b__this was the introduction .__c4
+__s^j__i actually uh - even though liz was uh kind enough to offer to be the first subject i sort of felt that she knew too much .__c4
+__s^tc|s__so i asked uh litonya just on the spur of the moment and she was uh kind enough to uh - serve as the first subject .__c4
+__s^aa__uhhuh .__c2
+__s^aa__so this is what she saw as part of - as uh for instr- - introduction .__c4
+__s^rt__this is what she had to read aloud .__c4
+__s.%--__uh that was really difficult for her .__c4
+__s.%-__and uh ==__c4
+__qy^bu__because of l- - all the names you mean ?__c3
+__s^aa__the names and um ==__c4
+__qy^d^g__this was the uh - first three tasks she had to - to master after she called the system .__c4
+__s^aa^m__and um - | then of course the system broke down .__c4
+__s^arp__and those were the l- - uh - uh ==__c4
+__s.%--__i should say the system was supposed to break down and then um - these were the remaining three tasks that she was going to solve with a human .__c4
+__s__um ==__c4
+__s__there are - here are uh the results .__c4
+__b__huh .__c4
+__s^bk__and i will not ==__c4
+__fh__we will skip the reading now .__c4
+__fh__d- - um ==__c4
+__qw.%--__and um ==__c4
+__sj__the reading was five minutes exactly .__c4
+__qw.%-__and now comes the ==__c4
+__qw__this is the phone in phase of ==__c4
+__s.%--__wait | can i - i have a question .__c3
+__s__so - | so there's no system .__c3
+__b__right ?__c3
+__qy__like | there was a wizard for both uh both parts .__c3
+__qy^bu^rt__is this right ?__c3
+__s^ar^rt__yeah .__c4
+__s.%-__it was bo- - it both times the same person .__c4
+__s__okay .__c3
+__b__one time pretending to be a system .__c4
+__s__one time to - pretending to be a human which is actually not pretending .__c4
+__s^nd__okay .__c3
+__s__and she didn't ==__c3
+__qy^bu^d__i should ==__c4
+__s^ar|s__i mean ==__c3
+__s^rt__well | isn't this kind of obvious when it says okay now you're talking to a human and then the human has the same voice ?__c3
+__s^rt__no no no .__c4
+__s^rt__we u- - wait .__c4
+__s__okay good question but uh ==__c4
+__s^rt__you - you just wait and see .__c4
+__b__it's - you're going to l- - learn .__c4
+__s^rt__okay .__c3
+__s^rt__and um | the wizard sometimes will not be audible .__c4
+__s.%-__because she was actually - they - there was some uh lapse in the um wireless .__c4
+__qw.%--__we have to move her closer .__c4
+__s__is she mispronouncing anlage ?__c1
+__qy^d.%--__is it anlaga or anlunga ?__c1
+__s.%--__they're mispronouncing everything .__c4
+__s^2.%--__but it's ==__c4
+__s^aa__okay .__c1
+__s^arp__this is the system breaking down actually .__c4
+__s.%-__did i call europe ?__c4
+__s.%-__so | this is it .__c4
+__s^bk__well if we - we um ==__c4
+__s__so are - are you trying to record this meeting ?__c2
+__s^bu__there was a strange reflex .__c4
+__s^aa__i have a headache .__c4
+__s^bk__i'm really sort of out of it .__c4
+__s__okay the uh - lessons learned .__c4
+__s^bk^rt__the reading needs to be shorter .__c4
+__s__five minutes is just too long .__c4
+__s^bk__um | that was already anticipated by some people suggested that if we just have bullets here they're going to not - they're - subjects are probably not going to - going to follow the order .__c4
+__s^fa__and uh she did not .__c4
+__s^bk__she ==__c4
+__fg|s.%--__really ?__c3
+__s__no .__c4
+__s__she - she jumped around quite a bit .__c4
+__s^2__oh it's surprising .__c3
+__b__s- - so if you just number them one two three it's ==__c2
+__sj__yeah | and make it sort of clear in the uh ==__c4
+__s__okay .__c2
+__s__right .__c2
+__qw__um | we need to - so that's one thing .__c4
+__fh__and | we need a better introduction for the wizard .__c4
+__b__that is something that fey actually thought of a - in the last second that sh- - the system should introduce itself when it's called .__c4
+__qy^br^m__uhhuh .__c2
+__s^aap__true .__c2
+__b__and um - um | another suggestion by liz was that we uh through subjects switch the tasks .__c4
+__s^co__so when - when they have task one with the computer the next person should have task one with a human and so forth .__c4
+__s^bu__uhhuh .__c2
+__qy^d^g__so we get nice um data for that .__c4
+__s^aa__um | we have to refine the tasks more and more which of course we haven't done at all so far in order to avoid this rephrasing .__c4
+__s__so where - even though w- - we don't tell the person ask blah blah blah blah blah .__c4
+__s^bu__they still try - or at least litonya tried to um repeat as much of that text as possible .__c4
+__s^bu__say exactly what's on there ?__c3
+__s^aa__yeah .__c3
+__s^bk__and uh my suggestion is of course we - we keep the wizard because i think she did a wonderful job .__c4
+__s^arp.%-__great .__c2
+__s^2__in the sense that she responded quite nicely to things that were not asked for .__c4
+__b__how much is a t- - a bus ticket and a transfer ?__c4
+__%--__so | this is going to happen all the time we d- - you can never be sure .__c4
+__%--__uhhuh .__c2
+__s^bu__um | johno pointed out that uh we have maybe a grammatical gender problem there with wizard .__c4
+__s^aa__so um ==__c4
+__s^bk__yes .__c1
+__fg|s__i wasn't - wasn't sure whether wizard was the correct term for uh not a man .__c1
+__%--__but uh ==__c4
+__s.%--__there's no female equivalent of ==__c3
+__s__are you sure ?__c1
+__fh__no i don't know .__c3
+__fg|s^e.%--__not that i know of .__c3
+__s__right .__c2
+__s__well there is witch and warlock .__c4
+__s__and uh ==__c4
+__s^ar__yeah | that's what i was thinking but ==__c3
+__s^rt__yeah that's so ==__c1
+__s__right .__c2
+__%--__right .__c2
+__%--__okay .__c4
+__s.%--__uh ==__c2
+__s^fa__and um ==__c4
+__s^rt.%-__so | some - some work needs to be done but i think we can uh ==__c4
+__s.%-__and this - and in case no - you hadn't seen it - this is what litonya looked at during the uh um while taking the - while partaking in the data collection .__c4
+__s__uh .__c3
+__b__okay .__c2
+__s.%--__great .__c2
+__h__so | first of all i agree that um - we should hire fey and start paying her .__c2
+__b__probably pay for the time she's put in as well .__c2
+__s^bk__um | do you know exactly how to do that ?__c2
+__s^co__or is uh lila ?==__c2
+__b__i mean you know what exactly do we do to - to put her on the payroll in some way ?__c2
+__s__i'm completely clueless but i'm willing to learn .__c4
+__s^bk__okay .__c2
+__b__well you'll have to ==__c2
+__s__right .__c2
+__s__so anyway ==__c2
+__b__n- ==__c4
+__b__um ==__c2
+__s.%--__so why don't you uh ask lila ?__c2
+__b__and see what she says about you know exactly what we do for someone in ==__c2
+__b__student type worker .__c4
+__s^df__th- ==__c2
+__s__or ==__c4
+__b__well yeah she's un- - she's not a - a student .__c2
+__s__she just graduated .__c2
+__b__but - anyway ==__c2
+__s^aa^m__huh .__c4
+__s^bk__so i- - if ==__c2
+__s.%--__yeah i agree .__c2
+__b__she sounded fine .__c2
+__s^bu__she a- - actually was uh more uh present and stuff than - than she was in conversation .__c2
+__%-__so she did a better job than i would have guessed from just talking to her .__c2
+__s__yeah .__c4
+__s^ar__so i think that's great .__c2
+__qy^rt__this is sort of what i gave her so this is for example h- - how to get to the student prison .__c4
+__s^aa__yeah .__c2
+__qy^bu^d__and i didn't even spell it out here .__c4
+__qw^t3__and in some cases i - i spelled it out a little bit um - more thoroughly .__c4
+__s__right .__c2
+__b__this is the information on - on the low - sunken castle and the amphitheater that never came up .__c4
+__s^bk__and um | so i- - if we give her even more um instruments to work with i think the results are going to be even better .__c4
+__qw__oh yeah .__c2
+__s__and then of course as she does it she'll - she'll learn .__c2
+__s__@reject@ .__c2
+__fh__so that's great .__c2
+__s^fe__um - and | also if she's willing to take on the job of organizing all those subjects and stuff that would be wonderful .__c2
+__sj^ba__huh .__c4
+__qy.%--__and uh - | she's - actually she's going to graduate school in a kind of an experimental paradigm .__c2
+__b__so i think this is all just fine in terms of h- - her learning things she's going to need to know uh to do her career .__c2
+__s__huh .__c4
+__s.%--__so i - my guess is she'll be r- - r- - quite happy to take on that job .__c2
+__s__and so ==__c2
+__s.%--__yep .__c4
+__s^2__yeah she - she didn't explicitly state that .__c4
+__s^co__so ==__c4
+__s.%--__great .__c2
+__b__and um | i told her that we going to um - figure out a meeting time in the near future to refine the tasks and s- - look for the potential sources to find people .__c4
+__s^ar|sj^ba__she also agrees that you know if it's all just going to be students the data is going to be less valuable because of that .__c4
+__s__so ==__c4
+__s.%--__well as i say there is this s- - set of people next door it's not hard to ==__c2
+__qw__we're already ==__c4
+__qw^e^rt__yeah .__c4
+__s__uh ==__c2
+__s__however we may run into a problem with a reading task there .__c4
+__s^aa__and um | we'll see .__c4
+__s^m^na^rt__yeah .__c2
+__fh__we could talk to the people who run it and um - see if they have a way that they could easily uh tell people that there's a task pays ten bucks or something .__c2
+__s__uhhuh .__c4
+__b__yeah .__c4
+__s^aa__but um - | you have to be comfortable reading relatively complicated stuff .__c2
+__qy.%--__and - and | there'll probably be self selection to some extent .__c2
+__qy^rt__huh .__c4
+__h|s^aa__yep .__c4
+__fg|s^arp__uh | so that's good .__c2
+__s^arp__um | now i signed us up for the wednesday slot and part of what we should do is this .__c2
+__b__okay .__c4
+__qw__so ==__c2
+__h|s__my idea on that was uh partly we'll talk about system stuff for the computer scientists .__c2
+__h__but partly i did want it to get the linguists involved in some of this issue about what the task is and all - um - you know what the dialogue is and what's going on linguistically .__c2
+__s^rt.%--__because to the extent that we can get them contributing .__c2
+__b__that will be good .__c2
+__h|s__yep .__c4
+__s__so this issue about you know re formulating things .__c2
+__fh__maybe we can get some of the linguists sufficiently interested that they'll help us with it .__c2
+__s__uh | other linguists if you're a linguist .__c2
+__s^bu__but in any case .__c2
+__s^aa__yep .__c4
+__qy.%-__um - | the linguistics students and stuff .__c2
+__h|s^aa__so my idea on - on wednesday is partly to uh ==__c2
+__s__you - i mean what you did today would - i- - is just fine .__c2
+__s^bu__you just uh - do this is what we did and here's the thing and here's s- - some of the dialogue and - and so forth .__c2
+__qy^d^g^rt__but then the other thing of course is we should um give the computer scientists some idea of - of what's going on with the system design .__c2
+__s^aa__and | where we think the belief nets fit in .__c2
+__b__and where the pieces are and stuff like that .__c2
+__s__yep .__c4
+__b__is - is this - make sense to everybody ?__c2
+__b__yeah .__c2
+__s__so i don't - i don't think it's worth a lot of work particularly on your part to - to - to make a big presentation .__c2
+__b__i don't think you should ==__c2
+__%-__you don't have to make any new uh - powerpoint or anything .__c2
+__s^aa__i think we got plenty of stuff to talk about .__c2
+__s__and then um - | just see how a discussion goes .__c2
+__b__uhhuh .__c4
+__b__sounds good .__c4
+__h__the uh - other two things is um ==__c4
+__s__we've - can have johno tell us a little about this .__c4
+__s^bu^rt__great .__c2
+__s^aa__and we also have a l- - little bit on the interface .__c4
+__qy^d^g^rt__m three l enhancement .__c4
+__s^aa__and then um - | that was it i think .__c4
+__s^bk__so what i did for this - this is - uh a pedagogical belief net .__c1
+__h__because i was - i - i took - i tried to conceptually do what you were talking about with the nodes that you could expand out .__c1
+__s^bk|s.%--__so what i did was i took ==__c1
+__s__i made these dummy nodes called trajector-in and trajector-out that would isolate the things related to the trajector .__c1
+__s.%--__yep .__c2
+__s^rt.%--__and then there were the things with the source and the path and the goal .__c1
+__sj^df__yep .__c2
+__s__and i separated them out .__c1
+__b__and then i um did similar things for our - our net to - uh with the context and the discourse and whatnot .__c1
+__s^cs__um | so we could sort of isolate them or whatever in terms of the - the top layer .__c1
+__s__uhhuh .__c2
+__s__and then the bottom layer is just the mode .__c1
+__s__so ==__c1
+__s.%--__so let's - let's ==__c2
+__h|qw^tc.%--__yeah i don't understand it .__c2
+__qr^d^rt.%--__let's go ==__c2
+__h|s__slide all the way up so we see what the p- - the p- - very bottom looks like .__c2
+__h__or is that it ?__c2
+__b__yeah | there's just one more node and it says mode which is the decision between the ==__c1
+__s^rt__yeah .__c4
+__s^bk__okay great .__c2
+__s.%--__all right .__c2
+__b__so ==__c2
+__s.%--__so basically all i did was i took the last belief net .__c1
+__s^rt__uhhuh .__c2
+__s^rt__and i grouped things according to what - how i thought they would fit in to uh image schemas that would be related .__c1
+__h|s^bk__and the two that i came up with were trajector-landmark and then source path goal as initial ones .__c1
+__s^rt__yep .__c2
+__s^rt__uhhuh .__c2
+__b__and then i said well uh - the trajector would be the person in this case probably .__c1
+__s^cs__right .__c2
+__s__yep .__c2
+__qy^cs^rt__um | you know we have - we have the concept of what their intention was whether they were trying to tour or do business or whatever .__c1
+__s^df.%--__right .__c2
+__s^aa__or they were hurried .__c1
+__s^df.%--__that's kind of related to that .__c1
+__s^bk__and then um - | in terms of the source the things - uh the only things that we had on there i believe were whether ==__c1
+__s^cc^j__oh actually i kind of - i might have added these because i don't think we talked too much about the source in the old one .__c1
+__s^bk__but uh | whether the - where i'm currently at is a landmark might have a bearing on whether ==__c1
+__fg__uhhuh .__c4
+__s^co__or the landmark-iness of where i'm currently at .__c1
+__s^cc__and usefulness is basi- - basically means is that an institutional facility like a town hall or something like that that's not - something that you'd visit for tourist's - tourism's sake or whatever .__c1
+__b__travel constraints would be something like you know maybe they said they can - they only want to take a bus or something like that .__c1
+__h.x__right ?__c1
+__b__and then those are somewhat related to the path .__c1
+__s^t3__uhhuh .__c2
+__b__so that would determine whether we'd - could take - we would be telling them to go to the bus stop or versus walking there directly .__c1
+__qy^rt__um | goal .__c1
+__qrr^d^rt__similar things as the source except they also added whether the entity was closed .__c1
+__h__and whether they have somehow marked that is was the final destination .__c1
+__s^rt__um | and then if you go up ==__c1
+__s^na__robert .__c1
+__s^bu__yeah so - um | in terms of context what we had currently said was whether they were a businessman or a tourist of some other person .__c1
+__b__um | discourse was related to whether they had asked about open hours .__c1
+__qy^d^g^rt__or whether they asked about where the entrance was or the admission fee or something along those lines .__c1
+__s^aa^m__uhhuh .__c2
+__s__uh | prosody i don't really - i'm not really sure what prosody means in this context .__c1
+__fg__so i just made up you know whether - whether what they say is - or h- - how they say it is - is that .__c1
+__s.%--__right okay .__c2
+__b__um | the parse would be what verb they chose .__c1
+__sj^ba__and then maybe how they modified it in the sense of whether they said i need to get there quickly or whatever .__c1
+__s__uhhuh .__c2
+__s__and um - | in terms of world knowledge this would just basically be like opening and closing times of things the time of day it is and whatnot .__c1
+__s__what's tourbook ?__c4
+__b__tourbook ==__c1
+__s__that would be - i don't know - the landmark-iness of things .__c1
+__fg__uhhuh .__c4
+__s__whether it's in the tourbook or not .__c1
+__qy^rt__ch-ch-ch-ch ==__c2
+__qy^d^rt__now .__c2
+__s__all right so i understand what's - what you got .__c2
+__s^bk__i don't yet understand how you would use it .__c2
+__b__so let me see if i can ask .__c2
+__s^bu__a s- ==__c2
+__qy^d^g^rt__well this is not a working bayes-net .__c1
+__s__right .__c2
+__s__no i understand that .__c2
+__s^bk__but - but um ==__c2
+__s^e__so what ?==__c2
+__b__let's slide back up again .__c2
+__s^rt__and see ==__c2
+__b__start at the - at the bottom .__c2
+__s.%--__and ==__c2
+__s.%--__oop-bo-doop-boop-boop .__c2
+__h__yeah .__c2
+__s.%--__so | you could imagine ==__c2
+__h__w- - uh | go ahead you were about to go up there and point to something .__c2
+__s__well i - okay i just ==__c1
+__s__say what you were going to say .__c1
+__s__good do it .__c2
+__s__no no .__c2
+__s__okay .__c1
+__qy^rt__go do it .__c2
+__qy^d^g^rt__uh i - i'd - no i was going to wait until ==__c1
+__qrr^d^g^rt__oh okay .__c2
+__qy^d^g^rt__so - | so if you - if we made - if we wanted to make it into a - a real uh - bayes-net .__c2
+__s^ar__that is you know with fill ==__c2
+__s__you know actually f- - uh - fill it in then uh ==__c2
+__s__so we'd have to get rid of this and connect these things directly to the mode .__c1
+__s.%--__well i don't ==__c2
+__sj^ba__that's an issue .__c2
+__s__so um ==__c2
+__qy__because i don't understand how it would work otherwise .__c1
+__s^bu.%--__well here's the problem .__c2
+__s^cs^t3__and - and uh bhaskara and i was talking about this a little earlier today .__c2
+__s^ar__is - if we just do this we could wind up with a huge uh combinatoric input to the mode thing .__c2
+__qy^bu^d.%-__and uh ==__c2
+__qy^d^rt__well i - oh yeah i unders- - i understand that .__c1
+__qy^d^rt__i just - uh it's hard for me to imagine how he could get around that .__c1
+__s^aa__well i- - but that's what we have to do .__c2
+__s^ar__okay .__c1
+__s^ar__okay so so ==__c2
+__s__uh ==__c2
+__s.%-__there - there are a variety of ways of doing it .__c2
+__s^bu__uh | let me just mention something that i don't want to pursue today .__c2
+__qy^d^g^rt__which is there are technical ways of doing it .__c2
+__s__uh i- - i slipped a paper to bhaskara and - about noisy-or's and noisy-maxes .__c2
+__h|s^ar__and ==__c2
+__s^rt__there're ways to - uh sort of back off on the purity of your bayes-net-edness .__c2
+__s^rt__huh .__c1
+__s^e__uh - so | if you co- - you could ima- - and i- ==__c2
+__s.%-__now i don't know that any of those actually apply in this case .__c2
+__s.%-__but there is some technology you could try to apply .__c2
+__s__so it's possible that we could do something like a summary node of some sort that ==__c1
+__qy^rt__yeah .__c2
+__h|s^ar__okay .__c1
+__qy^bu^d__yeah .__c2
+__s^2^rt__and um ==__c2
+__s^ar__so ==__c2
+__s^rt__so in that case the sum- - we'd have - we ==__c1
+__s^rt.%--__i mean these wouldn't be the summary nodes .__c1
+__h|s^ar__we'd have the summary nodes like ==__c1
+__fh|qw.%--__where the things were - i guess maybe if thi- - if things were related to business or some other ==__c1
+__qy^d^rt^t3__yeah .__c2
+__qw.%-__so what i was going to say is - is maybe a good at this point is to try to informally ==__c2
+__%-__yeah .__c1
+__qy^bu^d__i mean not necessarily in th- - in this meeting but to try to informally think about what the decision variables are .__c2
+__qr.%--__so | if you have some bottom line uh decision about which mode .__c2
+__s^t3__you know what are the most relevant things .__c2
+__s^rt__huh .__c1
+__s^t3__and the other trick which is not a technical trick it's kind of a knowledge engineering trick is to make the n- - each node sufficiently narrow that you don't get this combinatorics .__c2
+__s^t3__so | that if you decided that you could characterize the decision as a tradeoff between three factors whatever they may be .__c2
+__s^ar^t3.%__okay ?__c2
+__s^rt__then you could say aha let's have these three factors .__c2
+__s^aa^t3__okay ?__c2
+__s^rt__and maybe a binary version f- - for each or some relatively compact decision node just above the final one .__c2
+__b__huh .__c1
+__b^rt__and then the question would be if - if those are the things that you care about uh can you make a relatively compact way of getting from the various inputs to the things you care about .__c2
+__s^rt__so that y- - so that you know you can sort of try to do a knowledge engineering thing .__c2
+__s^rt__okay .__c1
+__s^rt__given that we're not going to screw with the technology and just always use uh sort of orthodox bayes nets then we have a knowledge engineering little problem of how do we do that .__c2
+__s^rt__um ==__c2
+__s^rt__and ==__c2
+__qy^d^rt__so what i kind of need to do is to take this one and the old one and merge them together ?__c1
+__s__uh uh uh ==__c2
+__s^rt__yeah .__c2
+__s^bk__so that ==__c1
+__s__well huh | something .__c2
+__b__i mean so uh | robert has thought about this problem f- - for a long time because he's had these examples kicking around .__c2
+__fh__so he may have some good intuition about you know what are the crucial things .__c2
+__qw.%--__huh .__c1
+__qy__and um | i understand where this - the uh ==__c2
+__s^e^rt__this is a way of playing with this abs- - source path goal trajector exp- - uh uh abstraction and - and sort of sh- - displaying it in a particular way .__c2
+__s__yeah .__c1
+__b__uh | i don't think our friends uh - on wednesday are going to be able to ==__c2
+__b__well maybe they will .__c2
+__qw^rt__well let me think about whether - whether i think we can present this to them or not .__c2
+__qy^d^rt__um ==__c2
+__s^aa__uh ==__c2
+__s__well i think this is still - i mean ad hoc .__c4
+__s__this is sort of th- - the second version and i - i - i - look at this maybe just as a you know a - a - whatever u m l diagram or you know as just a uh screen shot not really as a bayes net as john - johno said .__c4
+__s^bk^fe__we could actually y- - yeah draw it in a different way in the sense that it would make it more abstract .__c1
+__s^bk__yeah .__c4
+__s__but the uh - the - the nice thing is that you know it just is a - is a visual aid for thinking about these things which has comple- - clearly have to be specified m- - more carefully .__c4
+__s^bu__and uh ==__c4
+__s^na__all right well | le- - let me think about this some more .__c2
+__%__and uh - | see if we can find a way to present this to this linguists group that - that is helpful to them .__c2
+__b__i mean | ultimately we - we may w- - w- ==__c4
+__s^bk__we regard this as sort of an exercise in - in thinking about the problem .__c4
+__s__and maybe a first version of uh a module if you want to call it that that you can ask ==__c4
+__fh__that you can give input .__c4
+__s^bk__and it- - it'll uh throw the dice for you .__c4
+__b__uh throw the die for you .__c4
+__s.%--__because um - i integrated this into the existing smartkom system in - in the same way as - much the same way we can um - sort of have this uh this thing .__c4
+__fh__close this down .__c4
+__s__so if this is what m three l um - will look like and what it'll give us .__c4
+__s.%--__um ==__c4
+__s__and a very simple thing .__c4
+__b__we have an action that he wants to go from somewhere which is some type of object to someplace .__c4
+__qw^rt__uhhuh .__c2
+__s^rt__and this - these uh this changed now only um - um ==__c4
+__b__it's doing it twice now because it already did it once .__c4
+__s^rt__um | we'll add some action type which in this case is approach and could be you know more refined uh in many ways .__c4
+__s^rt__uhhuh .__c2
+__s.%--__good .__c2
+__b__or we can uh have something where the uh - goal is a public place .__c4
+__s^rt__and it will give us then of course an action type of the type enter .__c4
+__s__so this is just based on this one um on this one feature .__c4
+__b.%__and that's - that's about all you can do .__c4
+__s__and so in the f- ==__c4
+__s__if this pla- - if the object type um - here is - is a m- - is a landmark of course it'll be um vista .__c4
+__fg__and um - | this is about as much as we can do if we don't w- - if we want to avoid uh - uh a huge combinatorial explosion where we specify okay if it's this and this but that is not the case and so forth it just gets really really messy .__c4
+__s^fa__okay i'm sorry .__c2
+__qw^rt__you're - you're ==__c2
+__s__huh ?__c4
+__s__it was much too quick for me .__c2
+__s__okay so let me see if i understand what you're saying .__c2
+__s^bk__so | i - i do understand that uh you can take the m three l and add not - and it w- ==__c2
+__s^bu__and you need to do this for sure .__c2
+__s^aa__we have to add you know not too much about um object types and stuff .__c2
+__s.%--__and what i think you did is add some rules of the style that are already there that say if it's of type landmark then you take - you're going to take a picture of it .__c2
+__s^tc__exactly .__c4
+__s__f- - full stop .__c2
+__s__i mean that's what you do .__c2
+__s__ev- - every landmark you take a picture of .__c2
+__s__every public place you enter and statue you want to go as near as possible .__c4
+__b__you enter .__c2
+__s__you approach .__c2
+__s__okay .__c2
+__s__uh | and certainly you can add rules like that to the existing smartkom system .__c2
+__s__and you just did .__c2
+__s__right ?__c2
+__s^aa__yeah .__c4
+__qw__okay .__c2
+__s^m^na__and it - it would do us no good .__c4
+__s^df__that .__c4
+__s__uh ==__c2
+__s^r__ultimately .__c4
+__s^bu__w- ==__c4
+__s^aa__well | so s- - well and let's think about this .__c2
+__s__um | that's a - that's another kind of baseline case .__c2
+__s^na__that's another sort of thing okay here's a - another kind of minimal uh - way of tackling this .__c2
+__s.%-__add extra properties ==__c2
+__b__a deterministic rule for every property .__c2
+__s.%--__you have an action - pppt .__c2
+__s^2__you do that .__c2
+__b__um | then the question would be ==__c2
+__s^bk__uh | now if that's all you're doing then you can get the types from the ontology .__c2
+__s__okay ?__c2
+__fh__because that's all you're - all you're using is this type - the types in the ontology and you're done .__c2
+__s^cs__huh ?__c4
+__s.%--__right ?__c2
+__s^df__so we don't - we don't use the discourse we don't use the context we don't do any of those things .__c2
+__s^cs__no .__c4
+__b__all right but that's - but that's okay and i mean it- - it's again a kind of one minimal extension of the existing things .__c2
+__s.%--__and that's something the uh - smartkom people themselves would ==__c2
+__fh__they'd say sure that's no problem .__c2
+__s^co__you know no problem to add types to the ont- ==__c2
+__s__right ?__c2
+__s__yeah .__c4
+__s^aa__no .__c4
+__s^bk__and ==__c4
+__fh__this is just - in order to exemplify what - what we can do very very easily is um ==__c4
+__s^rt__we have this - this silly uh interface and we have the rules that are as banal as of we just saw and we have our content .__c4
+__fh__now the content ==__c4
+__s^rt__huh .__c2
+__s^df__i whi- - which is sort of what - what we see here which is sort of the vista schema source path goal whatever .__c4
+__b__yeah .__c2
+__b__yeah .__c2
+__s^co__this will um be um a job to find ways of writing down image schema x schema constructions in some - some form .__c4
+__qy.%--__and have this be in a - in a - in the content .__c4
+__s.%--__loosely called constructicon .__c4
+__s.%--__and the rules we want to throw away completely .__c4
+__b__and um - | and here is exactly where - what's going to be replaced with our bayes net .__c4
+__s^t1__which is exactly getting the input feeding into here .__c4
+__s__this decides whether it's an- - whether action ==__c4
+__s^rt__the - the enter .__c4
+__qw__the vista .__c4
+__s^e__or the whatever .__c4
+__s^2__uh approach you called it i think this time .__c2
+__b__uh approach um - construction should be activated i e just pasted in .__c4
+__b__that's what you said .__c2
+__s.%-__yeah that's fine .__c2
+__s^cs^rt__yeah but ==__c2
+__qy__right .__c2
+__fh__but it's not construction there it's action .__c2
+__s^ar__construction is a d- - is a different story .__c2
+__s^ar__yeah .__c4
+__qy^rt^tc__right .__c1
+__s^rt__this is uh ==__c1
+__s__so what we'd be generating would be a reference to a semantic - uh like parameters for the - for the x schema ?__c1
+__s__for - for - for ==__c2
+__b__yes .__c2
+__qy^rt__okay .__c1
+__s^aa__yeah .__c2
+__s^bu^rt__so that - that uh ==__c2
+__qy^g^rt__i- - if you had the generalized go x schema .__c2
+__s.%--__and you wanted to specialize it to these three ones then you would have to supply the parameters .__c2
+__s^ar__right .__c1
+__s__and then uh although we haven't worried about this yet you might want to worry about something that would go to the g i s .__c2
+__s__and use that to actually get you know detailed route planning .__c2
+__s__so | you know where do you do take a picture of it and stuff like that .__c2
+__qw.%--__uhhuh .__c1
+__qy^rt__but that's not - it's not the immediate problem .__c2
+__s__right .__c1
+__b__but | presumably that - that - that functionality's there when - when we ==__c2
+__s^fe__so the immediate problem is just deciding w- - which ==__c1
+__b__aspects of the x schema to add .__c4
+__s^bk__yeah | so the pro- - the immediate problem is - is back t- - t- - to what you were - what you are doing with the belief net .__c2
+__s^bs.%--__yeah .__c1
+__s^bk__you know | uh what are we going to use to make this decision ?__c2
+__s^bk__right and then once we've made the decision how do we put that into the content ?__c1
+__b__yeah .__c2
+__s^bk__right .__c2
+__qy^d^rt__right .__c2
+__qy^d^g^rt__well that - that actually is relatively easy in this case .__c2
+__s^aa|s^arp__okay .__c1
+__s^rt__the harder problem is - we decide what we want to use how are we going to get it .__c2
+__s__and that the - the - that's the hardest problem .__c2
+__s^bu^rt.%-__so the hardest problem is how are you going to get this information from some combination of the - what the person says and the context and the ontology .__c2
+__s^aa__the h- ==__c2
+__qy^d^rt__so i think that's the hardest problem at the moment is - is ==__c2
+__s^aa__okay .__c1
+__s^bk__where are you going to ==__c2
+__s^rt__how are you going to g- - get this information .__c2
+__b__um ==__c2
+__s.%--__and that's - so getting back to here .__c2
+__s^bk__uh | we have a d- - a technical problem with the belief nets that we - we don't want all the com- ==__c2
+__b__there's just too many factors right now .__c1
+__s^tc__too many factors if we - if we allow them to just go combinatorially .__c2
+__fg__right .__c1
+__s^cs__so we want to think about which ones we really care about .__c2
+__qw__and what they really most depend on .__c2
+__qrr^rt__and can we c- - you know clean this - this up to the point where it ==__c2
+__s^ar__so what we really want to do i- ==__c1
+__s^rt__because this is really just the three layer net we want to b- - make it expand it out into more layers basically ?__c1
+__s^bk__right .__c2
+__s^rt__we might .__c2
+__s__uh | i mean that - that's certainly one thing we can do .__c2
+__fh__uh | it's true that the way you have this a lot of the times you have ==__c2
+__s.%--__what you're having is the values rather than the variable .__c2
+__s__so uh ==__c2
+__b__right .__c1
+__s^rt__okay .__c2
+__s__so instead of - in- - instead it should really be - just be intention as a node instead of intention business or intention tour .__c1
+__qw^rt__so you ==__c2
+__qy^d^g^rt__yeah .__c2
+__h|s__right .__c2
+__qy^d^rt__and then it would have values uh - tour business or uh hurried .__c2
+__%-__right .__c1
+__%--__but then - but i- - it still some knowledge design to do about i- - how do you want to break this up what really matters .__c2
+__b__right .__c1
+__s^bk__i mean it's fine .__c2
+__s.%--__you know we have to - it's - it's iterative .__c2
+__b__we're going to have to work with it some .__c2
+__s__i think what was going through my mind when i did it was someone could both have a business intention and a touring intention .__c1
+__s^rt__and ==__c1
+__s__the probabilities of both of them happening at the same time ==__c1
+__b__well you - you could do that .__c2
+__b__and it's perfectly okay to uh - insist that - that you know th- - um - they add up to one .__c2
+__s^rt__but that there's uh that - that it doesn't have to be one zero zero .__c2
+__sj^df__huh .__c1
+__s^e__okay .__c1
+__s^2__okay ?__c2
+__qy__so you could have the conditional p- ==__c2
+__b__so ==__c2
+__s^rt__the - each of these things is going to be a - a - a probability .__c2
+__s^rt__so whenever there's a choice ==__c2
+__s^rt.%--__uh ==__c2
+__s^rt__so like landmark ness and usefulness .__c2
+__s__well see i don't think those would be mutually ==__c1
+__b__okay ?__c2
+__s^rt__it seems like something could both be ==__c1
+__b__absolutely right .__c2
+__b__okay .__c1
+__s.%--__and so that you might want to then have those ==__c2
+__b__b- - th- - then they may have to be separate .__c2
+__s^rt__they may not be able to be values of the same variable .__c2
+__s^rt__object type .__c4
+__b__uhhuh .__c4
+__s^rt__so that's ==__c2
+__s^rt__but again this is - this is the sort of knowledge design you have to go through .__c2
+__s__right .__c2
+__b__it's - you know it's great is - is you know as one step toward uh - toward where we want to go .__c2
+__b__also it strikes me that we - we m- - may want to approach the point where we can sort of try to find a - uh a specification for some interface here that um - takes the normal m three l looks at it .__c4
+__s__then we discussed in our pre edu - e d u meeting um - how to ask the ontology what to ask the ontology .__c4
+__s__um - | the fact that we can pretend we have one make a dummy until we get the real one .__c4
+__s^rt__and so um | we - we may want to decide we can do this from here .__c4
+__s^rt__but we also could do it - um you know if we have a - a - a belief net interface .__c4
+__s__so the belief net takes as input a vector .__c4
+__s__right ?__c4
+__s^rt__of stuff .__c4
+__s__and it ==__c4
+__s^bk__yeah .__c4
+__s^rt__and um it - output is whatever as well .__c4
+__s^rt__but | this information is just m three l .__c4
+__s__and then we want to look up some more stuff in the ontology .__c4
+__b__and we want to look up some more stuff in the ==__c4
+__b__maybe we want to ask the real world .__c4
+__s__maybe you want to look something up in the g r s .__c4
+__s__but also we definitely want to look up in the dialogue history um some s- - some stuff .__c4
+__s^rt__based on ==__c4
+__s__we - we have uh ==__c4
+__s__i was just made some examples from the ontology .__c4
+__b__and so we have for example some information there that the town hall is both a - a - a building and it has doors and stuff like this .__c4
+__fh__but it is also an institution so it has a mayor and so forth and so forth .__c4
+__fh__and we get relations out of it and once we have them we can use that information to look in the dialogue history .__c4
+__s^bk__were any of these - things that - that are part of the town hall as an institution mentioned ?__c4
+__s__uhhuh .__c2
+__s__were any of these that make the town hall a building mentioned ?__c4
+__s^aa__right .__c3
+__s.%--__and so forth .__c4
+__s__and maybe draw some inferences on that .__c4
+__b__so this may be a - a sort of a process of two to three steps before we get our vector that we feed into the belief net .__c4
+__s.%-__and then ==__c4
+__fg|s^cs__yeah .__c2
+__s__i think that's - i think that's exactly right .__c2
+__b__there will be rules but they aren't rules that come to final decisions they're rules that gather information for a decision process .__c2
+__s^cs__yeah .__c4
+__s.%-__yeah .__c2
+__qy__no i think that's - that's just fine .__c2
+__s^ar__uh | yeah .__c2
+__qrr.%-__so they'll - they - presumably there'll be a thread or process or something that ==__c2
+__s__agent yeah agent whatever you wan- - want to say yeah .__c2
+__s__that uh - is rule driven and can - can uh can do things like that .__c2
+__s__and um | there's an issue about whether there will be - that'll be the same agent and the one that then goes off and uh - carries out the decision .__c2
+__s.%--__so it probably will .__c2
+__s__my guess is it'll be the same basic agent that um - can go off and get information run it through a - a c- - this belief net that ==__c2
+__s.%--__turn a crank in the belief net .__c2
+__s.%--__that'll come out with s- - uh more - another vector .__c2
+__b__okay .__c2
+__s^rt__which can then be uh applied at what we would call the simulation or action end .__c2
+__b__so you now know what you're going to do .__c2
+__s^rt__and | that may actually involve getting more information .__c2
+__s^rt__so on- - once you pull that out it could be that that says uh .__c2
+__s__now that we know that we going to go ask the ontology something else .__c2
+__s^df__okay ?__c2
+__s__now that we know that it's a bus trip .__c2
+__s.%-__okay ?__c2
+__s__we didn't - we didn't need to know beforehand uh - how long the bus trip takes or whatever but - but now that we know that's the way it's coming out then we got to go find out more .__c2
+__sj^by__uhhuh .__c4
+__s.%-__so i think that's okay .__c2
+__qy^d^g__uhhuh .__c4
+__s^co__so this is actually s- - if - if we were to build something that is um ==__c4
+__s^bk__and uh | i had one more thing .__c4
+__s^cs__the - it needs to do ==__c4
+__s^e.%--__yeah ==__c4
+__s__i think we - i - i can come up with a - a code for a module that we call the cognitive dispatcher which does nothing .__c4
+__s^am__okay .__c2
+__s^df__but it looks of complect object trees and decides how are there parts missing that need to be filled out .__c4
+__s^df__there's - this is maybe something that this module can do something that this module can do .__c4
+__s^aa|s^arp.%-__and then collect - uh sub objects and then recombine them and put them together .__c4
+__qy^d^g^rt__so maybe this is actually some - some useful tool that we can use to rewrite it and uh - get this part .__c4
+__s__oh okay .__c2
+__qy^d^g^rt__uh ==__c2
+__s^aa|s^arp__then ==__c4
+__s^e__yeah .__c4
+__fh__i confess i'm still - not completely comfortable with the overall story .__c2
+__s^bk__um ==__c2
+__fg|s^arp^df.%--__i- ==__c2
+__s.%--__i- - this - this is not a complaint this is a promise to do more work .__c2
+__s__so i'm going to have to think about it some more .__c2
+__s__um | in particular ==__c2
+__b__see what we'd like to do and - and this has been implicit in the discussion - is to do this in such a way that you get a lot of reuse .__c2
+__s__so | what you're trying to get out of this deep co- - cognitive linguistics is the fact that w- - if you know about source - source paths and goals and nnn - all this sort of stuff that a lot of this is the same for different tasks .__c2
+__s__and that - uh there's - there's some - some important generalities that you're getting .__c2
+__s__so that you don't take each and every one of these tasks and have to redo it .__c2
+__s__and i don't yet see how that goes .__c2
+__s__all right .__c2
+__s^aa__there're no primitives upon which uh ==__c4
+__s^bk__u- - u- - what are the primitives and how do you break this ?==__c2
+__s__yeah .__c4
+__s.%--__so i y- - i'm just - just there saying eee well you i know how to do any individual case .__c2
+__s^df__right ?__c2
+__s.x__but i don't yet ==__c2
+__s__see what's the really interesting question is can you use uh deep uh cognitive linguistics to get powerful generalizations .__c2
+__s.%--__and ==__c2
+__s__yep .__c4
+__s__um ==__c2
+__fh__maybe we sho- ==__c4
+__s^aa|s.%--__should we a- - add then the what's this domain ?__c4
+__s^rt__n- ==__c4
+__s__i mean we have to .__c4
+__b__how do i get to x .__c4
+__s^e__then we also have the what's this domain where we get some slightly different ==__c4
+__s.%--__right .__c3
+__s^aap__could uh ?==__c2
+__s__um johno actually does not allow us to call them intentions anymore .__c4
+__s^aa__yeah .__c2
+__s__so he - he dislikes the term .__c4
+__b__well i - i don't like the term either so i have n- - i- ==__c2
+__s^aa__uh ==__c2
+__s.%--__i- - i- - y- - w- - i- - i- ==__c2
+__h|s^rt__it uh ==__c2
+__s__but um | i'm sure the what's this questions also create some interesting x schema aspects .__c4
+__s^ar__could be .__c2
+__s__so ==__c4
+__s__i'm not a - i'm not op- - particularly opposed to adding that or any other task .__c2
+__s^df__i mean eventually we're going to want a whole range of them .__c2
+__s^arp.%-__uhhuh .__c4
+__s^r__that's right .__c3
+__s^cs__uh ==__c2
+__s^arp.%-__i'm just saying that i'm going to have to do some sort of first principles thinking about this .__c2
+__s^cs__i just - at the moment don't know .__c2
+__b__uhhuh .__c4
+__b__h- ==__c2
+__s__no .__c2
+__s__well no | the bayes - the bayes nets ==__c2
+__b__the bayes nets will be dec- - specific for each decision .__c2
+__s^arp.%-__but what i'd like to be able to do is to have the way that you extract properties that will go into different bayes nets be the uh general .__c2
+__s^am__so that if you have sources you have trajectors and stuff like that .__c2
+__s^arp^df__and there's a language for talking about trajectors .__c2
+__s__you shouldn't have to do that differently .__c2
+__s^e__for uh - uh going to something than for circling it .__c2
+__b__for uh telling someone else how to go there .__c2
+__s^aa__getting out of ==__c4
+__s^bsc.%--__whatever it is .__c2
+__fh__so that - that the - the decision processes are going to be different .__c2
+__s.%--__what you'd really like of course is the same thing you'd always like which is that you have um a kind of intermediate representation which looks the same o- - over a bunch of inputs and a bunch of outputs .__c2
+__s^df__so | all sorts of different tasks and all sorts of different ways of expressing them use a lot of the same mechanism for pulling out what are the fundamental things going on .__c2
+__b__and | that's - that would be the really pretty result .__c2
+__s^rt__and | pushing it one step further when you get to construction grammar and stuff what you'd like to be able to do is say you have this parser which is much fancier than the parser that comes with uh smartkom .__c2
+__b__i- - that - that actually uses constructions and is able to tell from this construction that there's uh something about the intent .__c2
+__s__you know the actual what people want to do or what they're referring to and stuff .__c2
+__fg__in- - independent of whether it - about - what is this or where is it or something that you could tell from the construction you could pull out deep semantic information which you're going to use in a general way .__c2
+__s.%-__so that's the ==__c2
+__sj^ba__you might .__c2
+__s__you might .__c2
+__b__you might be able to - to uh ==__c2
+__b__say that this i- - this is the kind of construction in which the ==__c2
+__s__there's - let's say there's a uh cont- ==__c2
+__s^cc__there - the - the land- - the construction implies the there's a con- - this thing is being viewed as a container .__c2
+__s.%--__okay ?__c2
+__b__so just from this local construction you know that you're going to have to treat it as a container you might as well go off and get that information .__c2
+__qh__and that may effect the way you process everything else .__c2
+__s.%--__so if you say how do i get into the castle .__c2
+__qh__okay ?__c2
+__s__then um ==__c2
+__b__or you know what is there in the castle or ==__c2
+__fh|qh__so there's all sorts of things you might ask that involve the castle as a container .__c2
+__qw__and you'd like to have this orthogonal so that anytime the castle's referred to as a container you crank up the appropriate stuff .__c2
+__qw__independent of what the goal is and independent of what the surrounding language is .__c2
+__s.%--__uhhuh .__c4
+__s^cs__all right so that's - that's the - that's the thesis level .__c2
+__qw__uhhuh .__c4
+__fh|s__uh ==__c2
+__b__it's unfortunate also that english has sort of got rid of most of its spatial adverbs .__c4
+__s^rt__because they're really fancy then in - in - for these kinds of analysis .__c4
+__s__but uh ==__c4
+__b__well you have prepositional phrases that ==__c2
+__fh__yeah but they're - they're easier for parsers .__c4
+__qw^tc__right .__c2
+__qw.%-__parsers can pick those up but - but the - with the spatial adverbs they have a tough time .__c4
+__s^f__because the - mean- - the semantics are very complex in that .__c4
+__s__right .__c2
+__qy^rt__okay yeah .__c4
+__s.%-__i had one more thing .__c4
+__s__i don't remember .__c4
+__s^bu__i just forgot it again .__c4
+__s^bk__no .__c4
+__s^aa^m__oh yeah !__c4
+__s^df__b- - but an architecture like this would also enable us maybe to - to throw this away and - and replace it with something else or whatever .__c4
+__s^bu__so that we have - so that this is sort of the representational formats we're - we're - we're talking about that are independent of the problem .__c4
+__s^aa__that generalize over those problems and are oh t- - of a higher quality than an- - any actual whatever um belief net or x that we may use for the decision making ultimately .__c4
+__b__should be decoupled yeah .__c4
+__qy^rt__okay .__c4
+__s__right .__c2
+__s^aa__so | are we going to be meeting here from now on ?__c2
+__s^2__i'm - i'm happy to do that .__c2
+__s^aa__we - we had talked about it because you have th- - th- - the display and everything that seems fine .__c2
+__s__yeah um liz also asks whether we're going to have presentations every time .__c4
+__s__i don't think we will need to do that but it's ==__c4
+__b__right .__c2
+__s.%-__so far i think it was nice as a visual aid for some things and - and ==__c4
+__s__oh yeah !__c2
+__s^am__no i - i think it's worth it to ass- - to meet here to bring this and assume that something may come up that we want to look at .__c2
+__s.%--__yeah .__c4
+__b__i mean why not .__c2
+__s^no__and um ==__c4
+__fg__yeah | that was my ==__c4
+__s^bk__she was good .__c2
+__s__litonya was good .__c2
+__b__yeah ?__c4
+__s^rt__the uh um | she w- - she was definitely good in the sense that she - she showed us some of the weaknesses .__c4
+__b__right .__c2
+__s^rt__and um | also the um the fact that she was a real subject you know is - is ==__c4
+__s__right .__c2
+__b__yeah and - and and - | yeah and - and she took it seriously and stuff .__c2
+__fh|s__l- - no it was great .__c2
+__s^rt__yeah .__c4
+__s^rt__yeah .__c2
+__s^rt__so i think that um - i mean w- ==__c4
+__s^rt__looking - just looking at this data listening to it what can we get out of it in terms of our problem .__c4
+__s__for example is you know she actually m- - said you know she never s- - just spoke about entering she just wanted to get someplace and she said for buying stuff .__c4
+__s^rt__nuh ?__c4
+__s__so this is definitely interesting and ==__c4
+__s^rt__yeah right .__c3
+__s^rt__um | and in the other case where she wanted to look at the stuff - at the graffiti .__c4
+__qy^d^rt__also of course not in the sentence how do you get there was pretty standard .__c4
+__s__nuh ?__c4
+__s^m__except that there was a nice anaphora you know for pointing at what she talked about before .__c4
+__s.%--__and there she was talking about looking at pictures that are painted inside a wall - on walls .__c4
+__s^no__so ==__c4
+__s.%--__right .__c3
+__s.%--__actually you'd need a lot of world knowledge .__c4
+__s__this would have been a classical um uh tango actually .__c4
+__s^df__um | because graffiti is usually found on the outside and not on the inside .__c4
+__qr^rt__yeah .__c3
+__qy.%--__but ==__c4
+__qw^rt__okay .__c4
+__s^df^rt__so the mistake would have make a mistake - the system would have made a mistake here .__c4
+__s^bk^m__yep .__c3
+__s__click .__c2
+__s.%-__all right .__c2

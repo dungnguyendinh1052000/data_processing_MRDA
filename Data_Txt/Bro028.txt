@@ -1,0 +1,1212 @@
+__s__what things to talk about .__c1
+__s__i'm - what ?__c5
+__s^e__really ?__c5
+__b__oh that's horrible !__c5
+__s__disincentive !__c5
+__fh__okay we're recording .__c0
+__qy^bu^d^rt__hello ?__c5
+__qw^e__check check check check .__c1
+__h|s__hello ?__c5
+__s^rt__uh yeah .__c3
+__s^bk__which am i ?__c5
+__s^ba|s__oh right .__c2
+__b__all right good .__c1
+__fh__channel fi- - okay .__c5
+__s^ba__okay .__c5
+__fg__are you doing something ?__c5
+__fg|s^cs^t^tc__okay | then i guess i'm doing something .__c5
+__b.x__so um ==__c5
+__qy^bu^d|qy^d^g__so basically the result of m- - much thinking since the last time we met um but not as much writing um is a sheet that i have a lot of like thoughts and justification of comments on .__c5
+__s^aa__but i'll just pass out as is right now .__c5
+__s^bk__so um ==__c5
+__fh__here .__c5
+__fg|s^rt__if you could pass this around .__c5
+__fh__and there's two things .__c5
+__s__and so one on one side is - on one side is a sort of the revised sort of updated semantic specification .__c5
+__s^rt__um ==__c3
+__s^ar|qy^bu^d^rt__and the other side is um sort of a revised construction formalism .__c5
+__s^aa|s__the ==__c3
+__qrr.%-__wait .__c3
+__s__this is just one sheet | right ?__c4
+__s^bk__uh .__c3
+__s__it's just one sheet .__c5
+__s__just one sheet .__c3
+__s__it's just a - nothing else .__c5
+__s^e^rt__okay .__c3
+__fh__front back .__c3
+__s^e__um ==__c5
+__s^e__enough to go around ?__c5
+__fh__okay .__c5
+__qw__and in some ways it's - it's - it's very similar to ==__c5
+__s__there are very few changes in some ways from what we've um uh b- - done before .__c5
+__b__but i don't think everyone here has seen all of this .__c5
+__s^ba__so uh i'm not sure where to begin .__c5
+__s^bu^m__um as usual the disclaimers are there are - all these things are ==__c5
+__s^aa__it's only slightly more stable than it was before .__c5
+__s__uhhuh .__c4
+__%-__and um after a little bit more discussion and especially like keith and i - i have more linguistic things to settle in the next few days um it'll probably change again some more .__c5
+__s^bu__yeah .__c4
+__s^aa|%-__um maybe i will ==__c5
+__s^aa__let's start b- - let's start on number two actually on the notation .__c5
+__s^ba__um because that's ==__c5
+__s^bk__i'm thinking possibly a little more familiar to um - to people .__c5
+__fh__okay so the top block is just sort of a - sort of abstract nota- ==__c5
+__s^bu__it's sort of like um listings of the kinds of things that we can have .__c5
+__qy^d^g^rt__and certain things that have um - changed have changed back to this .__c5
+__s^aa__there - there's been a little bit of um going back and forth .__c5
+__s^aa|s^na__but basically obviously all constructions have some kind of name .__c5
+__s^cs__i forgot to include that you could have a type included in this line .__c5
+__s^aa__what i was going to ==__c2
+__%-__so something like um ==__c5
+__s^aa__right .__c2
+__s^cs__well there's an example .__c5
+__s^aa__the textual example at the end has clausal construction .__c5
+__b__so ==__c5
+__fh__um just to show it doesn't have to be beautiful latex .__c5
+__qy__it could be you know simple old text as well .__c5
+__s^aa__um there are a couple of ==__c5
+__s^bk__uh these three have various ways of doing certain things .__c5
+__s__so i'll just try to go through them .__c5
+__x__so they could all have a type at the beginning .__c5
+__%--__um and then they say the key word construction .__c5
+__b__oh i see .__c2
+__fh__and they have some name .__c5
+__s^bk.%__so - so the current syntax is if it s- - if there's a type it's before construct- ==__c2
+__fh__yeah right .__c5
+__fg|s^rt^t^tc__okay | that's fine .__c2
+__s__okay | and then it has a block that is constituents .__c5
+__s.%--__and as usual i guess all the constructions her- - all the examples here have only um - tsk one type of constituent .__c5
+__s__that is a constructional constituent .__c5
+__s^bd__i think that's actually going to turn out to m- - be certainly the most common kind .__c5
+__s^df__but in general instead of the word construct th- - here you might have meaning or form as well .__c5
+__s__okay ?__c5
+__qy^bu^d^rt__so if there's some element that doesn't - that isn't yet constructional in the sense that it maps form and meaning .__c5
+__s^aa__okay .__c5
+__s^bk__um | the main change with the constructs which - each of which has um the key word construct and then some name and then some type specification is that it's ==__c5
+__qy__it's pro- - it's often - sometimes the case in the first case here that you know what kind of construction it is .__c5
+__s^ar|s^nd__so for example whatever i have here is going to be a form of the word throw .__c5
+__s^e.%-__or it's going to be a form of the word you know i don't know happy or something like that .__c5
+__s^bk__or you know some- - it'll be a specific word .__c5
+__s^aa^m__or maybe you'll have the type .__c5
+__s^bk__you'll say i need a p- - uh spatial relation phrase here .__c5
+__s__or i need a directional specifier here .__c5
+__b__so- - uh you could have a j- - a actual type here .__c5
+__b__um or you could just say in the second case that you only know the meaning type .__c5
+__s__so a very common example of this is that you know in directed motion the first person to do something should be an agent of some kind .__c5
+__b__often a human .__c5
+__fh__right ?__c5
+__s^no__so if i you know the- - um - uh run down the street then i ==__c5
+__s__i - i run down the street .__c5
+__s__it's typed uh i .__c5
+__fh__meaning category is what's there .__c5
+__qw.%-__the - the new kind is this one that is sort of a pair .__c5
+__s^no__and um ==__c5
+__fh__sort of skipping fonts and whatever .__c5
+__s^cc__the idea is that sometimes there are um general constructions that you know that you're going to need .__c5
+__s^bk|s^na__it's - it's the equivalent of a noun phrase or a prepositional phrase or something like that there .__c5
+__s^df__uhhuh .__c4
+__s^am^cs__and usually it has formal um considerations that will go along with it .__c5
+__s^ba__uhhuh .__c2
+__b__and then uh you might know something much more specific depending on what construction you're talking about .__c5
+__s__about what meaning - what specific meaning you want .__c5
+__s^bk__so the example again at the bottom which is directed motion .__c5
+__s^bu__you might need a nominal expression to take the place of you know um - the big th- - you- - you know the big - the tall dark man you know walked into the room .__c5
+__s^aa__uhhuh .__c4
+__qy^d^g^rt__but because of the nature of this particular construction you know not just that it's nominal of some kind .__c5
+__s^bk__but in particular that it's some kind of animate nominal .__c5
+__b__and which will apply just as well to like you know a per- - you know a simple proper noun .__c5
+__qy^bu^d.%--__or to some complicated expression .__c5
+__s.%--__um ==__c5
+__s__so i don't know if the syntax will hold but something that gives you a way to do both constructional and meaning types .__c5
+__s^bk|s^rt__so ==__c5
+__fh__okay | then i don't think the um ==__c5
+__s__at least ==__c5
+__s__yeah | none of these examples have anything different for formal constraints .__c5
+__fh__but you can refer to any of the um sort of available elements and scope .__c5
+__s^rt__right | which here are the constructs to say something about the relation .__c5
+__s__and i think i- - if you not- - if you compare like the top block and the textual block um we dropped like the little f.  subscript .__c5
+__b__the f.  subscripts refer to the form piece of the construct .__c5
+__fh__good .__c2
+__s__and i think that um in general it'll be unambiguous .__c5
+__s^rt__like if you were giving a formal constraint then you're referring to the formal pole of that .__c5
+__b__so - so by saying if i just said name one then that means name one formal .__c5
+__fh__and we're talking about formal struc- - which - which makes sense .__c5
+__fg|s.%-__uh there are certain times when we'll have an exception to that .__c5
+__qy.%--__in which case you could just indicate here i mean the meaningful for some reason .__c5
+__s^fa__right .__c5
+__qy__or - actually it's more often that only to handle this one special case of you know george and jerry walk into the room in that order .__c5
+__s^bk__so we have a few funny things where something in the meaning might refer to something in the form .__c5
+__%-__uhhuh .__c4
+__s^aa__but - but s- - we're not going to really worry about that for right now .__c5
+__s^df.%-__and there are way- - we can be more specific if we have to later on .__c5
+__s__okay | and so in terms of the - the relations .__c5
+__b__you know as usual they're before and ends .__c5
+__b__i should have put an example in of something that isn't an interval relation .__c5
+__s__but in form you might also have a value binding .__c5
+__b__you know you could say that um - you know name one dot t- - you know number equals you know a plural or something like that .__c5
+__s__uhhuh .__c4
+__s^bk__there are certain things that are attribute value similar to the bindings below .__c5
+__fh__but i mean they're just - us- - usually they're going to be value - value fillers | right ?__c5
+__qy^bu^d.%-__okay | and then again semantic constraints here are just - are just bindings .__c5
+__s__there was talk of changing the name of that .__c5
+__%--__and johno and i - i - you - you and i can like fight about that if you like .__c5
+__fh__but about changing it to semantic n- - effects .__c5
+__s^rt__which i thought was a little bit too order biased .__c5
+__s__well ==__c1
+__fh__th- ==__c1
+__s__and semantic bindings .__c5
+__s^df__which i thought might be too restrictive in case we don't have only bindings .__c5
+__s^bk__and so it was an issue whether constraints - um there were some linguists who reacted against constraints saying oh if it's not used for matching then it shouldn't be called a constraint .__c5
+__fh.%__but i think we want to be uncommitted about whether it's used for matching or not | right ?__c5
+__fh__because there are - i think we thought of some situations where it would be useful to use whatever the c- - bindings are for .__c5
+__s^ba__actual you know sort of like modified constraining purposes .__c5
+__%-__well you definitely want to de couple the formalism from the parsing strategy .__c2
+__s^aa|%--__yeah .__c4
+__%--__so that whether or not it's used for matching or only for verification i ==__c2
+__s^ba.%__yeah yeah .__c5
+__s^am^cs__it's used shouldn't matter | right .__c5
+__%-__uhhuh .__c5
+__qh^d^rt__s- - for sure .__c2
+__%--__uhhuh .__c5
+__fh__i mean i don't know what uh term we want to use .__c2
+__s^ba__but we don't want to ==__c2
+__fh__yeah | uh there was one time when - when hans explained why constraints was a misleading word for him .__c5
+__b__yep .__c2
+__fh__and i think the reason that he gave was similar to the reason why johno thought it was a misleading term .__c5
+__s__which was just an interesting coincidence .__c5
+__s^bk|s__um but uh ==__c5
+__b__and so i was like okay | well both of you don't like it .__c5
+__fh__fine | we can change it .__c5
+__b.%__it's g- - it's gone .__c2
+__s__but i - i - i'm starting to like it again .__c5
+__b__so that- - that's why - that's why i'll stick with it .__c5
+__fh__but ==__c1
+__s__so ==__c5
+__s__well you know what ?__c0
+__b__if you have an if then phrase do you know what the then phrase is called ?__c0
+__fh__th- ==__c2
+__fg|s__what ?__c5
+__fh__con- - uh a consequent ?__c5
+__s__yeah .__c0
+__qy^d^f^g__yeah | but it's not an if then .__c5
+__s^df__i know .__c2
+__b__anyway | so the other - the other strategy you guys could consider is when you don't know what word to put you could put no word .__c2
+__s^e__no | but ==__c0
+__fh__uhhuh .__c5
+__s__just meaning .__c2
+__b__okay ?__c2
+__s.%--__yeah .__c4
+__s.%--__and the- - then let ==__c2
+__s__yeah | that's true .__c5
+__s__so that's why you put semantic constraints up top and meaning bindings down - down here ?__c1
+__s__oh | oops !__c5
+__s^am__no | that was just a mistake of cut and paste from when i was going with it .__c5
+__s^bk__okay .__c1
+__fh|s.%-__okay .__c2
+__fg__so i'm sorry .__c5
+__s__i didn't mean - that one's an in- - unintentional .__c5
+__b__so this should be semantic and ==__c1
+__s__sometimes i'm intentionally inconsistent .__c5
+__b__@@ .__c1
+__b__because i'm not sure yet .__c5
+__s^bk__here i actually - it was just a mistake .__c5
+__fh__th- - so this definitely should be semantic constraints down at the bottom .__c1
+__s__sure .__c4
+__s^bk__yeah .__c5
+__s^df__okay .__c1
+__b__well unless i go with meaning .__c5
+__s^ba__but i- - i mean i kind of like meaning better than semantic .__c5
+__b.%__or ==__c1
+__fh|s^bd__oh whatever .__c2
+__fh|s^df__but i think there's vestiges of other people's biases .__c5
+__s__or - wh- ==__c2
+__s__like ==__c5
+__s__that- - b- ==__c2
+__s__right .__c2
+__b.%__minor - min- - problem .__c2
+__s__minor point .__c5
+__s__extremely .__c4
+__s__okay .__c2
+__fh__okay um ==__c5
+__s^rt__so i think the middle block doesn't really give you any more information ex- - than the top block .__c5
+__fh__and the bottom block similarly only just illus- - you know all it does is illustrate that you can drop the subscripts and - and that you can drop the um - uh that you can give dual types .__c5
+__s__oh one thing i should mention is about designates .__c5
+__s__i think i'm actually inconsistent across these as well .__c5
+__s__so um strike out the m.  subscript on the middle block .__c5
+__s^aa__uhhuh .__c2
+__fh__so basically now um this is actually this little change actually goes along with a big linguistic change .__c5
+__qy^bu^d^rt__which is that designates isn't only something for the semantics to worry about now .__c5
+__h|s^aa__good .__c2
+__s^e__so we want s- - designates to actually know one of the constituents which acts like a head in some respects .__c5
+__fh|s__but is sort of um really important for say composition later on .__c5
+__s__so for instance if some other construction says you know are you of type - is this part of type whatever um the designates tells you which sort of part is the meaning part .__c5
+__qw__okay so if you have like the big red ball you know you want to know if there's an object or a noun .__c5
+__s__well ball is going to be the designated sort of element of that kind of phrase .__c5
+__s^e__huh .__c4
+__s^bk|s^cs__um ==__c5
+__b__there is a slight complication here which is that when we talk about form it's useful sometimes to talk about um to talk about there also being a designated object .__c5
+__b__and we think that that'll be the same one | right .__c5
+__b__so the ball is the head of the phrase .__c5
+__b__the r- - the - um big red ball .__c5
+__s^bk__and the entity denoted by the word ball is sort of the semantic head in some ways of - of this sort of um - in- - interesting larger element .__c5
+__fh__a- - a- - and the ==__c2
+__fg|s__yeah .__c2
+__s.%--__and there's - uh there's ca- - some cases where the grammar depends on some form property of the head .__c2
+__s__uhhuh .__c5
+__s__yeah .__c4
+__s__and - and this enables you to get that if i understand you right .__c2
+__b__yeah .__c4
+__fh__right right .__c5
+__s__that's the idea .__c4
+__fg|s^cs__yeah .__c4
+__s^bk__yeah yeah .__c2
+__s^e__and uh you might be able to say things like if the head has to go last in a head final language you can refer to the head as a p- - the you know - the formal head as opposed to the rest of the form having to be at the end of that decision .__c5
+__s__right .__c2
+__b__so that's a useful thing .__c5
+__s__so that you can get some internal structural constraints in .__c5
+__s.%--__okay | so that all looks good .__c2
+__b__let me ==__c2
+__s__oh w- - oh ==__c2
+__b__i don't know .__c2
+__s^ba__were you finished ?__c2
+__fh__um | there was a list of things that isn't included .__c5
+__fg|s^t^tc__but you - you can - you can ask a question .__c5
+__s^bd^df__that might @@ it .__c5
+__%--__okay .__c2
+__fh__so i- - if i understand this - the ==__c2
+__s__aside from uh construed and all that sort of stuff the - the differences are mainly that we've gone to the possibility of having form meaning pairs for a type .__c2
+__s__uhhuh .__c5
+__fh__or actually gone back to .__c2
+__s^bu__right .__c5
+__s^bu^e__if we go back far enough ==__c2
+__s^aa|s.%-__well except for their construction meaning .__c5
+__s^2__so it's not clear that ==__c5
+__b__uh ==__c5
+__s^bd__well right now it's a c- - uh contr- - construction type and meaning type .__c5
+__s^bd^e__so i don't know what a form type is .__c5
+__s^aa__oh i see .__c2
+__s^ba__yeah yeah yeah .__c2
+__fh__i'm sorry .__c2
+__s^df__yeah .__c5
+__b__you're right .__c2
+__s^df^e__a construction type .__c2
+__fh|s.%--__uh that's fine .__c2
+__s.%--__right .__c5
+__b__but it um ==__c2
+__fh__a- - well and a previous um you know version of the notation certainly allowed you to single out the meaning bit by it .__c5
+__s__so you could say construct of type whatever designates something .__c5
+__b__yeah .__c2
+__s__but that was mostly for reference purposes .__c5
+__s__just to refer to the meaning pole .__c5
+__s.%--__i don't think that it was often used to give an extra meaning const- - type constraint on the meaning .__c5
+__s.%--__which is really what we want most of the time i think .__c5
+__%-__uhhuh .__c2
+__s__um ==__c5
+__s__i - i don't know if we'll ever have a case where we actually h- ==__c5
+__b__if there is a form category constraint you could imagine having a triple there that says you know - that's kind of weird .__c5
+__qy^d^f^g__no no no | i don't think so .__c2
+__s^e__i think that you'll - you'll do fine .__c2
+__s^e__i ==__c4
+__s^df^e__in fact these are um ==__c2
+__fh__as long as - as mark isn't around these are form constraints .__c2
+__s__so a nominal expression is - uh the fact that it's animate is semantic .__c2
+__qh^cs__the fact that it's n- - uh a nominal expression i would say on most people's notion of - of f- - you know higher form types this i- - this is one .__c2
+__qy^d^f^g__uhhuh .__c5
+__s__yeah .__c4
+__b__right right .__c5
+__qh__yeah yeah .__c4
+__h__and i think that's just fine .__c2
+__s__which is fine | yeah .__c5
+__s__it's - that now um i'm mentioned this .__c4
+__b__yeah .__c2
+__s__i - i don't know if i ever explained this .__c4
+__s^ba__but the point of um ==__c4
+__s^aap|%-__i mentioned in the last meeting the point of having something called nominal expression is um ==__c4
+__fh__because it seems like having the verb subcategorize for you know like say taking as its object just some expression which um designates an object or designates a thing or whatever um - that leads to some syntactic problems basically .__c4
+__s:s^ba__so you want to you know - you sort of have this problem like okay well i'll put the word uh let's say the word dog .__c4
+__qy^d^f__you know | and that has to come right after the verb .__c4
+__s^aa__uhhuh .__c5
+__s^no__because we know verb meets its object .__c4
+__%-__and then we have a construction that says oh you can have the preceding a noun .__c4
+__fg|s__and so you'd have this sort of problem that the verb has to meet the designatum .__c4
+__s^df.%--__right .__c2
+__s__and you could get you know the kicked dog or something like that meaning kicked the dog .__c4
+__s__right .__c2
+__fh__um so you kind of have to let this phrase idea in there .__c4
+__s^nd.%--__but ==__c4
+__%-__that i - i have no problem with it at all .__c2
+__qh.%-__it- - it- ==__c4
+__s^bk^m|s^aa__yeah .__c4
+__s^df.%-__yeah .__c5
+__qh^cs__i think it's fine .__c2
+__qw^br^d^m__right | n- - s- ==__c5
+__s__you may be - you may not be like everyone else in - in berkeley .__c5
+__qy^d^f^g__yeah .__c4
+__s^ba__yeah .__c4
+__s^aa__but that's okay .__c5
+__b__i mean we - we - we sort of thought we were getting away with uh - with a p- ==__c4
+__s__uh we don't mind either .__c5
+__b__so ==__c5
+__%--__i mean this is not reverting to the x. bar theory of - of phrase structure .__c4
+__fh__right .__c2
+__b.%__but uh ==__c4
+__s^t1__right .__c5
+__qw^t1.%-__i just know that this is - like we didn't originally have in mind that uh - that verbs would subcategorize for a particular sort of form .__c4
+__s^df__uhhuh .__c5
+__%-__but they do .__c2
+__s^ar|s^nd__um ==__c4
+__s^df__but they does .__c4
+__s^aap|qh^df__well there's an alternative to this .__c5
+__qy^d^f^g__at least in english .__c4
+__s^bd^no__which is um - the question was did we want directed motion ==__c5
+__%-__yeah .__c2
+__b__which is an argument structure construction ==__c5
+__s^df^ng__yeah .__c4
+__b__uhhuh .__c2
+__qy^cs^rt__did we want it to worry about um anything more than the fact that it you know has semantic ?==__c5
+__s__you know it's sort of frame based construction .__c5
+__s^aa|s__so one option that you know keith had mentioned also was like well if you have more abstract constructions such as subject predicate basically things like grammatical relations .__c5
+__b__uhhuh .__c4
+__s__those could intersect with these .__c5
+__s^bk__in such a way that subject predicate or subject predicate subject verb ob- - you know verb object would require that those things that f- - fill a subject and object are nom expressions .__c5
+__b__right .__c2
+__s^e__and that would be a little bit cleaner in some way .__c5
+__s^bk__but you know for now i mean ==__c5
+__s^bu__yeah .__c2
+__s^aa__but it - y- - y- - it's - yeah just moving it - moving the c- - the cons- - the constraints around .__c2
+__s__uh you know .__c5
+__s^aa__m- - moving it to another place | right .__c5
+__s^bk__yeah .__c4
+__s__okay | so that's ==__c2
+__s__but there does - basically the point is there has to be that constraint somewhere | right ?__c5
+__b__right .__c2
+__fh__so ==__c5
+__s__yeah .__c5
+__b__and so that was the ==__c2
+__s__robert's not happy now ?__c5
+__s^bs__no .__c0
+__s^e__oh okay .__c5
+__b__okay | and sort of going with that is that the designatum also now is a pair .__c2
+__s__yes .__c5
+__s.%--__instead of just the meaning .__c2
+__s__uhhuh .__c5
+__b__and that aside from some terminology that's basically it .__c2
+__s__right .__c5
+__s.%--__i just want to b- - i'm - i'm asking .__c2
+__%-__yep .__c5
+__fg|s__uhhuh .__c4
+__s__yeah .__c4
+__s__yeah .__c5
+__s__um the un- - sort of the un addressed questions in this um definitely would for instance be semantic constraints we talked about .__c5
+__qh__yeah .__c2
+__b__here are just bindings .__c5
+__s:s__but ==__c5
+__b.%__right .__c5
+__s^bu__we might want to introduce mental spaces .__c5
+__qy^d^g__you know there's all these things that we don't ==__c5
+__s^bu^e__the whole - the mental space thing is clearly not here .__c2
+__s.%--__right .__c5
+__s^aa|%-__so there's going to be some extra - you know definitely other notation we'll need for that which we skip for now .__c5
+__s^bu^e__uhhuh .__c4
+__s__by the way i do want to get on that as soon as robert gets back .__c2
+__s^2|s^aa__uh ==__c5
+__s^e__yeah .__c5
+__fg__okay .__c5
+__fh__so uh the - the mental space thing .__c2
+__s^bd^no__uhhuh .__c4
+__%-__um obviously construal is a b- - is a b- - is a big component of that .__c2
+__s__so this probably not worth trying to do anything till he gets back .__c2
+__s.%-__but sort of as soon as he gets back i think um we ought to ==__c2
+__s__uhhuh .__c5
+__b__uhhuh .__c5
+__s__so what's the - what's the time frame ?__c4
+__s^e__i forgot again when ==__c4
+__qw.%--__you're going away for how long ?__c4
+__s^df.%-__just uh as a - sort of a mental bridge i'm not - i'm skipping fourth of july .__c0
+__qy^bu^d^rt__okay .__c4
+__fg|s__so uh right afterwards i'm back .__c0
+__%-__okay .__c4
+__%-__what ?__c5
+__s^aa^rt__you're missing like the premier american holiday ?__c5
+__s^r__what's the point of spending a year here ?__c5
+__fh|s^bu__uh i've had it often enough .__c0
+__s^aa__so anyway ==__c5
+__s^bu^e__well he w- - he went to college here .__c1
+__qy^d^f^g__oh yeah | i forgot .__c5
+__s__oops sorry .__c5
+__s__yeah .__c2
+__h__okay .__c5
+__qy^d^g^rt__and furthermore it's well worth missing .__c2
+__s^bk|s^df^nd__not in california .__c5
+__s^df__yeah | that's true .__c5
+__s^bd^na__yes .__c4
+__%-__i like - i - i like spending fourth of july in other countries whenever i can .__c5
+__s^df^nd__right .__c2
+__b.%__um ==__c5
+__b__okay | so that's great .__c2
+__b__construal .__c5
+__fg|s^bd__okay | so ==__c5
+__s^df^e__oh so there was one question that came out .__c5
+__s^df^e__i hate this thing .__c5
+__s^aa__sorry .__c5
+__s^df__um which is ==__c5
+__b__so something like past which i- - you know we think is a very simple - uh we've often just stuck it in as a feature .__c5
+__s__right .__c2
+__b__you know oh this event takes place before speech time okay is what this means .__c5
+__b__right .__c2
+__s.%--__um it's often thought of as it is also considered a mental space .__c5
+__s^df__right .__c2
+__s^am^cs__you know by you know lots of people around here .__c5
+__s^am__right .__c2
+__s^am__so there's this issue of well sometimes there are really exotic explicit space builders that say in france blah blah blah .__c5
+__fg__uhhuh .__c4
+__s__and you have to build up - you ha- - you would imagine that would require you you know to be very specific about the machinery .__c5
+__%--__whereas past is a very conventionalized one .__c5
+__b__and we sort of know what it means .__c5
+__fh|%-__but it - we doesn't - don't necessarily want to you know unload all the notation every time we see that it's past tense .__c5
+__s.%--__right .__c2
+__s__so you know we could think of our - uh just like x. schema walk refers to this complicated structure past refers to you know a certain configuration of this thing with respect to it .__c5
+__s^aap|%-__i think that's exactly right .__c2
+__s^aa__so - so we're kind of like having our cake and eating it .__c5
+__s^f|s^df__you know having it both ways | right ?__c5
+__fh__yeah .__c2
+__b__so i- - i- ==__c5
+__b__yeah | no i think - i think that i- - we'll have to see how it works out when we do the details .__c2
+__b__uhhuh .__c5
+__s^bk__but my intuition would be that that's right .__c2
+__fg__uhhuh .__c5
+__s^t^tc__yeah okay .__c5
+__fg|%-__do you want to do the same for space ?__c0
+__b__wha- - sorry ?__c5
+__s__space .__c0
+__s.%--__space ?__c5
+__s__here .__c0
+__b__now .__c0
+__fh__oh oh oh oh | instead of just time ?__c5
+__fh__yeah yeah yeah .__c5
+__%--__uhhuh .__c0
+__s__same thing .__c5
+__s__so there are very conventionalized like deictic ones | right ?__c5
+__b__and then i think for other spaces that you introduce you could just attach y- ==__c5
+__s^aa|s^aap__whatever .__c5
+__s^aa__you could build up an appropriately - uh appropriate structure according to the l- - the sentence .__c5
+__s^aa__huh .__c0
+__s^bk__yeah .__c2
+__fg|s^e__huh .__c0
+__b__well this - this basically would involve everything you can imagine to fit under your c.  dot something .__c0
+__s^ba^tc__n- ==__c4
+__s^cs^rt^t^tc__yeah .__c5
+__s__you know where - where it's contextually dependent .__c0
+__s__right .__c5
+__s^e__uhhuh .__c5
+__s__what is now ?__c0
+__s__what was past ?__c0
+__s__what is in the future ?__c0
+__s__where is this ?__c0
+__fh|s__what is here ?__c0
+__s__what is there ?__c0
+__s__what is ?==__c0
+__s__uhhuh .__c5
+__s__yeah .__c5
+__s__so time and space .__c5
+__s__um we'll - we'll get that on the other side a little like very minimally .__c5
+__s__there's a sort of- - there's a slot for setting time and setting place .__c5
+__s.%-__good .__c2
+__qy^bu^d__and ==__c5
+__s^m^na|s^aa__you know you could imagine for both of those are absolute things you could say about the time and place .__c5
+__s__and then there are many in- - more interestingly linguistically anyway there are relative things that you know you relate the event in time and space to where you are now .__c5
+__s__if there's something a lot more complicated like or so - hypothetical or whatever then you have to do your job .__c5
+__x__uhhuh .__c4
+__s__like or somebody's job anyway .__c5
+__s^e__yeah .__c4
+__s^no__i'm going to point to - at random .__c5
+__qw__yeah .__c4
+__s__i mean i'm - i'm s- - curious about how much of the mental ==__c4
+__s^df__i mean i'm not sure that the formalism sort of the grammatical side of things is going to have that much going on in terms of the mental space stuff .__c4
+__s.%--__you know um basically all of these so-called space builders that are in the sentence are going to sort of ==__c4
+__s^rt__i think of it as sort of giving you the coordinates of you know ==__c4
+__s^ba^df__assuming that at any point in discourse there's the possibility that we could be sort of talking about a bunch of different world scenarios whatever and the speaker's supposed to be keeping track of those the um - the construction that you actually get is just going to sort of give you a cue as to which one of those that you've already got going um you're supposed to add structure to .__c4
+__s__uhhuh .__c5
+__s__so in france uh watergate wouldn't have hurt nixon or something like that .__c4
+__s^aa|s^am__um well you say all right i'm supposed to add some structure to my model of this hypothetical past france universe or something like that .__c4
+__%--__the information in the sentence tells you that much .__c4
+__s^bk__but it doesn't tell you like exactly what it - what the point of doing so is .__c4
+__s__so for example depending on the linguistic con- - uh context it could be ==__c4
+__s^ba__like the question is for example what does watergate refer to there ?__c4
+__s^ba.%--__does it you know - does it refer to um ?==__c4
+__fh__if you just hear that sentence cold the assumption is that when you say watergate you're referring to a watergate like scandal as we might imagine it happening in france .__c4
+__s.%--__but in a different context oh you know if nixon had apologized right away it wouldn't - you know watergate wouldn't have hurt him so badly in the u. s .__c4
+__qw__and in france it wouldn't have hurt him at all .__c4
+__qw^e.%--__now we're s- - now that watergate we're now talking about the real one .__c4
+__h|s__they're real | right .__c5
+__qy^bu^d^rt__and the would sort of - it's a sort of different dimension of hypothe-theticality | right ?__c4
+__s.%-__i see - | right .__c5
+__qy^bu^d^e^rt__we're not saying what's hypothetical about this world .__c4
+__s__in the first case hypothetically we're imagining that watergate happened in france .__c4
+__s^bk__huh .__c5
+__s.%-__in the second case we're imagining hypothetically that nixon had apologized right away .__c4
+__fg|s__uhhuh .__c5
+__%-__right .__c5
+__s.%-__or something | right ?__c4
+__%-__so a lot of this isn't happening at the grammatical level .__c4
+__s^bk|s^bk^m__uh um and so ==__c4
+__s^bk__correct .__c2
+__s^m^na__uhhuh .__c5
+__s__i don't know where that sits then .__c4
+__s^bk.%__huh .__c0
+__%-__sort of the idea of sorting out what the person meant .__c4
+__%__it seems like um the grammatical things such as the auxiliaries that you know introduce these conditionals whatever give you sort of the - the most basi- ==__c5
+__s.%--__uhhuh .__c4
+__qy^d^f^g__th- - those we - i think we can figure out what the possibilities are | right ?__c5
+__s^aa__uhhuh .__c4
+__s^aa__there are sort of a relatively limited number .__c5
+__s__and then how they interact with some extra thing like in france or if such and such that's like there are certain ways that they c- - they can ==__c5
+__b__yeah .__c4
+__s__you know one is a more specific version of the general pattern that the grammat- - grammar gives you .__c5
+__s^bk|qy^bh^rt__i think .__c5
+__s^e__yeah .__c4
+__s^bk__but you know whatever .__c5
+__fh__we - we're ==__c5
+__b__yeah | in the short run all we need is a enough mechanism on the form side to get things going .__c2
+__s__uhhuh .__c4
+__fh|s__yeah .__c4
+__s^ba^fe__uh i - uh you - you ==__c2
+__s^aa__but the whole point of - the whole point of what fauconnier and turner have to say about uh mental spaces and blending and all that stuff is that you don't really get that much out of the sentence .__c4
+__fg|s^ba__you know there's not that much information contained in the sentence .__c4
+__fh__it just says here .__c4
+__s__add this structure to this space .__c4
+__s^df__and exactly what that means for the overall ongoing interpretation is quite open .__c4
+__s__an individual sentence could mean a hundred different things depending on quote what the space configuration is at the time of utterance .__c4
+__fh__uhhuh .__c5
+__qy^bu^d^rt__uhhuh .__c5
+__%-__and so somebody's going to have to be doing a whole lot of work but not me i think .__c4
+__h|s.%--__well ==__c2
+__s^aa|s^na__i think that's right .__c2
+__s^bk__oh i - yeah i uh uh - i think that's not k- - i th- ==__c2
+__s__i don't think it's completely right .__c2
+__s__i mean in fact a sentence- - examples you gave in f- - did constrain the meaning b- ==__c2
+__s^bk__the form did constrain the meaning .__c2
+__s__yeah .__c4
+__%-__and so um it isn't uh ==__c2
+__fg|s^df__sure | but like what - what was the point of saying that sentence about nixon and france ?__c4
+__s^df.%-__that is not - there is nothing about that in the - in the sentence really .__c4
+__s^aa__that's okay .__c5
+__fg|s__we usually don't know the point of the sentence at all .__c5
+__%-__yeah .__c4
+__s__but we know what it's trying to say .__c5
+__s__we - we know that it's - what predication it's setting up .__c5
+__s^bk|s^ba__y- - yeah .__c4
+__b__yeah .__c2
+__b.%__but - but - bottom line i agree with you .__c2
+__%--__yeah .__c4
+__s__that's all .__c5
+__fh__yeah .__c4
+__qy^rt__that - that - that we're not expecting much out of the uh f- ==__c2
+__s^no__purely linguistic cues | right ?__c5
+__qy^bu^d^m^rt__uh the purely form cues | yeah .__c2
+__s^aa__so ==__c5
+__fh__huh .__c5
+__b.%__and um - | i mean you're - you're the linguist .__c2
+__qy^bu^d^rt__but uh it seems to me that th- - these - we - we - you know we've talked about maybe a half a dozen linguistics theses in the last few minutes or something .__c2
+__s^ar__yeah yeah .__c4
+__s^bk.%__yeah i mean ==__c2
+__qy^rt__yeah .__c4
+__s^df__oh yeah .__c4
+__s^ar__uh i - i mean that - that's my feeling that - that these are really hard uh problems that decide exactly what - what's going on .__c2
+__b__uhhuh .__c4
+__s__yeah .__c4
+__s.%--__yeah .__c4
+__qy^rt__okay .__c2
+__s^ar__okay | so um one other thing i just want to point out is there's a lot of confusion about the terms like profile designate focus et cetera et cetera .__c5
+__s^df^rt__uhhuh .__c4
+__s^bk__uh right right right .__c2
+__fh__um for now i'm going to say like profile s often used ==__c5
+__s^no__like two uses that come to mind immediately .__c5
+__%-__one is in the traditional like semantic highlight of one element with respect to everything else .__c5
+__s^df__so hypotenuse you profiled this guy against the background of the right t- - right triangle .__c5
+__qy__uhhuh .__c4
+__qrr^d__okay .__c5
+__s^ar__and the second use um is in framenet .__c5
+__s__it's slightly different .__c5
+__s^bk__oh i was asking hans about this .__c5
+__fh__they use it to really mean um this - in a frame th- - this is - the profiles on the - these are the ones that are required .__c5
+__s^bk|s__so they have to be there or expressed in some way .__c5
+__s^e__which - which i'm not saying one and two are mutually exclusive .__c5
+__s.%-__but they're - they're different meanings .__c5
+__s__right .__c2
+__s^rt__uhhuh .__c4
+__s^aa__so the closest thing ==__c5
+__s^ba__so i was thinking about how it relates to this notation .__c5
+__s^aa|s^na__for us um ==__c5
+__fh__okay | so how is it ?==__c5
+__s^tc__so designate ==__c5
+__fg|s__does that - is that really what they mean in - in ?==__c2
+__s^df__framenet ?__c5
+__b__framenet .__c2
+__s__i didn't know that .__c2
+__fh__yeah yeah .__c5
+__b__i - i mean i - i was a little bit surprised about it too .__c5
+__s__i knew that ==__c5
+__s__yeah .__c2
+__fh__i thought that that would be something like ==__c5
+__s__there's another term that i've heard for that thing .__c5
+__fh__right okay .__c2
+__qy^bu^d^rt__but they - i mean - uh well at least hans says they use it that way .__c5
+__s^na__and ==__c5
+__s:s__well i'll check .__c2
+__b__and may- - maybe he's wrong .__c5
+__s:s^no__anyway so ==__c5
+__b__i think the - the designate that we have in terms of meaning is really the highlight this thing with respect to everything else | okay ?__c5
+__s^e__right .__c2
+__qh__so this is what - what it means .__c5
+__s__but the second one seems to be useful .__c5
+__fh__but we might not need a notation for it .__c5
+__s__we don't have a notation for it .__c5
+__s__but we might want one .__c5
+__b__so for example we've talked about if you're talking about the lexical item walk .__c5
+__s__you know it's an action .__c5
+__s__well it also has this idea - it carries along with it the idea of an actor .__c5
+__s.%--__or somebody's going to do the walking .__c5
+__qh__or if you talk about an adjective red it carries along the idea of the thing that has the property of having color red .__c5
+__s__so we used to use the notation with for this .__c5
+__s__and i think that's closest to their second one .__c5
+__qh__right .__c2
+__s__so i d- - don't yet know i have no commitment as to whether we need it .__c5
+__s__it might be ==__c5
+__s__it's the kind of thing that w- - a parser might want to think about whether we require ==__c5
+__s__you know these things are like it's semantically part of it .__c5
+__s^df.%-__n- - no no .__c2
+__s^2.%-__well uh th- - critically they're not required syntactically .__c2
+__s^aa__often they're pres- - presu- - presupposed and all that sort of stuff .__c2
+__s^df__right .__c5
+__s^cs__right right | yeah um definitely .__c5
+__s__so um ==__c5
+__s__in was a good example .__c5
+__s__if you walk in like well in what ?__c5
+__s^bsc__you know like you have to have the - so - so it's only semantically is it ==__c5
+__s__right | there's ==__c2
+__s__it is still required say by simulation time though .__c5
+__b__to have something .__c5
+__b__right .__c2
+__s^df^nd__so it's that - i meant the idea of like that the semantic value is filled in by sim- - simulation .__c5
+__s^na__i don't know if that's something we need to spa- - to - to like say ever as part of the requirement .__c5
+__s.%-__or the construction .__c5
+__s^m^na__or not .__c5
+__%--__we'll - we'll again defer .__c5
+__fh__or - i mean or - or uh ==__c2
+__b__so the ==__c2
+__s^df__have it construed .__c5
+__b__is that the idea ?__c5
+__s.%--__yeah yeah .__c2
+__s^rt__just point at robert .__c5
+__s.%--__whenever i'm confused just point to him .__c5
+__s__right .__c2
+__s__you tell me .__c5
+__s__it's - it's his thesis | right ?__c2
+__s^df__okay .__c5
+__s__anyway ==__c2
+__b__right yeah |  w- - this is going to be a b- ==__c2
+__s^no__you're right this is a bit of in a mess .__c2
+__s__and we still have emphasis as well or stress or whatever .__c2
+__s__okay | well we'll get uh uh i - we have thoughts about those as well .__c5
+__s^cs.%--__yeah .__c2
+__s^bd^df__great .__c2
+__s__um ==__c5
+__s__the- - i w- - i would just- ==__c5
+__s:s__s- - some of this is just like my - you know by fiat .__c5
+__s^cs__i'm going to say this is how we use these terms .__c5
+__s__i don't- - you know there's lots of different ways in the world that people use it .__c5
+__s.%--__yeah .__c4
+__fh__i - that's fine .__c2
+__s__i think that um the other terms that are related are like focus and stress .__c5
+__b__so s- ==__c5
+__fh__uhhuh .__c2
+__qy^bu^d__i think that the way i - we would like to think uh i think is focus is something that comes up in i mean lots of ==__c5
+__s^m^na.%-__basically this is the information structure .__c5
+__fg|s^cs__okay it's like - uh it's not - it might be that there's a syntactic uh device that you use to indicate focus .__c5
+__qy^g__uhhuh .__c2
+__s^cs^e__or that there are things like you know ==__c5
+__s^aa__i think keith was telling me things toward the end of the sentence post verbal tend to be the focused focused element .__c5
+__s^na__huh .__c4
+__s^bk__the new information .__c5
+__s__you know if i - i walked into the room you tend to think that whatever into the room is sort of like the more focused kind of thing .__c5
+__fg|s__uhhuh .__c4
+__qh__yeah .__c4
+__s.%--__and when you uh - uh you have stress on something that might be you know a cue that the stressed element or for instance the negated element is kind of related to information structure .__c5
+__b__so that's like the new the sort of like import or whatever of - of this thing .__c5
+__s__uh so - so i think that's kind of nice to keep focus being an information structure term .__c5
+__s^df__stress ==__c5
+__s^e__i th- - and then there are different kinds of focus that you can bring to it .__c5
+__b__so um - | like stress th- - stress is kind of a pun on - you might have like - whatever like um accent kind of stress .__c5
+__fh__uhhuh .__c4
+__b__and that's just a ==__c5
+__b__uh w- - we'll want to distinguish stress as a form device .__c5
+__qw^t^tc__you know like oh high volume or whatever .__c5
+__qw__yeah .__c4
+__qy.%-__um ==__c5
+__qy__t- - uh and distinguish that from it's effect .__c5
+__s^aa__which is oh the kind of focus we have is we're emphasizing this value often as opposed to other values | right .__c5
+__s^m^na__so focus carries along a scope .__c5
+__s^bk__like if you're going to focus on this thing and you want to know it sort of evokes all the other possibilities that it wasn't .__c5
+__s__um so my classic my now classic example of saying oh he did go to the meeting .__c5
+__s__uhhuh .__c4
+__s__yeah .__c4
+__s__that was my way of saying - as opposed to you know oh he didn't g- - or there was a meeting .__c5
+__fh__i think that was the example that was caught on by the linguists immediately .__c5
+__qy__yeah .__c4
+__s^no__yeah .__c4
+__fg|s^2__and so um the - like if you said he ==__c5
+__%-__you know there's all these different things that if you put stress on a different part of it then you're c- - focusing whatever on uh ==__c5
+__s^bk__uhhuh .__c4
+__s^no__he walked to the meeting as opposed to he ran .__c5
+__s^no__or he did walk to the meeting as opposed to he didn't walk | you know .__c5
+__b__uhhuh .__c4
+__b__so we need to have a notation for that .__c5
+__qy__which um ==__c5
+__qy^rt__i think that's still in progress .__c5
+__%-__so sort of i'm still working it out .__c5
+__s^bk|s__but it did - one - one implication it does f- - have for the other side which we'll get to in a minute is that i couldn't think of a good way to say here are the possible things that you could focus on .__c5
+__s__because it seems like any entity in any sentence you know or any meaning component of anyth- - you know - all the possible meanings you could have any of them could be the subject of focus .__c5
+__s^bk.%__huh .__c2
+__s^no__but i think one - the one thing you can schematize is the kind of focus | right ?__c5
+__fh__so for instance you could say it's the - the tense on this as opposed to um the - the action | okay .__c5
+__b.%__or it's - uh it's an identity thing or a contrast with other things .__c5
+__s__or stress this value as opposed to other things .__c5
+__fh__so um ==__c5
+__s__it's - it is kind of like a profile - profile background thing .__c5
+__b__but i - i can't think of like the limited set of possible meanings that you would - that you would focu- ==__c5
+__s^t^tc.%--__light up with focus | yeah .__c4
+__s^bd^no__light - highlight .__c5
+__s__as opposed to other ones .__c5
+__b__so it has some certain complications for the uh uh later on .__c5
+__s__li- - i mean uh the best thing i can come up with is that information has a list of focused elements .__c5
+__s__for instance you - oh one other type that i forgot to mention is like query elements .__c5
+__b__and that's probably relevant for the like where is you know the castle kind of thing .__c5
+__fg|s__uhhuh .__c4
+__s^bu__because you might want to say that um location or cert- - certain w. h words bring - you know sort of automatically focus in a you know i don't know the identity of this thing kind of way on certain elements .__c5
+__s^bk__so ==__c5
+__s^aa__okay anyway | so that's onl- - there are - there are many more things that are uncl- - that are sort of like a little bit unstable about the notation .__c5
+__fh__but it's most - i think it's - this is you know the current - current form .__c5
+__s^bk__other things we didn't totally deal with um ==__c5
+__s.%--__well we've had a lot of other stuff that keith and i have them working on in terms of like how you deal with like an adjective .__c5
+__s__oh there's a bunch .__c4
+__s__yeah .__c4
+__s^aa__you know a - a nominal expression .__c5
+__fh__and um ==__c5
+__b__yeah .__c4
+__fg|s.%--__i mean we should have put an example of this .__c5
+__s__and we could do that later .__c5
+__s__yeah .__c4
+__s^rt__but i think the not- - inherently like the general principles still work though .__c5
+__qy^rt__that um we can have constructions that have sort of constituent structure in that there is like you know for instance one ==__c5
+__h|qy^bu^d__uh you know they - they have constituents | right ?__c5
+__qrr.%--__so you can like nest things when you need to .__c5
+__s^aa|s^bd__but they can also overlap in a sort of flatter way .__c5
+__s^bk__so if you don't have like a lot of grammar experience then like this - this might you know be a little o- - opaque .__c5
+__s^bd^e__but you know we have the properties of dependency grammars and some properties of constituents - constituent based grammar .__c5
+__s^aa__so that's - i think that's sort of the main thing we wanted to aim for .__c5
+__h|s__uhhuh .__c4
+__s.%-__and so far it's worked out okay .__c5
+__s^bk|s__good .__c2
+__qy^d^g^rt__so ==__c5
+__s^aa__okay .__c5
+__s__i can say two things about the f- ==__c0
+__s__yes .__c5
+__s^aa__maybe you want to forget stress .__c0
+__s__this - my f- ==__c0
+__%__as a word ?__c5
+__s.%--__no | as - as - just don't - don't think about it .__c0
+__s__as a ==__c5
+__qy^d^f^g__what's that ?__c5
+__s^rt__sorry .__c5
+__b__if ==__c0
+__s__canonically speaking you can - if you look at a - a curve over sentence you can find out where a certain stress is .__c0
+__s__and say hey that's my focus exponent .__c0
+__b__uhhuh .__c5
+__s__right .__c4
+__s__it doesn't tell you anything what the focus is .__c0
+__fh__uhhuh .__c5
+__s__if it's just that thing ==__c0
+__s^df__or the constituent that it falls in .__c5
+__s__a little bit more or the whole phrase .__c0
+__fh__uhhuh .__c4
+__s__um ==__c0
+__s__you mean t- - forget about stress the form cue ?__c5
+__b__the form bit .__c0
+__s__yeah .__c4
+__b__because uh as a form cue um not even trained experts can always - well they can tell you where the focus exponent is sometimes .__c0
+__s__okay .__c5
+__b__and that's also mostly true for read speech .__c0
+__fh__in - in real speech um people may put stress .__c0
+__qy^rt__it's so d- - context dependent on what was there before phrase ba- - breaks um restarts .__c0
+__qrr.%-__yeah .__c5
+__h|s.%--__uhhuh .__c5
+__s^no__it's just um ==__c0
+__qy.%-__it's absurd .__c0
+__s__it's complicated .__c0
+__%--__okay .__c5
+__s^rt__yeah | i mean i - i'm sort of inclined to say let's worry about specifying the information structure focus of the sentence .__c4
+__%-__and all ==__c0
+__%--__i believe you | yeah .__c5
+__%__uhhuh .__c5
+__s^bu__and then ==__c4
+__s.%-__ways that you can get it come from th- ==__c5
+__s^aa|s^am__hhh the phonology component can handle actually assigning an intonation contour to that .__c4
+__s^bd__right .__c5
+__%-__you know i mean later on we'll worry about exactly how ==__c4
+__s^bd^df__or - or map from the contour to - to what the focus exponent is .__c0
+__s^bk__y- - yeah .__c4
+__s^no__uhhuh .__c5
+__%-__exactly .__c4
+__s.%-__but figure out how the ==__c4
+__s^bk.%__yeah .__c4
+__s^e__but uh if you don't know what you're - what you're focus is then you're - you're hopeless-uh-ly lost anyways .__c0
+__fh__right .__c5
+__s^bk__that's fine | yeah .__c5
+__qy^bu^d^rt__uhhuh .__c5
+__s^no.%__and the only way of figuring out what that is - is um by sort of generating all the possible alternatives to each focused element decide which one in that context makes sense and which one doesn't .__c0
+__s^2^na|s^aa__uhhuh .__c5
+__b__and then you're left with a couple three .__c0
+__s^aa__uhhuh .__c5
+__fg|s__so you know again that's something that h- - humans can do .__c0
+__s__um but far outside the scope of - of any - anything .__c0
+__s__so ==__c0
+__s__you know ==__c0
+__s__it's ==__c0
+__s__okay | well uh yeah i wouldn't have assumed that it's an easy problem in - in absence of all the oth- ==__c5
+__%--__u- - u- ==__c0
+__qy__you need all the other information i guess .__c5
+__s.%-__but it's - it's - what it - uh it's pretty easy to put it in the formalism though .__c0
+__s.%-__i mean because ==__c0
+__fg__yeah .__c5
+__s^na__you can just say whatever stuff i- - is the container being focused or the - the entire whatever both and so forth .__c0
+__s^bd^df__uhhuh uhhuh .__c5
+__s^bk__uhhuh .__c4
+__b__yeah exactly | so the sort of effect of it is something we want to be able to capture .__c5
+__b__yeah | so b- - b- - but i think the poi- ==__c2
+__s^e__i'm not sure i understand .__c2
+__s__but here's what i th- - think is going on .__c2
+__b__that if we do the constructions right when a particular construction matches it - the fact that it matches does in fact specify the focus .__c2
+__s__w- - uh ==__c5
+__qh__i'm not sure about that .__c5
+__s^df__or it might limit - it cert- - certainly constrains the possibilities of focus .__c5
+__b__okay .__c2
+__s__uh - k- - uh at- - at the very least it constrai- ==__c2
+__s__i think that's - that's th- - that's certainly true .__c5
+__s__and depending on the construction it may or may not f- - specify the focus | right ?__c5
+__s__oh uh for sure | yes .__c2
+__s__there are constrai- - yeah it's not every - but there are constructions uh where you t- - explicitly take into account those considerations ==__c2
+__s__yeah .__c5
+__s__uhhuh .__c5
+__s^df__that you need to take into account in order to decide which - what is being focused .__c2
+__s^j__uhhuh .__c5
+__fh__uhhuh .__c0
+__s__so we talked about that a little bit this morning .__c0
+__fh__john is on the bus .__c0
+__s__uhhuh .__c5
+__s.%--__not nancy .__c0
+__fh__huh .__c5
+__s__so that's - focuses on john .__c0
+__fh__right .__c2
+__s^bu^t^tc__john is on the bus and not on the train .__c0
+__h|s^no__uhhuh .__c5
+__fh__right .__c2
+__s^e^no__john is on the bus versus john is on the train .__c0
+__fh__right .__c5
+__s^bk__and john is on the bus versus was and e- ==__c0
+__s.%-__is on .__c5
+__s__john is on the bus .__c5
+__s__it's the bu- - so e- ==__c0
+__s^aa__yeah yeah .__c5
+__b__right .__c2
+__s__yeah | all - all of those .__c2
+__s^aa__yeah .__c2
+__fh__right .__c5
+__s__all of these .__c0
+__b__and will we have - u- ?==__c0
+__b__is it all the same constructions ?__c0
+__b__just with a different foc- - focus constituent .__c0
+__fh__yeah | i would say that argument structure in terms of like the main like sort of ==__c5
+__s^ba^tc__uhhuh .__c0
+__fg|qh.%--__i don't know .__c5
+__s__the fact that you can get it without any stress and you have some - whatever is predicated anyway should be the same set of constructions .__c5
+__fh__so that's why i was talking about overlapping constructions .__c5
+__s__so then you have a separate thing that picks out you know stress on something relative to everything else .__c5
+__fh__yeah .__c2
+__s^cs^t^tc__uhhuh .__c4
+__fh__so the question is actually ==__c2
+__s^cs^t__and it would ==__c5
+__s^aa__oh i'm sorry .__c2
+__s__yeah .__c5
+__s__go ahead .__c2
+__s__finish .__c2
+__s__and it w- - and that would have to - uh it might be ambiguous as uh whether it picks up that element or the phrase or something like that .__c5
+__s__but it's still is limited possibility .__c5
+__s__huh .__c0
+__s^e__so that should you know interact with - it should overlap with whatever other construction is there .__c5
+__s__yeah .__c0
+__fh__s- - s- - the question is do we have a way on the other page uh when we get to the s- - semantic side of saying what the stressed element was or stressed phrase or something ?__c2
+__s__uhhuh .__c5
+__s__well so that's why i was saying how ==__c5
+__fh__since i couldn't think of an easy like limited way of doing it um all i can say is that information structure has a focused slot .__c5
+__s__right .__c2
+__s^bd^df__and i think that should be able to refer to ==__c5
+__s__so that's down at the bottom here when we get over there .__c2
+__s__yeah .__c5
+__s__okay .__c2
+__s^no__and infer - and i don't have - i don't have a great way or great examples .__c5
+__s__i'll- - i'll wait .__c2
+__s__but i think that - something like that is probably going to be uh more - more what we have to do .__c5
+__s__okay .__c2
+__%__huh .__c0
+__s__but um ==__c5
+__s__okay .__c2
+__s^rt__so ==__c0
+__s__okay | that was one comment .__c5
+__s__and you had another one ?__c5
+__s__yeah | well the - once you know what the focus is the - everything else is background .__c0
+__s.%--__how about topic comment ?__c0
+__s.%--__that's the other side of information .__c0
+__s__how about what ?__c5
+__s__topic comment .__c0
+__s__yeah | so that was the other thing .__c5
+__s__and so i didn't realize it before .__c5
+__s__it's like oh ! it was an epiphany that it - you know topic and focus are a contrast set .__c5
+__s.%--__so topic is ==__c5
+__s__topic focused seems to me like um background profile | okay ?__c5
+__s__or a landmark trajector or some- - something like that .__c5
+__b__there's - there's definitely um that kind of thing going on .__c5
+__%-__huh .__c0
+__qw__now i don't know whether ==__c5
+__s^ba__i n- - i don't have as many great examples of like topic indicating constructions .__c5
+__s__on like focus | right ?__c5
+__fh__um topic - it seems kind of - you know i think that might be an ongoing kind of thing .__c5
+__s__uhhuh .__c0
+__s^rt__japanese has this though .__c4
+__s__topic marker ?__c5
+__s__you know ==__c4
+__b__yeah | that's what wa is .__c4
+__s__yeah .__c0
+__b__uhhuh .__c5
+__s^2__uh just to mark which thing is the topic .__c4
+__b__uhhuh .__c5
+__s__it doesn't always have to be the subject .__c4
+__s__right .__c5
+__s^bk__so again information structure has a topic slot .__c5
+__s^bk__and you know i stuck it in thinking that we might use it .__c5
+__s.%-__uhhuh .__c0
+__s.%-__um i think i stuck it in .__c5
+__s__yep | it's there .__c2
+__s.%-__um and ==__c5
+__s^ng__one thing that i didn't do consistently um is - when we get there is like indicate what kind of thing fits into every role .__c5
+__s__i think i have an idea of what it should be .__c5
+__s^e__but th- ==__c5
+__s__you know so far we've been getting away with like either a type constraint or um you know whatever .__c5
+__s__i forg- - it'll be a frame .__c5
+__s__you know it'll be - it'll be another predication or it'll be um i don't know some value from - from some- - something some variable and scope or something like that .__c5
+__s__or a slot chain based on a variable and scope .__c5
+__s__okay | so well that's ==__c5
+__s__should we flip over to the other side officially then ?__c5
+__s.%--__uhhuh huh .__c0
+__s__i keep uh like pointing forward to it .__c5
+__s__okay | side one .__c4
+__s__yeah .__c5
+__s__now we'll go back to s- ==__c5
+__s.%--__okay | so this doesn't include something which mi- - mi- - may have some effect on - on it .__c5
+__s__which is um the discourse situation context record .__c5
+__s__right | so i didn't - i - i meant just like draw a line .__c5
+__s__and like you know you also have uh some tracking of what was going on .__c5
+__fh__right .__c2
+__s__and sort of - this is a big scale comment before i you know look into the details of this .__c5
+__s__but for instance you could imagine instead of having ==__c5
+__s|qy^d^f^g__i - i changed the name of - um it used to be entities .__c5
+__s__so you see it's scenario referent and discourse segment .__c5
+__s__and scenario is essentially what kind of - what's the basic predication .__c5
+__s__what event happened .__c5
+__s__and actually it's just a list of various slots from which you would draw - draw in order to paint your picture a bunch of frames bi- - and bindings | right ?__c5
+__qy^bu^d^rt__um and obviously there are other ones that are not included here .__c5
+__%__general cultural frames and general like uh other action f- ==__c5
+__qy^rt__you know specific x. schema frames .__c5
+__s^aa|s^na__uhhuh .__c4
+__%-__okay | whatever .__c5
+__s^bk__the middle thing used to be entities .__c5
+__s^aa__because you could imagine it should be like really a list .__c5
+__fg|s__where here was various information .__c5
+__s^df__and this is intended to be grammatically specifiable information about a referent - uh you know about some entity that you were going to talk about .__c5
+__fh__so harry walked into the room .__c5
+__s.%--__harry and room .__c5
+__%__you know the room ==__c5
+__s__th- - but they would be represented in this list somehow .__c5
+__s__and it could also have for instance it has this category slot .__c5
+__s__um it should be either category or in- - or instance .__c5
+__s^e__basically it could be a pointer to ontology .__c5
+__s__so that everything you know about this could be - could be drawn in .__c5
+__s__but the important things for grammatical purposes are for - things like number gender .__c5
+__s.%--__um - ki- - the ones i included here are slightly arbitrary .__c5
+__s__but you could imagine that um you need to figure out wheth- ==__c5
+__s__if it's a group whether um some event is happening .__c5
+__s__linear time linear spaces .__c5
+__s__like you know are - are they doing something serially .__c5
+__s__or is it like ==__c5
+__s__um uh | i'm - i'm not sure .__c5
+__s.%--__because this partly came from uh talmy's schema .__c5
+__s__and i'm not sure we'll need all of these actually .__c5
+__s__but ==__c5
+__s__um and then the status i used was like again in some languages you know like for instance in child language you might distinguish between different status .__c5
+__s__so th- - the - the big com- - and - and finally discourse segment is about sort of speech act y information structure y .__c5
+__s__like utterance-specific kinds of things .__c5
+__s^df__so the comment i was going to make about um changing entity - the entity's block to reference is that you can imagine your discourse ==__c5
+__s^df__like situation context ==__c5
+__fh__you have a set of entities that you're sort of referring to .__c5
+__s__and you might - that might be sort of a general i don't know database of all the things in this discourse that you could refer to .__c5
+__s__and i changed to reference .__c5
+__s^ba__because i would say for a particular utterance you have particular referring expressions in it .__c5
+__s__and those are the ones that you get information about that you stick in here .__c5
+__fh__for instance i know it's going to be plural .__c5
+__s__i know it's going to be feminine or something like that .__c5
+__s__and - and these could actually just point to you know the - the i. d in my other list of enti- - active entities | right ?__c5
+__s__so um ==__c5
+__s^ba^df__uh th- - there's - there's all this stuff about discourse status we've talked about .__c5
+__b__i almost listed discourse status as a slot where you could say it's active .__c5
+__s__you know there's this um hierarchy - uh there's a schematization of you know things can be active or they can be um accessible inaccessible .__c5
+__fh__yeah .__c4
+__s__it was the one that you know keith um emailed to us once to some of us .__c5
+__b__not all of us .__c5
+__fh__and ==__c5
+__s__the thing is that that - i noticed that that um list was sort of discourse dependent .__c5
+__s__it was like in this particular set s- - you know instance it has been referred to recently or it hasn't been .__c5
+__fh__yeah .__c4
+__s__or this is something that's like in my world knowledge but not active .__c5
+__s__this ==__c2
+__s__uh - yeah | well there - there seems to be context properties .__c2
+__s__so ==__c5
+__s^e__yeah | they're contex- - and for instance i used to have a location thing there .__c5
+__fh__yeah .__c2
+__s__but actually that's a property of the situation .__c5
+__s__and it's again time you know - at cert- - certain points things are located you know near or far from you .__c5
+__s__well uh uh this is recursive .__c2
+__s__and ==__c5
+__fh__because until we do the uh mental space story we're not quite sure - th- - th- ==__c2
+__s__yeah .__c5
+__b__which is fine .__c2
+__fh__yeah yeah .__c5
+__s^rt^tc__we'll just - we'll j- ==__c2
+__b__so some of these are uh ==__c5
+__s.%--__we just don't know yet .__c2
+__b__right .__c5
+__fh__so i - so for now i thought well maybe i'll just have in this list the things that are relevant to this particular utterance | right ?__c5
+__s.%--__everything else here is utterance-specific .__c5
+__s__um and i left the slot predications open .__c5
+__b.%__because you can have um things like the guy i know from school .__c5
+__qy^d^f^g__or you know like your referring expression might be constrained by certain like unbounded na- - amounts of prep- - you know predications that you might make .__c5
+__fh|s__uhhuh .__c4
+__s^f__and it's unclear whether ==__c5
+__s__i mean you could just have in your scenario here are some extra few things that are true | right ?__c5
+__s__uhhuh .__c4
+__b__and then you could just sort of not have this slot here | right ?__c5
+__s.%-__you're - but - but it's used for identification purposes .__c5
+__s^2__so it's - it's a little bit different from just saying all these things are true from my utterance .__c5
+__qy^d^f^g__yeah .__c4
+__b__right .__c2
+__s^rt__yeah .__c4
+__s^df__um ==__c5
+__s^df__right | this guy i know from school came for dinner does not mean um there's a guy i know him from school .__c4
+__s__and he came over for dinner .__c4
+__s__that's not the same effect .__c4
+__b__yeah | it's a little bit - it's a little bit different .__c5
+__s__right | so ==__c5
+__%__or maybe that's like a restrictive non restrictive ==__c5
+__s__you know it's like it gets into that kind of thing for ==__c5
+__s.%--__yeah .__c4
+__s__um but maybe i'm mixing you know - this is kind of like the final result after parsing the sentence .__c5
+__s^df.%--__so you might imagine that the information you pass to you know - in identifying a particular referent would be oh some - you know it's a guy .__c5
+__s__uhhuh .__c4
+__s__and it's someone i know from school .__c5
+__s__so maybe that would you know be some intermediate structure that you would pass into the disc- - to the whatever construal engine or whatever discourse context to find - you know either create this reference .__c5
+__s__yeah .__c4
+__fh|s__in which case it'd be created here .__c5
+__fh__uhhuh .__c4
+__s__and ==__c5
+__s__you know so - so you could imagine that this might not ==__c5
+__s^df__so uh i'm uncommitted to a couple of these things .__c5
+__s^df__but - to make it m- - precise at least in my mind uh it's not precise .__c0
+__fh__um ==__c5
+__fg|s.%-__so house is gender neuter ?__c0
+__b__um | it could be in ==__c5
+__%-__in reality ?__c0
+__fg__or in ?==__c0
+__s^2__semantically .__c2
+__s^aa|s^na__semantically yeah | yeah .__c5
+__s^aa|s__semantically .__c0
+__%-__so ==__c0
+__s^aa|s__so it uh uh a table .__c5
+__s__you know a thing that c- - doesn't have a gender .__c5
+__s__so | uh it could be that - i mean ==__c5
+__fh__maybe you'd - maybe not all these ==__c5
+__b__i mean i wou- - i would say that i tried to keep slots here that were potentially relevant to most - most things .__c5
+__s__no | just to make sure that we - everybody that's - completely agreed that it - it has nothing to do with uh form .__c0
+__s__yeah .__c5
+__s.%--__okay | that is semantic as opposed to ==__c5
+__s^bd^df__yeah yeah | that's right .__c5
+__s^df__um ==__c5
+__s__s- - so again ==__c5
+__b__then predications makes sense to - to have it open for something like uh accessibility or not .__c0
+__s.%--__open to various things .__c5
+__s__yeah .__c0
+__s__right .__c5
+__fh__okay | so let's see .__c5
+__s^t^tc.%--__so maybe having made that big sca- - sort of like large scale comment should i just go through each of these slots - uh each of these blocks um a little bit ?__c5
+__s__sure .__c4
+__b__um mostly the top one is sort of image schematic .__c5
+__fh|s__and just a note .__c5
+__s__which was that um ==__c5
+__s__s- - so when we actually ha- ==__c5
+__s__so for instance um ==__c5
+__s__some of them seem more inherently static | okay .__c5
+__s__like a container or sort of support-ish .__c5
+__s^e__and others are a little bit seemingly inherently dynamic .__c5
+__fh__like source path goal is often thought of that way .__c5
+__s__or force or something like that .__c5
+__s__but in actual fact i think that they're intended to be sort of neutral with respect to that .__c5
+__s__and different x. schemas use them in a way that's either static or dynamic .__c5
+__qh__so path you could just be talking about the path between this and this .__c5
+__b__huh .__c4
+__s^no__and you know container that you can go in and out .__c5
+__s.%--__all of these things .__c5
+__s__and so um ==__c5
+__s__i think this came up when uh ben and i were working with the spaniards um the other day .__c5
+__s|qy^d^f^g__the spaniettes as we called them .__c5
+__b__um to decide like how you want to split up like s- - image schematic contributions versus like x. schematic contributions .__c5
+__s__how do you link them up ?__c5
+__s__and i think again um it's going to be something in the x. schema that tells you is this static or is this dynamic .__c5
+__s__so we definitely need - that sort of aspectual type gives you some of that .__c5
+__s|qy^d^g^rt__um | that you know is it uh a state or is it a change of state or is it a um action of some kind .__c5
+__s__uh i- - i- - i- - is there any meaning to when you have sort of parameters behind it and when you don't ?__c0
+__s__uh ==__c5
+__s__yeah .__c5
+__b__just means ==__c0
+__s__oh oh | you mean in the slot ?__c5
+__b__uhhuh .__c0
+__fg__um no | it's like x. sc- - it's - it's like i was thinking of type constraints .__c5
+__fh|s__but x. schema well it obviously has to be an x. schema .__c5
+__s__agent i mean the - the performer of the x. schema .__c5
+__s__that s- - depends on the x. schema .__c5
+__s^e__you know and i - in general it would probably be you know ==__c5
+__fh|s__so the difference is basically whether you thought it was obvious what the possible fillers were .__c4
+__fh__yeah | basically .__c5
+__s^tc__uhhuh .__c0
+__s^bk__okay .__c4
+__qy^cs^rt__um aspectual type probably isn't obvious .__c5
+__s^e^rt__but i should have - so i just neglected to stick something in perspective actor undergoer observer um ==__c5
+__qy^bu^d^rt__huh .__c1
+__s^aa|s__i think we've often used agent patient obser- ==__c5
+__s^bk.%--__whee !__c4
+__s__that's that one | right ?__c4
+____yeah | exactly exactly .__c5
+__s^fe__um | and so one nice thing that uh we had talked about is this example of like if you have a passive construction then one thing it does is ch- - you know - definitely it is one way to - for you to you know specifically take the perspective of the undergoing kind of object .__c5
+____and so then we talked about you know whether well does that specify topic as well ?__c5
+____well maybe there are other things .__c5
+____you know now that it's - subject is more like a topic .__c5
+____and now that you know ==__c5
+__s^bk^rt__anyway | so ==__c5
+__s^bk__sorry | i'm going to trail off on that one .__c5

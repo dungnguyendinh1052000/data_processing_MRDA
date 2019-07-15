@@ -1,0 +1,1614 @@
+__z__and we already got the crash out of the way .__c4
+__z__it did crash so i feel much better earlier .__c4
+__z__@@ .__c8
+__z__yeah .__c8
+__fg__interesting .__c5
+__s^rt__will you get the door ?__c8
+__fh|s^rt^t__huh .__c5
+__s__and ==__c8
+__s^rt__@@ .__c8
+__s__okay ==__c8
+__s^e__okay so um ==__c4
+__s^df__you collected an agenda | huh ?__c8
+__qy^bu^d.%--__i did collect an agenda .__c4
+__s^aa|s^df^na__so i'm going to go first .__c4
+__s^bk__mwa-ha-ha !__c4
+__s^cs^e__it shouldn't take too long .__c4
+__s^bk__yeah .__c5
+__fh|s.%-__um so we're pretty much out of digits .__c4
+__s^fa|s__we've gone once through the set .__c4
+__s__um so the only thing i have to do ==__c4
+__s__no | there's only ten .__c8
+__s__yeah that's right .__c4
+__s.%--__so i - i just have to go through them .__c4
+__s^aa__well okay .__c8
+__fh__and uh | pick out the ones that have problems .__c4
+__s^bu__and either correct them or have them reread .__c4
+__s^aa__so we probably have like four or five more forms to be read to be once through the set .__c4
+__s__i've also extracted out about an hour's worth .__c4
+__s^aa__we have about two hours worth .__c4
+__s^bk__i extracted out about an hour's worth .__c4
+__s__which are the f- - digits with - for which whose speaker have speaker forms .__c4
+__%-__have filled out speaker forms .__c4
+__s^bk__not everyone's filled out a speaker form .__c4
+__b__so i extracted one for speakers who have speaker forms .__c4
+__s__and for meetings in which the key file and the transcript files are parsable .__c4
+__s^bk__some of the early key files it looks like were done by hand .__c4
+__b__and so they're not automatically parsable .__c4
+__s^bk__and i have to go back and fix those .__c4
+__s^ft__so what that means is we have about an hour of transcribed digits that we can play with .__c4
+__s__um ==__c4
+__fh__so you think two - you think two hours is the - is the total that we have .__c8
+__fh__liz ==__c4
+__fh|s__yep .__c4
+__s__yeah .__c4
+__fh|s^e__and you think we- - th- - uh ==__c8
+__s^bk__i - i didn't quite catch all these different things that are not quite right .__c8
+__s^ft__but you think we'll be able to retrieve the other hour reasonably ?__c8
+__s^cc^rt__yes absolutely .__c4
+__s^cc__okay .__c8
+__fh__so it's just a question of a little hand editing of some files .__c4
+__fh__and then waiting for more people to turn in their speaker forms .__c4
+__s^am__i have this web based speaker form .__c4
+__s__and i sent mail to everyone who hadn't filled out a speaker form .__c4
+__s__and they're slowly s- - trickling in .__c4
+__fh__so the relevance of the speaker form here s- ==__c8
+__s__it's for labeling the extracted audio files .__c4
+__s__oh okay .__c8
+__fh__by speaker i. d and microphone type .__c4
+__s^t__wasn't like whether they were giving us permission to use their digits or something .__c8
+__s^t__no | i spoke with jane about that .__c4
+__s__and we sort of decided that it's probably not an issue that ==__c4
+__s__we edit out any of the errors anyway | right ?__c4
+__s^t__yeah .__c8
+__s^df^t__so the- - there are no errors in the digits .__c4
+__s^bk__you'll always read the string correctly .__c4
+__fh__so i can't imagine why anyone would care .__c4
+__s^bk__so the other topic with digits is uh ==__c4
+__s^co^t^tc__liz would like to elicit different prosodics .__c4
+__s^ft__and so we tried last week with them written out in english .__c4
+__s__and it just didn't work at all .__c4
+__s__because no one grouped them together .__c4
+__fh|s^cc__so it just sounded like many many more lines instead of anything else .__c4
+__s__so in conversations with liz and uh jane we decided that if you wrote them out as numbers instead of words it would elicit more phone number social security number like readings .__c4
+__s^cc^rt__the problem with that is it becomes numbers instead of digits .__c4
+__s__when i look at this that first line is sixty one sixty two eighteen eighty six ten .__c4
+__s__um and so the question is does anyone care ?__c4
+__fh|s^cc__um i've already spoken with liz and she feels that correct me if i'm wrong that for her connected numbers is fine .__c4
+__s^cc__uhhuh .__c5
+__fh|s__as opposed to connected digits .__c4
+__s^df__um i think two hours is probably fine for a test set .__c4
+__s^df__but it may be a little short if we actually want to do training and adaptation and all that other stuff .__c4
+__s^df__yeah .__c8
+__fh|s__um do um ==__c8
+__fh__you want different prosodics .__c8
+__s__so if you always had the same groupings you wouldn't like that ?__c8
+__s^df__is that correct ?__c8
+__s__well we actually figured out a way to ==__cb
+__s__yeah | the - the ==__c4
+__fh__the - the groupings are randomly generated .__cb
+__s__no | but i was asking if that was something you really cared about .__c8
+__fh__because if it wasn't it seems to me if you made it really specifically telephone groupings that maybe people wouldn't uh go and do numbers so much .__c8
+__fh|s__you know if it- - if it's ==__c8
+__s__i think they may still do it .__cb
+__s__uh ==__c1
+__s__um ==__cb
+__s__maybe some | but i- - probably not so much .__c8
+__s^e^rt__what about putting a hyphen between the numbers in the group ?__c2
+__s^e__and ==__cb
+__s^e__right ?__c8
+__s^e__so if you - if - if you have uh ==__c8
+__s^bk__six dash one you mean ?__c4
+__qw__if you go six six six uh dash uh two nine three one .__c8
+__s__i - well okay - | i - it might help ==__cb
+__s^df__i would like to g- - get away from having only one specific grouping .__cb
+__s^df__that's what i was asking | yeah .__c8
+__s^na__um | so if that's your question .__cb
+__s__yeah .__c8
+__qy^d^g^rt__but i mean it seems to me that at least for us we can learn to read them as digits .__cb
+__s^na__if that's what people want .__cb
+__s^bk__yeah .__c5
+__s^na__i - i'm ==__cb
+__b__yeah .__c5
+__s__don't think that'd be that hard to read them as single digits .__cb
+__s^bk__i agree .__c5
+__s__um ==__cb
+__fh__and it seems like that might be better for you guys .__cb
+__s__since then you'll have just more digit data .__cb
+__s^e__right .__c4
+__s^bk__and that's always a good thing .__cb
+__s^e__it's a little bit better for me too .__cb
+__s^e__yep .__c4
+__s__because the digits are easier to recognize .__cb
+__s__they're better trained than the numbers .__cb
+__s__right .__c8
+__s^e__so we could just uh put in the instructions read them as digits .__c4
+__fh__right right | read them as single digits .__cb
+__s__so sixty one w- - is read as six one .__cb
+__s__uhhuh .__c5
+__qy^d^f^g__and if people make a mistake we ==__cb
+__%__how about o.  versus zero ?__c4
+__s__i mean the other thing is we could just bag it .__c8
+__s^e^rt__because it's - it's ==__c8
+__s^e__it's- - i'm not worrying about it .__c8
+__s__i mean because we do have digits training data that we have from uh from o. g. i .__c8
+__fh|s^e^rt__i'm sorry .__c8
+__fh__digits - numbers training that we have from o. g. i .__c8
+__s^e__we've done lots and lots of studies with that .__c8
+__s^e^rt__and um ==__c8
+__s^df__but it's nice to get it in this room with the acous- ==__cb
+__qy^d__yeah .__c8
+__h|qy^rt__i mean - for - it's ==__cb
+__s^df__no no i guess what i'm saying is that ==__c8
+__s^ba^df__just let them read it how they read it .__c4
+__s^bk__to some extent maybe we could just read them - have them read how - how they read it .__c8
+__fh__and it just means that we have to expand our - our vocabulary out to stuff that we already have .__c8
+__fh__right .__cb
+__s^ba__well that's fine with me as long as - it's just that i didn't want to cause the people who would have been collecting digits the other way to not have the digits .__cb
+__s^ng__yeah .__c8
+__s__so ==__cb
+__s^df__we can go back to the other thing later .__c8
+__s:qw__i mean we s- - we - we've - we can do this for awhile .__c8
+__s^bk__okay .__cb
+__s^na__and then go back to digits for awhile .__c8
+__fh|s__or um ==__c8
+__b__do yo- - i mean do you want - do you want this do you need training data or adaptation data out of this ?__c8
+__s^e__okay .__cb
+__s^bk__how much of this do you need ?__c8
+__b__with uh the ==__c8
+__s^e__it's actually unclear right now .__cb
+__fh|s^df__i just thought well we're - if we're collec- - collecting digits and adam had said we were running out of the t. i forms i thought it'd be nice to have them in groups .__cb
+__s__and probably all else being equal it'd be better for me to just have single digits .__cb
+__b__since it's you know a recognizer's going to do better on those anyway .__cb
+__s^co__okay .__c8
+__b__um and it's more predictable .__cb
+__s^bk__so we can know from the transcript what the person said and the transcriber in general .__cb
+__s__okay | well if you pre- ==__c8
+__qw__but if they make mistakes it's no big deal .__cb
+__b__if the people say a hundred instead of one o. o .__cb
+__fh|s__and also w- - maybe we can just let them choose zero versus o.  as they - as they like .__cb
+__s^bk__because even the same person c- - sometimes says o.  and sometimes says zero in different context .__cb
+__s^bk__yeah .__c8
+__fh__and that's sort of interesting .__cb
+__s^bk__so i don't have a specific need .__cb
+__s__because if i did i'd probably try to collect it you know without bothering this group .__cb
+__s^ft__but if we can try it ==__cb
+__s^bk__okay | so - so i can just add to the instructions to read it as digits .__c4
+__s^bk__not as connected numbers .__c4
+__s^bk__right | and you can give an example .__cb
+__fg__uhhuh .__c5
+__fh|s__like you know six - sixty one would be read as six one .__cb
+__s^e__right .__c4
+__s__and i think people will get it .__cb
+__s__uhhuh .__c5
+__s^df__and i- - actually it's no more artificial than what we've been doing with words .__c5
+__s^df__i'm sure people can adapt to this .__c5
+__s^bk__right right .__cb
+__s__read it single .__c5
+__qy^d^f^g__it's just easier to read .__cb
+__s__the spaces already bias it toward being separated .__c5
+__s^e__right .__cb
+__qy^d^f^g__and i know i'm going to find this easier than words .__c5
+__s^e__oh yeah absolutely .__c4
+__fh__okay- ==__cb
+__s:s^bk__cognitively it's much easier .__c4
+__s:s^na__i also had a hard - hard time with the words .__cb
+__qh^cs^rt__but then we went back and forth on that .__cb
+__s^df__yeah .__c8
+__s__okay so let's give that a try .__cb
+__fh__okay | and is the spacing all right or do you think there should be more space between digits and groups ?__c4
+__s^ba__okay .__c8
+__s^df__and ==__cb
+__s^df__i mean what do other people think ?__cb
+__s__or is that all right ?__c4
+__s__because you guys are reading them .__cb
+__s__i think that i- - it's fine .__c5
+__s__i- - it - it - to me it looks like you've got the func- - the idea of grouping and you have the grou- - the idea of separation .__c5
+__s^df__okay .__c4
+__s^df__okay .__cb
+__s^df__and you know it's just a matter of u- - i- - the instructions that's all .__c5
+__qy^d^f^g__great | okay .__cb
+__%-__well let's give it a try .__cb
+__s__and i think there are about ten different gouping patterns .__c4
+__s__let's try it .__c8
+__qy^d^f^g__isn't that right liz ?__c4
+__s^df__righ- - right | and you just - they're randomly generated and randomly assigned to digits .__cb
+__qy^d^f^g__that we did .__c4
+__s^ba__i did ==__c5
+__s__so we have ==__c8
+__fh|s__uhhuh .__c5
+__fh|s__sorry .__c8
+__s^df__go ahead .__c5
+__s__i - i was just going to say so we have in the vicinity of forty hours of - of recordings now .__c8
+__s__and you're saying two hours uh is digits .__c8
+__s__so that's roughly the ratio then .__c8
+__s__something like twenty - twenty to one .__c8
+__qy^d^f^g__yep .__c4
+__fh|s__which i guess makes - makes sense .__c8
+__fh|s__so if we did another forty hours of recordings then we could get another couple hours of this .__c8
+__qy^d^f^g__right .__c4
+__s__um yeah like you say i think a couple hours for a - for a - for a test - test set's okay .__c8
+__s__it'd be nice to get you know more later .__c8
+__s^bd__because we'll - we might use - use this up uh in some sense .__c8
+__s^bd__uhhuh .__c5
+__qy^d^f^g__but - but uh ==__c8
+__s__right .__c4
+__s__yeah | i also would like to argue for that .__c5
+__s__because it - it seems to me that um there's a real strength in having the same test replicated in - a whole bunch of times .__c5
+__qy^d^f^g^rt__and adding to that basic test bank .__c5
+__fh__right .__c4
+__qw__huh .__c5
+__qw__because then you have you know more and more u- - chances to get away from random errors .__c5
+__s__and i think um the other thing too is that right now we have sort of a stratified sample with reference to dialect groups .__c5
+__s^df__and it might be - there might be an argument to be made for having uh f- - for replicating all of the digits that we've done .__c5
+__s__which were done by non native speakers .__c5
+__s^rt__so that we have a core that totally replicates the original data set .__c5
+__s__which is totally american speakers .__c5
+__s__and then we have these stratified additional language groups overlapping certain aspects of the database .__c5
+__s__right .__c4
+__qy^d^f^g__i think that uh trying to duplicate spending too much effort trying to duplicate the existing t. i. digits probably isn't too worthwhile .__c4
+__s__because the recording situation is so different .__c4
+__s^bk__yeah .__c8
+__fh|s.%--__it's going to be very hard to be comparable .__c4
+__s^fa__except that if you have the stimuli comparable then it says something about the - the contribution of setting .__c5
+__fh|%--__no | it's - it's not the same .__c8
+__s^rt__a little bit .__c8
+__s.%-__and ==__c5
+__fg__but the other differences are so major .__c8
+__s^ar__okay .__c5
+__%-__they're such major sources of variance that it's - it's - it's uh ==__c8
+__s^aa__yeah | i mean read versus not .__c4
+__s^bk__what's an example of a - of m- - some of the other differences ?__c5
+__%__any other a- - difference ?__c5
+__s__well i- - i- - individual human glottis is going to be different for each one .__c8
+__s^ft__okay .__c5
+__fh__you know it's just - there's so many things .__c8
+__s__okay .__c5
+__qy^d^f^g__it's - it - and - and enunciation .__c8
+__s^df__well and not just that .__c4
+__s__i mean the uh the corpus itself .__c4
+__s^bk__i mean we're collecting it in a read digit in a particular list .__c4
+__s__and i'm sure that they're doing more specific stuff .__c4
+__s__i mean if i remember correctly it was like postman reading zipcodes and things like that .__c4
+__fh__t. i. digits was ?__c8
+__s__i thought - i thought it was read .__c8
+__s__i thought so .__c4
+__fh__was it read ?__c4
+__s__yeah | i think the reading zipcode stuff you're thinking of would be o. g. i .__c8
+__fh__oh | i may well be .__c4
+__s__yeah no t. i. digits was read in th- - in read in the studio i believe .__c8
+__b__i haven't ever listened to t. i. digits .__c4
+__fg__yeah .__c8
+__s^bk__so i don't really know how it compares .__c4
+__qy^cs__yeah .__c8
+__s^aa__but it - but ==__c8
+__s^aa|s.%-__but - but regardless it's going to - it's hard to compare cross corpus .__c4
+__s.%-__it- - it's different people is the - is the core thing .__c8
+__s__so ==__c4
+__s.%--__and they're different circumstances with different recording environment and so forth .__c8
+__s^bk__okay fine .__c5
+__b__so it's - it's - it's really pretty different .__c8
+__s^bk__but i think the idea of using a set thing was just to give you some sort of framework .__c8
+__s^bk__so that even though you couldn't do exact comparisons it wouldn't be s- - valid scientifically at least it'd give you some kind of uh frame of reference .__c8
+__s__uh you know it's not ==__c8
+__s.%--__okay .__c5
+__fh__hey liz | what - what do the groupings represent ?__c2
+__s__you said there's like ten different groupings .__c2
+__s^df__right | just groupings in terms of number of groups in a line .__cb
+__qy^d^f^g__and number of digits in a group .__cb
+__s__and the pattern of groupings .__cb
+__s^bk__uhhuh .__c2
+__s__are the patterns - like are they based on anything or ?==__c2
+__s__um | i - i just roughly looked at what kinds of digit strings are out there .__cb
+__s__and they're usually grouped into either two three or four - four digits at a time .__cb
+__s__oh .__c2
+__s^bk__and they can have ==__cb
+__s.%-__i mean actually things are getting longer and longer .__cb
+__qy^d^rt__in the old days you probably only had three sequences and telephone numbers were less and so forth .__cb
+__qrr.%--__so there's between um ==__cb
+__h__well if you look at it there are between like three and five groups .__cb
+__s^aa__and each one has between two and four groupings .__cb
+__s^aa^r__and ==__cb
+__s^bk__i purposely didn't want them to look like they were in any kind of pattern .__cb
+__s^df__huh .__c2
+__s^df__so ==__cb
+__s^df__and which group appears is picked randomly and what the numbers are are picked randomly .__c4
+__qy^d^f^g^rt__uhhuh .__c2
+__fh__right .__cb
+__s__so unlike the previous one which i d- - simply replicated t. i. digits this is generated randomly .__c4
+__s^bk__huh oh okay .__c2
+__fg__oh okay .__c1
+__s__but i think it'd be great i- - to be able to compare digits .__cb
+__fh|qw__whether it's these digits or t. i. digits to speakers um and compare that to their spontaneous speech .__cb
+__qy^rt__and then we do need you know a fair amount of - of digit data .__cb
+__qrr__because you might be wearing a different microphone .__cb
+__s.%-__and i mean - so it's - it's nice to have the digits you know replicated many times .__cb
+__s^df__uhhuh .__c4
+__s^df__especially for speakers that don't talk a lot .__cb
+__s^df__so um ==__cb
+__s^bk__yeah .__c4
+__s.%--__for adaptation .__cb
+__s^df__no | i'm serious .__cb
+__s^bk__so we have a problem with acoustic adaptation .__cb
+__s__yeah .__c8
+__s__yeah | all we have for some people is digits .__c4
+__s__yeah .__c1
+__s__and we're not using the digit data now .__cb
+__s^ba__but you know ==__cb
+__s__oh | you're not .__c4
+__s^bk__not for adaptation | nope .__cb
+__fh__v- - w- - we're not - we were running adaptation only on the data that we ran recognition on .__cb
+__s^bu__and i'd - as soon as someone started to read transcript number that's read speech .__cb
+__s.%-__and i thought well we're going to do better on that .__cb
+__s^aa__oh i see .__c4
+__s__that's not fair to use .__cb
+__s^bk__oh yeah | that's true absolutely .__c4
+__s__but it might be fair to use the data for adaptation .__cb
+__s__okay .__c1
+__qy^d^f^g__so ==__cb
+__s^bk__so those speakers who are very quiet shy ==__cb
+__%-__that would be interesting to see whether that helps .__c4
+__s:s^bk__r- - right .__cb
+__s:qw__do you think that would help adapting on ?==__c4
+__s__like adam ?__c2
+__s^e__yeah .__c4
+__s^e__yeah .__c8
+__s^na__yeah | i have a real problem with that .__c4
+__b__well it sh- - i mean it's the same micropho- ==__cb
+__s__see the nice thing is we have that in the - in the same meeting .__cb
+__s^e__right .__c4
+__qy^d^f^g__yeah .__c8
+__b__and so you don't get ==__cb
+__fh__same - same acoustics .__c4
+__s^ba__same microphone .__c4
+__s__same channel .__c4
+__fh__yeah .__c1
+__s__right | and so i still like the idea of having some kind of digit data .__cb
+__s^df__okay .__c4
+__s^bk__good .__c4
+__qy^d^f^g__yeah | i mean for the - for the um acoustic research ==__c8
+__s__for the signal processing farfield stuff i see it as - as - as the place that we start .__c8
+__s^aa__but th- - i mean it'd be nice to have twenty hours of digits data .__c8
+__s__but - but uh the truth is i'm hoping that we - we through the - the stuff that - that you guys have been doing as you continue that we get uh the best we can do on the spontaneous stuff uh uh nearfield .__c8
+__s^bu__and then um we do a lot of the testing of the algorithms on the digits for the farfield .__c8
+__qy^d^g^rt__and at some point when we feel it's mature and we understand what's going on with it then we - we have to move on to the spontaneous data with the farfield .__c8
+__s^aa__so ==__c8
+__s^df__the only thing that we don't have ==__cb
+__s^bk__great .__c5
+__s^bk__i know this sounds weird .__cb
+__fh__and maybe it's completely stupid .__cb
+__s__but we don't have any overlapping digits .__cb
+__s.%-__yeah | we talked about that a couple times .__c4
+__s^e.%--__an- - yea- - i know it's weird .__cb
+__s^bk__but um ==__cb
+__s^bk__overlapping digits .__c1
+__s^co.%-__the - the problem i see with trying to do overlapping digits is the cognitive load .__c4
+__s^cs.%--__all right | everybody's laughing .__cb
+__s^ba__okay .__cb
+__s^co.%--__dueling digits .__c3
+__fg|s^cs__no | it's - it's not stupid .__c4
+__qy^d^rt__it's just - i mean try to do it .__c4
+__s__i'm just talkin- - for the stuff that like dan ellis is going to try .__cb
+__s__i mean here let's try it .__c4
+__s^aa__you know cross talk cancellation .__cb
+__s__let's try it .__c8
+__b__you read the last line i'll read the first line .__c4
+__s^co__okay .__cb
+__%__oh .__c1
+__s^bk__wait - oh it - these are all the same forms .__cb
+__s^aa__sixty one .__c8
+__s^cs__okay | so but ==__cb
+__s^rt__so - so you read the last line i'll read the first line .__c4
+__s^df__so you plu- - you plug your ears .__cb
+__s^bk__no | i'll p- ==__c8
+__s^bu|qy^d^g^rt__oh | i guess if you plug you're ears you could do it .__c4
+__b__but then you don't get the - the same effects .__c4
+__s^2__yeah .__c1
+__s^na__well what i mean is actually no- - not the overlaps that are well governed linguistically .__cb
+__s__but the actual fact that there is speech coming from two people .__cb
+__s^df__and the beam forming stuf- ==__cb
+__b__yeah .__c4
+__s|qy^d^g^rt__all the acoustic stuff that like dan ellis and - and company want to do .__cb
+__s^bk__oh i see .__c4
+__qy^bu^d^rt__digits are nice and well behaved .__cb
+__s^na__i mean ==__cb
+__%-__anyway it's just a thought .__cb
+__s^bk__i guess we could try .__c4
+__s__we could try doing some .__c4
+__s__it - it would go faster .__cb
+__s^bk__parallel .__c2
+__s^bk|s^nd__it would take one around amount of ti- ==__cb
+__fh__it's the p. make of digit reading .__c2
+__s^df__well - well okay | well let's try it .__c4
+__qy^bh__that's right .__cb
+__s^bk__i - i mea- - i'm - i was sort of serious .__cb
+__qy^d^f^g__but i really i mean i'm - i don't feel strongly enough that it's a good idea .__cb
+__s^rt__see y- ==__c8
+__s^aa__you do the last line i'll do the first line .__c4
+__s^e__so ==__cb
+__s^df__okay .__c8
+__s^bu__DIGIT_TASK__c4
+__s^bu__DIGIT_TASK__c8
+__s^aa__that's not bad .__c4
+__s^aa|s.%-__no | i can do it .__c8
+__qy^rt__a- - and that prosody was great by the way .__cb
+__s^df__i couldn't understand a single thing you guys were saying .__c2
+__s^ar__i think it was numbers .__c5
+__s^df__but i'm not sure .__c5
+__qw^rt__it - it sort of sounded like a duet or something .__cb
+__s.%--__yeah .__c1
+__s^e__performance art .__c2
+__qy^bu^d^rt__all right | let's try three at once you - you pick one in the middle .__c8
+__s^aa__the aurora theater .__c1
+__s^bk__okay .__cb
+__s^bk__go .__c8
+__s^bu__DIGIT_TASK__c4
+__s^aa__DIGIT_TASK__c8
+__s^na__DIGIT_TASK__cb
+__s^e^na__i'm sorry .__cb
+__s^bu__i'm mean i think it's doable .__cb
+__s^aa__the poor transcribers .__c4
+__s^aa__i'm just ==__cb
+__qy^d^g^rt__they're going to hate us .__c4
+__s^aa^r__so we - we could have a round like where you do two at a time .__cb
+__s.%-__and then the next person picks up when the first guy's done or something .__cb
+__s^e__so pairwise .__c1
+__s__oh | like a round .__c8
+__b__yeah | like in a - a ==__c8
+__b__like a ==__cb
+__fh__yeah | just pairwise .__c1
+__s__yeah .__c8
+__qy^d^f^g__what do you call it ?__cb
+__s^df__li- - a r- - like ==__cb
+__s^df__a round .__c4
+__qy^d^f^g__or ==__c1
+__s__row row row your boat .__c8
+__%__round .__c3
+__b__yeah .__c1
+__qy^d^f^g__uhhuh .__c4
+__s^aa__yeah .__c8
+__s^aa__yeah | like that .__cb
+__s^bk__okay .__c8
+__fg__it's going to require some coordination .__c2
+__fg|s__then it would go like h- - twice as fast or a third as fast .__cb
+__s^bk__anyway it's just a thought .__cb
+__fh__you have to have a similar pace .__c5
+__s^ba__yeah .__c8
+__qy__i'm actually sort of serious if it would help people do that kind o- ==__cb
+__s^aa|s^co__but the people who want to work on it we should talk to them .__cb
+__%-__i don't think we're going to collect vast amounts of data that way .__c8
+__s^bk__so ==__cb
+__s^rt__huh .__c4
+__s^rt__but i think having a little bit might at least be fun for somebody like dan to play around with .__c8
+__s__okay .__cb
+__s^bk__i think maybe if we wanted to do that we would do it as a separate session .__c4
+__s.%--__yeah .__c8
+__s__yeah .__cb
+__s^bk__something like that .__c4
+__s__rather than doing it during a real meeting .__c4
+__s^bk__and you know do two people at a time .__c4
+__s^bk__then three people at a time and things like that .__c4
+__s__so ==__c4
+__b__can try it out .__cb
+__b__if we have nothing - if we have no agenda we could do it some week .__cb
+__qy^d^f^g__see - see what dan thinks .__c4
+__fh__yeah right .__c4
+__s__yeah yeah .__c8
+__s__okay .__cb
+__qy^d^f^g__spend the whole time reading digits with different qu- - quantities .__c8
+__s__c- - c- - can i- - can i have an- - another - another question w- - about this ?__c5
+__s__i thought this was going to be fast .__c4
+__b__oh well .__c4
+__s__so um there are these digits .__c5
+__s^aa__which are detached digits .__c5
+__fh|s__but there are other words that contain the same general phon- - phoneme sequences .__c5
+__s^bk__like wonderful has one in it .__c5
+__qy^g^rt__and - and victor borge had a - had a piece on this where he inflated the digits .__c5
+__s^aa__well i wonder if there's um an- - if there would be a value in having digits that are in essence embedded in real words to compare in terms of like the articulation of one in wonderful versus one as a digit being read .__c5
+__s^bu__that's two bad .__c8
+__s__yeah .__c8
+__%--__i'm all four it .__cb
+__s^ar__there you go .__c5
+__s^ar^r__not after i eight though .__c4
+__%-__uh they don't all work as well | do they ?__c8
+__s^co__huh .__c8
+__s|qy^d^g^rt__what does nine work in ?__c8
+__s^bk__uh ==__c4
+__s^bk__uh ==__c8
+__s__nein !__c3
+__s^aa__you scream it .__c3
+__b__nein .__c4
+__s^aa__oh | in german .__c8
+__b__you have to be german .__c4
+__s^bk__it's great for the germans .__c2
+__s__yeah .__c8
+__s^bk__that's german yeah .__c1
+__b__oh oh .__cb
+__b__yeah .__c4
+__b__nein .__c5
+__s__that's right .__c8
+__s^bk__yeah .__c1
+__s^bk__oh .__c4
+__b__it only sounds w- - good when you scream it though .__c3
+__s__so ==__c3
+__b__i think everybody's a little punchy here today .__c8
+__b__well i mean i just wanted to offer that as a possible task .__c5
+__s__yes .__c8
+__s^aa__because you know if we were to each read his embedded numbers words in sent- - in sentences .__c5
+__s__because it's like an entire sketch he does .__c5
+__s__and i wouldn't take the inflated version .__c5
+__s^bk__so he talks about the woman being two-derful .__c5
+__fh__and ==__c5
+__fh__and - a- - but you know if it were to be deflated just the normal word it would be like a little story that we could read .__c5
+__s__uhhuh .__c8
+__s__i don't know if it would be useful for comparison .__c5
+__s^df__but it's embedded numbers .__c5
+__s^bk__well i don't know .__c8
+__fh__i think for something like that we'd be better off doing like uh timit .__c4
+__s__well i think the question is what the research is .__c8
+__s__so i mean i presume that the reason that you wanted to have these digits this way is because you wanted to actually do some research looking at the prosodic form here .__c8
+__b__huh .__c4
+__s__right yeah .__cb
+__b__yeah okay .__c8
+__s^bk__so if somebody wanted to do that if they wanted to look at the - the - the difference of the uh phones in the digits in the context of a word versus uh the digits - a - a non digit word versus in digit word uh that would be a good thing to do .__c8
+__s__but i think someone would have to express interest in that .__c8
+__s^df__i see .__c5
+__h|s^aa__i think to ==__c8
+__s^bu__okay .__c5
+__h|s^nd__i mean if you were interested in it then we could do it for instance .__c8
+__fh|s^am__okay | thank you .__c5
+__s^am^df__huh .__c5
+__s^bk__okay | are we done with digits ?__c4
+__s^bk__um ==__c4
+__qy^d^f^g__we have a. s. r results from liz .__c4
+__b__transcript status from jane .__c4
+__s^ng__and disk space and storage formats from don .__c4
+__s^am__does - do we have any prefer- - preference on which way we want to - we want to go ?__c4
+__%__well i was actually going to skip the a. s. r results part in favor of getting the transcription stuff talked about .__cb
+__s__uhhuh .__c4
+__b__since i think that's more important to moving forward .__cb
+__s__but i mean morgan has this paper copy .__cb
+__b__and if people have questions ==__cb
+__s__um it's pretty preliminary in terms of a. s. r results .__cb
+__s__because we didn't do anything fancy .__cb
+__fg__but i think e- - just having the results there .__cb
+__fg__and pointing out some main conclusions .__cb
+__s__like it's not the speaking style that differs .__cb
+__qy^d^f^g__it's the fact that there's overlap that causes recognition errors .__cb
+__s__and then the fact that it's almost all insertion errors .__cb
+__s^df__which you would expect .__cb
+__s.%-__but you might also think that in the overlapped regions you would get substitutions and so forth .__cb
+__fh__um | leads us to believe that doing a better segmentation like your channel based segmentation or some kind of uh echo cancellation to get basically back down to the individual speaker utterances would be probably all that we would need to be able to do good recognition on the - on the close talking mikes .__cb
+__s.%--__um why don't you if you have a hard copy why don't you email it to the list ?__c4
+__s__so these ==__c1
+__s__so that's about the summary .__cb
+__qy^d^f^g__but this is - morgan has this paper .__cb
+__s^ar|s^ng__yeah yeah .__c1
+__fg__i mean he - he ==__cb
+__fg__yeah | so it's the same thing ?__c8
+__s__oh | it's in the paper .__c4
+__s^bk__it - it's that paper .__cb
+__b__it's the same thing i mailed to every- - everybody that w- - where it was .__c8
+__b__okay .__c4
+__s__yeah yeah .__cb
+__s^bk__so we basically um did a lot of work on that .__cb
+__fh|s__okay | then it's already been mailed .__c4
+__s__yeah .__c8
+__s^bk__and it's ==__cb
+__s.%--__let's see th- ==__cb
+__b__i guess the other neat thing is it shows for sure w- - that the lapel you know within speaker is bad .__cb
+__s^e__horrible ?__c4
+__b__and it's bad because it picks up the overlapping speech .__cb
+__s__so your - your a. s. r results were run on the channels synchronized .__c1
+__b__yes | because that's all that w- - had been transcribed at the time .__cb
+__s^bk__okay .__c1
+__s^e__okay .__c1
+__fg__okay .__c1
+__b__um ==__cb
+__s^bk__but as we - i mean i wanted to here more about the transcription .__cb
+__s__if we can get the channel asynchronous or the ==__cb
+__qr.%--__yeah .__c1
+__fh__the closer t- ==__cb
+__qy^d.%--__that would be very interesting for us .__cb
+__s.%-__because we ==__cb
+__s.%-__so if ==__c2
+__h|s^nd__yeah | that's - that's why i only used the part from use- - .__c8
+__s^df__yeah .__c1
+__s^aa__which we had uh about uh about the alt- - over all the channels .__c8
+__%--__yeah .__c1
+__s^na__right .__cb
+__%-__that's ==__cb
+__s.%--__yeah sure .__c1
+__s.%--__yeah .__c1
+__s^bk|s__or mixed channel .__c8
+__s^bk__rather mixed signal .__c8
+__b__yeah .__c1
+__s__so if there was a segment of speech this long ==__c2
+__b__because ==__cb
+__s__yeah .__c1
+__s^bk__and someone said oh in the front - in the middle .__c4
+__s__and oh and someone said oh the whole thing was passed to the recognizer .__c2
+__%-__there were several speakers in it .__c1
+__s__yeah .__c1
+__b__that's right | in fact i - i pulled out a couple classic examples in case you want to u- - use them in your talk of ==__cb
+__s^df__uhhuh .__c3
+__s__that's why there's so many insertion errors .__c2
+__s^df__chuck on the lapel .__cb
+__b__so chuck wore the lapel three out of four times .__cb
+__s^bk__huh .__c3
+__s^e__i noticed that chuck was wearing the lapel a lot .__c4
+__s^e__um yeah .__cb
+__b__early on | yeah .__c2
+__s^bk|s__and i wore the lapel once .__cb
+__s^e__and for me the lapel was okay .__cb
+__b__i mean i still ==__cb
+__b__and i don't know why .__cb
+__fh__i'm ==__cb
+__s__but um ==__cb
+__fg__for you it was ==__cb
+__s^df__probably how you wear it - wore it i would guess .__c4
+__b__or who was next to me or something like that .__cb
+__b__yeah | where you were sitting probably affected it .__c3
+__s^df__yeah .__c1
+__b__right | but when chuck wore the lapel and morgan was talking there're a couple really long utterances .__cb
+__fh__where chuck is saying a few things inside .__cb
+__s__and it's picking up all of morgan's words pretty well .__cb
+__s^e__and so the rec- - you know there're error rates ==__cb
+__s^am^e__because of insertion ==__cb
+__fh__insertions aren't bounded .__cb
+__s__so with a one word utterance and ten insertions you know you got huge error rate .__cb
+__s__uhhuh .__c4
+__s__yeah .__c1
+__s__and that's - that's where the problems come in .__cb
+__fh|s__so i- - this is sort of what we expected .__cb
+__fh__but it's nice to be able to - to show it .__cb
+__s__right .__c4
+__s__and also i just wanted to mention briefly that um uh andreas and i called up dan ellis who's still stuck in switzerland .__cb
+__s__and we were going to ask him if - if there're you know what's out there in terms of echo cancellation and things like that .__cb
+__s__not that we were going to do it .__cb
+__s__but we wanted to know what would need to be done .__cb
+__s__and he said lots lots lots lots .__c4
+__fh|s__and | he - we've given him the data we have so far .__cb
+__s.%--__so these sychronous cases where there are overlap .__cb
+__s^ba__yep .__c1
+__s__and he's going to look into trying to run some things that are out there .__cb
+__fh|s__and see how well it can do .__cb
+__fh__because right now we're not able to actually report on recognition in a real paper .__cb
+__s__so ==__c2
+__s^rt__like a eurospeech paper .__cb
+__s^rt__because it would look sort of premature .__cb
+__s__so ==__c2
+__s__so the idea is that you would take this big hunk where somebody's only speaking a small amount in it .__c2
+__s^bsc__and then try to figure out where they're speaking based on the other peopl- ==__c2
+__qy^d^f^g.%__right | or who's - at any point in time who's the foreground speaker .__cb
+__s^e__who's the background speaker .__cb
+__s^e__i thought we were just going to move the boundaries in .__c2
+__s^df__so yeah ==__c1
+__s__so ==__cb
+__s__yeah | should it ?==__c1
+__qy^d^f^g__well that's with the hand stuff .__c4
+__qw__so there's like ==__cb
+__s__but how would you do that automatically ?__c4
+__qy^d^f^g__right .__c2
+__s__uh i've actually done some experiments with cross correlation .__c1
+__qy^d^f^g__well ther- - there's ==__cb
+__s__and it seems to work pretty well to - to get rid of those - those overlaps .__c1
+__qy^d^f^g__uhhuh .__c8
+__s__i mean that- - that's the sort of thing that you would do .__c4
+__qy^d^f^g__yeah .__cb
+__s__yeah exactly | so it's - it's a ==__cb
+__s^df__so ==__c4
+__s^bk|s__yeah .__c1
+__qy^d^f^g__so why do you want to do echo cancellation ?__c2
+__s^bk__um it would be techniques used from adaptive - adaptive echo cancellation .__cb
+__s^aa__which i don't know enough about to talk about .__cb
+__qy__uhhuh .__c2
+__s__it - just - it just to r- - to remove cross talk .__c8
+__s^bk|%-__um ==__cb
+__qy__but ==__cb
+__%__yeah .__c3
+__s^bu__yeah .__c8
+__%__right | um and that would be similar to what you're also trying to do .__cb
+__%__but using um you know more than energy .__cb
+__s^aa__i - i don't know what exactly would go into it .__cb
+__b__yeah .__c1
+__s__yeah sure .__c1
+__s^df__so the idea is to basically run this on the whole meeting .__cb
+__fh|s__so it would be ==__c2
+__s^bk__and get the locations which gives you also the time boundaries of the individual speak- ==__cb
+__s__okay .__c2
+__s^e__so do sort of what he's already - what he's trying to do .__c2
+__s^e__right | except that there are many techniques for the kinds of cues um that you can use to do that .__cb
+__s^bk__okay i s- - i see .__c2
+__s^e__yeah | in another way .__c1
+__fh__yeah .__c1
+__s__yeah .__c1
+__s^df__yeah .__c2
+__s^bk__i see .__c2
+__s^bk__yeah | dave - dave uh is um also going to be doin- - usin- - playing around with echo cancellation for the nearfield farfield stuff .__c8
+__qy^d^f^g__so ==__cb
+__s^df__so we'll be ==__c8
+__s__and i guess espen .__cb
+__s__this - is - uh - is he here too ?__cb
+__s^df__may also be working ==__cb
+__qy^d^f^g__yeah .__c8
+__s__so it would just be ver- ==__cb
+__s__that's really the next step .__cb
+__qy^d^f^g__because we can't do too much you know on term- - in terms of recognition results knowing that this is a big problem .__cb
+__s__uhhuh .__c2
+__s^e__um until we can do that kind of processing .__cb
+__s__and so once we have some some of yours .__cb
+__s.%--__okay .__c1
+__s__yeah | i'm working on it .__c1
+__fh|s__and @@ we'll move on .__cb
+__qy^d^f^g__i think this also ties into one of the things that jane is going to talk about too .__c2
+__s__um ==__c4
+__s__okay .__cb
+__s.%-__uhhuh uhhuh .__c5
+__qw.%--__i also wanted to say i have done all this chopping up of digits .__c4
+__s^fa__so i have some naming conventions that we should try to agree on .__c4
+__qw^rt__oh right .__cb
+__s__so let's do that off line .__c4
+__fh__we don't need to do it during the meeting .__c4
+__s^e.%-__yeah .__cb
+__s^bk__right .__cb
+__s__okay .__c3
+__qy^d^ng^rt__definitely ==__cb
+__s^aa__uh and don should ==__cb
+__s.%-__and - and i have scripts that will extract it out from key files .__c4
+__s^df__and - and do all the naming automatically .__c4
+__%--__okay .__cb
+__s^ar|%-__so you don't have to do it by hand .__c4
+__s^bk|s__all right .__c3
+__qy^d^f^g__great .__cb
+__s^e__so that- - that's it for the ==__cb
+__qy^d^f^g__you've compiled the list of uh speaker names .__c3
+__s^bk__speakers and ==__cb
+__fh|s__uhhuh .__c4
+__qy^d^f^g__okay .__cb
+__s__not names .__c3
+__s^e__but i. d.'s .__c3
+__s^ar|%--__yep .__c4
+__s__yeah names - names in the - names to i. d.'s .__c4
+__s^ar|s^fa__so you ==__c4
+__s^na__okay .__c3
+__s^fa__great .__cb
+__s__and it does all sorts of matches .__c4
+__s__because the way people filled out names is different on every single file .__c4
+__s^aa__so it does a very fuzzy sort of match .__c4
+__s^na__right .__cb
+__s__cool .__c3
+__s^df__so at this point we can sort of finalize the naming and so forth .__cb
+__s^bk__yep .__c4
+__fg__and we're going to basically re- - rewrite out these waveforms that we did .__cb
+__s^bk__uhhuh .__c3
+__s^bk^r__because as you notice in the paper your m. o. four in one meeting .__cb
+__s^bk^r__and m. o. two  in another meeting .__cb
+__s^bk__and it's - we just need to standardize the ==__cb
+__s^bk__yeah .__c3
+__s^bk__that was my fault .__c3
+__qy^d^f^g__um ==__cb
+__fg|s.%--__no | it's - it's ==__cb
+__s^cc^t1__no | i didn't notice that actually .__c8
+__fh__um that's why those comments are s- - are in there .__cb
+__s^t1.%--__@@ .__c8
+__s^t1.%--__yeah .__c3
+__fh__yep .__c4
+__s^t1__then disregard it then .__c3
+__qy^d^f^g__so th- - i now have a script that you can just say basically look up morgan .__c4
+__s^aa|s^na__so ==__cb
+__s__right .__cb
+__s^t3__yeah .__c8
+__s^e__okay .__cb
+__s^e__and it will give you his i. d .__c4
+__s^bk__great great .__cb
+__s^df__okay .__c3
+__s__so ==__c4
+__s__terrific .__cb
+__qy^d^f^g__um ==__c4
+__s__all right .__c4
+__s^df__do we ?==__c4
+__qy^d^f^g__don you had disk space and storage formats ?__c4
+__s__is that something we need to talk about at the meeting ?__c4
+__s^df__or should you just talk with chuck at some other time ?__c4
+__s.%--__um | i had some general questions just about the compression algorithms of shortening waveforms .__c3
+__s^e__and i don't know exactly who to ask .__c3
+__s^bk|s__i thought that maybe you would be the the person to talk to .__c3
+__s^bk__so is it a lossless compression when you compress ?==__c3
+__%__uhhuh .__c4
+__qy^d^f^g__so ==__c3
+__s__entropy coding .__c4
+__b__it just uses entropy coding ?__c3
+__fg__so ==__c4
+__fh|s__okay .__c3
+__fh__so i mean i guess my question would be is ==__c3
+__s^df__i just got this new eighteen gig drive installed .__c3
+__b__um yeah .__c3
+__b__which is ==__c3
+__fh|s__and i assume half of it is scratch and half of it is ==__c4
+__s^df.%-__i'm not exactly sure how they partitioned it .__c3
+__fg__probably | yeah .__c4
+__s^na__but um ==__c3
+__b__that's typical huh .__c8
+__s^cs^ng__yeah | i don't know what's typical here .__c3
+__s^bk__but um ==__c3
+__s^e__it's local though .__c3
+__s^aa__so ==__c3
+__s^aa__that doesn't matter .__c4
+__s^e__but ==__c3
+__s__you can access it from anywhere in icsi .__c4
+__s^df__okay .__c3
+__s^e__in fact this is an eighteen gig drive or is it a thirty six gig drive with eighteen ?==__c8
+__s^df__all right .__c3
+__b__how do you do that ?__c3
+__b__n.  ==__c4
+__s^e__eighteen .__c3
+__s__eigh- - eighteen .__cb
+__s^e__it was a spare that dave had around .__cb
+__s__oh okay .__c8
+__s^e__slash n.  slash machine name slash x. a.  in all likelihood .__c4
+__s^df__oh i see .__c3
+__s^df__okay .__c3
+__s__all right | i did know that .__c3
+__fh|s__um | so the - the only question is how much of it ?==__c4
+__fh__the distinction between scratch and non scratch is whether it's backed up or not .__c4
+__s__uhhuh .__c3
+__fh|s__right .__c3
+__s__so what you want to do is use the scratch for stuff that you can regenerate .__c4
+__fh|s.%--__okay .__c3
+__s^df__so ==__c4
+__s__the stuff that isn't backed up is not a big deal .__c4
+__s^df__because disks don't crash very frequently .__c4
+__qy^d^f^g^rt__right .__c3
+__fh|s__as long as you can regenerate it .__c4
+__s__right .__c3
+__s^df__yeah it's ==__cb
+__s^df__i mean all of this stuff can be regenerated .__c3
+__qw__it's just a question ==__c3
+__s^df__well the ==__cb
+__qy^d^f^g__then put it all on scratch .__c4
+__s__because we're - icsi is - is bottlenecked by backup .__c4
+__s^rt.%--__yeah .__cb
+__s__uhhuh very good point .__c5
+__qy^d^f^g__okay .__c3
+__s^df__well i'd leave all the - all the transcript stuff shouldn't - should be backed up .__cb
+__b__so we want to put ==__c4
+__s__uhhuh .__c5
+__s__but all the waveform sound files should not be backed up .__cb
+__b.%__yeah | i guess ==__c3
+__b__right .__c3
+__s^bk__the ones that you write out .__cb
+__fg|s__okay .__c3
+__s__so i mean i guess th- - the other question was then should we shorten them downsample them or keep them in their original form ?__c3
+__qy^rt__um ==__c3
+__s^e__it just depends on your tools .__c4
+__qy__i mean because it's not backed up and it's just on scratch if your sc- - tools can't take shortened format i would leave them expanded .__c4
+__b__right .__c3
+__s^aa__so you don't have to unshorten them every single time you want to do anything .__c4
+__s^df__okay .__c3
+__s^df^e__we can downsample them .__cb
+__fg|s__do you think that'd be okay ?__c3
+__qy__so ==__cb
+__s^bk__yeah .__cb
+__s__to downsample them .__c3
+__s^e__yeah | we get the same performance .__cb
+__s__okay .__c3
+__s__i mean the r- - the front end on the s. r. i recognizer just downsamples them on the fly .__cb
+__s^bd__yeah | i guess the only argument against downsampling is to preserve just the original files in case we want to experiment with different filtering techniques .__c3
+__s^df^rt__so ==__cb
+__s__so that's ==__cb
+__s__i - i - i'm sorry ==__c8
+__s__yeah | if ==__cb
+__qy^d^f^g^rt__yeah | l- - i mean over all our data we - we want to not downsample .__c8
+__s^bk__fe- ==__cb
+__fh__you'd - you want to not ==__cb
+__s.%--__okay .__cb
+__s.%--__so we're - what we're doing is we're writing out ==__cb
+__s__yeah .__c8
+__s^df__i mean this is just a question .__cb
+__s^df^e__we're writing out these individual segments that wherever there's a time boundary from thilo or - or jane's transcribers you know we - we chop it there .__cb
+__s^e__yeah .__c8
+__s__uhhuh .__c8
+__b__and the reason is so that we can feed it to the recognizer .__cb
+__s^e__uhhuh .__c8
+__%-__and throw out ones that we're not using and so forth .__cb
+__s^e.%-__yeah .__c8
+__fg|s^df.%-__and those are the ones that we're storing .__cb
+__s__yeah | as i said since that's - it's regeneratable what i would do is take downsample it .__c4
+__s^df.%--__so ==__cb
+__s__yeah .__cb
+__s__and compress it however you're e- - the s. r. i recognizer wants to take it in .__c4
+__s.%--__yeah .__cb
+__s.%--__so we can't shorten them .__cb
+__s^df__ye- ==__c8
+__s__but we can downsample them .__cb
+__s__right .__c3
+__s^f__yeah | i mean ==__c8
+__fg|s^bd__yeah | i'm sorry .__c8
+__s__so ==__cb
+__s^e__as - yeah as long as there is a - a form that we can come from again that is not downsampled then ==__c8
+__b__r- ==__c3
+__fh|qy__yeah .__c3
+__s^rt__oh yeah | th- ==__cb
+__s__yeah | those are going to be kept .__c3
+__s__yeah yeah .__cb
+__s^bk|%-__that - that's why we need more disk space .__cb
+__s^bk__uuu ==__c8
+__%--__because we're basically duplicating the originals um ==__cb
+__s^fa__yeah .__c8
+__s__then it's fine .__c8
+__s^e__right .__c4
+__b__but for - for - fu- - future research we'll be doing it with different microphone positions and so on .__c8
+__b__oh yeah .__cb
+__s^e__no | we always have the original long ones .__cb
+__fg|s^bk__yep .__c4
+__b__right .__c3
+__b__we would like to ==__c8
+__s^bk__yeah .__c8
+__fg__so the s. r. i front end won't take a uh - an - an - a large audio file name and then a - a list of segments to chop out from that large audio file ?__c2
+__s^bk__they actually have to be chopped out already .__c2
+__s^cs__um it's better if they're chopped out .__cb
+__b__and - and it - it will be ==__cb
+__s^df__uhhuh .__c2
+__b__yeah y- - we could probably write something to do that .__cb
+__s.%-__but it's actually convenient to have them chopped out .__cb
+__s^2__because you can run them you know in different orders .__cb
+__s^e__you c- - you can actually move them around .__cb
+__s^df.%--__and that's the whole point about the naming conventions .__c4
+__s^2__uh you can get rid of- ==__cb
+__s^rt__is that you could run all the english speaking .__c4
+__s^bk__yeah | it- - it's a lot faster .__cb
+__s^rt__all the native speakers .__c4
+__s^aa__right | you can grab everything with the word the in it .__cb
+__s^ba__and all the non native speakers .__c4
+__s__and all the men and all the women .__c4
+__%-__and it's ==__cb
+__s__yeah .__c4
+__s.%--__that's a lot quicker than actually trying to access the wavefile each time .__cb
+__s__find the time boundaries and ==__cb
+__s.%--__so in principle yeah you could do that .__cb
+__s^bsc__i don't - i don't think that's really right .__c2
+__s__but it's ==__cb
+__fh__but it's um ==__cb
+__s__that's just not right man .__c4
+__qy^d^f^g__these are long - these are long ==__cb
+__s__the - the point ==__c4
+__s^f__so - so s- - for example what if you wanted to run - run all the native speakers ?__c4
+__s^df.%--__you know ==__cb
+__fh__this is an hour of speech .__cb
+__s__right | so if - if you did it that way you would have to generate a program that looks in the database somewhere .__c4
+__b__extracts out the language .__c4
+__s^f__finds the time marks for that particular one .__c4
+__s^df__do it that way .__c4
+__s__the way they're doing it you have that already extracted .__c4
+__s__and it's embedded in the file name .__c4
+__s__and so you know you just say ==__c4
+__s__we- - yeah | that's - so that's part of it .__cb
+__qy^d^f^g__y- - so you just say you know asterisk e.  asterisk dot wave and you get what you want .__c4
+__fh|s__is ==__cb
+__s^bk__right .__cb
+__s^t^tc__and the other part is just that once they're written out it - it is a lot faster to - to process them .__cb
+__s^rt__rather than doing seeks through the file .__c4
+__s^rt__so ==__cb
+__s^rt__otherwise you're just accessing ==__cb
+__s^e^rt__this is all just temporary access .__c4
+__fh__so i don't - i think - it's all just ==__c4
+__s__it's fine .__c4
+__s^rt__you know .__c4
+__s^e__fine to do it however is convenient .__c4
+__s__right .__cb
+__s__i mean it just depends how big the file is .__c8
+__s__if the file sits in memory you can do extremely fast seeks .__c8
+__s__right .__cb
+__fh__the other thing is that believe it or not i mean we have some ==__cb
+__s__but ==__c8
+__s^e__yeah | and they don't .__c4
+__s__two gig .__c4
+__s^e__so we're also looking at these in waves like for the alignments and so forth .__cb
+__s.%--__you can't load an hour of speech into x. waves .__cb
+__fh__yeah .__c8
+__s__you need to s- - have these small files .__cb
+__s^df^rt__and in fact even for the transcriber program um ==__cb
+__s^rt__yes you can .__c4
+__s^df__yeah | you - you can give waves a start and an end time .__c2
+__s^e__yeah if you try to load s- - really long waveform into x. waves you'll be waiting there for ==__cb
+__s__and middle .__c2
+__s__no | i - i'm not suggesting you load a long wave file .__c2
+__s__oh .__cb
+__s^e__i'm just saying you give it a start and an end time .__c2
+__s^fa|s__and it'll just go and pull out that section .__c2
+__s^rt__i th- ==__c4
+__s^rt__w- - the transcribers didn't have any problem with that .__c4
+__s^rt__did they jane ?__c4
+__s^rt__what's th- - u- - w- - in what respect ?__c5
+__s^rt__loading the long ==__cb
+__s__they loaded - they loaded the long - long files into x. waves .__c4
+__s__no | with the transcriber tool it's no problem .__c1
+__s__it takes a very long ti- ==__cb
+__s__in the - in- ==__c5
+__s__yeah just to load a transcription .__c1
+__s__uhhuh .__c5
+__s__@@ .__c1
+__fh__right .__cb
+__s__it takes a l- - very long time .__cb
+__s__takes a long time .__c1
+__fh|s__but not for the wavefile .__c1
+__s^rt__the wavefile is there immediately .__c1
+__s__uhhuh yeah .__c5
+__s^e__are you talking about transcriber or x. waves ?__c4
+__s^bk__huh .__cb
+__s.%--__yeah .__c1
+__%--__oh i'm tr- - talking about transcriber .__c1
+__s^rt__actually you're talking about transcriber | right ?__cb
+__s__yeah .__c1
+__b__it was also true of the digits task which was x. waves .__c5
+__qw__because because i- - we used x. waves to do the digits .__c4
+__s^bk__yeah .__c5
+__s^bu^e__and they were loading the full mixed files then .__c4
+__s__very quickly .__c5
+__s^bk__and it didn't seem to be any problem .__c4
+__s^bk__i agree .__c5
+__s^e__huh .__cb
+__b__well we - we have a problem with that .__cb
+__qy^d^f^g.%__you know time wise on a ==__cb
+__fh|s__it- - it's a lot slower to load in a long file .__cb
+__s__huh .__c4
+__s^df__seemed really fast .__c4
+__s^e__and also to check the file .__cb
+__s__so if you have a transcript um ==__cb
+__fh__well regardless it's ==__c4
+__s__i mean it's ==__cb
+__b__yeah .__c8
+__s^e__i - i think overall you could get everything to work by accessing the same waveform and trying to find two - you know the begin and end times .__cb
+__s__um ==__cb
+__b__but i think it's more efficient if we have the storage space to have the small ones .__cb
+__fh__and it's no problem | right ?__c4
+__s__yeah it's ==__cb
+__s^e__because it's not backed up .__c4
+__s.%-__yeah .__cb
+__s__it's - it's just ==__cb
+__s^bk__so we just ==__c4
+__s__if we don't have a spare disk sitting around we go out and we buy ourselves an eighty gigabyte drive .__c4
+__s^bu__and make it all scratch space .__c4
+__s^aa__you know it's not a big deal .__c4
+__fh__you're right about the backup being a bottleneck .__c5
+__s^bk__right .__cb
+__s__it's good to think towards scratch .__c5
+__s__yeah | so these wouldn't be backed up the ==__cb
+__qy.%-__yeah .__c5
+__b__yep .__c8
+__qy^rt__right .__cb
+__s^e__so remind me afterward .__c4
+__s^aa__and ==__cb
+__s^aa__and i'll - and we'll look at your disk and see where to put stuff .__c4
+__%--__okay all right .__c3
+__s__i mean i could just u- - do a d. u on it | right ?__c3
+__s^bk__and just see which - how much is on each .__c3
+__s^bk__yep .__c4
+__s__so ==__c3
+__s__each partition .__c4
+__s__and you want to use either x. a or scratch .__c4
+__s.%--__okay .__c3
+__s__well x.  question mark .__c4
+__s__anything starting with x.  is scratch .__c4
+__b__okay .__c3
+__b__with two - two digits .__c5
+__s:s__two digits | right .__c4
+__s__x. a x. b x. c .__c4
+__s__so @@ ==__c8
+__s^bk__okay ?__c4
+__s^bk__jane ?__c4
+__%-__okay | so i got a little printout here .__c5
+__s__so three on this side .__c5
+__s__three on this side .__c5
+__s^df.%--__and i stapled them .__c5
+__s__okay .__c5
+__s__all right | so first of all um there was a - an interest in the transcribe- - transcription uh checking procedures .__c5
+__qy^rt__and - and i can tell you first uh to go through the steps .__c5
+__s^nd__although you've probably seen them .__c5
+__s^df.%--__um as you might imagine when you're dealing with um r- - really c- - a fair number of words and uh @@ natural speech ==__c5
+__fh__which means s- - self repairs and all these other factors that there're lots of things to be um s- - standardized and streamlined and checked on .__c5
+__s^ba^df__and um so ==__c5
+__s^df__i did a bunch of checks .__c5
+__s__and the first thing i did was obviously a spell check .__c5
+__s^e__and at that point i discovered certain things .__c5
+__s.%-__like um accommodate with one m.  .__c5
+__s^aap__that kind of thing .__c5
+__s^e__and then in addition to that i did an exhaustive listing of the forms in the data file .__c5
+__s__which included n- - detecting things like f- - faulty punctuation and things .__c5
+__s^am__i'm - i'm sorry to interrupt .__c2
+__qy^d^g__yeah ?__c5
+__s__you could - could i just back up a little bit ?__c2
+__b__sure | please .__c5
+__b__yeah | please please .__c5
+__s.%-__and ==__c2
+__s^bk|s^cs__yeah yeah yeah .__c5
+__s^bk__so you're doing these - so the whole process is that the transcribers get the conversation .__c2
+__s^bk__and they do their pass over it .__c2
+__s__yes .__c5
+__s__and then when they're finished with it it comes to you .__c2
+__s.%--__and you begin these sanit- - these quality checks .__c2
+__s__that's right .__c5
+__s__exactly .__c5
+__s__i do these checks .__c5
+__qy^d^f^g^rt__uhhuh .__c5
+__s__okay .__c2
+__s^f|s__exactly .__c5
+__s__okay .__c2
+__s__yeah .__c5
+__s__thank you .__c5
+__qy^d^f^g^rt__and so uh i do a - an exhaustive listing of the forms ==__c5
+__s^bd__actually i will go through this in - in order .__c5
+__s__so if - if we could maybe wait and stick keep that for a second .__c5
+__%--__because we're not ready for that .__c5
+__s^df.%--__so on the fifth page seven down ==__c4
+__s__yeah yeah yeah yeah exactly exactly .__c5
+__s__all right so | a spelling check first .__c5
+__s.%-__then an exhaustive listing of the uh - all the forms in the data with the punctuation attached .__c5
+__fg|%-__and at that point i pick up things like oh you know word followed by two commas .__c5
+__s:s__and th- - and then another check involves uh being sure that every utterance has an identifiable speaker .__c5
+__s__and if not then that gets checked .__c5
+__s^bk|s__then there's this issue of glossing s- - w- - so-called spoken forms .__c5
+__s^e__so there ==__c5
+__s^aa__mo- - for the most part we're keeping it standard wo- - word level transcription .__c5
+__s^aa__but there's ==__c5
+__s^ba__w- - and that- - that's done with the assumption that pronunciation variants can be handled .__c5
+__s^bk__so for things like and the fact that someone doesn't say the d.  uh that's not important enough to capture in the transcription .__c5
+__s^rt__because a - a good pronunciation uh you know model would be able to handle that .__c5
+__s.%--__however things like because where you're lacking an entire very prominent first syllable .__c5
+__s^rt__and furthermore it's a form that's specific to spoken language .__c5
+__s__those are r- - reasons - f- - for those reasons i - i kept that separate .__c5
+__s.%--__and used the convention of using c. u. z for that form .__c5
+__s^fa__however glossing it .__c5
+__s^e__so that it's possible with the script to plug in the full orthographic form for that one .__c5
+__s__and a couple of others .__c5
+__s^rt__not many .__c5
+__s__so want to is another one .__c5
+__fh|s__going - uh going to is another one .__c5
+__s__with just the assumption again that this - th- - these are things which it's not really fair to a- - c- - consider - expect that - a pronunciation model to handle .__c5
+__s^rt__and chuck you in- - you indicated that because is - is one of those that's handled in a different way also | didn't you ?__c5
+__s__did i ?==__c5
+__s__i don't remember .__c2
+__s^e__okay .__c5
+__fg|s__so - so- - it might not have been - it might not have been you .__c5
+__s^aa|s^na__huh .__c2
+__s^bk.%__but someone told me that in fact because is treated differently in um i- - u- - in this context .__c5
+__b__because of that r- - reason that um it's a little bit farther than a pronunciation variant .__c5
+__s^rt__okay so after that ==__c5
+__s__let's see .__c5
+__qy^d^f^g^rt__um ==__c5
+__s^rt__so that was part of the spell check or was that - that was after the spell check ?__c2
+__s__well so when i get the exhau- ==__c5
+__s__so the spell check picks up those words .__c5
+__s^e__because they're not in the dictionary .__c5
+__s__uhhuh .__c2
+__b__so it gets because and want to and that ==__c5
+__fh__and then you gloss them ?__c4
+__s__yeah uhhuh .__c5
+__s^bk__run it through ==__c5
+__s__i have a sed - you know so i do sed script saying whenever you see going to you know convert it to going to you know gloss equals quote going to quote .__c5
+__s__you know .__c5
+__b__and with all these things being in curly brackets .__c5
+__b__so they're always distinctive .__c5
+__qy^rt__uhhuh .__c4
+__s^2.%--__okay | i also wrote a script which will um retrieve anything in curly brackets or anything which i've classified as an acronym .__c5
+__s^ar__and a pronounced acronym .__c5
+__s^rt__and the way i tag ac- - pronounced acronyms is that i have underscores between the components .__c5
+__s__so if it's a. c. l then it's a.  underscore c.  underscore l.  .__c5
+__s^bk|s__and the th- ==__c5
+__s^bk__and so - so your list here are these ones that actually occurred in the meetings ?__c4
+__s^bk__yes uhhuh yeah .__c5
+__s__whew !__c4
+__s__okay so now uh | and - a- ==__c5
+__s^e__we are acronym loaded .__c4
+__s^bk__um can i ask a question about the glossing uh before we go on ?__cb
+__s__yeah .__c5
+__fh|s__so for a word like because is it that it's always predictably because ?__cb
+__s^e__i mean is c. u. z always meaning because ?__cb
+__s^e__yes | but not the reverse .__c5
+__s.%--__so sometimes people will say because in the meeting .__c5
+__s^rt__and if - if they actually said because then it's written as because with no - w- ==__c5
+__s__because doesn't even figure into the equation .__c5
+__s^2__beca- - because ==__cb
+__b__but - but in our meetings people don't say hey because how you doing .__c8
+__b__right right .__cb
+__s.%-__except right there .__c4
+__s^m^na__yeah .__c5
+__s^2__yeah .__c8
+__s^bk__um so i guess - so from the point of view of ==__cb
+__s__that's a good point .__c5
+__%-__the - the only problem is that with - for the recognition we - we map it to because .__cb
+__s.%--__and so if we know that c. u. z ==__cb
+__s__well ==__c4
+__s^df__that's fine .__c5
+__s^df^e__well don has a script .__c5
+__s^df__but they have the gloss .__c4
+__s__yeah .__c3
+__s^e__but we don't ==__cb
+__s__you have the gloss form .__c4
+__s__so you always replace it .__c4
+__s^bk__exactly .__c5
+__s__if that's how - what you want to do .__c4
+__s__uhhuh .__c5
+__s^df__and don knows this .__c5
+__s__and he's bee- - he has a glo- - he has a script that ==__c5
+__s^e__yeah .__c3
+__qy^bu^d__i replace the because with because if it's glossed .__c3
+__qy__s- ==__cb
+__s^aa__right .__cb
+__h__but if it's ==__cb
+__%--__okay .__cb
+__s.%--__but then there are other glosses that we don't replace | right ?__cb
+__s__and ==__c3
+__s__because ==__cb
+__s__yes | and that's why there're different tags on the glosses .__c5
+__s__okay | so then it's fine .__cb
+__s__on the different - on the different types of comments .__c5
+__s__which we'll - which we'll see in just a second .__c5
+__s^aa|s^na__right .__c3
+__b__okay .__cb
+__b__so the pronounceable acronyms get underscores .__c5
+__s.%--__the things in curly brackets are viewed as comments .__c5
+__fh__there're comments of four types .__c5
+__s^e__so this is a good time to introduce that .__c5
+__s^e__the four types .__c5
+__fg|s__w- - and maybe we'll expand that .__c5
+__s^aa__um ==__c4
+__s^aap|s.%--__but the - but the comments are um of four types mainly right now .__c5
+__s^bk__one of them is um the gloss type we just mentioned .__c5
+__fh|s__can - ca- ==__c4
+__s:s|qh^cs__another type is um ==__c5
+__s:s^df__so | a- - are we done with acronyms ?__c4
+__s:s^e__because i had a question on what - what this meant .__c4
+__s__i'm still doing the overview .__c5
+__s__i haven't actually gotten here yet .__c5
+__s^df__oh i'm sorry .__c4
+__s__okay | so gloss is things like replacing the full form u- - with the um more abbreviated one to the left .__c5
+__s__uh then you have if it's - uh there're a couple different types of elements that can happen that aren't really properly words .__c5
+__s__and wo- - some of them are laughs and breathes .__c5
+__s.%--__so we have - uh that's prepended with a v- - a tag of v. o. c .__c5
+__s__whew .__c1
+__s__@@ .__c1
+__s^df__and the non vocal ones are like door-slams and tappings .__c5
+__b__and that's prepended with a no- - non-vocalization .__c5
+__s__so then it - just an ending curly brace there ?__c2
+__s__or is there something else in there ?__c2
+__fh__oh yeah | so i- - e- - this would ==__c5
+__fh__let's just take one example .__c5
+__s__a comment basically .__c4
+__s__oh oh oh .__c2
+__s__and then the no- - non-vocalization would be something like a door slam .__c5
+__s^bd__they always end .__c5
+__s^df__so it's like they're paired curly brackets .__c5
+__s__and then the third type right now uh is m- - things that fall in the category of comments about what's happening .__c5
+__s.%--__so it could be something like you know referring to so-and-so .__c5
+__fh__talking about such and such .__c5
+__s.%--__uh you know looking at so-and-so .__c5
+__s__so on the m- ==__c2
+__s__on the middle t- - so in the first case that gloss applies to the word to the left .__c2
+__s__yeah .__c5
+__s^ba|qy^d^f__yeah | and this gets substituted here .__c5
+__s^aa|s^na__but in the middle two th- - it's not applying to anything | right ?__c2
+__s.%--__they're impulsive .__c4
+__b__huh uh .__c5
+__s__okay .__c2
+__s__no | they're events .__c5
+__s.%-__they're actually - they have the status of events .__c5
+__s^e__okay .__c2
+__s^bk^rt|s__well the qual can be - the qual is applying to the left .__c4
+__b__right | i just meant the middle two ones .__c2
+__s^f|s^bsc__yep .__c4
+__s^bc__yeah .__c2
+__s^bk|s__well and actually um it is true that with respect to laugh there's another one .__c5
+__s^r__which is while laughing .__c5
+__s.%-__while laughing .__c4
+__s__and that is uh i- - i- - an argument could be made for this tur- - turning that into a qualitative statement .__c5
+__s^e__because it's talking about the thing that preceded it .__c5
+__s^bk__but at present we haven't been um uh coding the exact scope of laughing | you know .__c5
+__s^e__and so to have while laughing you know that it happened somewhere in there .__c5
+__s__which could well mean that it occurred separately and following .__c5
+__s__or you know including some of the utterances to the left .__c5
+__s^bk|s^j__haven't been awfully precise about that .__c5
+__s^cc^j__but i have here ==__c5
+__s^j|qy^d^f^g__now we're about to get to the - to this now .__c5
+__s^na__i have frequencies .__c5
+__s^bk|s^co^tc__so you'll see how often these different things occur .__c5
+__s__but um uh | the very front page deals with this uh final c- - pa- - uh uh aspect of the standardization .__c5
+__s^bk__which has to do with the spoken forms like uhhuh and uhhuh and ha and uhuh and all these different types .__c5
+__s__and um uh someone pointed out to me .__c5
+__fh|s.%--__this might have been chuck about um - about how a recognizer if it's looking for uhhuh with three m. 's and it's transcribed with two m. 's that it might - uh that it might increase the error rate .__c5
+__s__which is - which would really be a shame .__c5
+__s^df__because um i p- - i personally w- - would not be able to make a claim that those are dr- - dramatically different items .__c5
+__s.%--__so right now i've standardized across all the existing data with these spoken forms .__c5
+__s^fa__oh good .__c4
+__s^bk__i - i should say ==__c5
+__s^co^t1__so it's a small list .__c4
+__s__all existing data except thirty minutes which got found today .__c5
+__s__so i'm going to - i'm going to - i'm going to check ==__c5
+__s__that - that's known as found data .__c4
+__s__yeah yeah .__c5
+__s.%--__acsu- - actually yeah .__c5
+__s__i got - it was stored in a place i didn't expect .__c5
+__s^e|qy^d^f^g__it's like the z- - zapruder film .__c3
+__s__so - and - and um ==__c5
+__s^e__w- - we uh sh- - yea- - reconstructed how that happened .__c5
+__s^df__i want to work with lost data .__c8
+__s^cs__yeah | it's much easier .__c4
+__s^e__and this is - this'll be great .__c5
+__s^bk__so i'll - i'll be able to get through that tonight .__c5
+__b__and then everyth- - i- - well actually later today probably .__c5
+__s^bk__huh .__c4
+__s__and so then we'll have everything following these conventions .__c5
+__fh__but you notice it's really rather a small set of these kinds of things .__c5
+__qh__yeah .__c4
+__qh__and i made it so that these are um with a couple exceptions but things that you wouldn't find in the spell checker .__c5
+__qh__so that they'll show up really easily .__c5
+__s^e__and um ==__c5
+__qh__jane can i ask you a question ?__c3
+__s^df__what's that very last one correspond to ?__c3
+__qh__sure .__c5
+__s__i don't even know how to pronounce that .__c3
+__s^rt__well yeah | now that - that s- - only occurs once .__c5
+__s__yeah .__cb
+__s__and i'm thinking of changing that .__c5
+__s^df__right .__cb
+__s^bd__so- - c- - i haven't listened to it .__c5
+__s__uh is that like someone's like burning or some such thing ?__c3
+__s__so i don't know .__c5
+__s^t^tc__i haven't heard it actually .__c5
+__fh__like their hair's on fire .__c3
+__b__i n- - i need to listen to that one .__c5
+__s^bk__uh !__c4
+__s^ft__actually we - we gave this to our pronunciation person .__cb
+__qo^rt__it's the castle of uh .__c1
+__s^fw__uh it looks like that .__c3
+__s^cs__she's like i don't know what that is either .__cb
+__s__so ==__cb
+__s^df__did she hear the th- - did she actually hear it ?__c5
+__b__no | we just gave her a list of words that you know weren't in our dictionary .__cb
+__s__because i haven't heard it .__c5
+__s__and so of course it picked up stuff like this .__cb
+__qr__and she just didn't listen .__cb
+__h|s^nd__so she didn't know .__cb
+__s^bk__we just - we're waiting on that just to do the alignments .__cb
+__s^rt__yeah .__c5
+__s__yeah | i'm curious to se- - hear what it is .__c5
+__s__but i didn't know - want to change it to something else until i knew .__c5
+__fh|s__maybe it's argh .__cb
+__s|s^bk__right .__c3
+__s.%--__@@ .__cb
+__s__well sss you know ==__c5
+__b__but that's not really like ==__c3
+__fh|s__hhh .__c5
+__s^bk__yeah .__cb
+__s^ft__@@ .__c5
+__fg__no one really says argh | you know .__c3
+__s^ft__right | no one say- ==__cb
+__s^fw__well you just did .__c8
+__s__it's not ==__c3
+__qy^t3__well ==__c3
+__s^co^t3__yeah .__c5
+__s^bk^t3__@@ .__c4
+__fg|s^ar^t3__there's another - there's another word error .__c3
+__s^co^t3__except for now .__c2
+__s^bk^t3|s^fa^t3__that's right .__c5
+__s.%--__yes | that's right .__c4
+__s__we're going to have a big problem when we talk about that .__c4
+__s^bk__cha-ching !__c3
+__s__uh .__cb
+__%-__we're going to never recognize this meeting .__c2
+__s.%-__okay .__c5
+__s__in monty python you say argh a lot .__c4
+__s__oh yeah ?__c3
+__s^ft__so ==__c4
+__s^bk__well or if you're a c.  programmer .__c4
+__s^r__huh .__c3
+__s^cs.%--__yeah | that's right .__c5
+__s^ba__yeah .__c8
+__fh__you say arg c. and arg v. all the time .__c4
+__s^na__that's right .__c5
+__qy^bu^d^rt__yeah .__c8
+__b.%__that's true .__c3
+__s^bk__but it has a different prosody .__cb
+__s^aa__yeah .__c5
+__s^ft__arg .__c8
+__s__it does .__c4
+__h|s^tc__arg - arg-max arg-min .__c8
+__s__uhhuh .__c3
+__s__yeah .__c8
+__s__uh !__c4
+__s^cs__uh ==__c5
+__fh__so | jane what's the - d- ==__cb
+__s__maybe he died while dictating .__c4
+__s__so ==__c5
+__s__i have one question about the - the e. h versus like the a. h and the u. h .__cb
+__s__that's partly a nonnative-native thing .__c5
+__fh__@@ .__cb
+__fh__but i have found e. h in native speakers too .__c5
+__s__okay .__cb
+__s__but it's mostly non native .__c5
+__s__s- - okay .__cb
+__s__h.  ==__c1
+__s^e__that's uh versus uh ?__c2
+__s__uh .__c5
+__s^e__uh .__c4
+__s__uh | yeah right .__cb
+__s__because there were - were some speakers that did definite uh's .__cb
+__s^e__uhhuh .__c5
+__s__but right now we ==__cb
+__s__they were the canadians | right ?__c2
+__s^e__canadians | yeah yeah yeah .__c8
+__s^df.%--__that's right .__c5
+__s__so it - it's actually probably good for us to know the difference between the real uh and the one that's just like uh or transcribed ah .__cb
+__s^df__exactly .__c5
+__s__because in - like in switchboard you would see e- - all of these forms .__cb
+__s__but they all were like uh .__cb
+__s__you mean just the single letter a as in the particle ?__c4
+__s^bsc__the transcription or ==__c1
+__s^e__no no | i mean like the - the u. h .__cb
+__s__article .__c4
+__s__u. h .__c5
+__s__oh .__c4
+__s__or - the u. h e. h a. h were all the same .__cb
+__s^cs__and then we have this additional non native version of uh like eeh .__cb
+__s__all the e. h s i've seen have been like that .__c3
+__s^e__they've been like uh ==__c3
+__s__like that have bee- - has been transcribed to e. h .__c3
+__s__uhhuh | that's right .__c5
+__s^cs__and sometimes it's stronger .__c3
+__s^df__like eeh which is like closer to e. h .__c3
+__s__huh .__c5
+__s^e__right .__cb
+__s^f__but ==__c3
+__s__yeah .__c5
+__fh__i'm just - these poor transcribers they're going to hate this meeting .__c4
+__s__i know .__c3
+__s^cs__we should go off line .__c3
+__s^e__well we're not doing - we're not doing length .__c5
+__s^e__quick thilo do a - do a filled pause for us .__c8
+__s^e__yeah | that's right .__c5
+__s^df__ooo no .__c1
+__s__but you're a native german speaker .__cb
+__s__so it's not a - not a issue for ==__cb
+__s__yeah .__c1
+__s^rt__it's only ==__cb
+__s__@@ them canadians .__c4
+__s__onl- ==__cb
+__b__yeah .__cb
+__s^df__no | only if you don't have lax vowels i guess .__cb
+__s:s__right ?__cb
+__s__so it's - like japanese and spanish .__cb
+__s__oh .__c4
+__s^cs__this makes sense .__c5
+__s^bd__yeah | i - i think you've ==__c5
+__s^df__uhhuh yeah .__c5
+__s__and ==__cb
+__s^bk__uhhuh .__c8
+__s^bu__oh i see .__c4
+__s^bk|s^df__that makes sense .__c5
+__h__i didn't get that .__c4
+__s^bk__okay .__c4
+__s__yeah and so | you know i mean th- - th- - i have - there are some um americans who - who are using this uh too .__c5
+__s^bk__and i haven't listened to it systematically .__c5
+__s^e.%--__maybe with some of them uh they'd end up being uh's .__c5
+__s^bk|s^cs^rt__but uh i- - my spot checking has made me think that we do have uh in also um american e- - e- - data represented here .__c5
+__s^df__but ==__c5
+__s^bk^rt__any case that's the - this is reduced down from really quite a long- - a much longer list .__c5
+__s__yeah | this is great .__cb
+__s.%--__and this is ==__c5
+__s__uhhuh .__c3
+__s^bk__yeah | it's good .__c4
+__s__this is really really helpful .__cb
+__b__yeah .__c4
+__s^bk__functionally pretty you know also ==__c5
+__qy^d^f^g__it was fascinating i was listening to some of these uh i guess two nights ago .__c5
+__s__and it's just hilarious to liste- - to - to do a search for the uhhuh's .__c5
+__s.%-__and you get uhhuh .__c5
+__qy^bu^d^rt__and diff- - everybody's doing it .__c5
+__qrr.%--__and just listen to them .__c4
+__s^na__yeah .__c4
+__s^bk__just - i wanted to say - i w- - think it would be fun to make a montage of it .__c5
+__qy^d^f^g^rt__because there's a uhhuh .__c5
+__s__uhhuh .__c5
+__s.%--__uhhuh .__c5
+__s__performance art .__c4
+__s__just extract them all .__c4
+__s__right .__cb
+__s__it's really - it's really fun to listen to .__c5
+__s__morgan can make a song out of it .__c2
+__fh|s.%--__all these different vocal tracts you know .__c5
+__s^bk__but it's - it's the same item .__c5
+__s^df__it's very interesting .__c5
+__s__okay .__c5
+__s__uh then the acronyms .__c5
+__s^bk^m__y- - and the ones in parentheses are ones which the transcriber wasn't sure of .__c5
+__s__and i haven't been able to listen to to - to clarify .__c5
+__s^e__oh i see .__c4
+__s__but you can see that the parenthesis convention makes it very easy to find them .__c5
+__b__o- ==__c4
+__s.%-__because it's the only place where - where they're used .__c5
+__qw^rt__how about question mark ?__c4
+__s.%--__the question marks | yeah .__c1
+__s^r__question mark is punctuation .__c5
+__s^r__what are those ?__c1
+__s__so it - they said that @@ .__c5
+__s^nd|s__oh .__c4
+__s^e__uhhuh .__c3
+__s__um d. c .__c5
+__s__so they - so it's p. l. p .__c4
+__s^r__uh .__c1
+__s^bk|s__exactly .__c5
+__s^ar__exactly .__c5
+__s__yeah | so the only ==__c5
+__s^nd__well and i do have a stress marker here .__c5
+__%--__sometimes the contrastive stress is showing up .__c5
+__s__and um ==__c5
+__s__i'm sorry i - i got lost here .__c8
+__qy^bu^d^rt__what- - w- - what's the difference between the parenthesized acronym and the non-parenthesized ?__c8
+__s^ar__the parenthesized is something that the transcriber thought was a. n. n but wasn't entirely sure .__c5
+__s^no__so i'd need to go back or someone needs to go back and say you know yes or no .__c5
+__s^cs.%--__uh .__c8
+__s^no__right .__cb
+__s^bk__and then get rid of the parentheses .__c5
+__s__but the parentheses are used only in that context in the transcripts of - of noti- - noticing that there's something uncertain .__c5
+__s__yeah p. make is ==__c4
+__s__yeah i mean because they - they have no idea .__cb
+__s__that's a good one .__c4
+__s^df__that's correct .__c4
+__s^df__right .__cb
+__s__if you hear c. t. p. d i mean they do pretty well .__cb
+__s^e__yeah .__c8
+__b__uhhuh .__c3
+__b__but it's ==__cb
+__fh__i - i don't recognize a lot of these .__c8
+__s__you know how are - how are they going to know ?__cb
+__qw__i know .__c4
+__qw^br^rt__i ==__c8
+__qw^r__i - i was saying that i think a lot of them are the networks meeting .__c4
+__s__yeah .__c3
+__qw__i think that's true .__c5
+__s__maybe .__c8
+__s^bk__yeah absolutely .__c5
+__s__yeah .__cb
+__s^cc__n. s. a .__c5
+__s__i see a few .__c4
+__s^fa__a lot of these are - are coming from them .__c5
+__s^cs__i listened to some of that .__c5
+__fh__although i see - i see plenty of uh ==__c4
+__s__yeah | we don't have that many acronyms comparatively in this meeting .__c3
+__s__yeah .__c5
+__s__yeah | i agree .__c5
+__s__it's not so bad .__c3
+__fh|s__right .__cb
+__s__and robustness has a fair amount .__c5
+__s__but the n. s. a group is just very very many .__c5
+__s__yeah .__c1
+__s^e__huh .__c3
+__s__the recognizer it is funny .__cb
+__s__kept getting p. t. a for p. d. a .__cb
+__s__this is close .__cb
+__s^e__yeah .__c8
+__s__yeah that's pretty close .__c4
+__s__right .__cb
+__s__and the p. t. a was in these uh topics about children .__cb
+__s__that's not bad .__c3
+__s^e__yeah .__c5
+__s__so anyway ==__cb
+__s__that's interesting .__c5
+__s__is the p.  - p. t. a working .__cb
+__s^bk^rt__right | and sometimes i mean you see a couple of these that are actually okay's .__c5
+__s^ft__so it's - it's - may be that they got to the point where - i mean it was low enough understandable ==__c5
+__s__understandability that they weren't entirely sure the person said okay .__c5
+__s^bk|%-__you know so it isn't really necessarily a - an undecipherable acronym .__c5
+____but just n- - needs to be double checked .__c5
+__z__there's a lot of okay's .__c3
+____now we get to the comments .__c5
+____the number to the left is the number of incidences ?__c8
+____this ==__c5
+____count .__c4
+__s^bk|s^ft__number of times out of the entire database .__c5
+__s^cs__yep .__c4
+__s__uhhuh .__c8
+__fh__w- - except for that last thirty minutes i haven't checked yet .__c5
+__s__so c. t. s is really big here .__c8
+__s__yeah | i wonder what it is .__c4

@@ -1,0 +1,589 @@
+__s__okay .__c4
+__s^bk__so uh ==__c4
+__qr^rt__you can fill those out uh - after actually .__c4
+__s__so ==__c4
+__fg|s^tc.%--__so i got uh - these results from uh - stephane .__c4
+__s.%-__also um - i think that uh - um - we might hear later today about other results .__c4
+__s^co__i think s- - that uh - there were some other very good results that we're going to want to compare to .__c4
+__fg__but | r- - our results from other - other places .__c4
+__qy^rt__yeah .__c4
+__qy^na^rt__i- - i'm sorry ?__c1
+__s^aa__i didn't ==__c1
+__s^cc__um - | i got this from you .__c4
+__s^bk__yeah .__c1
+__s__and then i sent a note to sunil about - because he has been running some other systems .__c4
+__s__other than the - the icsi o g i one .__c4
+__s__uhhuh .__c1
+__b__oh yeah .__c1
+__qw__so um - | i wan- - want to - want to see what that is .__c4
+__s^bu^rt.%--__but uh - | you know so we'll see what it is comparatively later .__c4
+__s__but | it looks like um ==__c4
+__qr^bu^d^rt.%--__yeah .__c1
+__s^aa__you know most of the time even - i mean even though it's true that the overall number for danish - we didn't improve it .__c4
+__s^aa__if you look at it individually what it really says is that there's um - uh ==__c4
+__s^bk__looks like out of the six cases between the different kinds of uh - matching conditions - out of the six cases there's basically um - a couple where it stays about the same .__c4
+__s^2__uh - | three where it gets better and one where it gets worse .__c4
+__s__yeah .__c1
+__s^co__uh - | go ahead .__c4
+__b__y- - actually uh - um - for the danish there's still some kind of mystery .__c1
+__s^aa__because um - um - when we use the straight features we are not able to get these nice number .__c1
+__b__with the icsi o g i one i mean .__c1
+__b__we don't have this ninety three seventy eight we have ==__c1
+__b__eight- ==__c1
+__%__eighty nine forty four .__c5
+__s__yeah .__c1
+__s^tc.%-__uh - so uh - | that's probably something wrong with the features that we get from o g i .__c1
+__b__uh - | and sunil is working on - on trying to - to check everything .__c1
+__s^co|s^cs__oh .__c4
+__s^bk__and - and we have a little time on that and - actually ==__c4
+__s__so ==__c4
+__b__huh ?__c1
+__s^bk|s__we have a little bit of time on that actually .__c4
+__h|s^bsc__yeah .__c1
+__s^bk__we have a day or so .__c4
+__fg|s^no__so ==__c4
+__%-__when - when - when do you folks leave ?__c4
+__s^fe__uh - | sunday .__c1
+__s__sunday .__c4
+__s^r__so ==__c4
+__s^bk^j__so uh ==__c4
+__fh|s__yeah .__c4
+__s__until saturday midnight or something we have ==__c4
+__b__w- - we - we have time .__c4
+__s__yeah .__c4
+__%-__well that would be good .__c4
+__s.%-__that'd be good .__c4
+__s^bk__yeah .__c1
+__s__yeah .__c4
+__s__uh - | and you know i- - u- - when- - whenever anybody figures it out they should also for sure email hynek .__c4
+__s__because hynek will be over there telling people what we did .__c4
+__s__so he should know .__c4
+__qy^d^f^g__huh .__c1
+__s.%--__good .__c4
+__s__yeah .__c1
+__sj__okay .__c4
+__s^aa__so um ==__c4
+__b.%__so we'll - we'll hold off on that a little bit .__c4
+__sj^ba__i mean even with these results as they are it's - it's - it's really not that bad .__c4
+__s^tc__but - but uh - um ==__c4
+__fh__and it looks like the overall result as they are now even without you know any - any bugs being fixed is that uh - on the - the other tasks we had this average of uh - forty- - uh - nine percent or so improvement .__c4
+__s^cs__and here we have somewhat better than that than the danish and somewhat worse than that on the german .__c4
+__s^bk|qw^rt__but - i mean | it sounds like uh - one way or another the methods that we're doing can reduce the error rate from - from mel cepstrum down by you know - a fourth of them to uh - a half of them .__c4
+__s^co__somewhere in there depending on the exact case .__c4
+__%--__so ==__c4
+__qy^rt.%--__so that's good .__c4
+__s^ar__i mean i think that uh - one of the things that hynek was talking about was understanding what was in the other really good proposals .__c4
+__s^ar__and ==__c4
+__s^co__and trying to see if what should ultimately be proposed is some uh - combination of things .__c4
+__qw^rt__um - if uh ==__c4
+__s__because there's things that they are doing there that we certainly are not doing .__c4
+__s^bk__and there's things that we're doing that they're not doing .__c4
+__sj^ba__and - and they all seem like good things .__c4
+__s__yeah .__c1
+__s^cs__huh yeah .__c5
+__qw^ng^rt__so ==__c4
+__fg__so ==__c4
+__s^bu.%--__how much - how much better was the best system than ours ?__c3
+__s__well we don't know yet .__c4
+__s^e__huh .__c3
+__s^cs__uh - | i mean first place there's still this thing to - to work out .__c4
+__s^cs__and second place - second thing is that the only results that we have so far from before were really development set results .__c4
+__s^cs__oh okay .__c3
+__s__so i think in this community that's of interest .__c4
+__s^df__it's not like everything is being pinned on the evaluation set .__c4
+__s^bk__but um - | for the development set our best result was a little bit short of fifty percent .__c4
+__b__and the best result of any system was about fifty four .__c4
+__qy^d^f^g.%__where these numbers are the uh - relative uh - reduction in uh - word error rate .__c4
+__s__oh .__c3
+__b__okay .__c3
+__s^bk__and um - | the other systems were uh - somewhat lower than that .__c4
+__fg|s__there was actually - there was much less of a huge range than there was in aurora one .__c4
+__s__in aurora one there were - there were systems that ba- - basically didn't improve things .__c4
+____huh .__c3
+__s__and here the - the worst system still reduced the error rate by thirty three percent or something in development set .__c4
+____oh wow !__c3
+____so - | so you know sort of everybody is doing things between well roughly a third of the errors and half the errors being eliminated uh - and varying on different test sets and so forth .__c4
+__s__uhhuh .__c3
+__s^by__so i think ==__c4
+__s__um | it's probably a good time to look at what's really going on and seeing if there's a - there's a way to combine the best ideas .__c4
+__s^bk__while at the same time not blowing up the amount of uh - resources used .__c4
+__b__because that's - that's critical for this - this test .__c4
+__s^no__do we know anything about ?==__c3
+__s__who- - who's was it that had the lowest on the dev set ?__c3
+__s^fe.x__um - uh | the - uh the- - there were two systems that were put forth by a combination of - of uh - french telecom and alcatel .__c4
+__fh|s^tc__and um - | they - they differed in some respects .__c4
+__b__but they e- - them- - one was called the french telecom alcatel system the other was called the alcatel french telecom system uh - which is the biggest difference i think .__c4
+__b__but - but there're - there're - there're some other differences too .__c4
+__s__uh - | and - and uh - they both did very well .__c4
+__qy^rt__uhhuh .__c3
+__fg|qo__you know .__c4
+__s^ft__so um - | my impression is they also did very well on - on the - the uh - evaluation set .__c4
+__s__but um - | i - i - we haven't seen ==__c4
+__qw__you've - you haven't seen any final results for that .__c4
+__s^fe__yeah ?__c4
+__s__and they used - the main thing that - that they used was spectral subtraction ?__c3
+__h|s__or ?==__c3
+__s^aa|s^e__there is a couple pieces to it .__c4
+__fh__there's a spectral subtraction style piece - it was basically you know wiener filtering .__c4
+__fg|s.%-__and then - then there was some p- - some modification of the cepstral parameters where they ==__c4
+__fg__yeah .__c1
+__s__actually something that's close to cepstral mean subtraction .__c1
+__s__but uh - | the way the mean is adapted um - it's signal dependent .__c1
+__s__i'm uh ==__c1
+__s__so basically the mean is adapted during speech and not during silence .__c1
+__b__yeah .__c4
+__qr^rt__but it's very close to - to cepstral mean subtraction .__c1
+__h|s__but some people have done exactly that sort of thing .__c4
+__s__of - of - and the - i mean it's not to - to look in speech only to try to - to measure these things during speech .__c4
+__s__yeah .__c1
+__s__yeah .__c1
+__s__that's p- - that's not that uncommon .__c4
+__s__but i- - it - it - so it looks like they did some - some uh - reasonable things .__c4
+__s^bu__uh - | and they're not things that we did precisely .__c4
+__s^aa__we did unreasonable things which - because we like to try strange things .__c4
+__%-__and - and uh - and our things worked too .__c4
+__qr^rt__huh .__c3
+__s__and so um ==__c4
+__s__uh - | it's possible that some combination of these different things that were done would be the best thing to do .__c4
+__s__but the only caveat to that is that everybody's being real conscious of how much memory and how much c p u they're using .__c4
+__s__because these uh - standards are supposed to go on cell phones with m- - moderate resources in both respects .__c4
+__%-__uhhuh .__c3
+__b__did anybody uh - do anything with the models as a- - an experiment ?__c3
+__qy__or ?==__c3
+__h|s^no__uh - | they didn't report it if they did .__c4
+__qy^rt__n- - nobody reported it ?__c3
+__s^aa__yeah .__c4
+__h|qw^rt__i think everybody was focused elsewhere .__c4
+__h|s^no__um - | now one of the things that's nice about what we did is we do have a - a - uh - a filtering which leads to a - a - uh - a reduction in the bandwidth in the modulation spectrum which allows us to downsample .__c4
+__s__so uh - | as a result of that we have a reduced um - transmission rate for the bits .__c4
+__s^na__uhhuh .__c3
+__fh__that was misreported the first time out .__c4
+__b__it - it said the same amount because for convenience sake in the particular way that this is being tested uh - they were repeating the packets .__c4
+__s__so it was - they were s- - they - they had twenty four hundred bits per second but they were literally creating forty eight hundred bits per second um - even though y- - it was just repeated .__c4
+__b__oh .__c3
+__s__uhhuh .__c3
+__b__right .__c3
+__fh__so uh - | in practice ==__c4
+__s__so you could've had a repeat count in there or something .__c3
+__s^aa|s:s__well n- - i mean this was just a ph- - phoney thing just to - to fit into the - the software that was testing the errors - channel errors and so on .__c4
+__s^bk__oh .__c3
+__%-__so ==__c4
+__b__oh .__c3
+__fh__so in reality if you put this - this system in- - into uh - the field it would be twenty four hundred bits per second not forty eight hundred .__c4
+__b__so ==__c4
+__fh__um - | so that's a nice feature of what - what we did .__c4
+__s__um ==__c4
+__s^rt__but um - | well we still have to see how it all comes out .__c4
+__s__huh .__c3
+__s__um - | and then there's the whole standards process which is another thing altogether .__c4
+__s__when is the development set - i mean the uh - uh - test set results due ?__c3
+__s__like the day before you leave or something ?__c3
+__s^cs__uh - probably the day after they leave .__c4
+__s^am__but we'll have to - we'll have to stop it the day before we leave .__c4
+__s.%--__yeah yeah .__c1
+__s^nd__so ==__c1
+__qy^d^g^rt__huh .__c3
+__s__i think tha- - i think the - the meeting is on the thirteenth or something .__c4
+__s__yeah .__c1
+__s__this tuesday .__c1
+__s__yeah .__c1
+__fh|s__and uh ==__c4
+__s__they uh ==__c4
+__b__right .__c4
+__s__and | the - the uh - results are due like the day before the meeting or something .__c4
+__s__so ==__c4
+__qy__yeah .__c1
+__s^aa__probably .__c1
+__s^nd.%-__well ==__c1
+__s^df^rt__i th- - i think - i - i think they are .__c4
+__s^am.%--__yeah well ==__c1
+__qy^d^f^g^rt__yeah .__c4
+__s^rt__so um - | since we have a bit farther to travel than some of the others uh - we'll have to get done a little quicker .__c4
+__s__but um - | i mean it's just tracing down these bugs .__c4
+__b__i mean just exactly this sort of thing of you know why - why these features seem to be behaving differently uh - in california than in oregon .__c4
+__qy^d^f^g^rt__uhuh .__c3
+__s^aa__huh .__c3
+__s^ar^bsc.%--__might have something to do with electricity shortage .__c4
+__s^aa^r__uh - | we didn't - we didn't have enough electrons here .__c4
+__s__and ==__c4
+__s__uh - but um ==__c4
+__s__uh - | i think you know the main reason for having ==__c4
+__s__i mean it only takes w- - to run the - the two test sets in - just in computer time is just a day or so .__c4
+__b__right ?__c4
+__sj__so ==__c4
+__fh__yeah .__c1
+__b__it's very short interval .__c1
+__h|s^cs^tc__yeah .__c4
+__b__so i think the who- - the whole reason for having as long as we have which was like a week and a half is - is because of bugs like that .__c4
+__b__so ==__c4
+__s^cs.%--__huh .__c4
+__s__so | we're going to end up with these same kind of sheets that have the - the percentages and so on just for the ?==__c4
+__s__yeah | so there are two more columns in the sheets too .__c1
+__b__oh i guess it's the same sheets .__c4
+__b__yeah .__c4
+__s__yeah .__c1
+__s^e__it's the same sheets .__c1
+__s^bk^fe__yeah .__c4
+__b__just with the missing columns filled in .__c4
+__qr^bu^rt.%--__yeah .__c1
+__s^aa^m__yeah .__c1
+__fh|s__yeah .__c4
+__s__well that'll be good .__c4
+__b__so i'll dis- - i'll disregard these numbers .__c4
+__fh__that's - that's - that's good .__c4
+__b__so hynek will try to push for trying to combine uh - different things ?__c1
+__sj^bd__or ?==__c1
+__qy^bu^rt__uh - | well that's um ==__c4
+__qy^rt__huh ==__c1
+__s__yeah ==__c4
+__sj__i mean i think the question is is there - is there some advantage .__c4
+__%--__i mean you could just take the best system and say that's the standard .__c4
+__s^bk__but the thing is that if different systems are getting at good things um - a- - again within the constraint of the resources if there's something simple that you can do .__c4
+__s__now for instance uh - it's i think very reasonable to have a standard for the terminal's side and then for the server's side say here's a number of things that could be done .__c4
+__s^bk|s^bu__so um - | everything that we did could probably just be added on to what alcatel did .__c4
+__s^aa__and i- - it'd probably work pretty well with them too .__c4
+__s^aa__so ==__c4
+__fg__um - uh - | that's one - one aspect of it .__c4
+__s__and then on the terminal's side i don't know how much um - memory and - and c p u it takes but it seems like the filtering uh ==__c4
+__b__i mean the v a d stuff they both had .__c4
+__s^bk__right ?__c4
+__b__and um - so - | and they both had some kind of online normalization .__c4
+__s^bk__right ?__c4
+__s^ng__uh - | yeah .__c1
+__b__of sorts .__c4
+__s__yeah ?__c4
+__s__so ==__c4
+__s__so it seems like the main different there is the - is the uh - filtering .__c4
+__s__and the filtering - i think if you can ==__c4
+__b__it shouldn't take a lot of memory to do that uh - and i also wouldn't think the c p u uh - would be much either for that part .__c4
+__s__so if you can - if you can add those in um - then uh - you can cut the data rate in half .__c4
+__s__yeah .__c1
+__s__so it seems like the right thing to do is to - on the - on the terminal's side take what they did if it - if it does seem to generalize well to german and danish .__c4
+__b__uh - | take what they did add in a filter and add in some stuff on the server's side .__c4
+__b__and - and - and that's probably a reasonable standard .__c4
+__s^df__um uh ==__c4
+__s__they are working on this already ?__c1
+__b__because - yeah su- - sunil told me that he was trying already to put some kind of uh - filtering in the france telecom .__c1
+__s:s__yeah | so that's - that's - that's what ==__c4
+__b__that would be ideal - would be is that they could you know they could actually show that in fact a combination of some sort uh - would work even better than what - what any of the systems had .__c4
+__qy^rt__and um - | then it would - it would uh - be something to - to discuss in the meeting .__c4
+__s__but uh - | not clear what will go on .__c4
+__sj^ba__um - | i mean on the one hand um - sometimes people are just anxious to get a standard out there .__c4
+__s^aa__i mean you can always have another standard after that .__c4
+__b__but this process has gone on for a while on - already .__c4
+__s^na.%-__and - and people might just want to pick something and say okay this is it .__c4
+__s.%--__and then that's a standard .__c4
+__s__uh - | standards are always optional .__c4
+__b__it's just that uh - if you disobey them then you risk not being able to sell your product .__c4
+__fg__or uh - um ==__c4
+__s__and people often work on new standards while an old standard is in place and so on .__c4
+__qy^bu^d^rt__so it's not final even if they declared a standard .__c4
+__s^aa__the other hand they might just say they just don't know enough yet to - to declare a standard .__c4
+__s^bk__so ==__c4
+__s__you - you - you will be- - you will become experts on this and know more - far more than me about the - tha- - this particular standards process once you - you go to this meeting .__c4
+__s__so ==__c4
+__s^bk__be interested in hearing .__c4
+__s__so uh - | i'd be uh - interested in hearing uh - your thoughts now .__c4
+__b__i mean you're almost done .__c4
+__b__i mean you're done in the sense that um - you may be able to get some new features from sunil and we'll re run it .__c4
+__%-__uh - | but other than that you're - you're basically done .__c4
+__s__right ?__c4
+__s^aa^m__so uh - | i'm interested in hearing - hearing your thoughts about where you think we should go from this .__c4
+__s.%--__yeah .__c1
+__s^cs__i mean we tried a lot of things in a hurry .__c4
+__b__and uh - | if we can back off from this now and sort of take our time with something and not have doing things quickly be quite so much the constraint what - what you think would be the best thing to do .__c4
+__s__uh - well ==__c1
+__s^am__huh ==__c1
+__b__well first uh - to really have a look at - at the speech from these databases .__c1
+__s^arp^ng__because well we tried several thing .__c1
+__s^nd__but we did not really look at what- - what's happening and where is the noise and ==__c1
+__s__okay .__c4
+__s__uh ==__c1
+__b__it's a novel idea .__c4
+__fh__look at the data .__c4
+__s^bk__okay .__c4
+__s^cs__yeah .__c1
+__s^aa__or more generally i guess what - what is causing the degradation .__c4
+__s^cs__yeah .__c1
+__s^cs^e__yeah .__c1
+__b__actually there is one thing that - well um - generally we - we think that most of the errors are within phoneme classes .__c1
+__qy^d^g^rt__and ==__c1
+__s^aa^m__so i think it could be interesting to - to see if it - i don't think it's still true when we add noise .__c1
+__s.%--__and | so we have - i - i guess the confusion ma- - the confusion matrices are very different when - when we have noise and when it's clean speech .__c1
+__s__and probably there is much more between classes errors for noisy speech .__c1
+__s.%--__uhhuh .__c4
+__b__and so um ==__c1
+__s:s__yeah | so perhaps we could have a - a large gain uh - just by looking at improving the uh - recognition not of phonemes but of phoneme classes simply .__c1
+__b__uhhuh .__c4
+__b__and | which is a s- - a s- - a simpler problem perhaps but - which is perhaps important for noisy speech .__c1
+__s:s__the other thing that strikes me just looking at these numbers is just taking the best cases .__c4
+__b__i mean some of these of course even with all of our - our wonderful processing still are horrible kinds of numbers .__c4
+__fg__but just take the best case the well matched uh - german case after - uh - well matched danish after we ==__c4
+__s.%--__uhhuh .__c1
+__s^aa__the kind of numbers we're getting are about eight or nine uh - p- - percent error per digit .__c4
+__s__uhhuh .__c1
+__qy^d^g__yeah .__c1
+__s^aa__this is obviously not usable .__c4
+__s^aa__right ?__c4
+__sj__no .__c1
+__s__i mean if you have ten digits for a phone number i mean every now and then you'll get it right .__c4
+__s.%--__sure .__c1
+__s__i mean it's - it's uh - um ==__c4
+__s__so | i mean the other thing is that uh ==__c4
+__s^nd__and - and - a- - and - and also um - part of what's nice about this is that this is uh - um - a realistic - almost realistic database .__c4
+__fh__i mean it's still not people who are really trying to accomplish something .__c4
+__s^bk__but - but uh - within the artificial setup it isn't noise artificially added you know simulated uh - additive noise .__c4
+__s^aa__uhhuh .__c1
+__fh__it's real noise condition .__c4
+__s.%--__and um - | the - the training - the training i guess is always done on the close talking ?__c4
+__s__no .__c1
+__b__actually - actually the well matched condition is still quite di- - still quite difficult .__c1
+__fh__no ?__c4
+__qo^tc__i mean it's - they have all these data from the close mike and from the distant mike from different driving condition open window closed window .__c1
+__s__yeah .__c4
+__b__and they take all of this .__c1
+__fh|s__and they take seventy percent i think for training and thirty percent for testing .__c1
+__b__uhhuh .__c5
+__b__so | training is done on different conditions and different microphones .__c1
+__s__and testing also is done on different microphone and conditions .__c1
+__b__so | probably if we only take the close microphones i guess the results should be much much better than this .__c1
+__s__i see .__c4
+__s__huh .__c1
+__s__oh okay .__c4
+__s__that explains it partially .__c4
+__s^e__uh ==__c1
+__s__wha- - what about ?==__c4
+__s^aa__i- - in - so the - the ==__c4
+__s^bc__yeah .__c1
+__s^bk^m__so - |  there is this the mismatched is um - the same kind of thing .__c1
+__s^fa|s^r__go ahead .__c4
+__b__but the driving conditions i mean the speed and the kind of road is different for training and testing .__c1
+__s^bs__is that right ?__c1
+__b__yeah .__c5
+__s__and the last condition is close microphone for training and distant for testing .__c1
+__fg__yeah .__c1
+__s^nd__uh - | okay .__c4
+__s^bk|s__so ==__c4
+__s^bk__so - s- - so ==__c1
+__s__i see .__c4
+__b__so yeah .__c4
+__s.%-__so the high - so the right - so the highly mismatched case is in some sense a good model for what we've been you know typically talking about when we talk about additive noise in ==__c4
+__fg|s__and so - | and i- - i- - k- - it does correspond to a realistic situation in the sense that um - people might really be trying to uh - call out telephone numbers or some- - or something like that in - in their cars .__c4
+__fh__yeah .__c1
+__b__and they're trying to connect to something .__c4
+__s__huh .__c1
+__s^bk__um ==__c4
+__s__actually | yeah it's very close to clean speech training because - well - because the close microphone and noisy speech testing .__c1
+__s^bs__yeah .__c4
+__s^bk__yeah .__c4
+__s__yeah .__c4
+__b__yeah .__c1
+__s^aa|s^cc__huh .__c1
+__s__and the well matched condition is what you might imagine that you might be able to approach if you know that this is the application .__c4
+__b__you're going to record a bunch on people in cars and so forth and do these training .__c4
+__b__and then uh - when y- - you sell it to somebody they will be a different person with a different car and so on .__c4
+__b__so it's - this is a- - an optim- - somewhat optimistic view on it .__c4
+__b__uh - | so you know the real thing is somewhere in between the two .__c4
+__s^bu__uh ==__c4
+__s^bu.%--__yeah .__c1
+__qr^rt.%--__uh - | but ==__c4
+__s^rt__but | the - i mean the - th- - th- ==__c1
+__qy^d^g^rt__even the optimistic one is ==__c4
+__s^bu^rt__it doesn't work .__c1
+__s^nd__yeah .__c4
+__s^bu^rt__right .__c4
+__qr.%--__it ==__c1
+__s__right .__c4
+__s__it doesn't work .__c4
+__s^nd.%--__so in a way that's you know that's sort of the dominant thing .__c4
+__s__is that even say on the development set stuff that we saw the - uh - the numbers that - uh - that alcatel was getting when choosing out the best single numbers it was just - you know it wasn't good enough for - for a - a - for a real system .__c4
+__b__huh .__c1
+__s^bk__uhhuh .__c1
+__s__you - you ==__c4
+__s^2.%-__um ==__c4
+__qw^rt__so uh - | we still have stuff to do .__c4
+__s__yeah .__c1
+__s^bk|s__uh - and uh ==__c4
+__%-__i don't know .__c4
+__s^ar|s^bc__so | looking at the data where you know what's the - what's - what's th- - what's characteristic .__c4
+__s__i- - e- - yeah i think that's - that's a good thing .__c4
+__s^bk__does any- - you have any thoughts about what else y- - you're thinking that you didn't get to that you would like to do if you had more time ?__c4
+__s__uh ==__c4
+__s__oh f- - a lot of those thing .__c5
+__s__because we trying a lot of s- - thing .__c5
+__s__and we doesn't work we remove these .__c5
+__s.%-__maybe we trying again with the articulatory feature .__c5
+__s^aa|s.%-__i don't know exactly .__c5
+__b__because we tried - we - some - one experiment that doesn't work .__c5
+__s^co__um - | forgot it something i don't know exactly .__c5
+__s.%--__uhhuh .__c4
+__s__because maybe do better some step the general uh - diagram .__c5
+__s__uhhuh .__c4
+__s^ar__i don't know exactly s- - to think what we can improve .__c5
+__qy^rt__yeah because a lot of time it's true .__c4
+__s.%--__there were a lot of times when we've tried something and it didn't work right away even though we had an intuition that there should be something there .__c4
+__s^bd__and so then we would just stop it .__c4
+__s__um ==__c4
+__s__and uh - | one of the things i don't remember the details on but i remember at some point when you were working with a second stream and you tried a low pass filtering to cepstrum in some case you got ==__c4
+__s^bsc^t1__m s g yeah .__c5
+__qy^d^g__well but it was an m s g like thing but it wasn't m s g .__c4
+__s__right ?__c4
+__s__uh - | you - y- - i think in some case you got some little improvement .__c4
+__fh__but it was you know sort of a small improvement .__c4
+__b__and it was a - a big added complication so you dropped it .__c4
+__s^t1__but um - | that was just sort of one try .__c4
+__qw__right ?__c4
+__s__you just took one filter threw it there .__c4
+__b__yeah .__c1
+__b__right ?__c4
+__b__and it seems to me that um - if that is an important idea which you know might be that one could work at it for a while as you're saying .__c4
+__s^no__huh .__c1
+__qw__and uh ==__c4
+__s__uh - | and you had you know you had the multi band things also and you know there was issue of that .__c4
+__s^bk^m__yeah .__c1
+__s:s__uhhuh .__c5
+__qy^d^f^g__um - | barry's going to be uh - continuing working on multi band things as well .__c4
+__s^e__we were just talking about um - some uh - some work that we're interested in .__c4
+__b__kind of inspired by the stuff by larry saul with the uh - uh - learning articulatory feature in - i think in the case of his paper - with sonorance based on uh - multi band information where you have a - a combination of gradient learning an- - and uh - e m .__c4
+__s.%--__uhhuh .__c1
+__s__um - and - um ==__c4
+__b__so | i think that you know this is a uh - this is a neat data set .__c4
+__b__um - | and then uh - as we mentioned before we also have the - the new uh - digit set coming up from recordings in this room .__c4
+__b__so | there's a lot of things to work with .__c4
+__s__um ==__c4
+__s^aa__and uh ==__c4
+__s__what i like about it in a way is that uh - the results are still so terrible .__c4
+__b__uh uh | i mean they're much better than they were you know .__c4
+__b__we're talking about thirty to sixty percent uh - error rate reduction .__c4
+__s^cs__that's - that's really great stuff to - to do that in relatively short time .__c4
+__b__but even after that it's still you know so poor that - that uh - no one could really use it .__c4
+__s__so um ==__c4
+__s__i think that's great that - because - and y- - also because again it's not something ==__c4
+__s.%--__sometimes we've gotten terrible results by taking some data and artificially you know convolving it with some room response or something .__c4
+__s^aa__and we take a very ==__c4
+__sj^ba__uh - | at one point uh - brian and i went downstairs into the - the basement where it was - it was in a hallway where it was very reverberant .__c4
+__b__and we - we made some recordings there .__c4
+__qw^rt__and then we - we uh - uh - made a simulation of the - of the room acoustics there and - and applied it to other things .__c4
+__s__uhhuh .__c1
+__%-__and uh ==__c4
+__s^e__but it was all pretty artificial .__c4
+__s__and - and you know how often would you really try to have your most crucial conversations in this very reverberant hallway .__c4
+__s__um so ==__c4
+__s^e__uh - | this is what's nice about the aurora data and the data here is that - is that it's sort of a realistic room situation uh - acoustics - acoustic situation both terms in noise and reflections and so on .__c4
+__s^e__and n- - n- - and uh ==__c4
+__fh__uh - | with something that's still relatively realistic it's still very very hard to do very well .__c4
+__s^aa__so ==__c4
+__qw^rt__yeah .__c4
+__qy^bu^d^rt__yeah .__c1
+__s^aa__so d- ==__c1
+__s__well ==__c1
+__s^bk__actually this is - tha- - that's why we ==__c1
+__qy^d^g__well it's a different kind of data .__c1
+__s^bk|s__we're not - we're not used to work with this kind of data .__c1
+__qy^d^g__yeah .__c4
+__s__that's why we should have a loo- - more closer look at what's going on .__c1
+__s__uhhuh .__c5
+__s^ng__um ==__c1
+__s^bk__yeah .__c1
+__sj__so this would be the first thing .__c1
+__s^co__and then of course try to - well kind of debug what was wrong uh - when we do aurora test on the m s g particularly and on the multi band .__c1
+__sj^nd__yeah .__c4
+__s__yeah .__c4
+__s^cs__yeah .__c4
+__b__uh ==__c1
+__sj__yeah .__c4
+__b__yeah .__c4
+__s^cs__no i - i think there's lots of - lots of good things to do with this .__c4
+__s__so ==__c4
+__s^e__um ==__c4
+__s__so let's ==__c4
+__fg|s.%-__i guess you were going to say something else ?__c4
+__s^aa__oh okay .__c4
+__s^cs__what do you think ?__c4
+__s^bk__about ?==__c3
+__b__anything .__c4
+__s^no__about other experiments ?__c3
+__s__uh - now i'm interested in um - uh - looking at the experiments where you use um - uh - data from multiple languages to train the neural net .__c3
+__s__and i don't know how far or if you guys even had a chance to try that but that would be some- - it'd be interesting to me .__c3
+__s__yeah | but ==__c1
+__s.%-__s- - b- ==__c4
+__b__again it's the kind of - of thing that uh - we were thin- - thinking - thinking that it would work but it didn't work .__c1
+__s^cc^tc__and uh - | so there is kind of a - of not a bug but something wrong in what we are doing perhaps .__c1
+__qw^br__yeah .__c4
+__s__right .__c3
+__qw__right .__c3
+__qy.%__right .__c3
+__s__uh - | something wrong perhaps in the - just in the - the fact that the labels are ==__c1
+__s__well ==__c1
+__s__uhhuh .__c3
+__s^j__what worked best is the hand labeled data .__c1
+__s__uhhuh .__c3
+__b__um ==__c1
+__s^df.%--__uh - so yeah .__c1
+__qw^rt__i don't know if we can get some hand labeled data from other languages .__c1
+__h|s__yeah .__c3
+__s__it's not so easy to find .__c1
+__s__right .__c3
+__s__but that would be something interesting t- - to - to see .__c1
+__s^bk__yeah .__c3
+__fg|s.%__yeah .__c3
+__b__yeah .__c4
+__b__also uh - | i mean there was just the whole notion of having multiple nets that were trained on different data .__c4
+__s__so one form of different data was - is from different languages but the other ==__c4
+__qw__well | i- - in fact uh - m- - in those experiments it wasn't so much combining multiple nets it was a single net that had different ==__c4
+__b__yeah .__c1
+__fg|s^bu__so first thing is would it be better if they were multiple nets for some reason .__c4
+__qy^d^g__second thing is never mind the different languages just having acoustic conditions rather than training them all up in one .__c4
+__s.%--__would it be helpful to have -have different ones ?__c4
+__h__so um ==__c4
+__sj^cs__that was a question that was kind of raised by mike shire's thesis and on - in that case in terms of reverberation .__c4
+__sj.%-__right ?__c4
+__qw^br__that - that sometimes it might be better to do that .__c4
+__s__but um - | i don't think we know for sure .__c4
+__s^e__so um ==__c4
+__s^bk__right .__c4
+__qw__so next week we uh - won't meet because you'll be in europe .__c4
+__h|s.%--__whe- - when are you two getting back ?__c4
+__s__um - | i'm ==__c5
+__s__you on friday or s- - on saturday ?__c1
+__s__sunday .__c5
+__b__or ?==__c1
+__s__because it's - it's less expensive the price - the price the ticket .__c5
+__s__s- - oh yeah sunday yeah .__c1
+__s^df.%--__yeah that's right .__c4
+__b__oh .__c3
+__s^cs__you've got to s- - have a saturday overnight .__c4
+__sj__right ?__c4
+__fg|s__i'll be back on tuesday .__c1
+__s^df__tuesday .__c4
+__s__where- - where's the meeting ?__c3
+__b__uh - | amsterdam i think .__c4
+__s^cs__yeah amsterdam .__c1
+__b__yeah .__c4
+__sj__uhhuh .__c3
+__s^aa__yeah .__c4
+__qy^d^g__yeah yeah .__c4
+__s__yep .__c4
+__%-__um | so we'll skip next week and we'll meet two weeks from now .__c4
+__s__and uh - | i guess the main topic will be uh - you telling us what happened .__c4
+__s^bk|s^cs__yeah .__c1
+__fh__yeah .__c5
+__s^df__uh - so ==__c4
+__b__yeah .__c4
+__b__well | if we don't have an- - anything else to discuss we should uh - turn off the machine and then say the real nasty things .__c4
+__s__should we do digits first ?__c3
+__b__oh yeah digits .__c2
+__s^cs__oh yeah digits .__c4
+__b__yeah .__c1
+__fh__yeah .__c4
+__s__good point .__c4
+__sj^ba__yeah .__c4
+__sj__good thinking .__c4
+__sj^ba^r__why don't you go ahead ?__c4
+__fh__okay .__c3
+__fh__DIGIT_TASK__c3
+__s^aa__DIGIT_TASK__c4
+__s^na__DIGIT_TASK__c2
+__sj^ba__DIGIT_TASK__c1
+__b__DIGIT_TASK__c5
+__sj.%-__okay .__c3

@@ -1,0 +1,253 @@
+__z__x ==__c1
+__fg__how many batteries do you go through ?__c3
+__fh|s^t__thank you .__c1
+__fh|s__all right .__c2
+__s__sure .__c0
+__s__good .__c2
+__fh|s^t__yeah .__c2
+__s__okay so let's get started .__c2
+__s__nancy said she's coming .__c2
+__s^df__and that means she will be .__c2
+__fh__um | my suggestion is that robert and johno sort of give us a report on last week's adventures uh - to start .__c2
+__fh|s__so everybody knows there were these guys f- - uh - from heidelber- - uh - uh actually from uh - d f k i uh - part of the german smartkom project who were here for the week .__c2
+__s^bk__and i think got a lot done .__c2
+__b__yeah i think so too .__c4
+__s^tc__um ==__c4
+__s^bk__the - we got to the point where we can now speak into the smartkom system and it'll go all the way through and then say something like roman numeral one am smarticus .__c4
+__x__it actually says roemisch einz am smarticus .__c4
+__x__which means it's just using a german synthesis module for english sentences .__c4
+__s__okay .__c1
+__b__okay .__c1
+__s__so uh ==__c4
+__qr^d.%-__it doesn't know i .__c2
+__s^arp__okay .__c1
+__s__um | the uh ==__c4
+__b__oh .__c1
+__s__am spartacus .__c1
+__fh__i am sm- - i am smarticus is what it's saying .__c3
+__s^aap__verstehe .__c1
+__s__right .__c0
+__fh__i gue- ==__c3
+__s__okay .__c1
+__fg__the uh - synthesis is just a question of um - hopefully it's just a question of exchanging a couple of files once we have them .__c4
+__s^tc__and um - | it's not going to be a problem because we decided to stick to the so called concept to speech approach .__c4
+__fh__so i'm - i'm - i'm going backwards now .__c4
+__s__so | synthesis is where you sort of make this - uh - make these sounds .__c4
+__s^rt__and concept to speech is feeding into this synthesis module giving it what needs to be said and the whole syntactic structure .__c4
+__s^e__so it can pronounce things better presumably then just with text to speech .__c4
+__b__uhhuh .__c1
+__%-__and uh - | johno learned how to write x m l tags .__c4
+__s^bu__uh | and did write the tree adjoining grammar for some - some sentences .__c4
+__%-__no ?__c4
+__s^na__right ?__c4
+__b__yeah for a couple ==__c4
+__s^bk__yeah .__c3
+__s^am__so bu- - uh i- - the way the uh - the dialogue manager works is it dumps out what it wants to know or what it wants to tell the person to a - uh in x m l .__c3
+__fh__and there's a conversion system for different uh - to go from x m l to something else .__c3
+__qy^rt__and th- - so the knowledge base for the system that generates the syntasti- - syntactic structures for the ge- - generation is uh - in a lisp like - the knowledge base is in a lisp like form .__c3
+__qrr__and then the thing that actually builds these syntactic structures is something based on prolog .__c3
+__s__so you have a - basically a goal .__c3
+__b__and it you know says okay well i'm going to try to do the greet the person goal .__c3
+__fh__uhhuh .__c1
+__s^bu__so it just starts uh - it binds some variables and it just decides to you know do some subscold .__c3
+__s^am__basically it just means build the tree .__c3
+__s.%--__and then it passes the tree onto uh - the ge- - the generation module .__c3
+__b__okay .__c1
+__s__but i think that the point is that out of the twelve possible utterances that the german system can do we've already written the - the syntax trees for three or four .__c4
+__b__we ==__c3
+__s^na__yeah .__c3
+__b__so the syntax trees are very simple .__c3
+__b__it's like most of the sentences in one tree .__c3
+__fg|s.%--__uhhuh .__c1
+__fg__and instead of you know breaking down to like small units and building back up they basically took the sentences and basically cut them in half or you know into thirds or something like that and made trees out of those .__c3
+__s__and so uh - uh - | tilman wrote a little tool that you could take lisp notation and generate an x m l uh - tree uh - s- - what do ca- - structure from the - from the lisp .__c3
+__fh__and so basically you just say you know noun goes to you know ==__c3
+__s__nah i don't re- - i've never been good at those .__c3
+__s.%--__so there's like the v p goes to n and those things in lisp and it will generate for you .__c3
+__fh__okay .__c1
+__s__n v .__c1
+__b__yeah .__c1
+__s^bk__okay .__c1
+__s__all right .__c1
+__%--__and because we're sticking to that structure the synthesis module doesn't need to be changed so all that f- - fancy stuff .__c4
+__fh__and the texas speech version of it which is actually the simpler version is going to be done in october which is much too late for us .__c4
+__s__so ==__c4
+__fh__this way we - we worked around that .__c4
+__s^rt.%--__the uh - the system um - i can show you the system .__c4
+__s.%--__i actually want - at least maybe you should be able to start it on your own if you want to play around with it in th- - in the future .__c4
+__s__right now it's brittle and you need to ch- - start it up and then make ts- - twenty changes on - on - on - on seventeen modules before they actually can stomach it anything .__c4
+__s__and send in a - a - a couple of side queries on some dummy center set up program so that it actually works .__c4
+__fh|s__because it's designed for this seevit thing where you have the gestural recognition running with this s- - siemens virtual touch screen which we don't have here .__c4
+__s__uhhuh .__c1
+__b__and so we're doing it via mouse .__c4
+__fg|s.%--__but the whole system was designed to work with this thing .__c4
+__b__and it was - it was a lot of engineering stuff .__c4
+__b__no science in there whatsoever .__c4
+__s^na__but it's working now .__c4
+__qw__and um - | that's the good news .__c4
+__qy^bu^d^rt__so everything else actually did prove to be language independent except for the parsing and the generation .__c4
+__s^bk__why i had - i did need to chan- - generate different trees than the german ones .__c3
+__qw__mainly because you know like uh the gerund in - in german is automatically taken care of with just a regular verb .__c3
+__s__you have to switch it on .__c4
+__fh__uhhuh .__c1
+__s^bk__so i'd uh - have to add am walking .__c3
+__s^ar__or i'd have to add a little stem for the am when i build the - built the tree .__c3
+__s.%--__okay .__c1
+__b__okay .__c1
+__s__yeah i noticed that um that some of the examples they had had you know non english word orders and so on .__c1
+__s^bk__you know and then all that good stuff .__c1
+__s__so ==__c1
+__s^bk__yeah .__c3
+__s^aa__all right .__c2
+__fg__like ==__c1
+__fh__so it might be worth keith you looking at this .__c2
+__qy^d^rt__yeah .__c1
+__qy^d^rt__um ==__c2
+__qy^d__well tilman s- ==__c3
+__b__i - i still don't - i still don't really understand e- - like ==__c1
+__s^aa__i mean we sort of say um ==__c1
+__b__you know i - i still don't exactly understand sort of the information flow uh in - in this thing or what the modules are and so on .__c1
+__fg__so you know like just that such and such module uh um decides that it wants to achieve the goal of greeting the user .__c1
+__s^aa__and then magically it sort of s- ==__c1
+__s^rt__yeah ==__c2
+__s^bk__i mean how does it know which syntactic structure to pull out and all that ?__c1
+__fh|s__i thi- ==__c2
+__s^bk__yeah .__c2
+__fh|%-__so i think it's not worth going over in the group .__c2
+__s__r- - uh ==__c1
+__s__but sort of when you get free and you have the time uh - either robert or johno or i can walk you through it .__c2
+__qw^br__sure .__c1
+__b__yeah .__c1
+__qw__soon .__c1
+__s__okay .__c1
+__b__and you can ask all the questions about how this all fits together .__c2
+__fh|s__that's fine .__c1
+__fh__it's eee messy .__c2
+__s__but once you understand it you understand it .__c2
+__s__it's - it's - there's nothing really complicated about it .__c2
+__fh__okay .__c1
+__qw^br__no .__c4
+__s__and i remember one thing that - that came up in the talk last wednesday um was this ==__c1
+__b__i - i think he talked about the idea of like um - he was talking about these lexicalized uh - uh tree adjoining grammars where you sort of - for each word you um ==__c1
+__s__okay you know how to do it ?__c3
+__%-__for each lexical item the lexical entry says what all the uh trees are that it can appear in .__c1
+__s__and | of course that's not v- - that's the opposite of constructional .__c1
+__s__that's you know that's - that's h p s g or whatever .__c1
+__fh__right .__c2
+__fh__right .__c2
+__fh__you know ?__c1
+__b__now we're - we're not committed for our research to do any of those things .__c2
+__b__yeah .__c1
+__fg__uhhuh .__c1
+__fg__so uh | we are committed for our funding .__c2
+__b__right .__c1
+__fh__okay ?__c2
+__qy^d__to uh ==__c2
+__s^ar__make our stuff fit to that .__c1
+__s.%--__yeah | to ==__c2
+__s__n- - no | to just get the dem- - get the demos they need .__c2
+__fh__uhhuh .__c1
+__fh__okay ?__c2
+__s.%--__so between us all we have t- - to get th- - the demos they need .__c2
+__b__if it turns out we can also give them lots more than that by you know tapping into other things we do that's great .__c2
+__s^co__you should probably move the microphone closer to your face .__c3
+__fh__uhhuh .__c1
+__fh|qy^rt__but i- - it turns out not to be in an- - any of the contracts .__c2
+__s^ar__there's like a little - the twisty thing you can move it with .__c3
+__qy^bu.%-__okay .__c1
+__qrr.%-__and s- - | deliberately .__c2
+__s^ar__so | the reason i'd like you to understand uh - what's going on in this demo system is not because it's important to the research .__c2
+__s^nd__it's just for closure .__c2
+__s^df^ng__so that if we come up with a question of could we fit this deeper stuff in there or something .__c2
+__s^bk__you know what the hell we- - we're talking about fitting in .__c2
+__s^df^ng__right .__c1
+__%-__okay .__c1
+__s^bk__so it's just uh - in the sam- - same actually with the rest of us .__c2
+__s__we just need to really understand what's there .__c2
+__fh__is there anything we can make use of ?__c2
+__qy^d__uh | is there anything we can give back beyond th- - the sort of minimum requirements ?__c2
+__s^na__but none of that has a short time fuse .__c2
+__b__okay .__c1
+__s^bk__so th- - the demo- - the demo requirements for this fall are sort of taken care of as of later this week or something .__c2
+__b__and then - so it's probably fifteen months or something until there's another serious demo requirement .__c2
+__qy^d^rt__that doesn't mean we don't think about it for fifteen months .__c2
+__s^na__oh okay .__c1
+__s__but it means we can not think about it for six months .__c2
+__s^cc__right .__c1
+__fh__right yeah .__c1
+__s__so | the plan for this summer uh - really is to step back from the applied project .__c2
+__fh|s__right .__c4
+__s__keep the d- - keep the context open but actually go after the basic issues .__c2
+__s^bk__huh .__c1
+__s__oh okay .__c1
+__fh|s__and ==__c2
+__fh|s__so | the idea is there's this uh - other subgroup that's worrying about formalizing the nota- - getting a notation .__c2
+__b__but sort of in parallel with that uh - the hope is tha- - in particularly you will work on constructions in english ge- - and german for this domain .__c2
+__s__uhhuh .__c1
+__fh|s__but y- - not worry about parsing them or fitting them into smartkom or any of the other - anything lik- - any other constraints for the time being .__c2
+__s^bk__yeah .__c1
+__qw^rt__okay .__c1
+__s^no__got it .__c1
+__qy__it's hard enough to get it semantically and syntactically right and then - and get the constructions in their form and stuff .__c2
+__qw__yeah .__c1
+__h__and i don- - i don't want you f- - feeling that you have to somehow meet all these other constraints .__c2
+__s^no__right okay .__c1
+__s__um | and similarly with the parsing uh - we're going to worry about parsing uh - the general case .__c2
+__s.%--__you know construction parser for general constructions .__c2
+__qy__and | if we need a cut down version for something or whatever we'll worry about that later .__c2
+__qrr.%--__okay .__c1
+__s^aa__so i'd like to for the summer turn into science mode .__c2
+__%--__okay .__c1
+__b__and i assume that's also uh - your plan as well .__c2
+__s^no__right .__c2
+__fh|s__so i mean | the - the point is that like the meetings um so far that i've been at have been - sort of been geared towards this demo .__c1
+__fh|s__yeah .__c2
+__s^cs__yeah .__c2
+__fh__but - but we- - we're swit- ==__c2
+__s__and then that's going to go away pretty soon .__c1
+__fh|s__right .__c2
+__fh|s.%--__okay .__c1
+__fh__and then we'll sort of shift gears a- - fairly substantially .__c1
+__s^fe__yeah .__c2
+__s__it's ==__c4
+__s.%-__yeah .__c2
+__fg__it's got ==__c4
+__b__huh ?__c1
+__s^arp__yeah .__c2
+__s__what i - what i think is - is a good idea that i can - can show to anyone who's interested .__c4
+__s__we can even make a - sort of an internal demo .__c4
+__%-__and i - i show you what i do .__c4
+__s^bk__uhhuh .__c1
+__s.%--__i speak into it and you hear it talk .__c4
+__b__okay .__c1
+__fg__and i can sort of walk f- - through the information .__c4
+__s__so this is like in half hour or forty five minutes .__c4
+__fg__just fun .__c4
+__b__okay .__c1
+__s__and so you - when somebody on the streets com- - comes up to you and asks you what is smartkom so you can sort of give a sensible answer .__c4
+__s.%--__right .__c1
+__b__okay .__c1
+__b__so c- - sh- - we could set that up as actually an institute wide thing ?__c2
+__s__just give a talk in the big room and - and so peo- - people know what's going on .__c2
+__s^cs__when you're ready .__c2
+__s^cs__absolutely .__c4
+__s__yeah i mean | that's the kind of thing ==__c2
+__fg__that's the level at which you know we can just li- - invite everybody and say this is a project that we've been working on and here's a demo version of it and stuff like that .__c2
+__fg__yeah .__c1
+__fh|s^cs^t^tc__okay .__c4
+__z__well d- - we - we do want to have all the bugs out b- - where you have to sort of pipe in extra x m l messages from left and right before you're ==__c4
+__z__uhhuh .__c1
+____indeed .__c2
+____yeah .__c4
+____okay .__c4
+__z__makes sense .__c4
+__z__but any- - so that e- - e- ==__c2
+__z__it's clear then i think .__c2
+____actually roughly starting uh let's say nex- - next meeting because this meeting we have one other thing to tie up besides the trip report .__c2
+__z__yeah .__c1
+__z__okay .__c1
+__z__but uh - | starting next meeting i think we want to flip into this mode where ==__c2
+__z__uh | i mean there are a lot of issues .__c2
+____what's the ontology look like .__c2
+____uhhuh .__c1
+__z__you know what do the constructions look like .__c2

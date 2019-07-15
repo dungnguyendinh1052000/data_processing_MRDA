@@ -1,0 +1,1301 @@
+__s__i guess .__c8
+__s^bk__okay we're on .__c0
+__qw__so just make sure that th- - your wireless mike is on if you're wearing a wireless .__c0
+__s^no__check one .__c8
+__qy^rt__check one .__c8
+__fh__and you should be able to see which one - which one you're on by uh watching the little bars change .__c0
+__s^e__so which is my bar ?__c1
+__h__mah ==__c1
+__s^2__number one .__c1
+__h__yep .__c0
+__s__sibilance .__c8
+__h__sibilance .__c8
+__fh__so actually if you guys want to go ahead and read digits now as long as you've signed the consent form that's all right .__c0
+__s^bk__are we supposed to read digits at the same time ?__c8
+__s^bk__no .__c0
+__s^fa__oh okay .__c8
+__s__no .__c0
+__s^ar|s^nd__each individually .__c0
+__s^bk__we're talking about doing all at the same time .__c0
+__s.%-__but i think cognitively that would be really difficult to try to read them while everyone else is .__c0
+__s^2__everyone would need extreme focus .__c8
+__s^aa__so when you're reading the digit strings the first thing to do is just say which transcript you're on .__c0
+__b__other way .__c2
+__b__we m- - we may wind up with ver- - we - we may need versions of all this garbage .__c2
+__b__for our stuff .__c1
+__s__yeah .__c2
+__%--__yeah .__c1
+__s^no__um | so the first thing you'd want to do is just say which transcript you're on .__c0
+__fh__yeah .__c2
+__fh__so ==__c0
+__fh__you can see the transcript .__c0
+__s^co__there's two large number strings on the digits .__c0
+__b__so you would just read that one .__c0
+__s^df__and then you read each line with a small pause between the lines .__c0
+__qw^rt__and the pause is just so the person transcribing it can tell where one line ends and the other begins .__c0
+__b__and i'll give - i'll read the digit strings first so can see how that goes .__c0
+__h|s__um ==__c0
+__s^2__again i'm not sure how much i should talk about stuff before everyone's here .__c0
+__fh__huh .__c2
+__s__well we have one more coming .__c2
+__s__okay .__c0
+__s^e__well why don't i go ahead and read digit strings ?__c0
+__qy^rt__and then we can go on from there .__c0
+__qrr.%--__DIGIT_TASK__c0
+__qw^br^d^rt__okay .__c2
+__qw^rt__well we can start doing it .__c2
+__h|s__DIGIT_TASK__c1
+__s^bk__DIGIT_TASK__c2
+__fh__DIGIT_TASK__c8
+__s^bk__DIGIT_TASK__cb
+__%__thanks .__c0
+__s__so uh just also a note on wearing the microphones .__c0
+__b__all of you look like you're doing it reasonably correctly .__c0
+__s^e^rt__but you want it about two thumb widths away from your mouth .__c0
+__b__and then at the corner .__c0
+__s__and that's so that you minimize breath sounds .__c0
+__s^e__so that when you're breathing you don't breathe into the mike .__c0
+__s^e^rt__um ==__c0
+__s__yeah that's good .__c0
+__s^rt__and uh ==__c0
+__s^rt__so everyone needs to fill out only once the speaker form and the consent form .__c0
+__s__and the short form ==__c0
+__s__i mean you should read the consent form .__c0
+__s^rt__but uh the thing to notice is that we will give you an opportunity to edit a- - all the transcripts .__c0
+__b__so if you say things and you don't want them to be released to the general public which these will be available at some point to anyone who wants them uh you'll be given an opportunity by email uh to bleep out any portions you don't like .__c0
+__%-__um ==__c0
+__qy^d^rt__on the speaker form just fill out as much of the information as you can .__c0
+__s^ar__if you're not exactly sure about the region ==__c0
+__s^ar^r.x__we're not exactly sure either .__c0
+__s^bk__so don't worry too much about it .__c0
+__s^cs^ng__the - it's just self rating .__c0
+__s^aa__um .__c0
+__fh__and i think that's about it .__c0
+__s__i mean should i - do you want me to talk at all about why we're doing this and what this project is ?__c0
+__qy^d^f^g__um | yeah .__c2
+__b__or ?==__c0
+__s^co__no | there was - there was - let's see .__c2
+__s^aa__does nancy know that we're meeting in here ?__c8
+__s^df__oh ==__c2
+__b__she got an emai- - she was notified .__c2
+__fg__i sent an email .__c1
+__%--__oh yeah | she got an e- ==__c8
+__s^bk__yeah yeah .__c8
+__s^no.%--__whether she knows is another question .__c2
+__s^aa__um ==__c2
+__s^nd__so are the people going to be identified by name ?__c2
+__%--__well what we're going to - we'll anonymize it in the transcript .__c0
+__s^nd__right .__c2
+__s^cc__um but not in the audio .__c0
+__fh__okay .__c2
+__s^bk__so then in terms of people worrying about uh excising things from the transcript it's unlikely .__c2
+__s^bk^r__so the- ==__c0
+__fh__since it - it does- - isn't attributed .__c2
+__fh__oh i see .__c2
+__fh__but the a- - but the - but the ==__c2
+__s^co__right | so if i said oh hi jerry how are you we're not going to go through and cancel out the jerry s .__c0
+__s^df__yeah .__c2
+__b__sure .__c2
+__fh__um so we will go through and in the speaker i. d tags there'll be you know m. one o.  seven m. one o.  eight .__c0
+__b__right .__c2
+__s^bk__right .__c2
+__fg__um but uh ==__c0
+__s^bk__um it w- - uh ==__c0
+__s__i don't know a good way of doing it on the audio and still have people who are doing discourse research be able to use the data .__c0
+__fh__okay .__c2
+__s^bk__uhhuh .__c2
+__s^no__no i - i wasn't complaining .__c2
+__s__i just wanted to understand .__c2
+__s^df__yep .__c0
+__%--__right .__c0
+__fh__okay .__c2
+__s__well we can make up aliases for each of us .__c1
+__s^e__yeah | i mean whatever you want to do is fine .__c0
+__fh__right .__c2
+__fh__okay .__cb
+__s__but we find that ==__c0
+__s.%-__we want the meeting to be as natural as possible .__c0
+__s^bu__okay .__c2
+__s^aa__so we're trying to do real meetings .__c0
+__s^e.%--__and so we don't want to have to do aliases .__c0
+__qw__right .__c2
+__s__and we don't want people to be editing what they say .__c0
+__qy^d.%--__right .__c1
+__s^aa__right .__c2
+__s__so i think that it's better just as a pro- - post process to edit out every time you bash microsoft .__c0
+__fh__uhhuh .__c1
+__s^e__you know .__c0
+__s^rt__right .__c2
+__s^e^rt__um okay | so why don't you tell us briefly ?==__c2
+__b__your - give - give your e- - normal schpiel .__c2
+__fh__okay .__c0
+__s^cc__so th- ==__c0
+__s^e.%--__um so this is - the project is called meeting recorder .__c0
+__b__and there are lots of different aspects of the project .__c0
+__s^e^rt__um so my particular interest is in the p. d. a of the future .__c0
+__s^df__this is a mock up of one .__c0
+__s__yes we do believe the p. d. a of the future will be made of wood .__c0
+__b__um | the idea is that you'd be able to put a p. d. a at the table at an impromptu meeting .__c0
+__fh__and record it .__c0
+__fh__and then be able to do querying and retrieval later on on the meeting .__c0
+__s__so that's my particular interest .__c0
+__b__is a portable device to do m- - uh information retrieval on meetings .__c0
+__fh__other people are interested in other aspects of meetings .__c0
+__s^bk__um so the first step on that in any of these is to collect some data .__c0
+__s^rt^tc__and so what we wanted is a room that's instrumented with both the table top microphones .__c0
+__s^rt__and these are very high quality pressure zone mikes .__c0
+__b__as well as the close talking mikes .__c0
+__s__what the close talk- - ng- - talking mikes gives us is some ground truth .__c0
+__s__gives us um high quality audio .__c0
+__fh__um especially for people who aren't interested in the acoustic parts of this corpus .__c0
+__s__so for people who are more interested in language we didn't want to penalize them by having only the far field mikes available .__c0
+__s.%-__and then also um it's a very very hard task in terms of speech recognition .__c0
+__qy^bu^d^rt__um and so uh on the far field mikes we can expect very low recognition results .__c0
+__s^aa__so we wanted the near field mikes to at least isolate the difference between the two .__c0
+__s__so that's why we're recording in parallel with the close talking and the far field at the same time .__c0
+__s^co__and then all these channels are recorded simultaneously and framed synchronously .__c0
+__fh__so that you can also do things like um beam forming on all the microphones .__c0
+__s^bk^fe__and do research like that .__c0
+__s^nd__our intention is to release this data to the public um probably through f- - through a body like the l. d. c .__c0
+__s^aa__and uh just make it as a generally available corpus .__c0
+__fh__um | there's other work going on in meeting recording .__c0
+__s^bd__so we're - we're working with s. r. i .__c0
+__s.%--__with u. w .__c0
+__s__um | nist has started an effort which will include video .__c0
+__s__we're not including video obviously .__c0
+__s.%--__and uh and then also um a small amount of assistance from i. b. m .__c0
+__fg__is also involved .__c0
+__s^ng.%-__um oh and the digit strings this is just a more constrained task .__c0
+__s__um so because the general environment is so challenging we decided to - to do at least one set of digit strings .__c0
+__s^bk__to give ourselves something easier .__c0
+__s__and it's exactly the same digit strings as in t. i. digits .__c0
+__fh__which is a common connected digits corpus .__c0
+__s__so we'll have some um comparison to be able to be made .__c0
+__s__okay .__c2
+__s__anything else ?__c0
+__qw^rt__no .__c2
+__s__okay | so when the l- - last person comes in just have them wear a wireless .__c0
+__s^e__it should be on already .__c0
+__b__um ==__c0
+__s^e__either one of those .__c0
+__fh__and uh read the digit strings and - and fill out the forms .__c0
+__qw__so the most important form is the consent form .__c0
+__b__so just be s- - be sure everyone signs that if they consent .__c0
+__h|s__i'm sure it's pretty usual for meetings that people come late .__c1
+__s__so you will have to leave what you set .__c1
+__fh__yeah .__c0
+__b__right .__c0
+__b__and uh just give me a call .__c0
+__s__which my number's up there when your meeting is over .__c0
+__fh__yep .__c2
+__s^bk__and - i'm going to leave the mike here .__c0
+__fh__but it's n- - uh but i'm not going to be on .__c0
+__s.%-__so don't have them use this one .__c0
+__fg__it'll just be sitting here .__c0
+__s__input ?__c1
+__s^aa__yeah .__c1
+__fh__there we go .__c1
+__fh__by the way adam we will be using the uh screen as well .__c2
+__s^bk__yep .__c1
+__s.%--__so you know .__c2
+__fh__wow !__c2
+__s__organization .__c2
+__s__so you guys who got email about this oh f- - uh friday or something about what we're up to .__c2
+__s__no .__c8
+__s__no .__cb
+__s^e.%-__i got it .__c1
+__qw^br^d^rt__what was the nature of the email ?__c8
+__s__oh this was about um inferring intentions from features in context and the words .__c2
+__b__like s- - go to see or visit or some- ==__c2
+__s.%--__wel- - we- - i - uh - i - i - @@ ==__c1
+__s__you didn't get it ?__c2
+__s^e__i don't think i did .__c8
+__s__i guess these g- - have got better filters .__c2
+__s__because i sent it to everybody .__c2
+__s__you just blew it off .__c2
+__s__uh .__c8
+__s__okay .__c2
+__s^bk__it's really simple though .__c1
+__s__so this is the idea .__c1
+__fh|s__um ==__c1
+__s^e__we could pursue um if we thought it's - it's worth it but uh i think we - we will agree on that um to come up with a - with a sort of very very first crude prototype .__c1
+__s__and do some implementation work and do some - some research and some modeling .__c1
+__s__so the idea is if you want to go somewhere ==__c1
+__fh__um and ==__c1
+__s__focus on that object down ==__c1
+__fh__oh i can actually walk with this .__c1
+__fh__this is nice .__c1
+__s__down here .__c1
+__s__that's the powder tower .__c1
+__s__now um we found in our uh - data and from experiments that there's three things you can do .__c1
+__s__um | you can walk this way and come really really close to it .__c1
+__fh|s__and touch it .__c1
+__s__but you cannot enter or do anything else .__c1
+__s__unless you're interested in rock climbing it won't do you no good standing there .__c1
+__b__it's just a dark alley .__c1
+__s^df__but you can touch it .__c1
+__s^df__if you want to actually go up or into the tower you have to go this way .__c1
+__fh__and then through some buildings and up some stairs and so forth .__c1
+__s^na__if you actually want to see the tower and that's what actually most people want to do is just have a good look of it take a picture for the family you have to go this way and go up here .__c1
+__s^aa__and there you have a vre- - really view - it exploded the - during the thirty -years-war .__c1
+__qw__really uh interesting sight .__c1
+__fh|qw__huh .__c8
+__h|s__and um | these uh these lines are um paths .__c1
+__fh__or so- - that's ab- - uh i- ==__c1
+__s__the street network of our geographic information system .__c1
+__b__and you can tell that we deliberately cut out this part .__c1
+__s^no__because otherwise we couldn't get our g. i. s system to take - to lead people this way .__c1
+__b__it would always use the closest point to the object .__c1
+__b__and then the tourists would be faced you know in front of a wall .__c1
+__fh__but it would do them absolutely no good .__c1
+__s.%--__so what we found interesting is first of all intentions differ .__c1
+__fh__maybe you want to enter a building .__c1
+__s__maybe you want to see it .__c1
+__s^bk__take a picture of it .__c1
+__s^bu__or maybe you actually want to come as close as possible to the building .__c1
+__s^aa__for whatever reason that may be .__c1
+__s__what's it - what's it made out of ?__c8
+__s^bk__um r- - red limestone .__c1
+__s^e__so maybe you would want to touch it .__c8
+__s^bu__yeah | maybe you would want to touch it .__c1
+__s^aa__um ==__c1
+__s^na__okay i - this um these intentions we - w- - w- - we could if we want to call it the - the vista mode .__c1
+__s^bk__where we just want to - uh - s- - get the overview or look at it .__c1
+__s^bk__the enter mode .__c1
+__fh__and the well tango mode .__c1
+__s.%--__i always come up with - with silly names .__c1
+__s^bu^r__so this tango means literally translated to touch .__c1
+__%-__so - but sometimes the - the tango mode is really relevant in the - in the sense that um if you want to uh ==__c1
+__s^aa__if you don't have the intention of entering your building but you know that something is really close to it and you just want to approach it or get to that building ==__c1
+__s^bu__consider for example the post office in chicago a building so large that it has its own zip code .__c1
+__s^aa__so the entrance could be miles away from the closest point .__c1
+__fh__so sometimes it m- - m- - m- - makes sense maybe to d- - to distinguish there .__c1
+__b__so um i've looked uh through twenty some ==__c1
+__s__uh i didn't look through all the data .__c1
+__s.%-__um and there - there's uh a lot more different ways in people - uh the ways people phrase how to g- - get if they want to get to a certain place .__c1
+__s__and sometimes here it's b- - it's a little bit more obvious .__c1
+__s^e__um | maybe i should go back a couple of steps .__c1
+__s^df__and go through the ==__c1
+__s^bk__no okay | come in sit down .__c2
+__s__if you grab yourself a microphone .__c2
+__s^aa__you need to sign some stuff and read some digits .__c1
+__s^bd__well you can sign afterwards .__c2
+__fh__o- - or later .__c1
+__b__you have to al- - also have to read some digits .__c8
+__s__afterwards .__c2
+__%--__okay | afterwards is fine .__c4
+__s^bk__they are uncomfortable .__c1
+__s__uhhuh .__c1
+__s__really small ?__c4
+__s__okay | i see .__c4
+__%--__okay .__c4
+__b__yep .__c1
+__s__thank you .__c4
+__b__okay | but that was our idea .__c1
+__s^df__and it - it - it - it- - it also has to be switched on nance .__c2
+__s__is ==__c1
+__s__no | that one's already on i thought he said .__c8
+__s^bk__i - i think ==__c1
+__s.%--__it's on ?__c2
+__s__okay | good .__c2
+__s__yeah .__c8
+__b__okay | it's on .__c4
+__s__okay | that was the idea .__c1
+__fh__um people when they w- - when they want to go to a building sometimes they just want to look at it .__c1
+__s^df^rt__sometimes they want to enter it .__c1
+__s^e__and sometimes they want to get really close to it .__c1
+__s^bk__that's something we found .__c1
+__s__it's just a truism .__c1
+__b__and the places where you will lead them for these intentions are sometimes ex- - in- - incredibly different .__c1
+__s^nd__i - i gave an example where the point where you end up if you want to look at it is completely different from where - if you want to enter it .__c1
+__b__so this is sort of how people may uh - may phrase those requests to a - a - a mock up system at least that's the way they did it .__c1
+__fg__and we get tons of - of these how do i get to i want to go to .__c1
+__s.%--__but also give me directions to and i would like to see .__c1
+__s^cs__and um | what we can sort of do if we look closer a- - closer at the - the data ==__c1
+__s^cs^e__that was the wrong one .__c1
+__s^cs^e__um we can look at some factors that may make a difference .__c1
+__s^cs^e__first of all ==__c1
+__s__very important .__c1
+__qy^rt__and um that i've completely forgot that when we talked .__c1
+__s^aa__this is of course a crucial factor what type of object is it .__c1
+__b__so some buildings you just don't want to take pictures of .__c1
+__s.%--__or very rarely .__c1
+__s^e__but you usually want to enter them .__c1
+__qy.%--__some objects are more picturesque .__c1
+__qy^rt__and you - more f- - more highly photographed .__c1
+__s^aap__then of course the - the actual phrases may give us some idea of what the person wants .__c1
+__s^aap^df__um | sometimes i found in the - uh looking at the data in a superficial way i found some s- - sort of modifiers that - that m- - may also give us a hint .__c1
+__s^bk^m__um | i'm trying to get to .__c1
+__s^bk__nuh ?__c1
+__b__i need to get to .__c1
+__fg__sort of hints to the fact that you're not really sightseeing and - and just f- - there for pleasure and so forth and so on .__c1
+__s^cs__and this leads us straight to the context which also should be considered .__c1
+__s.%--__that whatever it is you're doing at the moment may also inter- - influence the interpretation of - of a phrase .__c1
+__s^cs.%--__so this is uh really ==__c1
+__s^df__uh uh uh ==__c1
+__s^cs__my suggestion is really simple .__c1
+__s__we start with um ==__c1
+__s__now let me uh say one more thing .__c1
+__b__what we do know is that the parser we use in the smartkom system will never differentiate between any of these .__c1
+__fh__so basically all of these things will result in the same x. m. l m. three l. structure .__c1
+__s__sort of action go .__c1
+__fh__and then an object .__c1
+__s^aa__uhhuh .__c4
+__s.%-__yeah ?__c1
+__s__and a source .__c1
+__b__so it's - it's - it's way too crude to d- - capture those differences in intentions .__c1
+__s__so i thought huh .__c1
+__fh__maybe for a deep understanding task that's a nice sort of playground or first little thing .__c1
+__s__where we can start it and n- - sort of look ==__c1
+__s__okay we need we going to get those m. three l. structures .__c1
+__h|s^aa__the crude undifferentiated parse .__c1
+__fh__interpreted input .__c1
+__fh__we may need additional part of speech or maybe just some information on the verb and modifiers auxiliaries .__c1
+__s__we'll see .__c1
+__b__and i will try to - to sort of come up with a list of factors that we need to get out of there .__c1
+__b__and maybe we want to get a g- - switch for the context .__c1
+__s__so this is not something which we can actually monitor now .__c1
+__qw^br^d^rt__but just is something we can set .__c1
+__s__and then you can all imagine sort of a - a constrained satisfaction program depending on - on what um comes out .__c1
+__s^br__we want to have an - a structure resulting ==__c1
+__s^e.%-__if we feed it through a belief net or - or something along those lines we'd get an inferred intention we - we produce a structure that differentiates between the vista the enter and the um tango mode .__c1
+__s__which i think we maybe want to ignore .__c1
+__s__but that's my idea .__c1
+__s__it's up for discussion .__c1
+__s^bk^m__we can change all of it .__c1
+__s^bk^m^r__any bit of it .__c1
+__b__throw it all away .__c1
+__s^r__now @@ this email that you sent actually .__cb
+__s^bk__what ?__c2
+__s^fa__now i remember the email .__cb
+__s__okay .__c2
+__b__huh .__c8
+__fh__still i have no recollection whatsoever of the email .__c8
+__b__i'll have to go back and check .__c8
+__fh__not important .__c2
+__fg__so what is important is that we understand what the proposed task is .__c2
+__qw^rt__and the - the i- - uh robert and i talked about this some on friday .__c2
+__h__and | we think it's well formed .__c2
+__s^rt__so we think it's a well formed uh starter task for this uh deeper understanding in the tourist domain .__c2
+__s__so where exactly is the uh deeper understanding being done ?__cb
+__s.%--__like i mean s- - is it before the bayes-net ?__cb
+__fh__is it uh ?==__cb
+__s__well it's the - it's - it's always all of it .__c2
+__s__so in general it's always going to be the answer is everywhere .__c2
+__s__uh so the notion is that uh this isn't real deep .__c2
+__b__but it's deep enough that you can distinguish between these th- - three quite different kinds of uh going to see some tourist thing .__c2
+__fg__and so that's - that's the quote deep that we're trying to get at .__c2
+__fh__and robert's point is that the current front end doesn't give you any way to ==__c2
+__fh__not only doesn't it do it but it also doesn't give you enough information to do it .__c2
+__s__it isn't like if you just took what the front end gives you and used some clever inference algorithm on it you would be able to figure out which of these is going on .__c2
+__s^rt__so uh ==__c2
+__s__and this is - bu- - i- - in general it's going to be true of any kind of deep understanding .__c2
+__b__there's going to be contextual things .__c2
+__fh__there're going to be linguistic things .__c2
+__s^bk|s__there're going to be discourse things .__c2
+__fh__and they got to be combined .__c2
+__%-__and my idea on how to combine them is with a belief net .__c2
+__b__although it may turn out that t- - some totally different thing is going to work better .__c2
+__s__um | the idea would be that you uh take your ==__c2
+__s^bk__you're editing your slide ?__c2
+__s__yeah | as i- - a- - sort of as i get ideas .__c1
+__s__uh w- - uh ==__c1
+__s^am__oh .__c2
+__b__so discourse - i - i - i thought about that .__c1
+__b__of course that needs to sort of go in there .__c1
+__s^am^r__oh | i'm sorry .__c2
+__s__okay so | this is minutes - taking minutes as we go .__c2
+__s__in his - in his own way .__c2
+__s__yep .__c1
+__s.%--__um but the p- - the ==__c2
+__b__anyway | so the thing is - i- - uh d- - naively speaking you've - you've got a for this little task a belief net .__c2
+__qw__which is going to have as output the conditional pr- - probability of one of three things .__c2
+__qy.%--__that the person wants to - uh to view it to enter it or to tango with it .__c2
+__fh__um ==__c2
+__s.%--__so that - the - the output of the belief net is pretty well formed .__c2
+__fh__and then the inputs are going to be these kinds of things .__c2
+__s.%-__and then the question is ==__c2
+__s__there are two questions .__c2
+__fh__is uh one where do you get this i- - information from ?__c2
+__s^aa__and two what's the structure of the belief net ?__c2
+__%-__so what are the conditional probabilities of this that and the other given these things ?__c2
+__s^e__and you probably need intermediate nodes .__c2
+__s^bk__i - we don't know what they are yet .__c2
+__s^co.%-__so it may well be that uh for example that uh knowing whether ==__c2
+__s__oh another thing you want is some information abou- - i think about the time of day .__c2
+__fh__now they may want to call that part of context .__c2
+__s^no__but the time of day matters a lot .__c2
+__s^aa__uhhuh .__c1
+__fh__and if things are obviously closed then you ==__c2
+__s__people won't want to enter it .__c1
+__%--__pe- - people don't want to enter them .__c2
+__s.%-__and if it's not obvious you may want to actually uh point out to people that it's closed - you know what they're g- - going to is closed and they don't have the option of entering it .__c2
+__fg|s.%--__s- - b- ==__c1
+__%__so another thing that can come up and will come up as soon as you get serious about this is that another option of course is to have a - more of a dialogue .__c2
+__s__so if someone says something you could ask them .__c2
+__b__yeah .__c8
+__s__okay .__c2
+__s^2__and - now one thing you could do is always ask them .__c2
+__s^e__but that's boring .__c2
+__s^e__and it also w- - it also be a pain for the person using it .__c2
+__s__so one thing you could do is build a little system that said whenever you got a question like that i've got one of three answers .__c2
+__s__ask them which one you want .__c2
+__s__okay .__c2
+__fh__but that's um not what we're going to do .__c2
+__s__but maybe that's a false state of the system that it's too close to call .__c1
+__s^e__oh yeah .__c2
+__s.%--__you want the - you want the ability to a- - you want the ability to ask .__c2
+__s__but what you don't want to do is onl- - build a system that always asks every time .__c2
+__%--__and i- ==__c2
+__s^fa__that's not getting at the scientific problem .__c2
+__s^no__and it's ==__c2
+__s^cs__uhhuh .__c1
+__s__in general you're - you know it's going to be much more complex than that .__c2
+__s^e__a- - this is purposely a really simple case .__c2
+__fh__yeah .__c1
+__s__so uh ==__c2
+__s^bu^rt__yeah .__c2
+__b__i have one more point to - to bhaskara's question .__c1
+__qy.%--__um i think also the - the - the deep understanding part of it is - is going to be in there to the extent that we um want it in terms of our modeling .__c1
+__s^aa__we can start you know basic from human beings .__c1
+__s^aa__model that .__c1
+__s^bu__its motions .__c1
+__fh|s^bu__going walking seeing .__c1
+__s^bu|qy^d^g^rt__we can mem- - model all of that .__c1
+__%__and then compose whatever inferences o- - we make out of these really conceptual primitives .__c1
+__s^na__that will be extremely deep in the - in - in - in my understanding .__c1
+__s^df__yeah | s- - so - so the way that might come up if you want to - suppose you wanted to do that you might say um as an intermediate step in your belief net is there a source path goal schema involved ?__c2
+__s^no__okay ?__c2
+__b__and if so uh is there a focus on the goal ?__c2
+__%--__or is there a focus on the path ?__c2
+__s^bk__or something .__c2
+__s^e__and that could be uh one of the conditiona- ==__c2
+__b__you know th- - the - in some piece of the belief net that could be the - the appropriate thing to enter .__c2
+__fh__so where would we extract that information from ?__cb
+__s^na__from the m. three l. .__cb
+__s__no .__c2
+__b__no | see the m. three l. is not going to give th- ==__c2
+__%--__what he was saying is the m. three l. does not have any of that .__c2
+__b__all it has is some really crude stuff saying a person wants to go to a place .__c2
+__s__right .__cb
+__s__the m. three l. is the old smartkom output .__c8
+__fh__right .__c2
+__b__okay .__c8
+__fh__m. three- - well m. three l. itself refers to multimedia markup language .__c2
+__s.%--__it's just a language .__c8
+__s.%--__right yeah .__c8
+__s__so we have th- - w- - we- - we - we have to have a better w- - way of referring to ==__c2
+__s.%--__the parser output ?__c1
+__s__uhhuh .__c2
+__s.%-__yeah .__c2
+__s^2__analyzed speech i think it's what they call it .__c1
+__fh__the ==__c2
+__s__well okay .__c2
+__b__really oder ==__c1
+__fh__yeah .__c2
+__qy^bh^d__o- - th- - no actually intention lattices is what we're going to get .__c1
+__b__is- - i- - but they c- - they call it intention lattice .__c2
+__s^bk^fe__but tha- ==__c2
+__fh__in- - in- - a- - intention lattice k- - hypothesis .__c1
+__s.%--__anyway ==__c2
+__fh__they call it intention hypotheses .__c1
+__fh__right .__c2
+__s^rt__so th- - they're going to give us some cr- - uh - or - we can assume that y- - you get this crude information .__c2
+__s__about intention .__c2
+__s^am__and that's all they're going to provide .__c2
+__fh__and they don't give you the kind of object .__c2
+__s^bk^fe__they don't give you any discourse history .__c2
+__s^rt__if you want to keep that you have to keep it somewhere else .__c2
+__s__well they keep it .__c1
+__s__we have to request it .__c1
+__fh__right .__c2
+__s^bk^fe__nuh ?__c1
+__s^e__but it's not in there .__c1
+__s^e__well they - they kee- - they keep it by their lights .__c2
+__s^bk__it may - it may or may not be what - what we want .__c2
+__s^bk^fe__huh .__c1
+__s__yeah or i- ==__c1
+__fh__yeah .__c2
+__s^bk^fe__so if someone says i want to touch the side of the powder tower that would basically we need to pop up tango mode and the and the directions ?__c8
+__b__if i- - if - yeah if it got as simple as that | yeah .__c2
+__b__yeah .__c8
+__fh__but it wouldn't .__c2
+__qy^rt__okay .__c8
+__s^aa__but that doesn't necessarily ==__c8
+__s^aa__but we'd have to infer a source path goal to some degree for touching the side | right ?__c8
+__qrr.%--__well | uh th- - the- - there is a p- - a point there if i understand you correct .__c1
+__s^aa^r__um ==__c1
+__s__because um sometimes people just say things .__c1
+__s^cs__this you find very often .__c1
+__b__where is the city hall .__c1
+__s^cs__and this do- - they don't want to sh- - see it on a map .__c1
+__b__or they don't want to know it's five hundred yards away from you or that it's to the - your north .__c1
+__s^cs__they want to go there .__c1
+__qy^rt__that's what they say is where is it .__c1
+__s__where is that damn thing .__c1
+__s.%--__and the parser would output ==__c8
+__s^df__well that's a - a question mark .__c1
+__s__sh- ==__c1
+__s__a lot of parsers um ==__c1
+__s__just uh ==__c1
+__s^e__that's way beyond their scope is - of interpreting that .__c1
+__fh|s__you know .__c1
+__s.%-__but um ==__c1
+__qy^bu^d^rt__still outcome w- - the outcome will be some form of structure .__c1
+__s^ar__with the town hall and maybe saying it's a w. h focus on the town hall .__c1
+__s^nd__but to interpret it ==__c1
+__s^e^nd__uhhuh .__c4
+__b__you know .__c1
+__s__somebody else has to do that job later .__c1
+__s__i'm just trying to figure out what the smartkom system would output .__c8
+__s^e__yeah .__c2
+__qy^rt__depending on these things .__c8
+__s^aa__um it will probably tell you how far away it is .__c1
+__s^bk__at least that's - that's even what deep map does .__c1
+__s__it tells you how far away it is .__c1
+__s^bk__and - and shows it to you on a map .__c1
+__qy^d^f^g^rt__because i- - we can not differentiate at the moment between you know the intention of wanting to go there or the intention of just know- - wanting to know where - where it is .__c1
+__s__people no- - might not be able to infer that either | right ?__c4
+__b__like the fact like i could imagine if someone came up to me and asked where's the city hall i might say g- - ar- - are you trying to get there .__c4
+__s__because how i describe um t- - its location - uh p- - probably depend on whether i think i should give them you know directions now or say you know whatever it's half a mile away or something like that .__c4
+__s__uhhuh .__c1
+__%--__@@ .__c1
+__s^fa__it's a granularity factor .__c1
+__s^bsc__yeah .__c2
+__fh__because where people ask you where is new york you will tell them it's on the east coast .__c1
+__s__uhhuh .__c4
+__s__yeah exactly .__c4
+__s__right .__c4
+__fh|s__y- - y- - uh - you won't tell them how to get there ft- - you know take that bus to the airport and blah blah blah .__c1
+__s^cs__right .__c4
+__s^cs__yeah .__c4
+__b__right .__c4
+__fh__but if it's the post office you will tell them how to get there .__c1
+__%--__uhhuh .__c4
+__s__so th- - they have done some interesting experiments on that in hamburg as well .__c1
+__s^df__right .__c4
+__s^cs__right .__c4
+__s^cs__so ==__c1
+__s__but ==__c2
+__s^cs__i- - go - go back to the - the uh th- ==__c2
+__s^cs__yeah | that slide .__c2
+__b__so | i w- - this is - onto is - is knowledge about buildings .__c1
+__s^cs__their opening times .__c1
+__qw.%--__and then t- - coupled with time of day um this should ==__c1
+__s__you know .__c1
+__s^df__so that context was like um their presumed purpose context .__c4
+__s^aa__i- - like business or travel .__c4
+__s^aa__as well as the utterance context like i'm now standing at this place at this time .__c4
+__%--__yeah | well i think we ought to d- - a- - as we have all along d- - we - we've been distu- - distinguishing between situational context .__c2
+__fh__which is what you have as context .__c2
+__s^nd__and discourse context .__c2
+__s^df__uhhuh .__c1
+__qy^d^f^g^rt__which you have as d. h .__c2
+__s^bk__i don't know what the h.  means .__c2
+__s__nuh .__c1
+__s.%--__history .__c1
+__s^bk__discourse history .__c1
+__s.%--__okay .__c2
+__fh__whatever .__c2
+__s.%--__yeah .__c1
+__s.%--__so we can work out terminology later .__c2
+__s.%--__yep .__c1
+__s^2__so they're - they're quite distinct .__c2
+__s^m^na__i mean you need them both .__c2
+__fh__but they're quite distinct .__c2
+__fg|s.%-__and so what we were talking about doing a- - a- - as a first shot is not doing any of the linguistics .__c2
+__s__except to find out what seems to be useful .__c2
+__s__so the - the - the reason the belief net is in blue is the notion would be ==__c2
+__s__uh this may be a bad dis- - bad idea .__c2
+__fh__but the idea is to take as a first goal see if we could actually build a belief net that would make this three way distinction uh in a plausible way .__c2
+__s^e__given ==__c2
+__fh__these - we have all these transcripts .__c2
+__b__and we're able to by hand extract the features to put in the belief net .__c2
+__s^bk__saying aha .__c2
+__qw^rt__here are the things which if you get them out of - out of the language and discourse and put them into the belief net it would tell you which of these three uh intentions is most likely .__c2
+__s.%-__and if - to actually do that build it um - you know run it - y- - y- - run it on the data where you hand transcribe the parameters .__c2
+__qw^d^e__and see how that goes .__c2
+__%-__if that goes well then we can start worrying about how we would extract them .__c2
+__s__so - where would you get this information ?__c2
+__s__and expand it to - to other things like this .__c2
+__s^2__but if we can't do that then we're in trouble .__c2
+__s^t1__i mean th- - th- - i- - i- - if you can't do this task ==__c2
+__fh__um ==__c2
+__b__we need a different uh engine .__c1
+__fh__uh uh yeah | or something .__c2
+__fg|s.%--__machine i mean .__c1
+__s^bk|s__well it - i- - i- - if it - if it's the belief nets we- - we'll switch to you know logic or some terrible thing .__c2
+__s__but i don't think that's going to be the case .__c2
+__s^nd__i think that uh if we can get the information a belief net is a perfectly good way of doing the inferential combination of it .__c2
+__qy^d^f^g__the real issue is do- - what are the factors involved in determining this ?__c2
+__s^ar__and i don't know .__c2
+__s.%--__huh .__c1
+__fh__but only w- ==__c1
+__s^nd__hold on a s- - hold on a second .__c2
+__s^nd.%--__muh ==__c1
+__%-__so i know .__c2
+__s^nd^r__uh uh is it clear what's going on here ?__c2
+__s^aa__yep .__cb
+__s^m^na__um i missed the beginning .__c4
+__s^aa__but um ==__c4
+__s^bk__i guess ==__c4
+__s__could you back to the slide ?__c4
+__fg__the previous one .__c4
+__b__so is it that it's um ?==__c4
+__s^e__these are all factors that uh a- - these are the ones that you said that we are going to ignore now ?__c4
+__b__or that we want to take into account ?__c4
+__b__you were saying n- ==__c4
+__s__take them into account .__c2
+__s^e__take the - the linguistic factors too .__c4
+__qy^d^f^g^rt__but - but you don't worry about - h- ==__c2
+__s^df__oh | how to extract these features .__c4
+__b__how to extract them .__c2
+__b__okay .__c4
+__s__so f- - let's find out which ones we need first .__c2
+__b__got it .__c4
+__qy^d^f^g^rt__okay .__c4
+__s__and - and it's clear from the data um like sort of the correct answer in each case .__c4
+__s^bk__and ==__c2
+__s__no .__c2
+__%-__but l- ==__c4
+__fh__okay .__c4
+__s^bu.%--__no .__c1
+__s^aa__that's - that's the thing i'm curious ab- ==__c4
+__s__but ==__c1
+__fh__let's go back to th- - let's go back to the - the - the slide of data .__c2
+__s^ba__like do we know from the data wh- - which ?==__c4
+__fh__um ==__c1
+__s__okay .__c4
+__s^e__so ==__c4
+__fh__not from that data .__c1
+__s^e__but um since we are designing a - a - a - an compared to this even bigger data collection effort um we will definitely take care to put it in there .__c1
+__fh__uhhuh .__c4
+__qy^rt.%--__uhhuh .__c4
+__fh__uhhuh .__c4
+__h__in some shape way form over the other .__c1
+__s^aa__yeah .__c2
+__fh__to see whether we can then get sort of empirically validated data .__c1
+__s.%--__right .__c4
+__s^aa__um from this we can sometimes you know ==__c1
+__s__an- - and that's - that - but that - isn't that what we need for a belief net anyhow ?__c1
+__s.%--__is sort of ==__c1
+__s^na__s- - sometimes when people want to just see it they phrase it more like this .__c1
+__s^aa__uhhuh .__c4
+__b__but it doesn't exclude anybody from phrasing it totally differently even if they still ==__c1
+__fh__right .__c4
+__s__right .__c4
+__s^ng__you know ?__c1
+__b__but then other factors may come into play that change the outcome of their belief net .__c1
+__s^e__right .__c4
+__s__so um this is exactly what ==__c1
+__b__because y- - you can never be sure .__c1
+__%--__and i'm sure even i- - the most sort of deliberate data collection experiment will never give you data that say well if it's phrased like that the intention is this .__c1
+__s__sure .__c4
+__fh__you know because then uh you ==__c1
+__b__u- - u- - i mean the only way you could get that is if you were to give th- - the x- - subjects a task .__c4
+__fh__right ?__c4
+__s^no__where you have - where your uh current goal is to ==__c4
+__s.%--__we- ==__c1
+__b__yeah .__c1
+__s^cs__@@ .__c4
+__s^cs^e__that's what we're doing .__c1
+__s^aa__so that's what you want ?__c4
+__fh__but - but we will still get the phrasing all over the place .__c1
+__%__okay .__c4
+__qw^bu^rt__so you will know .__c4
+__s__uhhuh .__c4
+__s^r__i'm sure that you know ==__c1
+__s__yeah .__c2
+__b__the - no that's fine .__c4
+__b__i guess it's just knowing the intention from the experimental subject .__c4
+__s^cs__yeah .__c2
+__fh__uhhuh .__c1
+__s^aa__from that task | yeah .__c2
+__s^aa__so | uh i think you all know this but we are going to actually use this little room .__c2
+__s__@@ .__c4
+__s^no__and start recording subjects probably within a month or something .__c2
+__s__so this is not any - lo- - any of you guys' worry .__c2
+__b__except that we may want to push that effort to get information we need .__c2
+__fg__so our job is to figure out how to solve these problems .__c2
+__s^2__if it turns out that we need data of a certain sort then the sort of data collection branch can be uh asked to do that .__c2
+__%-__and one of the reasons why we're recording the meeting for these guys is because we want their help when we d- - we start doing uh recording of subjects .__c2
+__s.%-__so yeah - y- - you're absolutely right though .__c2
+__s__no you - you will not have ==__c2
+__s__and there it is .__c2
+__s.%-__and uh ==__c2
+__s^aa__but you know y- - y- ==__c2
+__%-__the um ==__c2
+__s__and i think the other concern that has come up before too is if it's ==__c4
+__s__um ==__c4
+__s^e__i don't know if this was collected what situation this data was collected in .__c4
+__b__was it - is it the one that you showed in your talk ?__c4
+__s^e__like people ==__c4
+__s^e__no no .__c1
+__s__but ==__c4
+__b__no .__c1
+__s.%--__okay .__c4
+__s__so was this like someone actually mobile like s- - using a device ?__c4
+__b__uh ==__c1
+__s__n- - no no- - | not ==__c1
+__s.%--__i- - it was mobile .__c1
+__b__but not - not with a w- - a real wizard system .__c1
+__s__so there were never answers .__c1
+__%--__uhhuh .__c4
+__fh__okay okay .__c4
+__s^no__but is it ?==__c4
+__s__i guess i don't know - the situation of - of collecting th- - the data .__c4
+__s__of like - here you could imagine them being - walking around the city as like one situation .__c4
+__%--__and then you have all sorts of other c- - situational context factors that would influence w- - how to interpret like you said the scope and things like that .__c4
+__fh|s__uhhuh .__c1
+__b__if they're doing it in a ==__c4
+__fh__you know i'm sitting here with a map and asking questions .__c4
+__s^cs__i - i would imagine that the data would be really different .__c4
+__fh__um | so it's just ==__c4
+__qy^rt__yeah .__c1
+__s^aa__but it was never th- - th- - the goal of that data collection to - to serve for sat- - for such a purpose .__c1
+__s^na__so that's why for example the tasks were not differentiated by intentionality .__c1
+__s^aa__uhhuh .__c4
+__s__there was n- - there was no label .__c1
+__qy^d^g^rt__uhhuh .__c4
+__s.%--__right .__c4
+__s__you know intention a.  intention b.  intention c.  .__c1
+__s.%--__or task a.  b.  c.  .__c1
+__s^bk__um ==__c1
+__s__i'm sure we can produce some if we need it .__c1
+__fh__uhhuh .__c4
+__fh__um that that will help us along those lines .__c1
+__fh__but you know you got to leave something for other people to model .__c1
+__s__so to - finding out what you know situational con- - what the contextual factors of the situation really are you know is an interesting s- - interesting thing .__c1
+__s^e^rt__uhhuh .__c4
+__s^e^rt__uhhuh .__c4
+__fh__u- - u- - sort of i'm at the moment curious and i'm - i'm - s- - w- - want to approach it from the end where we can s- - sort of start with this toy system that we can play around with .__c1
+__s^e__uhhuh .__c4
+__qy^rt__so that we get a clearer notion of what input we need for that .__c1
+__b__uhhuh .__c4
+__qrr.%--__what suffices and what doesn't .__c1
+__s^na__and then we can start worrying about where to get this input .__c1
+__s^df__what - what do we need you know ?__c1
+__s.%--__ultimately once we are all experts in changing that parser for example maybe there's just a couple three things we need to do .__c1
+__fh__and then we get more whatever part of speech and more construction type like stuff out of it .__c1
+__qy^rt__uhhuh .__c4
+__s__huh .__c4
+__fh__it's a m- - pragmatic approach uh at the moment .__c1
+__b__how exactly does the data collection work ?__c8
+__qy^r^rt__do they have a map ?__c8
+__qy^d^e__and then you give them a scenario of some sort .__c8
+__s.%--__okay .__c1
+__qy^d^rt__imagine you're the - the subject .__c1
+__s^ar__you're going to be in here .__c1
+__s^df__and somebody ==__c1
+__s^bk__and - and you see uh either th- - the three d. model or uh a quicktime animation of standing u- - in a square in heidelberg .__c1
+__fg__so you actually see that .__c1
+__s^bk__um the uh ==__c1
+__s^tc.%--__um first thing is you have to read a text about heidelberg .__c1
+__fh__so just off a textbook uh tourist guide to familiarize uh yourself with that sort of odd sounding german street names like fischergasse and so forth .__c1
+__s^t1__so that's part one .__c1
+__s^co^t^tc__part two is you're told that this huge new wonderful computer system exists that can y- - tell you everything you want to know .__c1
+__s^e__and it understands you completely .__c1
+__s^e__and so you're going to pick up that phone .__c1
+__s__dial a number .__c1
+__qy^co^rt__and you get a certain amount of tasks that you have to solve .__c1
+__s^bk__first you have to know - find out how to get to that place .__c1
+__fh__maybe with the intention of buying stamps in there .__c1
+__s__maybe - so the next task is to get to a certain place and take a picture for your grandchild .__c1
+__s__the third one is to get information on the history of an object .__c1
+__fh__the fourth one ==__c1
+__s^aa__and then the g- - system breaks down .__c1
+__fh|s__it crashes .__c1
+__fh|s^cc__a- - at the third ?__c4
+__fh|s__and ==__c1
+__s__right then .__c4
+__s^e__after the third task .__c1
+__s^e__okay .__c4
+__fh__and then ==__c1
+__s__or after the fourth .__c1
+__s^e__some find @@ - forget that for now .__c1
+__s.%--__and then a human operator comes on and - and exp- - apologizes that the system has crashed .__c1
+__s__but you know urges you to continue | you know ?__c1
+__s^e__now with a human operator .__c1
+__s^e__and so you have basically the same tasks again .__c1
+__s__just with different objects .__c1
+__s.%--__and you go through it again .__c1
+__s.%--__and that was it .__c1
+__fh__oh | and one - one little bit .__c1
+__s__w- - and uh the computer you are - you are being told the computer system knows exactly where you are via g. p. s .__c1
+__s__when the human operator comes on um that person does not know .__c1
+__s.%-__so the g. p. s is crashed as well .__c1
+__qw^rt__so the person first has to ask you where are you .__c1
+__s^bk__and so you have to do some s- - tell the person sort of where you are depending on what you see there .__c1
+__s^rt__um this is a - a - a - a - a bit that i d- - i don't think we ==__c1
+__fh__did we discuss that bit ?__c1
+__%--__uh i just sort of squeezed that in now .__c1
+__fh__but it's something uh that would provide some very interesting data for some people i know .__c1
+__s.%-__so ==__c1
+__s__so in the display you can oh you said that you cou- - you might have a display that shows like the ==__c4
+__s^e__yeah .__c1
+__s^e__a- - additionally y- - you have a - a - a sort of a map type display .__c1
+__s^aa__a w- - your perspective sort of ?__c4
+__s^e__and so as you ==__c4
+__b__uh two d. .__c1
+__b__n- ==__c1
+__s^e__oh | two d. .__c4
+__s^bk__okay .__c4
+__s__two d. .__c1
+__%-__so as you move through it that's- - they just track it on the - for themselves .__c4
+__fg__yeah .__c1
+__fg__b- - y- ==__c1
+__s__you don't ==__c1
+__s__@@ there .__c4
+__s.%--__that's ==__c1
+__s^fa__i don't know .__c1
+__s^bu|qy^d^g^rt__i but y- - i don't think you really move .__c1
+__s^aa__okay .__c4
+__s^aa__sort of .__c1
+__s__so ==__c4
+__s.%--__yeah ?__c1
+__fh__i mean that would be an - an - an enormous technical effort .__c1
+__s__unless we would ==__c1
+__fh__we can show it walks to you know .__c1
+__fh__we can have movies of walking .__c1
+__%--__you walking through - through heidelberg and u- - ultimately arriving there .__c1
+__s__uhhuh .__c4
+__fh__maybe we want to do that .__c1
+__fh__yeah .__c1
+__s__uh i was just trying to figure out how - how ambitious the system is .__c4
+__s__the map was sort of intended to ==__c1
+__qy.%--__you want to go to that place .__c1
+__fh__uhhuh .__c4
+__qy__you know and it's sort of there .__c1
+__qy^d^e__and you see the label of the name .__c1
+__qrr^d^e^rt__so we get those names pronunciation stuff and so forth .__c1
+__qrr.%--__uhhuh .__c4
+__qw__and we can change that .__c1
+__fg__uhhuh .__c4
+__qw__so your tasks don't require you to ==__c4
+__fg__i mean uh - yo- - you're told - so when your task is i don't know go buy stamps or something like that .__c4
+__s^bk__so do you have to respond ?__c4
+__s.%--__or does your ?==__c4
+__s^bk__uh what are you ste- - what are you supposed to be telling the system ?__c4
+__s__like w- ==__c4
+__s^bk__what you're doing now ?__c4
+__s^bk__or ?==__c4
+__fh__well we'll see what people do .__c1
+__s^bk^r__there's no ==__c4
+__s__okay | so it's just like let's figure out what they would say under the circumstances .__c4
+__fh__yeah | and - and we will record both sides .__c1
+__s__i mean we will record the wi- - the wizard .__c1
+__b__uhhuh .__c4
+__s__uhhuh .__c4
+__s__i mean in both cases it's going to be a human in the computer and in the operator case .__c1
+__b__and we will re- - there will be some dialogue you know .__c1
+__s__so you first have to do this and that .__c1
+__fh__yep .__c4
+__s__and - and ==__c1
+__b__uhhuh .__c4
+__b__see wh- - what they say .__c1
+__fh__we can ins- - instruct the uh wizard in how expressive and talkative he should be .__c1
+__fh__but um ==__c1
+__s__maybe the - maybe what you're suggesting ==__c1
+__s__is what you're suggesting that it might be too poor the data if we sort of limit it to this ping pong one t- - uh task results in a question and then there's an answer and that's the end of the task ?__c1
+__s__you want to m- - have it more - more steps sort of .__c1
+__s^e__yeah | i - i don't know how much direction is given to the subject about what their interaction ==__c4
+__b__i mean th- - they're unfamiliar w- - with interacting with the system .__c4
+__s__all they know is it's this great system that could do s- - stuff .__c4
+__b__uhhuh .__c1
+__fh|s__uhhuh .__c1
+__s^ba__oh yeah | but - to some extent this is a different discussion .__c2
+__s__right ?__c4
+__s^e__so ==__c4
+__s^e__okay ?__c2
+__s^bk__so uh we - we have to have this discussion of th- - the experiment and the data collection and all that sort of stuff .__c2
+__s__uhhuh .__c4
+__s^e__and we do have um a student who is a candidate for wizard .__c2
+__b__uh she's going to get in touch with me .__c2
+__s__it's a student of eve's .__c2
+__fh__f. e. y .__c2
+__fh|s.%--__fey ?__c2
+__s^e__spelled f. e. y .__c2
+__s^e__do you - do you ?==__c2
+__s__oh | fey parrill .__c4
+__s__you know her ?__c2
+__b__yeah .__c4
+__s.%--__uhhuh .__c4
+__s__okay .__c2
+__s__sh- - is sh- ?==__c2
+__fh__she started taking the class last year .__c4
+__qw.%--__and then didn't - um you know didn't continue .__c4
+__qw^rt__i g- - she's a g- ==__c4
+__s^no__is she an undergradua- ?==__c4
+__s.%--__she's graduated .__c2
+__s__she is a graduate | okay .__c4
+__b__yeah .__c2
+__s__yeah | i m- - i know her very very briefly .__c4
+__s^ba__i know she was inter- - you know interested in aspect and stuff like that .__c4
+__s^df__okay .__c2
+__b__so anyway | she's looking for some more part time work w- - while she's waiting actually for graduate school .__c2
+__s.%--__and she'll be in touch .__c2
+__s.%--__so we may have someone uh to do this .__c2
+__s.%--__and she's got you know some background in - in all this stuff .__c2
+__s__and is a linguist st- ==__c2
+__fh__and so ==__c2
+__s__so | that's - so nancy we'll have an- - at some point we'll have another discussion on exactly wha- - t- - t- - you know how that's going to go .__c2
+__fh__uhhuh .__c4
+__fh|s^no__and um jane but also uh liz have offered to help us do this uh data collection and design and stuff .__c2
+__s__uhhuh .__c4
+__b__huh .__c4
+__s__so when we get to that we'll have some people doing it that know what they're doing .__c2
+__s^e__okay .__c4
+__s__i guess the reason i was asking about the sort of the de- - the details of this kind of thing is that um it's one thing to collect data for i don't know speech recognition or various other tasks that have pretty c- - clear correct answers .__c4
+__s.%-__but with intention um obviously as you point out there's a lot of di- - other factors .__c4
+__s^aa__and i'm not really sure um how - how - e- - the question of how to make it a t- - appropriate toy version of that um it's ju- - it's just hard .__c4
+__s^e^rt__so i mean obviously it's a ==__c4
+__s^bk__yeah | uh actually i guess that was my question .__c8
+__s^bk__is the intention implicit in the scenario that's given ?__c8
+__s__like do the ?==__c8
+__qy^rt__it is if they have these tasks that they're supposed to ==__c4
+__h|s^aap__yeah | i just wasn't sure to what level of detail the task was .__c8
+__s^arp__to - to give ==__c4
+__s__yeah .__c4
+__s^df.%--__uh ==__c4
+__s__uhhuh .__c1
+__qw^rt__right .__c4
+__%-__n- - no one is at the moment .__c1
+__s__right .__c4
+__b__okay .__c8
+__s__so we- - that's part of what we'll have to figure out .__c2
+__s__right .__c4
+__s.%--__uhhuh .__c4
+__s.%--__but uh ==__c2
+__s__the - the problem that i was tr- - going to try to focus on today was let's suppose by magic you could collect dialogues in which one way or the other you were able to uh figure out both the intention .__c2
+__s__and set the context .__c2
+__s__and know what language was used .__c2
+__s^e__so let's suppose that we can get that kind of data .__c2
+__s.%--__um ==__c2
+__s__the issue is can we find a way to basically featurize it ?__c2
+__s__so that we get some discrete number of features so that uh when we know the values to all those features or as many as possible we can w- - come up with the best estimate of which of the in this case three little intentions are most likely .__c2
+__s.%--__w- - what are the t- - three intentions ?__c4
+__s^e__is it to go there to see it and ?==__c4
+__fh__to come as close as possible to it .__c1
+__s.%--__th- - the terminology we're using is to ==__c2
+__s^bu__yeah | it's @@ .__c4
+__qy^d^g^rt__go back .__c2
+__s^aa__to v- ==__c2
+__fh__okay .__c4
+__fh__to view it .__c2
+__fh__okay .__c2
+__s.%--__to enter it .__c2
+__s__now those - it seems to me those are cl- - you c- - you have no trouble with those being distinct .__c2
+__s__take a picture of it .__c2
+__s__uhhuh .__c4
+__fh__you - you might well want to be a really rather different place than entering it .__c2
+__s__uhhuh .__c4
+__s__and for an object that's at all big uh sort of getting to the nearest part of it uh could be quite different than either of those .__c2
+__s__uhhuh .__c4
+__s^e__uhhuh .__c4
+__s__uhhuh .__c4
+__qy.%-__just sort of ==__c2
+__s^e__okay | so now i understand the referent of tango mode .__c4
+__qy^rt__see i would have thought it was more of a waltz .__c8
+__qy^d^e^rt__i didn't get that before .__c4
+__s^df__s- ==__c1
+__qy^d^rt__to waltz it ?__c1
+__s^aa__yeah | like how close are you going to be ?__c4
+__s^no__well ==__c2
+__b__like tango's really close .__c4
+__s.%--__yeah | because a tango ==__c8
+__s^aa__yeah .__c8
+__s^na__well anyway ==__c2
+__s^na__all these ==__cb
+__fh__so ==__c2
+__fh__so like the question is how what features can like do you want to try to extract from say the parse or whatever .__cb
+__b__right .__c2
+__qw__like the presence of a word or the presence of a certain uh stem or certain construction or whatever ==__cb
+__fh__right .__c2
+__s^e__is there a construction or the kind of object ?__c2
+__fh__or w- - uh anything else that's in the si- - it's either in the - in the s- - the discourse itself or in the context .__c2
+__h__so if it turns out that whatever it is you want to know whether the person's uh a tourist or not okay that becomes a feature .__c2
+__qy^bu^d^rt__now how you determine that is another issue .__c2
+__qw.%--__but fo- - for the current problem it would just be okay if you can be sure that it's a tourist versus a businessman versus a native or something uh that would give you a lot of discriminatory power .__c2
+__qrr.%--__and then just have a little section in your belief net that said pppt .__c2
+__qy^bu^d^rt__though sin- - f- - in the short run you'd set them .__c2
+__qy^2^d^rt__uhhuh .__cb
+__s^aa__and see ho- - how it worked .__c2
+__h__and then in the longer run you would figure out how you could derive them from previous discourse or w- - any- - anything else you knew .__c2
+__s^t1__right .__cb
+__fh__so how should - what's the uh plan ?__cb
+__s^bk__like how should we go about figuring out these ?==__cb
+__s^no__okay | so first of all is ==__c2
+__fh__uh | do e- - either of you guys you got a favorite belief net that you've you know played with ?__c2
+__fh__javabayes or something .__c2
+__s__oh .__cb
+__s__no | not really .__cb
+__b__okay .__c2
+__fh__well anyway | f- - get one .__c2
+__s.%--__okay | so - y- - so one of th- - one of the things we want to do is actually uh pick a package .__c2
+__b__doesn't matter which one .__c2
+__s^bk__uh presumably one that's got good interactive abilities .__c2
+__s^e__because a lot of what we're going to be d- ==__c2
+__b__you know we don't need the one that'll solve massive uh belief nets quickly .__c2
+__s^e__d- - w- ==__c2
+__b__these are not going to get big in - in the foreseeable future .__c2
+__s^e__but we do want one in which it's easy to interact with and uh modify .__c2
+__s^e__because i- - that's - a lot of what it's going to be is um playing with this .__c2
+__s^e__and probably one in which it's easy to have um what amounts to transcript files .__c2
+__fg__so that if - if we have all these cases ==__c2
+__s.%--__okay .__c2
+__fh__so we make up cases that have these features .__c2
+__s^bk__okay and then you'd like to be able to say okay here's a bunch of cases ==__c2
+__s^bk^m__there're even ones tha- - that you can do learning .__c2
+__s__okay so you have all their cases and - and their results .__c2
+__s^na__and you have a - algorithms to go through and run around trying to set the - the probabilities for you .__c2
+__s__um ==__c2
+__s^bk__probably that's not worth it .__c2
+__s__i mean my guess is we aren't going to have enough data that's good enough to make the - these data fitting ones worth it .__c2
+__s^2__but i don't know .__c2
+__b__so i would say you guy- - the first task for you two guys is to um pick a package .__c2
+__s^aa__okay and you want to it s- - you know the standard things .__c2
+__s^bk__you want it stable you want it ==__c2
+__fh__yeah @@ .__c2
+__s^cs^rt__and as soon as we have one we can start trying to uh make a first cut at what's going on .__c2
+__s^cs__an- - nuh ==__c1
+__b__but it - what i like about it is it's very concrete .__c2
+__s^nd__okay we - we have a - we know what the outcomes are going to be .__c2
+__qy^d^f^g__and we have some - some data that's loose .__c2
+__s^na__we can use our own intuition .__c2
+__s^df__and see how hard it is .__c2
+__s^bk__and importantly what intermediate nodes we think we need .__c2
+__s__so it - if it turns out that just thinking about the problem you come up with things you really need to you know this is the kind of thing that is you know an intermediate little piece in your belief net that'd be really interesting .__c2
+__%-__uhhuh .__c8
+__s^e__and it - and it may serve as a platform for a person maybe me or whoever who is interested in doing some linguistic analysis .__c1
+__s^e__i mean w- - we have the for- - framenet group here .__c1
+__s^bk__and we can see what they have found out about those concepts already .__c1
+__s__that are contained in the data .__c1
+__qy^d^f^g__um | you know to come up with a nice little set of features .__c1
+__s__and um | maybe even means of s- - uh extracting them .__c1
+__s^ar|s__and - and that altogether could also be - uh become a nice paper that's going to be published somewhere if we sit down and write it .__c1
+__h__and um ==__c1
+__s^bk__when you said javabayes belief net you were talking about ones that run on coffee ?__c1
+__s^bu__or that are in the program language java ?__c1
+__s__no | th- - it turns out that there is a uh - the new end of java libraries .__c2
+__qy^d^g^rt__okay and it turns out one called javabayes .__c2
+__b__which is one that fair - people around here use a fair amount .__c2
+__b__huh .__c1
+__fh__okay .__c1
+__b__i have no idea whether that's ==__c2
+__s__@@ .__c2
+__s__the obvious advantage of that is that you can then relatively easily get all the other java packages for guis or whatever else you might want to do .__c2
+__s^aa__uhhuh .__c1
+__s^bk__so that i- - that's i think why a lot of people doing research use that .__c2
+__s^m^na__but it may not be .__c2
+__b__i have no idea whether that's the best choice .__c2
+__s^aa__an- - and there're plenty of people around students in the department who you know live and breathe bayes-nets .__c2
+__s^bk__so uh ==__c2
+__b__there's the m- - tool kit that um kevin murphy has developed .__c4
+__s__right .__c2
+__fh__it's okay .__c2
+__s^j__which might be useful too .__c4
+__s^bk__right .__cb
+__s.%--__so yeah kevin would be a good person to start with .__c2
+__fh__and it's available matlab code .__c4
+__s__nancy knows him well .__c2
+__%--__i don't know i don't know whether you guys have met kevin yet or not .__c2
+__fh__uhhuh .__c1
+__qy^d^rt__but uh ==__c2
+__fh__yeah | i know him .__cb
+__h__but i- ==__c1
+__s^no__yeah .__c2
+__s^df__but since we all probably are pretty sure that um the ==__c1
+__fh|s__for example this th- - th- - the dialogue history is - is um producing x. m. l documents .__c1
+__fh__m. three l. of course is x. m. l .__c1
+__b__and the ontology that um uh the student is - is constructing for me back in - in e. m. l is in oil and that's also in x. m. l .__c1
+__s__and so that's where a lot of knowledge about bakeries about hotels about castles and stuff is going to come from .__c1
+__fh__uhhuh .__c2
+__b__yeah .__c2
+__s^bk__um so if it has that i. o capability and if it's a java package it will definitely be able - we can couple .__c1
+__s__yeah .__c2
+__s^bk__so yeah | we're sort of committed to x. m. l as the kind of uh interchange .__c2
+__s__but that's you know not a big deal .__c2
+__s^bk__who isn't ?__c1
+__fh__nuh ?__c1
+__s__so in terms of - of - interchanging in and out of any module we build it'll be x. m. l .__c2
+__s__and if you're going off to queries to the ontology for example you'll have to deal with its interface .__c2
+__s^e__but that's - that's fine .__c2
+__b__an- - and um ==__c2
+__s^bk__all of these things have been built with much bigger projects than this in mind .__c2
+__fh__so they - they have worked very hard .__c2
+__s__it's kind of blackboards and multi wave blackboards .__c2
+__s^ba__and ways of interchanging and registering your ==__c2
+__fh__a- - and so forth .__c2
+__s__so ==__c2
+__fh__that i don't think is even worth us worrying about just yet .__c2
+__fh|qy^co^d^rt^tc__i mean if we can get the core of the thing to work in a way that we're comfortable with then we ca- - we can get in and out of it with uh x. m. l um little descriptors .__c2
+__s^bk.%-__i believe .__c2
+__s^aa__i don't - i don't see ==__c2
+__s^aa__huh .__c1
+__fh__yeah yeah | i like for example the - what you said about the getting input from - from just files about where you h- - where you have the data have specified the features and so forth .__c1
+__s__that's of course easy also to do with you know x. m. l .__c1
+__s^e__uh you could have an x.  - yeah you could make and x. m. l format for that | sure .__c2
+__fh__so r- ==__c1
+__s^e__that - that ==__c2
+__s__um ==__c2
+__s__you know feature value x. m. l format is probably as good a way as any .__c2
+__b__so it's als- - yeah i guess it's also worth um while you're poking around poke around for x. m. l packages that um do things you'd like .__c2
+__s__doesn't - does smartkom system have such packages ?__cb
+__s^bu__yeah .__c1
+__qy^rt__sure .__c2
+__qy^e^rt__the - the lib- - m. three l. library does that .__c1
+__%__and the question is d- - you c- - you - you'll have to l- - we'll have to l- ==__c2
+__qy^d^e^rt__it's also ==__c1
+__%__that should be - ay- - we should be able to look at that .__c2
+__qy.%-__no .__c1
+__s^bk__u- - u- - y- - um- ==__c1
+__fh__the ==__c1
+__s.%-__what i - what sort of came to my mind i- - is - was the notion of an idea that if - if there are l- - nets that can actually lear- - try to set their own um probability factors based on - on - on - on input ==__c1
+__s__yeah .__c2
+__s^bk__which is in file format .__c1
+__fh__if we um get really w- - wild on this we may actually want to use some - some corpora that other people made .__c1
+__b__and for example if - if they are in - in mate then we get x. m. l documents with discourse annotations t- ==__c1
+__b__uhhuh .__cb
+__s__you know t- - from the discourse act down to the phonetic level .__c1
+__s__um michael has a project where - you know recognizing discourse acts .__c1
+__b__and he does it all in mate .__c1
+__s^e__and so they're actually annotating data and data and data .__c1
+__s^df__so if we w- - if we think it's worth it one of these days not - not with this first prototype but maybe with a second and we have the possibility of - of taking input that's generated elsewhere and learn from that that'd be nice .__c1
+__s^no__right .__cb
+__s__it'd be nice | but - but i - i - i do- - i don't want to count on it .__c2
+__s__i mean you can't - you can't run your project based on the speculation that that the data will come .__c2
+__s^df__no no | uh just for ==__c1
+__fh__and you don't have to actually design the nets .__c2
+__s__nuh ==__c1
+__s__just a back door that i - i think we should devote m- ==__c1
+__s^e__could happen .__c2
+__s^rt__yeah | so in terms of - of the um the - what the smartkom gives us for m. three l. packages it could be that they're fine or it could be eeh .__c2
+__s^e^rt__you don't you know you don't really like it .__c2
+__s^cs__so we're not - we're not abs- - we're not required to use their packages .__c2
+__s^cs__we are required at the end to give them stuff in their format .__c2
+__b__but hey .__c2
+__b__right .__cb
+__s__um ==__c2
+__fh__it's uh ==__c2
+__s.%--__it doesn't control what you do in- - you know internally .__c2
+__s__@@ .__c1
+__s__what's the time frame for this ?__c8
+__s__two days ?__c1
+__s__huh ?__c2
+__s__two three days .__c1
+__b__yeah | bu- - w- - i'd like that this - y- - yeah this week to ha- - to n- - to have y- - guys uh you know pick the - y- - you know belief net package .__c2
+__s^e__no .__c1
+__s^ba__and tell us what it is and give us a pointer so we can play with it or something .__c2
+__s__sure .__cb
+__s__and then as soon as we have it i think we should start trying to populate it for this problem .__c2
+__s__make a first cut at you know what's going on .__c2
+__%--__and probably the ea- - easiest way to do that is some online way .__c2
+__s__i mean you can f- - figure out whether you want to make it a web site .__c2
+__qy^rt__or - you know how- ==__c2
+__s^df__uh - | i - i - i - um okay i - t- ==__c1
+__h__yeah .__c1
+__s.%--__i was actually more joking with the two or three days .__c1
+__%--__okay | i wasn't .__c2
+__s.%--__so this was - was a usual jo- ==__c1
+__s^rt__um it will take as long as y- - y- - yo- - you guys need for that .__c1
+__s^bk__yeah .__c2
+__s^rt__right .__c2
+__s.%--__but um maybe it might be interesting if - if the two of you can agree on who's going to be the speaker next monday to tell us something about the net you picked .__c1
+__fh__and what it does and how it does that .__c1
+__s^e__well y- - well or both of them speak .__c2
+__s^e__sure .__cb
+__s^bk__we don't care .__c2
+__s^bk__yeah | or you can split it up .__c1
+__fg|s__so y- ==__c1
+__s.%--__huh .__cb
+__fh__so that will be sort of the assignment for next week is to - to - for slides and whatever net you picked .__c1
+__s^cs.%--__and what it can do and - and how far you've gotten .__c1
+__s__pppt !__c1
+__s^e.%--__well i'd like to also though uh ha- - have a first cut at what the belief net looks like .__c2
+__b__even if it's really crude .__c2
+__s^e__okay ?__c2
+__fh__so you know here a- - here are ==__c2
+__s__so we're supposed to @@ about features and whatnot .__c8
+__s__and ==__c8
+__b__right yeah .__c2
+__s__uhhuh .__cb
+__s^e__and as i said what i'd like to do is ==__c2
+__s^e__i mean what would be really great is you bring it in - if - if - if we could uh in the meeting say you know here's the package .__c2
+__s^j__here's the current one we have .__c2
+__fg__uh you know what other ideas do you have .__c2
+__s^tc__and then we can think about this idea of making up the data file .__c2
+__s__of ==__c2
+__s^e__uh you know get a - t- - a p- - tentative format for it .__c2
+__s^e__let's say x. m. l that says l- - you know these are the various scenarios we've experienced .__c2
+__fh__we can just add to that .__c2
+__b__and there'll be this this file of them .__c2
+__b__and when you think you've got a better belief net you just run it against this um this data file .__c2
+__s__so we'll be like hand uh doing all the probabilities .__cb
+__fh|s^e__okay .__cb
+__s__oh yeah | unt- - until we know more .__c2
+__s__and what's the relation to this with changing the table so that the system works in english ?__c8
+__s__okay .__c1
+__s^e__so this is whi- - while you were doing this i received two lovely emails .__c1
+__qy^br^d^rt.%--__the - the full n. t and the full linux version are there .__c1
+__s__i've downloaded them both .__c1
+__s^bk__and i started to unpack the linux one .__c1
+__s^df__uh the n. t one worked fine .__c1
+__s^e__and i started unta- - pack the linux one .__c1
+__s^e__it told me that i can't really unpack it .__c1
+__s^e__because it contains a future date .__c1
+__b__so this is the time difference between germany .__c1
+__s^j__i had to wait until one o'clock this afternoon before i was able to unpack it .__c1
+__s__now um then it will be my job to get this whole thing running both on swede and on this machine .__c1
+__s.%--__and so that we have it .__c1
+__s.%--__and then um hopefully that - hoping that my urgent message will now come through to ralph and tilman that it will send some more documentation along ==__c1
+__s.%--__we - i control p- ==__c1
+__s__maybe that's what i will do next monday .__c1
+__s.%-__is show the state and show the system and show that .__c1
+__qy^bu^d^m^rt__yeah .__c2
+__s^aa__yeah | so the answer johno is that these are at the moment separate .__c2
+__s^df^na__uh what one hopes is that when we understand how the analyzer works we can both worry about converting it to english and worry about how it could ex- - extract the parameters we need for the belief net .__c2
+__qy^2^d^rt__i guess my question was more about time frame .__c8
+__s^aa__so we're going to do belief nets this week .__c8
+__s^aa__and then ==__c8
+__fh__oh yeah | i don't know .__c2
+__fh__n- - none of this is i- - n- - neither of these projects has got a real tight timeline .__c2
+__fh__in the sense that over the next month there's a - there's a deliverable .__c2
+__fg__okay .__c8
+__fh|s^tc__okay .__c2
+__b__s- - so uh it's opportu- - in that sense it's opportunistic .__c2
+__fg__if - if - you know if we don't get any information for these guys f- - for several weeks then we aren't going to sit around you know wasting time trying to do the problem or guess what they ==__c2
+__fh|s^t__you know just pppt .__c2
+__s__go on and do other things .__c2
+__qy^bh^d__okay .__c8
+__s^df__yeah | but uh - but the uh this point is really - i think very very valid that ultimately we hope that that both will merge into a harmonious and um wonderful um state .__c1
+__s^bk^fe__where we can not only do the bare necessities i. e changing the table so it does exactly in english what it does in german but also that we can sort of have the system where we can say okay this is what it usually does .__c1
+__s^bk^fe__and now we add this little thing to it .__c1
+__s.%--__you know .__c1
+__s^bu__whatever ==__c1
+__b__johno's and bhaskara's great belief net .__c1
+__s^j.%--__and we plug it in .__c1
+__qy^g__and then for these certain tasks ==__c1
+__%-__and we know that navigational tasks are going to be a core domain of the new system .__c1
+__qy^rt__it all - all of a sudden it does much better .__c1
+__qrr.%--__nuh ?__c1
+__s^aa__because it can produce better answers .__c1
+__s^na__tell the person as i s- - showed you on this map .__c1
+__s^bk__n- - you know produce either you know a red line that goes to the vista point .__c1
+__s^df__or a red line that goes to the tango point .__c1
+__s^bk__or red line that goes to the door .__c1
+__fh__which would be great .__c1
+__%--__so not only can you show that you know something sensible but ultimately if you produce a system like this it takes the person where it wants to go .__c1
+__s^bk__rather than taking him always to the geometric center of a building .__c1
+__s^df__huh .__cb
+__s^e__which is what they do now .__c1
+__s^bk__and we even had to take out a bit .__c1
+__fg__nancy you missed that part .__c1
+__s__we had to take out a bit of the road work .__c1
+__s__so that it doesn't take you to the wall every time .__c1
+__s__oh really ?__c4
+__s__so um ==__c1
+__s__so this was actually an actual problem that we encountered .__c1
+__b__which nobody have - has ==__c1
+__b__because car navigation systems don't really care .__c1
+__s^cc^j__you know they get you to the beginning of the street .__c1
+__fh__some now do the house number .__c1

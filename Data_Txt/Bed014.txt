@@ -1,0 +1,1253 @@
+__z__okay .__c2
+__z__so uh - he's not here .__c2
+__z__so ==__c4
+__z__so you get to ==__c2
+__z__yeah i will try to explain the thing that i did this - this week - during this week .__c4
+__z__yeah .__c2
+__z__well uh - you know that i work - i begin to work with a new feature to detect voice unvoice .__c4
+__z__uhhuh .__c5
+__z__what i trying two m l p to - to the - with this new feature and the fifteen feature uh - from the uh - bus- - base system .__c4
+__z__the - the mel cepstrum ?__c5
+__z__no | satly the mes- - the mel cepstrum ==__c4
+__z__the new base system - the new base system .__c4
+__z__oh the ==__c5
+__z__okay .__c5
+__z__yeah | we ==__c4
+__z__the aurora system .__c5
+__z__yeah | the aurora system with the new filter v a d or something like that .__c4
+__z__okay .__c5
+__z__and i'm trying two m l p one - one that only have t- - three output .__c4
+__z__voice unvoice and silence .__c4
+__z__uhhuh .__c2
+__z__and other one that have fifty six output .__c4
+__fh__the probabilities of the allophone .__c4
+__z__and i tried to do some experiment of recognition with that .__c4
+__z__and only have result with - with the m l p with the three output .__c4
+__z__and i put together the fifteen features and the three m l p output .__c4
+__z__and well the result are li- - a little bit better but more or less similar .__c4
+__z__uh - | i - i'm - i'm slightly confused .__c2
+__z__huh .__c5
+__z__what - what feeds the - uh - the three output net ?__c2
+__z__voice unvoice and si- ==__c4
+__z__no no | what feeds it ?__c2
+__z__what features does it see ?__c2
+__z__the feature - the input ?__c4
+__z__the inputs are the fifteen - the fifteen uh - bases feature .__c4
+__z__uhhuh .__c2
+__z__the - with the new code .__c4
+__z__and the other three features are r the variance of the difference between the two spectrum .__c4
+__z__uhhuh .__c2
+__z__the variance of the auto correlation function except the - the first point because half the height value is r zero .__c4
+__z__uhhuh .__c2
+__z__uhhuh .__c2
+__z__uhhuh .__c2
+__z__uhhuh .__c2
+__z__and also r zero .__c4
+__z__the first coefficient of the auto correlation function .__c4
+__z__that is like the energy with these three feature ==__c4
+__z__right .__c2
+__z__also these three feature .__c4
+__z__you wouldn't do like r one over r zero or something like that ?__c2
+__z__i mean usually for voiced unvoiced you'd do - yeah you'd do something - you'd do energy .__c2
+__z__yeah .__c4
+__fg|qy^rt__but then you have something like spectral slope which is you get like r one ov- - over r zero or something like that .__c2
+__s__uh - yeah .__c4
+__qy__what are the r s ?__c5
+__qw__i'm sorry i missed it .__c5
+__s__r correlations .__c2
+__%__no .__c4
+__s^nd__oh .__c5
+__s^bk|qy^bu^d^rt__r c- - no .__c4
+__s__auto correlation ?__c4
+__s^aa.%__yes yes | the variance of the auto correlation function that uses that @reject@ .__c4
+__s__ye- - well that's the variance .__c2
+__b__but if you just say what is ?==__c2
+__s__i mean to first order um ==__c2
+__fh|s.%-__yeah | one of the differences between voiced unvoiced and silence is energy .__c2
+__s^2__yeah .__c4
+__s^m^na|s^aa__another one is - but the other one is the spectral shape .__c2
+__s^bk.%__i- - i'll ==__c4
+__qy^rt__the spectral shape .__c4
+__s^aa__yeah .__c4
+__fh__yeah .__c2
+__s__and so r one over r zero is what you typically use for that .__c2
+__s__no .__c4
+__s^rt__i don't use that .__c4
+__b__i can't use ==__c4
+__%-__no .__c2
+__s^rt__i'm saying that's what people us- - typically use .__c2
+__s^aa__huh .__c4
+__fg__see because it - because this is - this is just like a single number to tell you um - does the spectrum look like that or does it look like that .__c2
+__s__uhhuh .__c4
+__s__oh .__c0
+__b__r - r zero .__c0
+__s__right ?__c2
+__s__uhhuh .__c4
+__s^aa__so if it's - if it's - um - if it's low energy uh - but the - but the spectrum looks like that or like that it's probably silence .__c2
+__b__uhhuh .__c4
+__s.%--__uh - but if it's low energy and the spectrum looks like that it's probably unvoiced .__c2
+__s^bk__yeah .__c4
+__qy^bu^d^rt__so if you just - if you just had to pick two features to determine voiced unvoiced you'd pick something about the spectrum like uh - r one over r zero um - and r zero .__c2
+__s^aa__uhhuh .__c4
+__s__okay .__c4
+__%-__or i- - i- - you know you'd have some other energy measure .__c2
+__s^aa|s^na__and ==__c2
+__s^cs__like in the old days people did like uh - zero crossing counts .__c2
+__s^ba^j|qy^bu^d^j__yeah yeah .__c4
+__s^aa^j__right ?__c2
+__s^bd|s^bk__s- ==__c2
+__s^bk__well | i can also th- - use this .__c4
+__fg|s^t:qw__yeah .__c2
+__fh|s^rt__um ==__c2
+__s^rt__bec- - because the result are a little bit better .__c4
+__s^rt__but we have in a point that everything is more or less the similar - more or less similar .__c4
+__s.%--__yeah .__c2
+__s__but um ==__c2
+__s^rt__it's not quite better .__c4
+__s__right | but it seemed to me that what you were - what you were getting at before was that there is something about the difference between the original signal or the original f f t and with the filter which is what ==__c2
+__fh__and the variance was one take uh - on it .__c2
+__s.%-__yeah .__c4
+__s^bk__i used this too .__c4
+__s.%--__right .__c2
+__s^aa__but it - it could be something else .__c2
+__s__suppose you didn't have anything like that .__c2
+__s__then in that case if you have two nets ==__c2
+__s__all right | and this one has three outputs and this one has f- ==__c2
+__s^bk__uhhuh .__c4
+__s__whatever .__c2
+__s__fifty six or something .__c2
+__x__uhhuh .__c4
+__s__if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here we've found in the past you'll do better at voiced-unvoiced-silence than you do with this one .__c2
+__fg|s__so just having the three output thing doesn't - doesn't really buy you anything .__c2
+__s^ar__yeah .__c4
+__b__the issue is what you feed it .__c2
+__b.%__yeah .__c4
+__s__i have ==__c4
+__s^ba^t1__yeah .__c4
+__b__so uh ==__c2
+__b__so you're saying take the features that go into the voiced-unvoiced-silence net and feed those into the other one as additional inputs rather than having a separate ==__c5
+__b__no ==__c4
+__s__w- - w- - well that's another way .__c2
+__s^no__yeah .__c4
+__s^aa|s^na__that wasn't what i was saying .__c2
+__s^bk__but yeah that's certainly another thing to do .__c2
+__s__no i was just trying to say if you b- - if you bring this into the picture over this what more does it buy you ?__c2
+__s^bk|s__huh .__c5
+__s^m^na__and what i was saying is that the only thing i think that it buys you is um - based on whether you feed it something different .__c2
+__s^bk__and something different in some fundamental way .__c2
+__fh|s.%--__and so the kind of thing that - that she was talking about before was looking at something uh - ab- - um - something uh about the difference between the - the uh - um - log f f t uh - log power uh - and the log magnitude uh - f f- - spectrum uh - and the um - uh - filter bank .__c2
+__fh__yeah .__c4
+__s__and so the filter bank is chosen in fact to sort of integrate out the effects of pitch .__c2
+__s^bk__and she's saying ==__c2
+__qw.%--__you know trying ==__c2
+__qy^rt__so the particular measure that she chose was the variance of this m- - of this difference .__c2
+__s^aa__uhhuh .__c4
+__s^e^na__but that might not be the right number .__c2
+__s^bu^rt__maybe .__c4
+__s^e^rt__right ?__c2
+__s^ar|%__i mean maybe there's something about the variance that's - that's not enough .__c2
+__s^rt__or maybe there's something else that - that one could use .__c2
+__s^na__but i think that for me the thing that - that struck me was that uh - you want to get something back here .__c2
+__s__so here's - here's an idea .__c2
+__s^ng^rt__uh - what about it you skip all the - all the really clever things and just fed the log magnitude spectrum into this ?__c2
+__s^df.%--__uh - i'm sorry .__c4
+__s^df__this is f- ==__c2
+__s^2.%__you have the log magnitude spectrum and you were looking at that and the difference between the filter bank and - and c- - c- - computing the variance .__c2
+__b__yeah .__c4
+__fh__uhhuh .__c4
+__s^f__uhhuh .__c4
+__b__that's a clever thing to do .__c2
+__s__what if you stopped being clever ?__c2
+__fh__ha !__c4
+__s^co__and you just took this thing in here because it's a neural net and neural nets are wonderful .__c2
+__s^cc__and figure out what they can - what they most need from things and i mean that's what they're good at .__c2
+__s__yeah .__c4
+__s^df__so i mean you're - you're - you're trying to be clever and say what's the statistic that should - we should get about this difference .__c2
+__fg|s.%--__but uh - in fact you know maybe just feeding this in or - or feeding both of them in .__c2
+__fh__huh .__c5
+__s__you know another way saying let it figure out what's the - what is the interaction .__c2
+__s__especially if you do this over multiple frames .__c2
+__qy^rt__uhhuh .__c4
+__s__then you have this over time and - and both kinds of measures .__c2
+__s^aa|s__and uh - you might get uh - something better .__c2
+__qw__uhhuh .__c4
+__s__um ==__c2
+__s^e__so - so don't - uh - don't do the division .__c5
+__s^bk__but let the net have everything .__c5
+__s__that's another thing you could do .__c2
+__s^j:s__yeah .__c2
+__s^2__yeah .__c2
+__s__yeah .__c4
+__s__um ==__c2
+__qw^br^d^rt__i mean it seems to me if you have exactly the right thing then it's better to do it without the net .__c2
+__s__because otherwise you're asking the net to learn this .__c2
+__s^e__you know say if you wanted to learn how to do multiplication .__c2
+__s^bk__uhhuh .__c5
+__fh__i mean you could feed it a bunch of s- - you could feed two numbers that you wanted to multiply into a net .__c2
+__s^j__and have a bunch of non linearities in the middle .__c2
+__s^aa|s^na__and train it to get the product of the output and it would work .__c2
+__s__but it's kind of crazy .__c2
+__s__because we know how to multiply .__c2
+__s__and you - you'd be you know much lower error usually if you just multiplied it out .__c2
+__s__but suppose you don't really know what the right thing is .__c2
+__s__and that's what these sort of dumb machine learning methods are good at .__c2
+__s.%-__so ==__c2
+__s^cs__um ==__c2
+__qw^br^rt__anyway .__c2
+__s^r__it's just a thought .__c2
+__%__how long does it take carmen to train up one of these nets ?__c5
+__qy^rt__oh | not too much .__c4
+__s__yeah .__c5
+__s^ng.%-__huh one day or less .__c4
+__fh__huh .__c5
+__%-__yeah .__c2
+__s^ng__it's probably worth it .__c2
+__s__what are - what are your f- - uh - frame error rates for - for this ?__c0
+__s^cs^ng__uh - | fifty f- - six .__c4
+__s^bk__uh - no | the frame error rate ?__c4
+__s^ng.%--__fifty six i think .__c4
+__s^bk__o- ==__c0
+__s__is that - maybe that's accuracy ?__c2
+__b__percent .__c4
+__s^e__the accuracy .__c4
+__b__fif- - fifty six percent accurate for v- - voice unvoice ==__c0
+__b__uhhuh .__c4
+__s__no | for ==__c4
+__s__yes | f- ==__c4
+__s__i don't remember for voice unvoice .__c4
+__fg__oh okay .__c0
+__s^co^t1__maybe for the other one .__c4
+__s^ba^bd__yeah | voiced unvoiced hopefully would be a lot better .__c2
+__fg__okay .__c0
+__s^t^tc__for voiced .__c4
+__s__i don't reme- ==__c4
+__%__should be in nineties somewhere .__c0
+__qw^rt__better .__c4
+__s^aa__maybe for voice unvoice .__c4
+__s^no__right .__c0
+__fh|s__this is for the other one .__c4
+__s__i should - i can't show that .__c4
+__s__okay .__c0
+__b__but i think that fifty five was for the - when the output are the fifty six phone .__c4
+__s^j__uhhuh .__c0
+__s^e^j__that i look in the - with the other - nnn - the other m l p that we have are more or less the same number .__c4
+__qy^rt__silence will be better but more or less the same .__c4
+__s^bk__i think at the frame level for fifty six that was the kind of number we were getting for - for uh - um - reduced band width uh - stuff .__c2
+__qrr.%--__i think that - i - i - i think that for the other one for the three output is sixty- - sixty two sixty- - three more or less .__c4
+__s^bk^j__uhhuh .__c0
+__s^bk__that's all ?__c2
+__fh|s^no__it's ==__c4
+__s^rt__yeah .__c4
+__b__that's pretty bad .__c2
+__%-__yeah | because it's noise also .__c4
+__s|qy^d^f^g^rt__aha !__c2
+__s^f|s__oh yeah .__c0
+__x__and we have ==__c4
+__fh|s__aha !__c2
+__fh|s__yeah .__c2
+__s^bk^rt__i know .__c4
+__fh|s^t__yeah .__c2
+__s^e^rt__okay .__c2
+__s^bk^m.%--__but even i- - in ==__c2
+__s__oh yeah in training .__c2
+__s^bk__still ==__c2
+__qh^e__uh ==__c2
+__qw__well actually so this is a test that you should do then .__c2
+__s^bk__um - if you're getting fifty six percent over here ==__c2
+__s^fe__uh - that's in noise also .__c2
+__s^rt:qy^rt__right ?__c2
+__qy__yeah yeah yeah .__c4
+__s^na__oh okay .__c2
+__qy.%-__if you're getting fifty six here try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones .__c2
+__s__will be ==__c4
+__s^aa__and see what you get then .__c2
+__s__yeah .__c4
+__s^e__i bet you get better than sixty three .__c2
+__s^2__well i don't know .__c4
+__b__but - i th- - i - i think that we - i have the result more or less maybe .__c4
+__%__i don't know .__c4
+__b__i don't - i'm not sure but i remember @reject@ that i can't show that .__c4
+__b__okay | but that's a - that is a - a good check point .__c2
+__s.%-__you should do that anyway .__c2
+__s^ba^j__yeah .__c4
+__%-__okay ?__c2
+__%-__given this - this uh - regular old net that's just for choosing for other purposes uh - add up the probabilities of the different subclasses and see - see how well you do .__c2
+__s^bk|s^ba__uh - and that - you know anything that you do over here should be at least as good as that .__c2
+__s__uhhuh .__c4
+__fg__okay .__c2
+__fh__i will do that .__c4
+__s__the targets for the neural net uh - they come from forced alignments ?__c5
+__fh__but ==__c4
+__b__uh - | no .__c4
+__s.%-__timit canonical ma- - mappings .__c0
+__fg|s.%-__timit .__c4
+__fg|s__uh .__c5
+__%__oh | so this is trained on timit .__c2
+__s^e__okay .__c5
+__fh|s__yeah .__c4
+__fg|s:qw__yeah | noisy timit .__c0
+__s__okay .__c2
+__%-__yeah this for timit .__c4
+__s^aa|s.%--__but noisy timit ?__c2
+__s^aa__noisy timit .__c4
+__fh__right .__c0
+__fh__we have noisy timit with the noise of the - the t i digits .__c4
+__s^bk__and now we have another noisy timit also with the noise of uh - italian data base .__c4
+__s__i see .__c2
+__s.%--__yeah .__c2
+__s__well there's going to be - it looks like there's going to be a noisy - uh - some large vocabulary noisy stuff too .__c2
+__s__somebody's preparing .__c2
+__s^e__really ?__c5
+__s__yeah .__c2
+__fh__i forget what it'll be .__c2
+__s__resource management .__c2
+__fh__wall street journal .__c2
+__s__something .__c2
+__fh__some - some read task actually that they're preparing .__c2
+__s__huh !__c0
+__s__for what ?==__c5
+__s^bk^fe__for aurora ?__c5
+__fh|s.%-__yeah .__c2
+__b__oh !__c5
+__s^ba__yeah | so the uh ==__c2
+__qw^br__uh - | the issue is whether people make a decision now based on what they've already seen or they make it later .__c2
+__s^r__and one of the arguments for making it later is let's make sure that whatever techniques that we're using work for something more than - than connected digits .__c2
+__s^na__huh .__c5
+__s^aa__so ==__c2
+__b__when are they planning - when would they do that ?__c5
+__s__huh | i think late - uh - i think in the summer sometime .__c2
+__s__huh .__c5
+__s__so ==__c2
+__s.%--__okay thanks .__c2
+__s__this is the work that i did during this date .__c4
+__b__uhhuh .__c2
+__s__and also huh i - h- - hynek last week say that if i have time i can to begin to - to study .__c4
+__s__well seriously the france telecom proposal ==__c4
+__s__uhhuh .__c2
+__fh__to look at the code ==__c4
+__s.%--__and something like that .__c4
+__fh__to know exactly what they are doing ==__c4
+__s__because maybe that we can have some ideas .__c4
+__s__uhhuh .__c2
+__s__but not only to read the proposal .__c4
+__s__look insi- - look i- - carefully what they are doing with the program and something like that .__c4
+__s__and i begin to - to work also in that .__c4
+__s__but the first thing that i don't understand is that they are using r - the uh - log energy that this quite ==__c4
+__s__i don't know why they have some constant in the expression of the lower energy .__c4
+__s^f|s__i don't know what that means .__c4
+__s__they have a constant in there you said ?__c5
+__s__yeah .__c4
+__s__oh | at the front it says uh - log energy is equal to the rounded version of sixteen over the log of two .__c2
+__s__this ==__c4
+__s__yeah .__c4
+__fh__uh ==__c2
+__s__then maybe i can understand .__c4
+__s.%--__uh - times the ==__c2
+__s__well this is natural log .__c2
+__s.%--__and maybe it has something to do with the fact that this is ==__c2
+__fh__is that some kind of base conversion ?__c5
+__s__i - i have no idea .__c2
+__s^aa__or ?==__c5
+__s^df__yeah | that's what i was thinking .__c2
+__s^df^e.%--__but - but um - then there's the sixty four .__c2
+__fh__uh - i don't know .__c2
+__s__because maybe they're - the threshold that they are using on the basis of this value ==__c4
+__fg|s.%--__experimental results .__c5
+__fg|s.%--__mc- - mcdonald's constant .__c0
+__s__i don't know exactly .__c4
+__s__because well th- - i thought maybe they have a meaning .__c4
+__b__but i don't know what is the meaning of take exactly this value .__c4
+__fh__yeah | it's pretty funny looking .__c2
+__s__so they're taking the number inside the log and raising it to sixteen over log base two .__c5
+__s__i don't know .__c2
+__s:s__yeah | i ==__c2
+__fh__um | right .__c2
+__s^ba__sixteen over two .__c2
+__s__does it have to do with those sixty fours ?__c5
+__s__or ?==__c5
+__b__um ==__c2
+__s^ba__if we ignore the sixteen the natural log of t- - one over the natural log of two times the natu- ==__c2
+__s__i don't know .__c2
+__s__uhhuh .__c5
+__s__well maybe somebody will think of something .__c2
+__s__but this is uh ==__c2
+__b__it may just be that they - they want to have - for very small energies ==__c2
+__s__they want to have some kind of a ==__c2
+__s__yeah | the e- - the effect i don't - @reject@ i can understand the effect of this .__c4
+__s__no ?__c4
+__b__because it's to - to do something like that .__c4
+__s__no ?__c4
+__s^bk__well it says since you're taking a natural log it says that when - when you get down to essentially zero energy this is going to be the natural log of one which is zero .__c2
+__%--__uhhuh .__c4
+__fh__so it'll go down to - uh - to the natural log being ==__c2
+__fg|s^tc.%--__so the lowest value for this would be zero .__c2
+__fh__so y- - you're restricted to being positive .__c2
+__s__and this sort of smooths it for very small energies .__c2
+__b__uh - why they chose sixty four and something else that was probably just experimental .__c2
+__s__yeah .__c4
+__b__and the - the - the constant in front of it i have no idea .__c2
+__b__um ==__c2
+__s^fa|s^bsc__well | i - i will look to try if i move this parameter in their code what happens ?__c4
+__s^j__maybe everything is - maybe they tres hole are on basis of this .__c4
+__fh|s__uh i mean it - they - they probably have some fi- - particular s- - fixed point arithmetic that they're using .__c2
+__s^f__i don't know .__c4
+__s^bk__yeah | i was just going to say maybe it has something to do with hardware .__c5
+__s__and then it just ==__c2
+__%-__something they were doing .__c5
+__fg|s__yeah .__c2
+__fh|s__yeah .__c2
+__s.%-__i mean that - they're s- - probably working with fixed point or integer or something .__c2
+__b__i think you're supposed to on this stuff anyway .__c2
+__s^2__and - and so maybe that puts it in the right realm somewhere .__c2
+__s^m^na|%-__well it just yeah puts it in the right range .__c5
+__b__or ==__c5
+__fg|s__yeah .__c2
+__s^aa__i think given at the level you're doing things in floating point on the computer i don't think it matters would be my guess .__c2
+__%--__uhhuh .__c4
+__s^aa__but ==__c2
+__s__i - this more or less anything ==__c4
+__s.%--__yeah .__c2
+__s|qy^d^f^g__okay | and wh- - when did stephane take off ?__c2
+__s^aa__he took off ==__c2
+__s^e__i think that stephane will arrive today or tomorrow .__c4
+__b__oh | he was gone these first few days .__c2
+__fg__and then he's here for a couple days before he goes to salt lake city .__c2
+__b__uhhuh .__c4
+__fh__okay .__c2
+__s__he's - i think that he is in las vegas or something like that .__c4
+__qw^br__yeah .__c2
+__s^r__yeah .__c2
+__s^aap__so he's - he's going to i. cassp which is good .__c2
+__b__i - i don't know if there are many people who are going to i. cassp .__c2
+__s.%--__yeah .__c4
+__fh|s^cs__so - so i thought make sure somebody go .__c2
+__%-__yeah .__c4
+__qw__do - have - have people sort of stopped going to i. cassp in recent years ?__c5
+__qy^bu^d^rt__um - | people are less consistent about going to i. cassp .__c2
+__qrr.%--__and i think it's still - it's still a reasonable forum for students to - to present things .__c2
+__s^ar__uh - it's - i think for engineering students of any kind i think it's - it's if you haven't been there much it's good to go to .__c2
+__s__uh - to get a feel for things a range of things .__c2
+__s__not just speech .__c2
+__s.%--__uh ==__c2
+__s^bk^m__but i think for - for sort of dyed in the wool speech people um - i think that i c s l p and eurospeech are much more targeted .__c2
+__s.%-__uhhuh .__c5
+__%--__uh ==__c2
+__s^aa__and then there's these other meetings like h l t and - and uh - a s r u .__c2
+__s^cs.%-__uhhuh .__c5
+__s__so there's - there's actually plenty of meetings that are really relevant to - to uh - computational uh - speech processing of one sort or another .__c2
+__s__uhhuh .__c5
+__s__uhhuh .__c5
+__s^bk|s^cs__um so ==__c2
+__s^ba^bk__i mean i mostly just ignored it because i was too busy and didn't get to it .__c2
+__s__so uh ==__c2
+__b__want to talk a little bit about what we were talking about this morning ?__c2
+__s^bk__oh !__c0
+__s^e:s__just briefly or - or anything else ?__c2
+__s^e:s__um - uh - | yeah .__c0
+__s^e:s__so i - i guess some of the progress i - i've been getting a - getting my committee members for the quals .__c0
+__s^e__and um - so far i have morgan and hynek mike jordan .__c0
+__s^bk__and i asked john ohala and he agreed .__c0
+__b__cool .__c5
+__s__yeah yeah .__c0
+__s^aa|s^cs__so i'm - i - i just need to ask um - malek .__c0
+__s^bk__one more .__c0
+__s^cs__um tsk ==__c0
+__s^bk__then uh - i talked a little bit about um - continuing with these dynamic ev- - um - acoustic events .__c0
+__fh__and um - we're - we're - we're thinking about a way to test the completeness of a - a set of um - dynamic uh - events .__c0
+__qy__uh - completeness in the - in the sense that um - if we - if we pick these x number of acoustic events do they provide sufficient coverage for the phones that we're trying to recognize or - or the f- - the words that we're going to try to recognize later on ?__c0
+__s^na__and so morgan and i were uh - discussing um - s- - uh - s- - a form of a cheating experiment where we get um - we have uh - um - a chosen set of features or acoustic events .__c0
+__s:qw__and we train up a hybrid um - system to do phone recognition on timit .__c0
+__b__so i- - i- - the idea is if we get good phone recognition results using um - these set of acoustic events then um - that - that says that these acoustic events are g- - sufficient to cover a set of phones .__c0
+__h|qh__at least found in timit .__c0
+__s__um - so i- - it would be a - a measure of are we on the right track with - with the - the choices of our acoustic events ?__c0
+__s__um - | so that's going on .__c0
+__fg|s__and also just uh - working on my uh - final project for jordan's class .__c0
+__s.%-__uh - which is ==__c0
+__s.%--__actually let me ==__c2
+__fh__hold that thought .__c2
+__s__yeah .__c0
+__fh__let me back up while we're still on it .__c2
+__s__okay sure .__c0
+__s.%-__the - the other thing i was suggesting though is that given that you're talking about binary features uh - maybe the first thing to do is just to count .__c2
+__s^aa__and uh - | count co occurrences and get probabilities for a discrete h m m .__c2
+__s.%--__because that'd be pretty simple .__c2
+__s^aa__because it's just - say if you had ten - ten events uh - that you were counting uh - each frame would only have a thousand possible values for these ten bits .__c2
+__s__and uh - | so you could make a table that would - say if you had thirty nine phone categories that would be a thousand by thirty nine .__c2
+__b__and just count the co occurrences and divide them by the - the uh - uh - uh - occ- - uh - count the co occurrences between the event and the phone and divide them by the number of occurrences of the phone .__c2
+__s__and that would give you the likelihood of the - of the event given the phone .__c2
+__s^aa__and um - then just use that in a very simple h m m .__c2
+__fg|qy__and uh - you could uh - do phone recognition then and uh - wouldn't have any of the issues of the uh - training of the net or ==__c2
+__s^aa__i mean it'd be on the simple side .__c2
+__h__but ==__c2
+__s__uhhuh .__c5
+__%-__uh - um ==__c2
+__s__you know if - uh - uh - the example i was giving was that if - if you had um - onset of voicing and - and end of voicing as being two kinds of events then if you had those a- - all marked correctly and you counted co occurrences you should get it completely right .__c2
+__fh__uhhuh .__c5
+__qy.%-__so ==__c2
+__s__um | but you'd get all the other distinctions you know randomly wrong .__c2
+__%-__i mean there'd be nothing to tell you that .__c2
+__s:s__so um - uh ==__c2
+__b__if you just do this by counting then you should be able to find out in a pretty straightforward way whether you have a sufficient uh - set of events to - to do the kind of level of - of uh - classification of phones that you'd like .__c2
+__s^bu__so that was - that was the idea .__c2
+__s^aa__and then the other thing that we were discussing was - was um - okay how do you get the - your training data ?__c2
+__s^aa__uhhuh .__c5
+__b__because uh - the switchboard transcription project uh - uh - you know was half a dozen people or so working off and on over a couple years .__c2
+__s__and ==__c2
+__s__uh - | similar - similar amount of data to what you're talking about with timit training .__c2
+__qy:qw__so it seems to me that the only reasonable starting point is uh - to automatically translate the uh - current timit markings into the markings you want .__c2
+__s^e__and uh - it won't have the kind of characteristic that you'd like of catching funny kind of things that maybe aren't there from these automatic markings .__c2
+__qrr__uhhuh .__c5
+__s^e.%-__but - but ==__c2
+__s.%--__uh - it's uh ==__c2
+__fh|s__it's probably a good place to start .__c5
+__s^2__yeah .__c2
+__b__yeah .__c5
+__s__yeah and a short - short amount of time .__c2
+__b.%__just to - again just to see if that information is sufficient to uh - determine the phones .__c2
+__s__uhhuh .__c5
+__b.%__huh .__c5
+__b__so ==__c2
+__s^aa__yeah | you could even then - to - to get an idea about how different it is you could maybe take some subset and you know go through a few sentences mark them by hand .__c5
+__s^aa__and then see how different it is from you know the canonical ones .__c5
+__s^e.%-__right .__c2
+__s^e__just to get an idea - a rough idea of h- - if it really even makes a difference .__c5
+__s^nd__you can get a little feeling for it that way .__c2
+__s^bk__yeah .__c5
+__s^aa__yeah that is probably right .__c2
+__b__i mean uh - my - my guess would be that this is - since timit's read speech that this would be less of a big deal .__c2
+__s.%-:s.%-__uhhuh .__c5
+__b__if you went and looked at spontaneous speech it'd be more - more of one .__c2
+__s^2__right .__c5
+__b__right .__c5
+__s__and the other thing would be say if you had these ten events you'd want to see well what if you took two events or four events or ten events or t- ==__c2
+__fg|s__and you know and ==__c2
+__qrr__and hopefully there should be some point at which having more information doesn't tell you really all that much more about what the phones are .__c2
+__%-__uhhuh .__c5
+__b__you could define other events as being sequences of these events too .__c5
+__b__uh - | you could .__c2
+__%__but the thing is what he's talking about here is a - uh - a translation to a per frame feature vector .__c2
+__s__so there's no sequence in that .__c2
+__b__i think .__c2
+__s__i think it's just a ==__c2
+__fg__unless you did like a second pass over it or something after you've got your ==__c5
+__s__yeah | but we're just talking about something simple here yeah to see if ==__c2
+__s^aa__yeah .__c5
+__s^am__yeah yeah .__c5
+__s.%--__yeah .__c5
+__s__i'm adding complexity .__c5
+__s^bk__yeah .__c2
+__s^bk__just ==__c2
+__b__you know | the idea is with a - with a very simple statistical structure could you - could you uh - at least verify that you've chosen features that are sufficient ?__c2
+__s^2__yeah .__c5
+__s^2|s^bk__okay | and you were saying something - starting to say something else about your - your class project or ?==__c2
+__b__oh .__c0
+__s|s^bk__yeah th- - um ==__c0
+__s^df__yeah .__c2
+__b__so | for my class project i'm - um - i'm tinkering with uh - support vector machines .__c0
+__s^cs__something that we learned in class .__c0
+__s^bk__and uh - um - | basically just another method for doing classification .__c0
+__s__and so i'm going to apply that to um - compare it with the results by um - king and taylor who did um - these .__c0
+__s.%--__um ==__c0
+__s__using recurrent neural nets they recognized um - a set of phonological features .__c0
+__s__um ==__c0
+__s__and made a mapping from the m f c c's to these phonological features .__c0
+__s__so i'm going to do a similar thing with - with support vector machines .__c0
+__s__and see if ==__c0
+__s__so what's the advantage of support vector machines ?__c5
+__s^ba__what ?==__c5
+__s^aa__um - | so support vector machines are - are good with dealing with a less amount of data .__c0
+__fg|s.%--__huh .__c5
+__fh__and um - | so if you - if you give it less data it still does a reasonable job in learning the - the patterns .__c0
+__s:s__huh .__c5
+__s^e__um - and um ==__c0
+__s|s^f__i guess it ==__c2
+__s^ba__yeah .__c2
+__s^rt__they're sort of succinct .__c2
+__s__and - and they uh ==__c2
+__s__yeah .__c0
+__s__does there some kind of a distance metric that they use ?__c5
+__s__or how do they for cla- - what do they do for classification ?__c5
+__s__um .__c0
+__s^rt__right .__c0
+__s__so the - the simple idea behind a support vector machine is um - you have - you have this feature space .__c0
+__s__right ?__c0
+__s__uhhuh .__c5
+__s.%--__and then it finds the optimal separating plane um - between these two different um - classes .__c0
+__s__uhhuh .__c5
+__s.%-__uhhuh .__c5
+__s.%-__and - um - and so um ==__c0
+__s__what it - i- - at the end of the day what it actually does is it picks those examples of the features that are closest to the separating boundary .__c0
+__s:qw__and remembers those .__c0
+__b__uhhuh .__c5
+__s.%-__and - and uses them to recreate the boundary for the test set .__c0
+__s__so given these - um - these features or - or these - these examples - um - critical examples which they call support f- - support vectors then um - given a new example if the new example falls um - away from the boundary in one direction then it's classified as being a part of this particular class .__c0
+__b__oh .__c5
+__s^2__and otherwise it's the other class .__c0
+__b__so why save the examples ?__c5
+__s^bk__why not just save what the boundary itself is ?__c5
+__fg|s__uhhuh .__c0
+__s^e__um - huh ==__c0
+__b__let's see .__c0
+__s.%--__uh ==__c0
+__b__yeah that's a good question .__c0
+__fh__i ==__c0
+__fg|qh.%--__that's another way of doing it .__c2
+__s__yeah .__c0
+__s__huh .__c5
+__s^bk__right so - | so it i - mean i - i guess it's ==__c2
+__s^am__sort of an equivalent .__c5
+__fh__you know it - it goes back to nearest neighbor sort of thing .__c2
+__s.%--__uhhuh .__c5
+__s__right .__c2
+__s__um - i- - i- - if - is it uh - w- ==__c2
+__s^bk|s__when is nearest neighbor good ?__c2
+__s.%-__well nearest neighbor good - is good if you have lots and lots of examples .__c2
+__s^ba|s^bk__um - but of course if you have lots and lots of examples then it can take a while to - to use nearest neighbor .__c2
+__s.%--__there's lots of look ups .__c2
+__s^f__so a long time ago people talked about things where you would have uh - a condensed nearest neighbor .__c2
+__s.%--__where you would - you would - you would pick out uh - some representative examples which would uh - be sufficient to represent - to - to correctly classify everything that came in .__c2
+__fh__oh .__c5
+__s^2__uhhuh .__c5
+__s.%--__i - i think s- - i think support vector stuff sort of goes back to - to that kind of thing .__c2
+__s.%--__i see .__c5
+__s__um ==__c2
+__b__so rather than doing nearest neighbor where you compare to every single one you just pick a few critical ones .__c5
+__b__and ==__c5
+__s__yeah .__c2
+__s^df__huh .__c5
+__s^aa__and th- - the ==__c2
+__s^df^e__you know um - neural net approach uh - or gaussian mixtures for that matter are sort of - fairly brute force kinds of things where you sort of - you predefine that there is this big bunch of parameters .__c2
+__s.%-__and then you - you place them as you best can to define the boundaries .__c2
+__s__and in fact as you know these things do take a lot of parameters ==__c2
+__fg|s^2__and - and uh - if you have uh - only a modest amount of data you have trouble uh - learning them .__c2
+__b__um - | so i - i guess the idea to this is that it - it is reputed to uh - be somewhat better in that regard .__c2
+__s.%--__uhhuh .__c5
+__b__right .__c0
+__s.%--__i- - it can be a - a reduced um - parameterization of - of the - the model by just keeping certain selected examples .__c0
+__s__huh .__c5
+__b__yeah .__c0
+__s__so ==__c0
+__s.%--__but i don't know if people have done sort of careful comparisons of this on large tasks or anything .__c2
+__s^bk__maybe - maybe they have .__c2
+__s__i don't know .__c2
+__fh__yeah i don't know either .__c0
+__s__yeah .__c2
+__s__s- - do you get some kind of number between zero and one at the output ?__c1
+__s.%-__actually you don't get a - you don't get a nice number between zero and one .__c0
+__s^2__you get - you get either a zero or a one .__c0
+__s__um - uh ==__c0
+__b__there are - there are pap- ==__c0
+__b__well basically it's - it's um - you - you get a distance measure at the end of the day .__c0
+__b__and then that distance measure is - is - um - is translated to a zero or one .__c0
+__s__um ==__c0
+__s^e__but that's looking at it for - for classification - for binary classification .__c2
+__b__that's for classification .__c0
+__s^e.%-:s.%-__and you get that for each class you get a zero or a one .__c5
+__s__right ?__c2
+__s__right .__c0
+__s^aa|s^na:s__right .__c0
+__s^e__but you have the distances to work with .__c2
+__s^e^na:s__you have the distances to work with .__c0
+__b__because actually mississippi state people did use support vector machines for uh - uh - speech recognition and they were using it to estimate probabilities .__c2
+__s__yeah .__c0
+__s:qw__yeah .__c0
+__b__yeah | they - they had a - had a way to translate the distances into - into probabilities with the - with the simple um - uh - sigmoidal function .__c0
+__%--__yeah .__c2
+__fh__and d- - did they use sigmoid or a softmax type thing ?__c2
+__s.%--__and didn't they like exponentiate or something ?__c2
+__s__um | yeah .__c0
+__b__and then divide by the sum of them ?__c2
+__s__there's some - there's like one over one plus the exponential or something like that .__c0
+__fg|s:qw__or ==__c2
+__b__oh | it - i- ==__c2
+__s__oh so it is a sigmoidal .__c2
+__s__yeah .__c0
+__b__okay .__c2
+__b__all right .__c2
+__b__did the - did they get good results with that ?__c5
+__b__i mean they're okay .__c2
+__s^bu|qy^d^rt__i - i don't - i don't think they were earth - earth shattering .__c2
+__s^bu^e__but i think that uh - this was a couple years ago .__c2
+__s^aa|%-__huh .__c5
+__s^aa__i remember them doing it at some meeting .__c2
+__s^e__and - and um - | i don't think people were very critical because it was interesting just to - to try this .__c2
+__s^bk__and you know it was the first time they tried it .__c2
+__s^bk__so - so the - you know the numbers were not incredibly good .__c2
+__b__huh .__c5
+__fg|s.%-__but there's - you know it was th- - reasonable .__c2
+__s.%--__uhhuh .__c5
+__s.%-__i - i don't remember anymore .__c2
+__s^ar|s__i don't even remember what the task was .__c2
+__%--__it was broadcast news or something .__c2
+__s__i don't know .__c2
+__s^2__huh .__c5
+__s^2__right .__c0
+__%-__uh - s- - so barry if you just have zero and ones how are you doing the speech recognition ?__c1
+__s^bk__oh !__c0
+__s^cs:s__i'm not do- - i'm not planning on doing speech recognition with it .__c0
+__b__i'm just doing detection of phonological features .__c0
+__b__oh okay .__c1
+__fg|s__so uh - for example this - this uh - feature set called the uh - sound patterns of english um - is just a bunch of um - binary valued features .__c0
+__s^e__let's say is this voicing or is this not voicing ?__c0
+__fh__is this sonorants not sonorants ?__c0
+__fg|s:qy__and stuff like that .__c0
+__s^bu__okay .__c1
+__s^aa__so ==__c0
+__s^bk__did you find any more mistakes in their tables ?__c5
+__s.%--__oh !__c0
+__s.%--__uh - | i haven't gone through the entire table yet .__c0
+__fh__yeah .__c0
+__s^am^t1__yesterday i brought chuck the table .__c0
+__s^cc__and i was like wait this - is - is the mapping from n to - to this phonological feature called um - coronal .__c0
+__b__is - is - should it be - shouldn't it be a one .__c0
+__s^no__or should it - should it be you know coronal instead of not coronal as it was labelled in the paper .__c0
+__s__so i ha- - haven't hunted down all the - all the mistakes yet .__c0
+__s^df__uhhuh .__c2
+__b__but ==__c0
+__s__but a- - as i was saying people do get probabilities from these things .__c2
+__s:s__okay .__c1
+__s__and - and uh - we were just trying to remember how they do .__c2
+__%--__but people have used it for speech recognition and they have gotten probabilities .__c2
+__s^bd^no__so they have some conversion from these distances to probabilities .__c2
+__s.%--__okay .__c1
+__qw^rt__right yeah .__c0
+__qo.%-__there's - you have - you have the paper .__c2
+__s.%--__right ?__c2
+__s.%--__the mississippi state paper ?__c2
+__s__uhhuh .__c0
+__s__uhhuh .__c0
+__s__yeah if you're interested y- - you could look .__c2
+__b__and ==__c1
+__s^bk__okay okay .__c1
+__s^df__yeah .__c0
+__s__yeah .__c2
+__%--__i can - i can show you - i ==__c0
+__fh|%--__yeah .__c0
+__s__so in your - in - in the thing that you're doing uh - you have a vector of ones and zeros for each phone ?__c5
+__s^df__our ==__c0
+__s__uhhuh .__c0
+__b__uh - is this the class project ?__c0
+__s^e__or ?==__c0
+__fg|s^na__yeah .__c5
+__b__okay .__c0
+__b.%__um ==__c0
+__fh.%__is that what you're ?==__c5
+__s.%--__right right right .__c0
+__x__f- - so for every phone there is - there is a - um - a vector of ones and zeros f- - uh - corresponding to whether it exhibits a particular phonological feature or not .__c0
+__s.%--__uhhuh .__c5
+__s__uhhuh .__c5
+__fh__and so when you do your ==__c5
+__s.%--__wh- - i'm - what is the task for the class project ?__c5
+__s__to come up with the phones ?__c5
+__fh__um ==__c0
+__s__or to come up with these vectors to see how closely they match the phones ?__c5
+__s^ba__oh .__c0
+__fg|s__right .__c0
+__s^aa__um - | to come up with a mapping from um - m f c c's or s- - some feature set um - to uh - w- - to whether there's existence of a particular phonological feature .__c0
+__fh|s__or ?==__c5
+__s__uhhuh .__c5
+__s^aa__and um ==__c0
+__s^bk__yeah .__c0
+__s__basically it's to learn a mapping from - from the m f c c's to uh - phonological features .__c0
+__s__is it - did that answer your question ?__c0
+__s^bk|%-__i think so .__c5
+__s^bk|s:s__okay .__c0
+__b.%__i guess - i mean - uh - i'm not sure what you - what you're - what you get out of your system .__c5
+__s^fe^rt__c- ==__c0
+__s__do you get out a - uh - a vector of these ones and zeros and then try to find the closest matching phoneme to that vector ?__c5
+__s^ar^fe__uhhuh .__c0
+__s^nd__or ?==__c5
+__s^na__oh .__c0
+__s^fe__no no .__c0
+__s__i'm not - i'm not planning to do any - any phoneme mapping yet .__c0
+__b__just it's - it's basically - it's - it's really simple basically a detection of phonological features .__c0
+__b__uhhuh .__c5
+__s^cs^t^tc__i see .__c5
+__s.%-__yeah .__c0
+__fg|s__and um - because the uh ==__c0
+__fg|s__so king and - and taylor um - did this with uh - recurrent neural nets .__c0
+__s^bk__yeah .__c5
+__b.%__uhhuh .__c5
+__s|s^bk__and this i- - their - their idea was to first find a mapping from m f c c's to uh - phonological features .__c0
+__s^bk__and then later on once you have these phonological features then uh - map that to phones .__c0
+__fh__uhhuh .__c5
+____so i'm - i'm sort of reproducing phase one of their stuff .__c0
+____huh .__c5
+____so they had one recurrent net for each particular feature ?__c5
+____right .__c0
+____right right right .__c0
+____i see .__c5
+__fh__i wo- - did they compare that - i mean what if you just did phone recognition and did the reverse lookup ?__c5
+__fg|s__uh ==__c0
+__s__so you recognize a phone and which ever phone was recognized you spit out it's vector of ones and zeros .__c5
+__s__uhhuh .__c0
+__b.%__i expect you could do that .__c2
+__b.%__i mean uh ==__c5
+__s^df.%-__uh .__c0
+__fg|s__that's probably not what he's going to do on his class project .__c2
+__qw^br__yeah .__c5
+__s^aa__yeah .__c2
+__s^r__no .__c5
+__b__so um - have you had a chance to do this um - thing we talked about yet with the uh ?==__c2
+__s.%-__yeah .__c0
+__s__um ==__c2
+__fg|s^df__insertion penalty ?__c5
+__s^e__uh - no | actually i was going a different ==__c2
+__fg|s__that's a good question too .__c2
+__s^aa__but i was going to ask about the - the um - changes to the data in comparing p l p and mel cepstrum for the s r i system .__c2
+__fg|s__uh ==__c5
+__s^ba^j__well what i've been ==__c5
+__s.%-__changes to the data .__c5
+__b__i'm not sure i ==__c5
+__qy^rt__right .__c2
+__s^ar|s^nd__so we talked on the phone about this that - that there was still a difference of a - of a few percent .__c2
+__x__yeah .__c5
+__%-__right .__c5
+__s^ba^j__and you told me that there was a difference in how the normalization was done .__c2
+__s^e__and i was asking if you were going to do - redo it uh - for p l p with the normalization done as it had been done for the mel cepstrum .__c2
+__fh__uhhuh .__c5
+__b__uh - | right .__c5
+__fg|s^ng__no | i haven't had a chance to do that .__c5
+__s^nd__what i've been doing is uh - trying to figure out ==__c5
+__s^bk__okay .__c2
+__s^e__it just seems to me like there's a - um ==__c5
+__s^ar|s^j^nd__well it seems like there's a bug .__c5
+__s^aa^j|s^fa^j__because the difference in performance is - it's not gigantic .__c5
+__s^bk__but it's big enough that it - it seems wrong .__c5
+__s.%-__yeah .__c2
+__s^bk__i agree .__c2
+__s__and ==__c5
+__s^cs^e.%-__but i thought that the normalization difference was one of the possibilities .__c2
+__s^bk__yeah | but i don't - i'm not ==__c5
+__fg|s.%-__right ?__c2
+__s^nd.%-__yeah .__c5
+__s^bk|s^nd__i guess i don't think that the normalization difference is going to account for everything .__c5
+__fg|s^df__so what i was working on is um - just going through and checking the headers of the wavefiles .__c5
+__b.%__okay .__c2
+__qy^bu__to see if maybe there was a - um - a certain type of compression or something that was done that my script wasn't catching .__c5
+__s^ar__so that for some subset of the training data uh - the - the - the features i was computing were junk .__c5
+__fh__okay .__c2
+__s__which would you know cause it to perform okay .__c5
+__s__but uh - you know the - the models would be all messed up .__c5
+__s__so i was going through and just double checking that kind of think first to see if there was just some kind of obvious bug in the way that i was computing the features .__c5
+__fh__uhhuh .__c2
+__s__i see .__c2
+__b.%__okay .__c2
+__%__looking at all the sampling rates to make sure all the sampling rates were what - eight k what i was assuming they were .__c5
+__s__yeah .__c2
+__fh__um ==__c5
+__s|s^bk__yeah that makes sense to check all that .__c2
+__%-__yeah .__c5
+__s__so i was doing that first before i did these other things just to make sure there wasn't something ==__c5
+__s^aa__although really uh - uh - a couple three percent uh - difference in word error rate uh - could easily come from some difference in normalization i would think .__c2
+__fh__but ==__c2
+__s^ba__yeah .__c5
+__b__and i think i'm trying to remember but i think i recall that andreas was saying that he was going to run sort of the reverse experiment .__c5
+__s__uh - | which is to try to emulate the normalization that we did .__c5
+__%-__but with the mel cepstral features .__c5
+__b__sort of you know back up from the system that he had .__c5
+__s^ar|s__i thought he said he was going to ==__c5
+__s^bu__i have to look back through my - my email from him .__c5
+__s^aa|s__yeah | he's probably off at - at uh - his meeting now .__c2
+__s.%-__yeah .__c5
+__s.%-__he's gone now .__c5
+__s.%-__um ==__c5
+__s^bk__yeah .__c2
+__x__yeah .__c2
+__s^ba__but ==__c2
+__s^ba__yeah .__c2
+__%-__the - i sh- - think they should be roughly equivalent .__c2
+__s^j__but ==__c5
+__s^j__um ==__c2
+__fh__i mean again the cambridge folk found the p l p actually to be a little better .__c2
+__qy^bh__right .__c5
+__fh|s^ba__uh - so it's - um ==__c2
+__s__i mean the other thing i wonder about was whether there was something just in the - the bootstrapping of their system which was based on ==__c2
+__b.%__but maybe not since they ==__c2
+__s^aa|s__yeah | see one thing that's a little bit um ==__c5
+__%-__i was looking - i've been studying and going through the logs for the system that um - andreas created .__c5
+__s__and um - his - uh - the way that the s r i system looks like it works is that it reads the wavefiles directly .__c5
+__b__uh - | and does all of the cepstral computation stuff on the fly .__c5
+__s__right .__c2
+__s^bk__right .__c2
+__s^bk^m__and so there's no place where these - where the cepstral files are stored anywhere that i can go look at and compare to the p l p ones .__c5
+__s^bk__so whereas with our features he's actually storing the cepstrum on disk and he reads those in .__c5
+__s^bk__right .__c2
+__s^bsc__but it looked like he had to give it - uh ==__c5
+__s__even though the cepstrum is already computed he has to give it uh - a front end parameter file .__c5
+__s.%__which talks about the kind of uh - com- - computation that his mel cepstrum thing does .__c5
+__s__uhhuh .__c2
+__s__so i- - i - i don't know if that - it probably doesn't mess it up .__c5
+__s^bk__it probably just ignores it if it determines that it's already in the right format or something .__c5
+__fg__but the - the - the two processes that happen are a little different .__c5
+__s^ba__so ==__c5
+__s__yeah .__c2
+__s__so anyway there's stuff there to sort out .__c2
+__b__yeah .__c5
+__fh|s^cs__yeah .__c5
+__b__so ==__c2
+__fg|s^cs__okay .__c2
+__fh__let's go back to what you thought i was asking you .__c2
+__%__yeah .__c5
+__s__no | and i didn't have a chance to do that .__c5
+__s__ha !__c2
+__s__oh !__c2
+__s__you had the sa- - same answer anyway .__c2
+__s__yeah .__c5
+__%__yeah | i've been - um - i've been working with um - jeremy on his project .__c5
+__s__and then i've been trying to track down this bug in uh - the icsi front end features .__c5
+__s^na__uhhuh .__c2
+__fh__so one thing that i did notice yesterday i was studying the - um - the uh - rasta code .__c5
+__s__uhhuh .__c2
+__s^df.%--__and it looks like we don't have any way to um - control the frequency range that we use in our analysis .__c5
+__fg|s__we basically - it looks to me like we do the f f t um - and then we just take all the bins .__c5
+__fg|s__and we use everything .__c5
+__s^bu__we don't have any set of parameters where we can say you know only process from you know a hundred and ten hertz to thirty seven fifty .__c5
+__%-__um ==__c2
+__qy^rt__at least i couldn't see any kind of control for that .__c5
+__s^aa|s.%-__yeah | i don't think it's in there .__c2
+__s^bk|s__i think it's in the uh - uh - uh - the filters .__c2
+__s^aa|s__so the f f t is on everything .__c2
+__b__but the filters ==__c2
+__b__um ==__c2
+__fg|s^r__for instance ignore the - the lowest bins and the highest bins .__c2
+__b__and what it does is it - it copies ==__c2
+__s^bk__the - the filters ?__c5
+__fg|qw^cs__which filters ?__c5
+__s^df__um ==__c2
+__s^df^e__the filter bank which is created by integrating over f f t bins .__c2
+__s__uhhuh .__c5
+__%-__um ==__c2
+__s^2__when you get the mel - when you go to the mel scale ?__c5
+__s.%-__right .__c2
+__s^ar|s__yeah .__c2
+__s^2__it's bark scale .__c2
+__s^m^na__and it's - it - it - um - it actually copies the - uh - um - the second filters over to the first .__c2
+__h|s__so the first filters are always ==__c2
+__s^e.%-__and you can s- - you can specify a different number of uh - features - different number of filters .__c2
+__s__i think .__c2
+__s^bk__as i recall .__c2
+__s^bd^no__so you can specify a different number of filters and whatever um - uh - you specify the last ones are going to be ignored .__c2
+__s__so that - that's a way that you sort of change what the - what the bandwidth is .__c2
+__s^ba^bd__y- - you can't do it without i think changing the number of filters .__c2
+__s.%-__i saw something about - uh - that looked like it was doing something like that but i didn't quite understand it .__c5
+__s__but ==__c2
+__s^df.%-__so maybe ==__c5
+__s^bk|s^ba__yeah | so the idea is that the very lowest frequencies and - and typically the veriest highest frequencies are kind of junk .__c2
+__s.%-__uhhuh .__c5
+__s__and so um ==__c2
+__b__you just - for continuity you just approximate them by - by the second to highest and second to lowest .__c2
+__s__uhhuh .__c5
+__b__it's just a simple thing we put in .__c2
+__fg|s__and - and so if you h- ==__c2
+__s.%-__but - so the - but that's a fixed uh - thing ?__c5
+__fh__there's nothing that lets you ?==__c5
+__s^aa|s^na__yeah | i think that's a fixed thing .__c2
+__s__but see see - my point ?__c2
+__s__if you had - if you had ten filters then you would be throwing away a lot at the two ends .__c2
+__fh__uhhuh .__c5
+__s__and if you had - if you had fifty filters you'd be throwing away hardly anything .__c2
+__s^e__uhhuh .__c5
+__s^bk__um - i don't remember there being an independent way of saying we're just going to make them from here to here .__c2
+__s^df__use this analysis bandwidth or something .__c5
+__s__but i - i - i don't know .__c2
+__s^bk.%__it's actually been awhile since i've looked at it .__c2
+__s^bk^rt__yeah | i went through the feacalc code and then looked at you know just calling the rasta libs and thing like that .__c5
+__s.%-__and i didn't - i couldn't see any wh- - place where that kind of thing was done .__c5
+__qy^bu^rt__but um - i didn't quite understand everything that i saw .__c5
+__s^ar|s^nd__yeah | see i don't know feacalc at all .__c2
+__s^bk__so ==__c5
+__s^bk__uhhuh .__c5
+__s^cs__but it calls rasta with some options .__c2
+__s^df__and um ==__c2
+__s^cs.%-__right .__c5
+__fg__but i - i think in ==__c2
+__b__i don't know .__c2
+__s^bk|s^tc.%-__i guess for some particular database you might find that you could tune that and tweak that to get that a little better .__c2
+__qy^rt__but i think that in general it's not that critical .__c2
+__qy^e^rt__i mean there's ==__c2
+__s^ar__yeah .__c5
+__s^aa__you can - you can throw away stuff below a hundred hertz or so .__c2
+__qy^bh^rt__and it's just not going to affect phonetic classification at all .__c2
+__s^df__another thing i was thinking about was um - is there a ?==__c5
+__s^bk|s^df__i was wondering if there's maybe um - certain settings of the parameters when you compute p l p which would basically cause it to output mel cepstrum .__c5
+__s^bk|s^ba__so that in effect what i could do is use our code .__c5
+__s__but produce mel cepstrum .__c5
+__s^bk__and compare that directly to ==__c5
+__fh__well it's not precisely .__c2
+__s^ba.%__yeah .__c2
+__s^bk__huh .__c5
+__s^bu__i mean ==__c2
+__qw__um - um ==__c2
+__%-__what you can do is um - you can definitely change the - the filter bank from being uh - a uh - trapezoidal integration to a - a - a triangular one .__c2
+__s^2__uhhuh .__c5
+__s__which is what the typical mel - mel cepstral uh - filter bank does .__c2
+__s__uhhuh .__c5
+__%-__and some people have claimed that they got some better performance doing that .__c2
+__s^bk__so you certainly could do that easily .__c2
+__fh__but the fundamental difference ==__c2
+__s.%-__i mean there's other small differences ==__c2
+__qy.%-__there's a cubic root that happens .__c5
+__s.%-__right ?__c5
+__qy^rt__yeah .__c2
+__s__but you know as opposed to the log in the other case .__c2
+__s^t3__i mean the fundamental d- - d- - difference that we've seen any kind of difference from before which is actually an advantage for the p l p i- - uh - i think is that the - the smoothing at the end is auto regressive instead of being cepstral - uh - from cepstral truncation .__c2
+__s__so um - it's a little more noise robust .__c2
+__s^t3.%-__huh .__c5
+__s__um - and that's - that's why when people started getting databases that had a little more noise in it like - like uh - um - broadcast news and so on .__c2
+__s^bu__that's why c- - cambridge switched to p l p i think .__c2
+__s^na|s^aa__uhhuh .__c5
+__fg|s__so um ==__c2
+__s^na__that's a difference that i don't think we put any way to get around .__c2
+__qy^bu^d^rt__since it was an advantage .__c2
+__fg|s^bk__uhhuh .__c5
+__fg|s__um - uh ==__c2
+__s.%-__but we did - uh - we did hear this comment from people at some point that um - it - uh - they got some better results with the triangular filters rather than the trapezoidal .__c2
+__s.%-__so that is an option in rasta .__c2
+__s__huh .__c5
+__s^aa|s__uh - and you can certainly play with that .__c2
+__fh__but i think you're probably doing the right thing to look for bugs first .__c2
+__s^2__yeah | just - it just seems like this kind of behavior could be caused by you know s- - some of the training data being messed up .__c5
+__qy^d^g^rt__i don't know .__c2
+__s^aa__could be .__c2
+__b__you know you're sort of getting most of the way there but there's a ==__c5
+__fh__so i started going through and looking ==__c5
+__s^bk__one of the things that i did notice was that the um - log likelihoods coming out of the log recognizer from the p l p data were much lower much smaller .__c5
+__s__than for the mel cepstral stuff and that the average amount of pruning that was happening was therefore a little bit higher for the p l p features .__c5
+__b__uhhuh !__c2
+__s.%--__so since he used the same exact pruning thresholds for both i was wondering if it could be that we're getting more pruning .__c5
+__s^bk|s^co__oh !__c2
+__qo.%--__he - he - he used the identical pruning thresholds even though the s- - the range of p- - of the likeli- ==__c2
+__s__yeah .__c5
+__s__oh well that's - that's a pretty good point right there .__c2
+__s__right .__c5
+__s^bk.%__right .__c5
+__fh__yeah .__c2
+__s__yeah .__c5
+__s^na__so ==__c5
+__qy^bu^d^rt__i would think that you might want to do something like uh - you know look at a few points to see where you are starting to get significant search errors .__c2
+__s^bk|s.%-__that's ==__c5
+__s^2__right .__c5
+__s^m^na.%--__well what i was going to do is i was going to take um - a couple of the utterances that he had run through .__c5
+__s^df__then run them through again .__c5
+__b__but modify the pruning threshold and see if it you know affects the score .__c5
+__qh^cs__yeah .__c2
+__b__yeah .__c2
+__s^cc__so ==__c5
+__s^aa__but i mean you could - uh - if - if - if that looks promising you could you know r- - uh - run the overall test set with a - with a few different uh - pruning thresholds for both .__c2
+__s^bk__uhhuh .__c5
+__qw^rt__right .__c5
+__qy^bu^d^e^rt__and presumably he's running at some pruning threshold that's - that's uh - you know - gets very few search errors .__c2
+__qy^bu^d^rt__but is - is relatively fast .__c2
+__s^df__uhhuh .__c5
+__qy^bu^d^rt__right | i mean yeah generally in these things you - you turn back pruning really far .__c5
+__s^bk|s__and ==__c2
+__s^bk|s__so i - i didn't think it would be that big a deal .__c5
+__s__because i was figuring well you have it turned back so far that you know it ==__c5
+__s:s^aa|s^na__but you may be in the wrong range for the p l p features for some reason .__c2
+__s__yeah .__c5
+__s^bu|qy^d^g__yeah .__c5
+__s^ar__yeah .__c5
+__s^j__and the uh - the - the run time of the recognizer on the p l p features is longer .__c5
+__qw.%-__which sort of implies that the networks are bushier .__c5
+__s^aa__you know there's more things it's considering .__c5
+__fh__which goes along with the fact that the matches aren't as good .__c5
+__s^fa|s__so uh - you know it could be that we're just pruning too much .__c5
+__qw^t1__so ==__c5
+__qy^rt__yeah .__c2
+__s^ba^t1__yeah | maybe just be different kind of distributions .__c2
+__s^t1__and - and ==__c2
+__h|qy^rt__uhhuh .__c5
+__s^aa__yeah .__c2
+__s__so that's another possible thing .__c2
+__s^bk|s__uhhuh .__c5
+__b__they - they should - really shouldn't .__c2
+__s^rt__there's no particular reason why they would be exactly - behave exactly the same .__c2
+__s^bk|%-__uhhuh right .__c5
+__s^bk__right .__c5
+__s^bk__so ==__c2
+__b.%__so ==__c5
+__s.%-__there's lots of little differences .__c5
+__s__so ==__c5
+__s^aa|s__yeah .__c2
+__b__uh .__c5
+__s__yeah .__c2
+__b__trying to track it down .__c5
+__b__yeah .__c2
+__s^cs__i guess this was a little bit off topic i guess .__c2
+__s^aa__yeah .__c5
+__s^na__because i was - i was thinking in terms of th- - this as being a - a - a - a core item that once we - once we had it going we would use for a number of the front end things also .__c2
+__s^bk__uhhuh .__c5
+__fh__so ==__c2
+__s.%--__um ==__c2
+__%-__want to ==__c2
+__s^bu|qy^d^g__that's as far as my stuff goes .__c1
+__s^aa|s__what's - what's on ?==__c2
+__s^df__yeah .__c1
+__s^bk|s__yeah .__c2
+__b__well i tried this mean subtraction method .__c1
+__s__um ==__c1
+__s__due to avendano i'm taking s- - um - six seconds of speech .__c1
+__s__um - i'm using two second f f t analysis frames stepped by a half second .__c1
+__s^bk|s^ba__so it's a quarter length step .__c1
+__fh__and i - i take that frame and four f- - the four - i take ==__c1
+__fg|s.%-__sorry .__c1
+__s__i take the current frame and the four past frames and the four future frames .__c1
+__b__and that adds up to six seconds of speech .__c1
+__s^bu.%-__and i calculate um - the spectral mean of the log magnitude spectrum over that n .__c1
+__s^e__i use that to normalize the s- - the current center frame by mean subtraction .__c1
+__s^bk__and i then - then i move to the next frame and i - i do it again .__c1
+__s^bk__well actually i calculate all the means first .__c1
+__s^bk__and then i do the subtraction .__c1
+__s__and um - | the - i tried that with h d k .__c1
+__s__the aurora setup of h d k training on clean t i digits .__c1
+__s^e__and um - | it - it helped .__c1
+__s^bk__um - in a phony reverberation case ==__c1
+__s^bk__um - where i just used the simulated impulse response um - the error rate went from something like eighty it was from something like eighteen percent to um - four percent .__c1
+__s__and on meeting rec- - recorder far mike digits mike - on channel f it went from um - forty one percent error to eight percent error .__c1
+__fg|%-__on - on the real data not with artificial reverb ?__c5
+__b.%__right .__c1
+__b__uhhuh .__c5
+__s^ba__and that - that was um - trained on clean speech only .__c1
+__s__which i'm guessing is the reason why the baseline was so bad .__c1
+__s^cc^j__and ==__c1
+__s^ba^j|qy^j^rt__that's ac- - actually a little side point is i think that's the first results that we have uh - uh - uh - of any sort on the far field - uh - on - on the far field data uh - for - recorded in - in meetings .__c2
+__s^rt:s^rt__oh um - | actually um - adam ran the s r i recognizer .__c1
+__%-__did he ?__c2
+__s:s__on the near field on the ne- ==__c2
+__s^j.%-__on the far field also .__c1
+__s^j|qy^d^f^g__he did one p z m channel and one p d a channel .__c1
+__s__oh | did he ?__c2
+__s.%-__oh .__c2
+__s__i didn't recall that .__c2
+__fh__what kind of numbers was he getting with that ?__c2
+__s^bk__i - i'm not sure .__c1
+__fh__i think it was about five percent error for the p z m channel .__c1
+__s^ba.%__five .__c2
+__s^cs:qw__f- - i think .__c1
+__qh__yeah .__c1
+__qh^e__so why were you getting forty one here ?__c2
+__s^bk__is this ?==__c2
+__b__um ==__c1
+__s^df__i - i'm g- - i'm guessing it was the - the training data .__c1
+__b__uh - clean t i digits is like pretty pristine training data .__c1
+__fg|s.%-__and if they trained the s r i system on this t v broadcast type stuff ==__c1
+__s__i think it's a much wider range of channels .__c1
+__s^ba|s^bk__and it ==__c1
+__fg|s^cs__no .__c2
+__s^aa|%-__but wait a minute .__c2
+__s^aa__i - i - i th- - i think he ==__c2
+__s^bk|s^cs__what am i saying here ?__c2
+__s__yeah .__c2
+__b__so that was the s r i system .__c2
+__s.%--__maybe you're right .__c2
+__fh__yeah .__c2
+__s^2__because it was getting like one percent so it's still this kind of ratio .__c2
+__s__it was - it was getting one percent or something on the near field .__c2
+__s__wasn't it ?__c2
+__s^ba__uhhuh .__c5
+__%__or it wa a- - it was around one .__c5
+__s__yeah .__c2
+__b__yeah | i think it was getting around one percent for the near - for the n- - for the close mike .__c2
+__s.%-__yeah .__c5
+__s^ba__huh .__c1
+__fg|s.%--__so it was like one to five ?__c2
+__s__okay .__c1
+__s^aa|s__so it's still this kind of ratio .__c2
+__s^bk__it's just ==__c2
+__fg|s^cs__yeah .__c2
+__s^bk__it's a lot more training data .__c2
+__s.%--__so ==__c2
+__s__so probably it should be something we should try then is to - is to see if - is at some point just to take - i- - to transform the data .__c2
+__s^e__and then - and then uh - use th- - use it for the s r i system .__c2
+__s__b- - you me- - you mean um - ta- ?==__c1
+__b__so you're - so you have a system which for one reason or another is relatively poor .__c2
+__b__yeah .__c1
+__fg|s__and - and uh - you have something like forty one percent error .__c2
+__%--__uh - | and then you transform it to eight by doing - doing this - this work .__c2
+__s__um ==__c2
+__fh__so here's this other system which is a lot better .__c2
+__s^aa__but there's still this kind of ratio .__c2
+__s^bk__it's something like five percent error with the - the distant mike .__c2
+__s__and one percent with the close mike .__c2
+__s__okay .__c1
+__b__so the question is how close to that one can you get if you transform the data using that system ?__c2
+__qy__r- - right | so - so i guess this s r i system is trained on a lot of s- - broadcast news or switchboard data .__c1
+__s^df__yeah .__c2
+__s__is that right ?__c1
+__%-__do you know which one it is ?__c1
+__s__it's trained on a lot of different things .__c5
+__s^rt__um ==__c5
+__b__it's trained on uh - a lot of switchboard call home .__c5
+__b__uhhuh .__c1
+__s__um - | a bunch of different sources .__c5
+__b__some digits .__c5
+__s^j__there's some digits training in there .__c5
+__fh__okay .__c1
+__b__o- - one thing i'm wondering about is what this mean subtraction method um - will do if it's faced with additive noise .__c1
+__s__huh .__c0
+__s__because i - i - it's because i don't know what log magnitude spectral subtraction is going to do to additive noise .__c1
+__s__yeah .__c2
+__s__well it's - it's not exactly the right thing .__c2
+__fg|qy^cs^rt__that's - that's the ==__c1
+__s__uhhuh .__c1
+__b__but - uh - but you've already seen that because there is added noise here .__c2
+__s^bk|s.%--__that's - that's - yeah that's true .__c1
+__fh|%--__yeah .__c2
+__s__that's a good point .__c1
+__s:s__so um ==__c2
+__b__okay | so it's then - then it's - it's - it's reasonable to expect it would be helpful if we used it with the s r i system .__c1
+__s__and ==__c1
+__s:qw__yeah .__c2
+__s^rt__i mean as helpful ==__c2
+__s^e__i mean ==__c2
+__s__so that's the question .__c2
+__s__yeah | w- - we're often asked this when we work with a system that - that isn't - isn't sort of industry - industry standard great .__c2
+__s^2__uhhuh .__c1
+__s^aa^m__uh - and we see some reduction in error using some clever method .__c2
+__s^e__then you know will it work on a - on a - on a good system ?__c2
+__s:s__so uh ==__c2
+__b__you know this other one's - it was a pretty good system .__c2
+__fh__i think you know one - one percent word error rate on digits is - uh - digit strings is not uh - you know stellar .__c2
+__s__but - but given that this is real digits as opposed to uh - sort of laboratory ==__c2
+__s__uhhuh .__c1
+__s:s__well ==__c2
+__s^df__and it wasn't trained on this task either .__c5
+__s^2__and it wasn't trained on this task .__c2
+__s__actually one percent is sort of - you know sort of in a reasonable range .__c2
+__s^bk|%-__people would say yeah i could - i can imagine getting that .__c2
+__s__uhhuh .__c1
+__fh__and uh - so the - the four or five percent or something is - is - is quite poor .__c2
+__s__uhhuh .__c1
+__qw^br^rt__uh - you know if you're doing a - uh - a sixteen digit uh - credit card number you'll basically get it wrong almost all the time .__c2
+__s__so - so uh - um ==__c2
+__b__huh .__c1
+__fg|s:s__a significant reduction in the error for that would be great .__c2
+__b__huh okay .__c1
+__s.%--__and - and then uh ==__c2
+__qw^br__yeah .__c2
+__b__so ==__c2
+__s^bk__yeah .__c2
+__s^bk__cool .__c2
+__s^bk__sounds good .__c1
+__s__yeah .__c2
+__s^df.%-__all right | um - i actually have to run .__c2
+__s^bk__so i don't think i can do the digits .__c2
+__b__but um - i guess i'll leave my microphone on ?__c2
+__s.%--__uh - | yeah .__c5
+__s^bk__yeah .__c2
+__s^2__thank you .__c2
+__s__yep .__c5
+__fh__yeah .__c5
+__fg|s__that'll work .__c5
+__s^cc__that's all right .__c2
+__fh__i just have to run for another appointment .__c2
+__s^bk__okay did i t- ==__c2
+__s__yeah .__c2
+__s__i left it on .__c2
+__s^df__okay .__c2
+__s__DIGIT_TASK__c2
+__s__DIGIT_TASK__c0
+__b__DIGIT_TASK__c5
+__fh__DIGIT_TASK__c1
+__s:qw__DIGIT_TASK__c4

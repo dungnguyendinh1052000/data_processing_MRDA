@@ -1,0 +1,1554 @@
+__s__okay .__c5
+__s__adam what is the mike that uh jeremy's wearing ?__c2
+__%__it's the ear plug mike .__c5
+__b__okay .__c2
+__s^ba__that's good .__c4
+__qy^cs^rt__ear plug .__c0
+__%__is that a wireless ?__c2
+__fh__or ?==__c2
+__%__no .__c5
+__fg__oh .__c2
+__fg__it's wired .__c9
+__s^bu|qy^d^g^rt__oh !__c1
+__s^na^rt__is that - does that mean you can't hear anything during the meeting ?__c0
+__s__it's old school .__c3
+__s^fe__huh what huh ?__c5
+__s__should we uh close the door maybe ?__c1
+__b__it - it's a fairly good mike actually .__c5
+__s__so it's ==__c1
+__s__yeah .__c1
+__s.%-__huh ==__c1
+__s^ar|s__well i shouldn't say it's a good mike .__c5
+__s^na__all i really know is that the signal level is okay .__c5
+__s__i don't know if it's a ==__c5
+__s^bk__the quality .__c5
+__fh|s__well that's a ==__c1
+__s__ugh !__c5
+__s__so i didn't send out agenda items .__c5
+__s__because until five minutes ago we only had one agenda item .__c5
+__s__and now we have two .__c5
+__s__so and uh ==__c5
+__s__okay .__c1
+__s^e__so just to repeat the thing bef- - that we said last week ==__c1
+__s__it was there's this suggestion of alternating weeks on more uh automatic speech recognition related or not .__c1
+__s__right .__c5
+__s__was that sort of the division ?__c1
+__s__so which week are we in ?__c1
+__s__well we haven't really started .__c5
+__s__but i thought we more - we more or less did meeting recorder stuff last week .__c5
+__s__so i thought we could do uh ==__c5
+__fh__i thought we had a thing about speech recognition last week too .__c1
+__s^bu__but i figure also if they're short agenda items we could also do a little bit of each .__c5
+__%-__yeah .__c2
+__s^aa__yeah .__c1
+__s^aa__so ==__c5
+__s.%--__i seem to be having difficulty getting this adjusted .__c5
+__s^df__here we go .__c5
+__qy^bu^d__okay .__c1
+__s^aa__so uh as most of you should know i did send out the consent form thingies .__c5
+__s^bk__and uh ==__c5
+__s__so far no one has made any ach any comments on them .__c5
+__s__so no on- - no one has bleeped out anything .__c5
+__s__um yeah ==__c1
+__s__so ==__c5
+__s__i don't expect anyone to .__c5
+__s^bu.%-__but .__c5
+__s__so w- - what follows ?==__c1
+__s^bk__at some point y- - you go around and get people to sign something ?__c1
+__s^e__no .__c5
+__s^bu__we had spoken w- - about this before .__c5
+__s^aa|s__and we had decided that they have - they only needed to sign once .__c5
+__s.%--__yeah | but i've forgotten .__c1
+__s|qy^d^f^g__and the agreement that they already signed simply said that we would give them an opportunity .__c5
+__b__so as long as we do that we're covered .__c5
+__s__and how long of an opportunity did you tell them ?__c1
+__s__uh july fifteenth .__c5
+__s__july fifteenth .__c1
+__s^t^tc.%--__oh | so they have a- - plenty of time .__c1
+__s__yep .__c5
+__s__and y- ==__c1
+__s__given that it's that long ==__c1
+__s^df__um - um ==__c1
+__s__why was that date chosen ?__c1
+__s__you just felt you wanted to ?==__c1
+__s__jane told me july fifteenth .__c5
+__s__so that's what i set it .__c5
+__qh__oh okay .__c1
+__s__oh i just meant that - that was the release date that you had on the data .__c0
+__b__oh | i - i didn't understand that there was something specific .__c5
+__s^e__i uh ==__c0
+__s__i thought ==__c0
+__s__you - y- - you had ==__c5
+__b__i don't ==__c1
+__fg__i had heard july fifteenth .__c5
+__s__so that's what i put .__c5
+__qy^bu^d__no | the only - th- - the only mention i recall about that was just that july fifteenth or so is when this meeting starts .__c1
+__qy__uhhuh .__c0
+__s.%--__so ==__c5
+__fg|%-__that's right .__c0
+__s__that's why .__c0
+__s^ar|s__oh i see .__c1
+__s^df__you said you wanted it to be available then .__c0
+__s.%-__okay .__c1
+__s^ng__right .__c1
+__%--__i didn't mean it to be the hard deadline .__c0
+__fh__it's fine with me if it is .__c0
+__s^aap^am|s^ng__or we cou- ==__c0
+__qh^cs__but i thought it might be good to remind people two weeks prior to that .__c0
+__%-__w- ==__c1
+__qy^d^f^g__in case uh - you know by the way this is your last ==__c0
+__s.%-__right .__c1
+__qy^bu^d__uh yeah ==__c0
+__s__we probably should have talked about it .__c1
+__s^bk|s.%--__because i- - because if we want to be able to give it to people july fifteenth ==__c1
+__s^am__if somebody's going to come back and say okay i don't want this and this and this used uh clearly we need some time to respond to that .__c1
+__s|s^bk__right ?__c1
+__fh|s__yeah | as i said we - i just got one date .__c5
+__b__damn !__cb
+__s^df__yeah .__c1
+__s__and that's the one i used .__c5
+__s^aa__so but i can send a follow up .__c5
+__%-__yeah .__c1
+__b__i mean it's almost all us .__c5
+__s__i mean the people who are in the meeti- - this meeting was uh these - the meetings that - in - are in set one .__c5
+__s^na__was my - was my response okay ?__c2
+__fh__that's right .__c0
+__s__i just wrote you - replied to the email saying they're all fine .__c2
+__s^df__right | i mean that's fine .__c5
+__s^aa__okay good .__c2
+__s__i - we don't - my understanding of what we had agreed upon when we had spoken about this months ago was that uh we don't actually need a reply .__c5
+__s__that makes it easy .__c2
+__b__we just need to tell them that they can do it if they want .__c5
+__s^df__okay .__c1
+__s^df^e__i just didn't remember .__c1
+__b__but ==__c1
+__s^cs:s__and so no reply is no changes .__c5
+__s^aa|s^na__and he's got it so that the default thing you see when you look at the page is okay .__c0
+__s:s__okay .__c1
+__b.%__so that's very clear .__c0
+__s.%-__all the way down the page okay .__c0
+__qw__and they have two options .__c0
+__s^cs^ng__they can change it to one of them is censor and the other one is incorrect .__c0
+__s^df.%--__is it - is - your word is incorrect ?__c0
+__s__right .__c5
+__s^df__which means also we get feedback on if um there's something that they w- - that needs to be adjusted .__c0
+__s^fa__because i mean these are very highly technical things .__c0
+__s^bsc__i mean it's an added uh level of checking on the accuracy of the transcription as i see it .__c0
+__s__but in any case people can agree to things that are wrong .__c0
+__fh__well ==__c5
+__s^df.%-__so ==__c0
+__s^bk__yeah | the reason i did that it was just so that people would not censor - not ask to have stuff removed because it was transcribed incorrectly .__c5
+__s.%-__and the reason i liked it was because ==__c0
+__s.%-__as opposed to uh ==__c5
+__s^2__was because it um - it gives them the option of uh being able to correct it .__c0
+__s__right .__c5
+__s__approve it and correct it .__c0
+__b__and um ==__c0
+__s^na__so you have it nicely set up so they email you .__c0
+__b__and uh ==__c0
+__fh__when they submit the form it gets processed and emailed to me .__c5
+__s^df__uhhuh uhhuh .__c0
+__s__so ==__c5
+__s^bk__and i wanted to say the meetings that are involved in that set are robustness and meeting recorder .__c0
+__s__the german ones will be ready for next week .__c0
+__fh__those are three - three of those .__c0
+__qy__a different set of people .__c0
+__b__and we can impose ==__c0
+__qw__the german ones ?__c2
+__s^e.%--__uh well ==__c0
+__s^no__yeah | those uh ==__cb
+__s__n s a .__c1
+__s^rt__okay | i spoke loosely .__c0
+__s^df__the - the german french - sorry the german dutch and spanish ones .__c0
+__s^bk__spanish ==__c4
+__s^df^e__yeah .__c4
+__s__uhhuh .__c5
+__s^bk|s.%-__oh those are the n s a meetings ?__c2
+__s__those are ==__cb
+__s^e:s__the non native ==__c4
+__s^cs__yeah uhhuh .__c0
+__s^df:s__oh oh okay .__c2
+__b__german dutch swiss and spanish .__c1
+__s^ba__the all non native ==__c4
+__s^bd__that's - that's - that's r- ==__c0
+__s^df__uhhuh .__c5
+__s.%-__uhhuh .__cb
+__fg|s^cs__okay | i'd - i d- ==__c2
+__s__yeah | it's the other group .__c0
+__s^aa|s__i- - it was the network - network services group .__c1
+__b__okay .__c2
+__s:s__uhhuh .__c0
+__b__yeah .__c1
+__s__yeah exactly yeah .__c0
+__b__i didn't mean to isolate them .__c0
+__s__otherwise known as the german dutch and spanish .__c1
+__s__yeah | sorry .__c0
+__s^aa__uhhuh .__c5
+__s^e__it was - it was not the best characterization .__c0
+__s^ba__but what - what i meant to say was that it's the other group that's not - n- - no m- - no overlap with our present members .__c0
+__s__and then maybe it'd be good to set an explicit deadline .__c0
+__b__something like a week before that .__c0
+__s__uh j- - july fifteenth date .__c0
+__s^aa__or two weeks before .__c0
+__fg__i mean i would suggest we discuss ==__c1
+__s^e__i mean if we're going to have a policy on it ==__c1
+__s__that we discuss the length of time that we want to give people .__c1
+__s__uhhuh .__c5
+__b__so that we have a uniform thing .__c1
+__s__so tha- - that's a month .__c1
+__s^bk|qr__which is fine .__c1
+__b__twelve hours .__c2
+__fh__well the only thing i said in the email is that the data is going to be released on the fifteenth .__c5
+__qw__i mean it seems ==__c1
+__qrr__i didn't give any other deadline .__c5
+__s^df__uhhuh .__c0
+__s^ba__so my feeling is if someone after the fifteenth says wow i suddenly found something we'll delete it from our record .__c5
+__s__we just won't delete it from whatever's already been released .__c5
+__s^bk__huh that's a little bit difficult .__c0
+__s^bk__what else can we do ?__c5
+__s__yeah .__c0
+__s^ba|s^bk__if someone says hey look i found something in this meeting and it's libelous and i want it removed what can we do ?__c5
+__s__we have to remove it .__c5
+__s__well that's true .__c0
+__s__i - i agree with that part .__c0
+__qy__but i think that it would - it uh - we need to have uh a - a - a message to them very clearly that beyond this date you can't make additional changes .__c0
+__s^aa|s__i mean ==__c1
+__s^e__um ==__c1
+__s.%-__i - i - i - i think that somebody might request something .__c1
+__s.%-__even though we say that .__c1
+__b__but i think it's good to at least start some place like that .__c1
+__s^fa__so if we agreed okay how long is a reasonable amount of time for people to have ?__c1
+__s^co__uhhuh good .__c0
+__s__if we say two weeks or if we say a month ==__c1
+__s^bu__i think we should just say that ==__c1
+__s^bu__say that you know i- - a- - as um per the - the - the uh page you signed you have the ability to look over this stuff and so forth .__c1
+__s__and uh because we w- - these uh ==__c1
+__s^aa__i would - i would imagine some sort of generic thing that would say because we uh will continually be making these things available to other researchers uh this can't be open ended .__c1
+__s__and so uh uh please give us back your response within this am- - you know within this amount of time whatever time we agree upon .__c1
+__s^bu__well did you read the email and look at the pages i sent ?__c5
+__s^aa__did i ?__c1
+__s__no i haven't yet .__c1
+__s__no okay | well why don't you do that ?__c5
+__s^df__no just ==__c1
+__b__and then make comments on what you want me to change .__c5
+__fh__no no | i'm not saying that you should change anything .__c1
+__s^bk__i- - i'm - what i'm - what i'm - i'm trying to spark a discussion hopefully among people who have read it .__c1
+__fg|s^na__so that - that you can you can uh decide on something .__c1
+__s^df__uhhuh .__c0
+__s^df^e__so i'm not telling you what to decide .__c1
+__b__uhhuh .__c0
+__s^bk.%__i'm just saying you should decide something .__c1
+__s^df__i already did decide something .__c5
+__s__okay .__c0
+__s__and then ==__c1
+__s__and that's what's in the email .__c5
+__s__yeah yeah okay so ==__c0
+__s__and if you disagree with it why don't you read it and give me comments on it ?__c5
+__s__yeah .__c0
+__b__well ==__c0
+__s^ng__i - i think that there's one missing line .__c0
+__s^df__well the one thing that i did read and that you just repeated to me was that you gave the specific date of july fifteenth .__c1
+__s^aa__uhhuh .__c5
+__s^df^e__and you also just said that the reason you said that was because someone said it to you .__c1
+__s^df^nd__right .__c5
+__s^ar|s^nd__so what i'm telling you is that what you should do is come up with a length of time that you guys think is enough .__c1
+__s^aap__and you should use that rather than this date that you just got from somewhere .__c1
+__fh__that's all i'm saying .__c1
+__s^nd__okay .__c5
+__s^bk__okay .__c1
+__s.%-__i ha- - i have one question .__c0
+__fg|s__this is in the summer period .__c0
+__qw__and presumably people may be out of town .__c0
+__qo^e__but we can make the assumption can't we that um they will be receiving email uh most of the month .__c0
+__s__right ?__c0
+__s^bk__because if someone ==__c0
+__s__it - well it - well you're right sometimes somebody will be away .__c1
+__s^bk__and uh you know there's uh - for any length of time that you uh choose there is some person sometime who will not end up reading it .__c1
+__s__okay .__c0
+__s^na__that's - it's you know just a certain risk to take .__c1
+__s__s- - so maybe when ==__cb
+__s__am i on by the way ?__cb
+__s__i don't know .__c5
+__s__oh .__cb
+__qy^bu^d__you should be .__c5
+__s^df^ng__hello hello ?__cb
+__s^na__you should be channel b .__c5
+__qy__oh okay all right | so the ==__cb
+__s^aa|s__um ==__cb
+__s^bk|s__maybe we should say in ==__cb
+__s__w- - you know when the whole thing starts when they sign the agreement that ==__cb
+__s^df__you know specify exactly uh what you know how - how they will be contacted .__cb
+__b__and they can you know - they can be asked to give a phone number and an email address or both .__cb
+__s__and um then ==__cb
+__b__we did that i - i believe .__c0
+__%-__right .__cb
+__s__so | a- - and then you know say very clearly that if they don't - if we don't hear from them you know as morgan suggested by a certain time or after a certain period after we contact them that is implicitly giving their agreement .__cb
+__s__yeah .__c4
+__fh__well they've already signed a form .__c5
+__s__right .__cb
+__s^bk__and the form says ==__c0
+__s__and nobody - nobody really reads it anyway .__c4
+__s__so ==__c5
+__s__and the s- - and the form was approved by human subjects .__c5
+__s.%-__says that .__cb
+__s^bk__right .__cb
+__fg|qw__well if that's i- - tha- - if that's already - if ==__cb
+__s^e__uh the f- ==__c0
+__s^aa|s^rt__so uh that's going to be a little hard to modify .__c5
+__s^e__well the form - well the form doesn't say if - uh you know if you don't respond by x number of days or x number of weeks ==__c0
+__s__i see .__cb
+__b__uh ==__cb
+__qo.%--__oh okay .__cb
+__h|s__so what does it say about the - the - the process of - of uh y- - the review process ?__cb
+__s__it doesn't have a time limit .__c0
+__s^bk__that you'll be provided access to the transcripts .__c0
+__s.%--__oh okay .__cb
+__s__and then uh allowed to remove things that you'd like to remove before it goes to the general - uh larger audience .__c0
+__s__huh .__cb
+__s.%--__right .__cb
+__s__oh .__cb
+__s__here .__c5
+__fh__you can read what you already signed .__c5
+__s__there you go .__c0
+__b__i guess when i read it um ==__c4
+__fh__okay .__cb
+__s__i'm not as diligent as chuck .__c4
+__b__but i had the feeling i should probably respond .__c4
+__s^aa__and tell adam like i got this and i will do it by this date .__c4
+__s__and if you don't hear from me by then you know in other words responding to your email once right away saying as soon as you get this could you please respond .__c4
+__s^bk__right .__c5
+__s^bk__and then if you - if the person thinks they'll need more time because they're out of town or whatever they can tell you at that point .__c4
+__s__because ==__c4
+__s__oh i just - i didn't want to do that .__c5
+__s__because i don't want to have a discussion with every person if i can avoid it .__c5
+__s^df__well it's ==__c4
+__s__so what i wanted to do was just send it out .__c5
+__b__and say on the fifteenth the data is released .__c5
+__s__uhhuh .__c0
+__fh__if you want to do something about it do something about it .__c5
+__s^bk__but that's it .__c5
+__s^e__i - i kind of like this .__c0
+__s^ar|s^df__well ==__c4
+__s__okay | so we're assuming that ==__c4
+__b__yeah .__c0
+__fg|s__well that's - that would be great if ==__cb
+__b__but you should probably have a legal person look at this .__cb
+__s__and make sure it's okay .__cb
+__%-__because if you - if you uh do this and you - then there's a dispute later and uh some you know someone who understands these matters concludes that they didn't have uh you know enough opportunity to actually exercise their - their right ==__cb
+__s^bk|s^bu__or they - they might never have gotten the email .__c4
+__s^na|s^aa__because although they signed this they don't know by which date to expect your email .__c4
+__s__and so someone whose machine is down or whatever ==__c4
+__s__i mean we have no ==__c4
+__s:s__uhhuh .__c1
+__s^bk__in- - internally we know that people are there .__c4
+__s__well okay | l- - let me - let me reverse this .__c5
+__s^aa|s^na__but we have no confirmation that they got the mail .__c4
+__s__so let's say someone - i send this out .__c5
+__s^bk.%__and someone doesn't respond .__c5
+__fh__do we delete every meeting that they were in ?__c5
+__s.%-__i don't think so .__c5
+__s^ba__well then ==__c4
+__s^aa__no .__cb
+__qy.%-__it - we're hoping that doesn't happen .__c4
+__qy^bu^d^j__but that's why there's such a thing as registered mail .__c4
+__s^aa^j__that will happen .__c5
+__s^aa^j__or ==__c4
+__s^aa^j|s^j^na__that will happen .__cb
+__s^df.%--__that will absolutely happen .__c5
+__s__right .__c4
+__s^bk__because people don't read their email .__c5
+__b.%__or they'll read and say i don't care about that .__c5
+__s.%-__i'm not going to delete anything .__c5
+__s__and they don- - just won't reply to it .__c5
+__s__maybe - uh do we have mailing addresses for these people ?__cb
+__s__no .__c5
+__b__no .__cb
+__s^aa|s__we have what they put on the speaker form .__c5
+__s^bk__oh .__cb
+__s^ba__which was just generic contact information .__c5
+__fg|s.%--__most ==__c0
+__s__but the ones that we're dealing with now are all local .__c0
+__s^ba__well then ==__cb
+__s__except the ones who ==__c0
+__s__i mean we - we're totally in contact with all the ones in those two groups .__c0
+__s__huh .__cb
+__fh__okay .__cb
+__s.%--__so maybe uh i - you know that's not that many people .__c0
+__s^bk__and if i - if uh ==__c0
+__s^bd^df__i- - i- - there is an advantage to having them admit .__c0
+__s^bd^e__and if i can help with - with processing that i will .__c0
+__s__it's - it's - there is an advantage to having them be on record as having received the mail and indicating ==__c0
+__s^bk|s__yeah | i mean i thought we had discussed this like a year ago .__c5
+__s^df__yes we did .__c0
+__%-__and so it seems like this is a little odd for it to be coming up yet again .__c5
+__s__you're right .__c0
+__s__well i - you know but sometimes ==__c0
+__s^bk|s__well we - we haven't experienced it before .__c1
+__s^bk__so ==__c5
+__s^j__that's right .__c0
+__s^ar|s^bd^df__right ?__c1
+__s^cs__so ==__c1
+__s^df__you'll either wonder at the beginning or you'll wonder at the end .__c4
+__s__need to get it right .__c0
+__s^e__i mean there's no way to get around ==__c4
+__s^na__i- - it's pretty much the same am- - amount of work .__c4
+__s^co__except for an additional email just saying they got the email .__c4
+__s^bk__yeah .__c0
+__s^bk.%__and maybe it's better legally to wonder before ==__c4
+__s__you know a little bit earlier than ==__c4
+__s__well ==__c5
+__s^bk|%-__it's much easier to explain this way .__c0
+__s^co^r__okay | well why don't you talk t- ?==__c5
+__s^co__t- - t- - to have it on record .__c0
+__s^ar|%-__morgan can you talk to our lawyer about it ?__c5
+__s^bk|s__and find out what the status is on this .__c5
+__s^df__because i don't want to do something that we don't need to .__c5
+__b__yeah | but w- - huh ==__c0
+__s__because ==__c5
+__s__what - i'm telling you people won't respond to the email .__c5
+__s.%--__no matter what you do you- - there're going to be people who you're going to have to make a lot of effort to get in contact with .__c5
+__b__i mean i- - it's k- ==__c3
+__s__huh .__cb
+__s^bk__well then we make the effort .__c0
+__s^ba__and do we want to spend that effort ?__c5
+__fh__it's kind of like signing up for a mailing list .__c3
+__s^bd__we make the effort .__c0
+__s^am^cs__they have opt in and opt out .__c3
+__s^cs^e__and there are two different ways .__c3
+__s^df__i mean and either way works .__c3
+__s^na__probably i mean .__c3
+__s.%-__except i really think in this case ==__c0
+__s^j__i - i'm agr- - i agree with liz that we need to be in the clear .__c0
+__fg|s^cs__and not have to after the fact say oh but i assumed ==__c0
+__s^na__and oh i'm sorry that your email address was just accumulating mail without notifying you .__c0
+__s^bd__if this is a purely administrative task we can actually have administration do it .__c1
+__s^bd__you know .__c0
+__%-__oh excellent .__c0
+__s^co__but the thing is that you know i - i - i think without going through a whole expensive thing with our lawyers from my previous conversations with them my - my sense very much is that we would want something on record as indicating that they actually were aware of this .__c1
+__fh__yes .__c0
+__s^bk__well we had talked about this before .__c5
+____and i thought that we had even gone by the lawyers asking about that .__c5
+____uhhuh .__c1
+__s^ba__and they said you have to s- - they've already signed away the f- - with that form .__c5
+__s^aa|s^na__that they've already signed once .__c5
+__s^ba__i don't remember that this issue of the time period allowed for response was ever covered .__c0
+__s__yeah .__c5
+__s^j__okay .__c5
+__s^j__yeah | we never really talked about that .__c1
+__s__or the date at which they would be receiving the email from you .__c4
+__b__yeah .__c1
+__s__or - or how they would indicate ==__c0
+__fg|s^cs__they probably forgot all about it .__c4
+__s^j__we certainly didn't talk uh about - with them at all about uh the manner of them being made the uh uh materials available .__c1
+__s^bk__yeah .__c4
+__s^co__we do it like with these ==__cb
+____that was something that was sort of just within our implementation .__c1
+____we can use it - we can use a a ploy .__cb
+____okay .__c5
+__s^fa__like they use to um ==__cb
+__s__you know that when they serve like ==__cb
+__s^ba__uh uh uh uh ==__cb
+__s^df.%-__you know like dead beat dads .__cb
+__s__they - they - they make it look like they won something in the lottery .__cb
+__s^cs__and then they open the envelope .__cb
+__s^cs__and that ==__cb
+__s__and they're served .__c3
+__s^bk|s__right ?__cb
+__s^bk|s.%--__because - and then the - the - the - the thing is served .__cb
+__s.%-__so you just make it you know oh you won .__cb
+__s^bk|s__you know go to this web site .__cb
+__fh__and you've uh - you're ==__cb
+__qw__that's why you never open these things that come in the mail .__c4
+__s.%-__that one .__c0
+__s__yeah .__c1
+__%--__well it's just we've gone from one extreme to the other where at one point a few months ago morgan was - you were saying let's not do anything .__c5
+__s^rt:s^rt__right no | it- - i - it might ==__cb
+__s__well it doesn't matter .__c0
+__b__i- - i- ==__cb
+__b__it - it might well be the case ==__cb
+__s^bk__and now we're ==__c5
+__s^aa|s^na__it might ==__cb
+__s^bk__we're saying we have to follow up each person and get a signature .__c5
+__s__right .__cb
+__s__i mean what are we going to doing here ?__c5
+__s^bd__it might well be the case that - that this is perfectly you know this is enough to give us a basis t- - to just uh assume their consent if they don't reply .__cb
+__s__well ==__c1
+__b__uhhuh .__c5
+__s.%--__but i'm not - you know me not being a lawyer i wouldn't just want to do that without having the - the expert uh opinion on that .__cb
+__s^df__and how many people ?==__c0
+__s__then i think we had better find out .__c5
+__fh__al- - altogether we've got twenty people these people are people who read their email almost all the time .__c0
+__b.%__so that we can find a ==__c5
+__s__yeah .__cb
+__s^bk__let me look at this again .__c1
+__s^cs__right .__c5
+__b__i - i really don't see that it's a problem .__c0
+__s^aa__i - i think that it's a common courtesy to ask them uh to expect for them to uh be able to have us try to contact them .__c0
+__s^e__for - for th- ==__c5
+__s^e__u- - just in case they hadn't gotten their email .__c0
+__s__i think they'd appreciate it .__c0
+__s^e__yeah | my - adam my - my view before was about the nature of what was - of the presentation .__c1
+__fh__uhhuh .__c5
+__s^cs__of - of how my - my ==__c1
+__s^cs__the things that we're questioning were along the lines of how easy ?==__c1
+__s__uh ==__c1
+__s^aa^j__h- - how m- - how much implication would there be that it's likely you're going to be changing something as opposed to ?==__c1
+__s^aa__uhhuh .__c5
+__s^bk__that was the kind of dispute i was making before .__c1
+__s__uhhuh .__c0
+__qy__i remember that .__c0
+__s__but um the attorneys i - uh i can guarantee you the attorneys will always come back with ==__c1
+__s^ba__and we have to decide how stringent we want to be in these things .__c1
+__s__but they will always come back with saying that um you need to - you want to have someth- - some paper trail or - which includes electronic trail that they have uh in fact okay'd it .__c1
+__s__uhhuh .__c5
+__s^rt__so um ==__c1
+__s:s__i think that if you f- - i- - if we send the email as you have .__c1
+__s__and if there's half the people say who don't respond at all by you know some period of time we can just make a list of these people .__c1
+__s^cs__and hand it to uh ==__c1
+__s^ba^j__you know just give it to me .__c1
+__b__and i'll hand it to administrative staff or whatever .__c1
+__s^j^na__right .__c5
+__s__and they'll just call them up and say you know have you ==__c1
+__s^j^nd__is - is this okay and would you please mail - you know mail adam that it is if i- - if it you know is or not .__c1
+__s^ba|qy^g^rt__so you know we can - we can do that .__c1
+__b__the other thing that there's a psychological effect that at least for most people that if they've responded to your email saying yes i will do it or yes i got your email they're more likely to actually do it later than to just ignore it .__c4
+__qw__uhhuh .__c1
+__h__and of course we don't want them to bleep things out .__c4
+__fh__but it - it's a little bit better if we're getting the - their uh final response once they've answered you once than if they never answer you'd at al- - at all .__c4
+__s^ar^fe^j__that's how these mailing houses work .__c4
+__s__so i mean it's not completely lost work .__c4
+__s^bk^m__because it might benefit us in terms of getting responses .__c4
+__s^bk|s__uhhuh .__c0
+__s^j__you know an official okay from somebody is better than no answer even if they responded that they got your email .__c4
+__s^ba__and they're probably more likely to do that once they've responded that they got the email .__c4
+__s^bk__i also think they'd just simply appreciate it .__c0
+__s.%__i think it's a good - a good way of - of fostering goodwill among our subjects .__c0
+__s^bk__well our participants .__c0
+__b__i think the main thing is - i mean what lawyers do is they always look at worst cases .__c1
+__s^m__sending lots of spam .__c5
+__s^aa__so they s- - so - so - tha- - that's what they're paid to do .__c1
+__b__yep .__c5
+__b__and so it is certainly possible that uh somebody's server would be down or something .__c1
+__s^r__and they wouldn't actually hear from us .__c1
+__fh__and then they find this thing is in there .__c1
+__s__and we've already distributed it to someone .__c1
+__s^bd^df__so what it says in there in fact is that they will be given an opportunity to blah blah blah .__c1
+__s^bk__uhhuh .__c0
+__s^df__but if in fact - if we sent them something or we thought we sent them something but they didn't actually receive it for some reason um then we haven't given them that .__c1
+__s__well so | how far do we have to go ?__c5
+__s__do we need to get someone's signature ?__c5
+__s__or is email enough ?__c5
+__fh__do we have to have it notarized ?__c5
+__s__i- - i- - i- - them- - email is enough .__c1
+__b__i mean ==__c5
+__s^no__okay .__c5
+__s^df__yeah .__c1
+__s^no__i mean i've been through this ==__c1
+__s__i mean i'm not a lawyer .__c1
+__s__but i've been through these things a f- - things f- - like this a few times with lawyers now .__c1
+__s^bu^rt__uhhuh .__c5
+__b__so i - i - i- - i'm pretty comfortable with that .__c1
+__s^aa__do you track um - when people log in ?__c2
+__s^bk__to look at the ==__c2
+__s__uh | if they submit the form i get it .__c5
+__s^df__uhhuh .__c2
+__s^bk__if they don't submit the form it goes in the general web log .__c5
+__s.%-__but that's not sufficient .__c5
+__b__huh ==__c2
+__s__right ?__c5
+__s^bk|s^ft__because if someone just visits the web site that doesn't imply anything in particular .__c5
+__b__except that you know they got the mail .__c2
+__fg|qy^rt^t^tc__uhhuh that's right .__c0
+__fh__right .__c5
+__s^t__i - i could get you on the notify list if you want me to .__c0
+__s^t__i'm already on it .__c5
+__s^t__for that directory ?__c0
+__qy^rt__uhhuh .__c5
+__s__okay great .__c0
+__b__so again hopefully um this shouldn't be quite as odious a problem either way .__c1
+__s^df__uh in any of the extremes we've talked about .__c1
+__s__because uh we're talking a pretty small number of people .__c1
+__s.%--__w- ==__c5
+__s__for this set i'm not worried .__c5
+__s^df__because we basically know everyone on it .__c5
+__s__uhhuh .__c1
+__s__huh ==__c0
+__s__uhhuh .__c1
+__s__you know they're all more or less here .__c5
+__s__or it's - it's eric and dan and so on .__c5
+__s__but for some of the others you're talking about visitors who are gone from icsi whose email addresses may or may not work .__c5
+__s__uhhuh .__c1
+__fh|s__uhhuh .__c1
+__qh__oh .__c0
+__s.%-__and ==__c5
+__s__so what are we going to do when we run into someone that we can't get in touch with ?__c5
+__s__i don't think uh - they're so recent these visitors .__c0
+__b__i - and - and i - they're also so ==__c0
+__s.%-__uhhuh .__c5
+__s^bk|qy__uhhuh .__c1
+__s^bk|s__they're prominent enough that they're easy to find through ==__c0
+__s^na__i - i mean i - i w- - i'll be able to - if you have any trouble finding them i really think i could find them .__c0
+__s^bu__other methods ?__c5
+__s^bk__okay .__c5
+__s^aa__yeah | because it - what it - what it really does promise here is that we will ask their permission .__c1
+__s__um and i think you know if you go into a room and close the door and - and ask their permission and they're not there it doesn't seem that ==__c1
+__s^bk|s__that's the intent of uh meaning here .__c1
+__b.%__so ==__c1
+__s.%--__well the qu- - the question is just whether - how active it has to be .__c5
+__s.%--__i mean because they - they filled out a contact information .__c5
+__s__and that's where i'm sending the information .__c5
+__qy^2^bu^d__right .__c1
+__s__and so far everyone has done email .__c5
+__s^bu__there isn't anyone who did uh any other contact method .__c5
+__s^aa|s^df^rt__well the way icsi goes people uh who uh were here ten years ago still have acc- - have forwards to other accounts and so on .__c1
+__s^bk__yeah .__c5
+__s^bk__so it's unusual that - that they uh ==__c1
+__s^bk__so my original impression was that that was sufficient .__c5
+__fh__that if they give us contact information and that contact information isn't accurate that we fulfilled our burden .__c5
+__s__yeah .__c1
+__s.%--__then they just come back .__c4
+__b__all my files were still here .__c2
+__s.%--__same as us .__c4
+__s__i just ==__c0
+__s^df.%-__so if we get to a boundary case like that then maybe i will call the attorney about it .__c1
+__%-__yeah .__c2
+__fg|s^df__okay .__c5
+__b__but you know hopefully we won't need to .__c1
+__s__i d- - i just don't think we will .__c0
+__b__all right .__c5
+__b__for all the reasons that we've discussed .__c0
+__%-__so we'll - we'll see if we do or not .__c1
+__s^bk__yep | and we'll see how many people respond to that email .__c5
+__b__yeah .__c0
+__s^bsc__so far two people have .__c5
+__s^e__yeah | i think very few people will .__c1
+__b__so ==__c5
+__s.%-__and - and - and you know people - people see long emails about things that they don't think is going to be high priority they typically uh don't - don't read it or half read it .__c1
+__%-__right .__c5
+__b__because people are swamped .__c1
+__s^2:s__but ==__c1
+__s^bu^na:s__and actually ==__c0
+__s__um | i - i didn't anticipate this .__c0
+__b__so i - that's why i didn't give this comment .__c0
+__s^aa|s.%--__and it - i - this discussion has made me think it might be nice to have a follow up email within the next couple of days saying by the way you know we want to hear back from you by x date .__c0
+__b__and please ==__c0
+__s^bu__and then add what liz said .__c0
+__s__please uh respond to - please indicate you received this mail .__c0
+__s__uh or e- - well maybe even additionally uh um ==__c1
+__b__even if you've decided you have no changes you'd like to make if you could tell us that .__c1
+__s^na__respond to the email | yep .__c5
+__s^aa__uhhuh .__c0
+__s^aap|s^aa__right | that would - that would definitely work on me .__c4
+__s__yeah .__c1
+__s__it is the first time through the cycle .__c0
+__s.%--__you know it makes you feel m- - like ==__c4
+__s^no__um ==__c4
+__%--__if you were going to p- - if you're predicting that you might not answer you have a chance now to say that .__c4
+__fh__whereas i - i mean i would be much more likely myself ==__c4
+__s.%-__and the other th- ==__c2
+__s^am__given all my email t- - to respond at that point saying you know what i'm probably not going to get to it or whatever .__c4
+__s__rather than just having seen the email thinking i might get to it .__c4
+__fg|s^na__and never really uh pushing myself to actually do it until it's too late .__c4
+__b__yeah i was ==__c2
+__s^aa|s__i was thinking that it also lets them know that they don't have to go to the page to accept this .__c2
+__s^e__right r- - right that's true .__c4
+__s__right .__c1
+__s.%--__i mean i - i ==__c2
+__s.%--__yeah .__c2
+__s__so that way they could they can see from that email that if they just write back and say i got it no changes they're off the hook .__c2
+__s__yeah .__c1
+__b__they don't have to go to the web page .__c2
+__b__and ==__c2
+__s__i mean the other thing i've learned from dealing with - dealing with people sending in reviews and so forth uh is um if you say you've got three months to do this review um people do it you know two and seven eighths months from now .__c1
+__s^bd__yeah that's true .__c4
+__s^df__right .__c5
+__b__if you say you've got three weeks to do this review they do - do it you know two and seven eighths weeks from now - they do the review .__c1
+__s^tc__and um so ==__c1
+__s__if we make it a little less time i don't think it'll be that much ==__c1
+__s__well | and also if we want it ready by the fifteenth that means we better give them deadline of the first .__c5
+__s__if we have any prayer of actually getting everyone to respond in time .__c5
+__s:s__there's the responding part .__c1
+__fh|s__and there's also what if ?==__c1
+__s__uh i mean i hope this doesn't happen .__c1
+__b__what if there are a bunch of deletions that have to get put in and changes ?__c1
+__s__right .__c5
+__s__then we actually have to deal with that .__c1
+__s^df__uhhuh some lead time .__c0
+__fg__if we want it to ==__c1
+__s^e__ugh !__c5
+__s^df__disk space .__c5
+__fg__oh my god !__c5
+__s^bu__by the way has - has jeremy signed the form ?__c0
+__s^bu^e.%-__i hadn't thought about that .__c5
+__s^aa|s__okay .__c0
+__s^e__that for every meeting ==__c5
+__s__any meeting which has any bleeps in it we need yet another copy of .__c5
+__%-__oh .__cb
+__fh__just that channel ?__c2
+__s^aa|qy.%-__can't you just do that channel ?__c3
+__s^aap__oh no | we have to do ==__c2
+__s.%-__no | of course not .__c5
+__qh^df__you need all the channels .__c5
+__s^bk__yeah | you have to do all of them .__c4
+__s__oh .__c3
+__%-__do you have to do the other close talking ?__c2
+__s__as well as all of these .__c4
+__b__yeah .__c3
+__s__wow .__c9
+__b__yes absolutely | there's a lot of cross talk .__c5
+__s^aa|s.%-__you have to do all - you could just do it in that time period though .__c4
+__fh__well ==__c0
+__b__but i guess it's a pain .__c4
+__qw__well but you have to copy the whole file .__c5
+__s__yeah .__c4
+__s^bd^no__right ?__c5
+__s^bk__because we're going to be releasing the whole file .__c5
+__s__yeah | you're right .__c4
+__fh__well - i - you know i think at a certain point that copy that has the deletions will become the master copy .__c0
+__fg__yeah | it's just i hate deleting any data .__c5
+__b__so i - i don't want - i really would rather make a copy of it rather than bleep it out .__c5
+__b__are you del- - are you bleeping it by adding ?__c1
+__s^aa|s__and then ==__c5
+__s__overlapping .__c5
+__s^no__so | it's - it's exactly a censor bleep .__c5
+__b__so what i really think is bleep ==__c5
+__s^bk__i- - i- ==__c1
+__s__i- - i understand .__c1
+__s^bu.%-__and then i want to ==__c5
+__s.%-__but is - is it summing signals ?__c1
+__s^bk__or do you delete the old one and put the new one in ?__c1
+__s__i delete the old one put the new one in .__c5
+__s^aa|s__oh okay .__c1
+__s^bk__there's nothing left of the original signal .__c5
+__s^aa|s^na__because ==__c1
+__s^aa__oh | because if you were summing you could ==__c1
+__b__no | but anyway ==__c1
+__b__yeah | it would be qui- - quite easy to get it back again .__c5
+__s^bk__and then w- - i was going to say also that the- - they don't have to stay on the system as you know .__c0
+__fg|s__yeah .__c1
+__fh__then someday we can sell the unedited versions .__c4
+__s.%-__because - because the - the ones ==__c0
+__s^bu^rt__say again ?__c5
+__qy__once it's been successfully bleeped can't you rely on the ?==__c0
+__s.%--__or we'll tell people the frequency of the beep .__c2
+__s^aa__encrypt it .__c1
+__s.%-__you can hide it | yeah .__c3
+__s__and then they could subtract the beep out .__c2
+__s^df__oh yeah .__cb
+__b__can't you rely on the archiving to preserve the older version ?__c0
+__s^e__right exactly i see .__c4
+__s__it wouldn't be that hard to hide it .__c3
+__s^bk__yeah that's true yeah yep that's true .__c5
+__s^bk|s^cc__see this is good .__c4
+__s__i wanted to create some side conversations in these meetings .__c4
+__s__yeah | you could encrypt it .__c1
+__fg__okay .__c0
+__s^bk__you can use spread spectrum .__c3
+__s^aa__you know with a - with a two hundred bit - thousand bit uh ==__c1
+__s__uhhuh .__c2
+__s__so ==__c4
+__s^bk__hide it .__c3
+__s^cs__here we go .__c2
+__s^df__yeah yeah .__c4
+__s^aa__yeah there you go .__c3
+__s^bk__because we don't have enough asides .__c4
+__s^bk__i have an idea .__cb
+__s.%--__you reverse the signal .__cb
+__s.%-__so it - it lets people say what they said backwards .__cb
+__s__there you go .__c3
+__s__backwards .__c5
+__b__then you have like subliminal uh messages .__c3
+__s__but ==__c5
+__s^bk__ha- - you've seen the - this - the speech recognition system that reversed very short segments ?__c5
+__s^ba__yeah .__cb
+__s.%-__like ==__c3
+__s^bu__did you read that paper ?__c5
+__s^2.%-__no .__cb
+__s^aa__it wouldn't work .__c5
+__s^bk__the speech recognizer still works .__c5
+__s^bsc__yeah | and if you do it backward then ==__c4
+__s^bsc__yeah .__c1
+__s^aa__that's because they use forward backward .__c2
+__s^na__h - good old h m m .__c4
+__%-__forward but backward | that's right .__c5
+__s^bk__no | it's backward forward .__c4
+__s^ba__good point .__c5
+__s__a point .__c5
+__s^df__uh | well i'm sorry if i sound a little peeved about this whole thing .__c5
+__s__it's just we've had meeting after meeting after meeting a- - on this .__c5
+__b__and it seems like we've never gotten it resolved .__c5
+__s^ba__well but we never also - we've also never done it .__c1
+__s__huh .__c0
+__s^aa__uh ==__c4
+__s__so ==__c5
+__b__yeah .__c5
+__s^df__this is the first cycle .__c0
+__s__if it makes ==__c4
+__s.%-__there're bound to be some glitches the first time through .__c0
+__s^bk__and uh - and i'm sorry responding without uh having much knowledge .__c1
+__s^df__but the thing is uh i am like one of these people who gets a gazillion mails .__c1
+__fh__and - and stuff comes in as ==__c1
+__s^ar^bd|%-__well and that's exactly why i did it the way i did it .__c5
+__s^ar|s^nd__which is the default is if you do nothing we're going to release it .__c5
+__s__because you know i have my stack of emails of to d- - to be done .__c5
+__%__yeah .__c1
+__b__that you know fifty or sixty long .__c5
+__b__and the ones at the top i'm never going to get to .__c5
+__s^co^j__right .__c1
+__s:s__and uh so - so ==__c5
+__fh__move them to the bottom .__c2
+__b__yeah right .__c5
+__b__so - so the only thing we're missing is - is some way to respond to easily to say uh okay go ahead or something .__c1
+__b__so i- - this is going to mean ?==__c5
+__s^e__just re mail them to yourself and then they're at the bottom .__c2
+__s^ba__yeah .__c1
+__s^bk__yeah .__c5
+__fh__yeah | that's actually definitely a good point .__c5
+__s^ba__yeah .__c0
+__fh__the m- - email doesn't specify that you can just reply to the email as op- - as opposed to going to the form .__c5
+__s^bk^rt__in ==__cb
+__qy.%--__uhhuh .__c0
+__qy^bu^d^rt^t^tc__right .__c4
+__qy^rt__and ==__c5
+__qrr__and it also doesn't give a - a specific - i didn't think of it .__c0
+__h|s__s- - i think it's a good idea - an ex- - explicit time by which this will be considered definite .__c0
+__s^e^no__yeah | release .__c5
+__s^df__and - and it has to be a time earlier than that endpoint .__c0
+__qy.%--__yeah | it's converging .__c1
+__b__this - um i've seen this recently .__cb
+__%--__yeah that's right .__c0
+__s__uh i got email .__cb
+__qy^bu^d^rt__and it - i- - if i use a mime capable mail reader it actually says you know click on this button to confirm receipt of the - of the mail .__cb
+__fh__huh .__c3
+__s^bk__oh that's interesting .__c0
+__s.%--__so ==__cb
+__s__you - you can ==__c5
+__fh__a lot of mailers support return receipt .__c5
+__%-__it's like certified mail .__c3
+__s.%-__could do that .__c0
+__s^no__right .__cb
+__s^am|s^bk__but it doesn't confirm that they've read it .__c5
+__fh__no no no | this is different .__cb
+__s^ba__this is not - so i - i know you can tell you know the uh mail delivery agent to - to confirm that the mail was delivered to your mailbox .__cb
+__s^bk|s^no__huh .__c0
+__fh__right .__c5
+__s__but - but no this was different .__cb
+__fh__ins- - in the mail there was a ==__cb
+__s^bd__oh just a button .__c5
+__%-__uh th- - there was a button that when you clicked on it it would send uh you know a actual acknowledgement to the sender that you had actually looked at the mail .__cb
+__s__oh yeah .__c5
+__s^bk__yeah | unfor- - yeah we could do that .__c5
+__qr.%-__but i hate that .__c5
+__s^bk__but it o- - but it only works for you know mime capable .__cb
+__qw^rt__you know if you use netscape or something like that for your n- ==__cb
+__%-__yeah .__c5
+__s__you might as well just respond to the mail .__c4
+__s__and ==__c1
+__s__and we actually need a third thing .__c1
+__s^bk__right .__cb
+__s__i mean ==__c4
+__s^bk__it's not that you've looked at it .__c1
+__s^bk__it's that you've looked at it and - and - and agree with one of the possible actions .__c1
+__s^bk|s^df^no__no no | you can do that .__cb
+__fg|qh.%--__right ?__c1
+__s__you know you can put this button anywhere you want .__cb
+__b__oh ?__c1
+__b__and you can put it - the bottom of the message and say here by you know by clicking on this i - i agree uh you know i acknowledge ==__cb
+__s__oh i see .__c1
+__s^bk__that i- - i- - my first born children are yours .__c1
+__fh__and ==__c1
+__s__yeah .__c1
+__s__yeah .__c1
+__b__quick question .__c4
+__s^e__are um ?==__c4
+__b__well i could put a u r l in there without any difficulty .__c5
+__%-__and even pretty simple mime readers can do that .__c5
+__s__but why shouldn't they just email back ?__c0
+__s.%-__so ==__c5
+__%-__yeah | reply .__c5
+__s^cs__yeah .__c1
+__s^df__i don't see there's a problem .__c0
+__b__right .__cb
+__s^ba__it's very nice .__c0
+__s^bk__yeah .__c1
+__s^aap__i - i like the high-tech aspect of it .__c0
+__s.%-__no no no | i actually don't .__cb
+__b__but i think ==__c0
+__s^cs__i appreciate it .__c0
+__fg|%-__i'm just saying that .__cb
+__s^bk__well i - because i use a text mail reader .__c5
+__s^e__if ev- - but i'm ==__cb
+__s^bk__don't you use v i ?__c4
+__qh__for your mai- ?==__c4
+__fh__yeah .__cb
+__s__wow that's - that's my guy .__c1
+__s^df__all right .__c1
+__b__you - you read email in v i ?__c5
+__s__yeah .__cb
+__s^bk__so - i - i- ==__cb
+__s__i like v i .__c0
+__qy__there's these logos that you can put at the bottom of your web page like powered by v i .__cb
+__fh__yeah .__c3
+__s^aa__wow !__c1
+__s^e__anyway quick question .__c4
+__s^aa|s^na__you could put wed bugs in the email .__c5
+__s^bk__i see .__c3
+__s^df__how m- ?==__c4
+__fg|s__yeah .__cb
+__fh__like there were three meetings this time or so- ==__c4
+__%-__or how many ?__c4
+__fg__six .__c0
+__s^bk|%-__six .__c4
+__s^aa|s^na__but no- - of different people .__c4
+__%-__so i guess if you're in both these types of meetings you'd have a lot .__c4
+__s.%--__but how ?==__c4
+__s^bk__i mean it also depends on how many ==__c4
+__s.%--__like if we release - this time it's a fairly small number of meetings .__c4
+__b__but what if we release like twenty five meetings to people ?__c4
+__s^bd^df__well what my s- - expectation is is that we'll send out one of these emails every time a meeting has been checked and is ready .__c5
+__s__in th- ==__c4
+__b__i don't know .__c4
+__b.%__oh oh okay .__c4
+__s__so tha- - that was my intention .__c5
+__b.%__so this time was just the first chunk | okay .__c4
+__s^e__it's just ==__c5
+__b__yeah .__c5
+__s__that we just happened to have a bunch all at once .__c5
+__fg|s^cs__well that's a good idea .__c4
+__fh__i mean maybe ==__c5
+__b__is that the way it's going to be you think jane ?__c5
+__s^cs^e__i agree with you .__c0
+__b__it's - we could do it uh - i- - i could - i'd be happy with either way .__c0
+__s__batch wise ==__c0
+__fg.%__what i was thinking ==__c0
+__s^e__uh so this one ==__c0
+__b__that was exactly right .__c0
+__fg|%--__that we had a - uh uh ==__c0
+__fh|s^fa__i - i had wanted to get the entire set of twelve hours ready .__c0
+__fh__don't have it .__c0
+__s.%-__but uh this was the biggest clump i could do by a time where i thought it was reasonable .__c0
+__%-__uhhuh .__c1
+__b__people would be able to check it and still have it ready by then .__c0
+__s^aa|%-__my um - i was thinking that with the n s a meetings i'd like - there are three of them .__c0
+__s^aa|s^na__and they're - uh i - i will have them done by monday .__c0
+__s^aa__uh unfortunately the time is later .__c0
+__s__and i don't know how that's going to work out .__c0
+__fh__but i thought it'd be good to have that released as a clump too .__c0
+__s.%-__because then you know they're - they - they have a - it- - it's in a category .__c0
+__b__it's not quite so distracting to them is what i was thinking .__c0
+__s^e__and it's all in one chu- ==__c0
+__b__but after that when we're caught up a bit on this process then um i could imagine sending them out periodically as they become available .__c0
+__s__okay .__c4
+__s^aa__i could do it either way .__c0
+__s^aa|s__i mean it's a question of how distracting it is to the people who have to do the checking .__c0
+__b__we heard anything from i b m ?__c1
+__b__at all .__c1
+__s.%-__uh | let's see .__c2
+__b__we ==__c2
+__qy^bu^d^rt__yeah right .__c2
+__s^e^rt__so we got the transcript back from that one meeting .__c2
+__s__everything seemed fine .__c2
+__s.%--__adam had a script that will put everything back together and there was - well there was one small problem but it was a simple thing to fix .__c2
+__b__and then um we uh - i sent him a pointer to three more .__c2
+__s^rt__and so he's off and working on those .__c2
+__s__yeah | now we haven't actually had anyone go through that meeting to see whether the transcript is correct .__c5
+__s__and to see how much was missed and all that sort of stuff .__c5
+__s__that's on my list .__c0
+__s__so at some point we need to do that .__c5
+__s.%-__yeah .__c2
+__s__well that's on my list .__c0
+__s^aa|s^ba__yeah | it's going to have to go through our regular process .__c2
+__s^e__i mean the one thing i noticed is it did miss a lot of backchannels .__c5
+__s^aa|s^na:s__there are a fair number of yeahs and uhhuh that - it's just - that aren't in there .__c5
+__s^e__so ==__c5
+__s^e__huh .__c0
+__%-__but i think - yeah like you said i mean that's - that's going to be our standard proc- ==__c1
+__b__that's what the transcribers are going to be spending most of their time doing i would imagine .__c1
+__s__uhhuh .__c0
+__s^e.%--__uhhuh uhhuh .__c0
+__s__once - once we ==__c1
+__s^nd__yes absolutely yeah .__c5
+__%-__one question about the backchannels .__c0
+__s.%--__it's going to ==__c1
+__s^j^m__do you suppose that was because they weren't caught by the pre segmenter ?__c0
+__s^df.%--__yes absolutely absolutely .__c5
+__s.%-__oh interesting .__c0
+__qh^df__oh interesting okay .__c0
+__fh__yeah | they're - they're not in the segmented .__c5
+__s^df__it's not that the i b m people didn't do it .__c5
+__s^f|s__okay .__c0
+__s^e__okay .__c0
+__s^e__just they didn't get marked .__c5
+__s__okay | so maybe when the detector for that gets better or something ==__c0
+__s__i w- - i ==__c0
+__s__there's another issue which is this ==__c0
+__s.%-__we've been uh contacted by university of washington now of course to um ==__c0
+__fg|s__we sent them the transcripts that correspond to those six meetings .__c0
+__s:s__and they're downloading the audio files .__c0
+__%-__so they'll be doing that .__c0
+__s^aa__chuck's - chuck's uh put that in .__c0
+__s__uhhuh yeah | i pointed them to the set that andreas put uh on the web .__c2
+__s^2__so th- - if they want to compare directly with his results they can .__c2
+__fh__and um then once uh ==__c2
+__s.%-__th- - we can also point them at the um uh the original meetings .__c2
+__s^df__and they can grab those too with s c p .__c2
+__s.%--__wait so you put the reference files ?==__c4
+__s^ba__no no | they d- - they wanted the audio .__c2
+__s^f__or the ?==__c4
+__s__jane sent them the uh transcripts .__c2
+__s^aa__no | i mean of the transcripts .__c4
+__s__um ==__c4
+__s__well we can talk about it off line .__c4
+__b__there's another meeting in here what at four ?__c5
+__s.%--__uhhuh .__c2
+__fh__right ?__c5
+__s^aa^t3|s^t3__yeah so we have to finish by three forty five .__c5
+__s^rt^t3__d- - d- - so does washi- - does - does u w want to u- - do this - want to use this data for recognition or for something else ?__cb
+__s__uh for recognition .__c2
+__s__oh .__cb
+__b__i think they're doing w- ==__c4
+__s__didn't they want to do language modeling on you know recognition compatible transcripts ?__c4
+__s.%-__oh i see .__cb
+__s^nd__yeah .__c1
+__fg|s^df^ng__or ?==__c4
+__s^df.%-__this is to show you uh some of the things that turn up during the checking procedure .__c0
+__s^e__so this is from one of the n s a meetings .__c0
+__s^ar|s^df__and uh i- - if you're familiar with the diff format the arrow to the left is what it was .__c0
+__s^bk__and the arrow to the right is what it was changed to .__c0
+__s__so ==__c0
+__s__and now the first one .__c0
+__%-__okay so then we started a weekly meeting .__c0
+__s^bu__the last time uh - and the transcriber thought little too much .__c0
+__qy__but uh ==__c0
+__qw^rt__really um it was we learned too much .__c0
+__s.%-__which makes more sense syntactically as well .__c0
+__s__and these - the parentheses were f- - from ==__cb
+__s^ar|s__then ==__c0
+__s.%-__oh | this - that's the convention for indicating uncertain .__c0
+__%-__u- - uncertains .__c5
+__s__so the transcriber was right .__c0
+__b__s- ==__cb
+__%__you know she was uncertain about that .__c0
+__s^aa__okay .__cb
+__s^na__so she's right to be uncertain .__c0
+__s__oh okay .__cb
+__s__and it's also a g- - a good indication of the - of that .__c0
+__s__the next one this was about uh claudia .__c0
+__s^aa__and she'd been really b- - busy with stuff such as waivers .__c0
+__qr__uh okay .__c0
+__b.%__um next one .__c0
+__s^aa__um this was an interesting one .__c0
+__s__so the original was so that's not - so claudia's not the bad master here .__c0
+__s^nd|qy^d^g__and then he laughs .__c0
+__s^aa__web master .__c5
+__s__but it really web master .__c0
+__s^df__oh uhoh .__c3
+__b__and then you see another type of uncertainty which is you know they just didn't know what to make out of that .__c0
+__s__so instead of split upon unknown it's split in principle .__c0
+__s^2__yep .__c5
+__s__jane these are from i b m ?__c3
+__s^aa__spit upon ?__c5
+__b__the top lines .__c3
+__s^nd__no no | these are - these are our local transcriptions of the n s a meetings .__c0
+__s^df.%--__no | these are ours .__c5
+__s__oh .__c3
+__b__the transcribers - transcriber's version ver- - versus the checked version .__c0
+__s^ba^nd__oh i see .__c3
+__s^e^rt__my - my checked version after i go through it .__c0
+__s.%-__okay .__c3
+__s.%-__um then you get down here .__c0
+__s.%-__um ==__c0
+__b__sometimes some speakers will insert foreign language terms .__c0
+__s__that's the next example .__c0
+__fh__the next one .__c0
+__s^cs^df__the uh version beyond this is ==__c0
+__s^bu|qy^d^g__so instead of saying or ==__c0
+__%-__especially those words also and oder and some other ones .__c0
+__s^df__those sneak in .__c0
+__s^aa__um the next one ==__c0
+__%-__discourse markers .__cb
+__s.%--__that's cool .__c5
+__s__discourse markers .__cb
+__s^e__s- ==__c0
+__s__sorry | what ?__c0
+__s__discourse markers ?__c0
+__b__discourse markers .__cb
+__s^ba__sure sure sure sure .__c0
+__fg|s.%--__yeah yeah .__cb
+__s^bk__and it's - and it makes sense .__c0
+__s^bk__because it's like below this - it's a little subliminal there .__c0
+__b__yeah .__cb
+__s^co^t^tc__yeah yeah .__cb
+__%--__um okay | the next one .__c0
+__s__uh this is a term .__c0
+__s^bk__the problem with terminology .__c0
+__s^bu|qy^d^g__description with th- - the transcriber has x as an advance .__c0
+__s^e__but really it's q s in advance .__c0
+__s^aa__i mean i - i've benefited from some of these uh cross group meetings .__c0
+__fh__okay | then you got ==__c0
+__s^2__um uh ==__c0
+__s__instead of from something or other cards it's for multicast .__c0
+__s^bk__and instead of ann system related it's end system related .__c0
+__s^bsc__this was changed to an acronym initially .__c0
+__s^df__and it should- - shouldn't have been .__c0
+__s^bk__and then you can see here g p s was misinterpreted .__c0
+__s^2__it's just totally understanda- ==__c0
+__s^m|s^aa__this is - this is a lot of jargon .__c0
+__s^e__um and the final one ==__c0
+__fh__the transcriber had th- - in the core network itself ==__c0
+__qy^f^rt__or the exit unknown .__c0
+__qo^rt^t^tc__not the internet unknown .__c0
+__s^bk|s__and it - it comes through as in the core network itself of the access provider .__c0
+__s^rt__not the internet backbone core .__c0
+__s__now this is a lot of terminology .__c0
+__s__huh .__cb
+__s^bk__and they're generally extremely good ==__c0
+__fg|s__but you know in this - this area it really does pay to um - to double check .__c0
+__s__and i'm hoping that when the checked versions are run through the recognizer that you'll see s- - substantial improvements in performance .__c0
+__s__because the - you know there're a lot of these in there .__c0
+__s.%--__yeah | so how often ?==__cb
+__s__yeah | but i bet - i bet they're acoustically challenging parts anyway though .__c5
+__fh__huh .__c3
+__s__no actually no .__c0
+__s__oh really ?__c5
+__s__huh uh .__c0
+__s:s__uh it's ==__c5
+__s__oh | so it's just jargon .__c5
+__s__it's jargon | yeah .__c0
+__s__i mean this is - because you know you don't realize in daily life how much you have top down influences in what you're hearing .__c0
+__s^fa__well but ==__cb
+__qw^br__but - but ==__cb
+__qy^rt__and it's jar- - it's jargon coupled with a foreign accent .__c0
+__s^aa|s^co__but we don't - i mean our language model right now doesn't know about these words anyhow .__cb
+__s^aa|s^co^r__so ==__cb
+__%--__you know un- - until you actually get a decent language model adam's right .__cb
+__s^aa__yeah .__c1
+__s^bu__it probably won't do any better .__c5
+__s^bu^e__you probably won't notice a difference .__cb
+__s^aa__but it's - i mean it's definitely good that these are fixed .__cb
+__s__i mean obviously .__cb
+__s__yeah .__c1
+__s^aa__well also from the standpoint of getting people's approval .__c0
+__s^aa__because if someone sees a page full of uh um barely decipherable w- - you know sentences and then is asked to approve of it or not it's uh uh ==__c0
+__s^2^na__did i say that ?__c5
+__s^aa__yeah .__c1
+__s^bk__yeah | that would be a shame if people said well i don't approve it because the - it's not what i said .__c1
+__s^aa__okay .__c0
+__s^bk__well that's exactly why i put the extra option in ==__c5
+__b__yeah .__c1
+__s^ft__exactly | that's why we discussed that .__c0
+__s^rt.%--__is that i was afraid people would say let's censor that because it's wrong .__c5
+__s__yeah .__c1
+__s^cs__and i don't want them to do that .__c5
+__s^df__yeah .__c1
+__s^j.%--__and then i also - the final thing i have for transcription is that i made a purchase of some other headphones .__c0
+__s^aa__c- ==__cb
+__fg|s__because of the problem of low gain in the originals .__c0
+__s__and - and they very much appro- - they mu- - much prefer the new ones .__c0
+__s__and actually i - i mean i - i think that there will be fewer things to correct because of the - the choice .__c0
+__s__we'd originally chosen uh very expensive head- - headsets .__c0
+__s__yeah .__c5
+__s__ugh !__c5
+__s.%--__but um they're just not as good as these um in this - with this respect to this particular task .__c0
+__s__well return the old ones .__cb
+__s.%--__it's probably impedance matching problems .__c5
+__s__but ==__c5
+__s:s__i don't know exactly .__c0
+__s^df__but we chose them because that's what's been used here by prominent projects in transcription .__c0
+__s:s__could be .__c1
+__s__uhhuh .__c5
+__s__so it i- - we had every reason to think they would work .__c0
+__s:s__so you have spare headsets ?__cb
+__s__sorry | what ?__c0
+__s^df__you have spare headsets ?__cb
+__s^e__they're just earphones .__c5
+__s^bd__they're not headsets .__c5
+__s:s__they're not microphones .__c5
+__s:s__no no | i mean just earphones .__cb
+__s__right .__c4
+__s^bu|qy^d^g^rt__um ==__cb
+__qy.%--__because i uh i could use one on my workstation .__cb
+__s^no__just to t- ==__cb
+__s^bk__because sometimes i have to listen to audio files .__cb
+__s__and i don't have to b- - go borrow it from someone .__cb
+__b__and ==__cb
+__s__we have actua- - actually i have ==__c0
+__s^df__w- - well the thing is that if we have four people come to work for a day i was - i was hanging on to the others for uh - for spares .__c0
+__s.%--__oh okay .__cb
+__s^t1__sure | no problem .__cb
+__fh__no but you'd - if you - yeah w- - we should get it .__c1
+__qr__but i can tell you what i recommend .__c0
+__s.%--__but if you need it just get it .__c5
+__s__i just ==__cb
+__s^df__come on .__c5
+__b__right .__cb
+__s.%-:s.%-__yeah if you need it .__c1
+__qy^bu^d^rt__yeah .__cb
+__s^aa__yeah .__c1
+__s^na.%--__yeah | i still - i still need to get a pair too .__c3
+__s^df:s__it'd just have to be a s- - a separate order - an added order .__c0
+__s^f__they're - they're - they're - they're pretty inexpensive .__c1
+__s__yeah that ==__c4
+__s^df__we should order a cou- - uh t- - two or three or four actually .__c4
+__b__i'm using one of these .__c3
+__fg|s__yeah .__c1
+__s__yeah .__c3
+__s__i think i have a pair that i brought from home .__cb
+__s:s__we have ==__c4
+__s.%-__but it's f- - just for music listening .__cb
+__qy^rt__no just - just - just - just buy them .__c1
+__s^aa__and it's not ==__cb
+__s^ba^fe__sh- - just get the model number .__c4
+__fg|%-__nnn yeah .__cb
+__s^ba__and ==__c4
+__qy__just buy them .__c1
+__s^aa__where do you buy these from ?__c4
+__qy^rt__yeah .__cb
+__qy^e^rt__cambridge soundworks just down the street .__c0
+__s^aa|s^nd__like ?==__c4
+__s^df__you just b- - go and b- ==__c4
+__s^df.%--:s__oh .__c4
+__s^df:s__yeah they always have them in stock .__c0
+__%-__yeah .__c1
+__s^j:qw__anyway .__cb
+__s^aa__that'd be a good idea .__c4
+__s^ng__w- - uh could you email out the brand ?__c5
+__s^aa__yeah .__c1
+__s^aa__oh sure yeah okay .__c0
+__s.%--__because i think - sounds like people are interested .__c5
+__s^ba__yeah .__c3
+__s:s__so ==__c5
+__s.%-:s__definitely .__c3
+__%-__yeah .__c1
+__s^ba__it's made a difference in - in how easy ==__c0
+__s^bd__yeah .__c0
+__s__i realized something i should talk about .__c1
+__b__so what's the other thing on the agenda actually ?__c1
+__s.%-__uh the only one was don wanted to uh talk about disk space yet again .__c5
+__s^r__yeah .__c3
+__s^e__u- - it's short .__c3
+__s^aa__i mean if you want to go we can just throw it in at the end .__c3
+__s^e__no no | why don't you - why don't you go ahead ?__c1
+__b__since it's short .__c1
+__s__um well uh ==__c3
+__s.%-__oh i thought you meant the disk space .__c5
+__s^aa__the disk space was short .__cb
+__s^na__yeah | we know disk space is short .__c5
+__%-__yeah | that's what i thought too .__cb
+__s^bk__that's a great ambiguity .__c4
+__s.%--__yeah .__c1
+__s^bk__it's one of these ==__c4
+__s^bu|qy^d^g__it's - it's social .__c4
+__%-__it's ==__c1
+__%-__and uh discourse level .__c4
+__s^aa|s^na__i- - i- - i- - it- - i- ==__c1
+__s^bk|s^ba__yeah .__c3
+__s^e__and ==__c4
+__s__yeah | it's great .__c1
+__s^bk__sorry .__c4
+__s^bk__yeah .__c1
+__s^rt__double - double ==__c1
+__s__yeah | it was really goo- ==__c5
+__s__see if i had that little scratch pad i would have made an x there .__c4
+__s__thank you thank you .__c3
+__s__uh well we'll give you one then .__c5
+__s__yeah .__c1
+__%-__um so um ==__c3
+__s__without thinking about it when i offered up my hard drive last week ==__c3
+__s__oh no !__c5
+__%-__it was while i was out of town .__c4
+__s.%-__um this is always a suspect phrase .__c3
+__fg|qy__but um | no i uh - i realized that we're going to be doing a lot of experiments um o- - for this uh paper we're writing .__c3
+__s^df__so we're probably going to need a lot more .__c3
+__s__we're probably going to need that disk space that we had on that eighteen gig hard drive .__c3
+__s__but um we also have someone else coming in that's going to help us out with some stuff .__c3
+__s^fa__so ==__c3
+__fg|s__we've just ordered a hundred gigabytes .__c1
+__s__i think we need like another eighteen gig disk to be safe .__c4
+__s__okay | we just need to ==__c3
+__s^rt:s^rt__well we're getting three thirty - thirty sixes .__c1
+__s^ba__so ==__c4
+__%__okay .__c3
+__s__right ?__c1
+__s__that are going into the main f- - file server .__c1
+__qy^bu^d^rt__okay .__c4
+__qrr__markham's ordering and they should be coming in soon .__c2
+__s^aa|s.%--__w- - well so - so ==__c3
+__s__so ==__c1
+__s__soon ?__c5
+__s^bk__yeah | i mean i guess the thing is is all i need is to hang it off like the person who's coming in sonali's computer .__c3
+__s__oh | so - so you mean the d- - the internal - the disks on the machines that we just got ?__cb
+__s__whew !__c3
+__s__or we can move them .__c3
+__s__no .__c5
+__s__or extra disk ?__cb
+__s__these are going to go onto abbott .__c2
+__s__ne- - new disks .__c5
+__s.%-__onto abbott .__c1
+__s^bu__so are we going to move the stuff off of my hard drive onto that when those come in ?__c3
+__s^bk__the file server .__c1
+__s^aa|s^na__oh oh okay .__cb
+__s^bu^e|qy^d^g__on ==__c5
+__s__yeah .__c5
+__s^aa__once they come in sure .__c5
+__s^bk__uh i- ==__c4
+__s^aa|s^na__okay | that's fine .__c3
+__s^e__do - when - when is this planned for roughly ?__c4
+__s^bk__they should be - i - i imagine next week or something .__c2
+__s__okay .__c4
+__s^bk|s__okay .__c3
+__s^bk__if you're - if you're desperate i have some space on my drive .__c5
+__s^bk__so ==__c4
+__s__i think if i'm ==__c3
+__s^e__but i - i vacillate between no space free and a few gig free .__c5
+__s^2__yeah .__c4
+__s__yeah | i think i can find something if i'm desperate .__c3
+__s^df__so ==__c5
+__s|s^f__and um in the meantime i'll just hold out .__c3
+__s__okay .__c5
+__s^rt__that was the only thing i wanted to bring up .__c3
+__s__it should be soon .__c2
+__s__we - we should ==__c2
+__s.%--__okay .__c3
+__s__so there's another hundred gig .__c1
+__s__so ==__c1
+__s__all right great .__c3
+__fh|s__uhhuh .__cb
+__s__okay .__c1
+__s__that's it .__c3
+__s__it's great to be able to do it .__c1
+__s__good .__c4
+__s^df__just say oh yeah a hundred gig .__c1
+__s__yeah .__c3
+__s^ba__yeah .__c5
+__s.%-__no big deal .__c1
+__s__a hundred gig here .__c5
+__s__a hundred gig there .__c5
+__s.%-__well each meeting is like a gig or something .__c4
+__s^bu^j^rt__it's eventually real disk space .__c5
+__s^aa__yeah .__c1
+__s^aa__so it's really ==__c4
+__s__yeah .__c1
+__s^j__um yeah | i was just going to comment that i- - i'm going to uh be on the phone with mari tomorrow late afternoon .__c1
+__fh__oh yeah .__c5
+__s__we're supposed to get together and talk about uh where we are on things .__c1
+__s^j__uh there's this meeting coming up .__c1
+__s^aa|s^ba__uh and there's also an annual report now .__c1
+__s__i never actually ==__c1
+__s__i - i was asking about this .__c1
+__s__i don't really quite understand this .__c1
+__b__she was re- - she was referring to it as ==__c1
+__s__i think this actually didn't just come from her .__c1
+__s__but this is what uh darpa had asked for .__c1
+__s^aa__um she's referring to it as the an- - annual report for the fiscal year .__c1
+__s__but of course the fiscal year starts in october .__c1
+__s^df__so i don't quite understand w- - w- - why we do an annual report that we're writing in july .__c1
+__fh__she's either really late or really early .__c2
+__qy__huh .__c5
+__qw^rt__or she's getting a good early start .__c5
+__s^aa__uh i think basically it- - it's none of those .__c1
+__s^no__it's that the meeting is in july .__c1
+__s^bk|s__so they - so darpa just said do an annual report .__c1
+__b__so ==__c1
+__s__so ==__c1
+__b.%__so anyway | i'll be putting together stuff .__c1
+__s^df__i'll do it uh you know as much as i can without bothering people .__c1
+__qy^rt__just by looking at - at papers and status reports .__c1
+__s^no__huh .__cb
+__s^no__i mean the status reports you do are very helpful .__c1
+__s^e^j^rt__uh so i can grab stuff there .__c1
+__s__and if uh - if i have some questions i'll ==__c1
+__s^fe__when we remember to fill them out .__c5
+__s__yeah | if people could do it as soon as - as you can if you haven't done one si- - recently .__c1
+__s:s__uh uh ==__c1
+__s__but you know i'm - i'm sure before it's all done i'll end up bugging people for - for more clarification about stuff .__c1
+__s:s__um but um ==__c1
+__fh__i don't know .__c1
+__qy^rt__i guess - i guess i know pretty much what people have been doing .__c1
+__s^ar|s__we have these meetings and - and there's the status reports .__c1
+__s^df__uh but um um ==__c1
+__s__yeah | so that wasn't a long one just to tell you that and if something hasn't uh ==__c1
+__s__i'll be talking to her late tomorrow afternoon .__c1
+__s__and if something hasn't been in a status report and you think it's important thing to mention on this kind of thing uh uh just pop me a one liner .__c1
+__s__and - and - and i'll - i'll have it in front of me for the phone conversation .__c1
+__s^bk__okay .__cb
+__fg|s__uh .__c1
+__s__i guess uh you- - you're still pecking away at the demos and all that probably .__c1
+__s^cs^rt:s__yep .__c5
+__b__and don is going to be helping out with that .__c5
+__%__oh that's right .__c1
+__s.%-__so ==__c5
+__s.%-__okay .__c1
+__b.%__did you want to talk about that this afternoon ?__c5
+__b__um ==__c3
+__%__not here but later today .__c5
+__s:s|qy^f__we should probably talk off line about when we're going to talk off line .__c3
+__s^aa|s.%-__okay okay .__c5
+__s^ng__okay .__c1
+__s.%-__yeah | i might want to get updated about it in about a week .__c1
+__%-__because um i'm actually going to have a - a few days off the following week .__c1
+__b__a- - after the - after the picnic .__c1
+__%__so ==__c1
+__s^na__oh okay .__c5
+__s__that's all i had .__c1
+__s^na__so we were going to do sort of status of speech transcription .__c5
+__s^aa|s^na__automatic transcription .__c5
+__s__but we're kind of running late .__c5
+__s^fe__so ==__c5
+__s^bk__how long does it take you to save the data ?__c4
+__s__fifteen minutes .__c5
+__s^bk.%__yeah .__c4
+__s:s__so ==__c5
+__qy^bh__if you want to do a quick ==__c5
+__fh__yeah .__c4
+__s__ten minute .__c5
+__b__guess we should stop like twenty of at the latest .__c4
+__s^aa|s^na__uh ==__c1
+__s^aa__we - we have another meeting coming in that they want to record .__c4
+__s^e:s__so ==__c4
+__s^aa__and there's the digits to do .__c1
+__s^aa__so maybe - may- - maybe - maybe ==__c1
+__s^na__yeah | well we can skip the digits .__c5
+__s^bd^ng__we could .__c1
+__b__fi- - five minute report or something .__c1
+__s__it's up to you .__c4
+__s^na__i don't ==__c4
+__s__whatever you want .__c5
+__b__yeah yeah .__c1
+__b.%__well i would love to hear about it .__c1
+__s^ba^fe__what do you have to say ?__c5
+__%--__i'm interested .__c5
+__fg|s.%--__especially since ==__c1
+__s^j__so ==__c5
+__fg__yeah | well i'm going to be on the phone tomorrow .__c1
+__s:s__so this is just a good example of the sort of thing i'd like to hear about .__c1
+__s__wait why is everybody looking at me ?__c4
+__%__sorry .__c5
+__s__i don't know .__c2
+__s^bk__because he looked at you .__c1
+__s__what ?__cb
+__s^bk__and says you're sketching .__c1
+__%-__uh | i'm not sure what you were referring to .__c4
+__qy^bu^d^rt:s__i - i - i - i'm not - actually i'm not sure what ==__cb
+__s:s__are we supposed to have done something ?__cb
+__s^rt:s^rt__no | we were just talking before about alternating the subject of the meeting .__c5
+__s^m:s|s^aa__oh .__cb
+__s^df:s__alternating .__cb
+__b__uhhuh .__c4
+__s.%-__and this week we were going to try to do t- - automatic transcription status .__c5
+__s^bu|qy^d^g^rt__i wasn't here last week .__c4
+__s^m|s^aa__oh !__cb
+__s^na__sorry .__c4
+__s^cs:s__oh .__c4
+__s^aa__we did that last week .__cb
+__s^df__but we sort of failed .__c5
+__s:s__right ?__cb
+__qy^bu^d__hhh .__c4
+__s.%--__no .__c5
+__s^ar|s:s__i thought we did .__c1
+__s^bsc__did we ?__c5
+__s^2:s__yeah | we did .__cb
+__s^bk__okay .__c5
+__s:s__okay | so now - now we have the schedule .__c5
+__s:s__so next week we'll do automatic transcription status .__c5
+__s:s__plus anything that's real timely .__c5
+__s.%--:s__okay .__cb
+__s:s__oh .okay .__c4
+__s^aa|s^na__okay .__c0
+__s__okay | whew !__c1
+__s:s__whew !__c5
+__b__good update .__c2
+__b__that was ==__c1
+__fh__dodged that bullet .__c5
+__b__yeah nicely done liz .__c1
+__s^ba__a woman of few words .__c0
+__s^na__but - but lots of prosody .__c1
+__s^cs__okay okay .__c1
+__s^bd__uh i mean we - we really haven't done anything .__cb
+__s^co^j__th- ==__c5
+__s^bk|s^j^na__excuse me ?__c5
+__s^ar__sorry .__cb
+__s__well since last week .__c0
+__s.%--__yeah | we're ==__c4
+__s^aa__i mean the - the next thing on our agenda is to go back and look at the um the automatic alignments .__cb
+__s.%-__because uh i got some ==__cb
+__s__i - i - i learned from thilo what data we can use as a benchmark to see how well we're doing on automatic alignments of the background speech .__cb
+__%-__or of the foreground speech with background speech .__cb
+__fh__so ==__cb
+__s^ar|s__yeah .__c5
+__qy^d^f^g__but we haven't actually ==__cb
+__s__and then uh i guess the new data that don will start to process ==__c4
+__b__the um ==__c4
+__s^na__when he can get these ==__c4
+__s^aa|s.%-__you know before we were working with these segments that were all synchronous .__c4
+__s^aa__and that caused a lot of problems .__c4
+__fh__huh .__cb
+__b__oh right right .__c5
+__s^bk__because you have timed sp- - at - on either side .__c4
+__s^na^r__uhhuh .__c5
+__s__and so that's sort of a ==__c4
+__s^bk__stage two of trying the same kinds of alignments with the tighter boundaries with them is really the next step .__c4
+__fg|s__right .__c5
+__s__we did get our um ==__c4
+__s__i'll be interested .__c0
+__s__i guess good news .__c4
+__fh__we got our abstract accepted for this conference .__c4
+__s__um - | workshop .__c4
+__s^aa|s^ba__isca workshop in um uh new jersey .__c4
+__s.%--__and we sent in a very poor abstract .__c4
+__s^aa__but they ==__c4
+__s^aa|s^na__very poor .__c4
+__s^ba__very quick .__c4
+__b__um ==__c4
+__s.%--__but we're hoping to have a paper for that as well .__c4
+__s__which should be an interesting ==__c4
+__s:s__when's it due ?__c5
+__s:s__the t- - paper isn't due until august .__c4
+__s__the abstracts were already due .__c4
+__s^bu^rt__so it's that kind of workshop .__c4
+__b__uhhuh .__c5
+__s__but i mean the good news is that that will have sort of the european experts in prosody .__c4
+__s:s__sort of a different crowd .__c4
+__s:s__and i think we're the only people working on prosody in meetings so far .__c4
+__s:s__so that should be interesting .__c4
+__s__what's the name of the meeting ?__c0
+__s^cs^na__uh | it's isca workshop on prosody in speech recognition and understanding or something like that .__c4
+__s^aa__it's called prosody to ==__cb
+__s__uhhuh .__c5
+__s^j__some generic ==__c4
+__s__good .__c0
+__s__uh so it's focused on using prosody in automatic systems .__c4
+__s^ba__and there's a um a web page for it .__c4
+__s^bk__y- - you going to uh eurospeech ?__c1
+__s^t^tc__yeah .__cb
+__s__yeah .__c1
+__s__i don't have a paper .__c5
+__s^bk__but i'd kind of like to go .__c5
+__s__if i could .__c5
+__%-__is that all right ?__c5
+__s^df__we'll discuss it .__c1
+__qw__okay | i guess that's no .__c5
+__s^m|s^aa__my - my - my car - my car needs a good wash by the way .__c1
+__s__okay | well that th- - hey if that's what it takes that's fine with me .__c5
+__qw__um ==__c1
+__s__i'll pick up your dry cleaning too .__c5
+__s^bk__should we do digits ?__c5
+__b__yeah .__c1
+__s^rt:qy^bu^d^rt__uh ==__c5
+__s:qy^bu^d^rt__DIGIT_TASK__c5
+__s^bk__can i go next ?__cb
+__s^aa__because i have to leave actually .__cb
+__s^aa^r__yep .__c5
+__fg|s.%--__go for it .__c5
+__s__DIGIT_TASK__cb
+__s__DIGIT_TASK__c3
+__%-__DIGIT_TASK__c9
+__s__huh .__c5
+__qw^rt__DIGIT_TASK__c4
+__s__DIGIT_TASK__c2
+__s__DIGIT_TASK__c1
+__b__DIGIT_TASK__c0
+__b__thanks .__c5
+__s__thank you .__c5
+__s__so you get to be the one who has all the paper rustling .__c1
+__s.%--__right ?__c1

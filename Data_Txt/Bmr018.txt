@@ -1,0 +1,1190 @@
+__z__let's see .__c4
+__z__test ?__c4
+__z__test ?__c4
+__z__yeah .__c4
+__z__okay .__c4
+__z__channel one .__c1
+__z__hello ?__c0
+__z__hello ?__c0
+__z__test .__c2
+__z__i was saying hynek will be here next week .__c4
+__z__uh wednesday through friday .__c4
+__z__uh through saturday .__c4
+__z__and um ==__c4
+__z__i won't be here thursday and friday .__c4
+__z__but my suggestion is that uh at least for this meeting people should go ahead .__c4
+__z__uh because hynek will be here .__c4
+__z__and ==__c4
+__z__you know we don't have any czech accent yet .__c4
+__z__uh as far as i know .__c4
+__z__so ==__c4
+__z__okay .__c5
+__z__there we go .__c4
+__z__um ==__c4
+__z__so other than reading digits what's our agenda ?__c4
+__z__i don't really have uh anything new .__c5
+__z__been working on meeting recorder stuff .__c5
+__z__so ==__c5
+__z__okay .__c4
+__z__um ==__c4
+__z__do you think that would be the case for next week also ?__c4
+__z__or is - is uh ?==__c4
+__z__what's your projection on ?==__c4
+__z__um ==__c5
+__z__because the one thing - the one thing that seems to me we really should try if you hadn't tried it before because it hadn't occurred to me .__c4
+__z__it was sort of an obvious thing .__c4
+__z__is um adjusting the uh sca- - the scaling and uh insertion penalty sort of stuff .__c4
+__z__i did play with that actually a little bit .__c5
+__z__um what happens is uh when you get to the noisy stuff you start getting lots of insertions .__c5
+__z__right .__c4
+__z__and um ==__c5
+__z__so i've tried playing around a little bit with um the insertion penalties and things like that .__c5
+__z__yeah .__c4
+__z__um ==__c5
+__z__i mean it - it didn't make a whole lot of difference .__c5
+__z__like for the well matched case it seemed like it was pretty good .__c5
+__z__um | i could do more playing with that though .__c5
+__z__and uh ==__c5
+__z__and see .__c5
+__z__but you were looking at mel cepstrum .__c4
+__z__yes .__c5
+__z__right .__c4
+__z__oh you're talking about for th- - for our features .__c5
+__z__right .__c4
+__z__so i mean i- - it- - it's not the direction that you were working with that we were saying what's the - uh what's the best you can do with - with mel cepstrum .__c4
+__z__huh .__c5
+__z__but they raised a very valid point .__c4
+__z__which i guess ==__c4
+__z__so to first order - i mean you have other things you were going to do .__c4
+__z__but to first order i would say that the conclusion is that if you um do uh some monkeying around with uh the exact h t k training and with uh you know how many states and so forth that it - it doesn't particularly improve the performance .__c4
+__z__in other words that even though it sounds pretty dumb just applying the same number of states to everything more or less no matter what language isn't so bad .__c4
+__z__right ?__c4
+__z__and i guess you hadn't gotten to all the experiments you wanted to do with number of gaussians .__c4
+__z__right .__c5
+__z__but um ==__c4
+__z__let's just ==__c4
+__z__if we had to - if we had to draw a conclusion on the information we have so far we'd say something like that .__c4
+__z__right ?__c4
+__z__uhhuh .__c5
+__z__uh | so the next question to ask which is i think the one that - that - that andreas was dre- - addressing himself to in the lunch meeting is um we're not supposed to adjust the back end .__c4
+__z__but anybody using the system would .__c4
+__z__yeah .__c5
+__z__so ==__c4
+__z__if you were just adjusting the back end how much better would you do uh in noise ?__c4
+__z__uh because the language scaling and insertion penalties and so forth are probably set to be about right for mel cepstrum .__c4
+__qw^t^tc__uhhuh .__c5
+__s^t__but um | they're probably not at all set right for these things .__c4
+__fh__particularly these things that look over uh larger time windows in one way or another with - with l d a and k l t and neural nets and all these things .__c4
+__fg|s.%-__in the fa- - past we've always found that we had to increase the insertion penalty to - to correspond to such things .__c4
+__qr^t__so ==__c4
+__s^t__i think that's uh that's kind of a first order thing that - that we should try .__c4
+__qw^bu^j__so for th- ==__c5
+__fg|s.%-__so the experiment is to um run our front end like normal with the default uh insertion penalties and so forth .__c5
+__s^aa__and then tweak that a little bit .__c5
+__qy^d^rt__and see how much of a difference it makes .__c5
+__qy^rt__so by our front end i mean take you know the aurora two s- - take some version that stephane has that is you know our current best version of something .__c4
+__s^aa__if we were ==__c5
+__s^ar|s__uhhuh .__c5
+__qy^d^g^rt__um ==__c4
+__s^aa.%-__i mean y- - don't want to do this over a hundred different things that they've tried .__c4
+__s^bu^m__but you know for some version that you say is a good one .__c4
+__s^aa__you know ?__c4
+__s.%--__um ==__c4
+__s__how - how much uh does it improve if you actually adjust that ?__c4
+__%-__okay .__c5
+__s^bs__but it is interesting .__c4
+__s^aa__you say you - you have for the noisy ==__c4
+__s__how about for the - for the mismatched or - or - or - or the - or the medium mismatched conditions ?__c4
+__s__have you ?==__c4
+__s^aa__when you adjusted those numbers for mel cepstrum did it ?==__c4
+__fg|qy^rt.%-__uh i - i don't remember off the top of my head .__c5
+__s^ar|sj^ba__um ==__c5
+__s^bk__yeah i didn't even write them down .__c5
+__fg|s__i - i - i don't remember .__c5
+__s^cs.%-__i would need to ==__c5
+__sj.%--__well i did write down ==__c5
+__s__um ==__c5
+__s^bk__so when i was doing - i just wrote down some numbers for the well matched case .__c5
+__sj^ba__yeah .__c4
+__h__um ==__c5
+__qy^d^rt__looking at the - i wrote down what the deletions substitutions and insertions were .__c5
+__s^e__uh ==__c5
+__s^ng__for different numbers of states per phone .__c5
+__qrr__yeah .__c4
+__s^r__um but uh that - that's all i wrote down .__c5
+__s^m__okay .__c4
+__s^bk__so ==__c5
+__%-__i - i would ==__c5
+__s^bu^r__yeah .__c5
+__s^aa^rt__i would need to do that .__c5
+__s^bk__okay .__c4
+__s__so ==__c4
+__s__i can do that for next week .__c5
+__s__yeah .__c4
+__s.%--__and um ==__c4
+__s^2__yeah .__c4
+__s^bsc__also uh uh sometimes if you run behind on some of these things maybe we can get someone else to do it .__c4
+__s^bs__and you can supervise or something .__c4
+__s^aa__but ==__c4
+__s__but i think it would be - it'd be good to know that .__c4
+__s__okay .__c5
+__sj^ba__i just need to get um front end uh stuff from you .__c5
+__s__huh .__c1
+__b__or you point me to some files that you've already calculated .__c5
+__s__yeah .__c1
+__sj__all right .__c1
+__s__okay .__c4
+__s^rt__uh ==__c4
+__fh|sj^ba__i probably will have time to do that and time to play a little bit with the silence model .__c5
+__fg|s^cs^t__uhhuh .__c4
+__s^cs__so maybe i can have that for next week when hynek's here .__c5
+__s^co__yeah .__c4
+__qy^rt__uhhuh .__c1
+__qrr.%--__yeah .__c4
+__s^aa__because i mean the - the other ==__c4
+__s^aa__that in fact might have been part of what uh the difference was .__c4
+__s^bk__at least part of it that - that we were seeing .__c4
+__qy^rt__remember we were seeing the s r i system was so much better than the tandem system .__c4
+__s__huh .__c5
+__s^aa__part of it might just be that the s r i system they - they - they always adjust these things to be sort of optimized .__c4
+__h__is there ?==__c5
+__s^fa__and ==__c4
+__fh|sj__i wonder if there's anything that we could do to the front end that would affect the insertion .__c5
+__s__yes .__c4
+__s__i think you can .__c4
+__s__what could you do ?__c5
+__sj^ba__well um ==__c4
+__b__uh ==__c4
+__fh|s__part of what's going on um is the uh the range of values .__c4
+__fh__so if you have something that has a much smaller range or a much larger range and taking the appropriate root .__c4
+__s.x__oh !__c5
+__s__uhhuh .__c5
+__sj__you know ?__c4
+__qy^rt__if something is kind of like the equivalent of a bunch of probabilities multiplied together you can take a root of some sort .__c4
+__s^e^rt__if it's like seven probabilities together you can take the seventh root of it or something .__c4
+__s.%-__or if it's in the log domain divide it by seven .__c4
+__s^na__uhhuh .__c5
+__s__but ==__c4
+__b__but ==__c4
+__s__um ==__c4
+__s^bk__that has a similar effect .__c4
+__s.%-__because it changes the scale of the numbers - of the differences between different candidates from the acoustic model .__c4
+__s^ng__oh .__c5
+__s__right .__c5
+__s__as opposed to what's coming from the language model .__c4
+__s^aa__so that w- ==__c5
+__s.%-__right .__c5
+__b__so in effect that's changing the value of your insertion penalty .__c5
+__s^am__yeah .__c4
+__fg__i mean it's more directly like the - the language scaling or the uh - the model scaling or acoustic scaling .__c4
+__s.%-__that's interesting .__c5
+__s^cc__but you know that those things have kind of a similar effect to the insertion penalty .__c4
+__s^bk|qy^rt__uhhuh .__c5
+__h|s^co__anyway they're a slightly different way of of handling it .__c4
+__h__right .__c5
+__qy^bu^d^rt__so um ==__c4
+__s^df__so if we know what the insertion penalty is then we can get an idea about what range our number should be in .__c5
+__fh|s^co__so that they match with that .__c5
+__s^bk__i think so .__c4
+__s__yeah .__c4
+__s^aa__yeah .__c4
+__s__so that's why i think ==__c4
+__s^e__that's another reason other than curiosity as to why i- - it would in fact be kind of neat to find out if we're way off .__c4
+__s^cc__uhhuh .__c5
+__b__i mean the other thing is are- - aren't we seeing - y- - y- ?==__c4
+__s^bk__i'm sure you've already looked at this .__c4
+__s__bu- - in these noisy cases are - we are seeing lots of insertions .__c4
+__s.%--__right ?__c4
+__s^bk__the insertion number is quite high ?__c4
+__qw__i know the v a d takes pre- - care of part of that .__c4
+__s^no__yeah .__c1
+__s^cs.%--__yeah .__c5
+__fg__but ==__c4
+__s^no__i've seen that with the mel cepstrum .__c5
+__s^cs__yeah .__c1
+__s^df__i don't - i don't know about the aurora front end .__c5
+__s^arp__but ==__c5
+__s.%--__i think it's much more balanced with uh when the front end is more robust .__c1
+__s.%-__yeah .__c1
+__sj__i could look at it - at this .__c1
+__fh__yeah .__c1
+__s^am__yeah .__c4
+__s.%--__wha- - what's a typical number ?__c4
+__qw__uhhuh .__c1
+__b__i don't - i don't know .__c1
+__%--__do we ?==__c4
+__qy^rt__oh you - oh you don't know .__c4
+__sj.%--__okay .__c4
+__s^fe|s^bsc__i don't have this in ==__c1
+__qy^d^g^rt__i'm sure it's more balanced .__c4
+__s^df__but it - it - it wouldn't surprise me if there's still ==__c4
+__qy^rt__uhhuh .__c1
+__s^ng__i mean in - in the - the - the old systems we used to do i - i uh i remember numbers kind of like insertions being half the number of deletions as being and both numbers being tend to be on the small side comparing to - to uh substitutions .__c4
+__fh__uhhuh .__c1
+__sj__uhhuh .__c1
+__fg__well this ==__c5
+__s^aa__the whole problem with insertions was what i think um we talked about when the guy from o g i came down that one time .__c5
+__s^bu__and ==__c5
+__s^aa__and that was when people were saying well we should have a uh - uh voice activity detector .__c5
+__s^e__right .__c4
+__s^e__that because all that stuff that we're getting thr- - the silence that's getting through is causing insertions .__c5
+__b__so ==__c5
+__s^aa__right .__c4
+__s^aa__huh .__c1
+__s^cs__i'll bet you there's still a lot of insertions .__c5
+__s__uhhuh .__c1
+__s^e__yeah .__c4
+__s^aa__and it may be less of a critical thing .__c4
+__s^aap__i mean the fact that some get by may be less of a critical thing if you uh get things in the right range .__c4
+__qy^d^g^rt__uhhuh .__c5
+__s__so i mean the insertions is - is a symptom .__c4
+__s^bk__it's a symptom that there's something uh wrong with the range .__c4
+__qy^d^g^rt__right .__c5
+__qw^bu^rt__but there's - uh your - your - your substitutions tend to go up as well .__c4
+__%--__so uh i - i - i think that ==__c4
+__qy^rt__uhhuh .__c5
+__qrr__uh the most obvious thing is just the insertions .__c4
+__qw.%-__but ==__c4
+__%-__uh ==__c4
+__qw.%--__um ==__c4
+__qy__if you're operating in the wrong range i mean that's why just in general if you change what these - these penalties and scaling factors are you reach some point that's a - that's a minimum .__c4
+__s^no__so ==__c4
+__s__um ==__c4
+__sj__um ==__c4
+__b__we do have to do well over a range of different conditions .__c4
+__s^aa__some of which are noisier than others .__c4
+__s^aa^r__um ==__c4
+__fg|s^no.%-__but um | i think we may get a better handle on that if we - if we see ==__c4
+__qy^bu^d^rt__um | i mean we ca- ==__c4
+__s^aa__it's - if we actually could pick a - a - a more stable value for the range of these features it um - uh could ==__c4
+__sj__uh ==__c4
+__sj__even though it's - it's - it's true that in a real situation you can in fact adjust the - these - these scaling factors in the back end and it's ar- - artificial here that we're not adjusting those you certainly don't want to be adjusting those all the time .__c4
+__s__huh .__c5
+__s__and if you have a nice front end that's in roughly the right range .__c4
+__s.%-__i remember after we got our stuff more or less together in the previous systems we built that we tended to set those scaling factors at kind of a standard level .__c4
+__s^e__and we would rarely adjust them again .__c4
+__s^bu__even though you could get a ==__c4
+__qy^bu^d^g^rt__uhhuh .__c5
+__s^m^rt__for an evaluation you can get an extra point or something if you tweaked it a little bit .__c4
+__s^aa^rt__but ==__c4
+__s.%--__once we knew what rou- - roughly the right operating range was it was pretty stable .__c4
+__fh__and uh we might just not even be in the right operating range .__c4
+__s__so would the ?==__c5
+__fg__uh would a good idea be to try to map it into the same range that you get in the well matched case ?__c5
+__s__so if we computed what the range was in well matched and then when we get our noisy conditions out we try to make it have the same range as ==__c5
+__fh|qr__no | you don't want to change it for different conditions .__c4
+__s__no .__c4
+__fh__no .__c4
+__s__i - i - i - what - what i'm saying ==__c4
+__s^e__oh i wasn't suggesting change it for different conditions .__c5
+__b__i was just saying that when we pick a range we - we want to pick a range that we map our numbers into .__c5
+__s__we should probably pick it based on the range that we get in the well matched case .__c5
+__sj^ba__yeah .__c4
+__fh__otherwise i mean what range are we going to choose ?__c5
+__s__to - to map everything into .__c5
+__b__well it depends how much we want to do gamesmanship and how much we want to do ==__c4
+__qw^rt__i mean i- - if he- ==__c4
+__s^bu__it - to me actually even if you want to be - play on the gamesmanship side it can be kind of tricky .__c4
+__s^aa__so i mean what you would do is set the - set the scaling factors uh so that you got the best number for this point four five times the - you know and so on .__c4
+__s__uhhuh .__c5
+__qw.%-__but they might change that .__c4
+__b__those weightings .__c4
+__s__yeah .__c5
+__s^bsc__um ==__c4
+__s__so ==__c4
+__sj.x__uh ==__c4
+__b__i just sort of think we need to explore the space .__c4
+__s^arp__uhhuh .__c5
+__fg|s.%-__just take a look at it a little bit .__c4
+__s__okay .__c5
+__s^r__and we - we - we may just find that - that we're way off .__c4
+__b__uhhuh .__c5
+__s__maybe we're not .__c4
+__s.%-__you know .__c4
+__s^m__as for these other things it may turn out that uh it's kind of reasonable .__c4
+__s^bk__but then ==__c4
+__s.%--__i mean andreas gave a very reasonable response .__c4
+__s^co.%--__and he's probably not going to be the only one who's going to say this in the future .__c4
+__s^fa__of you know ==__c4
+__s^cc^j__people - people within this tight knit community who are doing this evaluation are accepting uh more or less that these are the rules .__c4
+__s__yeah .__c5
+__s.%-__but people outside of it who look in at the broader picture are certainly going to say well wait a minute you're doing all this standing on your head uh on the front end .__c4
+__fg|s__when all you could do is just adjust this in the back end with one s- - one knob .__c4
+__%-__uhhuh .__c5
+__fg|s__and ==__c4
+__s__so we have to at least i think determine that that's not true .__c4
+__b__which would be okay .__c4
+__s__or determine that it is true .__c4
+__s__in which case we want to adjust that .__c4
+__s^aa__and then continue with - with what we're doing .__c4
+__s^aa__right .__c5
+__s__and as you say - as you point out finding ways to then compensate for that in the front end also then becomes a priority for this particular test .__c4
+__s.%--__and saying you don't have to do that .__c4
+__s__uhhuh .__c5
+__s.%-__so ==__c4
+__s.%-__okay .__c4
+__s^nd.%--__so uh ==__c4
+__s^nd.x__what's new with you ?__c4
+__s^aa__uh ==__c1
+__b__so there's nothing new .__c1
+__qy^d^g__uh what's old with you that's developed ?__c4
+__s^df__um .__c1
+__s__i'm sorry ?__c1
+__%-__you ==__c4
+__b__okay .__c4
+__qy^d^g^rt__what's old with you that has developed over the last week or two ?__c4
+__s__huh .__c1
+__s^bu__well so we've been mainly working on the report .__c1
+__b__and - and ==__c1
+__s^nd.%-__yeah .__c1
+__fg|s^arp__mainly working on what ?__c5
+__s^df__on the report of the work that was already done .__c1
+__s__oh .__c5
+__s__um ==__c1
+__b__how about that ?==__c5
+__sj__uhhuh .__c1
+__sj^am__that's all .__c1
+__fh__any- - anything new on the thing that uh you were working on with the uh ?==__c5
+__qy^bu^rt__i don't have results yet .__c2
+__fh|s__no results .__c5
+__s^aa__yeah .__c5
+__s^aa__what was that ?__c4
+__s^aa__the - the ==__c5
+__s__uh ==__c5
+__s__voicing thing .__c0
+__s^am__voicing detector .__c5
+__b__i mean what- - what's - what's going on now ?__c4
+__%-__what are you doing ?__c4
+__fg__uh | to try to found nnn robust feature for detect between voice and unvoice .__c2
+__s__and we - w- - we try to use the variance of the es- - difference between the f f t spectrum and mel filter bank spectrum .__c2
+__fh|qy^bu^d^rt__yeah .__c4
+__qrr^rt.%--__uh also the - another parameter is - relates with the auto correlation function .__c2
+__qw__uhhuh .__c4
+__fg|s__r ze- - energy and the variance a- - also of the auto correlation function .__c2
+__s__uhhuh .__c4
+__s__so that's ==__c4
+__s__yeah that's what you were describing i guess a week or two ago .__c4
+__b__so ==__c4
+__s__yeah .__c2
+__s^bu__but we don't have res- - we don't have result of the auro- - for aurora yet .__c2
+__b__uhhuh .__c4
+__%__we need to train the neural network .__c2
+__b__and ==__c2
+__s.%--__so you're training neural networks now ?__c4
+__fh|s__no .__c2
+__fh|s^bu__not yet .__c2
+__s^aa__so what - wha- - wh- - wha- - what- - what's going on ?__c4
+__s^aa__well we work in the report too .__c2
+__qy^bu^d^rt__because we have a lot of result .__c2
+__qy^rt__uhhuh .__c4
+__%-__they are very dispersed .__c2
+__s^fe__and was necessary to - to look in all the directory to - to to give some more structure .__c2
+__s__so b- - so ==__c4
+__s^aa__yea- ==__c1
+__s^rt__yeah .__c4
+__s^bk^m__i- - if i can summarize basically what's going on is that you're going over a lot of material that you have generated in furious fashion .__c4
+__s__f- - generating many results and doing many experiments .__c4
+__s__and trying to pull it together into some coherent form to be able to see wha- - see what happens .__c4
+__s.%-__huh huh .__c2
+__qy^rt__uh ==__c1
+__s^aa__y- - yeah basically we- - we've stopped uh experimenting .__c1
+__s^aa__yes ?__c4
+__s^bk|s^bu__i mean we're just writing some kind of technical report .__c1
+__s^bu__and ==__c1
+__b__is this a report that's for aurora ?__c5
+__b__or is it just like a tech report for icsi ?__c5
+__s^aa__no .__c2
+__s^bu__or ?==__c5
+__s^aa__yeah .__c1
+__s^bk|s^nd__for icsi .__c2
+__s^nd__uh .__c5
+__s^e__i see .__c5
+__s__yeah .__c1
+__s__just summary of the experiment and the conclusion .__c2
+__qy^d^g^rt__and ==__c2
+__s^e__something like that .__c2
+__s__yeah .__c4
+__s__uhhuh .__c1
+__s^aa__okay .__c4
+__s^bk__so my suggestion though is that you - you not necessarily finish that .__c4
+__s^df__but that you put it all together so that it's - you've got - you've got a clearer structure to it .__c4
+__s^bk__you know what things are .__c4
+__s__you have things documented .__c4
+__qy^d^f^g^rt__you've looked things up that you needed to look up .__c4
+__s__so that you know - so that such a thing can be written .__c4
+__s__uhhuh .__c1
+__s^co.%--__and um ==__c4
+__s.%--__when - when - when do you leave again ?__c4
+__fh|s.%-__uh | in july .__c2
+__fg|s^bs__first of july .__c2
+__s^r.%--__first of july .__c4
+__s^no__okay .__c4
+__s__and that you figure on actually finishing it in - in june .__c4
+__%-__because you know you're going to have another bunch of results to fit in there anyway .__c4
+__s__uhhuh .__c1
+__s^cs__uhhuh .__c2
+__s^aa__and right now it's kind of important that we actually go forward with experiments .__c4
+__b__it's not ==__c2
+__s^ng__so - so i - i think it's good to pause and to gather everything together and make sure it's in good shape .__c4
+__qy^bh^d__so that other people can get access to it .__c4
+__fh__and so that it can go into a report in june .__c4
+__b__but i think to - to really work on - on fine tuning the report n- - at this point is - is probably bad timing i - i think .__c4
+__s^cs__uhhuh .__c1
+__sj__yeah .__c1
+__s^cs__well we didn't ==__c1
+__qw^cs__we just planned to work on it one week on this report .__c1
+__qy^d^g^rt__not - no more anyway .__c1
+__s^cs__um ==__c1
+__b__but you ma- - you may really want to add other things later anyway .__c4
+__s^e__yeah .__c1
+__qr^cs__uhhuh .__c1
+__%-__because you ==__c4
+__s__huh .__c1
+__s__there's more to go ?__c4
+__b__yeah .__c1
+__s__well ==__c1
+__s^bk__so i don't know there are small things that we started to - to do .__c1
+__s^fe__but ==__c1
+__b__are you discovering anything uh that makes you scratch your head as you write this report ?__c5
+__s__like why did we do that .__c5
+__s__or why didn't we do this .__c5
+__s^cs__uh ==__c1
+__s^df__or ==__c5
+__sj^cs__yeah .__c1
+__b__yeah .__c1
+__b__and ==__c1
+__s^na__actually there were some tables that were also with partial results .__c1
+__%-__we just noticed that .__c1
+__fg__wh- - while gathering the result that for some conditions we didn't have everything .__c1
+__b__huh .__c5
+__%-__but anyway .__c1
+__s^m^t1__um ==__c1
+__s__yeah yeah .__c1
+__fh__we have yeah extracted actually the noises from the speechdat car .__c1
+__%-__and so ==__c1
+__b__we can train neural network with speech and these noises .__c1
+__s^aa|s.%--__um ==__c1
+__qy^bu^rt__it's difficult to say what it will give .__c1
+__s.%-__because when we look at the aurora - the t i digits experiments um they have these three conditions that have different noises .__c1
+__s^ar|s.%-__and apparently this system perform as well on the seen noises - on the unseen noises and on the seen noises .__c1
+__s^cs__but ==__c1
+__b__i think this is something we have to try anyway .__c1
+__s^df__so ==__c1
+__s__adding the noises from - from the speechdat car .__c1
+__b__um ==__c1
+__%--__that's ==__c4
+__fh|sj^cs__that's uh ==__c4
+__b__that's permitted ?__c4
+__s__uh ==__c1
+__s^e^rt__well ==__c1
+__sj__o g i does - did that .__c1
+__b__um ==__c1
+__s__at some point they did that for - for the voice activity detector .__c1
+__b__uh for a v- - v a d .__c2
+__fh|s__right ?__c1
+__b__um ==__c1
+__fh|s.%--__could you say it again .__c5
+__s__what - what exactly did they do ?__c5
+__s__they used some parts of the um italian database to train the voice activity detector i think .__c1
+__s__it ==__c1
+__fh|s^no__yeah | i guess the thing is ==__c4
+__s__yeah .__c4
+__s^bk|s^arp^df__i guess that's a matter of interpretation .__c4
+__s^df__the rules as i understand it is that in principle the italian and the spanish and the english ==__c4
+__s^aa__no .__c4
+__s.%--__italian and the finnish and the english were development data .__c4
+__fh__yeah .__c1
+__s^bs__and spanish yeah .__c1
+__s^aa__on which you could adjust things .__c4
+__b__and the - and the german and danish were the evaluation data .__c4
+__fh__uhhuh .__c1
+__s^aa^r__and then when they finally actually evaluated things they used everything .__c4
+__fh__yeah .__c1
+__qy^rt__that's right .__c1
+__s^bu__so ==__c4
+__s^aa__uh ==__c1
+__b__uh ==__c4
+__s^aa^r__and it is true that the performance uh on the german was ==__c4
+__%-__i mean even though the improvement wasn't so good the pre- - the raw performance was really pretty good .__c4
+__h__uhhuh .__c1
+__s__so ==__c4
+__s__and uh ==__c4
+__qy^rt__it - it doesn't appear that there's strong evidence that even though things were somewhat tuned on those three or four languages that - that going to a different language really hurt you .__c4
+__s^aa__and the noises were not exactly the same .__c4
+__s^aa__right ?__c4
+__s^fe__because it was taken from a different ==__c4
+__qy^bu^d^rt__uh ==__c4
+__s^aa__i mean they were different drives .__c4
+__h|s^nd__different cars .__c1
+__fh|s__i mean it was - it was actual different cars and so on .__c4
+__s^cs__yeah .__c1
+__s^df__yeah .__c1
+__s^ar__so ==__c4
+__s^df__um | it's somewhat tuned .__c4
+__s^e__it's tuned more than you know a - a - a - a ==__c4
+__s__uhhuh .__c1
+__fh|s.%-__you'd really like to have something that needed no particular noise at all .__c4
+__s^cs__maybe just some white noise or something like that a- - at most .__c4
+__s^am|s^no.%-__uhhuh .__c1
+__s__but that's not really what this contest is .__c4
+__h|sj__so ==__c4
+__sj__um | i guess it's okay .__c4
+__fg|s:qy__uhhuh .__c1
+__s__i think it's ==__c5
+__s__that's something i'd like to understand before we actually use something from it .__c4
+__b__because it would ==__c4
+__s^aa__it's probably something that huh the you know the uh experiment designers didn't really think about .__c5
+__s__because i think most people aren't doing trained systems or you know uh systems that are like ours where you actually use the data to build models .__c5
+__s^aa|s__i mean they just doing signal processing .__c5
+__s^j.%--__yeah .__c1
+__qw__so ==__c5
+__b__well it's true .__c4
+__sj^ba__except that uh that's what we used in aurora one .__c4
+__b__and then they designed the things for aurora two knowing that we were doing that .__c4
+__b__yeah .__c5
+__b__that's true .__c5
+__fg|qy^d^rt^tc__um ==__c4
+__%--__and they didn't forbid us .__c5
+__s^df__right ?__c5
+__qy^rt__to build models on the data ?__c5
+__s^na__no .__c4
+__s__but i think - i think that it - it ==__c4
+__s__it probably would be the case that if say we trained on italian uh data and then uh we tested on danish data and it did terribly uh that - that it would look bad .__c4
+__s__and i think someone would notice .__c4
+__fh|s^cc__and would say well look this is not generalizing .__c4
+__fh__uhhuh .__c5
+__s__i would hope tha- - i would hope they would .__c4
+__s^rt__um ==__c4
+__b__but uh ==__c4
+__fg|s.%--__it's true .__c4
+__s^bk__you know maybe there's parameters that other people have used .__c4
+__s__you know th- - that they have tuned in some way for other things .__c4
+__s^aa__so it's it's uh ==__c4
+__qy.%-__we should - we should ==__c4
+__s__maybe - that's maybe a topic .__c4
+__s__especially if you talk with him when i'm not here .__c4
+__s^cc__that's a topic you should discuss with hynek .__c4
+__s__to you know double check it's okay .__c4
+__fh__uhhuh .__c1
+__%-__do we know anything about the speakers for each of the uh training utterances ?__c5
+__fg|s__what do you mean ?__c1
+__sj__do you have speaker information ?__c5
+__sj__we - we ==__c1
+__s__social security number .__c4
+__s^rt__that would be good .__c5
+__s^rt__like we have male female .__c1
+__sj__bank pin .__c5
+__fh|s^am__huh .__c2
+__s^am__just male f- - female ?__c5
+__s^cc__at least .__c1
+__b__huh .__c1
+__s__what kind of information do you mean ?__c4
+__b__well i was thinking about things like you know gender uh you know gender specific nets and uh vocal tract length normalization .__c5
+__qy^rt__uhhuh .__c1
+__s^aa__things like that .__c5
+__s__i d- - i don't - i didn't know what information we have about the speakers that we could try to take advantage of .__c5
+__qy^rt__uhhuh .__c1
+__s^ar__huh .__c4
+__s^bk__uh ==__c4
+__s^df__right .__c4
+__%-__i mean again i- - if you had the whole system you were optimizing that would be easy to see .__c4
+__%-__but if you're supposedly just using a fixed back end and you're just coming up with a feature vector w- - w- - i'm not sure ==__c4
+__s__i mean having the two nets suppose you detected that it was male it was female - you come up with different ==__c4
+__%--__well you could put them both in as separate streams or something .__c5
+__s^ar|s__uh ==__c5
+__qy^bh|s^bk__uhhuh .__c1
+__s^aa^r__maybe .__c4
+__s^aa__i don't know .__c5
+__fh__i was just wondering if there was other information we could exploit .__c5
+__s__uhhuh .__c1
+__s__huh .__c4
+__b__yeah | it's an interesting thought .__c4
+__s^e__maybe having something along the ==__c4
+__b__i mean you can't really do vocal tract normalization .__c4
+__qy^d^rt__but something that had some of that effect .__c4
+__b__yeah .__c5
+__s__being applied to the data in some way .__c4
+__qy^bu__uhhuh .__c5
+__qy^bu^d^rt__um ==__c4
+__%-__do you have something simple in mind for - i mean vocal tract length normalization ?__c1
+__s^aa__uh no | i hadn't - i hadn't thought - it was - thought too much about it really .__c5
+__s^aa__it just - something that popped into my head just now .__c5
+__b__and so i - i ==__c5
+__s^bk__i mean you could maybe use the ideas - a similar idea to what they do in vocal tract length normalization .__c5
+__s__you know you have some sort of a uh general speech model .__c5
+__s__you know maybe just a mixture of gaussians that you evaluate every utterance against .__c5
+__s^fe__and then you see where each you know utterance - like the likelihood of each utterance you divide the - the range of the likelihoods up into discrete bins .__c5
+__s__and then each bin's got some knob uh setting .__c5
+__b__yeah | but just listen to yourself .__c4
+__qw^rt__i mean that uh really doesn't sound like a real time thing with less than two hundred milliseconds uh latency that - and where you're not adjusting the statistical engine at all .__c4
+__s^fa.%-__yeah .__c5
+__s.%-__yeah .__c5
+__s^bk__uhhuh .__c1
+__s^2^e__yeah .__c5
+__s__that's true .__c5
+__s.%-__right .__c5
+__s^bk__you know that just ==__c4
+__s^bk__huh .__c1
+__s__could be expensive .__c5
+__s__i mean .__c4
+__b__yeah .__c4
+__s__no i- ==__c4
+__fg__well not just expensive .__c4
+__s__i - i - i don't see how you could possibly do it .__c4
+__fg__you can't look at the whole utterance and do anything you know you can only ==__c4
+__s__oh !__c5
+__b__right ?__c4
+__s__right .__c5
+__s__each frame comes in and it's got to go out the other end .__c4
+__b__right .__c5
+__s__so uh ==__c4
+__fg|s__so whatever it was it would have to be uh sort of on a per frame basis .__c5
+__s.%-__yeah .__c4
+__s^fe__uhhuh .__c1
+__b__yeah .__c4
+__sj__i mean you can do ==__c4
+__b__um ==__c4
+__b__yeah .__c5
+__s__fairly quickly you can do male female - f- - male female stuff .__c4
+__s.%-__yeah .__c5
+__qrr^bu^d.%--__but as far as ==__c4
+__s^ng__i mean - like i thought b b n did a thing with uh uh vocal tract normalization a ways back .__c4
+__%-__maybe other people did too .__c4
+__s__with - with uh uh l- - trying to identify third formant - average third formant using that as an indicator of ==__c4
+__b__i don't know .__c5
+__b__so ==__c4
+__s^aa__you know third formant ==__c4
+__s.%-__i- - if you imagine that to first order what happens with uh changing vocal tract is that uh the formants get moved out by some proportion .__c4
+__s^ar__uhhuh .__c5
+__s__so if you had a first formant that was one hundred hertz before if the fifty - if the vocal tract is fifty percent shorter then it would be out at seven fifty hertz .__c4
+__s__and so on .__c4
+__b__so that's a move of two hundred fifty hertz .__c4
+__qy^d^g^rt__whereas the third formant which might have started off at twenty five hundred hertz you know might be out to thirty seven fifty .__c4
+__fh__you know so it's at ==__c4
+__s__so ==__c4
+__s__although you frequently get less distinct higher formants it's still - third formant's kind of a reasonable compromise .__c4
+__b__and ==__c4
+__s__uhhuh .__c5
+__b__so i think uh if i recall correctly they did something like that .__c4
+__s__huh .__c5
+__s__and - and ==__c4
+__b__but um that doesn't work for just having one frame or something .__c4
+__s^2__yeah .__c5
+__b__you know that's more like looking at third formant over - over a turn or something like that .__c4
+__s__uhhuh .__c1
+__b__uhhuh .__c1
+__b__and ==__c4
+__s__right .__c5
+__s^bk__um ==__c4
+__fh__so ==__c4
+__s^bk__but on the other hand male female is a - is a - is a much simpler categorization than figuring out a - a factor to uh squish or expand the - the spectrum .__c4
+__fg|s__uhhuh .__c5
+__fh__so um ==__c4
+__b^rt__y- - you could imagine that ==__c4
+__qy^rt__i mean just like we're saying voiced unvoiced is good to know .__c4
+__qy^rt__uh male female is good to know also .__c4
+__h|s__uhhuh .__c5
+__fh|s__um ==__c4
+__fh|s__but you'd have to figure out a way to - to - to uh incorporate it on the fly .__c4
+__fh|s.%--__uh | i mean i guess as you say one thing you could do is simply uh have the - the male and female output vectors you know tr- - nets trained only on males and n- - trained only on females .__c4
+__b__or ==__c4
+__s__or uh ==__c4
+__s__you know .__c4
+__s__but ==__c4
+__b__um ==__c4
+__fh|s__i don't know if that would really help .__c4
+__fh|s__because you already have males and females .__c4
+__s__and it's - uhhuh - putting into one net .__c4
+__fh|s__so ==__c4
+__s__is it ?==__c4
+__s:s__is it balanced ?__c5
+__s:s__um in terms of gender .__c5
+__s__the data ?__c5
+__s:s__do you know ?__c4
+__fh|s__huh .__c1
+__s__almost .__c1
+__fh__yeah .__c1
+__qy^bu^d^rt__huh .__c5
+__s^aa|s__uhhuh .__c1
+__s^aa__huh .__c4
+__s__okay .__c4
+__s|s^bk__y- - you're - you were saying before .__c4
+__fh__uh yeah .__c1
+__s__so this noise ==__c1
+__s__um ==__c1
+__b__yeah the m s g ==__c1
+__s__um ==__c1
+__s__huh ==__c1
+__s__there is something - perhaps i could spend some days to look at this thing .__c1
+__s^2__because it seems that when we train networks on let's say on timit with m s g features they - they look as good as networks trained on p l p .__c1
+__fh|s__but ==__c1
+__s__um ==__c1
+__s__when they are used on - on the speechdat car data it's not the case .__c1
+__fh__oh well .__c1
+__s__the m s g features are much worse .__c1
+__fh__and so maybe they're um less - more sensitive to different recording conditions .__c1
+__sj^ng__shouldn't be .__c4
+__s.%-__or - shou- ==__c1
+__fg__they should be less so .__c4
+__b__yeah .__c1
+__sj^bu__but ==__c1
+__s^ng__r- - right ?__c4
+__b__huh .__c1
+__fh__wh- ==__c4
+__fg__but let me ask you this .__c4
+__sj^cs__what - what's the um ?==__c4
+__s.%-__do you kno- - recall if the insertions were - were higher with m s g ?__c4
+__fg|qy^rt.x__i don't know .__c1
+__qy^rt__i cannot tell .__c1
+__b__but ==__c1
+__s__it's - it ==__c1
+__sj^nd__the - the error rate is higher .__c1
+__fg__yeah | but you should always look at insertions deletions and substitutions .__c4
+__fg|s^rt__so i don- ==__c1
+__s__yeah .__c1
+__s^aa__uhhuh .__c1
+__s.%--__so ==__c4
+__s__uhhuh .__c1
+__s^no__so uh ==__c4
+__s__m s g is very very dif- ==__c4
+__sj__uh p l p is very much like mel cepstrum .__c4
+__s^aa|s__m s g is very different from both of them .__c4
+__s__uhhuh .__c1
+__fh__so if it's very different then this is the sort of thing ==__c4
+__b__i mean i'm really glad andreas brought this point up .__c4
+__fh|s.%--__i sort of had forgotten to discuss it .__c4
+__s__um ==__c4
+__fh__you always have to look at how this - uh these adjustments uh affect things .__c4
+__s^bsc__and even though we're not allowed to do that again we maybe could reflect that back to our use of the features .__c4
+__fh|s^no__so if it - if in fact uh ==__c4
+__qy^rt__uhhuh .__c1
+__s__the problem might be that the range of the m s g features is quite different than the range of the p l p or mel cepstrum .__c4
+__s^no__uhhuh .__c1
+__%-__and you might want to change that .__c4
+__s^df__uhhuh .__c1
+__b__but ==__c1
+__fh|s__yeah .__c1
+__fh|s__but it's d- - it's after ==__c1
+__s__well it's tandem features .__c1
+__s.%__so ==__c1
+__s__huh ==__c1
+__b__yeah .__c4
+__s__yeah .__c1
+__s^aa__we - we have estimation of post- - posteriors with p l p and with m s g as input .__c1
+__fh__yeah .__c4
+__s^e__so i don- ==__c1
+__b__well .__c1
+__b__i don't know .__c1
+__b__that means they're between zero and one .__c4
+__fh|s__uhhuh .__c1
+__s^aa__but i- - it - it - it - it doesn't necessarily ==__c4
+__fh.%__you know they could be ==__c4
+__s.%--__um ==__c4
+__s^cs__do- - doesn't tell you what the variance of the things is .__c4
+__s^aa__huh .__c1
+__s.%--__uhhuh .__c1
+__fh__right ?__c4
+__s__because if you're taking the log of these things it could be ==__c4
+__fh|s__uh ==__c4
+__b__knowing what the sum of the probabilities are doesn't tell you what the sum of the logs are .__c4
+__fh|%-__uhhuh .__c1
+__s^bs__yeah .__c1
+__s^cs.%--__so ==__c4
+__qh__yeah .__c1
+__s^cs__so we should look at the likelihood .__c1
+__%-__or - or ==__c1
+__s^df^rt__what ==__c1
+__s__or ==__c1
+__s__well ==__c1
+__s__at the log perhaps .__c1
+__qy^2^d^rt__and ==__c1
+__%-__yeah .__c4
+__fh|s__uhhuh .__c1
+__s__yeah .__c4
+__s^aa__or what - you know what you're uh - the thing you're actually looking at .__c4
+__fh|s__uhhuh .__c1
+__fh|s.%--__so your - your ==__c4
+__s^cs__the values that are - are actually being fed into h t k .__c4
+__s__uhhuh .__c1
+__s.%--__what do they look like ?__c4
+__s__no- ==__c5
+__s__but ==__c1
+__s__and so th- - the uh - for the tandem system the values that come out of the net don't go through the sigmoid .__c5
+__qw^rt__right ?__c5
+__h|s__they're sort of the pre nonlinearity values ?__c5
+__s^df__right .__c4
+__s__yes .__c1
+__s__so they're kind of like log probabilities is what i was saying .__c4
+__s.%-__and those ==__c5
+__s^bu__okay .__c5
+__s__and tho- - that's what goes into h t k ?__c5
+__s^bk__uh | almost .__c4
+__b__but then you actually do a k l t on them .__c4
+__sj__okay .__c5
+__fh|s.%--__um ==__c4
+__s.%--__they aren't normalized after that .__c4
+__s__are they ?__c4
+__s^fe__huh | no .__c1
+__s^t1__they are not .__c1
+__fh__no .__c4
+__s^e^t1__no .__c1
+__s__okay .__c4
+__s__so um ==__c4
+__b__right .__c4
+__s__so the question is - yeah - whatever they are at that point um are they something for which taking a square root or cube root or fourth root or something like that is - is going to be a good or a bad thing .__c4
+__s^df__so ==__c4
+__fh|s.%--__uhhuh .__c1
+__s^2__uh and that's something that ==__c4
+__s^aa|s__nothing - nothing else after that is going to ==__c4
+__s__uh things are going to scale it .__c4
+__fh__uh you know subtract things from it .__c4
+__qy^bu^d^rt__scale it from it .__c4
+__s^arp|s^no__but nothing will have that same effect .__c4
+__s^aa|%-__um ==__c4
+__s^no.%-__so ==__c4
+__s__um ==__c4
+__s__anyway uh ==__c4
+__fg__yeah .__c5
+__s.%--__because if - if the log probs that are coming out of the m s g are really big the standard insertion penalty is going to have very little effect .__c5
+__s__well the ==__c4
+__s__right .__c4
+__fh|s__compared to you know a smaller set of log probs .__c5
+__%-__yeah .__c4
+__fh|s^cs__no | again you don't really look at that .__c4
+__s__it's something - that ==__c4
+__fg|s^am^rt__and then it's going through this transformation that's probably pretty close to ==__c4
+__s^aa__it's uh whatever the k l t is doing .__c4
+__fg__but it's probably pretty close to what a - a - a discrete cosine transformation is doing .__c4
+__sj__yeah .__c5
+__s__but still it's - it's not going to probably radically change the scale of things .__c4
+__s__i would think .__c4
+__s^e__and uh ==__c4
+__b__yeah .__c4
+__s__it may be entirely off .__c4
+__s^e__and - and it may be - at the very least it may be quite different for m s g than it is for mel cepstrum or p l p .__c4
+__sj^ng__so that would be ==__c4
+__b^rt__so the first thing i'd look at without adjusting anything would just be to go back to the experiment and look at the uh substitutions insertions and deletions .__c4
+__s^df__and if the - if ==__c4
+__s__the uh ==__c4
+__s.%--__i- - if there's a fairly large effect of the difference say uh uh the r- - ratio between insertions and deletions for the two cases then that would be uh an indicator that it might - might be in that direction .__c4
+__sj__uhhuh .__c1
+__s.%--__uhhuh .__c1
+__s^rt__anything else ?__c4
+__s__yeah but ==__c1
+__s.%--__my - my point was more that it - it works sometimes .__c1
+__b__and ==__c1
+__b__yeah .__c4
+__s__but sometimes it doesn't work .__c1
+__sj__so ==__c1
+__b__well .__c4
+__b__and it works on t i digits .__c1
+__s.%--__and on speechdat car it doesn't work .__c1
+__sj__and ==__c1
+__sj__yeah .__c4
+__s.%--__uhhuh .__c1
+__s^e__yeah .__c1
+__s__well .__c1
+__s__but you know some problems are harder than others .__c4
+__s__uhhuh .__c1
+__s__yeah .__c1
+__s__and ==__c4
+__b__and uh | sometimes you know there's enough evidence for something to work .__c4
+__s^no.%-__and then it's harder .__c4
+__s^2__it breaks .__c4
+__sj__you know ?__c4
+__%-__so it's ==__c4
+__s__uhhuh .__c1
+__b__but it - but um i- - it - it could be that when you say it works maybe we could be doing much better .__c4
+__s^aa__even in t i digits .__c4
+__s__right ?__c4
+__s^aa__yeah .__c1
+__s^aa__so ==__c4
+__fh|s__yeah sure .__c1
+__s^aa__uh ==__c1
+__s__huh .__c4
+__b__yeah .__c4
+__sj^ba__yeah .__c1
+__s__well .__c1
+__b__there is also the spectral subtraction .__c1
+__s^2__which ==__c1
+__s^rt__um ==__c1
+__sj__i think maybe we should uh try to integrate it in - in our system .__c1
+__%-__yeah .__c4
+__s^aa__huh .__c1
+__s.%-__uhhuh .__c1
+__qw^rt__right .__c4
+__s^aa.%-__but ==__c1
+__fg__o- ==__c4
+__s.%--__i think that would involve to - to huh use a big - a - al- - already a big bunch of the system of ericsson .__c1
+__b__because he has spectral subtraction .__c1
+__b__then it's followed by um other kind of processing that's - are dependent on the - uh if it's speech or noi- - or silence .__c1
+__s__uhhuh .__c4
+__s__and there is this kind of spectral flattening after - if it's silence .__c1
+__s^bk__and ==__c1
+__sj.%-__and s- - i - i think it's important um to reduce this musical noise and this - this increase of variance during silence portions .__c1
+__sj__so ==__c1
+__s__well .__c1
+__s^df__this was in- - this would involve to take almost everything from - from the - this proposal .__c1
+__s__and ==__c1
+__s.%--__and then just add some kind of on line normalization in in the neural network .__c1
+__s__huh .__c1
+__sj__okay .__c4
+__s__well this'll be i think something for discussion with hynek next week .__c4
+__fg|s__yeah .__c1
+__qy^d^g^rt__uhhuh .__c1
+__s^df__yeah .__c4
+__s^cs.%--__okay .__c4
+__s.%-__right .__c4
+__s__so ==__c4
+__s^cs__how are uh uh - how are things going with what you're doing ?__c4
+__s.%-__oh .__c3
+__sj__well um ==__c3
+__b__i took a lot of time just getting my taxes out of the way .__c3
+__s^df__multi national taxes .__c3
+__qr^d__so i'm - i'm starting to write code now for my work .__c3
+__s__but i don't have any results yet .__c3
+__s^bk^rt__um i- - it would be good for me to talk to hynek i think when he's here .__c3
+__fg|%-__yeah .__c4
+__s^am__do you know what his schedule will be like ?__c3
+__sj__uh | he'll be around for three days .__c4
+__sj__uh we'll have a lot of time .__c4
+__s.%--__okay .__c3
+__s__so y- ==__c3
+__qy^rt__so uh ==__c4
+__qy__okay .__c3
+__qw__um ==__c4
+__sj__i'll uh ==__c4
+__s^df__you know he's ==__c4
+__s^bk__he'll ==__c4
+__s^cs.%-__he'll be talking with everybody in this room .__c4
+__s__so ==__c4
+__s^df__but you said you won't - you won't be here next thursday ?__c5
+__sj^ba__not thursday and friday .__c4
+__s.%-__yeah .__c4
+__s^bs__because i will be at faculty retreat .__c4
+__s^aa|s.%-__huh .__c5
+__s__so ==__c4
+__s__i'll try to connect with him and people as - as i can on - on wednesday .__c4
+__s__but ==__c4
+__s^2__um ==__c4
+__s^bk__oh how'd taxes go ?__c4
+__sj^ba__taxes go okay ?__c4
+__s^df.%-__huh yeah .__c3
+__fg|sj.%--__yeah oh good yeah .__c4
+__s__yeah .__c4
+__fh__that's just - that's - that's one of the big advantages of not making much money is the taxes are easier .__c4
+__fh|s__yeah .__c4
+__fh|s__unless you're getting money in two countries .__c5
+__fh|s__i think you are .__c4
+__s__they both want their cut .__c5
+__s__aren't you ?__c4
+__fg|qy.%--__huh .__c1
+__s__huh yeah .__c3
+__qr.%-__right ?__c5
+__s__yeah .__c4
+__%-__yeah .__c4
+__s.x__huh .__c4
+__s^aa__canada w- - canada wants a cut ?__c4
+__s.%-__uhhuh .__c3
+__s__have to do - so you - you have to do two returns ?__c4
+__s^r.%-__huh w- - uh for two thousand i did .__c3
+__s^am.%--__yeah .__c3
+__qy.%--__oh oh .__c4
+__s^rt__yeah .__c4
+__s.%--__for tw- ==__c4
+__qr.x__that's right .__c4
+__h|sj^ba__ju- ==__c4
+__sj.%-__but not for this next year ?__c5
+__sj^ba^r__two thousand .__c4
+__s^df__yeah .__c4
+__s__probably not this next year i guess .__c4
+__s__ye- ==__c3
+__s__yeah .__c4
+__s^aa__um ==__c3
+__%-__yeah .__c4
+__sj.%-__uh i'll - i'll still have a bit of canadian income .__c3
+__qw.%--__but it'll be less complicated .__c3
+__s^rt__because i will not be a - considered a resident of canada anymore .__c3
+__s^bk__so i won't have to declare my american income on my canadian return .__c3
+__s__okay .__c4
+__s__all right .__c4
+__s^bk__uh ==__c4
+__s__barry ?__c4
+__fh|s__do you want to say something about your stuff here ?__c4
+__s^ba__oh .__c0
+__s^df.%--__um ==__c0
+__s__right .__c0
+__s^aa__i just um continuing looking at uh ph- - uh phonetic events .__c0
+__s^co.%--__and uh this tuesday going to be uh meeting with john ohala with chuck to talk some more about these uh ph- - um phonetic events .__c0
+__s^t__um | came up with uh a plan of attack .__c0
+__s__uh going to execute .__c0
+__s^cs__and ==__c0
+__s__um ==__c0
+__qy^d^g^rt__yeah .__c0
+__s^m__it's - that's pretty much it .__c0
+__qy^d^g^rt__oh well .__c4
+__s__no- ==__c4
+__s__um why don't you say something about what it is ?__c4
+__%-__oh .__c0
+__b__you - oh you want - you want details .__c0
+__fh__huh ==__c0
+__s^cs.%--__okay .__c0
+__s__well we're all gathered here together .__c4
+__qy^d^g__i thought we'd you know ==__c4
+__s.%-__i was hoping i could wave my hands .__c0
+__s__um ==__c0
+__s^aa__so ==__c0
+__b__um ==__c0
+__s^aa^r__so once wa- ==__c0
+__s__i - i was thinking getting - getting us a set of acoustic events to um - to be able to distinguish between uh phones and words and stuff .__c0
+__s^bs__and um ==__c0
+__s^aa__once we ==__c0
+__s^cc__we would figure out a set of these events that can be you know um hand labeled or - or derived uh from h- - the hand labeled phone targets .__c0
+__fh|s__um | we could take these events and um do some cheating experiments .__c0
+__s^cs__um | where we feed um these events into an s r i system um uh and evaluate its performance on a switchboard task .__c0
+__fh__hey barry ?__c3
+__qy^rt__uh yeah .__c0
+__s^aa__can you give an example of an event ?__c3
+__s^aa__yeah .__c0
+__s^aa__sure .__c0
+__b__um | i - i can give you an example of twenty odd events .__c0
+__s^ng__um ==__c0
+__s^aa__so he- - in this paper um it's talking about phoneme recognition using acoustic events .__c0
+__s^aa__so things like frication or uh nasality .__c0
+__s__whose paper is it ?__c4
+__s^bk__um ==__c0
+__h__this is a paper by hubener and cardson benson - bernds- - berndsen .__c0
+__s^ar__yeah .__c4
+__s^bk__huh .__c4
+__sj__from uh university of hamburg and bielefeld .__c4
+__%-__uhhuh .__c0
+__qy^d^g__okay .__c4
+__s^df.%--__um ==__c0
+__s__yeah | i think the ==__c5
+__%-__just to expand a little bit on the idea of acoustic event .__c5
+__s^aa__uhhuh .__c0
+__s__there's um - in my mind anyways there's a difference between um acoustic features and acoustic events .__c5
+__s.%-__and i think of acoustic features as being um things that linguists talk about .__c5
+__s__like um ==__c5
+__s^df__so stuff that's not based on data .__c4
+__sj^ba__stuff that's not based on data necessarily .__c5
+__b__yeah .__c4
+__s.%-__oh okay .__c4
+__s__right .__c5
+__s__yeah .__c4
+__b__yeah .__c4
+__s__that's not based on you know acoustic data .__c5
+__b__okay .__c4
+__s__so they talk about features for phones .__c5
+__sj__like uh its height .__c5
+__sj.%-__its tenseness .__c5
+__s__yeah .__c0
+__s__laxness .__c5
+__fh__things like that .__c5
+__s__uhhuh .__c0
+__s__which may or may not be all that easy to measure in the acoustic signal .__c5
+__s^aa__versus an acoustic event which is just some- - something in the acoustic signal that is fairly easy to measure .__c5
+__s__um | so it's um - it's a little different .__c5
+__s__in - at least in my mind .__c5
+__fh__i mean when we did the spam work - i mean there we had - we had this notion of an uh auditory - auditory event .__c4
+__b__good that's great .__c0
+__sj^ba__and uh ==__c4
+__s^j__um ==__c4
+__s^j^r__called them avents .__c4
+__s^j__uhhuh .__c5
+__sj.%-__uh uh uh | with an a at the front .__c4
+__sj^ba__uh ==__c4
+__s__and the - the - the idea was something that occurred that is important to a bunch of neurons somewhere .__c4
+__qy^d^rt__so ==__c4
+__b__uhhuh .__c0
+__s__um | a sudden change or a relatively rapid change in some spectral characteristic will - will do sort of this .__c4
+__sj__i mean there's certainly a bunch of - a bunch of places where you know that neurons are going to fire because something novel has happened .__c4
+__b__that was - that was the main thing that we were focusing on there .__c4
+__s__but there's certainly other things beyond what we talked about there that aren't just sort of rapid changes .__c4
+__s__but ==__c4
+__s^m__it's kind of like the difference between top down and bottom up .__c5
+__b__yeah .__c4
+__fh__i think of the acoustic you know phonetic features as being top down .__c5
+__s__you know you look at the phone .__c5
+__sj__and you say this phone is supposed to be - you know have this feature this feature and this feature .__c5
+__b^rt__whether tha- - those features show up in the acoustic signal is sort of irrelevant .__c5
+__s__whereas an acoustic event goes the other way .__c5
+__sj^ba__here's the signal .__c5
+__s__here's some event .__c5
+__s__uhhuh .__c0
+__sj^ba__what ==__c5
+__b__and then that - you know that may map to this phone sometimes .__c5
+__s^j^rt__and sometimes it may not .__c5
+__b__it just depen- - maybe depends on the context .__c5
+__b__things like that .__c5
+__fg|s.%--__and so it's sort of a different way of looking .__c5
+__s__uhhuh .__c4
+__s__uhhuh .__c4
+__s^2__yeah .__c0
+__s^bk__so ==__c0
+__s.%--__yeah .__c0
+__fg__okay .__c3
+__s.%-__uhhuh .__c0
+__b^rt__um ==__c0
+__s__using these - these events um you know we can - we can perform these - these uh cheating experiments .__c0
+__s^e__see how - how - how good they are um in um - in terms of phoneme recognition or word recognition .__c0
+__s__and ==__c0
+__%--__um ==__c0
+__fh__and then from that point on i would uh s- - design robust event detectors um in a similar um wa- - spirit that saul has done w- - uh with his graphical models and this - this probabilistic and or model that he uses .__c0
+__s__um ==__c0
+__s__uh try to extend it to um - to account for other - other phenomena like um c m r co modulation release .__c0
+__s__and ==__c0
+__s^2__um ==__c0
+__s^aa__and maybe also investigate ways to - to modify the structure of these models um in a data driven way .__c0
+__b__uh similar to the way that uh jeff - jeff uh bilmes did his work .__c0
+__s^rt__um ==__c0
+__s__and while i'm - i'm doing these um event detectors you know i can ma- - mea- - measure my progress by comparing um the error rates in clean and noisy conditions to something like uh neural nets .__c0
+__s__um ==__c0
+__s__and ==__c0
+__s__so ==__c0
+__s^fe__so once we have these - these uh event detectors um we could put them together and - and feed the outputs of the event detectors into - into the s r i um h m m - h m m system .__c0
+__s__and ==__c0
+__s^bk__um ==__c0
+__qy^rt__and test it on - on switchboard or um maybe even aurora stuff .__c0
+__fh__and ==__c0
+__qw^rt__that's pretty much the - the big picture of - of um the plan .__c0
+__s^fa__by the way ==__c4
+__h|s__um ==__c4
+__%-__there's uh a couple people who are going to be here .__c4
+__s^no__i forget if i already told you this .__c4
+__s__but a couple people who are going to be here for six months .__c4
+__s__uhhuh .__c0
+__s^bk__uh ==__c4
+__s__uh | there's a professor kollmeier uh from germany .__c4
+__s^bsc__who's uh uh quite big in the uh hearing aid signal processing area .__c4
+__b__and um michael kleinschmidt who's worked with him .__c4
+__s__who also looks at auditory properties inspired by various uh brain function things .__c4
+__s^df^e__huh .__c0
+__s^bk__so ==__c4
+__s__um ==__c4
+__s^cs__um i think they'll be interesting to talk to in this sort of issue .__c4
+__%-__as these detectors are - are uh developing .__c4
+__b__huh .__c0
+__fg|s__okay .__c0
+__s__so he looks at interesting - interesting things in - in the different ways of looking at spectra in order to - to get various speech properties out .__c4
+__s^fe__so ==__c4
+__s__okay .__c0
+__s__okay .__c4
+__fg__well ==__c4
+__b__short meeting .__c4
+__s__but that's okay .__c4
+__fh__and uh ==__c4
+__s__we might as well do our digits .__c4
+__fh__and like i say i - i encourage you to go ahead and meet uh next week with uh uh hynek .__c4
+__s__all right .__c4
+__fg|s__i'll - i'll start .__c4
+__s__it's uh one thirty five .__c4
+__%-__DIGIT_TASK__c4
+__s^aa^rt__seventeen ==__c4
+__fh|s__DIGIT_TASK__c4
+__b__DIGIT_TASK__c1
+__s^tc__DIGIT_TASK__c5
+__b__DIGIT_TASK__c0
+__b__DIGIT_TASK__c3
+__s__DIGIT_TASK__c2
+__s__okay- ==__c4

@@ -1,0 +1,1481 @@
+__z__okay .__c4
+__s^bk|s^t^tc__mike - mike one ?__c0
+__fg|s^t^tc__uh .__c1
+__s__we're on ?__c4
+__s__yes please .__c4
+__fh__i mean we're testing noise robustness .__c4
+__s__but let's not get silly .__c4
+__fh|s__okay .__c4
+__x__so uh you've got some uh xerox things to pass out ?__c4
+__fh__that are ==__c4
+__fh__yeah .__c0
+__s__yeah .__c4
+__s__um ==__c0
+__s__yeah .__c0
+__fh__yeah i'm sorry for the table .__c0
+__fh__but as it grows in size uh it ==__c0
+__s__uh so for th- - the last column we use our imagination .__c4
+__s__okay .__c4
+__qo__uh yeah .__c1
+__s.x__uh ==__c4
+__fh__uh yeah .__c0
+__s__uh do you want @reject@ ==__c1
+__s__this one's nice though .__c4
+__s.%-__this has nice big font .__c4
+__fg|s^bu__yeah .__c0
+__qy^d^g^rt__let's see .__c2
+__qy^d^g^rt__yeah .__c2
+__s^aa__yeah .__c4
+__s__chop .__c2
+__s__when you get older you have these different perspectives .__c4
+__s__so ==__c0
+__fh__i mean lowering the word hour rate is fine but having big font !__c4
+__s^bk__next time we will put colors or something .__c0
+__s.%--__that's what's ==__c4
+__s__yeah it's mostly big font .__c4
+__s__uh ==__c0
+__s__okay .__c4
+__b__uh ==__c4
+__fg|s^tc__okay | s- - so there is kind of summary of what has been done .__c0
+__s__go ahead .__c4
+__h|s^cs^no^rt__it's this .__c0
+__fh__oh okay .__c4
+__fh__summary of experiments since well since last week .__c0
+__s.%--__and also since the - we've started to run - work on this .__c0
+__s__um | so since last week we've started to fill the column with um uh features w- - with nets trained on p l p with online normalization .__c0
+__s__but with delta also .__c0
+__s__because the column was not completely ==__c0
+__s__huh huh .__c4
+__s__uhhuh .__c4
+__%--__uhhuh .__c4
+__qw^rt__well it's still not completely filled .__c0
+__h__but we have more results to compare with network using without p l p .__c0
+__s^no__and finally um uh p l- - uh - delta seems very important .__c0
+__s^df__uh | i don't know .__c0
+__qy^rt__if you take um let's say anyway aurora two b .__c0
+__s^am__so the next - t- - the second uh part of the table .__c0
+__s^bk__uhhuh .__c4
+__b__uh when we use the large training set using french spanish and english you have one hundred and six without delta .__c0
+__s__and eighty nine with the delta .__c0
+__s__a- - and again all of these numbers are with a hundred per cent being uh the baseline performance .__c4
+__s__yeah uhhuh .__c0
+__qr.%--__on the baseline yeah .__c0
+__h|s^am__but with a mel cepstra system going straight into the h t k .__c4
+__b__so ==__c0
+__b__yeah yeah .__c0
+__s__yes .__c4
+__s__so now we see that the gap between the different training set is much uh uh much smaller .__c0
+__s__it's out of the way .__c2
+__s__um ==__c0
+__%--__but actually um for english training on timit is still better than the other languages .__c0
+__s__and ==__c0
+__s__uh ==__c0
+__fh__yeah .__c0
+__qy^rt__and f- - also for italian actually .__c0
+__h|s^ar__if you take the second set of experiment for italian ==__c0
+__b__so the mismatched condition .__c0
+__%--__uhhuh .__c4
+__fh__um when we use the training on timit .__c0
+__fg|s__so it's multi english .__c0
+__sj^ba__we have a ninety one number .__c0
+__qy^2^bu^d__uhhuh .__c4
+__s.%--__and training with other languages is a little bit worse .__c0
+__s^rt__um | oh i see .__c4
+__s__down near the bottom of this sheet .__c4
+__b__uh yes .__c4
+__s^rt__so ==__c0
+__s__yeah .__c0
+__fh__okay .__c4
+__b__and yeah and here the gap is still more important between using delta and not using delta .__c0
+__fh__yes .__c4
+__sj^ba__if y- - if i take the training s- - the large training set it's - we have one hundred and seventy two .__c0
+__s__yeah .__c4
+__s__and one hundred and four when we use delta .__c0
+__fh__uhhuh .__c4
+__fg|s:s__uh | even if the contexts used is quite the same .__c0
+__s:qw__because without delta we use seventeenths - seventeen frames .__c0
+__b__uh ==__c0
+__fh__yeah um | so the second point is that we have no single cross language experiments uh that we did not have last week .__c0
+__s.%--__uh | so this is training the net on french only .__c0
+__s__or on english only .__c0
+__sj^ba__and testing on italian .__c0
+__s^df__uhhuh .__c4
+__s^e__and training the net on french only .__c0
+__s^df__and spanish only .__c0
+__s^cs__and testing on uh t i digits .__c0
+__s__uhhuh .__c4
+__b__and ==__c0
+__s^f__um ==__c0
+__s__yeah .__c0
+__s^cs__what we see is that these nets are not as good .__c0
+__s^cs^e__except for the multi english which is always one of the best .__c0
+__s^cs^e__yeah .__c0
+__s__then we started to work on a large dat- - database containing uh sentences from the french from the spanish from the timit from spine uh from uh english digits and from italian digits .__c0
+__b__so this is the - another line - another set of lines in the table .__c0
+__s__uh yes .__c4
+__qy^bu^d^g^rt__uh @reject@ with spine .__c0
+__s^aa__uhhuh .__c4
+__qw^rt__and uh actually we did this before knowing the result of all the data .__c0
+__s__uh so we have to- - to redo the uh - the experiment training the net with uh p l p but with delta .__c0
+__s^e__uhhuh .__c4
+__s.%-__but with delta .__c0
+__s^bk__but um this - this net performed quite well .__c0
+__s^aa|s.%--__well ==__c0
+__s.%--__it's - it's better than the net using french spanish and english only .__c0
+__b__uh .__c0
+__s__so ==__c0
+__b__uh yeah .__c0
+__s__we have also started feature combination experiments .__c0
+__s^bk__uh many experiments using features and net outputs together .__c0
+__b__and this is - the results are on the other document .__c0
+__s.%-__uh we can discuss this after perhaps - well - just - another few minutes .__c0
+__s^cs^j__yeah so basically there are four - four kind of systems .__c0
+__s^j__the first one yeah is combining um two feature streams uh using ==__c0
+__fg|s__and each feature stream has its own m. p. l .__c0
+__s^df__so it's the - kind of similar to the tandem that was proposed for the first .__c0
+__s__the multi stream tandem for the first proposal .__c0
+__s.%-__the second is using features and k l t transformed m l p outputs .__c0
+__s__and the third one is to u- - use a single k l t trans- - transform features as well as m l p outputs .__c0
+__b__um ==__c0
+__s^e__yeah .__c0
+__s^bk__huh .__c0
+__s^bk__you know you can - you can comment these results also .__c0
+__sj^ba__yes i can s- ==__c1
+__b__i would like to say that for example um huh if we doesn't use the delta delta uh we have an improve when we use s- - some combination .__c1
+__b__but when ==__c1
+__s^j:qy^d__yeah we- - ju- - just | to be clear the numbers here are uh recognition accuracy .__c0
+__s^bk__w- - yeah | this - yeah this number recognition acc- ==__c1
+__s^j__so it's not the - again we switch to another .__c0
+__s^aa__yes and the baseline - the baseline have - i- - is eighty two .__c1
+__s^rt__baseline is eighty two .__c4
+__s^bk__yeah .__c1
+__qw__so it's experiment only on the italian mismatched for the moment for this .__c0
+__h|s^bk__uh | this is italian mismatched .__c4
+__fg|s__yeah by the moment .__c1
+__s__um ==__c0
+__s__okay .__c4
+__h|s__huh .__c0
+__s^cs^rt__and first in the experiment one i - i do - i - i use different m l p .__c1
+__qy^d^f^g__uhhuh .__c4
+__fh__and is obviously that the multi english m l p is the better .__c1
+__s^bk__um | for the ne - rest of experiment i use multi english .__c1
+__s^bk__only multi english .__c1
+__s^bk__and i try to combine different type of feature .__c1
+__fh__but the result is that the m s g three feature doesn't work for the italian database .__c1
+__fg|%--__because never help to increase the accuracy .__c1
+__h|s^rt__yeah uh actually if w- - we look at the table ==__c0
+__s^rt__the huge table ==__c0
+__s__uhhuh .__c4
+__%--__um we see that for t i digits m s g perform as well as the p l p .__c0
+__s__but this is not the case for italian what - where the error rate is - is almost uh twice the error rate of p l p .__c0
+__b__uhhuh .__c4
+__s__so um uh | well i don't think this is a bug .__c0
+__sj^ba^rt__but this - this is something in probably in the m s g um process that ==__c0
+__s__uh ==__c0
+__s^bu^df__i don't know what exactly .__c0
+__s.%-__perhaps the fact that the - the - there's no low pass filter .__c0
+__s^bu^df__well ==__c0
+__qy^d^g^rt__or no pre emp- - pre emphasis filter .__c0
+__s^aa__and that there is some d c offset in the italian .__c0
+__b__or well ==__c0
+__sj^ba__something simple like that .__c0
+__s__but - that we need to sort out if want to uh get improvement by combining p l p and m s g .__c0
+__s^rt__uhhuh .__c4
+__s__because for the moment m s g do- - doesn't bring much information .__c0
+__b__uhhuh .__c4
+__fh__and as carmen said if we combine the two we have the result basically of p l p .__c0
+__s.%--__i ==__c4
+__s^rt__um | the uh baseline system ==__c4
+__s^rt__when you said the baseline system was uh uh eighty two per cent that was trained on what and tested on what ?__c4
+__s__that was uh italian mismatched uh uh digits uh is the testing .__c4
+__s.%-__yeah .__c1
+__b__and the training is italian digits ?__c4
+__%--__yeah .__c1
+__s.%--__so the mismatch just refers to the noise and - and uh microphone and so forth .__c4
+__%-__yeah .__c1
+__s.%-__right ?__c4
+__%--__yeah .__c0
+__fg|s^bu__so um | did we have ?==__c4
+__qy^d^g^rt__so would that then correspond to the first line here of where the training is - is the uh italian digits ?__c4
+__s^aa__the- - @reject@ .__c4
+__s__the train- - the training of the h t k ?__c1
+__s__yes .__c1
+__%-__yes .__c4
+__s__uh yes .__c1
+__b__this h- ==__c1
+__s__yes .__c1
+__b__yes .__c4
+__b^rt__th- - yes .__c1
+__fh|%--__training of the net .__c4
+__b__yeah .__c4
+__fg|s__yeah .__c1
+__%-__so um - | so what that says is that in a matched condition we end up with a fair amount worse putting in the uh p l p .__c4
+__fh.%__now w- - would - do we have a number i suppose for the matched ?==__c4
+__s__i - i don't mean matched .__c4
+__s^aa^m__but uh use of italian - training in italian digits for p l p only ?__c4
+__s^rt__uh | yes .__c1
+__b__uh | yeah .__c0
+__b__so this is - basically this is in the table .__c0
+__s__uh | so the number is fifty two .__c0
+__s^bu__another table .__c1
+__qy^bu^d^rt__uh ==__c0
+__s^aa__fifty two per cent .__c4
+__s.%--__fift- - so - no it's - it's the ==__c0
+__s__no .__c1
+__s^fa__no | fifty two per cent of eighty two ?__c4
+__s__of - of - of uh eighteen .__c0
+__b__eighty .__c1
+__b.%__eighty .__c1
+__s^bk__of eighteen .__c0
+__s__so it's - it's error rate basically .__c0
+__qy^d^f^g__it's plus six .__c1
+__s^aa__error rate ratio .__c0
+__s.%--__so ==__c0
+__s__so ==__c0
+__b__oh | this is accuracy !__c4
+__b__huh .__c4
+__s.%--__yeah .__c1
+__s.%--__okay .__c4
+__b__uh | so we have nine - nine - let's say ninety per cent .__c0
+__s.%--__ninety .__c4
+__s^rt__yeah .__c0
+__s__um | which is uh what we have also if use p l p and m s g together .__c0
+__b__yeah .__c4
+__qw__eighty nine point seven .__c0
+__qr__okay | so even just p l p uh it is not in the matched condition ==__c4
+__s.%--__um | i wonder if it's a difference between p l p and mel cepstra or whether it's that the net half for some reason is not helping .__c4
+__s^aa__uh .__c0
+__s^na__p- - p l p and mel cepstra give the same - same results .__c0
+__b__same result pretty much .__c4
+__s^bu^m__well we have these results .__c0
+__s^aa__i don't know .__c0
+__s.%--__it's not ==__c0
+__s__so | s- ==__c4
+__s__do you have this result with p l p alone j- - fee- - feeding h t k ?__c0
+__s^bk^m__that - that's what you mean .__c0
+__s^bk__yeah .__c1
+__s^aa__just p l p at the input of h t k .__c0
+__fg|s^aap^df__yeah yeah yeah yeah .__c1
+__s.%--__at the first - and the ==__c1
+__s^aa^rt__yeah .__c1
+__fg|s^bu__yeah .__c0
+__s__so p l p ==__c0
+__qy^d^g^rt__eighty eight point six .__c4
+__s^aa__yeah .__c0
+__qy^bu^d.%--__um | so adding m s g ==__c4
+__s.%--__um ==__c0
+__s^aa__um | well but that's - yeah - that's without the neural net .__c4
+__s.%--__right ?__c4
+__s.%--__yeah | that's without the neural net .__c0
+__s^df__and that's the result basically that o g i has also with the m f c c with online normalization .__c0
+__s__but she had said eighty two .__c4
+__s__this is the - w- - well but this is without online normalization .__c0
+__s^rt__right ?__c4
+__s__oh | this - the eighty two ?__c4
+__s__@reject@ ==__c1
+__fh__yeah .__c0
+__fh__eighty two is the - it's the aurora baseline .__c0
+__s.%--__so m f c c .__c0
+__s__then we can use ==__c0
+__s__well o g i they use m f c c - th- - the baseline m f c c plus online normalization .__c0
+__b__oh | i'm sorry .__c4
+__b__i - i keep getting confused .__c4
+__s__because this is accuracy .__c4
+__s__yeah | sorry .__c0
+__b__yeah .__c0
+__b__yeah .__c1
+__s__okay all right .__c4
+__b__yeah .__c0
+__s^bk__all right | so this is - i was thinking all this was worse .__c4
+__%--__okay | so this is all better .__c4
+__s__because eighty nine is bigger than eighty two .__c4
+__s^aa__yes better .__c1
+__b.%__uhhuh .__c0
+__b__okay .__c4
+__s^rt__yeah .__c1
+__s.%--__i'm - i'm all better now .__c4
+__s^rt__okay | go ahead .__c4
+__s__so what happ- - what happens is that when we apply online normalization we jump to almost ninety per cent .__c0
+__s__yeah .__c4
+__s__uhhuh .__c4
+__s__uh when we apply a neural network is the same .__c0
+__s__we j- - jump to ninety per cent .__c0
+__fg|s.%--__nnn - we don't know exactly .__c1
+__fh__yeah .__c4
+__fh|s__and and um ==__c0
+__b__whatever the normalization actually .__c0
+__s^rt.%--__if we use n- - neural network even if the features are not correctly normalized we jump to ninety per cent .__c0
+__s^rt.%--__so we go from eighty si- - eighty eight point six to - to ninety or something .__c4
+__b__so ==__c0
+__s__well ninety ==__c0
+__s__no | i - i mean ninety ==__c0
+__b__it's around eighty nine .__c0
+__s__ninety .__c0
+__s__eighty nine .__c4
+__s__eighty eight .__c0
+__fh__yeah .__c1
+__s__well there are minor - minor differences .__c0
+__s__and then adding the m s g does nothing basically .__c4
+__s__no .__c0
+__s__yeah okay .__c4
+__s__uh for italian yeah .__c0
+__sj^ba__for this case | right .__c4
+__s^df__um ==__c0
+__s__all right .__c4
+__b__so um - | so actually the answer for experiments with one is that adding m s g if you uh does not help in that case ==__c4
+__b__uhhuh .__c0
+__s__um ==__c4
+__s__yeah .__c0
+__b__but w- ==__c0
+__s__the other ones we'd have to look at it .__c4
+__b__yeah .__c0
+__s__but ==__c4
+__b__and the multi english does .__c4
+__s^rt__uh ==__c4
+__b__so if we think of this in error rates we start off with uh eighteen per cent error rate roughly .__c4
+__s__uhhuh .__c0
+__s^df__um and we uh almost uh cut that in half by um putting in the online normalization and the neural net .__c4
+__s^df__yeah .__c0
+__b__and the m s g doesn't however particularly affect things .__c4
+__s__no .__c0
+__s__and we cut off i guess about twenty five per cent of the error .__c4
+__b__uh | no not quite that .__c4
+__fh__is it ?__c4
+__s__uh two point six out of eighteen .__c4
+__b__about um sixteen per cent or something of the error um if we use multi english instead of the matching condition .__c4
+__s^fa__uhhuh .__c0
+__qw.%--__not matching condition .__c4
+__fg.%__yeah .__c0
+__s__but uh the uh italian training .__c4
+__s__yeah .__c1
+__b.%__uhhuh .__c0
+__s^bu__okay .__c4
+__qy^d^g^rt__huh .__c0
+__s^aa__we select these - these - these tasks .__c1
+__s^rt__because it's the more difficult .__c1
+__s.%--__yes | good .__c4
+__s^rt__okay .__c4
+__s^rt__so then you're assuming multi english is closer to the kind of thing that you could use .__c4
+__s__since you're not going to have matching uh data for the - uh for the new - for the other languages and so forth .__c4
+__s__um | one qu- - thing is that ==__c4
+__b__uh - i think i asked you this before .__c4
+__%--__but i want to double check .__c4
+__s.%--__when you say m e in these other tests that's the multi english .__c4
+__s__that's - it's a part - it's ==__c0
+__s__but it is not all of the multi english .__c4
+__qy^bu^d^rt__right ?__c4
+__s^ar|s__it is some piece of - part of it .__c4
+__s__or one million frames .__c0
+__b__and the multi english is how much ?__c4
+__fg|s__you have here the information .__c1
+__s__it's one million and a half .__c0
+__qy^d^g^rt__yeah .__c0
+__s^bk|s^aap^rt__oh | so you used almost all .__c4
+__s^rt__you used two thirds of it .__c4
+__s__yeah .__c0
+__s^df^rt__you think .__c4
+__fh__so it- - it's still - it hurts you - seems to hurt you a fair amount to add in this french and spanish .__c4
+__qy^bu^d^rt__huh .__c0
+__s^m.%--__yeah .__c1
+__s^ar|s__i wonder why .__c4
+__%-__uh ==__c4
+__s^aa__well stephane was saying that they weren't hand labeled .__c2
+__s^fa__yeah .__c1
+__s^bk__yeah it's ==__c0
+__s^bu__yeah .__c0
+__s^aa__the french and the spanish .__c2
+__s^bk|s^bs__the spanish .__c1
+__b__maybe for that .__c1
+__qy^d^g^rt__huh .__c4
+__s^aa__huh .__c0
+__s^bk^m__still .__c4
+__b__okay .__c4
+__s^bk__all right | go ahead .__c4
+__s__and then - then ==__c4
+__b__um ==__c1
+__s__huh with the experiment type two .__c1
+__fg|s^arp^df__i - first i tried to- - to combine nnn some feature from the m l p and other feature .__c1
+__%-__another feature .__c1
+__b__uhhuh .__c4
+__s^rt.%--__and we s- - we can ==__c1
+__b^rt__first the feature are without delta and delta delta .__c1
+__s^ar__and we can see that in the situation uh the m s g three the same help nothing .__c1
+__fh__uhhuh .__c4
+__sj^ba__and then i do the same .__c1
+__b__but with the delta and delta delta - p l p delta and delta delta .__c1
+__b__and they all p- - but they all put off the m l p is it without delta and delta delta .__c1
+__s.%--__uhhuh .__c4
+__b__and we have a l- - little bit less result than the - the - the baseline p l p with delta and delta delta .__c1
+__s__maybe if - when we have the new - the new neural network trained with p l p delta and delta delta ==__c1
+__%--__maybe the final result must be better .__c1
+__fg__i don't know .__c1
+__b__uh ==__c1
+__s__actually | just to be some more ==__c0
+__qy^d^g^rt__do ==__c0
+__s__this number this eighty seven point one number has to be compared with the ==__c0
+__s^aa__yes yeah | i mean it can't be compared with the other .__c4
+__%-__which number ?__c0
+__s^arp^df__because this is uh - with multi english uh training .__c4
+__s^bk__uhhuh .__c1
+__b__so you have to compare it with the one over that you've got in a box .__c4
+__s.%--__which is that uh the eighty four point six .__c4
+__s__uhhuh .__c1
+__sj^ba__right ?__c4
+__b__uh ==__c0
+__b__so ==__c4
+__s__yeah | but i mean in this case for the eighty seven point one we used m l p outputs for the p l p net .__c0
+__s^bk__yeah .__c4
+__b__and straight features with delta delta .__c0
+__s__yeah .__c4
+__fh__uhhuh .__c1
+__b__and straight features with delta delta gives you what's on the first sheet .__c0
+__fh__not - not ==__c4
+__fg__it's eight- - eighty eight point six .__c0
+__fh__no no no .__c4
+__fh__yes .__c1
+__fh|s^rt__not trained with multi english .__c4
+__fh__no | but they - they feature @reject@ without ==__c1
+__s^bk__uh yeah | but th- - this is the second configuration .__c0
+__qw__so we use feature out- - uh net outputs together with features .__c0
+__s.%--__so yeah .__c0
+__s^no__this is not - perhaps not clear here .__c0
+__s.%--__but in this table the first column is for m l p and the second for the features .__c0
+__fh|s.%--__uh oh i see .__c4
+__fh__uh | so you're saying w- - so asking the question what - what has adding the m l p done to improve over the ==__c4
+__s^rt^tc__so just ==__c0
+__qy.%-__yeah ==__c0
+__qy^rt__so actually it - it - it decreased the - the accuracy .__c0
+__s__uh ==__c4
+__s^aa__yeah .__c1
+__s^aa|s__yes .__c4
+__s^bk__uhhuh .__c4
+__s__because we have eighty eight point six .__c0
+__qh^d__and even the m l p alone ==__c0
+__s.%--__what gives the m l p alone ?__c0
+__s__multi english p l p .__c0
+__s^bk__oh no .__c0
+__%-__it gives eighty three point six .__c0
+__s__so we have eighty three point six and eighty eighty point six .__c0
+__s__but ==__c1
+__s__that gives eighty seven point one .__c0
+__s__uhhuh .__c4
+__s^bk__eighty s- ==__c4
+__b__i thought it was eighty ==__c4
+__s^tc__oh okay .__c4
+__s^rt__eighty three point six and eighty - eighty eight point six .__c4
+__sj^ba__eighty three point six .__c0
+__s^bk^m__eighty ==__c0
+__qw__okay .__c4
+__s.%--__is - is that right ?__c0
+__s^rt__yeah .__c0
+__s__yeah .__c1
+__b__but - | i don't know .__c1
+__s.%--__but maybe if we have the neural network trained with the p l p delta and delta delta maybe tha- - this can help .__c1
+__fh__perhaps yeah .__c0
+__s^bc__well that's - that's one thing .__c4
+__qy^d^g^rt__but see the other thing is that ==__c4
+__s__um i mean it's good to take the difficult case .__c4
+__s^ar|s^rt__but let's - let's consider what that means .__c4
+__s__what - what we're saying is that one o- - one of the things that ==__c4
+__s^aa__i mean my interpretation of your - your s- - original suggestion is something like this as motivation .__c4
+__s__when we train on data that is in one sense or another similar to the testing data then we get a win by having discriminant training .__c4
+__s^bk__uhhuh .__c0
+__%--__when we train on something that's quite different we have a potential to have some problems .__c4
+__s^fa__uhhuh .__c0
+__fh__and um if we get something that helps us when it's somewhat similar and doesn't hurt us too much when it - when it's quite different that's maybe not so bad .__c4
+__s__yeah .__c0
+__s^bk__so the question is if you took the same combination and you tried it out on uh on say digits ==__c4
+__b__huh .__c0
+__s^fa__on t i digits ?__c0
+__s^bk__okay .__c0
+__fh__you know .__c4
+__fh__d- - was that experiment done ?__c4
+__s__no not yet .__c0
+__s^rt__yeah okay .__c4
+__s__uh then does that uh - you know maybe with similar noise conditions and so forth does it - does it then look much better ?__c4
+__s__uhhuh .__c0
+__s^bk|sj^ba__and so what is the range over these different kinds of uh - of tests ?__c4
+__%-__so an- - anyway .__c4
+__qy.%--__okay | go ahead .__c4
+__qw.%--__yeah .__c0
+__qy.%--__and with this type of configuration which i do on experiment using the new neural net with name broad klatt twenty seven .__c1
+__s^df__uhhuh .__c4
+__fh__uh d- - i have found more or less the same result .__c1
+__qy.%-__so it's - slightly better .__c0
+__s^bk__little bit better .__c1
+__s__yeah .__c0
+__s^df^rt__slightly better .__c4
+__s^rt__yeah .__c0
+__%--__slightly bet- - better .__c1
+__%--__yes better .__c1
+__fh__and - and you know again maybe if you use the uh delta there uh you would bring it up to where it was uh you know at least about the same for a difficult case .__c4
+__s__yeah | maybe maybe maybe .__c1
+__s__yeah .__c0
+__%-__oh yeah .__c1
+__fh__yeah .__c0
+__s^tc__so ==__c4
+__qy^rt__@reject@ .__c1
+__b__yeah .__c1
+__s^bk|%--__well so perhaps let's - let's jump at the last experiment .__c0
+__b__it's either less information from the neural network if we use only the silence output .__c0
+__s^df__i- ==__c1
+__%--__uhhuh .__c4
+__s__it's again better .__c0
+__%--__so it's eighty nine point - point one .__c0
+__s^bd^no__uhhuh .__c4
+__fg|s^am__yeah .__c1
+__s^rt__yeah and we have only forty - forty feature .__c1
+__%--__so ==__c0
+__fh|s^rt__because in this situation we have one hundred and three feature .__c1
+__s^rt__yeah .__c4
+__s^rt__yeah .__c1
+__s__and then w- - with the first configuration i f- - i am found that work uh doesn't work ==__c1
+__s^bu__yeah .__c4
+__fh__uh well work .__c1
+__s^aa__but is better the second configuration .__c1
+__qy__because i - for the del- - engli- - p l p delta and delta delta here i have eighty five point three accuracy .__c1
+__%-__and with the second configuration i have eighty seven point one .__c1
+__s__um | by the way there is a- - another uh suggestion that would apply uh to the second configuration .__c4
+__s__um which uh was made uh by uh hari .__c4
+__b__and that was that um if you have - uh feed two streams into h t k um and you uh change the uh variances ==__c4
+__s^bu^m__if you scale the variances associated with uh these streams um you can effectively scale the streams .__c4
+__s^ar__right ?__c4
+__s^bk^m__so um | you know without changing the scripts for h t k .__c4
+__fg|s__which is the rule here uh you can still change the variances .__c4
+__%--__uhhuh .__c0
+__fh__uhhuh .__c0
+__s__which would effectively change the scale of these - these uh two streams that come in .__c4
+__s__uh yeah .__c0
+__qo^d__and um so um | if you do that for instance it may be the case that um the m l p should not be considered as strongly for instance .__c4
+__s__huh .__c0
+__b__and um | so this is just setting them to be ==__c4
+__b__excuse me .__c4
+__fg__of equal - equal weight .__c4
+__fh|qw__maybe it shouldn't be equal weight .__c4
+__fh__maybe .__c1
+__s__right you know i- - i'm sorry to say that gives more experiments if we wanted to look at that .__c4
+__s^bk__but - but uh um you know on the other hand it's just experiments at the level of the h t k recognition .__c4
+__fh__huh .__c0
+__b__it's not even the h t k .__c4
+__s__uh uh ==__c4
+__b__yeah .__c0
+__fh__yeah yeah .__c1
+__b__well i guess you have to do the h t k training also .__c4
+__%--__so this is what we decided to do .__c1
+__b__uh | do you ?__c4
+__s__let me think .__c4
+__s__maybe you don't .__c4
+__b__uh ==__c4
+__fh__yeah | you have to change the ==__c4
+__s^aa__no you can just do it in - as once you've done the training ==__c4
+__s__and then you can vary it .__c2
+__s.%--__yeah | the training is just coming up with the variances .__c4
+__qy^rt__yeah .__c2
+__s^aa__so i guess you could - could just scale them all .__c4
+__s.%--__scale them ?__c0
+__s.%--__variances .__c4
+__fh__yeah .__c0
+__s__but ==__c0
+__fh__is it - i- - th- - i mean the h t k models are diagonal covariances .__c0
+__s^bk__so i - d- - is it ?==__c0
+__fh__that's uh exactly the point i think .__c4
+__fh__that if you change - um change what they are ==__c4
+__fg__huh .__c0
+__s__it's diagonal covariance matrices .__c4
+__s__uhhuh .__c0
+__fh__but you say what those variances are .__c4
+__s__uhhuh .__c0
+__b__so that you know it's diagonal but the diagonal means th- - that then you're going to - it's going to - it's going to internally multiply it - and - and uh uh i- - it im- - uh implicitly exponentiated to get probabilities and so it's - it's going to - it's - it's going to affect the range of things if you change the - change the variances of some of the features .__c4
+__s^aa__huh .__c0
+__sj^ba__huh .__c0
+__s__do ?==__c1
+__b__so i- - it's precisely given that model you can very simply affect uh the s- - the strength that you apply the features .__c4
+__s__that was - that was uh hari's suggestion .__c4
+__s__yeah yeah .__c0
+__b__so um ==__c4
+__s^fe__yeah .__c1
+__s^fe__yeah .__c4
+__s^fe__so ==__c4
+__s^bk__so | it could just be that h- - treating them equally tea- - treating two streams equally is just - just not the right thing to do .__c4
+__sj^ba__of course it's potentially opening a can of worms .__c4
+__sj^ba__because you - you know maybe it should be a different number for - for each kind of test set or something .__c4
+__s^bk__uhhuh .__c0
+__qo^rt__but ==__c4
+__%-__okay .__c4
+__qy.%--__yeah .__c0
+__s^aa|s^na^rt__so i guess the other thing is to take - you know if one were to take uh you know a couple of the most successful of these .__c4
+__s^bk__yeah | and test across everything .__c0
+__%--__and uh ==__c4
+__fh__yeah | try all these different tests .__c4
+__b.%__huh .__c0
+__sj^ba__yeah .__c1
+__s^bk__yeah .__c0
+__s^rt__all right .__c4
+__s^rt__uh ==__c4
+__s__so | the next point .__c0
+__fh__yeah .__c0
+__s__we've had some discussion with steve and shawn .__c0
+__qy^d^rt__um about um articulatory stuff .__c0
+__%-__um ==__c0
+__s^aa__so we'll perhaps start something next week .__c0
+__s__uhhuh .__c4
+__s^bk^fe__um discussion with hynek sunil and pratibha for trying to plug in their our - our networks with their - within their block diagram .__c0
+__sj^ba__uh where to plug in the - the network uh after the - the feature .__c0
+__b__before as um a- - as a plugin or as a- - anoth- - another path .__c0
+__sj^ba__discussion about multi band and traps .__c0
+__sj^ba__um ==__c0
+__b__actually hynek would like to see ==__c0
+__qw__perhaps if you remember the block diagram there is uh temporal l d a followed b- - by a spectral l d a for each uh critical band .__c0
+__s__and he would like to replace these by a network .__c0
+__s^rt__which would uh make the system look like a trap .__c0
+__s.%--__well basically it would be a trap system .__c0
+__fh__basically this is a trap system .__c0
+__s^bk^rt__kind of trap system i mean .__c0
+__s.%--__but where the neural network are replaced by l d a .__c0
+__qw__um yeah .__c0
+__qw^br__and about multi band .__c0
+__qw^r^rt__uh i started multi band m l p trainings .__c0
+__s__um ==__c0
+__sj^ba__actually i w- - i prefer to do exactly what i did when i was in belgium .__c0
+__s^r__so i take exactly the same configurations .__c0
+__s__seven bands with nine frames of context .__c0
+__s^aa__and we just train on timit .__c0
+__s.%--__and on the large database .__c0
+__s^am__so with spine and everything .__c0
+__b__and uh ==__c0
+__s__i'm starting to train also networks with larger contexts .__c0
+__s^am__so this would - would be something between traps and multi band .__c0
+__b__because we still have quite large bands .__c0
+__b.%__and - but with a lot of context also .__c0
+__fg|s__so um ==__c0
+__fh|s.%--__yeah .__c0
+__s.%--__we still have to work on finnish .__c0
+__s__um basically to make a decision on which m l p can be the best across the different languages .__c0
+__s^cs__for the moment it's the timit network and perhaps the network trained on everything .__c0
+__s^df__so | now we can test these two networks on - with - with delta and large networks .__c0
+__b__well test them also on finnish .__c0
+__s__huh .__c1
+__s^df__and see which one is the - the - the best .__c0
+__s__uh well the next part of the document is well basically a kind of summary of what everything that has been done .__c0
+__s^e__so we have seventy nine m l p's trained on ==__c0
+__fh__one two three four uh three four five six seven .__c0
+__s^bk__ten on ten different databases .__c0
+__sj^ba__uhhuh .__c4
+__s__uh ==__c0
+__fh__the number of frames is bad also .__c0
+__sj^ba__so we have one million and a half for some .__c0
+__s^bk__three million for other .__c0
+__fg|%-__and six million for the last one .__c0
+__s__uh ==__c0
+__s__yeah | as we mentioned timit is the only that's hand labeled .__c0
+__s__and perhaps this is what makes the difference .__c0
+__s^bk__um ==__c0
+__s__yeah the other are just viterbi aligned .__c0
+__s^bk__so these seventy nine m l p differ on different things .__c0
+__b__first um with respect to the online normalization .__c0
+__s__there are - that use bad online normalization .__c0
+__s^cs__and other good online normalization .__c0
+__%--__um ==__c0
+__fh__with respect to the features .__c0
+__s.%--__with respect to the use of delta .__c0
+__fh__or no .__c0
+__s.%--__uh with respect to to the hidden layer size and to the targets .__c0
+__s^cs^j__uh but of course we don't have all the combination of these different parameters .__c0
+__s^aa__um ==__c0
+__s^j__s- - what's this ?__c0
+__s^ar^bd|sj^ba__we only have two hundred eighty six different tests .__c0
+__s__and not two thousand .__c0
+__b__uh .__c4
+__b__i was impressed .__c4
+__s__boy !__c4
+__fh__two thousand .__c4
+__s__yeah .__c0
+__s^df__okay .__c4
+__s^2^aap__uh yes .__c1
+__b__all right | now i'm just slightly impressed .__c4
+__s__i say this morning that @reject@ thought it was the ==__c1
+__s^bd__okay .__c4
+__s^co__um ==__c0
+__b__yeah | basically the observation is what we discussed already .__c0
+__s^df.%--__the m s g problem .__c0
+__s^df__um ==__c0
+__s^na__the fact that the m l p trained on target task decreased the error rate .__c0
+__b__but when the m - m l p is trained on the is not trained on the target task it increased the error rate compared to using straight features .__c0
+__s.%--:s.%--__except if the features are bad .__c0
+__s:sj^ba__uh | actually except if the features are not correctly online normalized .__c0
+__s^bk__in this case the tandem is still better .__c0
+__s:s__even if it's trained on not on the target digits .__c0
+__fh|s^rt__yeah | so it sounds like yeah the net corrects some of the problems with some poor normalization .__c4
+__s^rt__yeah .__c0
+__b__but if you can do good normalization it's - it's uh - okay .__c4
+__s:s__yeah .__c0
+__s:s__yeah .__c1
+__b__uh so the fourth point is yeah the timit plus noise seems to be the training set that gives better - the best network .__c0
+__s__so so- - | let me - before you go on to possible issues .__c4
+__s__uhhuh .__c0
+__fh__so on the m s g uh problem ==__c4
+__s^bk__um i think that in - in the um in the short time solution ==__c4
+__s__um that is um trying to figure out what we can proceed forward with to make the greatest progress ==__c4
+__b__uhhuh .__c0
+__%--__uh much as i said with j rasta .__c4
+__fh__even though i really like j rasta .__c4
+__fh__and i really like m s g .__c4
+__fg__huh .__c0
+__s__i think it's kind of in category that it's it - it may be complicated .__c4
+__s__yeah .__c0
+__s__and uh it might be - if someone's interested in it uh certainly encourage anybody to look into it in the longer term .__c4
+__s__once we get out of this particular rush uh for results .__c4
+__s:sj^ba__huh .__c0
+__s.%--__but in the short term unless you have some - some s- - strong idea of what's wrong ==__c4
+__fh__i don't know at all .__c0
+__s__but i've - perhaps - i have the feeling that it's something that's quite - quite simple .__c0
+__s__or just like nnn - no high pass filter .__c0
+__s__yeah probably .__c4
+__fh__or huh ==__c0
+__s^bk__yeah | my - but i don't know .__c0
+__s^cs__there's supposed to - well m s g is supposed to have a- - an online normalization though .__c4
+__s__right ?__c4
+__s^am__it's - there is yeah an a. g. c.- - kind of a. g. c .__c0
+__fg__yeah yeah yeah .__c0
+__b__yeah | but also there's an online norm- - besides the a g c there's an online normalization that's supposed to be .__c4
+__s__uh ==__c4
+__s__yeah .__c4
+__s.%--__huh .__c0
+__s^rt__taking out means and variances and so forth .__c4
+__%--__so ==__c4
+__s^no__yeah .__c0
+__s__in fac- - in fact the online normalization that we're using came from the m s g design .__c4
+__s__so it's ==__c4
+__s__um ==__c0
+__b__yeah | but ==__c0
+__s^df__yeah .__c0
+__fh__but this was the bad online normalization actually .__c0
+__fh__maybe may ==__c1
+__fg|s^bk^tc__are your results are still with the bad - the bad ?==__c0
+__fg__no .__c1
+__s__with the better ==__c1
+__s__no .__c1
+__s^rt__with the o- - o l n two .__c0
+__s__uh yeah you have - you have o l n two .__c0
+__b__oh !__c1
+__sj^ba__yeah yeah yeah !__c1
+__b__with two with online two .__c1
+__s^rt__yeah .__c0
+__s.%--__yeah yeah .__c1
+__s.%--__online two is good .__c4
+__b__so it's is the good yeah .__c0
+__s^rt__yep .__c1
+__s.%__two is good .__c4
+__s__it's a good .__c1
+__s__and ==__c0
+__s^rt__no two is bad .__c4
+__s__yeah .__c0
+__fh__okay .__c4
+__s__well actually it's good with the ch- - with the good .__c1
+__s__yeah .__c4
+__qw__so | yeah i - i agree .__c4
+__qw__it's probably something simple .__c4
+__b^rt__uh i- - if - if uh someone you know uh wants to play with it for a little bit .__c4
+__%--__i mean you're going to do what you're going to do .__c4
+__b__huh .__c0
+__s__but - but my - my guess would be that it's something that is a simple thing that could take a while to find .__c4
+__%-__but ==__c0
+__s__yeah .__c0
+__s^rt__huh .__c0
+__s__i see .__c0
+__fh__yeah .__c0
+__b__yeah .__c4
+__s__and ==__c0
+__s__and the other - the results uh observations two and three um is ==__c4
+__qy^bu^d^rt__huh .__c0
+__%-__uh ==__c4
+__qy^d^g^rt__yeah | that's pretty much what we've seen .__c4
+__s^aa__that's that - what we were concerned about is that if it's not on the target task ==__c4
+__qy^bu^d.%--__if it's on the target task then it - it - it helps to have the m l p transforming it .__c4
+__b__huh .__c0
+__sj^ba__if it uh - if it's not on the target task then depending on how different it is uh you can get uh a reduction in performance .__c4
+__b__huh .__c0
+__s^rt__and the question is now how to - how to get one and not the other ?__c4
+__s__or how to - how to ameliorate the - the problems .__c4
+__sj^ba__huh .__c0
+__s__um | because it - it certainly does - is nice to have in there when it - when there is something like the training data .__c4
+__s__uhhuh .__c0
+__b__um ==__c0
+__fh__yeah | so the the reason yeah the reason is that perhaps the target - the task dependency - the language dependency and the noise dependency ==__c0
+__s__so that's what you say th- - there .__c4
+__s.%-__i see .__c4
+__b__well the - e- - e- - but this is still not clear .__c0
+__qy^bu^d^rt__because ==__c0
+__s^aa|s^na__um ==__c0
+__s^bk__i - i - i don't think we have enough result to talk about the - the language dependency .__c0
+__qw__well the timit network is still the best .__c0
+__qw^e^rt__but there is also an- - the other difference .__c0
+__s^j__the fact that it's - it's hand labeled .__c0
+__%-__hey !__c4
+__s^aa.%__um just - you can just sit here .__c4
+__s__uh i d- - i don't think we want to mess with the microphones .__c4
+__%-__but it's uh ==__c4
+__%-__just uh have a seat .__c4
+__s^bk__um ==__c4
+__s__summary of the first uh uh forty five minutes is that some stuff work and - works and some stuff doesn't .__c4
+__s^ar|s__okay .__c4
+__s.%-__we still have uh this .__c0
+__s.%-__one of these perhaps ?__c0
+__fh__yeah .__c1
+__s^ar__yeah | i guess we can do a little better than that .__c4
+__s__huh .__c0
+__qw.%--__uhhuh .__c0
+__%-__but - i think if you - if you start off with the other one actually that sort of has it in words .__c4
+__fh__and then that has it the associated results .__c4
+__qw^2^bu^rt__um ==__c1
+__%-__okay .__c4
+__s^aa__so you're saying that um um although from what we see ==__c4
+__qw__yes there's what you would expect in terms of a language dependency and a noise dependency that is uh when the neural net is trained on one of those and tested on something different we don't do as well as in the target thing .__c4
+__fh__but you're saying that uh it is - although that general thing is observable so far there's something you're not completely convinced about .__c4
+__s__and - and what is that ?__c4
+__b__i mean you say not clear yet .__c4
+__s.%--__what what do you mean ?__c4
+__s__uh | i mean the - the fact that well for for t i digits the timit net is the best .__c0
+__s__huh uh .__c0
+__s__which is the english net .__c0
+__b__uhhuh .__c4
+__s__but the other are slightly worse .__c0
+__b__but you have two - two effects the effect of changing language .__c0
+__s__and the effect of training on something that's viterbi aligned instead of hand - hand labeled .__c0
+__s^f__yeah .__c1
+__qo__so um ==__c0
+__s.%--__yeah .__c0
+__s.%--__do you think the alignments are bad ?__c4
+__s^bk__i mean have you looked at the alignments at all ?__c4
+__s^bsc__what the viterbi alignment's doing .__c4
+__qo__huh ==__c0
+__s__i don't - i don't know .__c0
+__s.%--__did - did you look at the spanish alignments carmen ?__c0
+__s__huh | no .__c1
+__s^bk__might be interesting to look at it .__c4
+__b__because i mean that is just looking .__c4
+__s.%--__but um um it's not clear to me you necessarily would do so badly from a viterbi alignment .__c4
+__s^bk__it depends how good the recognizer is .__c4
+__s__huh .__c0
+__s.%--__that's - that - the - the engine is that's doing the alignment .__c4
+__s^rt__yeah | but but perhaps it's not really the - the alignment that's bad .__c0
+__s^2__but the - just the ph- - phoneme string that's used for the alignment .__c0
+__s^2__aha !__c4
+__s^bk^m__yeah .__c1
+__s^bk__@reject@ ==__c1
+__s^bk__huh .__c0
+__s.%--__the pronunciation models and so forth .__c4
+__b__i mean for we ==__c0
+__s.%--__it's single pronunciation .__c0
+__b__uh ==__c0
+__b__aha !__c4
+__b__i see .__c4
+__s__french french uh phoneme strings were corrected manually .__c0
+__s__so we asked people to listen to the the sentence .__c0
+__s^bk__and we gave the phoneme string and they kind of correct them .__c0
+__b__but still .__c0
+__s^bk__@reject@ .__c0
+__s^fa^tc__there - there might be errors just in the - in - in the ph- - string of phonemes .__c0
+__b__huh ==__c0
+__s__um ==__c0
+__s.%-__yeah | so this is not really the viterbi alignment .__c0
+__qy^rt__@reject@ .__c0
+__s^aa__in fact ==__c0
+__s^am__yeah .__c0
+__b__um | the third - the third uh issue is the noise dependency perhaps .__c0
+__s^rt__but well this is not clear yet .__c0
+__s^rt__because all our nets are trained on the same noises .__c0
+__%--__and ==__c0
+__fh__i thought some of the nets were trained with spine and so forth .__c4
+__s^ba__so it - and that has other noise .__c4
+__s.%--__yeah .__c0
+__b__so ==__c0
+__%--__yeah .__c0
+__s__but ==__c0
+__fg__yeah .__c0
+__fg|s__results are only coming for - for this net .__c0
+__s^rt__huh .__c0
+__s^aa__okay yeah | just don't - just need more - more results there with that - that .__c4
+__fg__yeah .__c0
+__s__um ==__c0
+__b__so | uh from these results we have some questions with answers .__c0
+__s.%--__what should be the network input ?__c0
+__%-__um p l p work as well as m f c c i mean .__c0
+__s^bk|s.%--__um ==__c0
+__b__but it seems impor- - important to use the delta .__c0
+__qy^bu^d__uh with respect to the network size ==__c0
+__s^aa__there's one experiment that's still running .__c0
+__qy^d^g^rt__and we should have the result today .__c0
+__sj.%--__comparing network with five hundred and one thousand units .__c0
+__fh__so ==__c0
+__s^cs__still no answer actually .__c0
+__fg|s^bs__huh huh .__c4
+__%-__uh the training set ==__c0
+__s__well some kind of answer ==__c0
+__s^bu__we can we can tell which training set gives the best result .__c0
+__qy^d^g^rt__but we don't know exactly why .__c0
+__s^aap|s^arp__uh | right i mean the multi english so far is - is the best .__c4
+__b__uh | so ==__c0
+__%--__yeah .__c0
+__%--__multi - multi english just means timit .__c4
+__fg__right ?__c4
+__s.%--__yeah .__c0
+__b__yeah .__c1
+__s__so uh that's ==__c4
+__s__yeah .__c4
+__b__so and - and when you add other things in to - to broaden it it gets worse uh typically .__c4
+__b__huh .__c0
+__s__yeah .__c4
+__%--__uhhuh .__c0
+__b__then uh some questions without answers .__c0
+__qy^rt__okay .__c4
+__s^aa__uh | training set .__c0
+__s^bk__um ==__c0
+__%--__uhhuh .__c4
+__s^bk__uh | training targets ==__c0
+__fg__i like that .__c4
+__qw.%-__the training set is both questions with answers and without answers .__c4
+__s__it's ==__c0
+__fh__yeah .__c0
+__b__yeah .__c0
+__s^bk__it's sort of - yes it's mul- - it's multi uh purpose .__c4
+__qw__yeah .__c0
+__qr^rt__okay .__c4
+__qw^br__uh | training r- ==__c0
+__s^am__right so yeah | the training targets actually ==__c0
+__s__the two of the main issues perhaps are still the language dependency and the noise dependency .__c0
+__qo.%--__and perhaps to try to reduce the language dependency we should focus on finding some other kind of training targets .__c0
+__s__uhhuh .__c4
+__s^df__and labeling - labeling seems important .__c0
+__s^bk__because of timit results .__c0
+__fg__uhhuh .__c4
+__qy^rt__uh ==__c0
+__s.%--__for moment you use - we use phonetic targets .__c0
+__fh|%--__but we could also use articulatory targets - soft targets .__c0
+__s^aa__and perhaps even um use networks that doesn't do classification .__c0
+__s__but just regression .__c0
+__b__so uh train to have neural networks that ==__c0
+__s^cs__um um uh ==__c0
+__s^am__uhhuh .__c4
+__qy.%-__does a regression ==__c0
+__s^cs__and well basically com- - compute features and noit- - not nnn features without noise i mean uh transform the fea- - noisy features in other features that are not noisy .__c0
+__s^aa__but continuous features .__c0
+__b__not uh uh hard targets .__c0
+__qy^rt__uhhuh .__c4
+__qw^rt__uhhuh .__c4
+__b__uh ==__c0
+__qw^br^d^m^rt__yeah | that seems like a good thing to do probably .__c4
+__qy^bu^d^rt__yeah .__c4
+__s^aa__not uh again a short term sort of thing .__c4
+__s.%--__yeah .__c0
+__s^rt__i mean one of the things about that is that um it's ==__c4
+__s^rt__e- - u- - the ri- - i guess the major risk you have there of being - is being dependent on - very dependent on the kind of noise and - and so forth .__c4
+__fh__yeah .__c0
+__fh|s.%--__but yeah .__c0
+__b__uh | but it's another thing to try .__c4
+__fh__so this is w- - w- - wa- - wa- - this is one thing this - this could be - could help - could help perhaps to reduce language dependency .__c0
+__s__and for the noise part um we could combine this with other approaches like well the kleinschmidt approach .__c0
+__b__so the d- - the idea of putting all the noise that we can find inside a database .__c0
+__fh|s__uhhuh .__c4
+__b__yeah .__c1
+__qw^br^rt__i think kleinschmidt was using more than fifty different noises to train his network .__c0
+__s__and so this is one approach .__c0
+__b__uhhuh .__c4
+__s^rt.%--__and the other is multi band uh that i think is more robust to the noisy changes .__c0
+__s__uhhuh .__c4
+__s__so perhaps i think something like multi band trained on a lot of noises with uh features based targets could - could - could help .__c0
+__s__yeah | if you - i- - i- - it's interesting thought .__c4
+__s__maybe if you just trained up ==__c4
+__b__i mean w- - yeah one - one fantasy would be you have something like articulatory targets .__c4
+__%--__and you have um some reasonable database .__c4
+__b__um ==__c4
+__fh__but then - which is um copied over many times with a range of different noises .__c4
+__fh__uhhuh .__c0
+__s__and uh if - because what you're trying to do is come up with a - a core reasonable feature set which is then going to be used uh by the - the uh h m m system .__c4
+__s.%--__huh .__c0
+__fh__so ==__c4
+__s__yeah okay .__c4
+__s.%--__so ==__c0
+__fh__um yeah .__c0
+__s^rt__the future work is well try to connect to the - to make - to plug in the system to the o g i .__c0
+__fh__system ==__c0
+__fg__um there are still open questions there .__c0
+__%--__uhhuh .__c4
+__s^ba__where to put the m l p basically .__c0
+__b__um ==__c0
+__s.%--__and i guess you know the - the - the real open question ==__c4
+__s__i mean e- - u- - there's lots of open questions .__c4
+__b__but one of the core quote open questions for that is um um if we take the uh - you know the best ones here ==__c4
+__%--__maybe not just the best one .__c4
+__b__but the best few or something .__c4
+__%--__you want the most promising group from these other experiments .__c4
+__fh__um how well do they do over a range of these different tests not just the italian ?__c4
+__s^bd^df__huh .__c0
+__s.%--__um ==__c4
+__s^bk|%--__and ==__c4
+__fh__y- - right ?__c4
+__s^rt__huh | yeah yeah .__c0
+__s.%--__and then um then see again how ==__c4
+__s__we know that there's a mis- - there's a uh - a - a loss in performance when the neural net is trained on conditions that are different than - than uh we're going to test on .__c4
+__s__but well if you look over a range of these different tests um how well do these different ways of combining the straight features with the m l p features uh stand up over that range ?__c4
+__s^bd^df__uhhuh .__c1
+__sj^ba.%--__that's - that - that seems like the - the - the real question .__c4
+__b__and if you know that ==__c4
+__s__so if you just take p l p with uh the double deltas .__c4
+__s^am__assume that's the p- - the feature .__c4
+__s__look at these different ways of combining it .__c4
+__s__and uh take - let's say just take uh multi english .__c4
+__qy^rt__cause that works pretty well for the training .__c4
+__%--__uhhuh .__c0
+__%--__and just look- - take that case and then look over all the different things .__c4
+__s^bu^rt__how does that how does that compare between the @reject@ ?__c4
+__fh__so all the - all the test sets you mean ?__c0
+__s^aa^rt|s.%--__yeah .__c0
+__s^df^rt__yeah .__c1
+__s^df^rt__all the different test sets .__c4
+__fh__and ==__c0
+__fh__and for - and for the couple different ways that you have of - of - of combining them .__c4
+__s^rt__yeah .__c0
+__%--__um how well do they stand up over the ?==__c4
+__fh__uhhuh .__c1
+__s.%--__huh .__c0
+__s__and perhaps doing this for cha- - changing the variance of the streams and so on getting different scaling .__c0
+__s__that's another possibility if you have time .__c4
+__s__yeah .__c4
+__b__yeah .__c4
+__fh__um ==__c0
+__fg__@reject@ ==__c4
+__qy^rt__yeah so thi- - this sh- - would be more working on the m l p as an additional path instead of an insert to the to their diagram .__c0
+__s^na__because ==__c0
+__s.%--__yeah .__c0
+__s^bk^m__perhaps the insert idea is kind of strange .__c0
+__s^bk__because they - they make l d a .__c0
+__b__and then we will again add a network does discriminate anal- - that discriminates .__c0
+__fg__yeah | it's a little strange .__c4
+__fh|s^rt__or ==__c0
+__s.%--__but on the other hand they did it before .__c4
+__fh__huh .__c0
+__fh__um | the- ==__c4
+__qo__huh .__c0
+__b__and - and - and ==__c0
+__s__yeah .__c0
+__s__and because also perhaps we know that the - when we have very good features the m l p doesn't help .__c0
+__s__so i don't know .__c0
+__sj^ba__um | the other thing though is that ==__c4
+__qy^bu^d^rt__um ==__c4
+__s^aa__so | uh we - we want to get their path running here .__c4
+__b__right ?__c4
+__s^no__if so we can add this other stuff .__c4
+__fh|s.%--__um ==__c0
+__s.%--__as an additional path .__c4
+__s__right ?__c4
+__s^df__yeah | the - the way we want to do ==__c0
+__fh__because they're doing l d a rasta ?__c4
+__s^no__the ==__c0
+__s__what ?__c0
+__fg__they're doing l d a rasta .__c4
+__s__yeah | the way we want to do it perhaps is to - just to get the v a d labels and the final features .__c0
+__s^no__yeah ?__c4
+__s__so they will send us the well provide us with the feature files .__c0
+__s__i see .__c4
+__s__i see .__c4
+__s^bk|s__and with v a d binary labels .__c0
+__s^aa__so that we can uh get our m l p features .__c0
+__b__and filter them with the v a d .__c0
+__s^no__and then combine them with their feature stream .__c0
+__s__i see .__c4
+__s^r__so ==__c0
+__b__so we - so first thing of course we'd want to do there is to make sure that when we get those labels of final features is that we get the same results as them .__c4
+__s__without putting in a second path .__c4
+__b__uh | you mean ==__c0
+__b__oh yeah !__c0
+__fh__just re- - re- - retraining r- - retraining the h t k .__c0
+__s^cs__yeah just th- - w- - i- - i- - just to make sure that we have we - understand properly what things are our very first thing to do is to - is to double check that we get the exact same results as them on h t k .__c4
+__s.%--__well ==__c0
+__qy^d^f^g^rt__oh yeah .__c0
+__%--__yeah okay .__c0
+__s__huh .__c0
+__b__uh i mean i don't know that we need to r- ==__c4
+__fh__yeah .__c1
+__fg|s__yeah .__c0
+__%--__um do we need to retrain ?__c4
+__s__i mean we can just take the re- - their training files also .__c4
+__b__but but uh ==__c4
+__b__just for the testing jus- - just make sure that we get the same results so we can duplicate it before we add in another ==__c4
+__s__huh .__c0
+__s.%--__okay .__c0
+__b__because otherwise you know we won't know what things mean .__c4
+__b__oh yeah .__c0
+__s__okay .__c0
+__s^e__and um ==__c0
+__fh__yeah | so lograsta ==__c0
+__s__i don't know if we want to ==__c0
+__b__we can try networks with log rasta filtered features .__c0
+__fh__maybe .__c4
+__fh__huh .__c0
+__s__i'm sorry ?__c0
+__b__yeah | well ==__c0
+__b__yeah .__c0
+__s^tc.%--__oh you know the other thing is when you say comb- ==__c4
+__s__but ==__c0
+__b__i'm - i'm sorry | i'm interrupting that .__c4
+__s__um uh | when you're talking about combining multiple features ==__c4
+__b__um - suppose we said okay we've got these different features and so forth .__c4
+__fg|s__but p l p seems pretty good .__c4
+__s.%--__if we take the approach that mike did and have ==__c4
+__b__huh .__c0
+__s^bs__i mean one of the situations we have is we have these different conditions .__c4
+__b__we have different languages .__c4
+__s^bk|s__we have different - different noises .__c4
+__s__um if we have some drastically different conditions and we just train up different m l ps with them .__c4
+__s^bk__uhhuh .__c0
+__s__and put - put them together .__c4
+__%-__what - what - what mike found for the reverberation case at least i mean ==__c4
+__%--__i mean who knows if it'll work for these other ones .__c4
+__%--__that you did have nice interpolative effects .__c4
+__s^rt__that is that yes if you knew what the reverberation condition was going to be and you trained for that then you got the best results .__c4
+__s.%--__but if you had say a heavily reverberation ca- - heavy reverberation case and a no reverberation case uh and then you fed the thing uh something that was a modest amount of reverberation then you'd get some result in between the two .__c4
+__s__so it was sort of behaved reasonably .__c4
+__fh__is tha- - that a fair ?==__c4
+__s.%--__yeah .__c4
+__b__yeah .__c0
+__s^rt__so you you think it's perhaps better to have several m l ps ?__c0
+__s^rt__yeah .__c0
+__s__but ==__c0
+__fh__it w- - works better if what ?__c4
+__b__yea- ==__c0
+__%--__i see .__c4
+__fh__well see i- - oc- ==__c4
+__s.%--__you were doing some- - something that was ==__c4
+__s^rt__so maybe the analogy isn't quite right .__c4
+__fh__you were doing something that was in way a little better behaved .__c4
+__fg|s__you had reverb- - for a single variable .__c4
+__fg__which was re- - uh uh reverberation .__c4
+__%-__here the problem seems to be is that we don't have a hug- - a really huge net with a really huge amount of training data .__c4
+__qy.%-__but we have s- - f- - for this kind of task i would think sort of a modest amount .__c4
+__%-__i mean a million frames actually isn't that much .__c4
+__%-__we have a modest amount of - of uh training data from a couple different conditions .__c4
+__s^cs.%--__and then uh - in - yeah - that and the real situation is that there's enormous variability that we anticipate in the test set in terms of language .__c4
+__b__and noise type .__c4
+__s^co__uh and uh uh | channel characteristic .__c4
+__qy^rt.%--__sort of all over the map .__c4
+__qrr^rt.%--__a bunch of different dimensions .__c4
+__s__and so i'm just concerned that we don't really have um the data to train up ==__c4
+__b__i mean one of the things that we were seeing is that when we added in - we still don't have a good explanation for this .__c4
+__qy^d^g^rt__but we are seeing that we're adding in uh a fe- - few different databases .__c4
+__s^aa__and uh | the performance is getting worse .__c4
+__s^e__and uh | when we just take one of those databases that's a pretty good one it actually is - is - is - is - is better .__c4
+__s.%--__and uh | that says to me yes that you know there might be some problems with the pronunciation models that some of the databases we're adding in or something like that .__c4
+__fh__but one way or another we don't have uh seemingly the ability to represent in the neural net of the size that we have um all of the variability that we're going to be covering .__c4
+__b__so that i'm - i'm - i'm hoping that ==__c4
+__s^df__um | this is another take on the efficiency argument you're making .__c4
+__b__which - i'm hoping that with moderate size neural nets uh that uh if we - if they look at more constrained conditions they - they'll have enough parameters to really represent them .__c4
+__fh__uhhuh .__c4
+__s.%--__uhhuh .__c4
+__fg__uhhuh .__c4
+__%-__yeah .__c4
+__s^bk|s^co__so doing both is - is not - is not right you mean .__c0
+__s^bk__or ==__c0
+__fh__yeah .__c0
+__s^co__yeah .__c4
+__h|s^cs.%--__i - i just sort of have a feeling ==__c4
+__s__but yeah .__c0
+__s^rt__huh .__c0
+__fh__yeah .__c4
+__fh|s^no__uhhuh .__c0
+__s^rt__i mean i- - i- - e- - the um - i think it's true that the o g i folk found that using l d a rasta ==__c4
+__s^cs.%--__which is a kind of log rasta .__c4
+__s^cs.%--__it's just that they have the ==__c4
+__fh|s^cs^rt__i mean it's done in the log domain as i recall .__c4
+__fh__and it's - it uh - it's just that they d- - it's trained up .__c4
+__s^cs^rt__right ?__c4
+__%-__that that um benefitted from online normalization .__c4
+__s^cs^rt__so they did - at least in their case it did seem to be somewhat complimentary .__c4
+__s__so will it be in our case where we're using the neural net ?__c4
+__%-__i mean they - they were not - not using the neural net .__c4
+__s^bk__uh i don't know .__c4
+__s__okay | so the other things you have here are uh trying to improve results from a single ==__c4
+__s__yeah .__c4
+__b__make stuff better .__c4
+__b__okay .__c4
+__s__uh yeah .__c4
+__%--__and c p u memory issues .__c4
+__fh__yeah .__c4
+__s.%--__we've been sort of ignoring that .__c4
+__s__haven't we ?__c4
+__s.%--__but ==__c4
+__s__yeah | so i don't know .__c0
+__s__yeah | but i li- ==__c4
+__s.%--__but we have to address the problem of c p u and memory we ?==__c0
+__s__well i think - my impression ==__c4
+__b__you - you folks have been looking at this more than me .__c4
+__b__but my impression was that uh there was a - a - a - a strict constraint on the delay .__c4
+__s^rt__yeah .__c1
+__b__but beyond that it was kind of that uh using less memory was better .__c4
+__b__and using less c p u was better .__c4
+__fh|s__something like that .__c4
+__s__right ?__c4
+__fh__yeah | but ==__c0
+__b__yeah .__c0
+__s^rt__so yeah | but we've ==__c0
+__s__i don't know .__c0
+__b__we have to get some reference point to where we ==__c0
+__b__well what's a reasonable number ?__c0
+__s.%--__perhaps be- - because if it's - if it's too large or large .__c0
+__s__or ==__c0
+__s__um | well i don't think we're um completely off the wall .__c4
+__b__i mean i think that if we - if we have ==__c4
+__s.%--__uh i mean the ultimate fall back that we could do ==__c4
+__b__if we find ==__c4
+__b__uh ==__c4
+__s__i mean we may find that we - we're not really going to worry about the m l p .__c4
+__%--__you know if the m l p ultimately after all is said and done doesn't really help then we won't have it in .__c4
+__%-__huh .__c0
+__s__if m l p does we find help us enough in some conditions uh we might even have more than one m l p .__c4
+__fh__we could simply say that is uh done on the uh server .__c4
+__fh__huh .__c0
+__sj^ba__and it's ==__c4
+__sj^bd__uh ==__c4
+__%--__we do the other manipulations that we're doing before that .__c4
+__b__so i - i - i think - i think that's - that's okay .__c4
+__fh__and yeah .__c0
+__s.%--__so i think the key thing was um this plug into o g i .__c4
+__s__um ==__c4
+__s.%--__what - what are they - what are they going to be working ?==__c4
+__b__do we know what they're going to be working on while we take their features ?__c4
+__s__they're they're starting to wor- - work on some kind of multi band .__c0
+__%--__and ==__c4
+__fh__so um ==__c0
+__s.%--__this - that was pratibha .__c0
+__b__sunil ==__c0
+__qy^rt__what was he doing ?__c0
+__s^rt__do you remember ?__c0
+__s.%--__sunil ?__c1
+__s^bd^no__yeah .__c0
+__s__he was doing something new ?__c0
+__s^rt__or ?==__c0
+__s.%--__i - i don't re- - i didn't remember .__c1
+__%--__maybe he's working with neural network .__c1
+__fh__i don't think so .__c0
+__s__trying to tune ==__c0
+__s__wha- - networks ?__c0
+__s__yeah i think so .__c1
+__b__i think they were also mainly ==__c0
+__s^bk|s^fa__well working a little bit of new things like networks and multi band .__c0
+__b__but mainly trying to tune their - their system as it is now .__c0
+__s^df__just trying to get the best from this - this architecture .__c0
+__qy^d^f^g^rt__yeah .__c1
+__s^cs.%--__okay .__c4
+__s.%--__uh ==__c0
+__fh|s.%--__so i guess the way it would work is that you'd get ==__c4
+__s.%--__there'd be some point where you say okay this is their version one or whatever .__c4
+__s.%--__and we get these v a d labels and features and so forth for all these test sets from them .__c4
+__s.%--__uhhuh .__c0
+__s.%--__and then um uh | that's what we work with .__c4
+__fh|s__we have a certain level we try to improve it with this other path .__c4
+__s__and then um uh when it gets to be uh january ==__c4
+__s.%--__some point ==__c4
+__b__uh we say okay we - we have shown that we can improve this in this way .__c4
+__s.%--__so now uh um what's your newest version .__c4
+__fh|s^rt.%--__and then maybe they'll have something that's better .__c4
+__b__and then we - we'd combine it .__c4
+__%-__this is always hard .__c4
+__fh|s__i mean i - i - i used to work with uh folks who were trying to improve a good uh h m m system with uh - with a neural net system .__c4
+__b__and uh it was common problem that you'd ==__c4
+__s__oh and this - actually this is true not just for neural nets .__c4
+__s__but just for - in general if people were working with uh rescoring uh n best lists or lattices that come - came from uh a mainstream recognizer .__c4
+__s.%--__uh you get something from the - the other site at one point and you work really hard on making it better with rescoring .__c4
+__fg|s.%--__but they're working really hard too .__c4
+__s^bk|s.%--__so by the time you have uh improved their score they have also improved their score .__c4
+__b__huh .__c0
+__qy^bu^d^rt__and now there isn't any difference .__c4
+__s^rt__yeah .__c0
+__s^aa|s__because the other ==__c4
+__s^rt__yeah .__c1
+__fg|s^rt__so um i guess at some point we'll have to ==__c4
+__s__so it's ==__c0
+__b__uh uh ==__c4
+__s__i - i don't know .__c4
+__fh|s__i think we're - we're integrated a little more tightly than happens in a lot of those cases .__c4
+__b__i think at the moment they - they say that they have a better thing we can - we - e- - e- ==__c4
+__s__what takes all the time here is that th- - we're trying so many things .__c4
+__s__huh .__c0
+__b__presumably uh in a - in a day we could turn around .__c4
+__s__uh taking a new set of things from them and - and rescoring it .__c4
+__s__huh huh .__c0
+__b__right ?__c4
+__s^rt__so ==__c4
+__s__yeah | perhaps we could .__c0
+__s__yeah .__c4
+__fh__well okay .__c4
+__fh__no this is - i think this is good .__c4
+__s^bk__i think that the most wide open thing is the issues about the uh you know different trainings .__c4
+__s__you know | da- - training targets and noises and so forth .__c4
+__b__huh .__c0
+__fh|s__that's sort of wide open .__c4
+__b__so we - we can for - we c- - we can forget combining multiple features and m l g perhaps ?__c0
+__s.%--__or focus more on the targets and on the training data ?__c0
+__b__and ==__c0
+__b__yeah | i think for right now um i th- - i - i really liked m s g .__c4
+__fh__and i think that you know one of the things i liked about it is has such different temporal properties .__c4
+__sj^ba__and um | i think that there is ultimately a really good uh potential for you know bringing in things with different temporal properties .__c4
+__b__um but um uh ==__c4
+__s__we only have limited time .__c4
+__s__and there's a lot of other things we have to look at .__c4
+__s.%--__huh .__c0
+__s^bk^rt__and it seems like much more core questions are issues about the training set .__c4
+__fh__and the training targets .__c4
+__sj^ba__and fitting in uh what we're doing with what they're doing .__c4
+__b__and you know with limited time .__c4
+__fh__yeah .__c4
+__fh__i think we have to start cutting down .__c4
+__b__so uh ==__c4
+__fg|sj^ba__huh .__c0
+__%-__i think so .__c4
+__s^cs.%--__yeah .__c4
+__s^cs__and then you know once we ==__c4
+__s^fe^rt__um having gone through this process and trying many different things i would imagine that certain things uh come up that you are curious about .__c4
+__s^cs__uh that you'd not getting to .__c4
+__s__and so when the dust settles from the evaluation uh i think that would time to go back and take whatever intrigued you most .__c4
+__b__you know got you most interested .__c4
+__s^tc__uh and uh | and - and work with it you know for the next round .__c4
+__b__uh as you can tell from these numbers uh nothing that any of us is going to do is actually going to completely solve the problem .__c4
+__fh|s^df^rt__so ==__c4
+__s^rt__huh .__c0
+__fh__so there'll still be plenty to do .__c4
+__b__barry you've been pretty quiet .__c4
+__s^rt__just listening .__c2
+__fh|s__well i figured that .__c4
+__%--__but - that - what - what - what were you involved in in this primarily ?__c4
+__sj^ba__um | helping out uh preparing .__c2
+__%--__well they've been kind of running all the experiments and stuff .__c2
+__s^r__and i've been uh uh w- - doing some work on the - on the - preparing all - all the data for them to - to um train and to test on .__c2
+__s^bk^m__um ==__c2
+__s^bk__yeah | right now i'm - i'm focusing mainly on this final project i'm working on in jordan's class .__c2
+__b__uh .__c4
+__b.%__i see .__c4
+__s__yeah .__c2
+__qy^rt__right .__c4
+__s.%--__what's what's that ?__c4
+__s^nd__um i'm trying to ==__c2
+__b__um | so there was a paper in i c s l p about um this - this multi band um belief net structure this guy did .__c2
+__b__uhhuh .__c4
+__s^no__uh basically it was two h m ms with - with a - with a dependency arrow between the two h m ms .__c2
+__s__uhhuh .__c4
+__s__and so i want to try - try coupling them instead of t- - having an arrow that - that flows from one sub band to another sub band .__c2
+__b__i want to try having the arrows go both ways .__c2
+__b__and um | i'm just going to see if - if that - that better models um uh asynchrony in any way .__c2
+__b__or um yeah .__c2
+__s^rt__oh .__c4
+__s__okay .__c4
+__b^rt__well that sounds interesting .__c4
+__s__yeah .__c2
+__qw^rt__okay .__c4
+__b__all right .__c4
+__s^bk|s__anything to - you wanted to ?==__c4
+__s^rt.%--__no .__c4
+__%-__okay .__c4
+__fh__silent partner in the in the meeting .__c4
+__s^ng__we got a laugh out of him .__c4
+__s.%--__that's good .__c4
+__qw^rt__okay everyone h- - must contribute to the - our - our sound - sound files here .__c4
+__s__okay | so speaking of which if we don't have anything else that we need ==__c4
+__s__you happy with where we are ?__c4
+__s__know - know wher- - know where we're going ?__c4
+__s__huh .__c0
+__s^bk.%__uh ==__c4
+__s^e__i think so yeah .__c0
+__s__yeah yeah .__c4
+__b__you - you happy ?__c4
+__fg__uhhuh .__c1
+__fh__you're happy .__c4
+__s^cs__okay everyone should be happy .__c4
+__s^rt__okay .__c4
+__fh__you don't have to be happy .__c4
+__s__you're almost done .__c4
+__s__yeah yeah .__c4
+__b__okay .__c4
+__s^bk__al- - actually i should mention ==__cb
+__s__so if um about the linux machine .__cb
+__s^rt__swede .__cb
+__s^bk^rt__yeah .__c4
+__s^rt__so it looks like the um normal neural net tools are installed there .__cb
+__s^cs__huh .__c0
+__s__and um dan ellis i believe knows something about using that machine .__cb
+__b__so ==__cb
+__b__if people are interested in - in getting jobs running on that maybe i could help with that .__cb
+__s^bk__huh .__c0
+__b__yeah | but i don't know if we really need now a lot of machines .__c0
+__sj^ba^rt__well we could start computing another huge table .__c0
+__fg__but ==__c0
+__s^bd^no__yeah we ==__c0
+__s^rt__well yeah | i think we want a different table at least .__c4
+__%--__yeah sure .__c0
+__s__right ?__c4
+__fh__i mean there's - there's some different things that we're trying to get at now .__c4
+__fg__but ==__c0
+__s__but ==__c4
+__fg__yeah .__c0
+__s.%--__huh .__c0
+__b__so yeah as far as you can tell you're actually okay on c- - on c p u uh for training and so on ?__c4
+__s.%--__yeah .__c4
+__s^rt__uh yeah | i think so .__c0
+__s__well more is always better .__c0
+__fh__but huh ==__c0
+__s^t1.%__i don't think we have to train a lot of networks now that we know .__c0
+__s__we just select what works fine .__c0
+__%-__okay .__c4
+__%--__okay .__c4
+__fg|s__yeah .__c1
+__s^df^rt__and try to improve this .__c0
+__b__and we're okay on - and we're okay on disk ?__c4
+__b__to work ==__c1
+__fh__and ==__c0
+__b__it's okay yeah .__c0
+__fg__well sometimes we have some problems .__c0
+__s__some problems with the ==__c1
+__s^bd^df__but they're correctable uh problems .__c4
+__s__you know .__c1
+__b__yeah | restarting the script basically .__c0
+__s^rt__and ==__c0
+__b__yes .__c4
+__s__yeah i'm familiar with that one .__c4
+__s__okay .__c4
+__s^fe__all right .__c4
+__s__so uh | since uh we didn't ha- - get a channel on for you you don't have to read any digits .__c4
+__b__but the rest of us will .__c4
+__s__uh is it on ?__c4
+__b__well we didn't .__c4
+__s__uh ==__c4
+__s__i think i won't touch anything .__c4
+__b__because i'm afraid of making the driver crash .__c4
+__s.%--__which it seems to do pretty easily .__c4
+__fh__okay thanks .__c4
+__s^rt__okay so we'll uh i'll start off the ==__c4
+__b__uh um ==__c4
+__fh__connect the ==__c4
+__qw^d^rt__my battery is low .__c0
+__qw^rt.%--__well let's hope it works .__c4
+__s.%--__maybe you should go first and see .__c4
+__s^rt__so that you're okay .__c4
+__s^m^na__DIGIT_TASK__c0
+__qy^bu^d^rt__@reject@ batteries .__c1
+__s__yeah | your battery's going down too .__c2
+__s^m^na__transcript uh ==__c4
+__s__carmen's battery is d- - going down too .__c2
+__s__two ==__c4
+__b__oh okay .__c4
+__b__yeah .__c4
+__b__why don't you go next then .__c4
+__b__DIGIT_TASK__c1
+__s__okay .__c4
+__b__DIGIT_TASK__c4
+__b__DIGIT_TASK__cb
+__h__DIGIT_TASK__c2
+__s^bk^rt^t^tc__guess we're done .__c4
+__qy^rt__okay uh so ==__c4
+__s^aa__just finished digits .__c4
+__fg|s.%--__yeah so uh ==__c4
+__fh__well it's good .__c4
+__s__i think - i guess we can turn off our microphones now .__c4
+__s__just pull the batteries out .__c2

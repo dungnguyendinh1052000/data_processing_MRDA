@@ -1,0 +1,990 @@
+__z__okay .__c0
+__z__okay so the one - one thing i knew i wanted to talk about was about uh sort of last minute stuff to- - to uh try to get some recognition results .__c2
+__z__recognition results .__c9
+__z__yeah .__c2
+__z__for ?==__c9
+__z__so uh on - on - on meeting data .__c2
+__z__and so i'm - i'm not sure exactly what you're doing already .__c2
+__z__and - and there's some stuff i've talked to dave ==__c2
+__z__well we- - i just started recognition on the - on thilo's segments .__c9
+__z__which was ==__c9
+__z__but using the far- - far- ==__c9
+__z__the close talking microphone .__c9
+__z__okay so um ==__c2
+__z__and you wanted - i know you wanted the far field data .__c9
+__z__right | so - so we have some stuff with no overlap uh for which there would be near - near field results .__c2
+__z__uhhuh .__c9
+__z__we wanted to get the far field results for that .__c2
+__z__and then this - this real uh long shot thing would be that we'd apply dave's processing to uh potentially training and test data .__c2
+__z__uhhuh .__c9
+__z__and do the - look at the same thing .__c2
+__z__and in talking this morning with uh chuck and with dave one thought was to use ==__c2
+__z__we couldn't remember how different the numbers were .__c2
+__z__but if you just worked with males only and used the short training there're - there're ==__c2
+__z__uh i think chuck's recollection was that when he was doing the feature stuff it took maybe a day and a half .__c2
+__z__to do the training .__c2
+__fg__to re train ?__c9
+__fg__yeah .__c2
+__s.%--__uh ==__c9
+__b__yeah .__c9
+__qw^co__um ==__c9
+__s^bk__that's about right .__c9
+__fh__actually it should probably be ==__c9
+__fh|s__it depends on who else is using machines .__c9
+__fh__but we have more machines now .__c9
+__s__so ==__c9
+__fh__that's true .__c0
+__%--__it's more like a day probably .__c9
+__s__um | how much worse is the short training set than the large one in terms of the ultimate performance ?__c2
+__fh|s^df__huh it's like something like three - three percent .__c9
+__s.%-__three or four percent absolute .__c9
+__qy^bu^d^rt__yep .__c2
+__s^m^na__so it's - that should be fine for this i would think .__c2
+__s^df__so we - an- - and you have the short - you have short training results for the close case ?__c2
+__b__um | not for meetings .__c9
+__s^ba^cs__because we didn't train we didn't re- - ever recognize with the with the small models on meeting data .__c9
+__fh__but i - i have the models .__c9
+__fh__so i could run reco- ==__c9
+__s__so how do you know it's ?==__c2
+__fh__oh it's three percent on - on uh on hub five .__c2
+__s__on ==__c9
+__s__hub five .__c0
+__s^rt__i see .__c2
+__fh__yeah | but we have the models so we could get that number .__c2
+__s__and ==__c2
+__s__so the question is what w- ?==__c2
+__fh|s__i mean the - the - huh ==__c9
+__s__the recognition also takes non negligible amount of time .__c9
+__s__so we might want to restrict it to maybe a few meetings .__c9
+__fh|s__if you want to do a full comparison .__c9
+__fh|s__it has to be enough so that ==__c2
+__s__uh ==__c9
+__s__i mean it's the non overlap only .__c2
+__s__um and ==__c2
+__fh|s^no__it has to be enough to be sort of comparable to what you folks were seeing and what you reported already .__c2
+__s__huh .__c9
+__s^bk__i mean ==__c2
+__s__well do we have the - do we have the processed data ?__c9
+__s^bk__that - that's also ==__c9
+__s^bk__no | he has to create that .__c2
+__s^bk__but - but - s- - but - so ==__c2
+__s__right .__c9
+__s^bk__um ==__c2
+__s^bk__we have a whole parallel set of things over here which are all with digits .__c2
+__s__huh .__c9
+__s^bk__i see .__c9
+__s__and - and - and dave has been working with that and there's all of those issues .__c2
+__s__but i know that if i go in with something that's not just digits it would be good .__c2
+__s__and um so ==__c2
+__fh__we already have these results that you ==__c2
+__s__i mean on uh a l- - a lot- - tha- - tha- - a particular test set that you - that we reported at h l t .__c2
+__s^df__uhhuh .__c9
+__s__right .__c9
+__fh|s^cc__um it'd be nice to have something more than that .__c2
+__s^cc__and w- - we had talked about was having distant ==__c2
+__s^co__um and then ==__c2
+__s__uh if we could on top of that ==__c2
+__qy^bu^d__i mean so this is going to be a lot worse .__c2
+__z__right ?__c2
+__qy__whatever comparison we - w- - w- - one would presume .__c2
+__qrr.%--__uhhuh .__c9
+__%--__but we don't know how much worse ==__c2
+__s^nd__right .__c9
+__b__w- - w- - uh which is certainly one interesting thing .__c2
+__s__and then um ==__c2
+__b__dave ==__c2
+__s^e__i think we figured that it'd probably take a day or two to compute the - the ==__c2
+__b__uh uh ==__c2
+__fh__well | how many hours of training ?==__c2
+__s__actually i did re train ==__c9
+__qw^rt__i recently re trained - um - for another reason on the full training set .__c9
+__s__and that took only - i think it took only two days .__c9
+__s^bk__yeah .__c2
+__qw^d__so it's actually conceivable to do - use the full training set .__c9
+__s^e__yeah | but we also have to do this other processing so having a smaller training set .__c2
+__s.%-__if it's only a few percent difference it might be - be worth doing it .__c2
+__s__oh i see .__c9
+__s^bk__but- - m- - how big is the small training set ?__c2
+__fh__do you remember ?__c2
+__s__huh uh - hhh .__c9
+__s^bk__i don't know .__c9
+__fh__something - something like - something between thirty and fifty hours maybe .__c9
+__fg__i f- - i forget the exac- ==__c9
+__s__it's around there .__c2
+__s__and ha- - and - and male is roughly half of that ?__c2
+__s__right .__c9
+__s^bk__or ?==__c2
+__s^ba__well that's only male .__c0
+__s^bk__or - or - or was that only male ?__c2
+__s^df__uh | actually i don't know .__c9
+__s^bk__i - i can look it up .__c9
+__s__it's - it's - it's just ==__c9
+__b__uh i don't know the - remember the - the number .__c9
+__b__we could only jus- - just do the male only .__c0
+__s__okay .__c2
+__s^e__right ?__c0
+__b__or will we run into trouble when we g- ?==__c0
+__s^bk__well the males account for most of this meeting data anyhow .__c9
+__s^e__yeah .__c0
+__s__so ==__c9
+__s__yeah | i would say we - you do only males .__c9
+__s^df__yeah .__c2
+__b__so ==__c2
+__b__yeah so that's certainly part of the issue is that right now he's - he hasn't written his stuff for efficiency .__c2
+__fh__yeah | it's - it's in matlab .__c2
+__s__and so on .__c2
+__fh__and - and uh it's not an impossible amount of time .__c2
+__s^bk__uhhuh .__c9
+__s^bu__we - we were guesstimating it was like one and a half times faster than real time or something .__c2
+__fh__so if there's thirty hours of data you can calculate that he can do uh the enhancement in a day .__c2
+__s^aa__u- ==__c9
+__s^na__and something .__c2
+__s^aa__uhhuh .__c9
+__s^bk__so ==__c2
+__fh__but if we were dealing with two hundred hours or something i think it'd be prohibitive .__c2
+__fh__no it's definitely it's less than a hundred hours for sure .__c9
+__fh__it's ==__c9
+__s^ba__yeah .__c2
+__s__it's probably actually uh it's - uh i think it's around thirty hours .__c9
+__fh|s__just for - for one gender .__c9
+__s__that's what i was thinking .__c0
+__s__yeah .__c2
+__s__yeah .__c9
+__fh|s__yeah .__c0
+__b__yeah | so i mean it's a bit of a push .__c2
+__s^bk__but it seems like ==__c2
+__s^bk__okay we've got some models .__c2
+__b__we've got some training data we have software that works he's got a method that helps with you know other ta- - another task .__c2
+__fg__um ==__c2
+__fh__it you know appears to be you know debugged .__c2
+__fh__s- ==__c0
+__s^bk__uhhuh .__c9
+__s^tc__um ==__c2
+__s__so - we- - yo- - so one thing i was wondering is did you already do that middle one or should we re do that one too ?__c0
+__s^df__no | i didn't do that .__c9
+__fh|s__because we haven't even cut the waveforms for that .__c9
+__s__you didn't do that | okay .__c0
+__fh__yeah | that's what i was going to say next .__c0
+__s__so ==__c9
+__s^e__we have to cut the uh ==__c0
+__fh|s^e__right .__c9
+__s^e__so ==__c9
+__fh__w- - s- - so is - morgan is the plan to just pick one of the far field mikes ?__c0
+__fh__uh ==__c0
+__s__and there's a bit of a question whether you want to use um what segmentations you want to use .__c9
+__s^cc__yes .__c2
+__b__uh ==__c9
+__s__uh david just ==__c9
+__fh__um i'm sorry .__c9
+__s__don just uh created a new version of the first meetings that we had previously recognized .__c9
+__s^bk__but with different segmentation .__c9
+__s__and so um ==__c9
+__s__it would be nice ==__c9
+__fh__i mean if the results are comparable to what we had before ==__c9
+__s^no__to use those segmentations .__c9
+__b__because th- - then we could claim that everything's automatic .__c9
+__s__do you know when he'll have the - the comparison ?__c0
+__s^no__right ?__c9
+__s^bk__well i'm - as i said i just started the recognizer um ==__c9
+__s^ng__it will uh it will probably be a couple hours before - before i have some results .__c9
+__s^na__oh | well that's not bad .__c2
+__s^aa__oh okay .__c0
+__qw^cs__so ==__c9
+__s^bk|s^nd__so - because i don't think the new data will be ready uh for a couple days may- - probably .__c0
+__s^am__you mean the training .__c2
+__s^aa__so ==__c0
+__s^am^df__the training .__c0
+__s^bk__but the segmentations matter for the filtering .__c9
+__s^ng__yeah .__c2
+__s__right ?__c9
+__s^df__because ==__c9
+__h|s^aa__for the test .__c2
+__s__for the test set | yeah .__c9
+__s^df.%--__so ==__c9
+__b__yeah fo- ==__c2
+__s^bk__yeah .__c0
+__s^am__need to be ==__c9
+__s^no.%__but first - first of course you would want to process the training data .__c9
+__s^tc__because we want to get that started .__c9
+__fh|s__right .__c2
+__s.%--__yeah .__c9
+__qy^bu^d^rt__yeah .__c2
+__qy__i mean | it - it'd be really great if it was all automatic but i think that you know given the pressure of time if i- - i- ==__c2
+__s^e__i mean since you're going to find out in a short amount of time that's great .__c2
+__s__uhhuh .__c9
+__s__but i- - if - if it doesn't work out i think we would rather charge ahead with the older segmentations .__c2
+__s__uhhuh .__c9
+__b__right .__c9
+__fh__and um ==__c2
+__s^cs__and we were going to use one of the p z m's .__c2
+__s^bk__i don- - i don't know what ==__c2
+__s^bk__probably whatever one you've been using for - for - for the digits .__c2
+__s^df__i think it's that one .__c0
+__s__right ?__c0
+__s__is it this one ?__c2
+__qw__it's e- - f .__c1
+__b__f .__c0
+__fh__yeah | that's it .__c0
+__fh__i - i'd - which ==__c2
+__s__that's f ?__c2
+__fh__how do you know ?__c2
+__s^no__that's f .__c0
+__fh__it's the second nearest the machine room .__c0
+__s^df__oh .__c2
+__s^df__bien sur ==__c2
+__fh__all right so ==__c2
+__s__bet they'll have fun with that one .__c2
+__fh__okay so .__c2
+__b__uh ==__c2
+__fh__okay so uh | i just want to make sure i understand what we need to run .__c0
+__fg__um ==__c0
+__fh__let's see .__c0
+__s__so it's ==__c0
+__s^bu__okay so if we're talking about ==__c0
+__qy^rt__let's - let's assume that we're going to use the new segmentations .__c0
+__%--__we need to um run recognition o- - just looking at the no overlap column .__c0
+__s__basically we have to d- - r- - do recognitions for all three of those cases .__c0
+__s^co.%__right ?__c0
+__s__uhhuh .__c2
+__s__right .__c2
+__s^bk__um because we're going to be using the - just the male uh model .__c0
+__fh__short training set for the male .__c0
+__s__uhhuh .__c9
+__s^bk__so we need to have results for all three of those .__c0
+__fh__even though we have ==__c0
+__fh|qw__ma- - maybe you should limit ourselves to the meeting recorder meetings .__c9
+__s^df__okay .__c0
+__qy^rt__um ==__c9
+__s^e^rt__if you were going to cut down on the test set i would suggest that .__c9
+__qrr.%--__well | maybe .__c2
+__qy^bu^d^rt__but i - i mean how long does it take for the test ?__c2
+__qrr.%--__actually the longer - the robustness meetings take longer .__c9
+__s^ar__because there's this one speaker who talks a lot .__c9
+__s^nd__and so ==__c9
+__s^bk__the um ==__c9
+__%--__no it's because for all the for the adaptation and normalization steps you cannot ==__c9
+__s__you have to d- - you have to uh um ==__c9
+__s^df.%--__you cannot chop it up into small pieces .__c9
+__qy^g^rt__so you're sort of limited by how long the longest speaker uh is s- - speaking .__c9
+__s^bk__so how much data there is from the - the speaker who talks the most .__c9
+__%--__so um you parallelize across different speakers .__c9
+__s^bk__uhhuh .__c0
+__s^ng__but you know if you have a bunch of speakers who speak very little and then one wh- - who - who speaks a lot then effectively everybody waits for the longest one to process .__c9
+__fh__right .__c2
+__s__right .__c0
+__b__yeah .__c0
+__%--__bu- - but what - what was your result for - uh that we had at the h l t ?__c2
+__s__so ==__c9
+__s^df__was that a combination of me ?__c2
+__s^df__that was both types of meetings .__c9
+__s^df__but most - but there were only two robustness meetings and four or five uh meeting recorders .__c9
+__s^df__and if we're re doing the baseline anyways it - it - it would be okay .__c0
+__s^df__right .__c9
+__b__to - to just limit ourselves to a smaller ==__c0
+__s__how long would it take to run recognition if we did that ?__c0
+__fh__oh .__c9
+__s^df__uh i - i ==__c9
+__fh__i don't have - i don't have a good gue- ==__c9
+__%__i mean is - is it like a day or is it a few hours or ?==__c0
+__s__roughly .__c0
+__s__for everything ?__c9
+__s^bd__for all the meetings ?__c9
+__s__for ==__c0
+__s^aa__yeah | let's say we just did the meeting recorder meetings for our test set .__c0
+__s__uh ==__c9
+__s^df__um ==__c9
+__s.%-__it's probably more than a day .__c9
+__s^ar|s.%--__but probably less than two .__c9
+__s^e__oh really ?__c0
+__s^df__i didn't realize each test took that long .__c0
+__s^bk__well i- - no i mean for all the meetings .__c9
+__%-__because it's again it's ==__c9
+__s__um ==__c9
+__%__so you were doing like ==__c2
+__b__so each meeting - each meetings takes uh something like ==__c9
+__s__again we - we - i ran - when we ran these we were sort of short on machines .__c9
+__s__and um ==__c9
+__b__uhhuh .__c0
+__%--__i don't know .__c9
+__qy^d^g^rt__i - i would estimate maybe four hours per meeting .__c9
+__s^aa__something like that .__c9
+__s^bk__four hours per meeting .__c0
+__s__right .__c9
+__s^aa__wow !__c0
+__fh__yeah | but if you so if you do half a dozen meetings that's - that's about a day .__c2
+__s^bk__we also have more machines now .__c2
+__s^bk__right right | so that's why i'm saying i'm not sure how they would scale with more machines .__c9
+__s__well ==__c2
+__s^df__yeah .__c2
+__s__yeah .__c2
+__%--__i mean if we had about six - a six hour test set's not bad .__c2
+__%--__right ?__c2
+__s__right .__c9
+__s__s- - six hour test set .__c0
+__qw__six meetings | okay .__c0
+__s__you know ?__c2
+__s__right ?__c2
+__s__i mean a lot of the evaluations have been ==__c2
+__b__yeah we did .__c4
+__s^bk__we have m r ==__c9
+__s^bk__two th- - we have two three four fi- ==__c9
+__s^bk__i think there are four meeting recorder meetings that we worked with .__c9
+__s__four that you worked with ?__c2
+__s^bk|s__i think it's ==__c4
+__%-__is it the same set as the alignments ?__c4
+__s__yeah .__c9
+__b__i think it's five meeting recorder meetings .__c4
+__b__five ?__c9
+__s.%--__okay .__c9
+__s^bk__that would be okay too .__c2
+__s^bk^r__i mean i'm i- ==__c2
+__s^bk__so if they have a set that they worked with ==__c2
+__s:qw__and you - you got ==__c2
+__s^bk__did you do similarly in performance between them and the other meetings ?__c2
+__b__or was it ?==__c2
+__s__uh | with the robust- - compared to robustness ?__c9
+__b__yeah .__c9
+__s__the big variation is by - whether it's a native speaker or not .__c9
+__s__yeah .__c2
+__b__and whether it's um ==__c9
+__s.%--__uh i think that's the o- - actually ==__c9
+__fg__and - and of course what um you know whether it's lapel or uh headset microphone .__c9
+__s^bk__and overlap or not .__c2
+__s.%--__yeah .__c9
+__s.%--__yeah .__c2
+__s__so maybe just with the - the - the meeting recorder set of the de- - th- - that you did before .__c2
+__s^bk__and we can exclude - we don't need to recognize the non natives .__c9
+__fh__because we know that ==__c9
+__s^aa__i mean in fact we excluded them previously from ==__c9
+__fh|s__yeah | so we want to do the same - same thing .__c2
+__s^ba__right .__c9
+__s^df__okay so - all right | so if we got a list of the uh segmentations for these five meeting recorder meetings we could start uh the first two experiments going right away using the short male models .__c0
+__s__uhhuh .__c9
+__s__so you could get those going while dave is um creating waveforms for the r- - re training the short male models .__c0
+__s.%--__yeah | once we know which segmentations we're using .__c2
+__s^df__yeah .__c2
+__s^bk__right | okay okay .__c0
+__s__and then ==__c0
+__s^bk__okay | so do we w- - also want to run that bottom experiment without re training the short male models on his thing ?__c0
+__s__did you want that ?__c0
+__%__or ?==__c0
+__s^bk__um | i - i agree that that would be an interesting thing to do .__c2
+__b__but i sort of regard it as secondary .__c2
+__s^bk__okay | so we'll save that .__c0
+__fh__so if there's sort of machines sitting around and people sitting around and they're waiting for other things to finish then sure .__c2
+__s__but ==__c2
+__s^e__uh chuck had been asking about that earlier as kind of a control to know um ==__c2
+__s__because i mean you could imagine a fantasy in which you said that dave's processing made the uh far microphone like the near microphone .__c2
+__b__in which case you shouldn't have to actually re train .__c2
+__s^aa__uhhuh .__c9
+__fh__but it's - it's not really true .__c2
+__s^bu^cs__it's - it's sort of fantasy .__c2
+__s^aa__it does - it does muck up the data in - in some funny ways .__c2
+__s^aa^r__uhhuh .__c9
+__s^bk__and so ==__c2
+__s^aa^r__i'm - i'm kind of questioning that .__c2
+__s^cs__well i- - it ==__c0
+__s.%--__but - but ==__c2
+__s^bk^m__well on a more basic level also it means that - that third experiment there are actually two differences between the other experiments .__c0
+__qy^bu^d^rt__not one .__c0
+__b__right .__c2
+__s^aa|s^na__so it's hard to know ==__c0
+__s.%--__it involves re training and it involves a ==__c2
+__fh__right .__c0
+__s__uh that's right .__c2
+__fh|s__i mean the other thing which - which it might come in to is if there was some problem in the re training .__c2
+__s.%--__i mean maybe you'd just have some mechanical thing we do wrong .__c2
+__s^cs^r__uhhuh .__c0
+__s.%--__uh that uh - since dave's experience was that it didn't help as much if you didn't re train but it does help some that we would hopefully see that .__c2
+__fh__right .__c0
+__s^no__uhhuh .__c0
+__s__so that - that's - that's true .__c2
+__b__wait did ?==__c9
+__s^bk__i- - i- ==__c2
+__%-__so when you used original - the original models and you just process the test set in this way d- - do you get any do you get decent performance or not ?__c9
+__s^df.%--__i - i - i think um for the far mike h t k system i was using it did help somewhat .__c1
+__b__uhhuh .__c9
+__s__i could re check that .__c1
+__s^e__but it was such a bad baseline that i don't know what that means .__c1
+__b__uhhuh .__c9
+__b__right .__c9
+__s__right .__c9
+__b__okay .__c9
+__s__because the baseline word error rate was around forty percent on digits .__c1
+__b__uhhuh .__c9
+__s^bk__on the far field ?__c0
+__fh__right .__c1
+__b__right so ==__c2
+__s__okay | well i'll - i can get started on the ==__c9
+__s^bk__well the first the one that already has a ==__c9
+__qy^co^rt^tc__cross there .__c9
+__s^aa__we need to re do that with small models .__c9
+__s^aa__right ?__c9
+__fh|s^rt__yeah .__c2
+__fh|s__and then have to ask um i guess don to uh cut the um cut the segments for the sh- - for the tis- - distant mike .__c9
+__s__uh uh - that's so we would be using the same channel for each - fo- - for everything ?__c9
+__fh__yeah .__c2
+__fh|qy__uhhuh .__c0
+__s^na__okay .__c9
+__s^na__so ==__c9
+__s^bk__i mean do you ha- - do you have to rely on his segmentations at all to do the top one ?__c2
+__fh__no no | we would use the same segmentations .__c9
+__s__but he needs to extract - extract the wavef- - form segments from a different channel .__c9
+__fh|s__oh okay .__c2
+__fh|s^df__got it .__c2
+__fh__right .__c9
+__fh__so when you said you were going to start that top one were you going to use the new segmentations ?__c0
+__s__uhhuh .__c9
+__fh|s__um | yeah .__c9
+__fh|s__okay .__c0
+__fh__if - assuming that the performance turns out to be comparable with with the old experiments and the old segmentations .__c9
+__s__right okay .__c0
+__s^bu|qy^d^g^rt__now there's the issue of ==__c9
+__fh__oh okay | so there's the issue of speaker normalization .__c9
+__s^na__so with the distant microphone you wouldn't know which speaker is talking .__c9
+__fh__right ?__c9
+__s^bu__can we ?==__c0
+__fh__we - we talked about this before .__c2
+__s^bk|s^na__i think what we were saying was that um the very fact that in both cases we're ignoring the overlap section means that um uh we're to some extent finessing that .__c2
+__s^bk__so um ==__c2
+__%__i think for the purposes of just determining whether a far field microphone uh what the effect of the far field microphone is we should do the same to both .__c2
+__qy__uhhuh .__c9
+__qrr.%--__i see | so you want to cheat ?__c9
+__s^aa__i mean ==__c2
+__s^aa^r__we want to i- - incorporate certain data that would not be available during final tests uh under a - a full fair test of it much as we are in the - all the numbers that we have so far .__c2
+__s^na__okay so | we assume - we assume knowledge of the speakers as - as um - in a way that's compatible with the close talking - test set .__c9
+__qy^rt__oops !__c4
+__s^aa__yeah .__c2
+__s^e__we - we simply want to determine what's the difference in performance due to being distant versus close .__c2
+__s^aa__okay .__c9
+__s^bk__oh okay .__c9
+__s^ft__so | does that mean you turn off speaker normalization when you run it or you just let it do what it would do an- ?==__c0
+__fh__no | it means - no it just means ==__c9
+__qy^rt__you - you group together the segments that by magic you know belong to one speaker .__c9
+__x__and - and treat ==__c9
+__s^na__i mean to a lesser extent you had that same magic the other way too .__c2
+__s^bk__because you have leakage into other microphones .__c2
+__fg__right ?__c2
+__fh__but it's just you're using the fact that this is where this person is .__c2
+__s^tc__right .__c9
+__s__right .__c9
+__qy^rt__right ?__c2
+__b__so ==__c2
+__fh__but um ==__c9
+__qy^co^rt__it's just easier to do .__c2
+__s__well in the new test actually that's not true .__c9
+__s^aa__so | again if this - if these new segmentations work okay then we - then it's a fair it's a completely fair test .__c9
+__s^ng__yeah .__c2
+__fh__so how do you determine what you use to group together to be a - a ?==__c2
+__s.%--__you group together all the data coming in through one channel .__c9
+__fh__and where thilo's speech detector has - has determined that there is speech .__c9
+__s__and that speech is - is deemed to come from that speaker whether that's true or not .__c9
+__s^e__so if you get some cross talk from another microphone then you just process this - it as if it were from that speaker .__c9
+__fh|s.%--__the only other alternative would be to turn off speaker adaptation in both .__c2
+__s.%--__well that's more of a problem .__c9
+__s__i mean because it's - you can just pretend it's some kind of gene- ==__c9
+__s__i mean you can pretend it's all from one speaker .__c9
+__s__and do all this processing the same .__c9
+__s__but then you're going to get results that are worse on account of not doing proper speaker normalization .__c9
+__fh|s.%--__uhhuh .__c2
+__s__and you're going to have ==__c9
+__s__so you could certainly do better than that by doing for instance - uh cluster the segments .__c9
+__s.%--__which is what we do say in a broadcast news system where you don't have speaker labels .__c9
+__s.%--__but that would be another processing step that i'm - i would have to debug first and so forth .__c9
+__s^e__uhhuh .__c0
+__s__and so we want to avoid that .__c9
+__s^df__so i agree with you we should we should uh do the you know this sort of cheating experiment .__c9
+__fh|s__okay .__c2
+__s__yeah | an- - and e- - so that will tell us what the difference it between the mikes .__c2
+__s.%--__and then uh in order to ==__c2
+__fh|s__the - the other difference that we'd have to take care of is that ==__c2
+__fh__uh - | yeah we - we don't have a mike that uh is particular to a person .__c2
+__s__and so we'll have to do some clustering .__c2
+__fh__and that'll be another another uh issue too .__c2
+__fg|s__uhhuh .__c9
+__fh__but it - it - i could be wrong .__c2
+__s^bk__but it seems to me that - that the speaker ==__c2
+__s__the - the level of degradation that you get from having the distant mike in a normal acoustic is much greater than what you get from say not applying speaker adaptation or applying speaker adaptation .__c2
+__b__uhhuh .__c9
+__s__i think that the ==__c2
+__b__i mean we'll see .__c2
+__b__but - but i think that the kind of gains that we've seen from speaker adaptation on hub five sort of things are like a few percent .__c2
+__b__right ?__c2
+__fh__and ==__c2
+__s__it's not just speaker adaptation .__c9
+__b__it's the whole norm- - feature normalization process .__c9
+__s__i- - it's spea- - uh all that is speaker based .__c9
+__s__you know so we ==__c9
+__b__so in that i'm ==__c9
+__s__um ==__c9
+__s__y- - you know d- - d- - b- - the most important of course is the cepstral mean subtraction .__c9
+__fh__yeah .__c2
+__s__and that ==__c9
+__b__i don't know if we ==__c9
+__fh__we never really ==__c9
+__fh__i don't remember ==__c9
+__s__because it's so far - s- - so long ago that we didn't do that on a per speaker basis .__c9
+__s^e__it doesn't make that much difference i think .__c2
+__s^e__but ==__c9
+__fh__i would doubt that it would be a huge amount of difference for that .__c2
+__fh__so i mean i - i think that that difference would definitely be marginal .__c2
+__s__i think the main thing is to do something .__c2
+__s__to do some cepstral mean subtraction on some level .__c2
+__s__and uh | so what's different about this processing is just that we're doing it at a much longer time scale .__c2
+__fh__uhhuh .__c0
+__%--__uhhuh .__c9
+__s__right ?__c2
+__s^bk__but um ==__c2
+__s^bk__a- - and by the way ==__c9
+__s__what wo- ==__c1
+__s^e__it's - actually we're - we're already - if we use the same segmentations that we use for the close talking microphone then the segmentations assume that we have access to all channels .__c9
+__s__and cross correlate them .__c9
+__s__that's right .__c2
+__qy.%--__so there's no point in not using that knowledge for speaker identification .__c9
+__%__yeah .__c2
+__s.%-__uhhuh .__c0
+__qy^rt__uh i- - i think also for the log spectral mean subtraction uh we want to know which speaker's talking when .__c1
+__s^aa__yeah .__c2
+__s^aa__because we want to chain together the audio from one particular speaker to calculate the mean .__c1
+__s^df__yeah .__c9
+__s^bu__and subtract it .__c1
+__s^aa__and we don't ==__c1
+__s^aa^r__right .__c9
+__s__right .__c2
+__s__okay .__c9
+__s^bu__um | yeah i guess .__c2
+__s^aa__but um ==__c2
+__qy^d^g^rt__i also think that a- - again once we got into it that um using some kind of clustering would probably work reasonably well there too .__c2
+__s__certainly for the - the two microphone case ==__c2
+__s^aa__which we're not going to mess with because it's another whole deal with the low quality microphones .__c2
+__s__um ==__c2
+__s^aa__we ought to be able to at least tell that it appears that things are coming from a particular direction .__c2
+__s__uhhuh .__c1
+__fg|s__so we ought to be able to use that information um as well .__c2
+__s^df__but i think we might be able to do not too bad a job of separating out sp- - uh segments that appear to come from a single speaker .__c2
+__s.%--__both in terms of s- - acoustic similarity and in terms of direction .__c2
+__s__so i mean - but that's another research thing to do .__c2
+__fg|s__and probably won't get done the next week .__c2
+__s^bk__right | so what - what is the schedule here ?__c9
+__b__well i mean i'm - i'm leaving for for the uh the new orleans meeting uh next saturday .__c2
+__s__and - and um ==__c2
+__b__uhhuh .__c9
+__s__it'd be kind of nice to have some results at least a day or two before that so that i could figure out what i wanted to say about it .__c2
+__b__uhhuh .__c9
+__s__oh | we'll call you when you get there .__c9
+__s^bk__you'll have email ?__c0
+__b.%__right ?__c0
+__s__yeah .__c2
+__s^bk__uh not to mention that - that uh mari's putting together this report next week too you know .__c2
+__s^e__uhhuh .__c9
+__s^bk__so uh ==__c2
+__b__what we were hoping was that over the weekend we could do uh the um calculation on the training set .__c2
+__s^bk__uhhuh .__c9
+__fh__and uh ==__c2
+__qy^bu^d^rt__uh maybe you know we could by the end of the weekend we could have the top one .__c2
+__s^aa__and - and then early next week do these .__c2
+__qy^bu^d^rt__uhhuh .__c9
+__s^aa^r__if we had enough machines maybe do them in parallel .__c2
+__s^bk__uhhuh .__c9
+__qrr.%--__so that by the middle of the week we had s- - had some kind of result .__c2
+__s^bk__i mean it's - it's one of these hail mary kinds of things .__c2
+__s__i mean it ==__c2
+__s^na__it uh might - might not work out .__c2
+__s^na__uhhuh .__c9
+__b__but uh f- - figured i may as well ask for it .__c2
+__b__okay .__c9
+__qw__i'll ask ==__c9
+__%__so ==__c0
+__qy^bu^d^rt__the other thing is um ==__c9
+__s^bk__and i'll ask don which is easier to process in terms of creating these .__c9
+__s__the - the test data for the far - far microphone .__c9
+__s__if - if it turns out that for some reason it's easier for him to use the old - um the - the - the old ==__c9
+__s^ar__uh ==__c9
+__s^ng__segmentation .__c0
+__s^ng__segmentations | then we'll just use that i figure .__c9
+__s^fa__right .__c2
+__s^ng.%--__um ==__c9
+__fg__s- - so um ==__c0
+__s__i don't want you to have to be burdened with doing a lot of stuff .__c0
+__s__what - what can i do to ?==__c0
+__fh__y- - y- - you said it would be easy for you to do that top one there .__c0
+__s__and i guess don can do the segmentations of the uh channel f .__c0
+__s__uhhuh .__c9
+__s^bk__um ==__c9
+__s__i mean i can certainly help with uh re training the short male models .__c0
+__b__right .__c9
+__%--__uh once we have the new data .__c0
+__s.%--__you have models of short males ?__c2
+__s^2__yeah .__c9
+__s^2__um right uh let's see the - the ==__c9
+__b__you - you can - i mean you could - you could you could run the ==__c9
+__s__um ==__c9
+__%-__you c- - basically once the um whe- - the top - the top one's done you could easily re run the whole set of experiments .__c9
+__%-__the top one is done i c- ==__c0
+__qy^bu^d^rt__i can re do the next one .__c0
+__s^aa__yeah .__c0
+__s^bk__uhhuh .__c0
+__s^bs__uh i mean manage the jobs and so forth .__c9
+__s^bk__yeah sure .__c0
+__s^aa__uh um ==__c9
+__s^bk__yeah | the the bottom one would b- - just be a matter of pointing it at a new set of files and kicking it off .__c0
+__s__that's all ==__c9
+__b__so that would be re- ==__c0
+__s__i mean th- - not the bottom one .__c0
+__s^bk__but the middle one ==__c0
+__s.%-__uhhuh .__c9
+__s.%-__would be really easy once you've got the top one going .__c0
+__s^2__yeah .__c9
+__s__i could do that .__c0
+__b__right .__c9
+__b__okay | so i guess i just need to get don to uh ==__c0
+__s^bk__right | so somehow the ==__c9
+__fg__assuming he uses the new naming scheme then he should call the waveforms ==__c9
+__fg__the - so the waveform names have the you know meeting - meeting i d .__c9
+__fg__and the microphone .__c9
+__s__and the um ==__c9
+__s^e__i guess the channel and the microphone and the speaker um speaker ==__c9
+__fh__some- - something that identifies the speaker .__c9
+__s__uhhuh .__c0
+__s^e__so ==__c9
+__s^df__to keep it the same but j- - just change them all to channel f ?__c0
+__s__exactly | so uh - well you still need to be able to distinguish the different speakers .__c9
+__b__that's the key point .__c9
+__b__right right .__c0
+__fh__because if we want to do what we just discussed ==__c9
+__qy^bu^d__so uh uh the - the best - the easiest way to do that would be to just take you know you make the channel be channel f .__c9
+__s^aa__yeah .__c0
+__s__but then keep the speaker names the same as they would be in the old in the close talking uh version .__c9
+__s^e__yeah .__c0
+__s^co__okay .__c0
+__qw^br^d^rt__okay .__c0
+__s__okay .__c0
+__s^e__and so that's something that don would do .__c0
+__s__right ?__c0
+__s^e|qy^d^g^rt__when he creates these .__c0
+__s^aa__right exactly .__c9
+__s^bk__okay okay .__c0
+__s__so will you talk to him about that ?__c0
+__s^ng__or do you want me to talk to him ?__c0
+__s^e^ng__i uh i - i can talk to him .__c9
+__s^aa__okay .__c0
+__s^na__and then the bottom one in terms of the test will be ==__c0
+__fh__uh ==__c0
+__fh__that will just be a copy of the one above it except for different models from training .__c0
+__b__well we also have to mean subtract the test data .__c1
+__fh__uh okay .__c0
+__s.%--__so we need to run ==__c0
+__s__okay .__c0
+__%-__well once we have the new uh ==__c0
+__b__well once i do that uh second experiment we'll have the um files .__c0
+__s__and i can give you those to - to process .__c0
+__s.%-__okay .__c1
+__s^aa__and there's um ==__c1
+__s^na__s- - so the way this means subtraction expects to work is it expects to have um this continuous stream of audio data from a particular speaker to operate on .__c1
+__s__and it goes along it with this sliding window calculating the mean using the data in the window .__c1
+__b__and then subtracting that .__c1
+__b__so do you create this continuous stream from the individual utterance files ?__c0
+__s__i mean uh ==__c1
+__s.%-__that's - that's how i've been doing it .__c1
+__s^aa__just by concatenating files together .__c1
+__s^aa^r__uhhuh .__c9
+__fh__um and if these files - and the- ==__c1
+__s^aa^r__since they're individual utterance files um s- - long silence periods are removed .__c1
+__b__which is a good thing .__c1
+__s^aa^r__because this method might estimate the mean badly if it had to face long silence periods .__c1
+__s^na__but that does mean that i need as much i need twice as much disk space as the original set .__c1
+__s^e^na__because i need - while i'm running it - because i need to create this intermediate set um of these big files .__c1
+__s__uhhuh .__c9
+__qy^cs^d^rt__yeah .__c0
+__fh__and then create the - finally the mean subtracted um little files .__c1
+__s^e__and then i can get rid of the big files .__c1
+__fg__but st- - while i'm doing the processing i'll nee- - i need twice as much disk space .__c1
+__fg__okay | i'm going to - i'll check with um markham .__c0
+__s__and see what happened with the - the disks .__c0
+__fh__he went to put those on a couple of weeks ago .__c0
+__s.%--__and something ==__c0
+__fg__i think markham's out on vacation .__c2
+__s__i think che- - check with dave .__c2
+__s^df__oh okay | i'll ask david then .__c0
+__s__yeah .__c4
+__s^e__yeah .__c2
+__s^df__you haven't seen new disks pop up ?__c0
+__fh__have you ?__c0
+__s.%--__nope .__c4
+__fh__i was wondering if they were in .__c4
+__%--__okay .__c0
+__%--__yeah .__c0
+__s__well they grow them on trees now .__c9
+__s^aa__i thought they were like mushrooms .__c2
+__s__well he went to put them on ==__c0
+__b__just you shake them and they fall down .__c9
+__b__they're popping up .__c2
+__s^aa__yeah .__c0
+__s.%--__he went to put them on and then something happened .__c0
+__fg|s__and he sent around a note saying oh uh it didn't work and we'll have to schedule another time .__c0
+__s^df__yeah .__c4
+__s^df__yeah .__c4
+__b__something w- - went wrong .__c4
+__s__and then ==__c0
+__s__didn't see ==__c0
+__s__nothing happened .__c4
+__b__nothing happened .__c0
+__b__no yeah .__c4
+__s^bk|s^ba__so ==__c0
+__fh__i'll check with david about that .__c0
+__fh__okay .__c0
+__s^cs__okay .__c9
+__s^bk__yeah .__c2
+__s.%--__because we still all have tha- - the - that other one going .__c2
+__s__which is the uh - the macrophone training .__c2
+__s^df.%--__right .__c1
+__s^df__an- - and ==__c1
+__b__so - so andreas um ==__c1
+__fh|s__uhhuh .__c9
+__s^df__in u doctor speech data s r i hub five there's this uh hub five training set .__c1
+__b.%__uhhuh .__c9
+__fh__now is that the long training set there ?__c1
+__b.%__uhhuh .__c9
+__b.%__uhhuh .__c9
+__s__that's everything | yeah .__c9
+__fh__okay .__c1
+__b__so ==__c9
+__fg__so i can give you a list of the short version .__c9
+__s^bk__okay | i th- - i think you already did actually .__c1
+__s|qy^d^g__so you can ==__c9
+__b__oh okay .__c9
+__s^aa__okay | and so say the macrophone files that are included in this short training are just a subset of the macrophone files .__c1
+__b__right ?__c1
+__s^aa__that's right .__c9
+__s__okay .__c1
+__s__so - so um - when you - you did some t i digits t- - t- - experiments training on macrophone .__c1
+__s^bk__yeah .__c9
+__fh__um ==__c1
+__fg|s__but that's not necessarily any less data than the s r i hub five ==__c1
+__b__set it's not a - it's not a subset of the short s r i hu- - hub five set .__c1
+__fh__right ?__c1
+__s__um ==__c9
+__s__wel- - no it is .__c9
+__s^df__th- - the ==__c9
+__s.%--__sorry .__c9
+__fh__um can you repeat the question ?__c9
+__s^cs__uh whe- - when you trained on macrophone um to do those digits experiments did you use the entire macrophone corpus ?__c1
+__s^cs__there wa- - it is a subse- ==__c9
+__b__yeah .__c9
+__s__no | only the portion that was in the hub five training set .__c9
+__s__oh okay .__c1
+__b__that was in the hub five small training set ?__c2
+__s^e__well the hub five small training set contains as much macrophone as the large training set for historical reasons .__c9
+__s.%--__yes .__c2
+__qy^t3__yeah .__c9
+__s^bk^t3__okay- - okay .__c1
+__s.%--__so um ==__c1
+__fh|s.%--__so do you have that processed there then .__c9
+__s__right ?__c9
+__fh__because you already did - did y- - didn't you already do that experiment ?__c9
+__s^am__i - i got confused .__c1
+__s__because i thought - i thought you were using the whole macrophone set .__c1
+__s__uhhuh .__c9
+__s__no .__c9
+__s__um okay .__c1
+__b__well if - if - if i just need to use that subset i - i can get it processed .__c1
+__s__i actually got i think i got f- - into it before .__c1
+__s__and then i thought i was doing the wrong thing .__c1
+__fh|s.%--__uhhuh .__c9
+__s__and i stopped .__c1
+__fh__and it shouldn- - it shouldn't take that long to do .__c1
+__s^e__okay .__c9
+__s__right .__c9
+__s__okay .__c2
+__s__and you need only the males .__c9
+__s__so ==__c9
+__b__oh okay .__c1
+__s^aa__so basically dave so y- - for you to get your processing going you need the list of the uh wave- ==__c0
+__s^aa__well i guess it'll dep- ==__c0
+__s__you'll - you'll - we'll need to get the segmentations .__c0
+__%__yeah .__c1
+__s^ft^t3__figure out whether we're using the new or the old from don .__c0
+__s^bk__uhhuh .__c9
+__s^aa__and then ==__c0
+__%--__uh ==__c0
+__fh__from that you need the - from the segmentations you'll have the list of wavefiles that the short uh set is trained on .__c0
+__fh__and then you'll need disk space .__c0
+__s__and once you've got those things then you can start your processing .__c0
+__s^df__right ?__c0
+__s^e__yeah .__c1
+__b__okay .__c0
+__fh__does this - th- - this ?==__c9
+__fh__it- - it's sort of - f- - f- - not very nice to use the small training set for another reason .__c9
+__fh__which is that the you also are losing on again because you don't use all the data you have for one speaker .__c9
+__s^rt__so the normalizations you compute for your training speakers will be uh crummier than they would in the large training set .__c9
+__s__so um i have to - so to make it really a matching experiment i have to find ==__c9
+__b__uh i have to use short models that were trained on normalizations that were also only estimated on the short set .__c9
+__s__which is uh ==__c9
+__fh__do you have this uh ?==__c0
+__s^cs__i think so .__c9
+__b__i've - i - i have to check .__c9
+__b__in any case i could re train short models within a few hours actually at - if i use machines at s r i .__c9
+__s^df__i wonder about that though .__c2
+__b__uhhuh .__c9
+__b__i mean because all we're doing - the only reason we're using the short training set is - is for speed .__c2
+__fg__and there - we're not really making any claims about using a smaller training set .__c2
+__%--__yeah .__c9
+__s^cs.%--__so as long as we're not using any testing data from ==__c2
+__s__no but the thing is if - if we used if we used the whole training set for normalizations then david would have to process much more data .__c9
+__%__yeah .__c2
+__%--__which - that's a - that's one bottleneck for us .__c9
+__s^cs__right ?__c9
+__b__in terms of get- ==__c9
+__b__oh | you mean for - for his normalizations .__c2
+__s__yeah .__c9
+__s.%-__oh oh oh | i'm sorry .__c2
+__s^bk|s__right .__c9
+__s^bk__so you want to do the exact same thing .__c9
+__b__right .__c2
+__s^e__or else you'll have apples and oranges .__c9
+__s^df__yeah .__c2
+__qy^bu__so ==__c9
+__s^e__it doesn't make - i don't think it makes that much of a difference .__c9
+__s^df__it's just this little detail that if you can take care of that then you should .__c9
+__b__uhhuh .__c2
+__fh__i - i think i have - i have the models .__c9
+__fh__i have - i have ==__c9
+__s^cs__um ==__c9
+__s|qy^d^g^rt__let's see um ==__c9
+__b__yeah | and if not i can re train those models very quickly .__c9
+__s^aa__oh | there's - there's one other issue .__c0
+__s.%--__uh and that is that dave throws out speakers that have less than twelve seconds of training data .__c0
+__fh__and he said there were a few in the macrophone set like that .__c0
+__s__so do we need to wait to find out who he's going to throw out ?__c0
+__s__so that we create a new set of short models that don't include those speakers .__c0
+__b__uh ==__c9
+__fh__say this again .__c2
+__s^bk__sorry | i missed it .__c2
+__s__so i- - in th- - the problem is that if we proceed like we just described um when he goes to m- - um create the new s- - training data with his processing he throws out some speakers .__c0
+__b__so the t- - two training sets won't be identical .__c0
+__s__yeah .__c9
+__s__he throws out some speakers that are - that are very small .__c2
+__b__yeah | have just a little bit .__c0
+__b__yeah | i don't think it'll make a - matter .__c9
+__s^aa__yeah | i think there was only a few ==__c2
+__s^aa__okay .__c0
+__%-__we thought to be the case .__c2
+__s__in fact i thought about throwing those out too .__c9
+__b__righ- ?==__c2
+__b__because when i heard how little speech there was for some of them i thought they can only hurt your models .__c9
+__fh__because they're again their normalizations will be all - all - all over the map .__c9
+__fh__yeah .__c0
+__s^cs__right .__c2
+__b__and you won't get very - very clean models from them anyhow .__c9
+__s^df__so ==__c9
+__s^aa__so you think it's okay then ?__c0
+__b__yeah .__c9
+__s.%--__in fact if - if you want to do this uh to speed things up um you - we can leave out the macrophone data altogether .__c9
+__s^cs^j__that hurt ==__c9
+__%-__actually ==__c9
+__b__oh no sorry .__c9
+__%__not in the short .__c9
+__s__then you have too little data .__c9
+__s|qy^d^g^rt__okay .__c9
+__s|qy^d^g__sorry | forget that .__c9
+__s^bk__um ==__c9
+__b__when you use - when you go to the large training set then leaving out macrophone actually sometimes helps you .__c9
+__s^aa__because it's it- - it's just not relevant to the to the meeting and - or to conversational speech anyway .__c9
+__s^na__it's read .__c0
+__s^aa__okay .__c9
+__s^aa__yeah leave it out .__c9
+__fh__and um in the event that i re train the short models ==__c9
+__s^no__um why don't you give me a list of the files that you throw out ?__c9
+__s__and i - i'll throw them out too .__c9
+__qy^d__right .__c1
+__fh__and then we have complete - completely identical training conditions .__c9
+__s^bk__we sh- - m- ==__c0
+__b__right .__c0
+__b__a- - actually you should be able to figure out dave .__c0
+__s.%--__right ?__c0
+__s^df^na^rt__once you know the segmentations uh who you're going to which speakers will get left out even before you run your processing .__c0
+__s^aa__uhhuh .__c1
+__s^df__right ?__c0
+__s^df__the segmentations ?__c1
+__s^df__yeah | the segmentations from don .__c0
+__fh__but th- - the segmentations are only they only affect the test set .__c9
+__%-__once we ?==__c0
+__s^aa__oh .__c1
+__s__we're talking about the training speakers .__c9
+__s^aa__uh right right right right right .__c0
+__s__no the training set he could go through right now and see how - how long the ==__c2
+__qr^d__right .__c9
+__s^ar__right | but i'm just wondering how long it will take to get that information .__c0
+__s__um ==__c1
+__%--__he already has the in- - you already have the information .__c9
+__s^aa__i - i have i- - i have it for - for macrophone um already i think .__c1
+__s^bk__right ?__c9
+__b__and um i think by tomorrow i'll have it for th- - for the rest .__c1
+__s^df__uhhuh .__c9
+__b__okay all right .__c9
+__qy^d^g__okay .__c0
+__s^e__okay .__c9
+__s^e__at that one maybe .__c2
+__s.%--__uh ==__c2
+__s.%--__been looking at synthesizers ?__c2
+__s^e__synthesizers ?__c4
+__fh__you were looking at festival .__c2
+__s^ar|s__yeah yeah | i was doing something for the smartkom data collectioners .__c4
+__s^aa__yeah .__c2
+__s__robert has taken his laptop t- - back to germany so we needed a new synthesis machine .__c4
+__%-__and we have now a sun workstation in the library which does the synthesis .__c4
+__s.%-__and the festival speech s- - s- - system is running on ==__c4
+__s__sorry | robert did what ?__c0
+__fh__robert took what ?__c0
+__s^aa__his laptop where uh which we used for the smartkom data collection for the synthesis .__c4
+__s__uhhuh .__c0
+__s^bk__and so he took it to germany .__c4
+__s__and so we couldn't do any data collection .__c4
+__s^bk|s^ng__oh .__c0
+__b__is he gone now ?__c0
+__b__uh ==__c4
+__s__no | he's just gone to a smartkom workshop .__c4
+__s__oh oh oh oh okay .__c0
+__fh__and so we have now the sun in the library which can do that .__c4
+__b__uhhuh .__c0
+__s^df__and i looked into the ts- - f zero thing and talked to to liz .__c4
+__b__and it seems that it's quite s- - what she wants .__c4
+__s^df__but we'll have to think about the - the energy thing .__c4
+__fh__uh what we want to do .__c4
+__b__right .__c2
+__s__this was a business about uh um coming up with something that - that was purely prosodic .__c2
+__%__uhhuh .__c9
+__s^df__and so uh we're just going to use a pitch detector .__c2
+__b__drive a synthesizer .__c2
+__s^2__and since it doesn't have a hook in it for uh modifying energy we'll have a little box at the output that'll modify the energy .__c2
+__s^2__so ==__c2
+__%-__uhhuh .__c9
+__fh__uhhuh .__c0
+__fh__okay .__c9
+__%__so rrrrr rrrrm .__c2
+__s^bu__something like that .__c2
+__qy^d^g^rt__are you - are you interfacing to that thing with the c plus plus routines ?__c0
+__s^aa__or are you - is there another interface that you use ?__c0
+__b__for w- - for festival ?__c4
+__%--__yeah .__c0
+__s^am__uh you can just use it from the ==__c4
+__qy^rt__yeah basically from the command line .__c4
+__b__and the- - defining the phones whatever you want to have synthesized .__c4
+__fg__oh .__c0
+__qrr.%--__and give the f zero targets .__c4
+__%--__and it saves it in a ==__c0
+__s^bk__and then ts- - get - gives out a - a waveform .__c4
+__s^tc__and i - i want to manipulate the - the waveform then .__c4
+__fh|s__i see .__c0
+__s^e__oh that's neat .__c0
+__s__uhhuh .__c9
+__s^df__okay ?__c2
+__qy^d^rt__digits ?__c2
+__s^aa__uh okay .__c0
+__s__DIGIT_TASK__c0
+__s^df__DIGIT_TASK__c1
+__s^bk__DIGIT_TASK__c3
+__fh__DIGIT_TASK__c9
+__s__DIGIT_TASK__c4
+__s.%--__DIGIT_TASK__c2
+__s__that's all folks .__c2

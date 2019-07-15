@@ -1,0 +1,990 @@
+__s^bk^rt^t^tc__okay | we're on .__c4
+__s^rt^t__okay .__c1
+__s^bk^m__so i mean everyone who's on the wireless check that they're on ?__c4
+__s^aa__c- - we ==__c5
+__qy^bu^d.%--__all right .__c8
+__s^rt__i see .__c2
+__s__yeah .__c5
+__s.%-__yeah .__c2
+__s__okay | our agenda was quite short .__c4
+__s.%--__oh | could you close the door maybe ?__c1
+__s.%--__sure .__c4
+__s^bsc__yeah .__c1
+__fg__two items which was uh digits and possibly stuff on - on uh forced alignment .__c4
+__s__which jane said that liz and andreas had in- - information on .__c4
+__s^aa|s__@@ ==__c1
+__b__uhhuh .__c5
+__s__but they didn't .__c4
+__s__so ==__c4
+__b__i guess the only other thing uh for which i ==__c1
+__s__we should do that second .__c5
+__s.%--__because liz might join us in time for that .__c5
+__s__okay .__c4
+__s.%--__um ==__c1
+__s__okay | so there's digits alignments .__c1
+__s^e__and um ==__c1
+__qy^bu^d^rt__i guess the other thing which i came unprepared for uh is uh to dis- - s- - s- - see if there's anything anybody wants to discuss about the saturday meeting .__c1
+__s^aa__right .__c4
+__h__so ==__c1
+__s^bk^rt__any - i mean maybe not .__c1
+__fh__digits and alignments .__c4
+__s^ba__but ==__c4
+__s.%--__uh ==__c1
+__s__talk about aligning people's schedules .__c5
+__s__yeah .__c1
+__fh__yeah .__c4
+__s^aa__uhhuh .__c2
+__s__yeah .__c1
+__fg|qw__i mean ==__c1
+__s__right .__c1
+__s__yeah i mean it was ==__c1
+__s^aa__yeah | it's forced alignment of people's schedules .__c4
+__s__yeah .__c5
+__qy^bu^d^rt__if we're very ==__c5
+__h|s^nd__forced align .__c3
+__s^df__yeah .__c1
+__s__yeah .__c5
+__s.%-__with - with - whatever it was a month and a half or something ahead of time the only time we could find in common - roughly in common was on a saturday .__c1
+__qw.%--__yeah .__c3
+__s__yep .__c4
+__%-__ugh .__c1
+__s^r__it's pretty sad .__c5
+__s^bk__yeah .__c1
+__fg|s__yeah .__c5
+__fh__have - have we thought about having a conference call to include him in more of - in more of the meeting ?__c2
+__qw.%-__i - i mean i don't know .__c2
+__s.%--__if we had the - if we had the telephone on the table ==__c2
+__s^df__no .__c1
+__s^cs__but h- - i mean he probably has to go do something .__c1
+__s__no | actually i - i have to - i have to shuttle kids from various places to various other places .__c5
+__s.%--__right ?__c1
+__fh__i see okay .__c2
+__s__so ==__c5
+__fh__yeah .__c1
+__s__and i don't have - and i don't um have a cell phone .__c5
+__b__a cell phone ?__c3
+__s.%-__so i can't be having a conference call while driving .__c5
+__qr__no | it's not good .__c2
+__s.%-__r- - r- - right .__c1
+__s^ar|s__that's not good .__c2
+__fg__so we have to - we ==__c1
+__s^bk__plus it would make for interesting noise - background noise .__c5
+__fh__@@ ==__c1
+__s__yep .__c4
+__b__uh ==__c5
+__b__so we have to equip him with a - with a - with a head mounted uh cell phone .__c1
+__s__ye- - we- - and | we'd have to force you to read lots and lots of digits .__c4
+__s__and ==__c1
+__fh__oh yeah .__c5
+__s.%--__so it could get real - real car noise .__c4
+__s__yeah .__c3
+__b__oh yeah .__c5
+__b__take advantage .__c8
+__s^cs__and with the kids in the background .__c3
+__s.%--__i'll let - i'd let ==__c5
+__fh__yeah .__c3
+__s^cs.%--__i let uh my five year old have a try at the digits .__c5
+__s__uh ==__c5
+__qy^d^f^g^rt__yeah .__c1
+__s^e__so anyway | i can talk about digits .__c4
+__b__um did everyone get the results or shall i go over them again ?__c4
+__s.%--__i mean that it was basically - the only thing that was even slightly surprising was that the lapel did so well .__c4
+__s^aa__um and in retrospect that's not as surprising as maybe i- ==__c4
+__s^ba__it shouldn't have been as surprising as i - as - as i felt it was .__c4
+__fh__the lapel mike is a very high quality microphone .__c4
+__%--__and as morgan pointed out that there are actually some advantages to it in terms of breath noises and clothes rustling if no one else is talking .__c4
+__s.%--__exactly .__c5
+__fh__yeah .__c3
+__fh|qw.%-__uhhuh .__c8
+__s.%--__um so uh ==__c4
+__s^df__it's g- - it ==__c8
+__s^df__well it's - yeah | sort of the bre- - the breath noises and the mouth clicks and so forth like that the lapel's going to be better on .__c1
+__b__or the cross talk .__c3
+__s__yeah .__c3
+__s^aap|s^ng__the lapel is typically worse on the - on clothes rustling .__c1
+__s__but if no one's rustling their clothes ==__c1
+__s^bk__right | i mean a lot of people are just sort of leaning over and reading the digits .__c4
+__qw__it's - it's ==__c1
+__qy__so it's - it's a very different task than sort of the natural .__c4
+__b__yeah .__c3
+__s^no__you don't move much during reading digits i think .__c3
+__s__so ==__c4
+__s.%-__yeah .__c1
+__s__yeah .__c1
+__qy^bu^d^rt__right .__c4
+__s^aa__probably the fact that it picks up other people's speakers - other people's talking is an indication of that it - the fact it is a good microphone .__c8
+__qrr^g.%--__yeah .__c3
+__s__right .__c4
+__qrr__right | so in the digits in most - most cases there weren't other people talking .__c1
+__h|s^no__so ==__c8
+__s__right .__c4
+__s.%--__d- - do the lapel mikes have any directionality to them ?__c5
+__s__so ==__c1
+__s^cs__there typically don't | no .__c1
+__s^bk__because i - i suppose you could make some that have sort of - that you have to orient towards your mouth .__c5
+__qy^d^g^rt__and then it would ==__c5
+__qrr^bu.%-__they have a little bit .__c4
+__s__but they're not noise cancelling .__c4
+__s^bk__so uh ==__c4
+__fh__they're - they're intended to be omni-directional .__c1
+__s^aa|s^cs^na__right .__c4
+__s^bk__uhhuh .__c5
+__fg__and th- - it's - and because you don't know how people are going to put them on you know .__c1
+__s__right .__c4
+__fh|s__so | also andreas on that one the - the back part of it should be right against your head .__c4
+__s__and that will he- - keep it from flopping aro- - up and down as much .__c4
+__s__it is against my head .__c5
+__b__okay .__c4
+__s^rt__yeah .__c1
+__s__um yeah | we actually talked about this in the uh front end meeting this morning too .__c1
+__%-__uhhuh .__c4
+__s__much the same thing .__c1
+__b__and - and it was ==__c1
+__fh__uh i mean there the point of interest to the group was primarily that um the uh - the system that we had that was based on h. t. k that's used by you know all the participants in aurora was so much worse than the - than the s. r. i .__c1
+__s__everybody .__c4
+__s__and the interesting thing is that even though yes it's a digits task and that's a relatively small number of words and there's a bunch of digits that you train on it's just not as good as having a - a l- - very large amount of data and training up a - a - a nice good big h. m. m .__c1
+__s.%--__um also you had the adaptation in the s. r. i system which we didn't have in this .__c1
+__b__um so um ==__c1
+__s__and we know ==__c5
+__s__di- - did i send you some results without adaptation ?__c5
+__s__no .__c4
+__b__or if you did i didn't include them .__c4
+__b__i- - s- - i think stephane uh had seen them .__c1
+__b__because it was ==__c4
+__fg|s__so ==__c1
+__s.%--__yeah i think i did actually .__c5
+__s__so there was a significant loss from not doing the adaptation .__c5
+__s__yeah .__c1
+__fh__um ==__c5
+__s__a - a - a couple percent or some- ==__c5
+__%-__i mean ==__c5
+__b__well i don't know it - overall ==__c5
+__fh__uh i - i don't remember .__c5
+__qr__but there was - there was a significant um loss or win from adaptation - with - with adaptation .__c5
+__s^ar|s__and um ==__c5
+__s^df__that was the phone loop adaptation .__c5
+__s^bk^m|s^bk__and then there was a very small like point one percent on the natives - uh win from doing um you know adaptation to the recognition hypotheses .__c5
+__s^aa|s__and i tried both means adaptation and means and variances .__c5
+__fh__and the variances added another - or subtracted another point one percent .__c5
+__s.%--__so it's um - that's the number there .__c5
+__b__point six i believe is what you get with both uh means and variance adaptation .__c5
+__fh__right .__c4
+__qy__but i think one thing is that uh i would presume ==__c1
+__fh__hav- - have you ever t- - have you ever tried this exact same recognizer out on the actual t. i. digits test set ?__c1
+__s__this exact same recognizer ?__c5
+__s^aa__no .__c5
+__fh__it might be interesting to do that .__c1
+__s.%--__because my - my - because my sense ==__c1
+__s^fa__um ==__c1
+__s__but - but i have - i mean people - people at s. r. i are actually working on digits .__c5
+__s__i bet it would do even slightly better .__c4
+__fh__i could - and they are using a system that's um you know h- - is actually trained on digits .__c5
+__s^cs.%--__um but h- - h- - otherwise uses the same you know decoder the same uh training methods and so forth .__c5
+__s^df.%--__uhhuh .__c1
+__s^cs__and i could ask them what they get on t. i. digits .__c5
+__s^df__yeah | bu- - although i'd be - i think it'd be interesting to just take this exact actual system .__c1
+__qy^rt__so that these numbers were comparable .__c1
+__qy^d^f^g__uhhuh .__c5
+__s.%--__well adam knows how to run it .__c5
+__s__and try it out on t. i. digits .__c1
+__s^bk|s^ba__yeah | no problem .__c4
+__s^bk__so you just make a f- ==__c5
+__fh__yeah .__c1
+__s__yeah .__c1
+__s^bu__yeah .__c1
+__fh__because our sense from the other - from the aurora uh task is that ==__c1
+__s^m^na__and try it with t. i. digits .__c4
+__s^bu__uhhuh .__c5
+__b__i mean because we were getting sub one percent numbers on t. i. digits also with the tandem thing .__c1
+__qy^d^g^rt__uhhuh .__c5
+__%--__huh .__c5
+__s^aap__so one - so there were a number of things we noted from this .__c1
+__s^bk^m|s^bk__one is yeah the s. r. i system is a lot better than the h. t. k .__c1
+__fh__huh .__c5
+__s^aa.%-__this you know very limited training h. t. k system .__c1
+__s^aa__uhhuh .__c5
+__s.%--__uh but the other is that um the digits recorded here in this room with these close mikes i- - uh are actually a lot harder than the studio recording t. i. digits .__c1
+__s^cs__uhhuh .__c5
+__s^cs__i think you know one reason for that uh might be that there's still - even though it's close talking there still is some noise and some room acoustics .__c1
+__s^aa__uhhuh .__c5
+__b__and another might be that uh i'd - i would presume that in the studio uh uh situation recording read speech that if somebody .__c1
+__b__did something a little funny or n- - pronounced something a little funny or made a little - that they didn't include it .__c1
+__fg|s.%--__they didn't include it ?__c4
+__s__they made them do it again .__c1
+__b__whereas i took out the ones that i noticed that were blatant - that were correctable .__c4
+__s^cs__huh .__c1
+__b__yeah .__c1
+__s^bk__so that if someone just read the wrong digit i corrected it .__c4
+__fh__and then there was another one where jose couldn't tell whether - i couldn't tell whether he was saying zero or six .__c4
+__s__yeah .__c1
+__s^no.%--__and i asked him and he couldn't tell either .__c4
+__s^cs__huh .__cb
+__s__so i just cut it out .__c4
+__qy^d^g^rt__you know so i just e- - edited out the first i- - uh word of the utterance .__c4
+__qy^rt__yeah .__c1
+__s__um so there's a little bit of correction but it's definitely not as clean as t. i. digits .__c4
+__s__so my expectations is t. i. digits would especially ==__c4
+__s^aa|s__i think t. i. digits is all american english .__c4
+__s.%-__right ?__c4
+__qy^bu^d^rt__so it would probably do even a little better still .__c4
+__qw^rt__uhhuh .__c1
+__s^m^na__on the s. r. i system .__c4
+__s__but we could give it a try .__c4
+__s^bk__well ==__c5
+__s^ft.%--__but remember we're using a telephone bandwidth front end here uh on this uh on this s. r. i system .__c5
+__fg__so um i was - i thought that maybe that's actually a good thing .__c5
+__s__because it - it gets rid of some of the - uh the noises .__c5
+__fh__um you know in the - the - below and above the um the you know speech bandwidth .__c5
+__fh__uhhuh .__c1
+__fg|s__uhhuh .__c1
+__fh__and um ==__c5
+__s^t1__i suspect that to get sort of the last bit out of these higher quality recordings you would have to in fact uh use models that uh were trained on wider band data .__c5
+__s.%--__and of course we can't do that or ==__c5
+__s.%--__wha- - what's t. i. digits ?__c4
+__s^co__i thought t- ==__c4
+__s__it's wide band | yeah .__c1
+__s^bu__it's - in - in fact we looked it up .__c1
+__qy^d^g^rt__it is wide band .__c4
+__b__okay .__c4
+__s^aa__and it was actually twenty kilohertz sampling .__c1
+__s^df__oh that's right .__c4
+__s__i - i did look that up .__c4
+__b__uhhuh .__c5
+__s^cs__i couldn't remember whether that was t. i. digits or one of the other digit tasks .__c4
+__s.%-__yeah .__c1
+__s^arp^cs^rt__right .__c5
+__s^bk__but - but i would ==__c5
+__fh__yeah .__c5
+__s^cs__it's - it's easy enough to try .__c5
+__h|s^am__just run it on ==__c5
+__qw__uhhuh .__c4
+__s__yeah .__c1
+__s^rt__so morgan you're getting a little breath noise .__c4
+__fh__see w- ==__c1
+__%--__now uh does ==__c5
+__s^df.%--__one - one issue ==__c5
+__s.%--__you might want to move the mike down a little bit .__c4
+__s__one issue with - with that is that um the system has this uh notion of a speaker to - which is used in adaptation variance norm- - uh you know both in uh mean and variance normalization .__c5
+__s__and also in the v. t. l estimation .__c5
+__s__uhhuh .__c1
+__s__so ==__c5
+__b__yeah | i noticed the script that extracted it .__c4
+__s__do y- ?==__c5
+__b__is ?==__c5
+__b__so does - so th- - so does - does um the t. i. digits database have speakers that are known ?__c5
+__b__yep .__c4
+__qw__yep .__c4
+__fh__and is there - is there enough data or a comparable - comparable amount of data to - to what we have in our recordings here ?__c5
+__qy^e^rt__that i don't know .__c4
+__s__i don't know .__c4
+__s__i don't know how many speakers there are .__c4
+__s^bu__and - and how many speakers per utterance .__c4
+__s^aa__okay .__c5
+__s^e.%--__yeah .__c1
+__qw__well | the other thing would be to do it without the adaptation and compare to these numbers without the adaptation .__c1
+__h__that would ==__c1
+__h__right | uh but i'm not so much worried about the adaptation actually than - than the um - um the uh v. t. l estimation .__c5
+__s^no.%-__right .__c4
+__qo.%--__if you have only one utterance per speaker you might actually screw up on estimating the - the warping uh factor .__c5
+__s^e__so um ==__c5
+__qy^bu^d^rt__i strongly suspect that they have more speakers than we do .__c4
+__qy^bu^d^e^rt__right | but it's not the amount of speakers .__c5
+__%--__so uh ==__c4
+__s^aa|s__it's the num- - it's the amount of data per speaker .__c5
+__h__right | so we - we could probably do an extraction that was roughly equivalent .__c4
+__h__right .__c5
+__s__right .__c5
+__s__um ==__c4
+__qy^bh__so ==__c5
+__s^no__so although i - i sort of know how to run it there are a little - a f- - few details here and there that i'll have to dig out .__c4
+__s__okay .__c5
+__s^df.%--__the key ==__c5
+__fh__so th- - the system actually extracts the speaker i. d from the waveform names .__c5
+__s.%-__right | i saw that .__c4
+__s.%--__and there's a - there's a script - and that is actually all in one script .__c5
+__s^bd^df__so there's this one script that parses waveform names .__c5
+__fh__and extracts things like the um speaker uh i. d .__c5
+__b__or something that can stand in as a speaker i. d .__c5
+__s^df^no__so we might have to modify that script to recognize the um speakers um in the - in the uh um t. i. digits database .__c5
+__s__right .__c4
+__s^e__right .__c4
+__s^bk^m__and that uh ==__c4
+__s^aa__or you can fake - you can fake names for these waveforms that resemble the names that we use here for the - for the meetings .__c5
+__s^fe__right .__c4
+__fg|s__that would be the sort of - probably the safest way to do ==__c5
+__s__i might have to do that anyway to - to do ==__c4
+__s^aa|s__because we may have to do an extract to get the amount of data per speaker about right .__c4
+__%--__uhhuh .__c5
+__b__the other thing is isn't t. i. digits isolated digits ?__c4
+__b__right .__c5
+__s^ba^bu__or is that another one ?__c4
+__qy^d^g^rt__i'm - i looked through a bunch of the digits t- - corp- - corpora .__c4
+__s^aa__and now they're all blurring .__c4
+__s^m^t1__uhhuh .__c1
+__s|s^aa__because one of them was literally people reading a single digit .__c4
+__qy^d^f^g__and then others were connected digits .__c4
+__qy^d^f^g__yeah | most of t. i. digits is connected digits i think .__c1
+__s.%-__okay .__c4
+__s__the - i mean we had a bellcore corpus that we were using .__c1
+__s.%--__maybe it's the bell gram .__c4
+__s^t1.%--__it was that's - that was isolated digits .__c1
+__s__bell digits .__c4
+__qy^bu^d^m^rt__all right .__c4
+__s.%--__by the way i think we can improve these numbers if we care to compr- - improve them by um not starting with the switchboard models but by taking the switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .__c5
+__qy__um ==__c1
+__s^aa__yep .__c4
+__s__because that would adapt your models to the room acoustics .__c5
+__qy^bu^d^rt__and f- - for the far field microphones you know to the noise .__c5
+__s^bk__and that should really improve things um further .__c5
+__s^ba__and then you use those adapted models which are not speaker adapted but sort of acous- - you know channel adapted .__c5
+__s.%--__channel adapted .__c4
+__s.%--__use that as the starting models for your speaker adaptation .__c5
+__%--__yeah | but the thing is uh - i mean w- - when you it depends whether you're ju- - were just using this as a - a starter task for - you know to get things going for conversational or if we're really interested i- - in connected digits .__c1
+__qy^rt__and i - i think the answer is both .__c1
+__qrr.%--__well i don't know .__c5
+__h|qy^bu^d^rt__and for - for connected digits over the telephone you don't actually want to put a whole lot of effort into adaptation .__c1
+__s^aa__because somebody gets on the phone and says a number .__c1
+__s__and then you just want it .__c1
+__b__you don't - don't uh ==__c1
+__s.%--__this is - this - that one's better .__c2
+__s.%--__right .__c5
+__s__uhhuh .__c2
+__s^2__um but you know i - uh my impression was that you were actually interested in the far field microphone uh problem .__c5
+__s^aa__i mean ==__c5
+__b__so ==__c5
+__s^cs^rt__you want to - you want to - that's the obvious thing to try .__c5
+__s^cs__oh .__c2
+__s^df.%--__oh .__c2
+__s.%--__right ?__c5
+__s^aa|s^cs^na__then uh - because you - you don't have any ==__c5
+__s^aa__right .__c1
+__fg|s__yeah .__c2
+__b^rt__that's where the most m- - acoustic mismatch is between the currently used models and the - the r- - the set up here .__c5
+__s^cs^r__right .__c1
+__s^aa|s^aap__so ==__c5
+__b__yeah | so that'd be anoth- - another interesting data point .__c1
+__s^aa|s^bk__uhhuh .__c5
+__s.%--__i mean i - i guess i'm saying i don't know if we'd want to do that as the - as ==__c1
+__s^bk|qy^bu^rt__other way .__c4
+__qy__other way .__c3
+__qrr.%--__liz ==__c4
+__h|s^ba__now you're all watching me .__c0
+__s^ng^rt__it f- - it clips over your ears .__c4
+__s^bk|s__all right .__c0
+__s__this way .__c0
+__fh__there you go .__c4
+__s.%--__if you have a strong fe- - if you have a strong preference you could use this .__c2
+__s__you're all watching .__c0
+__s__this is terrible .__c0
+__b__it's just we - we think it has some spikes .__c2
+__s__so uh we - we didn't use that one .__c2
+__s^ba__i'll get it .__c0
+__s__but you could if you want .__c2
+__b__yeah | at any rate i don't know if w- ==__c1
+__fh__i don't know .__c2
+__s__and andre- - andreas your - your microphone's a little bit low .__c2
+__%-__it is ?__c5
+__fg__yeah .__c1
+__s__yeah .__c2
+__s^e__i don't know if we want to use that as the ==__c1
+__s^aa__uh ==__c5
+__s^ba.%-__uh it pivots .__c4
+__s.%-__so if you see the picture ==__c2
+__s^aa__i- - i ==__c5
+__s^na__it - it - like this .__c4
+__s^cs^rt__and then you have to scr- ==__c2
+__s^e__i - i already adjusted this a number of times .__c5
+__b__uh ==__c4
+__s__i - i ==__c5
+__b__yeah | i think these mikes are not working as well as i would like .__c4
+__b__can't quite seem to ==__c5
+__s^aa__yeah | i think this contraption around your head is not working so well .__c5
+__qy.%--__too many adju- - too many adjustments | yeah .__c1
+__%-__anyway what i was saying is that i - i think i probably wouldn't want to see that as sort of like the norm that we compared all things to .__c1
+__qr__that looks good .__c2
+__s^rt__yeah .__c2
+__b__to uh the - to have - have all this ad- - all this uh adaptation .__c1
+__s^rt__but i think it's an important data point if you're - if ==__c1
+__s__right .__c5
+__b__yeah .__c1
+__s^bk__um ==__c1
+__s^bk__the other thing that - that uh - of course what barry was looking at was - was just that .__c1
+__s^bk__the near versus far .__c1
+__s__and yeah the adaptation would get th- - some of that .__c1
+__b__uhhuh .__c5
+__qy^bu^d^rt__but i think even - even if there was uh only a factor of two or something like i was saying in the email i think that's - that's a big factor .__c1
+__s^aa__uhhuh .__c5
+__fg__so ==__c1
+__fg|s^cs^t^tc.%--__liz you could also just use the other mike if you're having problems with that one .__c4
+__s.%--__n- ==__c1
+__s^t1__well .__c2
+__s^cs__okay .__c0
+__qy^d^g^rt__yeah | this would be okay .__c2
+__s^aa__we - we - we think that this has spikes on it .__c2
+__s__it's this thing's - this is too big for my head .__c0
+__qy^bu^d^rt__so it's not as good acoustically .__c2
+__s^aa__yeah | basically your ears are too big .__c5
+__s^aa__but ==__c2
+__s^bk__i mean mine are too .__c5
+__fh__e- - th- - everybody's ears are too big for these things .__c5
+__qy^rt__no | my - my - but this is too big for my head .__c0
+__s^ar|s__uh ==__c5
+__s__so i mean it doesn't - you know it's sit- ==__c0
+__s^bk__well if you'd rather have this one then it's ==__c2
+__s^bk__okay .__c0
+__s^bk__yeah .__c1
+__qy^rt__oh well .__c4
+__b__it's great .__c1
+__h|s^aa__so the - to get that uh pivoted this way it pivots like this .__c4
+__s^bk__no this way .__c0
+__s^e__yeah .__c4
+__s^bk__yeah .__c0
+__s.%--__there you go .__c4
+__fg|s^t^tc__and there's a screw that you can tighten .__c2
+__s__and then it ==__c4
+__qy^d^f^g^rt__right .__c4
+__qy.%-__right .__c0
+__s__i already tried to get it close .__c0
+__s__good .__c2
+__fh__so if it doesn't bounce around too much that's actually good placement .__c4
+__s^cs__that looks good .__c2
+__b__okay .__c0
+__s^bk|qy^j^rt__but it looks like it's going to bounce a lot .__c4
+__%--__so where were we ?__c1
+__s^df^ng__uh - yeah .__c1
+__fg|s__yeah .__c2
+__s^fe^t1__digits .__c4
+__s^aa__adaptation .__c4
+__s__uh adaptation non adaptation .__c1
+__s^bk__um factor of two .__c1
+__s^bk__um ==__c1
+__fg|qr.%-__what k- - u- - by the way wh- - what factor of two did you ?==__c5
+__s^ar|s.%--__oh yeah | i know what i was go- - w- - .__c1
+__s__i mean ==__c5
+__s.%-__oh no no .__c1
+__s__it's tha- - that - that we were saying you know well is - how much worse is far than near you know .__c1
+__s^bu^df__oh th- - okay .__c5
+__qy^d^g^rt__and i mean it depends on which one you're looking at .__c1
+__s__that factor of two .__c5
+__s^aa__uhhuh .__c5
+__s^aa__but for the everybody it's little under a factor or two .__c1
+__qy^d^f^g^rt__yeah | i - i know what i was thinking was that maybe uh i- - i- - we could actually t- - t- - try at least looking at uh some of the - the large vocabulary speech from a far microphone .__c1
+__fh__at least from the good one .__c1
+__fg__uhhuh .__c5
+__s^ba__i mean before i thought we'd get you know a hundred and fifty percent error or something .__c1
+__s^nd__uhhuh .__c5
+__fg|s__but if - if uh - if we're getting thirty five forty percent or something u- - um ==__c1
+__b__actually if you run though on a close talking mike over the whole meeting during all those silences you get like four hundred percent word error .__c0
+__qw.%-__uhhuh .__c1
+__s__right | i understand .__c1
+__s__but doing the same kind of limited thing ==__c1
+__s__or - or some high number .__c0
+__s__yeah sure .__c1
+__s__get all these insertions .__c1
+__s^ng__but i'm saying if you do the same kind of limited thing as people have done in switchboard evaluations or as - a- ==__c1
+__s^df.%--__yeah .__c0
+__s^bd__where you know who the speaker is and there's no overlap ?__c0
+__s^bd__yeah .__c1
+__s^df__and you do just the far field for those regions ?__c0
+__b__yeah | the same sort of numbers that we got those graphs from .__c1
+__s.%--__could we do exactly the same thing that we're doing now but do it with a far field mike .__c4
+__s^cs__right ?__c1
+__s__yeah | do it with one of - on- ==__c1
+__s__because we extract the times from the near field mike .__c4
+__b__but you use the acoustics from the far field mike .__c4
+__s__right | i understand that .__c0
+__s__i just meant that - so you have three choices .__c0
+__s^bk__there's um you can use times where that person is talking only from the transcripts but the segmentations were - were synchronized .__c0
+__fg|s__or you can do a forced alignment on the close talking to determine that the- - you know within this segment these really were the times that this person was talking .__c0
+__s.%--__and elsewhere in the segment other people are overlapping .__c0
+__s.%--__and just front end those pieces .__c0
+__fh|s__or you can run it on the whole data .__c0
+__s__which is - which is you know a ==__c0
+__s__but - but - but how did we get the - how did we determine the links uh that we're testing on in the stuff we reported ?__c1
+__b__in the h. l. t paper we took segments that are channel - time aligned .__c0
+__s^bd__which is now h- - being changed in the transcription process .__c0
+__s.%--__which is good .__c0
+__s__and we took cases where the transcribers said there was only one person talking here .__c0
+__b__because no one else had time any words in that segment .__c0
+__s.%--__and called that non overlap .__c0
+__s__and tha- ==__c1
+__s__and that's what we were getting those numbers from .__c1
+__qy^d^f^g__yes .__c0
+__fh__right .__c1
+__s^nd__tho- - good - the good numbers .__c0
+__s__the bad numbers were from the segments where there was overlap .__c0
+__s__well we could start with the good ones .__c1
+__s.%--__but anyway - so i think that we should try it once with the same conditions that were used to create those .__c1
+__s.%--__yeah .__c0
+__fh__and in those same segments just use one of the p. z. m.'s .__c1
+__s__right | so we - we can do that .__c0
+__s^aa__and then you know i mean the thing is if we were getting uh - what thirty five forty percent something like that on - on that particular set ==__c1
+__s.%--__yeah .__c0
+__s.%--__uh does it go to seventy or eighty ?__c1
+__s.%--__or does it use up so much memory we can't decode it ?__c1
+__s^no.%--__right .__c0
+__s^df__it might also depend on which speaker th- - it is and how close they are to the p. z. m .__c0
+__s^nd__uh ==__c1
+__%-__i don't know how different they are from each other .__c0
+__s^e__you want to probably choose the p. z. m channel that is closest to the speaker .__c5
+__s^ba__to be best ==__c0
+__s^cs__for this particular digit ones i just picked that one .__c4
+__s^cs^e__yeah .__c3
+__fh|s__f- ==__c0
+__b__well ==__c1
+__b__okay .__c0
+__qy^d^f^g__oh okay .__c5
+__fh__so we would then use that one too .__c0
+__fg__so ==__c4
+__%-__this is kind of central .__c1
+__s__or ?==__c0
+__s__you know it's - so i- - but i would - i'd pick that one .__c1
+__s^aa__it'll be less good for some people than for other .__c1
+__s__but i - i'd like to see it on the same - exact same data set that - that we did the other thing on .__c1
+__s^bk__actually ==__c4
+__s^bk__i sh- - actually should've picked a different one .__c4
+__s^cs__right ?__c1
+__b__because that could be why the p. d. a is worse .__c4
+__s^df__because it's further away from most of the people reading digits .__c4
+__b__it's further away | yeah .__c3
+__s^e__yeah .__c3
+__s.%-__that's probably one of the reasons .__c1
+__s^aa__huh .__c2
+__s^bk__uhhuh .__c2
+__b__well yeah | you could look at i guess that p. z. m or something .__c0
+__h|s^am__yep .__c4
+__fh__but the other is it's very uh - i mean even though there's - i'm sure the f- - f- - the - the s. r. i uh front end has some kind of pre emphasis it's - it's uh still th- - it's picking up lots of low frequency energy .__c1
+__s^bd^cs__uhhuh .__c5
+__s.%--__so even discriminating against it i'm sure some of it's getting through .__c1
+__s__um ==__c1
+__fh__but yeah you're right .__c1
+__s__prob- - a part of it is just the distance .__c1
+__b__and aren't these pretty bad microphones ?__c0
+__s__yep .__c4
+__s^cs__i mean ==__c0
+__s^e__well they're bad .__c1
+__s^bd__but i mean if you listen to it it sounds okay you know .__c1
+__s^bd^e__yeah | when you listen to it uh the p. z. m and the p. d. a - yeah th- - the p. d. a has higher sound floor .__c4
+__fg|qw^rt__u- - yeah .__c1
+__s__but not by a lot .__c4
+__fh__it's really pretty uh pretty much the same .__c4
+__b__i just remember you saying you got them to be cheap on purpose .__c0
+__s__cheap in terms of their quality .__c0
+__b__so ==__c0
+__fg|s^j__well they're twenty five cents or so .__c1
+__qy^bu^d^j__th- - we wanted them to be - to be typical of what would be in a p. d. a .__c4
+__qy^d^g^rt__yeah .__c1
+__s^aa__so they are they're not the p. z. m three hundred dollar type .__c4
+__s__uhhuh .__c0
+__b__they're the twenty five cent .__c4
+__fh__yeah .__c1
+__s__buy them in packs of thousand type .__c4
+__b__but i mean the thing is people use those little mikes for everything .__c1
+__h__i see .__c0
+__s^cs__everything .__c4
+__s^cs__because they're really not bad .__c1
+__b__i mean if you're not doing something ridiculous like feeding it to a speech recognizer they - they - they - you know you can hear the sou- - hear the sounds just fine .__c1
+__s__uhhuh .__c0
+__b__right .__c0
+__s__you know it's ==__c1
+__s__they - i mean i- - it's more or less the same principles as these other mikes are built under .__c1
+__s.%--__it's just that there's less quality control .__c1
+__s^bd__they just you know churn them out and don't check them .__c1
+__b__um so ==__c1
+__s__so that was - yeah so that was i- - interesting result .__c1
+__b__so like i said the front end guys are very much interested in - in this is as - as well .__c1
+__%--__and ==__c1
+__fh__so - so but where is this now ?__c5
+__s.%--__i mean what's - where do we go from here ?__c5
+__s__i mean ==__c5
+__s^e__yeah | that was going to be my question .__c4
+__s.%--__we - so we have a - we have a - a system that works pretty well .__c5
+__fh__but it's not you know the system that people here are used to using - to working with .__c5
+__s^2__so what - what do we do now ?__c5
+__s^bk^m|s^cs__well i think what we want to do is we want to - uh ==__c1
+__s^bk__and we've talked about this in other contexts .__c1
+__fh__we want to have the ability to feed it different features .__c1
+__fh__uhhuh .__c5
+__s__and then um from the point of view of the front end research it would be s- - uh substituting for h. t. k .__c1
+__qw.%--__okay .__c5
+__s^rt__okay .__c5
+__s^rt__i think that's the key thing .__c1
+__s^aa__and then if we can feed it different features then we can try all the different things that we're trying there .__c1
+__h__okay all right .__c5
+__s^cs__and then um uh also dave is - is thinking about using the data in different ways uh to um uh explicitly work on reverberation .__c1
+__s^aa__uhhuh .__c5
+__s__starting with some techniques that some other people have found somewhat useful and - yeah .__c1
+__qy^bu^d^j^rt__okay .__c5
+__s^bk__so - so the key thing that's missing here is basically the ability to feed you know other features i- - into the recognizer .__c5
+__fh__and also then to train the system .__c5
+__s^cs.%--__right .__c1
+__fh__right .__c1
+__s^cs__okay .__c5
+__s^2.%-__and uh es- - i don't know when chuck will be back .__c5
+__s^cs__but that's exactly what he - he's going to ==__c5
+__s^bk__h- - h- ==__c1
+__b__he's - he's sort of back .__c1
+__s^e__but he drove for fourteen hours an- - and wasn't going to make it in today .__c1
+__s^bk__oh okay .__c5
+__fh__so | i think that's one of the things that he said he would be working on .__c5
+__fg|s__um ==__c5
+__%-__just sort of t- - to make sure that we can do that .__c5
+__s^ba.%--__yeah .__c4
+__s^bsc__and um ==__c5
+__s^bsc.%--__yeah .__c1
+__b__right .__c1
+__s^ba__it's - uh i mean the - the front end is f- - i- - tha- - that's in the s. r. i recognizer is very nice in that it does a lot of things on the fly .__c5
+__b__but it unfortunately is not designed and um - like the uh icsi system is where you can feed it from a pipeline of - of the command .__c5
+__s^cs__so the - what that means probably for the foreseeable future is that you have to uh dump out um ==__c5
+__s^bk__you know if you want to use some new features you have to dump them into individual files .__c5
+__s^bk|s.%--__and give those files to the recognizer .__c5
+__fg|s.%--__we do - we tend to do that anyway .__c4
+__s^cs.%--__okay .__c5
+__s__oh .__c4
+__s__so although you - you can pipe it as well we tend to do it that way .__c4
+__s.%--__because that way you can concentrate on one block and not keep redoing it over and over .__c4
+__s.%--__oh okay .__c5
+__s__all right .__c5
+__b__yeah .__c1
+__fh__yeah | so i've - i ==__c1
+__qy^bu^d^rt__so tha- - that's exactly what the p. file is for .__c4
+__s^aa|s__yeah .__c1
+__s__yeah | the - the - the cumbersome thing is - is um - is that you actually have to dump out little - little files .__c5
+__b__uh ==__c0
+__s^df.%--__so for each segment that you want to recognize you have to dump out a separate file .__c5
+__s^cs__uhhuh .__c4
+__b__just like i- - th- - like th- - as if there were these waveform segments .__c5
+__s^cs^e__but instead you have sort of feature file segments .__c5
+__b__but you know ==__c5
+__s^bk__so ==__c5
+__b__cool .__c1
+__s^bk__okay | so the s- - the - the next thing we had on the agenda was something about alignments ?__c1
+__s^bu__oh .__c0
+__qy^d^g^rt__yes | we have ==__c0
+__s^e__i don't know .__c0
+__s^aa__did you want to talk about it ?__c0
+__s^bk__or ?==__c0
+__qy^rt__i can give a - i was just telling this to jane .__c0
+__qrr__and - and w- - we - we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors that were occurring .__c0
+__s__and um ==__c0
+__s^bk__some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition .__c0
+__s.%--__which is a um i think was both a - a pruning problem .__c0
+__fh__and possibly a problem with needing constraints on word locations .__c0
+__s^bu__and so we tried both of these st- - things .__c0
+__s^arp^ng__we tried saying ==__c0
+__s^bk__i don't know .__c0
+__s^t1.%--__i got this whacky idea that just from looking at the data that when people talk their words are usually chunked together .__c0
+__s^bk__it's not that they say one word and then there's a bunch of words together .__c0
+__s.%--__they're might say one word and then another word far away if they were doing just backchannels .__c0
+__s__but in general if there's like five or six words and one word's far away from it that's probably wrong on average .__c0
+__s__so um ==__c0
+__s^bk__and then also ca- - the pruning of course was too - too severe .__c0
+__s.%--__so that's actually interesting .__c5
+__s__the pruning was the same value that we used for recognition .__c5
+__s__and we had lowered that - we had used tighter pruning after liz ran some experiments showing that you know it runs slower .__c5
+__s__and there's no real difference in ==__c5
+__qy^rt__no gain .__c4
+__%-__actually it was better with - slightly better or about th- ==__c0
+__s^na__right .__c5
+__s^e__it was the same with tighter pruning .__c0
+__b__so for free recognition this - the lower pruning value is better .__c5
+__s.%--__you ==__c5
+__s__it's probably because the recognition's just bad en- - at a point where it's bad enough that - that you don't lose anything .__c0
+__s^ba__correct .__c5
+__s^df__right .__c5
+__s__um | but it turned out for - for - to get accurate alignments it was really important to open up the pruning significantly .__c5
+__s__right .__c0
+__b__huh .__c1
+__b__um | because otherwise it would sort of do greedy alignment um in regions where there was no real speech yet from the foreground speaker .__c5
+__s__uhhuh .__c1
+__s__um so that was one big factor that helped improve things .__c5
+__s__and then the other thing was that ==__c5
+__s^bk|s^cc__you know as liz said the - we f- - enforce the fact that uh the foreground speech has to be continuous .__c5
+__s^e__it cannot be you cannot have a background speech hypothesis in the middle of the foreground speech .__c5
+__s__you can only have background speech at the beginning and the end .__c5
+__%-__yeah | i mean yeah it isn't always true .__c0
+__s__and i think what we really want is some clever way to do this .__c0
+__s^cs__where um you know from the data or from maybe some hand corrected alignments from transcribers that ==__c0
+__s^bk|s__things like words that do occur just by themselves a- - alone like backchannels or something that we did allow to have background speech around it ==__c0
+__b__yeah .__c3
+__b__those would be able to do that .__c0
+__qy^bu^d__sorry .__c2
+__qy^g^rt__but the rest would be constrained .__c0
+__s^ar__so i think we have a version that's pretty good for the native speakers .__c0
+__s__i don't know yet about the non native speakers .__c0
+__s^bk__and um ==__c0
+__b__we basically also made noise models for the different - sort of grouped some of the mouth noises together .__c0
+__s^j__um | so and then there's a background speech model .__c0
+__s__and we also ==__c0
+__s^j.%-__there was some neat - or interesting cases .__c0
+__s^cs^j__like there's one meeting where um jose's giving a presentation .__c0
+__s__and he's talking about um the word mixed signal .__c0
+__b__and someone didn't understand uh that you were saying mixed .__c0
+__s__i think morgan .__c0
+__s:s__yeah yeah .__ca
+__b__and so your speech - -ch was s- - saying something about mixed signal .__c0
+__b__and the next turn was a lot of people saying mixed .__c0
+__s__like he means mixed signal or i think it's mixed .__c0
+__%-__and the word mixed in this segment occurs like a bunch of times .__c0
+__%-__sh- ==__ca
+__s^2__and chuck's on the lapel here .__c0
+__s^m^na__and he also says mixed .__c0
+__b__but it's at the last one .__c0
+__fh__and of course the aligner th- - aligns it everywhere else to everybody else's mixed .__c0
+__s__yeah .__ca
+__b__because there's no adaptation yet .__c0
+__s^bk__so there's i think there's some issues about u- ==__c0
+__b__we probably want to adapt at least the foreground speaker .__c0
+__s__but i guess andreas tried adapting both the foreground and a background generic speaker .__c0
+__s__and that's actually a little bit of a f- - funky model .__c0
+__s^aa__like it gives you some weird alignments .__c0
+__fg__just because often the background speakers match better to the foreground than the foreground speaker .__c0
+__s.%--__oh ==__c5
+__s^bk^rt__yeah .__c3
+__s__oh .__ca
+__b__so there's some things there .__c0
+__qy^rt__especially when you get lots of the same words uh occurring in the .__c0
+__b__well | the ==__c5
+__b__i - i think you can do better by uh cloning ==__c5
+__s^na|s__so we have a reject phone .__c5
+__s^bk__and you - and what we wanted to try with - you know once we have this paper written and have a little more time uh t- - cloning that reject model .__c5
+__%-__and then one copy of it would be adapted to the foreground speaker to capture the rejects in the foreground .__c5
+__s^cs__like fragments and stuff .__c5
+__s^bk|s^ng__and the other copy would be adapted to the background speaker .__c5
+__s.%-__right | i mean in general we actually ==__c0
+__s^bk__and ==__c5
+__fg|s^bu__right now the words like partial words are reject models .__c0
+__qy^d^g^rt__uhhuh .__c5
+__s^aa__and you normally allow those to match to any word .__c0
+__s^bk__but then the background speech was also a reject model .__c0
+__s__and so this constraint of not allowing rejects in between .__c0
+__b__you know it needs to differentiate between the two .__c0
+__fh__so just sort of working through a bunch of debugging kinds of issues .__c0
+__s^bu.%--__right .__c5
+__s^bu__and another one is turns like people starting with well i think ==__c0
+__qy^d^g^rt__and someone else is well how about ==__c0
+__h__so the word well is in this in this segment multiple times .__c0
+__s__and as soon as it occurs usually the aligner will try to align it to the first person who says it .__c0
+__%--__but then that constraint of sort of uh proximity constraint will push it over to the person who really said it in general .__c0
+__s^fa__is the proximity constraint a hard constraint ?__c4
+__qy^rt__or did you do some sort of probabilistic weighting distance or ?==__c4
+__qy^r^rt__we - we didn't ==__c5
+__s^m.%--__no .__c5
+__b__right now it's a kluge .__c0
+__s^ar|s__we - w- ==__c5
+__s^bk__okay .__c5
+__qy^bu^d^rt__we - it's straightforward to actually just have a - a penalty that doesn't completely disallows it but discourages it .__c5
+__s__but um we just didn't have time to play with you know tuning yet another - yet another parameter .__c5
+__s^bk__the ve- - level .__c4
+__b__yeah .__c4
+__s^bk__yeah .__c0
+__fh__and really the reason we can't do it is just that we don't have a - we don't have ground truth for these .__c5
+__s^bu__so we would need a hand marked um word level alignments .__c5
+__qy^d^g^rt__or at least sort of the boundaries of the speech betw- - you know between the speakers .__c5
+__qy^rt__um | and then use that as a reference .__c5
+__s__and tune the parameters of the - of the model uh to op- - to get the best performance .__c5
+__s^df^rt__yeah .__c0
+__b__g- - given - i - i mean i wa- - i wa- - i was going to ask you anyway uh how you assessed that things were better ?__c1
+__s^ar__uhhuh .__c5
+__s^bk__i looked at them .__c0
+__s__i spent two days - um in waves .__c0
+__s__okay .__c1
+__s__oh it was painful .__c0
+__b__because the thing is you know the alignments share a lot in common .__c0
+__s__so ==__c0
+__s^ba__and you're - yo- - you're looking at these segments where there's a lot of speech .__c0
+__b__i mean a lot of them have a lot of words .__c0
+__s^bk__yeah .__c1
+__s^bk__not by every speaker .__c0
+__s__but by some speaker there's a lot of words .__c0
+__fh__yeah .__c1
+__s^bk__ju- ==__ca
+__s^bu.%--__no not ==__c0
+__s.%--__i mean that if you look at the individual segments from just one person you don't see a lot of words .__c0
+__s^bu__yeah .__c1
+__s^aa__uhhuh .__c5
+__s__yeah .__c1
+__b__but altogether you'll see a lot of words up there .__c0
+__%--__and so the reject is also mapping and pauses .__c0
+__fh__yeah .__c3
+__s__so i looked at them all in waves .__c0
+__s__and just lined up all the alignments .__c0
+__s^bu__and at first it sort of looked like a mess .__c0
+__qy^d^g^rt__and then the more i looked at it i thought okay well it's moving these words leftward .__c0
+__s^aa__and you know it wasn't that bad .__c0
+__s^bk__it was just doing certain things wrong .__c0
+__qy.%--__so ==__c0
+__s__but i don't you know have time to l- - to look at all of them .__c0
+__s__and it would be really useful to have like a - a transcriber who could use waves .__c0
+__s^ba__um just mark like the beginning and end of the foreground speaker's real words .__c0
+__s.%--__like the beginning of the first word the end of the last word .__c0
+__s__yeah .__c2
+__s.%-__and then we could you know do some adjustments .__c0
+__qy.%-__i - okay .__c2
+__s^am__i have to ask you something .__c2
+__s__because if we could benefit from what you did incorporate that into the present transcripts that would help .__c2
+__s__no .__c5
+__s^am__and then um the other thing is i believe that i did hand- ==__c2
+__b__so one of these transcripts was gone over by a transcriber .__c2
+__s__and then i hand marked it myself so that we do have uh the beginning and ending of individual utterances .__c2
+__s__uhhuh .__c5
+__s^aa__um i didn't do it word level .__c2
+__s^cs.%-__but - but in terms ==__c2
+__s^nd__so i - so for - for one of the n. s. a groups .__c2
+__b__uhhuh .__c0
+__s__and also i went back to the original one that i first transcribed and - and did it w- - uh w- - uh utterance by utterance for that particular one .__c2
+__qy^d^g^rt__so i think you do have ==__c2
+__s.%-__if that's a sufficient unit i think that you do have hand marking for that .__c2
+__s^bk|s^bu__but it'd be wonderful to be able to benefit from your waves stuff .__c2
+__s^aa__uhhuh .__c0
+__s^bk|s^fa__we don't care what - what tool you use .__c5
+__b__yeah | i mean if - if you can um - if you want to ==__c0
+__s^cs__okay .__c2
+__s^aa__i used it in transcriber .__c2
+__s^df__u- - uh ==__c5
+__b__and it's - it's in the ==__c2
+__fh__well jane and i were just in terms of the tool talking about this .__c0
+__s^bd^rt__i guess sue had had some reactions .__c0
+__s^cs^df__you know interface wise if you're looking at speech you want to be able to know really where the words are .__c0
+__b__yeah that's right .__c2
+__s__and so we can give you some examples of sort of what this output looks like .__c0
+__s.%--__middle of the word or ==__c2
+__fh__um and see if you can in- - maybe incorporate it into the transcriber tool some way .__c0
+__s^t1.%--__or ==__c0
+__fg|s__well i th- - i'm thinking just ch- - e- - e- - incorporating it into the representation .__c2
+__fg|s__um ==__c0
+__s__i mean if it's - if it's ==__c2
+__s__you mean like - yeah word start insights .__c0
+__qy__if you have start points if you have like time tags ==__c2
+__s^e^rt__right .__c0
+__h__which is what i assume .__c2
+__s^br^co__isn't that what - what you ?==__c2
+__s^fa|s^df__well see adam would be ==__c2
+__s__yeah | whatever you use .__c5
+__s__i mean we convert it to this format that the um nist scoring tool unders- - uh c. t. m conversation time marked file .__c5
+__b__yeah .__c0
+__s^aap__and - and then that's the - that's what the ==__c5
+__s^aa|s__i think transcriber uh outputs c. t. m .__c4
+__fg|s^ba^nd__if it ?==__c2
+__s^aa|s.%-__okay .__c2
+__s^bk__i think so .__c4
+__s__so you would know this more than i would .__c2
+__s__yeah .__c0
+__qy^d^g.%-__right .__c5
+__s^df__so i mean ==__c0
+__s__it seems like she - if she's g- - if she's moving time marks around ==__c2
+__b__since our representation in transcriber uses time marks it seems like there should be some way of - of using that - benefitting from that .__c2
+__b__right .__c4
+__s__yeah | it wou- - the advantage would just be that when you brought up a bin you would be able - if you were zoomed in enough in transcriber to see all the words .__c0
+__fh__uhhuh .__c1
+__qy^bu^d__you would be able to like have the words sort of located in time .__c0
+__s^aa__if you wanted to do that .__c0
+__s^cs__so - so if we e- - e- - even just had a - a - it sounds like w- - we - we almost do .__c1
+__s.%--__so ==__c0
+__s.%--__uh if we - we have two .__c1
+__s^fa__we have two .__c2
+__s__yeah .__c1
+__s__just ha- - uh trying out the alignment procedure that you have on that .__c1
+__s^bk__uhhuh .__c0
+__s^fa|s^co__you could actually get something um - uh uh get an objective measure .__c1
+__fh__uhhuh .__c5
+__s^df__uh ==__c1
+__s^df__you mean on - on the hand marked um ==__c0
+__s^2^bu^rt__so we - we only r- - hav- - i only looked at actually alignments from one meeting that we chose .__c0
+__s^bk__yeah .__c1
+__s^cs__i think m. r four .__c0
+__s.%--__just randomly um ==__c0
+__qh^cs__and ==__c0
+__s__actually not randomly .__c5
+__s^bk__not randomly .__c0
+__s__we knew - we knew that it had these insertion errors from .__c5
+__%-__it had sort of average recognition performance in a bunch of speakers .__c0
+__s^bk__yeah .__c5
+__s^bu__yeah .__c5
+__qy^d^f^g__and it was a meeting recorder meeting .__c0
+__s^bu__um ==__c0
+__b__but yeah we should try to use what you have .__c0
+__qy^d^g^rt__i did rerun recognition on your new version of m. r one .__c0
+__qy^br^d^rt__oh good .__c2
+__s^aa|s^rt__i - i mean the - the one with dan ellis in it and eric .__c0
+__s__good .__c2
+__%-__uhhuh yeah exactly yeah yeah .__c2
+__s^bk__i don't think that was the new version .__c8
+__s^e__um ==__c0
+__s^bk__that ==__c0
+__s.%--__yeah | actually it wasn't the new new .__c0
+__s^aa__okay .__c2
+__fg|s__it was the medium new .__c0
+__h__but - but we would - we should do the - the latest version .__c0
+__s^bu__okay .__c2
+__s__yeah .__c8
+__qy^d^g__you - did you adjust the - the utterance times um for each channel ?__c8
+__s__it was the one from last week .__c0
+__b__yes .__c2
+__s^bk__yes | i did .__c2
+__s^bk__and furthermore i found that there were a certain number where not - not a lot but several times i actually moved an utterance from adam's channel to dan's or from dan's to adam's .__c2
+__b__so there was some speaker identif- ==__c2
+__s__and the reason was because i transcribed that at a point before uh before we had the multiple audio available .__c2
+__fg__f- ==__c2
+__qy^bu^d^rt^t__so i couldn't switch between the audio .__c2
+__qy^br^d^rt__i - i transcribed it off of the mixed channel entirely .__c2
+__s__which meant in overlaps i was at a - at a terrific disadvantage .__c2
+__s^aa|s^df__right .__c0
+__b__right .__c0
+__s__in addition it was before the channelized uh possibility was there .__c2
+__s__and finally i did it using the speakers of my um of - you know off the c. p. u on my - on my machine .__c2
+__s.%-__because i didn't have a headphone .__c2
+__s^fa|qw^br^d^rt__so it @@ like i mean ==__c2
+__qw^br^d^rt__right .__c0
+__s^rt__yeah i - i mean i- - in retrospect it would've been good to ha- - have got- - i should've gotten a headphone .__c2
+__b__but in any case um thi- - this is - this was transcribed in a - in a uh less optimal way than - than the ones that came after it .__c2
+__s__and i was able to - you know an- - and this meant that there were some speaker identif- - identifications .__c2
+__s__well i know there were some speaker labelling problems um after interruptions .__c8
+__b__which were changes ==__c2
+__qy^rt__yeah .__c2
+__fh__fixed that .__c2
+__s^ar|s__is that what you're referring to ?__c8
+__s^bk__i mean because there's this one instance when for example you're running down the stairs .__c8
+__s__oh well ==__c2
+__b__i remember this meeting really well .__c8
+__s__yeah .__c3
+__s__right .__c8
+__s__don - don has had - he knows - he can just read it like a play .__c0
+__s__it's a ==__c8
+__b__yeah | i've - i've - i'm very well acquainted with this meeting .__c8
+__s__yeah | i can s- ==__c8
+__b__yeah .__c3
+__s__and then she said and then he said .__c0
+__s__yeah | i know it by heart .__c8
+__s__so um there's one point when you're running down the stairs .__c8
+__fh__uhoh !__c2
+__b__right ?__c8
+__b__and like there's an interruption .__c8
+__s^bk__you interrupt somebody .__c8
+__s^rt__but then there's no line after that .__c8
+__s__for example there's no speaker identification after that line .__c8
+__qy^rt__uhhuh .__c2
+__qrr^rt__is that what you're talking about ?__c8
+__qy^bu^d__or were there mislabelings as far as like the a- - adam was ?__c8
+__s^aa__that was fixed um before .__c2
+__s.%--__i- - i- - i- - i think i- - i think i understood that pretty ==__c2
+__s__yeah | because i thought i let you know about that .__c8
+__s__thank you for mentioning .__c2
+__b__yeah .__c8
+__s__yeah no tha- - that - that i think went away a couple of versions ago .__c2
+__s^2.%-__okay .__c8
+__s__but you're actually saying that certain uh speakers were mis- - mis identified .__c8
+__s__but it's good to know .__c2
+__b__yeah | so with - under - um uh listening to the mixed channel there were times when as surprising as that is i got adam's voice confused with dan's and vice versa .__c2
+__s^ba__okay .__c8
+__b__not for long utterances .__c2
+__qy^bu^d^rt^tc__okay .__c8
+__qy^bu^d^rt^tc__yeah .__c0
+__s^bk__but jus- - just a couple of places .__c2
+____uhhuh .__c1
+____and embedde- - embedded in overlaps .__c2
+____the other thing that was w- - interesting to me was that i picked up a lot of um backchannels which were hidden in the mixed signal .__c2
+____which you know i mean you c- - not - not too surprising .__c2
+____right .__c0
+____but the other thing that ==__c2
+__z__i - i hadn't thought about this .__c2

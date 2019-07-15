@@ -1,0 +1,253 @@
+__z__okay .__c0
+__z__uh all right .__c3
+__z__so | i uh - uh wanted to mention a couple little bits of news .__c3
+__z__um | hynek is supposed to come for a couple days next week .__c3
+__z__don't know which days yet .__c3
+__z__so hopefully he'll have some intensive time to - to work with people .__c3
+__z__um | the second thing is that um - we're starting to talk about maybe having sunil come here uh - for some chunk of the summer .__c3
+__z__so that may or may not happen .__c3
+__z__but if he does since actually pratibha is going to be off at i b m um - the uh - effort will pretty much shift here .__c3
+__z__because sunil will be here and other people are working on other things i think .__c3
+__z__so so ==__c3
+__z__uh | that's my news .__c3
+__z__all right .__c2
+__z__cool .__c5
+__z__i need a new office mate .__c5
+__z__oh okay .__c3
+__z__yeah .__c5
+__z__that's cool .__c5
+__z__there you go .__c3
+__z__right .__c5
+__z__it will be some- - sometime in summer .__c2
+__z__july or august or ?==__c2
+__z__yeah i mean it may not happen .__c3
+__z__i mean he wants uh - i think he wants some experience someplace else and he's - he's uh - thinking of going someplace .__c3
+__z__uhhuh .__c2
+__z__but it's - i mean pratibha is getting her experience going to i b m and he may come here .__c3
+__z__so ==__c3
+__z__but y- - i don't know maybe june .__c3
+__z__maybe earlier .__c3
+__z__but uh ==__c3
+__z__anyway hynek will be here next week and maybe he'll know more about it .__c3
+__z__oh yeah .__c2
+__z__well the news more specifically t- - for aurora .__c2
+__z__um ==__c2
+__z__so i guess there was again a conference call but uh they are not decide on everything yet .__c2
+__z__for the v a d they - probably they will do something like having some kind of idealized v a d that they could run on the channel zero of the speechdat car .__c2
+__z__and then take the same um - end points and apply them on channel one .__c2
+__z__uhhuh .__c3
+__z__so it's ==__c2
+__z__oh so take a real v a d but apply it to - to - to the clean - clean data .__c3
+__z__uh g- ==__c2
+__z__yeah to the clean and take the end points for the noisy .__c2
+__z__huh .__c2
+__z__okay .__c3
+__z__but i am not sure this is decided yet .__c2
+__z__um ==__c2
+__z__and - and i- - when they're talking about it do you have the impression that they're talking about a particular v a d which everybody would use ?__c3
+__z__or - or just that everybody would use the same procedure ?__c3
+__z__well probably uh s- - the same v a d for everybody .__c2
+__z__uhhuh .__c3
+__z__um ==__c2
+__z__so they would just provide that as part of the data .__c0
+__z__maybe .__c2
+__z__but this is still ==__c2
+__z__yeah .__c3
+__z__sounds like they're still arguing .__c3
+__z__yeah .__c3
+__z__yeah they're still not decided .__c2
+__z__yeah .__c3
+__z__yeah .__c3
+__z__um | i don't know what ==__c2
+__z__yeah .__c2
+__z__nothing much .__c2
+__z__yeah .__c2
+__z__probably the um these weight things they will apply the same kind of weighting scheme for t i digits than for the speechdat car .__c2
+__z__so it would be weighting of ==__c2
+__z__um ==__c2
+__z__it would be an average of improvements rather than an average of word error rates which would make the more clean parts of t i digits more important than they are right now .__c2
+__z__uhhuh .__c3
+__z__okay .__c3
+__z__uh but it sounds like none of this is really decided that this is how things are leaning .__c3
+__z__this ==__c2
+__z__and ==__c3
+__z__they - they t- - i think they will tend to go this way but huh .__c2
+__z__uh ==__c2
+__z__if we have the result for the tandem with um - m s g also ==__c2
+__z__so @reject@ it was t- ==__c2
+__z__yeah there is no surpri- - there is no surprise .__c2
+__z__well so there is nor significant improvement .__c2
+__z__um | yeah basically that's all .__c2
+__z__we've started to work on some kind of report for the work so we've not much more results .__c2
+__z__uhhuh .__c3
+__z__yeah | you have a uh - you have a lunch talk sometime in ==__c3
+__z__huh .__c2
+__z__uhhuh .__c2
+__z__it's next week yeah .__c2
+__z__when is it ?__c3
+__z__next week ?__c3
+__s__oh okay .__c3
+__z__how about the um the thing that you guys were working on before ?__c0
+__fg__the uh - uh voiced unvoiced .__c0
+__fg|s^aa__uh ==__c0
+__%__oh yes .__c4
+__qy^d^g^rt__but no .__c4
+__b__this week i'm - i am begin to - to write the report on ==__c4
+__s^bk__oh .__c0
+__fh|s^t__i stopped it .__c4
+__b__you stopped working on it .__c0
+__s^co__interfered .__c4
+__s^co__i see .__c0
+__s__yeah .__c4
+__b.%__okay .__c3
+__s__uh ==__c3
+__s^co__so it sounds like basically things are slowing down a bit ?__c3
+__fh|s__and - and - and trying to collate results ?__c3
+__fh__and get something from it ?__c3
+__b__uhhuh .__c2
+__s^cs__yeah .__c2
+__s.%--__yeah .__c3
+__s^bk^m__um .__c2
+__s^cs__yeah .__c2
+__qy^cs__right now sunil seems i- - is in india actually .__c2
+__s^cs__right .__c3
+__s^aa__uh so | there is no progress apparently from their side neither .__c2
+__s^df__right .__c3
+__s^bk__um | and ==__c2
+__qy^bu^d^rt__but that sort of puts it on us to do it .__c3
+__s^cs__but - kind of puts it on us to put more in then really .__c3
+__s.%-__i'm sorry ?__c2
+__b__yeah .__c2
+__qy__i mean uh who's - who's - was uh - looking at the combination of uh - spectral s- - subtraction approaches with what we had for instance ?__c3
+__s^j__sunil was working on this .__c2
+__s^cs.%-__okay .__c3
+__s__um | he sent a bunch of - a bunch of results .__c2
+__b__uh ==__c2
+__s^nd.%-__but i don't know what's the status of this .__c2
+__fg|sj^df^nd.%-__i guess it was just the result that he sent .__c2
+__s^nd__so um ==__c2
+__b__what was that again ?__c3
+__sj^j__he just used the spectral subtraction and the l d a filters i guess huh .__c2
+__s^nd__uhhuh .__c3
+__s^aa|s^j__and it was not better than what we had before .__c2
+__s__and ==__c3
+__s^aa__then he tried to put the online normalization and it did not improve further .__c2
+__s^t1__putting the online normalization .__c2
+__s__so ==__c2
+__%--__um .__c2
+__fh|s__yeah .__c2
+__s__huh .__c3
+__b__huh .__c3
+__%__okay .__c3
+__fh__well ==__c3
+__s__huh .__c2
+__s^co__yeah .__c3
+__qy^d^f^g^rt__i uh i g- - so i guess nothing has ever happened about uh making a standardized uh place where the software sits so that people can work with it and upgrade it ?__c3
+__s^co__no .__c2
+__s__well i - i sent mails to start the - the process and i guess we should have to ==__c2
+__qy^d^f^g__well we know most what we have to - to put in - in this .__c2
+__qy^rt__and ==__c2
+__h|s^aa__yeah .__c2
+__s^ft__so i guess yeah we m- ==__c2
+__fg__okay .__c3
+__qy^cs^rt^t__well uh let's - let's come back to this uh later .__c3
+__h|sj^ba__um okay .__c3
+__s^cc__um | chuck did you get a chance to do anymore stuff with the uh h t k ?__c3
+__s^t__no i didn't .__c0
+__b__um are you talking about ?==__c0
+__s__or ?==__c3
+__qo^d^rt__uh no .__c0
+__qw^rt^t3__this week i haven't .__c0
+__qy^bu^d^rt^t3__i've been - my whole time's been taken up with uh meeting recorder stuff .__c0
+__s^aa^t3__okay .__c3
+__b__uh disk crash and uh covering things .__c0
+__s^co__u- ==__c3
+__b__okay .__c3
+__s^aa__this may be a very short meeting .__c3
+__sj^ba__uh um ==__c3
+__%__anything from your side ?__c3
+__h|s__uh continuing readings we come - uh we're doing some background reading on phonetics .__c5
+__fh__uhhuh .__c3
+__fh|s__okay .__c3
+__s^e__yeah .__c5
+__s__dave ?__c3
+__s__well um - one thing in - in the paper avendano and his collaborators wrote is that - is that um - they tried doing channel normalization on the reverberant in speech by um - subtracting the mean of the log spectral magnitude over a two second window .__c1
+__s.%--__but they didn't do anything with the phase and they said perhaps that limited their approach that it did not try to normalize the phase in any way .__c1
+__s__so i'm - i'm going to start thinking about um - ways that the ph- - that the phase could be used .__c1
+__s__um .__c1
+__s__si- - if - if the um - channel and the reverberation is multiplicative in the frequency domain with the speech spectrum then the phases should be additive .__c1
+__fh|s^rt__so um - | perhaps just subtracting the mean of the phase would - would help .__c1
+__s__um but i don't know i th- - i get the impression that they tried to do some things with the phase and they weren't successful .__c1
+__qy^d^rt__okay .__c3
+__fh|s.%--__oh you know there is one other thing .__c0
+__s^na__um | stephane showed me a paper yesterday um where th- - uh for the italian system they had done a series of experiments playing around with the um the number of iterations that i talked about last week .__c0
+__s^cs__and um | so there was a whole series of those that they had done .__c0
+__s.%--__uhhuh .__c3
+__s__they didn't i don't think reported timing for those .__c0
+__s.%--__but um - | it turns out that the one that they're actually using was not the best uh in - in their series of experiments which i uh maybe it's because they uh wanted to use the same number of iterations across all different languages and this was only done on italian or something .__c0
+__b.%__sure .__c3
+__fh__wh- - who's they - they ?__c3
+__%--__uh i don't know who did it .__c0
+__qy^rt__do you know stephane ?__c0
+__s__who did that ?__c0
+__s__um ==__c2
+__s.%--__i don't know .__c2
+__s__but it's the company who prepared the italian database .__c2
+__s^aa__so it was ==__c2
+__s.%--__is it alcatel ?__c2
+__fh__or ?==__c2
+__qy^rt__i think so .__c4
+__s__i ==__c2
+__s^no__huh .__c3
+__s.%-__i don't know .__c2
+__s.%--__so um | you know there wasn't a huge difference in terms of the performance across all the different experiments that they did .__c0
+__sj__um | but it varied a little bit .__c0
+__s.%-__and uh so i guess the main thing that i take out of that is that i think that for our purposes here we could definitely you know decrease the number of iterations that we do .__c0
+__s^no__and um ==__c0
+__s__at least while we're you know working on uh all different of kinds of variations and that would let us you know pump through a lot more experiments .__c0
+__s__so um - | i still have to - to send everybody a pointer about uh - how to run the um - h t k system on the linux boxes and about changing these number of iterations so that - so that you can do that .__c0
+__s__um | so the - the other thing that - that i was thinking about maybe trying out next is ==__c0
+__s.%-__um ==__c0
+__fg|s__oh !__c0
+__%__the other th- - the other experiment that they had in that paper was uh - uh playing with the number of gaussians per state .__c0
+__s__and so ==__c0
+__sj^fe__uh ==__c2
+__sj^fe.%__uhhuh .__c3
+__fh__i think it's - was playing with the number of states per word .__c2
+__s.%-__they had sixteen seventeen eighteen .__c2
+__s__yeah because it was around - between sixteen and twenty .__c2
+__b__or ==__c2
+__s^ar.%--__okay .__c0
+__fh|s__i should look at that more carefully because i wonder what they did about ==__c0
+__s^df^rt__yeah .__c2
+__fh__oh okay .__c0
+__b.%__i was thinking it was gaussians but it's states .__c0
+__fg|s__so and ==__c2
+__%__okay .__c0
+__fh__yeah apparently um they had better results when they increased the number of states .__c2
+__s^bk__from - from eighteen to twenty or ==__c2
+__fh__uhhuh .__c0
+__s__yeah .__c0
+__b__so the thing i was thinking about was uh you know the number of insertions really goes up when you start adding all the noise in .__c0
+__b__and maybe the thing to do next would be to try to um uh make the silence model more powerful .__c0
+__b__you know increasing the number of gaussians to the number of states different - different things like that .__c0
+__s__so that's probably the next little thing i'll play with when i get a chance .__c0
+__s__um ==__c3
+__s.%-__let's see .__c3
+__s.%--__um | why don't - why don't we uh - if there aren't any other major things why don't we do the digits and then - then uh - turn the mikes off .__c3
+__b__so i'll start .__c3
+__b.%__uh .__c3
+__s__DIGIT_TASK__c3
+__s^fa__DIGIT_TASK__c5
+__b__DIGIT_TASK__c0
+__%__did you put two ?__c2
+__%__my name is maria .__c4
+__s__oh yeah .__c2
+__qw__DIGIT_TASK__c1
+__s^cs__this .__c4
+__s^cs__maria carmen ?__c2
+__h|s^bk__yeah .__c4
+__b__uhhuh .__c2
+__s^df__DIGIT_TASK__c2
+__qy.%-__DIGIT_TASK__c4
+__s__okay .__c3

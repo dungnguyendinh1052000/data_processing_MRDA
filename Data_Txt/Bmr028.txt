@@ -1,0 +1,782 @@
+__s__why ?__c0
+__s.%--__i'm known i ==__c4
+__s^t__um .__c3
+__s__no because she already told me it before she told you .__c0
+__qw.%--__no she told me a long time ago she told me - she told me like two weeks ago .__c4
+__s__oh well it doesn't matter what time .__c0
+__s__okay .__c1
+__s__you know how to toggle the display width function ==__c1
+__s__wow .__c3
+__s^bk__well maybe she hadn't just started transcribing me yet .__c0
+__s^bk|s__anyway .__c0
+__s^bk__what is it ?__c3
+__qy^rt__let me explain something to you .__c4
+__b__um ==__c3
+__s^na__my laugh is better than yours .__c4
+__%-__there .__c3
+__s^aa|s^na__yo .__c1
+__b__i beg to differ .__c0
+__fh__um okay .__c3
+__b__but you have to say something genuinely funny before you'll get an example .__c0
+__s^cs__yeah .__c4
+__s^cs__the thing is i don't know how to get to the next page here .__c3
+__s^cs__no .__c4
+__s^cs^e__you should be - at least be self satisfied enough to laugh at your own jokes .__c4
+__s__actually i thought ==__c3
+__s__there .__c3
+__s^bk__no it's a different laugh .__c0
+__fh__how weird .__c3
+__s__ooh wow !__c0
+__fh__oh holy mackerel .__c4
+__s__wow whoa !__c0
+__s^rt^t^tc__what? !__c3
+__s^t^tc__oh .__c3
+__s__okay i ==__c3
+__s__wasn't even doing anything okay .__c3
+__b__uh .__c0
+__s__eva's got a laptop she's trying to show it off .__c4
+__s^bk|s^bk__that was r- - actually robert's idea but anyhow .__c3
+__fh__um ==__c3
+__s^ba__okay | so here we are .__c5
+__s^ba__once again .__c4
+__s^ba__once again .__c5
+__s^bk|qy^bu^d^rt__right .__c5
+__s^ba__together .__c5
+__qrr.%--__um | so we haven't had a meeting for a while .__c5
+__b__and - and probably won't have one next week .__c5
+__qy^rt__i think a number of people are gone .__c5
+__b__um | so robert why don't you bring us up to date on where we are with e d u ?__c5
+__s^e__um ==__c1
+__s^aa__uh in a - in a smaller group we had uh talked and decided about continuation of the data collection .__c1
+__s^aa__so fey's time with us is almost officially over .__c1
+__s__and | she brought us some thirty subjects and t- - collected the data .__c1
+__s.%--__and ten dialogues have been transcribed .__c1
+__s^bu__and can be looked at .__c1
+__qy^bu^d^rt__if you're interested in that talk to me .__c1
+__s^aa__um | and we found another uh cogsci student who's interested in playing wizard for us .__c1
+__qy^bu^d^rt__here we're going to make it a little bit more complicated for the subjects uh this round .__c1
+__fg|s__she's actually suggested to look um at the psychology department students .__c1
+__s__because they have to partake in two experiments in order to fulfill some requirements .__c1
+__s^bk__so they have to be subjected before they can actually graduate .__c1
+__s__and um ==__c1
+__s^ba|s^bk__we want to design it so that they really have to think about having some time .__c1
+__fg|s__two days for example .__c1
+__b__to plan certain things and figure out which can be done at what time .__c1
+__b__and ==__c1
+__s^rt__um | sort of package the whole thing in a - in a re- - in a few more complicated um structure .__c1
+__qy^rt__that's for the data collection .__c1
+__s^aa|s__as for smartkom i'm - the last smartkom meeting i mentioned that we have some problems with the synthesis .__c1
+__b__which as of this morning should be resolved .__c1
+__fh__good .__c5
+__s__and so ==__c1
+__b__should be means they aren't yet .__c1
+__s__but - but i think i have the info now that i need .__c1
+__s__plus johno and i are meeting tomorrow .__c1
+__b__so maybe uh - uh when tomorrow is over we're done .__c1
+__s^ba__and ha- - n- - hav- - we'll never have to look at it again .__c1
+__b__maybe it'll take some more time .__c1
+__s^cs__to be realistic .__c1
+__s^df__but at least we're - we're seeing the end of the tunnel there .__c1
+__s__that was that .__c1
+__s^bk__um ==__c1
+__b__the uh ==__c1
+__fh__uh | i don't think we need to discuss the formalism .__c1
+__qy^rt__that'll be done officially s- - once we're done .__c1
+__s^ar|s__um ==__c1
+__qrr.%-__something happened in - on eva's side with the p r m that we're going to look at today .__c1
+__s__and um ==__c1
+__b__we have a visitor from bruchsal from the international university .__c1
+__fh__andreas i think you've met everyone except nancy .__c1
+__s__sorry .__c0
+__s__yeah .__c2
+__b__hi hi .__c0
+__s^e__hi hi .__c1
+__fh__and um ==__c1
+__s^cs__so when you said andreas i thought you were talking about stolcke .__c0
+__s^bd__now i know that we aren't .__c0
+__s^e__okay .__c0
+__qw^rt__andy you actually go by andy .__c1
+__s.%--__right ?__c1
+__s^ba__yeah .__c2
+__b__oh okay .__c1
+__s__because there is another andreas around .__c2
+__s^t3__uh ==__c1
+__s^bk|s__huh .__c0
+__s.%--__so to avoid some confusion .__c2
+__s^bk|qy^bu^d__that will be reuter ?__c1
+__s__yeah .__c2
+__s__oh okay .__c1
+__s^ba^t3__so my scientific director of the e m l is also the dean of the international university .__c1
+__s^bk__one of his many occupations that just contributes to the fact that he is very occupied .__c1
+__s__and um ==__c1
+__s__the ==__c1
+__s__um | he might tell us a little bit about what he's actually doing .__c1
+__b__and why it is s- - somewhat related .__c1
+__fh__and - by uh using maybe some of the same technologies that we are using .__c1
+__s^ba__and um | was that enough of an update ?__c1
+__s^df__i think so .__c5
+__s^ba__in what order shall we proceed ?__c1
+__s__okay .__c3
+__b__maybe you have your online ==__c1
+__s__uh ==__c3
+__%--__yeah sure .__c3
+__s^fa|s__um | so i've be- - just been looking at um ==__c3
+__s^rt__ack !__c3
+__s^ba__what are you doing ?__c3
+__s^bk__yeah .__c3
+__s^cs__okay .__c3
+__s__um ==__c3
+__s^bk__i've been looking at the p r m stuff .__c3
+__s^fa|s^df__um ==__c3
+__s__so this is sort of like the latest thing i have on it .__c3
+__qy^rt__and ==__c3
+__s__i sort of constructed a couple of classes .__c3
+__s__like a user class a site class and - and you know a time a route and then - and a query class .__c3
+__s^df.%--__and i tried to simplify it down a little bit .__c3
+__s^fe__so that i can actually um look at it more .__c3
+__s__it's the same paper that i gave to jerry last time .__c3
+__qy^r^rt__um ==__c3
+__%-__so basically i took out a lot of stuff - a lot of the decision nodes .__c3
+__s^e^rt__and then tried to ==__c3
+__s^bu__the red lines on the um graph are the um relations between the different um classes .__c3
+__qy^d^g^rt__like a user has like a query .__c3
+__s^aa|s^aap__and then also has you know um reference slots to its preferences .__c3
+__s^df__um | the special needs and you know money and the user interest .__c3
+__s^bk__and so ==__c3
+__s^e__this is more or less similar to the flat bayes net that i have you know with the input nodes and all that .__c3
+__s^t1.%--__and ==__c3
+__fg|s^ba__so i tried to construct the dependency models .__c3
+__s^t1__and ==__c3
+__s^cs__a lot of these stuff i got from the flat bayes net .__c3
+__b__and what they depend on .__c3
+__s^ba__and it turns out you know the c p t's are really big if i do that .__c3
+__s^df__so i tried to see how i can do um - put in the computational nodes in between .__c3
+__b__and what that would look like in a p r m .__c3
+__s^df__and so i ended up making several classes .__c3
+__fg|%-__actually you know a class of - with different attributes that are the intermediate nodes .__c3
+__s__and one of them is like time affordability money affordability site availability and the travel compatibility .__c3
+__s^df__and so some of these classes are ==__c3
+__s^df^e__s- - some of these attributes only depend on stuff from say the user .__c3
+__s^cs__or s- - f- - just from i don't know like the site .__c3
+__s^df__s- - like um these here .__c3
+__s^aa__it's only like user .__c3
+__s^cs^e__but if you look at travel compatibility for each of these factors you need to look at a pair of you know what the um preference of the user is .__c3
+__s^bk__versus you know what type of an event it is .__c3
+__s^ba^cs__or you know which form of transportation the user has .__c3
+__s^cs__and whether you know the onsite parking matters to the user in that case .__c3
+__s^bk__and | that makes the scenario a little different in a p r m .__c3
+__s^bk__because um then you have one user objects .__c3
+__b__and potentially you can have many different sites in - in mind .__c3
+__s^e__and so ==__c3
+__s^bk__for each of the site you'll come up with this rating of travel compatibility .__c3
+__%--__and | they all depend on the same users but different sites .__c3
+__s^am^ba__and that makes a ==__c3
+__s^no__i'm tr- - i w- - i wa- - have been trying to see whether the p r m would make it more efficient if we do inferencing like that .__c3
+__s^cs__and so ==__c3
+__s^ba.%-__i guess you end up having fewer number of nodes than in a flat bayes net .__c3
+__s^no__because otherwise you would c- ==__c3
+__s^bu__well it's probably the same .__c3
+__s__but um ==__c3
+__qy^d^g^rt__no you would definitely have ==__c3
+__s.%--__be able to re use like um all the user stuff .__c3
+__s^ba^rt__and not - not having to recompute a lot of the stuff .__c3
+__b__because it's all from the user side .__c3
+__s__so if you changed sites you - you can you know save some work on that .__c3
+__s^ba__but ==__c3
+__b__you know in the case where it depends on both the user and the site then i'm still having a hard time trying to see how um using the p r m will help .__c3
+__s__um | so anyhow using those intermediate nodes then this - this would be the class that represent the intermediate nodes .__c3
+__s^bu__and that would - basically it's just another class in the model .__c3
+__qy^d^g^rt__with you know references to the user and the site and the time .__c3
+__h|s__and then after you group them together this ==__c3
+__s__no- - the dependencies would - of the queries - would be reduced to this .__c3
+__%-__and so you know it's easier to specify the c p t and all .__c3
+__b__um | so i think that's about as far as i've gone on the p r m stuff .__c3
+__s__well ==__c5
+__s^df__right ?__c3
+__s.%-__no .__c5
+__qy^rt__so y- - you didn't yet tell us what the output is .__c5
+__s^aa__the output .__c3
+__qy^bu^d^rt__so what decisions does this make ?__c5
+__s.%-__okay | so it only makes two decisions in this model .__c3
+__s^ar|s__and one is basically how desirable a site is .__c3
+__s^2__meaning um how good it matches the needs of a user .__c3
+__b__and the other is the mode of the visit .__c3
+__s|s^aa__whether th- - it's the e v a decision .__c3
+__s^bk__um ==__c3
+__%--__so instead of um doing a lot of you know computation about you know which one site it wants of - the user wants to visit i'll come - well try to come up with like sort of a list of sites .__c3
+__s^e__and for each site you know where - h- - how - how well it fits .__c3
+__s^ba__and basically a rating of how well it fits and what to do with it .__c3
+__s.%-__so ==__c3
+__s^aa__anything else i missed ?__c3
+__s^aa__so that was pretty quick .__c5
+__s__she's ac- - uh uh eva's got a little write up on it .__c5
+__b__that uh probably gives the - the details to anybody who needs them .__c5
+__b__um ==__c5
+__fg|s__so ==__c5
+__b__the - you - you didn't look at all yet to see if there's anybody has a implementation ?__c5
+__b__no not yet .__c3
+__qy^bu^d^m^rt__um ==__c3
+__b__okay .__c5
+__s^bk__so one - so one of the questions you know about these p r m's is ==__c5
+__fg|s^cs__uhhuh .__c3
+__s^cs__uh | we aren't going to build our own interpreter .__c5
+__s.%-__so if - if we can't find one then we uh go off and do something else and wait until s- - one appears .__c5
+__s^aa|s^cs__uh | so one of the things that eva's going to do over the next few weeks is see if we can track that down .__c5
+__s^aa__uh ==__c5
+__s^ba__the people at stanford write papers as if they had one .__c5
+__b__but - um | we'll see .__c5
+__s^ba^r__so w- - anyway so that's a - a major open issue .__c5
+__%-__if there is an interpreter it looks like you know what eva's got should run .__c5
+__b__and we should be able to actually um try to solve you know the problems .__c5
+__s__to actually take the data and do it .__c5
+__fg|s__uh | and we'll see .__c5
+__s^bk|s^bu__uh i actually think it is cleaner .__c5
+__s^aa__and the ability to instantiate you know instance of people and sites and stuff um will help in the expression .__c5
+__s^na__whether the inference gets any faster or not i don't know .__c5
+__b__uh it wouldn't surprise me if it - if it doesn't .__c5
+__fg|s__uhhuh .__c3
+__s^bk__you know it's the same kind of information .__c5
+__s^ba__i think there are things that you can express this way which you can't express in a normal belief net .__c5
+__b__uh | without going to some incredible hacking .__c5
+__s__of - sort of rebuilding it on the fly .__c5
+__s__i mean the notion of instantiating your el- - elements from the ontology and stuff fits this very nicely and doesn't fit very well into the extended belief net .__c5
+__fg|s^2__so that was one of the main reasons for doing it .__c5
+__b__um ==__c5
+__fg|s__i don't know .__c5
+__b__so uh | people who have thought about the problem like robert ==__c5
+__b__i- - it looked to me like if eva were able to come up with a you know value for each of a number of uh sites plus its e v a thing .__c5
+__fg|qy^rt__that a travel planner should be able to take it from there .__c5
+__s__and | you know with some other information about how much time the person has and whatever .__c5
+__s^bk|s^fa__and then plan a route .__c5
+__b__uhhuh um well first of all uh uh great looks mu- - much cleaner .__c1
+__s__nnn nnn ==__c1
+__s.%-__certain - certain beauty in it .__c1
+__s^bk|s^ba^fe^j__so um if beauty is truth then uh we're in good shape .__c1
+__%-__but ==__c1
+__s^bk__the um ==__c1
+__s__as uh mentioned before we probably should look at t- - the details .__c1
+__s.%--__so if you have a write up then uh i'd love to read it .__c1
+__s^cc__uhhuh .__c3
+__fg|s__and uh ==__c1
+__s__because um ==__c1
+__s^ba|s^ft__i- - can you go all the way back to the - the very top ?__c1
+__s^ba^r__yeah .__c3
+__s^bk__um | uh these - these w- - w- - when these are instantiated they take on the same values that we had before ?__c1
+__s^t^tc__i can't really see the whole thing .__c3
+__fh__or are they - have they changed in a sense ?__c1
+__fg|s__well i think i basically leave them to similar things .__c3
+__s.%-__uhhuh .__c1
+__fh__some of the things might - that might be different maybe like - are that the hours for the site .__c3
+__s__huh ==__c1
+__s^ba__and | eventually i meant that to mean whether they're open at this hour or not .__c3
+__s^ba__and status would be you know more or less like whether they're under construction .__c3
+__s__uhhuh .__c1
+__s^bd__and - and - | or stuff like that .__c3
+__s^bd__and the uh other question i would have is that presumably - from the way the stanford people talk about it - you can put the probabilities also on the relations .__c1
+__s^e__if ==__c1
+__s__which is the structural uncertainty ?__c3
+__fh__yeah .__c5
+__s^bk|s__yeah | i - that's ==__c5
+__s__that i think was actually in the previous the ubenth stuff .__c5
+__s^bu.%-__i don't remember whether they carried that over to this or not .__c5
+__s^aa|s.%--__huh ==__c0
+__s__uh | structural uncertainty .__c5
+__s__it's sort of in the definition or - in the - in daphne's definition of a p r m .__c1
+__s^bk__is that classes and relations .__c1
+__fh__okay .__c5
+__s^bk__and you're going to have c p t's over the classes and their relations .__c1
+__fg|s__all right .__c5
+__s__more uncertainty or - or ==__c1
+__s^cs__uh ==__c5
+__qy^rt__i remember them learning when you know you don't know the structure for sure .__c3
+__s^df.%-__i should say ==__c1
+__fg|s__yeah .__c5
+__s__but i don't remember reading how you specify .__c3
+__s__right .__c5
+__b__yeah that would be exactly my question .__c1
+__s^ba__wh- - to start with .__c3
+__b__yeah .__c3
+__s^am__well ==__c1
+__s^bk|s^co__yeah .__c5
+__qw^rt^t^tc__yeah .__c3
+__fh|s__so uh the - the plan is - is when daphne gets back we'll get in touch .__c5
+__s^bu^rt__and supposedly um we'll actually get s- - deep - seriously connected to - to their work .__c5
+__fg|s^bu__and ==__c5
+__qrr^d^rt__yep .__c1
+__s^2__somebody will - uh you know - if it's a group meeting once a week probably someone will go down and whatever .__c5
+__qy^d^g^rt__so we'll actually figure all this out .__c5
+__s__okay .__c1
+__s__okay .__c1
+__s^df__then i think the w- - long term perspective is - is pretty clear .__c1
+__s__we get rocking and rolling on this again once we get a package .__c1
+__s__if when and how .__c1
+__s__then - this becomes foregrounded .__c1
+__b__uhhuh .__c3
+__fh__profiled .__c1
+__s^ba^j__focused again .__c1
+__s^bk__designated ?__c4
+__s__of course .__c0
+__b__and um ==__c1
+__s__until then we'll come up with a something that's - that's way more complicated for you .__c1
+__s__right ?__c1
+__s^fa__okay .__c3
+__fh__because this was laughingly easy .__c1
+__s^na__right ?__c1
+__s^e^na__actually i had to take out a lot of the complicated stuff .__c3
+__s^ba__because i - i made it really complicated in the beginning .__c3
+__s__and | jerry was like this is just too much .__c3
+__s^bk__yeah so um ==__c5
+__s^j__you could from this go on and say suppose there's a group of people traveling together .__c5
+__s^m__and | you wanted to plan something that somehow with some pareto optimal uh uh thing for ==__c5
+__s^bk__that's good .__c0
+__s__that's definitely a job for artificial intelligence .__c0
+__s__uh or ==__c5
+__s^bk__well that's not - not even something humans ==__c1
+__fg|s^ba__except for humans can't really solve it either so .__c0
+__fg|s^t^tc__yeah .__c1
+__s^ba__right .__c5
+__s^df__right .__c5
+__s__well that's the - that would - that would be a - uh you could sell it as a  ==__c5
+__fh__yeah .__c0
+__s^bk__okay uh you don't have to fight about this just give your preferences to the ==__c5
+__s__and then you can blame the computer .__c0
+__fh__w- - exactly .__c5
+__b__huh ==__c1
+__s__so ==__c0
+__s.%-__but what does it - uh - would a pote- - potential result be to - to split up and never talk to each other again ?__c1
+__s^bk__you know .__c1
+__qy^2^bu^d^j^rt__that should be one of them .__c0
+__s__yeah .__c1
+__s^aa__yeah right .__c5
+__b__that'd be nice .__c4
+__s^t^tc__huh ==__c0
+__s.%--__anyway .__c5
+__s__so - so there i- - there are some - some u- - uh you know uh elaborations of this .__c5
+__s__that you could try to put in to this structure .__c5
+__s__but i don't think it's worth it now .__c5
+__s__because we're going to see what - what else uh - what else we're going to do .__c5
+__s^rt__anyway .__c5
+__s^ba__but uh ==__c5
+__s.%--__it's good yeah .__c5
+__s.%-__and - and there were a couple other ideas of - of uh things for eva to look at .__c5
+__qy^rt__in - in the interim .__c5
+__s^ar^fe__good | then we can move on and see what andreas has got out his sleeve .__c1
+__s^ar^fe^r^rt__or andy for that matter .__c1
+__s^co__okay | so uh uh well thanks for having me here first of all .__c2
+__s.%-__um | so maybe just a - a little background on - on my visit .__c2
+__s__so uh i'm not really involved in any project that's uh - that's relevant to you uh a- - at the moment .__c2
+__s^ba__uh the - the reason is really for me uh to have an opportunity to talk to some other researchers in the field .__c2
+__s^bk__and - and so i'll just n- - sort of give you a real quick introduction to what i'm working on .__c2
+__s^rt__and - | um i just hope that you have some comments .__c2
+__s^ba__or maybe you're interested in it to find out more .__c2
+__s.%--__and - and so i'll be uh happy to talk to you .__c2
+__s__and - and uh i'd also like to find out some more .__c2
+__s__and - and maybe i'll just walk around the office .__c2
+__fh__and ==__c2
+__s__and then - and ask some - some questions uh in a couple days .__c2
+__s:s^ba__so i'll be here for uh tomorrow and then uh the remainder of uh next week .__c2
+__s:s^ba__okay so um what i started looking at uh to begin with is just uh content management systems uh i- - i- - in general .__c2
+__s:s__so ==__c2
+__s:s__um uh what's uh - sort of the state of the art there is to um - uh you have a bunch of - of uh documents or learning units or learning objects .__c2
+__s^ba__um and you store meta data uh associate to them .__c2
+__s^bk|s^t^tc.%-__so there's some international standards .__c2
+__s__like the i triple e uh - there's an i triple e l o n standard .__c2
+__s^ba__and um these fields are pretty straightforward you have uh author information you have uh size information format information and so on .__c2
+__s__uh but they're two uh fields that are um more interesting .__c2
+__%-__one is uh you store keywords associated with the uh - with the document .__c2
+__s^ba__and one is uh you have sort of a um ==__c2
+__fh__well what is the document about so it's some sort of taxonomic uh ordering of - of the - of the units .__c2
+__s__now if you sort of put on your semantic glasses uh you say well that's not all that easy .__c2
+__s^bk__because there's an implicit um uh assumption behind that .__c2
+__b__is that uh all the users of this system share the same interpretation of the keyword and the same interpretation of uh whichever taxonomy is used .__c2
+__b__and uh ==__c2
+__qy^rt__i think that's a - that's a very - that's a key point of these systems .__c2
+__qrr^d__and they sort of always brush over this real quickly without really elaborating much of that .__c2
+__h__and uh - as a matter of fact the only thing that m- - apparently really works out so far are library ordering codes .__c2
+__s__which are very very coarse grain .__c2
+__s__so you have some like science biology and then ==__c2
+__s__but that's really all that we have at the moment .__c2
+__s.%-__so i think there's a huge um uh need for improvement there .__c2
+__s^fe__now what this uh - a standard like this would give us is we could um sort of uh with a search engine just query uh different repositories all over the world .__c2
+__s__but we can't really ==__c2
+__s^bk__um | so what i'm - what i try to do is um - to have um ==__c2
+__s__uh - so so the scenario is the following you- - you're working on some sort of project and you encounter a certain problem .__c2
+__fh__now what - what we have at our university quite a bit is that uh students um try to u- - program a certain assignment for example .__c2
+__s^ba__they always run into the same problems .__c2
+__s.%-__uh and they always come running to us .__c2
+__s__and they'll say why's it not - it's not working .__c2
+__s^e__and we always give out the same answer .__c2
+__%-__so we thought well it'd be nice to have a system that could sort of take care of this .__c2
+__s^ba^bd__and - so what i want to build is basically a - a smart f a q system .__c2
+__s^aa__now what you uh need to do here is you need to provide some context information .__c2
+__s^ba__which is more elaborate than i'm looking for this and this and this keyword .__c2
+__s^ft__so ==__c2
+__s.%-__and i think that i don't need to tell you this .__c2
+__s^ba.%-__i'm - i'm sure you have the same - when - when somebody utters a sentence in a certain uh context .__c2
+__s^df__it - and - and the same sentence in another context makes a huge difference .__c2
+__s__so | i want to be able to model information like um so in the - in the context of - in the context of developing distributed systems of a- - at a computer science school .__c2
+__s__um - | what kind of software is the person using .__c2
+__s^bk__which homework assignment is he or she working on at the moment .__c2
+__s^aa^fe^rt__um maybe what's the background of that student's .__c2
+__s__um | which um which error message was encountered .__c2
+__s^ba__so this sort of information i think should be transmitted uh when a certain document is retrieved .__c2
+__s__now ==__c2
+__s^df__um ==__c2
+__s^aa__basically giving this um - uh ==__c2
+__b__so we somehow need to have a formalized um way of writing this down basically .__c2
+__s__and that's where the shared interpretation of - of certain terms and keywords comes in again .__c2
+__s^ba^bd__and | using this and some - some uh knowledge about the domain i think you can do some - some simple inferences .__c2
+__fh__like you know that when somebody's working about - uh working on - on servlets for example .__c2
+__s^bk__he's using java because servlets are used - are written in java .__c2
+__s:s^co__so some - some inferences like that .__c2
+__s^ft^t3__now um | u- - using this you can infer more information .__c2
+__s^bk__and you could then match this to the meta data of um - off the documents you're - you're searching against .__c2
+__s^cs^j__so uh what i want to do is basically have some sort of um - given these inputs .__c2
+__fg|s.%--__and then i can compute how many documents match .__c2
+__s^df__and use this as a metric in the search .__c2
+__b__now what i plan to do is i want to uh sort of do a uh - uh try to improve the quality of the search results .__c2
+__%-__and i want to do this by having a depth uh um um - steepest descent approach .__c2
+__fg|s:s__so if i knew which operating system the person was working on would this improve my search result .__c2
+__fh__and - and having uh uh a symbolic formalized model of this i could simply compute that .__c2
+__s^aa__and find out which um - which questions are worth um asking .__c2
+__b__and that's what i then propagate back to the user .__c2
+__s__and - and sort of try to optimize the search in this way .__c2
+__fg|s^t^tc__now the big problem that i'm facing right now is um it's fairly easy to hack up a system uh quickly that - that works in the small domain .__c2
+__s__but the problem is obviously the scalability .__c2
+__s__and uh uh | so robert was mentioning uh earlier today is that uh microsoft for example with their printer set up program has a bayesian network .__c2
+__s__which does exactly this .__c2
+__s__but there you face a problem that these are very hard to extend .__c2
+__fg__and so uh what i'm - what i try to do is basically try to model this uh in a way that you could really combine uh knowledge from very different sources .__c2
+__s^cs^j.%--__and - and um | sort of looking into some of the ideas that the semantic web community uh came up with .__c2
+__qy^rt__trying to - to have uh an approach how to integrate s- - uh certain uh - representation of certain concepts and also some computational rules .__c2
+__s^e^j__um what you can do with those .__c2
+__s^ar__um ==__c2
+__qrr.%--__what i'm also looking into is a probabilistic approach into this .__c2
+__s^cs^rt__because document retrievals is a very fuzzy procedure .__c2
+__s__so it's probably not that easy to simply have a symbolic uh computational model .__c2
+__s^ng__that - that probably isn't expressive enough .__c2
+__s^bk__so - so that's another thing .__c2
+__s^bk|qy^bh^rt__um which i think you're also uh uh looking into right now .__c2
+__s__and then um uh sort of as an add on to this whole idea um uh that would be ==__c2
+__s^aa|s^ba__now depending on what the search engine or the content repository - depending on which um uh - which uh rules and which ontologies it - it uses or basically its view of the world uh you can get very different results .__c2
+__s__so it might ma- - make a lot of sense to actually query a lot of different search engines .__c2
+__s^e__and there you could have an idea where you actually have sort of a - a peer to peer approach .__c2
+__s^bk__where we're all sort of carrying around our individual bookshelves .__c2
+__s__and um if you have a question about a homework it's - probably makes sense to ask somebody who's in your class with you sort of the guru in the certain area .__c2
+__s__rather than going to some yahoo like uh search engine .__c2
+__qy^rt__so these are some of the - just in a nutshell some of the ideas .__c2
+__fh__and i think a lot of the - even though it's a - it's a very different domain - but i think a lot of the um issues are - are fairly similar .__c2
+__s^df__so ==__c2
+__s^aa|s^ba__okay .__c2
+__s^cc__and so some of the - i don't know how much you know about the larger heidelberg project .__c0
+__b__i - are you ?==__c0
+__b__uh i know yeah i know abou- - about it .__c2
+__fh|s__so it seems like a lot of - some of the issues are the same .__c0
+__s.%--__it's like um - you know the c- - context based factors that influence how you interpret ==__c0
+__%-__uhhuh uhhuh .__c2
+__%-__um | s- - how to interpret ==__c0
+__s.%--__in - in this case infer- - in- - in knowing - wanting to know what kinds of things to ask .__c0
+__s.%--__we- - we've kind of talked about that .__c0
+__s__but we haven't worried too much about that end of the discourse .__c0
+__s|s^aa__uhhuh .__c1
+__b__but maybe you guys had that in the previous models .__c0
+__s^ba__well in a - in one - t- - one s- - huh small difference in a - in a way is that he doesn't have to come up with an answer .__c1
+__fg|s__but he wants to point to the places w- - w- ==__c1
+__s^df__yeah | so so i'm - i'm not - i'm not building an expert .__c2
+__b__documents that have the answers .__c0
+__s^df__uh i want to build a smart librarian basically .__c2
+__s__uhhuh .__c0
+__s^df^ng__right .__c0
+__s^aa__that can point you to the right reference .__c2
+__s^ba__right .__c0
+__b__i don't want to compute the answer .__c2
+__s^df__so it's a little bit easier for me .__c2
+__s^ba__well uh you have to s- - still m- - understand what the content says about itself and then match it to what you think the informational needs .__c1
+__s^nd.%--__uhhuh .__c0
+__qy__uhhuh .__c2
+__qy__so you also don't have to figure out what the content is .__c0
+__s^rt__you're just taking the keywords as a topic - text .__c0
+__s__i - i assume that - that the- - there will be learning systems that - that tag their - their content .__c2
+__qy^bu^d^g^rt__as ==__c0
+__s^e__okay .__c0
+__s__and um um ==__c2
+__s^aa__right .__c0
+__b__m- - and basically what i - what i envision is that you - rather than just supplying a bunch of keywords you could basically - for - for an f a q for example - you could state sort of like a logic condition when this document applies .__c2
+__s^bk__so this document explains how to set up your uh mail account on linux or something like this .__c2
+__s__uhhuh .__c0
+__b__so - so something - something very specific that you can then ==__c2
+__b__but the - i think that the key point with these uh learning systems is that uh a learning system is only as good as uh the amount of content it - it carries .__c2
+__s__huh .__c0
+__%--__uhhuh .__c0
+__s__you can have the best learning system with the best search interface .__c2
+__s__if there's no content inside of it it's not very useful .__c2
+__b__so i think ultimately because um uh - developing these - these rules and these inference uh - inferences i think is very costly .__c2
+__s__so um | uh i think you must be able to reuse some - some existing um domain - domain information or - or - or ontologies that - that uh other people wrote .__c2
+__b__and then try to integrate them .__c2
+__fg|s__and then also search the entire web basically rather than just the small uh content management system .__c2
+__s^bk__okay .__c0
+__s^bk__uhhuh .__c0
+__s^t^tc__so i think that's - that's crucial for - for the success of - or ==__c2
+__qy^d^rt^t^tc__so you're not ==__c0
+__qy^rt__i guess i'm trying to figure out how - how it maps to the kinds of things that we've talked about in this group and actually associated groups .__c0
+__s__uhhuh .__c2
+__qy^j^rt__because some of us do pretty detailed linguistic analyses .__c0
+__s.%--__and i'm guessing that you - you won't be doing that .__c0
+__qy^j__no .__c2
+__s^df__okay .__c0
+__fh__just checking .__c0
+__s.%--__so - okay ==__c0
+__s__huh ==__c1
+__s__no .__c2
+__s__so you take the query and - and ==__c0
+__s__on the other hand uh framenet could well be useful .__c5
+__s.%--__so do you know the framenet story ?__c5
+__s__um | yeah .__c2
+__s^2__uh | not - not too much .__c2
+__b__okay .__c5
+__b__but uh ==__c2
+__fh__oh th- - that's another thing you might want to look into while you're here .__c5
+__qy^bu^d^rt__i have a rough overview .__c2
+__s^ba__because um - you know the standard story is that keyworks - keywords evoke frames and the frames may well give you additional keywords .__c5
+__s^aa__or uh - if you know that - that - that a - a bunch of keywords uh indicate a frame then you can find documents that actually have the whole frame rather th- - than just uh individual ==__c5
+__s^aa|s__huh huh ==__c2
+__s^bk|qy^bu^d^rt__so there's a lot of stuff .__c5
+__s^aa__and people are looking at that .__c5
+__qw__most of the work here is just trying to get the frames right .__c5
+__s^aa__there's linguists and stuff .__c5
+__s.%--__and there's a lot of it .__c5
+__s__and they're - they're busily working away .__c5
+__qy.%-__but there are some application efforts trying to exploit it .__c5
+__s^ba__and this looks t- - it seems to be that this is a place where you might be able to do that .__c5
+__b__yeah yeah .__c2
+__s^bu__yeah i'm sure i could learn a lot about um - yeah just how to - how to come up with these structures .__c2
+__s^2__huh ==__c0
+__qy^d^g^rt__because it's - it's very easy to whip up something quickly .__c2
+__qy^rt__but it maybe then makes sense to - to me but not to anybody else .__c2
+__s.%-__and - and if we want to share and integrate things they must - well they must be well designed really .__c2
+__s^aa__remember the uh prashant story ?__c1
+__s__right .__c5
+__fh__the absolutely no - no linguistic background person that the i u sent over here .__c1
+__s^bk|s__right .__c5
+__s^ar|s^ba__and andreas and i tried to come up wi- - or we had come up actually with a uh - with him working on an interface for framenet as it was back then that would p- - do some of the work for this machine .__c1
+__s^ba^e__right .__c5
+__s__yeah .__c5
+__b__which uh never got done because prashant found a happy occupation .__c1
+__b__w- - yeah i know i mean it - it - he - w- - he did w- - what - what he did was much more s- - sensible for him .__c5
+__fg__which in the ==__c1
+__%-__i think uh ==__c5
+__qw^rt__absolutely yeah .__c1
+__s.%-__but so - i'm just saying the uh we had that idea .__c1
+__s^ba^na__you know ==__c5
+__s^rt__yeah .__c5
+__s.%--__the idea was there yeah okay .__c5
+__b__uh to - to exploit framenet there as well .__c1
+__s__yeah .__c5
+__s^bk__huh ==__c0
+__b__and um ==__c1
+__b__yeah actually you guys never ==__c5
+__fh__and srini's doing information extraction also .__c1
+__s^ba__right ?__c1
+__fg|s__right .__c5
+__s^ba.%-__with that framenet base .__c1
+__fg|s^ba^df^ng__huh ==__c2
+__s^ba^cs__yeah .__c5
+__b__so you - you guys never sent anybody else from i u .__c5
+__s^bsc__uhhuh .__c1
+__s.%--__you were y- - no ==__c5
+__s^bd__except - except prashant ?__c2
+__s^cs__yeah .__c5
+__s.%--__uh | this was supposedly an exchange program .__c5
+__s.%-__um ==__c2
+__s^aa__and - i - we - you know it's fine we don't care .__c5
+__s^co__but it just - i'm a little surprised that uh andreas didn't come up with anyone else he wanted to send .__c5
+__b__all right .__c5
+__s^cs__uh i don't know i mean the uh ==__c2
+__fg|s__i mean i had forgotten a- - i - to be honest with you i'd totally forgotten we had a program .__c5
+__b__huh ==__c0
+__qy^bh__uh it's in the program ?__c1
+__s__uh i - i think it's - it's really the lack of students uh at i u at the moment .__c2
+__s^co__yeah .__c5
+__s__yeah .__c5
+__b__no no there was a whole co- - there was a little contract signed .__c5
+__s^na.%-__it was ==__c5
+__s__yeah .__c5
+__s__yeah yeah i think it's ju- - it's more the lack of - of students really .__c2
+__s.%--__and w- - we have all these sponsors that are always sort of eager to get some teams .__c2
+__s^df__yeah i know .__c5
+__s^bk__huh ==__c0
+__fg|s^ba__right .__c5
+__s__but ==__c2
+__s^bk|%-__right .__c5
+__s__well i mean if - if i were a student i'd love to come here rather than work for some german company or ==__c2
+__s.%-__yeah .__c5
+__s.%--__right .__c5
+__s^bk__you are being recorded right now so beware .__c1
+__s^cs.%-__oh right !__c5
+__s__well i didn't say anybody to - anything to offend .__c2
+__s.%--__well except for the sponsors maybe .__c2
+__b__but ==__c2
+__s^ba.%--__right .__c5
+__b__anyway .__c5
+__b__right so i thi- - tha- - that's - that's one of the things that might be worth looking into while you're here .__c5
+__s^ba^cs__uhhuh .__c2
+__fg|s__uh - | unfortunately srini who is heavily involved in daml and all this sort of stuff is himself out of town .__c5
+__s__uhhuh .__c2
+__b__well i'll go to the uh semantic web workshop uh in two weeks .__c2
+__s:s__right .__c5
+__s__and ==__c5
+__s^ba__yeah for - for some reason he's not doing that .__c5
+__s__yeah .__c0
+__fg|s^t^tc__i don't know why he ==__c5
+__b__well he had other things to do .__c0
+__qrr__oh i - who knows ?__c5
+__s^bu__s- - yeah you'll see - you'll certainly see a lot of the people there .__c5
+__qy^d^g^rt__the uh ==__c0
+__s^aa__the other person i thought of is dan gildea .__c0
+__s__because he did some work on topic spotting ==__c0
+__s^bk__yeah .__c5
+__s__st- - statistical stuff .__c5
+__%-__that would be a very good idea .__c5
+__%--__w- - um | which is i mean you - i mean i don't - depending on how well you want to integrate with that end ==__c0
+__b__uhhuh .__c2
+__b__you know like taking the data and fig- - you said the learning systems that figure out ==__c0
+__fg|qy^rt__we - there's someone in icsi who actually has been working on has worked on that kind of stuff .__c0
+__fh__and he's worked with frame net .__c0
+__%-__so you could talk to him about you know both of those things at once .__c0
+__s^bk|s__uhhuh uhhuh ==__c2
+__s^e__so ==__c0
+__s^na__and he just finished writing a draft of his thesis .__c0
+__s^bk__so ==__c0
+__qy.%-__so uh who is that again ?__c2
+__s__i- - u- - dan gildea g i l d e a .__c0
+__qy^d^g^rt__and he's in one of the rooms on the fifth floor and stuff .__c0
+__s^aa__who ?__c1
+__s^aa__i can take you to his office .__c1
+__s^bk__it's just around the corner .__c1
+__s__and ==__c0
+__s__okay great .__c2
+__s.%-__huh ==__c0
+__s__well if you fal- - solve the problem hope you can do one for us too .__c0
+__s__all right | was there anything else for this ?__c5
+__fh__one of these times soon we're going to hear about construal .__c5
+__s__yeah i'm sure .__c1
+__s__i have um - i think it was november two thousand three or some ==__c1
+__s__no wh- - i had something in my calendar .__c1
+__s__oh okay right .__c5
+__s__um ==__c1
+__s^bk|s__wait a second .__c4
+__s__that's a long way away .__c4
+__b__good thinking !__c5
+__%-__uh well maybe i can - i can bribe my way out of this .__c1
+__s^r__so ==__c1
+__s^bu__so i did some double checking .__c1
+__%__and it seems like spring break in two thousand one ==__c1
+__qy^d^g^rt__talk about changing the topic .__c0
+__s^e^rt__no .__c1
+__s^bk|s__well no but he's - he's - he's - he's - as you said he's like the state legislature he's trying to offer us bribes .__c5
+__s__at least this is a private meeting .__c0
+__s.%-__right exactly .__c0
+__fg|%-__okay that's the link .__c0
+__fg|s__this uh - oh they refused the budget again ?__c1
+__fh__is it - so about citris ?__c1
+__fg|%-__yeah still nothing .__c1
+__s__uh | this - this - this - t- - the s- ==__c5
+__qo^cs^j__we're uh involved in a literally three hundred million dollar uh program .__c5
+__s^bk__uh | with the state of california .__c5
+__s^ba__and the state of california is now a month and a half behind its legis- - its legally required date to approve a budget .__c5
+__fg|s.%--__so the budget has not been approved .__c5
+__s.%-__and two days ago - there's two l- - you know so two branches of legislature - one branch approved it .__c5
+__s^ba^j__uhhuh .__c2
+__fh__and um ==__c5
+__%--__yesterday day there was this uh - uh i thought that the other branch would just approve it .__c5
+__s^rt__but now there's actually a little back sliding to people who - who approved it got flak from there .__c5
+__s__uh anyway .__c5
+__s__so um ==__c5
+__s__oh i have to tell you a wonderful story about this .__c5
+__fh__okay ?__c5
+__s^t1__and then we'll go .__c5
+__s^fa^t3__so i - it turns out i wound up having lunch today with a guy named tom kalil .__c5
+__s^fe__k i l l .__c5
+__s^fe__k a l i l .__c5
+__s^m__and uh | he now works at berkeley .__c5
+__s.%-__in fact he's hired to run a lot of citris .__c5
+__s^j__even though we don't have the money they - so they've been hiring people right and left .__c5
+__s^bk__so - uh | they think the money's coming .__c5
+__%-__so - and he was - i think - the chief staffer to clinton on technology matters .__c5
+__s__he was in the white house .__c5
+__s^ba^j__i don't remember what he was saying .__c5
+__b__a- - anyway like that .__c5
+__s^bk__and is now doing all the politics for citris .__c5
+__s^tc__but also has a uh a lot of interest in uh actually doing things for society .__c5
+__s__so digital divide and stuff like that .__c5
+__s.%--__so that's s- - interesting to me but maybe not to you .__c5
+__s^bk__but the really interesting thing was he st- - he s- - he s- - said something about you know i'm interested in things that have high social multiplier .__c5
+__b__something that is of great social value .__c5
+__%-__he said for example ==__c5
+__s.%-__this was his only example .__c5
+__%-__if you had a adult literacy program that was as good as an individual tutor .__c5
+__s__and as compelling as a video game .__c5
+__s^2^cs__then that would have a huge social impact .__c5
+__s^aa__i said oh great that's a good problem to work on .__c5
+__s^bu__anyway | so it was nice that uh he's got this view of a that's what you should try to do and b  uh language would be a good way to do it .__c5
+__b__so that's ==__c5
+__qy^d^g__huh definitely .__c0
+__s^aap__so anyway that's the end of the story .__c5
+__s^bd__but for adults and not for the children .__c0
+__s^bu__this was ==__c5
+__s__yeah i didn't push him on the ch- - on the child thing .__c5
+__s^aa__uhhuh .__c0
+__s^ar|s__but uh ==__c5
+__s__you know a- - again if - if you - if you ==__c5
+__s^r__oh .__c0
+__s__um ==__c5
+__s^e__and this was - this was literacy .__c5
+__fh__which actually is somewhat different problem .__c5
+__s__uhhuh .__c0
+__s.%--__maybe easier .__c5
+__s.%--__i don't know .__c5
+__s^bk__so this is reading rather than teaching .__c5
+__b__another project we started on and - and didn't get funded for was uh to try to build an automatic tutoring program for kids whose first language wasn't english .__c5
+__qy^bu^d^rt__which is like half the school population in california .__c5
+__s^aa__something like that .__c5
+__s^bk__isn't it ?__c5
+__s__uhhuh .__c0
+__qo^tc__yeah .__c5
+__s^ba__so ==__c5
+__qw^br__enormous problem in california .__c5
+__s__and | the idea was if we're so smart about language understanding and speech understanding couldn't we build uh programs that would be tutors for the kids .__c5
+__qw__we think we could .__c5
+__b__anyway so - so - but this is a slightly different problem .__c5
+__s^j__uhhuh .__c0
+__s^bk__and ==__c5
+__s__um ==__c5
+__qw.%-__i know none of us have the spare time to look at it right now .__c5
+__s^j__but it i- - it's - it's interesting .__c5
+__b__and i may um talk to him some more about is them- - somebody already doing this and stuff like that .__c5
+__s^ba__so anyway that was - that was today's little story .__c5
+__qw__huh ==__c4
+__%-__okay | so i - i did manage to get - pull my head out of the sling by sidetracking into citris .__c1
+__qy^j^rt^t^tc__no no .__c5
+__s^cs^t^tc__but uh or - a- - temporarily putting it out of the sling .__c1
+__qw__right .__c5
+__b__but i - i'll volunteer to put it right back in by stating that i am n- - uh among some other things - in the process of writing up stuff that we have been discussing at our daily meetings .__c1
+__qw^r__yeah .__c5
+__s^bk__and also revising ==__c1
+__h|s__thanks for all the comments .__c1
+__s__the c- - the original construal proposal .__c1
+__b__and if i put one and one together i may end up with a number that's greater than one and that i - i can potentially present once you get back .__c1
+__s__greater than two ?__c0
+__s__you're good .__c5
+__s__nnn s- - sometimes you know the sum is not uh less than the ==__c1
+__s__uh right right .__c0
+__fh__right .__c5
+__s__right .__c5
+__s__anyway | yeah so - okay so that'd be great .__c5
+__s^df__but i'd - i think it's - it's time again .__c5
+__b__right ?__c5
+__s__absolutely yeah .__c1
+__fh__yeah okay .__c5
+__qy^rt__but um and hopefully all sidetracking - um other things will have disappeared soon .__c1
+__qrr__good .__c5
+__%-__yep .__c5
+__s__done ?__c5

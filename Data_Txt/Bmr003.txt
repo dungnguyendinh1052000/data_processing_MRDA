@@ -1,0 +1,971 @@
+__z__so i guess this is more or less now just to get you up to date johno .__c2
+__z__this is what uh ==__c2
+__z__this is a meeting for me .__c3
+__z__um ==__c2
+__z__eva bhaskara and i did .__c2
+__z__did you add more stuff to it later ?__c4
+__z__um | why ?__c2
+__z__um | i don't know .__c4
+__z__there were like the @reject@ - you know and all that stuff .__c4
+__z__but i thought you - you said you were adding stuff .__c4
+__z__but i don't know .__c4
+__z__uh | no .__c2
+__z__this is ==__c2
+__z__um ==__c2
+__z__ha !__c2
+__z__very nice .__c2
+__z__um so we thought that we can write up uh an element .__c2
+__z__and - for each of the situation nodes that we observed in the bayes net .__c2
+__z__so ==__c2
+__z__what's the situation like at the entity that is mentioned ?__c2
+__z__if we know anything about it .__c2
+__z__is it under construction ?__c2
+__z__or is it on fire or something happening to it ?__c2
+__z__or is it stable ?__c2
+__z__and so forth .__c2
+__z__going all the way um f- - through parking location hotel car restroom riots fairs strikes or disasters .__c2
+__z__so is - this is - a situation are - is all the things which can be happening right now ?__c3
+__z__or what is the situation type ?__c3
+__z__that's basically just specifying the - the input for the - w- - what's ==__c2
+__z__oh i see .__c3
+__z__y- - why are you specifying it in x m l ?__c3
+__z__um | just because it forces us to be specific about the values here .__c2
+__z__okay .__c3
+__z__and also i mean this is a - what the input is going to be .__c2
+__z__right ?__c2
+__z__so we will uh ==__c2
+__z__this is a schema this is ==__c2
+__z__well yeah | i just don't know if this is th- - l- - what the - does - this is what java bayes takes as a bayes net spec ?__c3
+__z__no | because i mean if we - i mean we're sure going to interface to - we're going to get an x m l document from somewhere .__c2
+__z__right ?__c2
+__z__and that x m l document will say we are able to - we were able to observe that w- - the element um of the location that the car is near .__c2
+__z__so that's going to be um ==__c2
+__z__so this is the situational context everything in it .__c3
+__z__is that what situation is short for ?__c3
+__z__shi- - situational context ?__c3
+__z__yep .__c2
+__z__okay .__c3
+__z__so this is just again a- - an x m l schemata which defines a set of possible uh permissible x m l structures .__c2
+__z__which we view as input into the bayes net .__c2
+__z__right ?__c2
+__z__and then we can r- - uh possibly run one of them uh transformations ?__c3
+__z__that put it into the format that the bayes n- - or java bayes or whatever wants .__c3
+__z__yea- - are you talking - are you talking about the - the structure ?__c2
+__z__well it ==__c3
+__z__i mean when you observe a node .__c2
+__z__when you - when you say the input to the v- - java bayes it takes a certain format .__c3
+__z__uhhuh .__c2
+__z__right ?__c3
+__z__which i don't think is this .__c3
+__z__although i don't know .__c3
+__z__no it's certainly not this .__c2
+__z__nuh .__c2
+__z__so you could just - couldn't you just run a ?==__c3
+__z__x s l yeah .__c2
+__z__yeah .__c3
+__z__to convert it into the java bayes for- - format ?__c3
+__z__yep .__c2
+__z__okay .__c3
+__z__that's - that's no problem .__c2
+__z__but i even think that um ==__c2
+__z__i mean once - once you have this sort of as - running as a module ==__c2
+__z__right ?__c2
+__z__what you want is you want to say okay give me the posterior probabilities of the go there node when this is happening .__c2
+__z__right ?__c2
+__z__when the person said this the car is there it's raining and this is happening .__c2
+__z__and with this you can specify the - what's happening in the situation and what's happening with the user .__c2
+__z__so we get - after we are done through the situation we get the user vector .__c2
+__z__so this is a ==__c2
+__z__so this is just a specification of all the possible inputs ?__c3
+__z__yep .__c2
+__z__and ==__c2
+__z__all the possible outputs too .__c2
+__z__okay .__c3
+__z__so we have um for example the uh go there decision node .__c2
+__z__which has two elements .__c2
+__z__going there and its posterior probability .__c2
+__z__and not going there and its posterior probability .__c2
+__z__because the output is always going to be all the decision nodes and all the - the - a- - all the posterior probabilities for all the values .__c2
+__z__and then we would just look at the uh struct that we want to look at ?__c3
+__z__in terms of if - if we're only asking about one of the ==__c3
+__z__so like if i'm just interested in the going there node i would just pull that information out of the struct that gets return- - that would - that java bayes would output ?__c3
+__z__um | pretty much yes .__c2
+__z__but i think it's a little bit more complex .__c2
+__z__as - if i understand it correctly it always gives you all the posterior probabilities for all the values of all decision nodes .__c2
+__z__so when we input something we always get the uh posterior probabilities for all of these .__c2
+__z__right ?__c2
+__z__okay .__c3
+__z__so there is no way of telling it t- - not to tell us about the eva values .__c2
+__z__yeah wait i agree .__c3
+__z__that's - yeah use - oh uh yeah okay .__c3
+__z__so - so we get this whole list of - of um things .__c2
+__z__and the question is what to do with it .__c2
+__z__what to hand on .__c2
+__z__how to interpret it .__c2
+__z__in a sense .__c2
+__z__so y- - you said if you - i'm only interested in whether he wants to go there or not then i just look at that node .__c2
+__z__look which one ==__c2
+__z__look at that struct in the output ?__c3
+__z__right ?__c3
+__z__yep .__c2
+__z__look at that struct in the - the output .__c2
+__z__even though i wouldn't call it a struct .__c2
+__z__but ==__c2
+__z__well i- - well it's an x m l structure that's being res- - returned .__c3
+__z__oh | uhhuh .__c2
+__z__right ?__c3
+__z__so every part of a structure is a struct .__c2
+__z__yeah .__c2
+____yeah i just uh - i just was - abbreviated it to struct in my head and started going with that .__c3
+__z__that element or object i would say .__c2
+__z__not a c struct that's not what i was trying to k- ==__c3
+__z__yeah .__c2
+__z__though - yeah .__c3
+__z__okay .__c2
+__z__and um ==__c2
+__z__the reason is - why i think it's a little bit more complex or why - why we can even think about it as an interesting problem in and of itself is ==__c2
+__z__um ==__c2
+__z__so the uh ==__c2
+__z__let's look at an example .__c2
+__z__well w- - wouldn't we just take the structure that's outputted and then run another transformation on it that would just dump the one that we wanted out ?__c3
+__z__yeah | w- - we'd need to prune .__c2
+__z__right ?__c2
+__z__throw things away .__c2
+__z__well actually you don't even need to do that with x m l .__c3
+__z__d- - can't you just look at one specific ==__c3
+__z__no- ==__c2
+__z__yeah exactly | the xerxes allows you to say u- - just give me the value of that and that and that .__c2
+__z__but we don't really know what we're interested in before we look at the complete - at - at the overall result .__c2
+__z__so the person said um where is x .__c2
+__z__and so ==__c2
+____we want to know um is - does he want info .__c2
+__z__o- - on this .__c2
+__z__or know the location .__c2
+__z__or does he want to go there .__c2
+__z__let's assume this is our - our question .__c2
+__z__sure .__c3
+__z__nuh ?__c2
+____so ==__c2
+__z__um ==__c2
+____do this in perl .__c2
+__z__so we get ==__c2
+____okay .__c2
+__z__let's assume this is the output .__c2
+__z__so ==__c2
+__z__we should con- - be able to conclude from that that ==__c2
+__z__i mean it's always going to give us a value of how likely we think i- - it is that he wants to go there and doesn't want to go there .__c2
+__z__or how likely it is that he wants to get information .__c2
+__z__but maybe w- - we should just reverse this to make it a little bit more delicate .__c2
+__z__so does he want to know where it is or does he want to go there ?__c2
+__z__he wants to know where it is .__c3
+__z__right .__c2
+__z__i - i - i tend to agree .__c2
+__z__and if it's - if ==__c2
+__z__well now y- - i mean you could ==__c3
+__z__and i- - if there's sort of a clear winner here ==__c2
+__z__and um | and this is pretty uh indifferent ==__c2
+__z__then we - then we might conclude that he actually wants to just know where uh t- - uh he does want to go there .__c2
+__z__uh | out of curiosity is there a reason why we wouldn't combine these three nodes into one smaller subnet ?__c3
+__z__that would just basically be the question for ==__c3
+__z__we have where is x is the question .__c3
+__z__right ?__c3
+__z__that would just be info on or location ?__c3
+__z__based upon ==__c3
+__z__or go there .__c2
+__z__a lot of people ask that if they actually just want to go there .__c2
+__z__people come up to you on campus and say where's the library .__c2
+__z__you're going to say - y- - you're going to say g- - go down that way .__c2
+__z__you're not going to say it's - it's five hundred yards away from you or it's north of you or it's located ==__c2
+__z__well i mean - but the - there's - so you just have three decisions for the final node that would link thes- - these three nodes in the net together .__c3
+__z__um ==__c2
+__z__i don't know whether i understand what you mean .__c2
+__z__but again in this - given this input we also in some situations may want to postulate an opinion whether that person wants to go there now .__c2
+__z__the nicest way .__c2
+__z__use a cab .__c2
+__z__or so s- ==__c2
+__z__wants to know it - wants to know where it is because he wants something fixed there because he wants to visit t- - it or whatever .__c2
+__z__so it - n- - i mean - a- - all i'm saying is whatever our input is we're always going to get the full output .__c2
+__z__and some - some things will always be sort of too - not significant enough .__c2
+__z__wha- ==__c3
+__z__or i- - or i- - it'll be tight .__c3
+__z__you won't - it'll be hard to decide .__c3
+__z__yep .__c2
+__z__but i mean i guess - i guess the thing is uh this is another smaller case of reasoning in the case of an uncertainty .__c3
+__z__which makes me think bayes net should be the way to solve these things .__c3
+__z__so if you had - if for every construction ==__c3
+__z__right ?__c3
+__z__oh !__c2
+__z__you could say well there - here's the where is construction .__c3
+__z__and for the where is construction we know we need to l- - look at this node that merges these three things together .__c3
+__z__uhhuh .__c2
+__z__as for th- - to decide the response .__c3
+__z__and since we have a finite number of constructions that we can deal with we could have a finite number of nodes .__c3
+__z__okay .__c2
+__z__say if we had to y- - deal with arbitrary language it wouldn't make any sense to do that .__c3
+__z__uhhuh .__c2
+__z__because there'd be no way to generate the nodes for every possible sentence .__c3
+__z__uhhuh .__c2
+__z__but since we can only deal with a finite amount of stuff ==__c3
+__z__so basically the idea is to f- - to feed the output of that belief net into another belief net .__c2
+__z__yeah | so basically take these three things and then put them into another belief net .__c3
+__z__but why - why - why only those three ?__c2
+__z__why not the whol- ?==__c2
+__z__well i mean d- - for the where is question .__c3
+__z__so we'd have a node for the where is question .__c3
+__z__yeah but we believe that all the decision nodes are - can be relevant for the where is ==__c2
+__z__and the where - how do i get to .__c2
+__z__or the tell me something about .__c2
+__z__you can come in if you want .__c3
+__z__yes it is allowed .__c2
+__z__as long as y- - you're not wearing your h- - your h- - headphones .__c3
+__z__well i do- - i - see i don't know if this is a good idea or not .__c3
+__z__i'm just throwing it out .__c3
+__z__but uh it seems like we could have - i mea- - or uh we could put all of the- - all of the r- - information that could also be relevant into the where is node answer .__c3
+__z__uhhuh .__c2
+__z__yep .__c2
+__z__node .__c3
+__z__thing .__c3
+__z__stuff .__c3
+__z__and uh ==__c3
+__z__okay .__c4
+__z__i mean ==__c2
+__z__let's not forget we're going to get some very strong input from these sub- - dis- - from these discourse things .__c2
+__z__right ?__c2
+__z__so ==__c2
+__z__tell me the location of x .__c2
+__z__nuh ?__c2
+__fg__or where is x located at .__c2
+__fg__we u- ==__c3
+__s^rt^t__nuh ?__c2
+__fh|s__yeah i know but the bayes net would be able to - the weights on the on the nodes in the bayes net would be able to do all that .__c3
+__s__wouldn't it ?__c3
+__fh|s^t__uhhuh .__c2
+__s^t__here's a k- ==__c3
+__s^cs^t__oh !__c3
+__fh|s^df__oh i'll wait until you're plugged in .__c3
+__s^cs__oh don't sit there .__c3
+__fh__sit here .__c3
+__qw^d__you know how you don't like that one .__c3
+__qw^br^rt__it's okay .__c3
+__s__that's the weird one .__c3
+__s^aa__that's the one that's painful that hurts it hurts so bad .__c3
+__s^aa^r__i'm h- - i'm happy that they're recording that .__c3
+__s__that headphone - the headphone that you have to put on backwards with the little - little thing - and the little - little foam block on it .__c3
+__s__it's a painful painful microphone .__c3
+__s__i think it's th- - called the crown .__c2
+__b__the crown .__c3
+__s__what ?__c4
+__qy^d__yeah .__c2
+__s.%-__versus the sony .__c2
+__b__the crown ?__c1
+__qw^br__is that the actual name ?__c1
+__qy^d^rt__uhhuh .__c2
+__h|s^aap__okay .__c1
+__s^na__the manufacturer .__c2
+__s__i don't see a manufacturer on it .__c3
+__%__oh wait .__c3
+__fh__you w- ==__c2
+__b__here it is .__c3
+__s__h- - this thingy .__c3
+__s__yeah it's the crown .__c3
+__s__the crown of pain .__c3
+__s__yes .__c1
+__h|s__you're online ?__c2
+__s^aa__are you - are your mike o- - is your mike on ?__c3
+__s^aa__indeed .__c1
+__s^bk__okay .__c3
+__qy__so you've been working with these guys .__c3
+__qw__you know what's going on ?__c3
+__b__yes .__c1
+__%-__i have .__c1
+__s__and i do .__c1
+__b__yeah all right .__c1
+__b__excellent !__c3
+__fh__s- - so where are we ?__c1
+__s__we're discussing this .__c2
+__s^e__i don't think it can handle french .__c1
+__fh__but anyway .__c1
+__s__so ==__c2
+__b__assume we have something coming in .__c2
+__s__a person says where is x .__c2
+__s__and we get a certain - we have a situation vector and a user vector and everything is fine .__c2
+__s^bk__an- - an- - and - and our - and our ==__c2
+__b__did you just sti- - did you just stick the m- - the - the - the microphone actually in the tea ?__c3
+__s__no .__c1
+__s^ba__and um ==__c2
+__qy^bh__i'm not drinking tea .__c1
+__s^aa__what are you talking about ?__c1
+__s__oh yeah .__c3
+__s^df.%--__sorry .__c3
+__b__let's just assume our bayes net just has three decision nodes for the time being .__c2
+__s__these three he wants to know something about it he wants to know where it is he wants to go there .__c2
+__s^df__in terms of these would be wha- - how we would answer the question where is .__c3
+__s^cs__right ?__c3
+__b__we u- ==__c3
+__s^df__this is - i- - that's what you s- - it seemed like explained it to me earlier .__c3
+__fh|s^cs__w- - we - we're - we want to know how to answer the question where is x .__c3
+__b__yeah | but huh ==__c2
+__s^e__yeah .__c2
+__qy^d^rt__no i can - i can do the timing node in here too .__c2
+__qw^br^rt__and say okay ==__c2
+__qy^d^r^rt__well yeah but in the s- - uh let's just deal with the s- - the simple case of we're not worrying about timing or anything .__c3
+__s^na__we just want to know how we should answer where is x .__c3
+__s^df^rt__okay .__c2
+__qy^g^rt__and um ==__c2
+__s^no__okay and ==__c2
+__s__go there has two values .__c2
+__fh|s^e__right ?__c2
+__s__go there and not go there .__c2
+__s__let's assume those are the posterior probabilities of that .__c2
+__s__uhhuh .__c1
+__fh|s__info on has true or false and location .__c2
+__fh__so he wants to know something about it .__c2
+__s^bk__and he wants to know something - he wants to know where it is .__c2
+__s^df__excuse me .__c1
+__s^bk__has these values .__c2
+__s__and um ==__c2
+__s^e__oh i see why we can't do that .__c3
+__s__and um in this case we would probably all agree that he wants to go there .__c2
+__s__our belief net thinks he wants to go there .__c2
+__qy^rt__right ?__c2
+__s^m^na__yeah .__c1
+__s__uhhuh .__c1
+__s.%--__in the uh whatever .__c2
+__qy^d^rt__if we have something like this here .__c2
+__s__and ==__c2
+__s^aa|s^ba__this like that . .__c2
+__s^bk|s^ba__and maybe here also some ==__c2
+__s^ba__you should probably make them out of ==__c1
+__qr__yeah .__c1
+__s^ng__well it ==__c3
+__qy^d^rt__something like that .__c2
+__%-__then we would guess aha he our belief net has s- - stronger beliefs that he wants to know where it is than actually wants to go there .__c2
+__s^aa__right ?__c2
+__s.%-__that it - doesn't this assume though that they're evenly weighted ?__c3
+__s^na__true .__c4
+__%-__like ==__c3
+__s.%--__i guess they are evenly weighted .__c3
+__b__the different decision nodes you mean ?__c1
+__s__yeah the go there the info on and the location .__c3
+__s__well d- - yeah this is making the assumption .__c1
+__s__yes .__c1
+__fh|s__what do you mean by differently weighted ?__c2
+__s^am__like ==__c3
+__s__they don't feed into anything really anymore .__c2
+__s^aa__or i jus- ==__c3
+__s^df__but i mean why do we ?==__c1
+__s^df__le- ==__c3
+__s__if we trusted the go there node more th- - much more than we trusted the other ones then we would conclude even in this situation that he wanted to go there .__c1
+__b__so - in that sense we weight them equally .__c1
+__s.%--__okay .__c2
+__s^aa|s^na__right now .__c1
+__s^na__makes sense .__c2
+__s^aa__yeah .__c2
+__s^aa__so the- - but i guess the- - k- - the question that i was as- - uh- - wondering or maybe robert was proposing to me is ==__c3
+__s^df^na__but ==__c2
+__s^ba__how do we d- - make the decision on - as to - which one to listen to ?__c3
+__fg|s^cs^j__yeah so the final d- - decision is the combination of these three .__c1
+__s^bk__so again it's - it's some kind of uh ==__c1
+__s__bayes net .__c3
+__s^cs__yeah sure .__c1
+__s^bk__okay so then the question i- - so then my question is t- - to you then would be ==__c3
+__s^ba^na__so is the only r- - reason we can make all these smaller bayes nets because we know we can only deal with a finite set of constructions ?__c3
+__s^cs^j__because oth- - if we're just taking arbitrary language in we couldn't have a node for every possible question .__c3
+__s__you know ?__c3
+__s^bk__a decision node for every possible question you mean .__c1
+__s^bk__well i - like in the case of - yeah .__c3
+__fh__in the ca- - any piece of language we wouldn't be able to answer it with this system b- - if we just h- ==__c3
+__%-__because we wouldn't have the correct node .__c3
+__s^j:s__basically w- - what you're s- - proposing is a n- - where is node .__c3
+__s^cs^j__right ?__c3
+__s^bk__yeah .__c1
+__s__and - and if we - and if someone - says you know uh something in mandarin to the system we'd- - wouldn't know which node to look at to answer that question .__c3
+__s^df__so is ==__c1
+__s^bk__yeah .__c1
+__s^bk__right ?__c3
+__fg__yeah .__c1
+__fg__huh ==__c2
+__fg|s__so but - but if we have a finite ==__c3
+__s^bk__what ?__c3
+__s__i don't see your point .__c2
+__s__what - what - what i am thinking or what we're about to propose here is we're always going to get the whole list of values and their posterior probabilities .__c2
+__fh|s^e__and now we need an expert system or belief net or something that interprets that . .__c2
+__b__that looks at all the values and says the winner is timing .__c2
+__b__now go there .__c2
+__s^no__uh go there timing now .__c2
+__s__or the winner is info on function off .__c2
+__b__so he wants to know something about it and what it does .__c2
+__fh__nuh ?__c2
+__s__uh regardless of - of - of the input wh- - regardle- ==__c2
+__s^bk__yeah but - but how does the expert - but how does the expert system know - how- - who- - which one to declare the winner if it doesn't know the question it is and how that question should be answered ?__c3
+__s__based on the k- - what the question was - so what the discourse the ontology the situation and the user model gave us we came up with these values for these decisions .__c2
+__qy^d^g__yeah i know | but how do we weight what we get out ?__c3
+__s^na__as which one i- - which ones are important .__c3
+__s^df__so my i- - so if we were to it with a bayes net we'd have to have a node for every question that we knew how to deal with .__c3
+__s^df__that would take all of the inputs and weight them appropriately for that question .__c3
+__fh|s__uhhuh .__c2
+__s__does that make sense ?__c3
+__b__yay ?__c3
+__s^bk__nay ?__c3
+__s__um | i mean are you saying that what happens if you try to scale this up to the situation or are we just dealing with arbitrary language ?__c1
+__qw__we ==__c3
+__s^ba__is that your point ?__c1
+__s.%--__well no | i - i guess my question is is the reason that we can make a node f- ==__c3
+__s^cs__or - okay so let me see if i'm confused .__c3
+__%-__are we going to make a node for every question ?__c3
+__s^df__does that make sense ?__c3
+__qr.%-__or not ?__c3
+__s.%-__for every question ?__c1
+__fh__like ==__c1
+__s^ar__every construction .__c3
+__s^df^nd__huh ==__c1
+__s^bk__i don't - not necessarily i would think .__c1
+__s^df__i mean it's not based on constructions .__c1
+__s^cs__it's based on things like uh there's going to be a node for go there or not and there's going to be a node for enter view approach .__c1
+__s^bk__wel- ==__c3
+__qy^d^g^rt__w- - okay .__c3
+__s^df__so someone asked a question .__c3
+__s^ba__yeah .__c1
+__s^df__how do we decide how to answer it ?__c3
+__s^aa__well | look at - look - face yourself with this pr- - question .__c2
+__s__you get this - you'll have - y- - this is what you get .__c2
+__s^df__and now you have to make a decision what do we think .__c2
+__s^ng|qy^d^g^rt__what does this tell us ?__c2
+__s.%--__and not knowing what was asked and what happened and whether the person was a tourist or a local .__c2
+__s^nd__because all of these factors have presumably already gone into making these posterior probabilities .__c2
+__%__yeah .__c3
+__s^df.%-__what - what we need is a - just a mechanism that says aha there is ==__c2
+__qy^bu^d^rt__i just don't think a winner take all type of thing is the ==__c3
+__fh__i mean in general like we won't just have those three .__c1
+__s__right ?__c1
+__qy^bu^d^rt__we'll have uh like many many nodes .__c1
+__s^aa__yep .__c2
+__qy^d^rt__so we have to like - so that it's no longer possible to just look at the nodes themselves and figure out what the person is trying to say .__c1
+__qrr__because there are interdependencies .__c2
+__h|s^bk__right ?__c2
+__s^ba__the uh ==__c2
+__s__uh no so if - if - for example the go there posterior possibility is so high um ==__c2
+__s^no__uh w- - if it's - if it has reached - reached a certain height then all of this becomes irrelevant .__c2
+__s^cs__so if - even if - if the function or the history or something is scoring pretty good on the true node - true value ==__c2
+__fg|s__wel- ==__c3
+__s^bk__i don't know about that .__c3
+__s^cs__because that would suggest that - i mean ==__c3
+__s__he wants to go there and know something about it ?__c2
+__fh__do they have to be mutual- ?==__c3
+__s^bu^rt__yeah | do they have to be mutually exclusive ?__c3
+__s__i think to some extent they are .__c2
+__b__or maybe they're not .__c2
+__qy^g^rt__because i uh - the way you describe what they meant they weren't mutu- - uh they didn't seem mutually exclusive to me .__c3
+__h|s^nd__well if he doesn't want to go there even if the enter posterior proba- ==__c2
+__s^df__so ==__c2
+__s^bk__wel- ==__c3
+__s^ba__go there is no .__c2
+__b__enter is high .__c2
+__s^cs__and info on is high .__c2
+__s^cs.%--__well yeah just out of the other three though that you had in the ==__c3
+__fh__huh ?__c2
+__s.%-__those three nodes .__c3
+__s^nd__the- - d- - they didn't seem like they were mutually exclusive .__c3
+__s^ng__no there's - no .__c2
+__s__but ==__c2
+__b__it's through the ==__c2
+__s__so th- - s- - so yeah but some - so some things would drop out and some things would still be important .__c3
+__s^df__uhhuh .__c2
+__b__but i guess what's confusing me is if we have a bayes net to deal w- - another bayes net to deal with this stuff .__c3
+__s^cs__uhhuh .__c1
+__s^aa__you know .__c3
+__s^na__uh ==__c3
+__s^cs__is the only reason - okay so - i guess if we have a ba- - another bayes net to deal with this stuff the only r- - reason we can design it is because we know what each question is asking ?__c3
+__s^ba__yeah .__c1
+__b__i think that's true .__c1
+__s^na__and then so the only reason - way we would know what question he's asking is based upon ==__c3
+__s^bk|qh^cs__oh so if - let's say i had a construction parser and i plug this in i would know what each construction - the communicative intent of the construction was .__c3
+__s^bk|s^cc^na__uhhuh .__c1
+__s^no__and so then i would know how to weight the nodes appropriately in response .__c3
+__s.%-__so no matter what they said if i could map it onto a where is construction i could say uh .__c3
+__s__ge- ==__c1
+__s^df__uhhuh .__c1
+__%__well the- - the intent here was where is .__c3
+__s^bk__okay right .__c1
+__s^bk__and i could look at those .__c3
+__s__yeah .__c1
+__s__yes | i mean ==__c1
+__fh__sure .__c1
+__b__you do need to know - i mean to have that kind of information .__c1
+__b__huh ==__c2
+__%-__yeah i'm also agreeing that a simple ==__c2
+__s^ba__pru- - take the ones where we have a clear winner .__c2
+__s__forget about the ones where it's all sort of middle ground .__c2
+__s__prune those out .__c2
+__s__and just hand over the ones where we have a winner .__c2
+__s^ba__yeah because that would be the easiest way .__c2
+__s__we just compose as an output an x m l mes- - message that says go there now enter historical information .__c2
+__s^ba__and not care whether that's consistent with anything .__c2
+__s__right ?__c2
+__s^df:s^bk__but in this case if we say definitely he doesn't want to go there he just wants to know where it is .__c2
+__s^ba__or let's call this - this look at h- ==__c2
+__s__he wants to know something about the history of .__c2
+__s^ba^r__so he said tell me something about the history of that .__c2
+__s^ba__now the e- - but for some reason the endpoint approach gets a really high score too .__c2
+__s^bk|s__we can't expect this to be sort of at o point three three three o point three three three o point three three three .__c2
+__fh__right ?__c2
+__s^bk__somebody needs to zap that .__c2
+__s^ba__you know ?__c2
+__s^df.%--__or know - there needs to be some knowledge that ==__c2
+__fh__we - yeah but the bayes net that would merge ==__c3
+__s^bk__i just realized that i had my hand in between my mouth and my micr- - uh my - and my microphone .__c3
+__s^cs__so then the bayes net that would merge there that would make the decision between go there info on and location would have a node to tell you which one of those three you wanted .__c3
+__s^cs__and based upon that node then you would look at the other stuff .__c3
+__s^bk__yep .__c2
+__s^cs__i mean it- - i- ==__c3
+__s^aa__yep .__c2
+__s^na__does that make sense ?__c3
+__qy^d^j^rt__yep | it's sort of one of those that's - it's more like a decision tree if - if you want .__c2
+__s^bk__you first look o- - at the lowball ones .__c2
+__s^aa__yeah | i- ==__c3
+__s^j__and then ==__c2
+__fh__yeah i didn't intend to say that every possible ==__c3
+__b__okay .__c3
+__b__there was a confusion there .__c3
+__fh__k- - i didn't intend to say every possible thing should go into the bayes net .__c3
+__s^cs__because some of the things aren't relevant in the bayes net for a specific question .__c3
+__s^bk__like the endpoint is not necessarily relevant in the bayes net for where is until after you've decided whether you want to go there or not .__c3
+__s^cs__uhhuh .__c2
+__s^cs__right .__c1
+__s^e__show us the way bhaskara .__c3
+__s^df__i guess the other thing is that - um yeah ==__c1
+__s^cs.%-__i mean when you're asked a specific question and you don't even ==__c1
+__s__like if you're asked a where is question you may not even look - like ask for the posterior probability of the uh e v a node .__c1
+__s:s__right ?__c1
+__b__because that's what - i mean in the bayes net you always ask for the posterior probability of a specific node .__c1
+__qy^rt^t__so i mean ==__c1
+__s^aa__you may not even bother to compute things you don't need .__c1
+__s^na__um ==__c2
+__s^bk__aren't we always computing all ?__c2
+__s__no .__c1
+__s__you can compute uh the posterior probability of one subset of the nodes given some other nodes .__c1
+__s__but totally ignore some other nodes also .__c1
+__fh__basically things you ignore get marginalized over .__c1
+__s^e__yeah but that's - that's just shifting the problem .__c2
+__fh__then you would have to make a decision .__c2
+__qy^d^rt__okay if it's a where is question which decision nodes do i query .__c2
+__s^aa__yeah | so you have to make ==__c1
+__qy^d__yeah .__c1
+__s^aa__yes .__c1
+__s^aa__that's un- ==__c2
+__s^aa__but i would think that's what you want to do .__c1
+__s__right ?__c1
+__s__huh .__c2
+__s^e__well eventually you still have to pick out which ones you look at .__c4
+__s__yeah .__c2
+__s__so it's pretty much the same problem .__c4
+__s^e__yeah - it's - it's - it's apples and oranges .__c2
+__s__isn't it ?__c4
+__s__nuh ?__c2
+__s.%--__i mean maybe it does make a difference in terms of performance - computational time .__c2
+__s.%--__so either you always have it compute all the posterior possibilities for all the values for all nodes and then prune the ones you think that are irrelevant ==__c2
+__b__uhhuh .__c1
+__s.%--__huh ==__c1
+__s__or you just make a p- - a priori estimate of what you think might be relevant and query those .__c2
+__b__yeah .__c1
+__b__so basically you'd have a decision tree query go there ?__c3
+__s__if k- - if that's false query this one if that's true query that one .__c3
+__s^e__and just basically do a binary search through the ==__c3
+__fh|s^ba__i don't know if it would necessarily be that uh complicated .__c1
+__s^e__but uh ==__c1
+__fg|s__well in the case of go there it would be .__c3
+__s^e__i mean it w- ==__c1
+__b__in the case ==__c3
+__qy^rt__because if you needed an- - if y- - if go there was true you'd want to know what endpoint was .__c3
+__qrr__and if it was false you'd want to d- - look at - either lo- - income info on or history .__c3
+__h__yeah .__c1
+__s^aap__that's true i guess .__c1
+__s^df__yeah so in a way you would have that .__c1
+__b__also i'm somewhat boggled by that hugin software .__c3
+__s^e__okay | why's that ?__c1
+__s__i can't figure out how to get the probabilities into it .__c3
+__fh__like i'd look at ==__c3
+__qy^d__uhhuh .__c1
+__s^aa__it's somewha- - it's boggling me .__c3
+__s^aa__okay .__c1
+__s^df__all right .__c1
+__s^bu__well hopefully it's fixable .__c1
+__s__ju- ==__c3
+__s__oh yeah yeah | i d- - i just think i haven't figured out what - the terms in hugin mean versus what java bayes terms are .__c3
+__s^e__it's - there's a ==__c1
+__s__okay .__c1
+__s__um | by the way are - do we know whether jerry and nancy are coming ?__c2
+__fh__so we can figure this out .__c1
+__s:s__or ?==__c2
+__s:s__they should come when they're done their stuff basically whenever that is .__c1
+__s^aa__so ==__c1
+__s^aa^r__what d- - what do they need to do left ?__c3
+__b__um ==__c1
+__s.%-__i guess jerry needs to enter marks .__c1
+__s^bk__but i don't know if he's going to do that now or later .__c1
+__s__but uh | if he's going to enter marks it's going to take him awhile i guess .__c1
+__s^df__and he won't be here .__c1
+__s^ba__and what's nancy doing ?__c3
+__fh|s__nancy ?__c1
+__s^df__um | she was sort of finishing up the uh calculation of marks and assigning of grades .__c1
+__s__but i don't know if she should be here .__c1
+__s__well - or she should be free after that .__c1
+__qy^rt__so ==__c1
+__s^ar|%--__assuming she's coming to this meeting .__c1
+__s^ng__i don't know if she knows about it .__c1
+__qy^df__she's on the email list .__c3
+__s^j__right ?__c3
+__s^aa^j__is she ?__c1
+__s^aa^j__okay .__c1
+__s__uhhuh .__c2
+__b__okay .__c2
+__fh__because ==__c2
+__%-__basically what - where we also have decided prior to this meeting is that we would have a rerun of the three of us sitting together .__c2
+__s^fe__okay .__c4
+__qy^bh__sometime this week again .__c2
+__s^j__okay .__c1
+__s:qy__and finish up the uh values of this .__c2
+__s^ft__so we have - uh believe it or not we have all the bottom ones here .__c2
+__s^bk__well i ==__c3
+__s:s__you added a bunch of nodes for ?==__c4
+__b__yep .__c2
+__s__okay .__c4
+__fh__we - we - we have - actually what we have is this line .__c2
+__s^j__right ?__c2
+__fh__uh | what do the uh structures do ?__c3
+__s__huh ==__c2
+__s^bk__so the - the - the - for instance this location node's got two inputs .__c3
+__s^df.%--__that one you ==__c3
+__s^ba__four inputs .__c1
+__s^df__huh ==__c2
+__s__four .__c2
+__qy^d^g__those are - the bottom things are inputs also .__c1
+__qy^d^g__oh i see .__c3
+__s^aa__yeah .__c1
+__%__okay that was ==__c3
+__s.%--__okay | that makes a lot more sense to me now .__c3
+__s^na__yep .__c2
+__s__because i thought it was like that one in stuart's book about you know the ==__c3
+__s^ng|s__alarm in the dog ?__c1
+__b__u- - yeah .__c3
+__s^cs__yeah .__c1
+__s^df__or the earthquake and the alarm .__c3
+__b__sorry | yeah i'm confusing two .__c1
+__s^ba__yeah there's a dog one too .__c3
+__b__but that's in java bayes .__c3
+__s^ba__isn't it ?__c3
+__b__right .__c1
+__b__maybe .__c1
+__b__but there's something about bowel problems or something with the dog .__c3
+__s^df__yeah .__c1
+__b__and we have all the top ones .__c2
+__b__all the ones to which no arrows are pointing .__c2
+__fg|s^rt__what we're missing are the - these .__c2
+__qy^g^rt__where arrows are pointing .__c2
+__qy^d__where we're combining top ones .__c2
+__s^ng__so we have to come up with values for this and this this this and so forth .__c2
+__s^bk__and maybe just fiddle around with it a little bit more .__c2
+__s__and um ==__c2
+__s^bk__and then it's just uh edges .__c2
+__fg__many of ==__c2
+__s.%-__edges .__c2
+__s.%-__and um | we won't meet next monday .__c2
+__s^nd__so ==__c2
+__s^nd__because of memorial day ?__c3
+__s^bk__yep .__c2
+__s^fa__we'll meet next tuesday i guess .__c1
+__b__yeah .__c2
+__s^aa__when's jerry leaving for italia ?__c3
+__qy^d^rt__on - on friday .__c2
+__qrr__which friday ?__c1
+__s__this - this friday .__c2
+__s^df.%--__okay .__c1
+__qw__oh | this friday ?__c4
+__qw^bk^rt__ugh .__c3
+__s.%--__this friday .__c2
+__%-__as in four days ?__c3
+__s.%--__yep .__c2
+__b__or three days .__c3
+__s^bk__is he - how long is he gone for ?__c1
+__s__two weeks .__c2
+__s^e__italy huh ?__c1
+__b__what's uh - what's there ?__c1
+__s__well it's a country .__c2
+__b__buildings .__c2
+__s__people .__c2
+__s^df__but it's not a conference or anything .__c3
+__b__pasta .__c1
+__fh__he's just visiting .__c3
+__fh__huh ==__c2
+__s__right .__c1
+__qy.%--__just visiting .__c1
+__b__vacation .__c2
+__s|qy^d^g__it's a pretty nice place .__c1
+__s^aa__in my brief uh encounter with it .__c1
+__s^na__do you guys ?==__c2
+__s^ba__oh yeah - so part of what we actually want to do is sort of schedule out what we want to surprise him with when - when he comes back .__c2
+__s^ba__um so ==__c2
+__qy__oh i think we should disappoint him .__c3
+__s^e.%-__yeah ?__c2
+__s^ba__you - or have a finished construction parser and a working belief net .__c2
+__s^bk^fe__and uh ==__c2
+__s__that wouldn't be disappointing .__c3
+__s^ng__i think w- - we should do absolutely no work for the two weeks that he's gone .__c3
+__s__well that's actually what i had planned personally .__c2
+__s^df__i had - i - i had sort of scheduled out in my mind that you guys do a lot of work and i do nothing .__c2
+__s^ba.%__and then i sort of ==__c2
+__s^aa__oh yeah that sounds good too .__c3
+__s.%--__sort of bask in - in your glory .__c2
+__s^ba__but uh i- - do you guys have any vacation plans ?__c2
+__s^df__because i myself am going to be um gone .__c2
+__%-__but this is actually not really important .__c2
+__s^ng__just this weekend we're going camping .__c2
+__s^aa__yeah i'm want to be this - gone this weekend too .__c3
+__s^na__uh ==__c2
+__%__but we're all going to be here on tuesday again ?__c2
+__s^aa|s^na__looks like it .__c2
+__s^df__yeah .__c4
+__b__okay then let's meet - meet again next tuesday .__c2
+__s^cs__and um | finish up this bayes net .__c2
+__s^aa__and once we have finished it i guess we can um ==__c2
+__fg|%-__and that's going to be more just you and me .__c2
+__s^cs.%--__because bhaskara is doing probabilistic recursive structured object oriented uh ==__c2
+__h|s^cs^ng.%--__killing machines .__c3
+__s^ba__reasoning machines .__c2
+__s__yes .__c1
+__fh__and um ==__c2
+__s__killing reasoning - what's the difference ?__c3
+__qy^d^g^rt__wait so you're saying next tuesday is it the whole group meeting ?__c4
+__s__or just us three working on it or - or ?==__c4
+__s.%-__uh ==__c2
+__s^ng__the whole group .__c2
+__s^bu__and we present our results .__c2
+__s^ar__our final .__c2
+__s^nd__okay .__c4
+__s__definite .__c2
+__s.%-__so when you were saying we need to do a re run of like ==__c4
+__s^no__h- - what ?__c1
+__s^r__what - like just working out the rest of the ==__c4
+__s^df__yeah | we should do this th- - the upcoming days .__c2
+__s^bs__this week ?__c4
+__s__so this week yeah .__c2
+__b__okay .__c4
+__fg|s__when you say the whole group you mean - the four of us and keith ?__c3
+__b__and ami might ==__c2
+__fh|s__ami might be here .__c3
+__s__and it's possible that nancy will be here .__c3
+__s^ba__yep .__c2
+__fh__so ==__c3
+__s__yeah .__c3
+__b__because th- - you know ==__c2
+__s^df__once we have the belief net done ==__c2
+__b__you're just going to have to explain it to me then on tuesday .__c3
+__s^ba__how it's all going to work out .__c3
+__s^df__you know .__c3
+__s__we will .__c2
+__s__okay | because then once we have it sort of up and running then we can start you know defining the interfaces .__c2
+__b__and then feed stuff into it .__c2
+__s__and get stuff out of it .__c2
+__s__and then hook it up to some fake construction parser .__c2
+__s__and ==__c2
+__%__that you will have in about nine months or so .__c3
+__fg__yeah .__c3
+__s.%-__yeah .__c2
+__fg__and um ==__c2
+__qy__the first bad version will be done in nine months .__c3
+__b__yeah i can worry about the ontology interface .__c2
+__qy^d^r__and you can - keith can worry about the discourse .__c2
+__s^df__i mean this is pretty - um i mean i - i - i hope everybody uh knows that these are just going to be uh dummy values .__c2
+__s^df.%--__right ?__c2
+__b__which ==__c1
+__s^bk__where the ==__c2
+__s^bk__which ones ?__c1
+__s^nd__s- - so - so if the endpoint - if the go there is yes and no then go there discourse will just be fifty fifty .__c2
+__s^na__right ?__c2
+__qy^g__um | what do you mean if the go there says no then the go there is ?==__c1
+__s__i don't get it .__c4
+__s.%-__i don't u- - understand .__c1
+__qy^g^rt__um ==__c2
+__s^e^j__like the go there depends on all those four things .__c1
+__s^aa__yep .__c2
+__s^ba__yeah .__c1
+__s^na__but what are the values of the go there discourse ?__c2
+__s^aa__well it depends on the situation .__c1
+__s^ba^r__if the discourse is strongly indicating that ==__c1
+__s^bk|s__yeah but uh we have no discourse input .__c2
+__b__oh i see | the d- - see uh specifically in our situation d and o are going to be uh ==__c1
+__fg__yeah .__c1
+__s^ba__sure .__c1
+__s__so whatever .__c1
+__s__so so far we have ==__c4
+__s^df__is that what the keith node is ?__c4
+__s^bk__yep .__c2
+__%--__okay | and you're taking it out for now ?__c4
+__s^ng__or ?==__c4
+__s.%-__well this is d ==__c2
+__s__okay this i can - i can get it in here .__c2
+__b__all the d s are ==__c4
+__s^ba^fe__i can get it in here .__c2
+__s^df__so th- - we have the uh um ==__c2
+__s^bk__sk- - let's - let's call it keith johno .__c2
+__s^na__node .__c2
+__s^bk|s__johno .__c1
+__s^bk__there is an h somewhere printed .__c2
+__s.%-__there you go .__c3
+__%-__yeah people have the same problem with my name .__c1
+__fg__yeah .__c2
+__s.%-__oops !__c1
+__s^df^ng__and um ==__c2
+__b__does th- - th- - does the h go b- - before the a or after the a ?__c3
+__%-__oh in my name ?__c1
+__s^ba__yeah .__c3
+__fg|%-__before the a .__c1
+__s.%-__okay good .__c3
+__s__because you kn- - when you said people have the same problem i thought ==__c3
+__s__because my h goes after the uh e- - e- - e- - the v- ==__c3
+__s^fa__people have the inverse problem with my name .__c1
+__s__okay .__c3
+__s^r__i always have to check - every time y- - i send you an email - a past email of yours to make sure i'm spelling your name correctly .__c3
+__s^cs__yeah .__c1
+__qw^d__that's good .__c1
+__s^bk__i worry about you .__c3
+__s__i appreciate that .__c1
+__fg|s.%--__but when you abbreviate yourself as the basman you don't use any h s .__c2
+__fh__basman ?__c1
+__s^no__yeah it's because of the chessplayer named michael basman .__c1
+__s^bk__who is my hero .__c1
+__s__okay .__c2
+__s^e__you're a geek !__c3
+__qy^rt__it's okay .__c3
+__b__i- ==__c3
+__s__how do you pronou- ?==__c3
+__s^aa__okay .__c2
+__s^aa__how do you pronounce your name ?__c3
+__s^df.%--__eva .__c4
+__s^bu|qy^d^g^rt__eva ?__c3
+__s^aa__yeah .__c4
+__s__not eva ?__c1
+__fg__what if i were - what if i were to call you eva ?__c3
+__s^cs__i'd probably still respond to it .__c4
+__s^cs^df__i've had people call me eva .__c4
+__s^bk__but - i don't know .__c4
+__fh__no not just eva - eva .__c3
+__qrr__like if i u- - take the v and s- - pronounce it like it was a german v .__c3
+__s__which is f .__c2
+__qy^d__yeah .__c3
+__s.%-__um | no idea then .__c4
+__s^aa|s^na__voiced .__c2
+__s^na__what ?__c4
+__s^bk__it sounds like an f .__c3
+__s^bk__i ==__c4
+__s^bk__there's also an f in german .__c3
+__s^bk__okay .__c4
+__s^ba__which is why i ==__c3
+__qy^d^g^rt__well it's just the difference between voiced and unvoiced .__c2
+__qy^d^rt__yeah .__c3
+__s.%-__okay .__c4
+__s^no__as long as that's okay .__c3
+__s__um ==__c4
+__s^aa__i mean i might slip out and say it accidentally .__c3
+__s__that's all i'm saying .__c3
+__fg__that's fine .__c4
+__s^cs__yeah | it doesn't matter what those nodes are anyway .__c1
+__s^cs__because we'll just make the weights zero for now .__c1
+__s^cs__yep .__c2
+__s^aa__we'll make them zero for now .__c2
+__s^ba__because it - who - who knows what they come up with .__c2
+__s^cs__what's going to come in there .__c2
+__s^bk__okay .__c2
+__s^cs.%-__and um ==__c2
+__s^bk|s^na__then ==__c2
+__s__should we start on thursday ?__c2
+__s^bk|s^df^na__okay .__c1
+__s^cs__and not meet tomorrow ?__c2
+__s^cs__sure .__c1
+__s^cs^j__okay .__c2
+__s.%-__i'll send an email .__c2
+__b__make a time suggestion .__c2
+__s^ar__wait .__c3
+__s__maybe it's okay so that - that - that we can - that we have one node per construction .__c3
+__s^cs^j__because even in people like they don't know what you're talking about if you're using some sort of strange construction .__c3
+__s^bk__yeah they would still c- - sort of get the closest best fit .__c2
+__s^df^j__well yeah but i mean the - uh i mean that's what the construction parser would do .__c3
+__s^bk__uh i mean if you said something completely arbitrary it would f- - find the closest construction .__c3
+__s^cc^j__uhhuh .__c2
+__s^j__okay .__c2
+__fg|s__right ?__c3
+__s__but if you said something that was completel- - uh ==__c3
+__s^aa__h- - theoretically the construction parser would do that .__c3
+__s^e__but if you said something for which there was no construction whatsoever n- - people wouldn't have any idea what you were talking about .__c3
+__b__uhhuh .__c2
+__s^aa__like bus dog fried egg i mean .__c3
+__%__you know .__c3
+__b__or if even something chinese for example .__c2
+__s^df__or something in mandarin yeah .__c3
+__s^aa__or cantonese as the case may be .__c3
+__s.%--__what do you think about that bhaskara ?__c3
+__s^df__i mean ==__c1
+__s^bk__well ==__c1
+__s__but how many constructions do - could we possibly have nodes for ?__c1
+__b__in this system or in r- ?==__c3
+__s__no we .__c1
+__s^cs__like when people do this kind of thing .__c1
+__qw__oh when p- - how many constructions do people have ?__c3
+__s^bk__yeah .__c1
+__s^e__i have not the slightest idea .__c3
+__s^bk|s.%--__is it considered to be like in - are they considered to be like very uh sort of s- - abstract things ?__c1
+__qy.%-__every noun is a construction .__c3
+__s.%-__okay | so it's like in the thousands .__c1
+__s^bk__the ==__c3
+__s__yeah .__c3
+__s__any - any form meaning pair to my understanding is a construction .__c3
+__s|qy^g^rt__okay .__c1
+__s__so ==__c2
+__s^ar__and form u- - starts at the level of noun - or actually maybe even sounds .__c3
+__s^ar__phoneme .__c2
+__s.%--__yep .__c2
+__b__yeah .__c3
+__s__and goes upwards .__c3
+__s^bk__until you get the ditransitive construction .__c3
+__b__and then of course the c- - i guess maybe there can be the ==__c3
+__s__s- ==__c1
+__s^bk__can there be combinations of the dit- ?==__c3
+__s__discourse level constructions .__c1
+__s__yeah .__c3
+__fh__the giving a speech construction .__c3
+__s^aa__rhetorical constructions .__c2
+__s^bk__yeah .__c2
+__s^bk__yes .__c1
+__s__but i mean | you know you can probably count - count the ways .__c2
+__s^ba__i mean ==__c2
+__s^ba__it's probab- - yeah i would s- - definitely say it's finite .__c3
+__s^df__yeah .__c2
+__s__and at least in compilers that's all that really matters .__c3
+__b__as long as your analysis is finite .__c3
+__s__how's that - how it can be finite again ?__c1
+__b__nah i can't think of a way it would be infinite .__c3
+__s__well you can come up with new constructions .__c2
+__s__yeah | if the - if your - if your brain was totally non deterministic then perhaps there's a way to get uh infin- - an infinite number of constructions that you'd have to worry about .__c3
+__%-__but i mean in the practical sense it's impossible .__c1
+__s^co__right | because if we have a fixed number of neurons .__c3
+__s^bk__yeah .__c1
+__b__so the best case scenario would be the number of constructions ==__c3
+__s^df__or the worst case scenario is the number of constructions equals the number of neurons .__c3
+__s^bk|s^ba__well two to the power of the number of neurons .__c1
+__b__right .__c3
+__b__but still - finite .__c3
+__s.%-__okay .__c2
+__s__no wait .__c3
+__b__not necessarily is it ?__c3
+__s^df__we can end the meeting .__c3
+__s^df__i just ==__c3
+__b__can't you use different var- - different levels of activation ?__c3
+__s|qy^d^g__across uh lots of different neurons to specify different values .__c3
+__%-__uhhuh .__c2
+__b__um | yeah but there's like a certain level of ==__c1
+__%-__there's a bandwidth issue .__c3
+__b__right ?__c3
+__s^na__bandw- - yeah so you can't do better than something .__c1
+__fh__yeah .__c3
+__s__turn off the mikes .__c2
+__s^aa__otherwise it gets really tough for the tr- ==__c2

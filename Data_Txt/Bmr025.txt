@@ -1,0 +1,894 @@
+__z__uhhuh .__c4
+__fh__and we're on .__c5
+__s^t__so uh ==__c5
+__s^df__time ?__c3
+__fh__fourteen whatever .__c3
+__fh__so topic number one is we got the n s f a t r .__c5
+__fh__i t r .__c5
+__s^t__excuse me .__c5
+__qy^rt^t__which was originally pretty big but it's divided among many sites .__c5
+__s^bk^rt__and they like cut the budget by a th- - by two thirds .__c5
+__qy^rt^t__so they - they approved it for all the sites .__c5
+__s^e^rt__but only gave us like sixty two percent of the money .__c5
+__s__or excuse me cut it by sixty two percent .__c5
+__s^na__thirty two .__c3
+__s^rt__yeah | thirty whatever .__c3
+__s__so uh morgan is uh ==__c5
+__qy^bu^d^rt__and the other condition is that they have to get a budget out like immediately .__c5
+__s^bc^nd__or the- - or they'll give the money to someone else .__c5
+__s^bk__by next friday .__c2
+__fh__so morgan's working on that .__c5
+__fh__uhhuh .__c1
+__s__so i mean it's good news .__c5
+__s__it's not as good as it could have been .__c5
+__s__but it was uh ==__c5
+__fg__it's more money .__c2
+__qy^rt__the - the i t rs are you know a - a long shot and so it's - it's really nice that we got that .__c5
+__%-__what does that stand for ?__c1
+__s^df^e__information technology research .__c5
+__s^df^e__something like that .__c5
+__s^aa__something like that .__c2
+__s__huh .__c4
+__qy.%-__all right .__c1
+__qh^rt__it's uh ==__c5
+__s^bk__doesn't say much .__c3
+__s^aa__yeah | it's pretty vague .__c1
+__qy^bu^d^rt__it's - it's um it's some money that we can use ==__c2
+__h|s^aa^rt__it's government run i guess .__c1
+__s^bk__uh i mean we're in conjunction with uh s r i washington and um columbia .__c2
+__s^cc__uhhuh .__c1
+__s^e__okay .__c1
+__s^bk^rt__and to do research on the meetings .__c2
+__fh|s^co__cool .__c1
+__s^bk__yeah | it was specifically on the meeting .__c5
+__fg|%-__not great .__c3
+__s__so d- - was that the one that was the meeting maps ?__c5
+__s__yeah .__c2
+__s__okay good .__c5
+__s^rt__i liked that one .__c5
+__s^e^rt__yeah .__c2
+__s.%-__what is meet- - meeting maps ?__c3
+__s^bk__mapping meetings or ?==__c2
+__s^aa|s^2__well the - the sort of general idea was you can think about meetings at lots of different levels .__c5
+__s^m__all the way d- - from all the way down to acoustics to all the way up to dialogue discourse topic .__c5
+__s.%-__yeah .__c3
+__s__yeah .__c3
+__b__yeah .__c3
+__b__and so this - this was how do you map all that information onto that ?__c5
+__b__a- - onto the meeting domain .__c5
+__b__it's like creating a m- - a map of a meeting in a sense .__c2
+__s^bu.%-__so that the - the analogy was you have maps of different things at different resolutions .__c5
+__s.%-__and so uh ==__c5
+__s.%-__uh okay .__c3
+__s__so this had a lot of different stuff in it .__c5
+__s.%__okay .__c3
+__s^aa__it actually doesn't have a whole lot of m- - speech stuff to it .__c2
+__b__yeah sure .__c3
+__b__yeah | that's ==__c3
+__b__it's mostly higher level .__c5
+__qy^rt^t1__it's ==__c2
+__s^rt__yeah .__c3
+__b__higher level yeah .__c2
+__s__yeah .__c5
+__s__yeah .__c3
+__s^cc__but nonetheless i think if we ==__c5
+__b__it's a - it's a cool idea .__c5
+__s__and if we can actually get it - get it going that would be neat .__c5
+__qy^bu^d^rt__so - and uh this was the one also that was ==__c5
+__s^aa__uh ==__c5
+__s^bk__was it with susan ervin tripp ?__c5
+__s^aa__i don't remember .__c2
+__s__it might have been ==__c2
+__s^df__yeah we had to get some ==__c2
+__s^na__with who ?__c3
+__s^aa__she's a linguist on campus .__c5
+__s^e__okay .__c3
+__qy^d^rt^t__anyway .__c5
+__s^ar__so other topics i wanted to talk about are um the darpa demo which i guess since morgan isn't here we can't really talk about .__c5
+__s^bk^rt__i just wanted to make sure it was ready to go .__c5
+__s^rt^t__yeah .__c1
+__s^e^rt__uh but i guess ==__c5
+__fg|%--__i sent ==__c1
+__s__your stuff is all ready .__c5
+__s__so it's just a question of did morgan get around to testing it ?__c5
+__s__yeah | and i sent you an email ==__c1
+__s__yeah i got it with the instructions .__c5
+__s__with the instructions .__c1
+__s__i don't know .__c1
+__s__so morgan ==__c1
+__s^e__i guess morgan's leaving on saturday ?__c1
+__s^e__yep .__c5
+__qw__so until then ==__c1
+__qr.%--__i guess we might hear something .__c1
+__s^aa^m__yeah | so i guess we ge- - we had better be on call for a little while .__c5
+__s^bk__but ==__c1
+__s^bk__yeah exactly .__c1
+__s__did he ever figure out how to d- - switch between applications like he was wanting to do ?__c2
+__s^bk__i don't know .__c5
+__qy^rt__i haven't spoken with him .__c5
+__qr__yeah .__c1
+__s^na__he did ?__c2
+__b__oh- - yeah .__c1
+__s.%--__switch between applications ?__c3
+__s^cs^t:qw__how is he going to do it ?__c2
+__s__alt tab .__c5
+__fh|s__it's just alt tab .__c1
+__b__like if you hold down alt and then tap tab you just - the s- - just - the task manager w- - window comes up .__c1
+__fh|s__yeah yeah | he ==__c2
+__s__yes | that's ==__c3
+__b__i - i think ==__c5
+__s__he ==__c2
+__b__right .__c2
+__s__i think the problem was that i was t- - saying hit alt tab with the assumption that he knew what i meant .__c5
+__fh|s__yeah .__c3
+__s^df__but he didn't .__c5
+__b__so ==__c5
+__s__no | he said he tried that but he didn't like it because it ==__c2
+__b__we- ==__c1
+__s^ba__well ==__c1
+__s^ba__uh ==__c2
+__s__it took it out of the um ==__c2
+__s^cs__but it doesn't .__c5
+__qy__presentation mode .__c2
+__s^aa__it doesn't .__c5
+__fh|s:s__well because if you just touch alt a- ==__c1
+__s__if you just hit it once it'll go back to the previous application .__c1
+__qo^bu.%-__and the previous application was the powerpoint demo .__c1
+__s__which was the display of like you know ==__c1
+__s__oh !__c2
+__s^bk^rt__and - and all i said was oh just cycle through with alt tab .__c5
+__fh|s__not the slide show .__c1
+__s^e__because that's the standard way of doing it in windows .__c5
+__s.%-__yeah | he didn't ==__c1
+__s^bu__but of course he doesn't use windows .__c5
+__s^na__yeah .__c2
+__s__right .__c1
+__s^bk^rt__so ==__c5
+__s__he didn't know what i meant .__c5
+__s__oh | so what do you have to do ?__c2
+__s^aa__huh .__c4
+__s__you have olt- - alt tab and ==__c2
+__b__hold down at - hold down alt .__c5
+__s__and then tap tab several times .__c5
+__s.%--__and you'll cycle through all the open applications .__c5
+__fh|s__yeah .__c1
+__s__yeah .__c3
+__b__uh okay | and then it won't ==__c2
+__b__and then you can come back to your full screen version of your presenta- ==__c2
+__b__right .__c5
+__qw__right .__c1
+__qw^bu__yeah .__c3
+__s__oh !__c2
+__s__and i told them um if he decides to use multiple examples for um the prosody demo to open up separate transcribers .__c1
+__b__just so you don't have to load up files - e- - during the meeting .__c1
+__fh|s__that's a good idea .__c5
+__s__yeah .__c3
+__s^bsc__so ==__c1
+__s^bk__yeah .__c3
+__qy^bu.%--:s__that's not a bad idea at all .__c5
+__b__so that uh ==__c5
+__s^aa|%-__he's got the memory for it .__c1
+__s^2__so ==__c1
+__s.%-__yeah | and since the files are short it's just ==__c5
+__s:s^j__yeah | they're all really short .__c1
+__%-__i mean the tcl t k overhead is pretty high .__c5
+__s^ba^j__but it shouldn't matter .__c5
+__s^ba.%-__how much memory does he have ?__c2
+__s^j__no | i didn't have any problems .__c1
+__s^co__i'm sorry ?__c1
+__s__how much memory does he have ?__c2
+__s__i don't know .__c1
+__s^aa__but it seemed - it didn't seem to be a problem at all .__c1
+__s^ar__i would imagine you add sixty four to a hundred and twenty eight .__c1
+__fh__huh .__c2
+__s__i think he had one twenty eight .__c5
+__s__yeah | either one will work i think .__c1
+__s^bk__uh ==__c5
+__s^ba__but ==__c5
+__s__it was faster than my p c .__c5
+__s^ba__i mean it was ==__c1
+__s^cs:s__huh .__c2
+__s__so ==__c5
+__s^cc__wow !__c2
+__s__yeah | it was fine i think y- ==__c1
+__s^e__yeah | i mean - i - i - i - we kind of walked through it a little bit on his p- - on his laptop .__c1
+__s^ba^cs__so are we the only ones who are giving demo or is uh washington going to have a demo too ?__c2
+__b__i could .__c1
+__s__i assume but they're all doing communicator stuff .__c5
+__s^df.%--__or ?==__c2
+__s^df__oh okay .__c2
+__b__so ==__c5
+__s__huh .__c2
+__b__and it's part of the talk itself .__c1
+__s.%-__so it's really not a big part .__c1
+__fh__yeah i see .__c2
+__s^na__i mean the talk's only twenty minutes .__c5
+__b__it's just going to be a couple of ==__c1
+__s__so you know all this time we spent on it's going to be thirty seconds of screen time .__c5
+__s^bk__i know .__c1
+__b__oh my gosh .__c2
+__s__right uhhuh ==__c1
+__s__oh !__c2
+__b__but it's a good tool to have .__c1
+__b__yeah | i- ==__c5
+__fh__the - th- - the m- - the meeting i r stuff is actually ==__c1
+__s^bu.%-__actually both of them .__c5
+__s__you know because we're going to want to be playing with the ==__c5
+__s__uhhuh .__c1
+__s__uh ==__c5
+__s__help my brain .__c5
+__qo^cs__with the uh ==__c5
+__s.%-__prosody ?__c1
+__s^ba^na__prosody stuff anyway .__c5
+__s:s__um so actually at some point w- - we should talk to users of that technology who are actually going to be using it .__c5
+__s^aa__and see what they would like to see .__c5
+__qy^d^g^rt__yeah | have you guys seen the display ?__c1
+__b__have you guys seen either of the demos ?__c1
+__s^cc__they're pretty cool .__c1
+__s^df__no .__c2
+__s^aa__nope .__c3
+__s__like the prosody demo we basically w- - loaded up um word alignments .__c1
+__s__so instead of having um utterances in the bottom it's like just word by word .__c1
+__fg__uhhuh .__c2
+__s^cc__so you can see exactly where the overlaps are .__c1
+__qw__oh .__c2
+__s.%-__and then um adam did something where um we converted these feature files into wave files .__c1
+__s^co__so you can display them .__c1
+__s^aa__display the features .__c2
+__s__instead of the wave file ?__c3
+__s__yeah | instead of the wave file .__c1
+__s^aa__oh okay .__c3
+__b__and then w- - using multi wave you can add a file and play that sound .__c1
+__s^j__uhhuh .__c2
+__s^aa.%__play the audio corresponding to that um um feature file .__c1
+__fg|s.%--__okay .__c3
+__b__and it's all like aligned and stuff .__c1
+__b__uh great .__c3
+__s__so you see like the f zero contour ?__c2
+__qy^bu^d^rt__yeah | so you see the pitch contours .__c1
+__qy^bu^d^rt__and you - and when you hit play like there's a line that goes through it .__c1
+__qy^no^rt__you know and it's all aligned with like the t- - the audio and the feature file .__c1
+__s^aa__uhhuh .__c2
+__b__oh that's great .__c3
+__s^e__audio .__c5
+__s__yeah .__c3
+__qw__and the stylized f naught features are pretty cool .__c5
+__s__huh .__c2
+__s^nd__yeah .__c1
+__qy^d^g^rt__so these - this- - it's- - does a piece wise linear .__c5
+__s^ar__and so normally if you look at an f naught track it jumps all over the place .__c5
+__s^bd__yeah .__c2
+__s^no__yeah .__c3
+__s^bk__this is a nice smooth one .__c5
+__s__oh neat .__c2
+__s__and it really does a good job .__c5
+__s^bk__and - there's something like a median filter in it or something ?__c3
+__s^bk__and uh and it's - it's a linear fit or whatever .__c3
+__s__yeah | there's a ==__c1
+__b__it's a combination .__c5
+__s^ba__yeah .__c1
+__s__there's a median filtering and then there's a piece wise linear fit based on some criteria .__c1
+__b__yeah .__c3
+__s.%-__yeah .__c3
+__qo__i'm not sure .__c1
+__h__okay .__c3
+__s.%--__uh t- ==__c5
+__s^ba__g- - actually could you email me a reference to that paper if you have it ?__c5
+__s__yeah sure .__c1
+__s^no__because i'm sort of curious how - what criteria it has .__c5
+__qh^cs__i should email morgan about it too .__c1
+__s.%-__because he was asking about that .__c1
+__s^df__and yeah .__c1
+__s^r__i mean so there's obviously a trade off between the number of knots y- - you pick and the best fit .__c5
+__s^ba__i mean so if you're doing a piece wise linear you have to figure out how many pieces you want .__c5
+__s^df__yeah .__c3
+__s^aa__yeah sure .__c3
+__s^df__and so there's a trade off .__c5
+__s__because the best - the best mean squared fit would be with an infinite number of knots .__c5
+__s^ng__right | well then it's not a linear f- - fit .__c1
+__s^aa|s^df__yeah .__c3
+__s^aa|s__yeah yeah .__c3
+__%-__you're not fitting anything then .__c1
+__s__well sure it is .__c5
+__s^bk__but ==__c5
+__s^cs__well ==__c1
+__s.%-__yeah .__c3
+__qy^d^g__so - so you - there's a trade off .__c5
+__qy^rt__yeah it ==__c1
+__s^bk|s^cc__it's kind of a useless one .__c1
+__fg|s^cs__and i'm wondering what criteria they use .__c5
+__s^e__yeah | i actually don't know off the top of my head .__c1
+__s^am__uhhuh .__c5
+__s__was this code that you downloaded to do this ?__c2
+__s^e__or was it ?==__c2
+__s^cc__this was um kemal sonmez at s r i .__c1
+__fh__who's a co worker with uh liz .__c1
+__b__huh .__c2
+__s.%--__dot com .__c5
+__s.%--__at s r i dot com ?__c2
+__s^cc__yeah | did i just ?==__c1
+__b__no i - you said at s r i .__c5
+__fh__no | i- ==__c2
+__fh__so i had to add the dot com .__c5
+__s__it sounded like a u r l the way you were saying it .__c2
+__qy^d^f^g__oh oh .__c1
+__s__yeah .__c2
+__s^df__sorry .__c1
+__b__um yeah | but so kamal has uh ==__c1
+__s__he did a paper on this for some v- - speech verification uh project .__c1
+__b__and we basically - e- - extrapolated what he - what he did for that work and applied it to our files .__c1
+__s__and that's how we do - that's how we get our feature files and everything for all the prosody .__c1
+__s^e__so what i mean is like the implementation that you used was something that you coded up here ?__c2
+__b__or you grabbed code from somewhere else ?__c2
+__s^tc__that ==__c1
+__s__no | we grabbed most of it .__c1
+__s__like we grabbed the linear fitting stuff .__c1
+__s^cs__uh .__c2
+__fh__i see .__c2
+__fh|s__we did all the alignments .__c1
+__b__and all the matching and stuff .__c1
+__qy__uhhuh .__c2
+__s^aa^rt__and ==__c3
+__qy^bu^d^rt.%-__but the actual coding of the ==__c1
+__s^aa^rt__and the- ==__c3
+__s^2__the math was done somewhere else .__c1
+__s^bk__these are our f zero candidates which i'm supposed to use for the synthesis thing ?__c3
+__s^bk^r__i suppose ?__c3
+__b__uh | so that's what you were working on .__c1
+__s^cs__right ?__c1
+__b^rt__right | that's the same software i used to get the data .__c4
+__fh|s^cs^e__yeah okay .__c3
+__s^cs^e__okay .__c3
+__fh__i - i gave you a c- - couple examples .__c4
+__s^cs__yeah | i m- - didn't have time to - to look at that .__c3
+__s__and ==__c4
+__s.%-__huh .__c5
+__s^no__so ==__c3
+__s^na__right right .__c4
+__s^df__yeah .__c3
+__s__so other topic is uh the i b m transcription status stuff .__c5
+__b__so we've sent a few to them .__c5
+__s^e__we've gotten a few back .__c5
+__s__um ==__c5
+__fh__i sort of wish jane was - were here .__c5
+__qr^rt__because i think she gave ==__c5
+__h|s__didn't she give one of them to one of the transcribers ?__c5
+__fh__yeah | it's done now .__c2
+__fh__and how was it ?__c5
+__s^cc__she said it was much faster .__c2
+__s^aa.%-__great .__c5
+__s__it really helped a lot to have that .__c2
+__%-__so um | you know there were a l- ==__c2
+__s__much faster than doing everything alone ?__c3
+__qr^bu__hand .__c5
+__s.%-__from scratch .__c2
+__s__okay .__c3
+__s^bk|qy^bu^d^rt__yeah so ==__c2
+__%-__from end to en- - like from the beginning of the process to the end of the process ?__c1
+__s^bk__no f- - no | so from the point where we s- - take it it's faster .__c2
+__s^fa|s^bsc__well but that's what we wanted .__c5
+__s__yeah .__c3
+__s^bk^m__right ?__c5
+__b__we knew it would be longer to have multiple groups .__c5
+__s^fa__ooo - yeah .__c1
+__s__u- - so it's sort of like doing things in parallel .__c2
+__s__yeah right .__c1
+__qy^d^g__right .__c5
+__b__you know so if you know if they can be working on that while we're working on the other things then when we get them in they don't have to do that one from scratch basically .__c2
+__fg|s__well pipelined .__c5
+__s^fa^r__uhhuh .__c1
+__s.%-__right .__c1
+__b__the idea is that we're taking less time of the linguists .__c5
+__s^bk|s__right .__c1
+__s^cs.%--__of the transcribers .__c5
+__s^df__so ==__c5
+__b__s- ==__c1
+__s^e__yeah | th- - right now it is taking a bit of time to turn around the meetings from i b m .__c2
+__b__part- ==__c2
+__s.%--__there's - there's several problems .__c2
+__s__one is um we were giving them these large files .__c2
+__s__fff !__c3
+__s__which they then had to split up and put onto cassette tapes .__c2
+__s__so either ninety minute or sixty minute tapes .__c2
+__%--__oh wow .__c1
+__s__so they had to try to find an appropriate place to break this large file that we gave them .__c2
+__s__so one of the things that we did is adam made a modification to th- - his script that generates this so you can tell it that you want uh basically uh chunks that are no more than either thirty or forty five minutes .__c2
+__%-__uhhuh .__c1
+__s__and then we can give those to i b m .__c2
+__s^ba__and it'll make it easier for them to put them on tape .__c2
+__b__um then the other thing is that these pool of transcribers that they're using um sort of are not dedicated to to our project .__c2
+__b__but are in use for all i b m projects .__c2
+__s^rt^t^tc__and i b m has recently giving - given them uh a whole bunch of stuff .__c2
+__qy^d^rt^t^tc__so it's going to sort of delay us .__c2
+__fh__we might want to re visit hiring our own external transcription company .__c5
+__s__because i think that would be cheaper than having our people do it .__c5
+__s__but do it with the same process with these beep files .__c5
+__s^ba__huh | that's an interesting idea .__c2
+__s^df__i mean because originally i had disc- - discounted that .__c5
+__fh__because it was just going to be too hard .__c5
+__s^cs__but now we have this procedure with the beep files worked out .__c5
+__s^df__yeah so the only difference would be we would be putting the stuff on tape versus i b m .__c2
+__s__then maybe it would be okay .__c5
+__s__yeah .__c3
+__s^df__yep .__c5
+__qy^d.%--__and then we could send - if - if we had that process down of putting the audio onto tape ==__c2
+__h__we can send i b m the tapes or we can send this transcription place the tape- ==__c2
+__b__and we might want to do that anyway .__c5
+__s^2__because it seems like that's being a bottleneck and that's silly .__c5
+__s^2^bk__it shouldn't be a bottleneck .__c5
+__qy^bu^d__yeah .__c2
+__s__i mean - it would - once we got it set up it w- - it ==__c5
+__s__well u- - u- ==__c2
+__b__so i don't know where the bottleneck was .__c2
+__s^aa__was the bottleneck in breaking this large file up into the appropriate size chunks or was it actually putting it onto the tape ?__c2
+__s^aa^r__it may well have been partially that you know .__c5
+__s^cs__because they tried it .__c5
+__s__and then they would have to listen to the tape and find out where it bleeps .__c5
+__fh|s__exactly .__c2
+__s__and go forward in the file et cetera et cetera .__c5
+__s^e__yeah .__c2
+__s^e__but uh ==__c5
+__s^ba__yeah .__c2
+__b__it just seems like it's not hard for us to do .__c5
+__s^e__and that would just make things go faster .__c5
+__s^co__yeah | so how do we do that ?__c2
+__s__how would we put ?==__c2
+__s^cs__get a tape deck .__c5
+__qy^rt__yeah .__c3
+__qy^e^rt__yeah .__c2
+__s^aa^rt__plug it in to the computer .__c5
+__s^aap.%-__plug it into the sound card .__c3
+__b__hit record .__c5
+__s^bk.%-__on the tape deck .__c5
+__s__yeah .__c3
+__s^2__and just do it all - all uh analog .__c5
+__s^bk__so plug i- - so like the headphone output in the back of the computer ?__c2
+__s^aa__well line out .__c5
+__qy^bu^d^rt__line out | yeah .__c3
+__s^ba__line out into the line in on a tape player .__c2
+__s^aa__uhhuh .__c5
+__s__huh .__c1
+__s^bk|s__yep .__c3
+__%-__and ==__c2
+__s^aa__oh | well that sounds pretty easy .__c2
+__s^bk__so - | i mean that's the easy way .__c5
+__s^ba^j__they might have a more complex set up at i b m .__c5
+__b__i've seen digital digital analog tapes where it's controlled by the computer .__c5
+__b__yeah | but the easy way is ==__c3
+__b__huh .__c2
+__fg__but w- - but we don't need to do that .__c5
+__s^j__yeah i know .__c3
+__b__no .__c3
+__fh__yeah .__c3
+__b__the - the disadvantage of doing it this way is it's real time .__c5
+__s^j__so you would have to sit there for an hour while it's recording .__c5
+__s^bd__yeah | but if it was at your desk or something ==__c2
+__b__but ==__c5
+__s:qr^rt__yeah | but you ==__c3
+__s^cs^j__yeah - yeah .__c3
+__b__right | it's not a big deal .__c5
+__b__so what's the turn around period right now from i b m ?__c1
+__s^co__well | they - there was ==__c2
+__s^aa__should we be discussing this ?==__c1
+__qw^rt__okay .__c2
+__b__so | th - they um they gave - they've given us ==__c2
+__s^rt__since we started doing this new uh beep format with beep number beep ==__c2
+__s__uhhuh .__c1
+__s.%-__they've given us uh i think two full uh transcripts .__c2
+__s^bu__they have a third one .__c2
+__s^aa__and brian just sent me a note saying oh that third one somehow slipped through the cracks of their tr- - of the uh - transcriptionists' uh s- - company .__c2
+__s^r__huh .__c1
+__%-__and so there's going to be delay of a week before we get that third one back .__c2
+__s^bk__and i've already given him three more to work on .__c2
+__qy^bu^rt__okay .__c1
+__fh__but he said those new three won't get done until this big chunk of data has been processed by the company .__c2
+__s^bu__okay .__c1
+__qy^rt__and the transcribers here are still uh - are working though .__c1
+__qy^bu^r^rt__yeah yeah | they're working away .__c2
+__s^t1.%-__th- - they're just doing their own thing like while they're waiting .__c1
+__%-__they're just doing ==__c2
+__s^aa|s^cs__right right .__c2
+__b__okay .__c1
+__s__so what we do is uh when i go to um select meetings for i b m i go into the um ==__c2
+__s__well into the - the uh master sheet here with the statuses ==__c2
+__s.%-__master .__c5
+__s__uhhuh .__c1
+__s__and i pick ones that thilo has um pre segmented .__c2
+__%-__and i change the status to trans- - i p i b m .__c2
+__s__so that you know when jane or whoever goes to select the next meeting they won't choose one of those .__c2
+__s^bk|s^fa__and um ==__c2
+__fh__so i'm not picking huge chunks right now of meetings for them .__c2
+__qh^rt__so ==__c5
+__fh__we should at least ask um brian if there are any particular requirements for putting things on tape .__c5
+__s^df__uhhuh .__c1
+__b__but ==__c2
+__s^df__is there a particular type of tape that they want to use or anything else like that ?__c5
+__s^bk__uhhuh | that's a good idea .__c2
+__s^bk__and uh ==__c5
+__fh__and then we should see how much of a pain it is for one of us .__c5
+__s.%--__i mean the o- - the other problem is you would want to r- - do it on an unloaded machine .__c5
+__s^bsc^rt__right ?__c5
+__s^rt__because you wouldn't want it to start stuttering .__c5
+__s^aa^m__yep .__c3
+__qy^rt__yeah .__c3
+__s^aa__yeah .__c2
+__s__yeah .__c3
+__s^na__huh .__c2
+__s:s__and that means - that - that's more of a problem .__c5
+__s^aa__and all ==__c3
+__s^2__because y- - then you have to be there .__c5
+__fh|s__yeah .__c3
+__s^bk__and all of the p cs are connected to the network too here ?__c3
+__s^bk__what i- ?==__c1
+__s__or uh ==__c3
+__%-__right .__c5
+__fh__you're just talking about playing it and recording it like real time ?__c1
+__s^df__bad ==__c3
+__b__yep .__c5
+__%--__oh .__c1
+__s^rt__so when that thing - when it stutters like that is it because there's a delay getting the data off a disk or is it because there's a delay in the d to a ?__c2
+__%-__uhhuh .__c5
+__s^rt:s__it could be either .__c5
+__b__i mean there are lots of different places .__c5
+__s^aa__okay .__c2
+__s^co__it can be delay on the disk .__c5
+__s^aa__or it can be just load gets high on the machine .__c5
+__s.%--__yeah .__c2
+__fh__um either i o load or processor load .__c5
+__%-__i see .__c2
+__s^bk|s__you know it's a problem with these multi user systems is that lots of processes are running .__c5
+__s.%-__and you don't t- - really have control .__c5
+__b__maybe we could do it from a w- - a p c or something .__c2
+__s__wha- ==__c5
+__s.%-__yeah .__c3
+__fg__but they are also on the networks .__c3
+__s.%-__yeah .__c2
+__s^2^j__so ==__c3
+__s__if you used a line out too you have to worry about if you click around and you hit a beep or something it'll beep onto - onto the tape too .__c4
+__s:qw__maybe .__c3
+__s:s^cc__that's true .__c5
+__fh__it'll ==__c5
+__s:s__that's right | so you really do want to be using a machine that's not .__c5
+__s^bk__uhhuh .__c2
+__fg__uhhuh .__c2
+__s__and you have to record every channel separately .__c1
+__s^tc__no | because we're doing the beep files .__c5
+__s^cc__the beep files .__c3
+__s^tc__well you know | i - i think david might have a bunch of o- - old p cs .__c2
+__fg|s^rt__oh okay .__c1
+__s^e__because he's replacing them with these new ones .__c2
+__s__maybe we could get one .__c2
+__s__and just dedicate it to doing this .__c2
+__s^rt__not even hook it u- ==__c2
+__s^e__well i guess we need to hook it to the network .__c2
+__b__we ==__c1
+__s__so we can get the files to it .__c2
+__s^df__but ==__c2
+__s__yep .__c5
+__s__uh ==__c2
+__s^cc__or you could just - you could have it - no active connection .__c5
+__s^df__just s c p them .__c5
+__qy^rt__yeah right .__c2
+__s^aa__and then just use that machine to hook up to the tape .__c2
+__s^bu__actually it wouldn't be bad to have that plus put on that machine a c d burner .__c5
+__s^aa__yep .__c3
+__s^aa^r__yeah .__c2
+__s.%-__we don't need a powerful machine to do these things .__c2
+__%-__right ?__c2
+__fg__no .__c5
+__b__so one of these old pentiums that we have ==__c2
+__s^cc__huh !__c2
+__b__should talk to him about that .__c2
+__b__or even a d v d burner .__c3
+__s^fe__a d v d burner | yeah .__c5
+__fh|s__uhhuh .__c1
+__s__i guess the real question is where would we put it and who would do it ?__c5
+__s^e__i guess whoever records the meeting .__c5
+__s__i mean it- - it's not a big deal .__c5
+__s__but it's yet another thing you have to do .__c5
+__s__yeah yeah .__c2
+__s^cs__that's why i wanted to avoid having to do that if we could .__c2
+__s^e.%-__but ==__c2
+__s^2^j__it's just another ==__c2
+__s^aa^j^r__they couldn't use c ds ?__c1
+__s^fe__no | because the transcription company does what they do .__c5
+__s^j__they have a um - a device that you put the cassette in .__c2
+__s^aa__and it has a foot pedal that lets you go back and forth and stuff like that .__c2
+__%-__oh i see .__c1
+__%-__i see .__c1
+__fg__so ==__c2
+__qy^d^rt^t^tc__i guess they haven't got a p- ==__c2
+__fg__actually there are a few - i saw a web based one at one point .__c5
+__s__web based ?__c3
+__s:s__where you could send them audio files over the web .__c5
+__s^ba__and they send you back text files over the web .__c5
+__s^ba^rt__really ?__c2
+__s__i should look that up again .__c5
+__s__y- - can you send them huge audio files ?__c2
+__s__huh huh ==__c5
+__s^df__you can .__c3
+__s^aa__but they never will be able to read them .__c3
+__s__yeah .__c2
+__s__i assume that you can send them anything that they can access with h t t p .__c5
+__s.%--__huh !__c2
+__s__well they must be dealing with large amounts of data if they're transcribing anyway .__c1
+__s^2__that's interesting .__c2
+__b__yeah .__c3
+__s^aa|s__i mean people probably aren't sending them you know an utterance or two .__c1
+__fh__well that's true .__c2
+__s__are - how big are these files that we send to brian ?__c2
+__s^df__uh pfff !__c3
+__s__half a gig .__c5
+__qy^bh__really ?__c2
+__fh|s__that big ?__c2
+__s^bu__oh no wait .__c5
+__s^na__i thought it was like a hundred megs .__c2
+__qy^d^g^rt__they're the beep files .__c5
+__b__yeah | it's a p- - hundred meg .__c5
+__b__they're the beep files .__c5
+__s__that's right .__c5
+__b__so they're smaller .__c5
+__s__yeah .__c2
+__b__huh !__c2
+__s__that's still pretty dang big .__c2
+__s^bk__yes .__c5
+__s^aa__send it via email .__c3
+__fh__yeah .__c2
+__s__and we are sending them the compressed ones .__c5
+__s__right ?__c5
+__s^bk__i don't know .__c2
+__s^t__wha- - whatever you generate ==__c2
+__s.%-__yeah .__c5
+__s^bu__yeah the last ones you did were compressed .__c2
+__h|s^ng__were shortened .__c5
+__b__yeah .__c5
+__s^df^rt__yeah .__c2
+__s^e^rt__wonder if the ones before that were shortened .__c2
+__s__yeah .__c5
+__b__the beep files actually - the shorten doesn't save a whole lot .__c5
+__s^ba__right ?__c5
+__s^ba__because it's all ==__c2
+__s^bk__because the whole point is that it's extracting pie- - pars- - parts that are loud anyway .__c5
+__s^df__it's all speech .__c3
+__b__yeah yeah .__c3
+__b__uhhuh .__c2
+__s^t^tc__huh !__c2
+__qy^rt__so ==__c5
+__s.%--__huh .__c2
+__s^bu^rt__i think it only saves like half .__c5
+__s__only .__c3
+__s.%-__okay | so i think we just got to let things slide for now .__c5
+__b__and see - see what's going to happen .__c5
+__s^bk^m__yeah .__c2
+__b__nothing else really to do .__c5
+__s__um ==__c5
+__%-__we have new equipment that i'm going to try to set up tomorrow .__c5
+__s__new wireless .__c5
+__fh__what will that do ?__c2
+__fh__and so uh ==__c5
+__qy.%--__is that going to ?==__c2
+__s__give us a couple more wireless channels .__c5
+__qy^bu.%-__oh | so we can get rid of the uh ==__c2
+__s^aa__yep .__c5
+__fh__oh that'll be nice .__c2
+__s^bk__yep .__c5
+__s__but it involves rewiring .__c5
+__s^bk^r__and so if i could borrow someone tomorrow afternoon to help my brain ==__c5
+__b__i should be around .__c2
+__s^ba__you know just have someone to bounce the instructions off of .__c5
+__qo^d^rt^t^tc__and make sure i don't do anything too stupid .__c5
+__s__yeah sure .__c3
+__s^e:qy__did i have another topic on the - on the list ?__c5
+__s__experiments ?__c2
+__s__isn't that next week ?__c1
+__s^bu__experiments ?__c3
+__s^nd__that's ==__c5
+__s^nd__yeah | i guess that's probably next ==__c2
+__qy^bu^d^rt__yeah .__c3
+__s^aa__these are next week .__c3
+__qy^bu^d^rt__wha- - what did i have on the agenda i mailed out ?__c5
+__fh__yeah .__c2
+__s^aa^m__i think it was ==__c1
+__qy^bu^d^e^rt__oh yeah | i don't know .__c1
+__s^aa|s^na__the demo .__c3
+__s^aa__something about ==__c2
+__%-__the demo was one of them .__c1
+__fg__demo and i b m i think .__c3
+__fg__demo .__c2
+__s.%--__yeah | that's it .__c5
+__s__yeah .__c3
+__s__yeah | i think that's it .__c1
+__fh|s__yeah .__c3
+__s^ba__that was it .__c5
+__s^ba__yeah .__c2
+__s__short meeting ?__c3
+__s:s__yeah .__c2
+__s.%--__short meeting .__c5
+__s__does anyone have anything else ?__c5
+__s__oh i made a ==__c2
+__s^cs__oh but that's not specific to meeting recorder .__c2
+__s__i was going to say i took some a suggestion of adam's .__c2
+__fh__and i um - created a m- - c g i script that lets you see the current status of the speech disks .__c2
+__s^no__uhhuh .__c1
+__fg|qw^rt__so if you go to the speech local web page and then there's a disk status page .__c2
+__s__you can click on that .__c2
+__s^ft^t3__and it'll query abbott .__c2
+__s__and give you a - a list of all the disks that we have .__c2
+__s^bk__and then uh what's on each one .__c2
+__s__and then it shows how big the disk is .__c2
+__s^bk__and what percent full it is .__c2
+__s__cool .__c1
+__s__so ==__c2
+__s^bk__and that's you know each time you go there it's updated .__c2
+__b__so ==__c2
+__s__so the new disks are installed now ?__c1
+__%-__so | what - what ?==__c3
+__s__or ?==__c1
+__s__the new disks are installed .__c2
+__fh__if you need space just let me know .__c2
+__s__i have to create the p- - appropriate sub directory .__c2
+__s:qw__so we're s- - kind of trying to keep - even the scratch ones we're keeping a little organized where we put a y- - a u doctor speech data .__c2
+__fh|s__uhhuh .__c1
+__b__and then i'll either create a sub directory for like if it's meeting recorder project or hub five or whatever .__c2
+__s^aa__so we c- ==__c2
+__s^aa__i just have to create those sub directories .__c2
+__qy^d^g^rt__okay .__c1
+__s^ba__do we have new d d disks also ?__c5
+__s^rt__and ==__c2
+__s__no .__c2
+__s.%--__darn .__c5
+__s^aa|s__no .__c2
+__s^j__nnn .__c2
+__s.%--__so it's all just scratch .__c5
+__s^aa__it's all scratch .__c2
+__%-__okay .__c5
+__s__yeah .__c2
+__fh__how are we doing on ?==__c5
+__b__uh d e which is where we're putting all the meeting stuff ==__c2
+__b__no | d e is full .__c5
+__s^cs__we must be doing it on d f .__c5
+__s^cs^e__no | it's d e .__c2
+__s^e__d e i think .__c3
+__s__d e's not full .__c2
+__qw^rt__yeah ?__c3
+__s^nd__d d is full .__c3
+__s^ng__d d's full .__c2
+__s^ng__that was the first one .__c2
+__%-__or that was the last one that w- - filled up .__c2
+__s^m__and - d e still had like ==__c2
+__%-__okay | i guess i'm just one off .__c5
+__s.%-__last time i looked it was like seven gigs or something .__c2
+__s^cs__okay .__c5
+__%-__so ==__c2
+__qo__and each meeting is roughly half a gig .__c2
+__s__half .__c5
+__s.%--__and so ==__c2
+__s^2^rt__so that means we're p- - getting pretty close .__c5
+__s__we're getting close .__c2
+__s__yeah .__c2
+__s__so ==__c2
+__fh__shoot !__c5
+__s^bs^cs__are we g- - just going to keep recording ?__c1
+__s__yeah .__c2
+__s^rt__like at some point ==__c1
+__s^cs__morgan said something about stopping at the end of the year .__c2
+__s^e__okay .__c1
+__s^e__like when we get around a hundred meetings .__c2
+__fh__okay .__c1
+__s__um because there's going to be data coming from u w hopefully by then .__c2
+__s^cs__because u- ==__c1
+__s^aa__i just hate not to get data .__c5
+__s^e__how m- ?==__c1
+__b__yeah | it feels funny .__c2
+__s^cs__huh ?__c2
+__fh__you're a data fiend .__c1
+__s__if we have the capability .__c2
+__fh|s^cs__yeah .__c5
+__s__yeah | it's like you build this room up for so long .__c1
+__s__and then it's just like you stop .__c1
+__s^aa__now that we're used to recording it's like uh well why not keep going ?__c2
+__s__i - the other thing we could do is stop doing the regular ones .__c5
+__s^am__and try to convince other topics to come in and do some .__c5
+__qw__because i think that would be nice .__c5
+__fh__uhhuh .__c2
+__s__we have right now like seventy five or seventy six hours of meetings .__c2
+__s__yeah the other thing we were talking about also is once we exp- - once the disk has been backed up we don't actually need it online .__c5
+__s.%--__so another option is to copy it to tape manually .__c5
+__b__so we have the back up copy and the tape copy .__c5
+__s__the archive copy and the back up copy .__c5
+__b__and then just take them off line .__c5
+__s__but aren't we still using the uh compressed ?==__c2
+__fg|s.%-__once we have the expanded versions .__c5
+__%-__so if we have a ton of scratch disk maybe the thing to do is leave those up .__c5
+__b__oh .__c2
+__s^co__yeah .__c2
+__s^df__and then use - and then not necessarily have the original data online .__c5
+__s^e__yeah | we need to figure something out .__c2
+__s^e__because the abbott is basically ==__c2
+__s.%-__full .__c5
+__b__e- - e- - we can't add anymore disks to it .__c2
+__qw.%-__we can increase the size of the disks that are on it .__c2
+__s^cs^nd__but that will only take us so far .__c2
+__%-__so um ==__c2
+__s^r__david had the suggestion about you know new servers and things like that .__c2
+__s^na__and so i'm going to see if we can talk to morgan about getting some money for a new disk server .__c2
+__s__and uh ==__c2
+__s__well that would be pretty tight i- - in the machine room .__c5
+__s^e__yeah | it would have to replace abbott basically .__c2
+__b__eesh !__c5
+__fh|s^f__yeah .__c2
+__s__well he - david's planning to get new servers anyways for all of the main servers .__c2
+__b__uhhuh .__c5
+__s^e__i think he wants to sort of go with the same type of machine for all of these .__c2
+__s^na__but um ==__c2
+__s^e__yeah it's full in there .__c2
+__s__have you seen it recently with all of the new machines that we got ?==__c2
+__fh__uhhuh .__c1
+__b__uh the sun blade one hundreds .__c2
+__s^r__they're like stacked up on benches and things all over .__c2
+__qy^rt__it's really crowded .__c2
+__s^df.%-__so ==__c2
+__s^na__but they are not yet accessible ?__c3
+__s^df.%-__the new machines .__c3
+__s.%-__oh yeah yeah yeah .__c2
+__s__yeah they are ?__c3
+__s__they're in the - yeah if you do a p make ==__c2
+__s__oop !__c3
+__s^cs__what are they called ?__c5
+__fg|s__what are they named ?__c5
+__s^cs__yeah .__c3
+__%-__oh | i've forgotten now .__c2
+__s^aa__um ==__c2
+__s__i assume they're in the p make pool .__c5
+__s^aa__yeah | they're in the p make pool .__c2
+__fh__so if you do a reginfo minus show attribute and ==__c2
+__s^e__uh ==__c2
+__fh|s__a what ?__c3
+__fh__a r- ==__c2
+__s^no__p make stuff .__c5
+__s^cs__p make magic .__c5
+__s^cs^e__yeah y- ==__c2
+__fh__or customs magic .__c5
+__s__oh god !__c3
+__s.%--__you can get a list of all the machines that are available to p make by using the command reginfo .__c2
+__s^e.%--__okay .__c3
+__s^e__reginfo okay .__c3
+__s__minus show a t t r .__c2
+__s^cs.%-__maybe you can send me that .__c3
+__s__yeah .__c2
+__s^ba__yeah .__c2
+__s^df__and then um ==__c2
+__s^df^e__if you do man customs it has almost all of that .__c5
+__s__okay .__c3
+__s^e__yeah .__c2
+__s__and - i for- - i'm not sure what attributes we attach to the sun blade one hundreds .__c2
+__s^cs__but it could be s. b. one hundred .__c2
+__s__and so if you query for f- - all machines that have that attribute then you should see the names of the new machines .__c2
+__s^df__okay .__c3
+__fh__okay .__c3
+__qw.%--__but ==__c2
+__s.%-__do we have an attribute for non interactive machines ?__c5
+__s^cs__because i was thinking that would be a good one to have .__c5
+__qy^d.%-__non interactive ==__c2
+__s^cs__ones that aren't on people's desks .__c5
+__s^cs^e__well there's sort of .__c2
+__s__there's this one called - there's the attribute called no- - what's that called uh n- - no- - uh no evict .__c2
+__b__which is roughly that .__c2
+__s.%--__y- - right .__c5
+__s^aa__it's - although it's like it- - h- - my machine has it on my desk .__c2
+__s^ba__so i do get jobs running on my machine all the time .__c2
+__s__um but uh ==__c2
+__s__so - so that's - that's sort of what it is .__c2
+__s^cs__yep .__c5
+__s^cs__uhhuh .__c2
+__s^e__anyway .__c5
+__s__shall we do digits ?__c5
+__s^cs__sure .__c2
+__%-__DIGIT_TASK__c5
+__s^aa__DIGIT_TASK__c4
+__qy^d^g^rt__one three five four one two two three seven zero .__c4
+__s^ba__DIGIT_TASK__c4
+__s.%-__DIGIT_TASK__c1
+__s^aa__DIGIT_TASK__c2
+__s__DIGIT_TASK__c3
+__s:s__and off .__c5

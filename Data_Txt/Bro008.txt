@@ -1,0 +1,589 @@
+__s^tc__okay .__c4
+__fh__okay .__c3
+__s^co__we can start ?__c3
+__fh__okay .__c4
+__s^rt^tc__okay .__c3
+__s^t__so welcome to our next meeting .__c3
+__s.x__uh | today we will have a talk from miguel sanchez concerning his uh work related to ad hoc networks .__c3
+__fh|s__we have here a guest a former icsi member of the n. s. a group jordi domingo pasqual .__c3
+__fh__he is uh assistant professor at u. p. c .__c3
+__qy^br^d^rt__and maybe jordi you have a few words concerning your work .__c3
+__s.%--__one or two sentence .__c3
+__fh|s.x__and because we will have tomorrow a talk from him in more detail concerning what's going on .__c3
+__s^bk^rt__uh you - you want me to say ?==__cb
+__s__yeah | only a short introduction .__c3
+__s^e__oh .__cb
+__b__ve- - very short introduction please .__c3
+__s^bk__of course .__cb
+__fh|s.x__uh | well i'm working in the them broadband commu- ==__cb
+__fh|s.x__uh sorry | one interruption .__c3
+__fh|s.%--__this is not related to hearing .__c3
+__b^rt__it's only for fixing it .__c3
+__s__it's not a earphone .__c3
+__s.%--__uh it's not a hear ==__cb
+__s__no .__c3
+__fh|s__so ==__c3
+__fg__it works like - like this .__cb
+__fh|s^co^rt__yeah yeah .__c3
+__s^rt__like this one .__c3
+__s^df__yeah .__c3
+__s^e__uh .__cb
+__s.%-__it's only a microphone .__c3
+__s^m.%-__that's ==__cb
+__s^2__uh .__cb
+__s^aa__yeah .__c3
+__fh|s^df^rt__that's uh much more comfortable .__cb
+__fh|s__okay .__c3
+__s^bk__yeah .__c3
+__s.%--__okay .__c3
+__fh__thank- - thank you .__cb
+__qy^br^d^rt__i'm uh working in the broadband communications group .__cb
+__s^r__and uh ==__cb
+__s^aa__uh ==__cb
+__s^e__well | the research topics at this moment is uh i. p. eighty traffic monitoring and characterization and them uh tool - developing tools uh for quality of service uh performance analysis .__cb
+__fh__that's uh - and we have several projects uh both spanish and european projects ongoing .__cb
+__qw^rt__uh | in this area .__cb
+__h|s__okay .__c3
+__s^m^rt__thank you .__c3
+__fh__and after the talk of uh miguel i will give you all a few slides concerning the project proposal .__c3
+__fh__i will um say something about in which direction it will go .__c3
+__fh__and ==__c3
+__s.%--__uh ==__c3
+__s__maybe it was my fault that i assumed that the pointer of miguel concerning u. m. t. s services was deployed to everybody .__c3
+__fh__but it was only sent to me .__c3
+__sj^ba__so in the meantime everybody got i believe this pointer from me .__c3
+__sj^ba^r__and ==__c3
+__b__maybe we - it's a homework in principle for the next meeting to get a little bit familiar with these things .__c3
+__b__worse than no work .__c0
+__fh|s__and um ==__c3
+__s^df__so i believe we will not have today a very hard technical discussion .__c3
+__s^df__maybe more a few topic and items we will focus in the next days until the next meeting .__c3
+__b__and when we are ready with our meeting .__c3
+__fh__everything is done .__c3
+__b__then uh we have to read these number .__c3
+__fh__and we go around here every member .__c3
+__fh__okay .__c1
+__s^cc__so ==__c3
+__sj^ba__okay .__c4
+__fh__miguel please .__c3
+__s__thank you .__c4
+__s__well uh i - i have prepared uh a really short talk about some of the topics .__c4
+__fh|s__i - i have been doing some w- - some research work uh before coming here .__c4
+__s__and uh | well mainly i will present .__c4
+__fh__uh here you have more or less the sketch of the presentation .__c4
+__sj^ba__i will present some ideas and some concepts about what ad hoc networks are .__c4
+__s__about the issues in media access control in wireless networks .__c4
+__fh__also about routing in such kind of networks .__c4
+__s__and uh | i will make some comments also about uh the current standards of wireless local area networks .__c4
+__fh__and finally i will present the blueprint of - of my research project or my research uh proposal here .__c4
+__s__so | the first thing is uh what an ad hoc network is .__c4
+__s__you know uh an ad hoc network is made of wireless nodes .__c4
+__s.x__these nodes of course can be mobile nodes .__c4
+__b__and uh in this network there is no network infrastructure .__c4
+__b__so uh | the only active thing we have is the mobile nodes .__c4
+__fh__and uh ==__c4
+__fh__end to end communication is sometimes uh done by direct communication from one node to the other .__c4
+__qw^rt__because they can talk to each other .__c4
+__s^no__but sometimes it is not possible this direct communication because nodes end - uh source or - and destination nodes are um - are too far away .__c4
+__s^bk__and in this case it can be done communication can be done by uh using multi hub routing .__c4
+__fh|s__so ==__c4
+__s__an intermediate or a set of intermediate nodes will route or will forward the packet from the sender to the destination .__c4
+__s^bk__so ==__c4
+__sj__uh | in a sense what we have in this kind of networks is that uh nodes are as both arced as both uh endpoints and also routers of other neighboring nodes .__c4
+__s__and this makes a uh difference from other kind of network .__c4
+__fh|s__and well regarding the purposes of what can this kind of network be used for uh we can say that well cellular networks are infrastructure based networks .__c4
+__s__in this kind of ad hoc networks we don't have anything uh with the exception of the network nodes .__c4
+__s^e__so this uh network can be useful for uh uh occasions where no available infrastructure is present .__c4
+__s^bk__like for example in - in - uh after some kind of - of - uh um catastrophe- - catastrophic event .__c4
+__s^bk__or also when - even when there is a network available we don't want for different reasons to use the available network .__c4
+__fh|s__this latt- - later case can be for example the use in military systems .__c4
+__s__where maybe we don't want to use the other - the enemy network infrastructure for evident reasons .__c4
+__s__yeah .__c4
+__b__huh ?__c3
+__s__but you can also i believe uh to have an ad hoc network where one node is then connecting to the outer world .__c3
+__sj^fe__for instance what i have in mind you have a car where you plug in different devices and they talk to each other for instance .__c3
+__fh|s.x__but one device decided to go to the g. s. m network or g. p. s network or whatever kind of things .__c3
+__b__that's okay .__c4
+__s.%--__so there's a certain kind of task uh for one node within the ad hoc network to provide connectivity to the outer world .__c3
+__fh|s__right ?__c3
+__s__that's okay .__c4
+__s__okay .__c3
+__qy.%--__that's perfect you know .__c4
+__qw^rt__yeah .__c3
+__h|s__this - in this case we will say that this node is acting as a - as a gat- - external gateway from this network to connect to other networks .__c4
+__fh|s__right .__c3
+__s.x__and of course the underlying uh protocols can can be of course uh i. p. based .__c4
+__s__uh okay .__c4
+__fh|s__here you have several - several uh proposed uh scenarios for - for used this networks .__c4
+__s^bk__when no network is available .__c4
+__fh__okay .__c4
+__fh|s__and another - another application for example nasa is - is uh studying is uh the use of these networks these ad hoc networks for sending multiple probes uh um uh missions .__c4
+__fh|s.%--__so for example all of you are aware of this uh - the last atlas the last successful uh mars mission .__c4
+__s__the cellular vehicle was only one and was uh walking around - uh roaming around the base station which in this case was the gateway uh node of this network .__c4
+__qy^d^g^rt__but it was only one mobile node of course .__c4
+__qy^bu^d^rt__nothing prevents .__c4
+__qrr.%--__except well maybe the cost to send not only one mobile rover but ten tons of them or - or at least uh several of them .__c4
+__s.x__so uh ==__c4
+__s^e__higher area could be covered - could be explored .__c4
+__s^e.%-__and uh of course all the different nodes could also use some kind of ad hoc networking ad hoc routing to extend the distance the maximum distance than uh a single radio transmission will - would allow .__c4
+__fg__okay ?__c4
+__s^bc__@@ ==__c3
+__fh|s^df__and in the other case or the other area uh of - of - of application is the so-called network of sensors .__c4
+__%--__where we can deploy a set of sensors in a maybe uninhabited area .__c4
+__s^df__let's say for example the forest .__c4
+__s^aa__and we can uh take some information .__c4
+__s__uh | for example for - for fire fighting we can just launch from a plane several small sensors .__c4
+__s__and uh ==__c4
+__s__these sensors can be for example uh checking that there is no fire .__c4
+__b__they can have some kind of uh let's say infrared technology sensor .__c4
+__b__so we can cover a huge area with only a small set of - of sensors and without any other infrastructure .__c4
+__s__yeah ?__c4
+__s__um | is that really an ad hoc network ?__c1
+__fh|s__because the sensors are not moving .__c1
+__s__and i think it's - makes no sense with moving sensors because then you don't know where the sensors are .__c1
+__s__yeah .__c4
+__b__so ==__c1
+__fh__well ==__c4
+__fh|s^cs__you know it's an interesting question .__c4
+__s__uh the - the main thing about an ad hoc network is not that nodes move .__c4
+__s__it is the way of topology changes can happen .__c4
+__b__the idea that huh any change is possible at any given moment .__c4
+__qy^rt__but you can of course ask but if the nodes are not moving what kind of topology changes can we expect .__c4
+__qrr.%--__yeah .__c1
+__h|s^nd__that's it .__c1
+__qy^bu^d^rt__well uh | the thing is that usually in - in a n- - in a network of sensors what we have or the idea is to have um an important number of sensors and maybe with a high filer rate .__c4
+__s^aa__yeah .__c3
+__s^df__maybe the batteries are uh exhausted in some nodes because maybe uh they are not being able to take uh let's say any sun to recharge its cells .__c4
+__fh|s__okay .__c1
+__fh|s__uhhuh .__c1
+__b__uh maybe some of them can be uh just uh out of order for other uh environmenta- - environmental conditions .__c4
+__s__so uh | the idea is that even when these nodes are not moving they can start and stop working at uh let's say higher pace .__c4
+__s__then uh what will happen in a - in a regular network uh in a network where you don't have or - either mobility or uh this uh on off uh rate high rate .__c4
+__s__uhhuh .__c3
+__s^bk__let me go back to your uh uh example .__c3
+__b^rt__huh .__c1
+__fg__yeah .__c4
+__fh|s.%-__have in mind some routers are burnt here at icsi or whatever kind of thing .__c3
+__s^bu__what will happen then even in a fixed network ?__c3
+__s__uhhuh .__c1
+__s^bk__so | if some sensors are getting out of uh service and whatever kind of thing so the topology has changed even if no node is moving .__c3
+__fh__okay .__c1
+__s^bk__uhhuh .__c1
+__s__yeah .__c3
+__fh__okay .__c1
+__fh|s__and how to provide the connectivity and the intercommunication things wi- - within this network .__c3
+__fh__thank you joe .__c4
+__fh|s__yeah .__c1
+__b__i see .__c1
+__fh|s__uhhuh .__c1
+__qw__well ==__c4
+__qr^d^rt__uh you know | and finally uh another nonmilitary applications where uh maybe a network is available like for example a room like this .__c4
+__s__where we have in fa- - in fact a wired infrastructure .__c4
+__s__but this uh possible application of ad hoc networks could be uh any place any meeting room where we arrive with our computers .__c4
+__s^aa__and uh we just can communicate seamlessly to each other without any kind of access point any kind of uh huh external network .__c4
+__b__because the kind of work we want to do is just only local based .__c4
+__s^bk__it's only to chat to each other or to exchange files with the person which is in front of us .__c4
+__s^am^rt__okay .__c4
+__s^aa__but we n- - don't want to product - pro- - provide uh access to the internet or something .__c4
+__s__okay ?__c4
+__b.x__and of course the same uh - the same scenario could also happen in a place where there is no uh infrastructure available .__c4
+__fh__let's say a meeting room uh in - in the middle of the desert .__c4
+__s.%--__okay ?__c4
+__fh__without any other network .__c4
+__fh|s__so ==__c4
+__fh__the point - or - or the question could be for some of us the idea of saying okay .__c4
+__s^aa__that sounds okay .__c4
+__s^am__but why not to use a longer transmission range so we can reach any destination in just one hop ?__c4
+__s.%-__this seems to make sense because well uh we are this way avoiding all the routing problem .__c4
+__s__that well we will talk a little bit uh about routing later .__c4
+__s.%-__but uh ==__c4
+__fg__it - it seems that i- - probably that the problem is - is not an easy one .__c4
+__fh|s^co.x__because uh a node's moving the route is changing .__c4
+__fh|s__so w- - one can think that routing in this uh scenario is - is a complex thing .__c4
+__s__but the problem is if w- - we just uh try to put more power in each tr- - transmitter .__c4
+__b__so this uh transmitter can reach any destination in only one hop .__c4
+__b__what we are doing is uh to rising the power needs of each node .__c4
+__sj^j__and also we are reducing the network uh throughput .__c4
+__fh|s^j.x__because we are only allowing one transmissio- - one transmission at a time .__c4
+__%--__because uh well we cannot allow several transmissions - several high-powered transmissions at the same time .__c4
+__fh__because one is interfering with the other .__c4
+__fh|s.%--__okay ?__c4
+__s__we are ==__c4
+__qy^d^g^rt__uh i think i'm not telling it yet .__c4
+__fh__but we are assuming that we are using a single common channel for all the nodes .__c4
+__s^aa__okay ?__c4
+__s__so that's why we cannot allow several transmitters in the same channel at the same time .__c4
+__s^bk__okay ?__c4
+__s__so the idea of hav- - having a longer transmission range is not a good one .__c4
+__fh__or at least it has the drawbacks um um i was telling you .__c4
+__fh__uh | let's speak a little bit about the media access issues in - in wireless networks .__c4
+__fh|qy^bu.%--__uh | you know the easiest uh way to - to show how this works is - or at least one of - i think one of the easiest - is that this drawing or this picture .__c4
+__fg|s__what - what we have is a set of nodes each one at a different location .__c4
+__s^bu__at - at - at a - at an - at a given moment this uh node this dash node is - is transmitting .__c4
+__s^bk__and uh the arrows are representing this transmission .__c4
+__s^aa__and the receiving nodes these three nodes are receiving the transmission .__c4
+__s^aa^m__and i'm trying to uh show the area the covered area for - of this transmission by means of this uh dashed uh line circle .__c4
+__s^bk^r__okay ?__c4
+__s__so uh | any transmission has a maximum transmission range .__c4
+__s^aa.x__and uh | in the simpler way we can see this like a circle with the center in the transmitter and a certain radius .__c4
+__s^aa^r.x__okay ?__c4
+__fh__the value of this radius is uh in principle is a fixed value .__c4
+__sj^ba__and it depends on the uh power of the transmitter .__c4
+__s^cc__of course uh this is only our uh simplife- - simplified model .__c4
+__sj^ba__and of course this can be uh improved uh a lot .__c4
+__qy^bu^d^rt__okay ?__c4
+__qrr.%--__and in fact the real behavior is not exactly this one .__c4
+__h|s.%--__but uh for - for what i want to say it's - it's - okay .__c4
+__b.x__it's enough .__c4
+__h__okay ?__c4
+__s^cs:qy__so ==__c4
+__s^cs__what are the differences uh in this - in this uh wireless transmission regarding uh to the wireless - to the wired ones ?__c4
+__s__what - what are the d- - the main differences ?__c4
+__sj^cs__well the main differences come from the fact that uh in uh - in uh wireless transmission we have a special domain we don't have when we are using a wire for transmitting a signal .__c4
+__fh|sj__and the point i'm trying to show in this picture is that if for example this other node wants also to transmit while this one was transmitting if we are using some kind of carry detect scheme like for example c. s. m. a or something uh uh derivated from it the problem is that this node will hear the g- - the m- - the transmission media .__c4
+__sj__it won't be able to hear anything .__c4
+__fh__so he will conclude that no other transmission is going on .__c4
+__fh|s^rt__and he will start transmitting .__c4
+__s.%--__and if he does what will happen is that this node and this other node will also receive this transmission .__c4
+__s__and this will produce at least at these two nodes a collision or a m- - a m- - a - a re- - a bad reception .__c4
+__qy^d^g^rt__okay ?__c4
+__fh|s__so none of these two simultaneous transmissions will be properly received at this node nor at this other node .__c4
+__qy^d^g^rt__okay .__c4
+__h|s^aa__uh | this problem is what is called ==__c4
+__s^e__oh sorry .__c4
+__qy^bu^d^rt__uh | the ==__c4
+__fh__i think this is the previous one .__c4
+__s__this is the german ==__c4
+__s.%--__uh ==__c3
+__s__no .__c0
+__s__one ==__c0
+__b__yes .__c3
+__s__okay .__c4
+__fh|s__@@ ==__c0
+__s__this one .__c3
+__fh__thank you .__c4
+__qy^bu^rt__uh ==__c4
+__s^df__this is what is called a hidden terminal problem .__c4
+__s^aa|s.%-__okay ?__c4
+__s__because well uh this node is not able to hear this other node because of the distance uh between them .__c4
+__fh|s__but uh this problem as you can see in the - in the picture is uh really producing at least some reception problem at these two nodes .__c4
+__fh|s__okay .__c4
+__fh|s__so it is - it is a problem that we have to address .__c4
+__s__and it is a new problem compared to wired uh media access control .__c4
+__s__and uh ==__c4
+__s__well some devel- - some protocols have been developed to avoid this problem and to try to address this particular behavior of wireless transmissions .__c4
+__s__and the main idea is to use some kind of a reservation mechanism .__c4
+__fh|s__so ==__c4
+__s__we are um reserving a certain and a specific uh area of space so we can guarantee that nobody is trying to use the same space at the same time .__c4
+__fh__okay .__c4
+__s__this is the basic idea .__c4
+__s__uhhuh .__c3
+__s__um ==__c3
+__fh__yeah .__c4
+__s__miguel can you give some examples for such kind of protocols ?__c3
+__fh__yeah .__c4
+__s__yeah | in fact ==__c4
+__fh|s^r^tc__one is really - really ==__c3
+__s^df__this one .__c4
+__s__this one n- - next slide is ==__c4
+__fh|s__okay .__c3
+__qy^d^g^rt__yeah yeah .__c3
+__fh|s^t__okay .__c3
+__b__okay .__c4
+__s__in uh the - the - the main idea and - and the base of most of this protocols is what this - the so-called r. t. s c. t. s uh dialogue .__c4
+__fh|s__the idea is that ==__c4
+__fg__uh ==__c4
+__h__of course this is only intended for unicast transmissions .__c4
+__s__i mean only for when a node wants to transmit something to a neighbor node .__c4
+__s^df__okay ?__c4
+__s.%--__but not to broadcast uh to all the nodes .__c4
+__s^bk^rt__okay .__c4
+__fh__for this - for this uh work the transmitter has to send a - a - a reservation packet called r. t. s request to send before uh being able to send data .__c4
+__s__and the receiver is expected to return back another packet called c. t. s clear to send to allow the transmitter to send the data .__c4
+__s__if the transmitter receives successfully the c. t. s packet from the destination then it will be able to send uh the packet - the data packet .__c4
+__s^bk__if not it will h- - uh back off and it will retry uh sometime later .__c4
+__b__okay .__c4
+__s^e__so the main idea ==__c4
+__s^aa__and the media is - is - is still occupied during that period ?__c3
+__s^aa^r__or ?==__c3
+__s__uh ==__c4
+__%--__yes .__c4
+__sj^cs__yes .__c4
+__fh|s__okay .__c3
+__sj^cs__the idea is uh if i want to send you something i - first of all i need you to answer me to be sure that you are my neighbor now .__c4
+__b.%__because maybe you are off or maybe you are uh too far away .__c4
+__fh__and also because that way miguel for example it may be is not being able to hearing me will hear your c. t. s and will know that you are about to receive uh data from me .__c4
+__fg|sj^cs__okay ?__c4
+__b.%__so ==__c4
+__fh|s__in fact forcing the receiver to transmit for a short period of time is also uh used to signal all the uh receiver neighbors that a recept- - a reception is taking place .__c4
+__s__okay .__c4
+__s__yeah .__c3
+__s.%--__i didn't get it .__c3
+__b^rt__um | what happened when i sent an r. t. s packet ?__c3
+__s__is then the media still occupied for me ?__c3
+__b^rt__or is anybody allowed also to send r. t. s packets ?__c3
+__s^aa__or everybody ==__c4
+__s__because if i go to an intermediate node maybe you are communicating to me .__c3
+__qy^d^g^rt__and i am the intermediate node to the final destination michael .__c3
+__s^aa__and michael send also some r. t. s packet in the time and - and - uh uh uh jordi too and whatever .__c3
+__s.x__yeah .__c4
+__s^aa__then you will never come to a really ==__c3
+__s.%--__then you're always exchanging r. t. s and non acknowledgement packets for the r. t. s .__c3
+__fh|s.%--__okay .__c4
+__s__two - two things .__c4
+__s__so that's uh - that's uh my - my problem .__c3
+__s__first of all uh this - this mechanism is only a media access controlled mechanism .__c4
+__b__so it is not connected with routing uh anyhow .__c4
+__s__then fine .__c3
+__fh|qy^bu^d^rt__and second point .__c4
+__s^ar__okay .__c3
+__s__uh ==__c4
+__qy^d^m__so it's only related to the direct neighbor within the scope of the transmissions .__c3
+__s^rt__r. t. s ==__c4
+__b^rt__yeah .__c4
+__s__r. t. s packets can collide to other r. t. s packets .__c4
+__s__okay .__c3
+__b^rt__so this mechanism is not uh preventing collisions .__c4
+__fh|s^rt__it is preventing only data collisions .__c4
+__s__okay ?__c4
+__fh|sj__okay .__c3
+__s^bk__so the ==__c4
+__b.x__and - and - you can say okay .__c4
+__s^bk__but what is the - what the benefit is .__c4
+__s__the benefit is that uh r. t. s packets and c. t. s packets are short packets .__c4
+__fg__really short packets .__c4
+__qw.%--__let's say uh uh 30 bytes or less .__c4
+__%-__i assume so .__c3
+__fg__yeah .__c3
+__fg|s__while data packets can be much mor- - much bigger .__c4
+__s^co__let's say uh one k. five k.s .__c4
+__s^rt__okay ?__c4
+__qy^bu^rt__yeah .__c3
+__s^aa__so ==__c4
+__s__fine .__c3
+__fh__a collision in this short packet is only wasting a small amount of time .__c4
+__h|s^bk__and uh ==__c4
+__fh__if that way we can warranty that there is - there are - there is no collision uh uh between data packet well this - this is - this means a - a huge uh increase in network throughput .__c4
+__fg__because we- - well we - we only waste really small time colliding .__c4
+__s^bk__okay .__c3
+__fh__okay ?__c4
+__s.%--__but that means in principle that on the mac layer you have always a r. t. s c. t. s packet between neighboring nodes .__c3
+__fh|s__yeah .__c4
+__b__and you send afterwards the data .__c3
+__s^e__but the data will be maybe delayed in the intermediate node because you have always be assured to be uh s- - uh uh r. t. s and c. t. s packets are changed before - before you can forewarning the data .__c3
+__b__right ?__c3
+__fh__yeah .__c4
+__fg|s^aa__it is a reservation mechanism .__c4
+__s^aa__yeah .__c3
+__b__okay .__c3
+__b__so ==__c4
+__b__if reservation doesn't work okay if uh one reservation don't succeed then uh this transmission should have to wait .__c4
+__b__now the p- ==__c3
+__s^cs__until the reservation ==__c4
+__s__okay .__c4
+__s__yeah .__c4
+__sj__let me ==__c4
+__fh|sj__maybe it's better to - to uh draw it on the ==__c3
+__fh__oops .__c3
+__b__l- - let me ==__c4
+__fh|%-__so | maybe my idea first .__c3
+__fg|%-__so this is what node one ?__c3
+__s.%-__this is node two .__c3
+__s__and this is the source .__c3
+__s^aa__yeah .__c4
+__s^aa__and this is node three that is the final destination .__c3
+__%-__yeah .__c4
+__fg__fo- - fo- - for- - forget - forget about routing .__c4
+__s^m__yeah ?__c3
+__s__yeah yeah .__c3
+__s__okay .__c3
+__b__but- - but anyway i would like to do that in the ad hoc network .__c3
+__b^rt__this is maybe the sco- - this is within the scope of this uh special network .__c3
+__%--__that means here that is uh within the transmission power .__c3
+__fh__okay .__c4
+__fh|s^cc__so if i send an r. t. s and get back um a c. t. s then he is allowed to send data | right ?__c3
+__b__uhhuh .__c4
+__fh__a c. t. s .__c4
+__s^no__that's okay .__c4
+__fh|s__so in the meantime when he gets this one he also had to send r. t. s and then c. t. s .__c3
+__sj^ba__because this is the next- - next scope of the transmission area .__c3
+__qy^rt__uhhuh .__c4
+__fh.%__and then he can send the data | right ?__c3
+__s^na.x__okay .__c4
+__s__that's the case ?__c3
+__s__that's it .__c4
+__s^cs__that's ==__c4
+__s^am__yeah .__c3
+__s__and that's what i mean .__c3
+__fh|s__in the meantime he c- - still can get some data here where he try to get certain connectivity on the mac layer .__c3
+__b__uhhuh .__c4
+__s^cs^rt__yeah | but uh a node is only - is only involved in one transmission at a given time .__c4
+__b__so ==__c4
+__s^rt__if now two has uh huh answer with the - with the c. t. s it will be waiting until the data that has to come .__c4
+__s^na__yeah ?__c3
+__s^df__okay .__c3
+__s__okay ?__c4
+__fh__and then he try to forward this data .__c3
+__fh|s.%-__yeah .__c4
+__s^2__after that .__c3
+__s^na__but n- - not before .__c4
+__qy^d^g^rt__so he is definitely first to stop .__c3
+__fh|sj__he has to collect all the data .__c3
+__s__yeah .__c4
+__s__yeah | you cannot ==__c4
+__fh|s__could it not be a little bit strange ?__c3
+__qy^d^g__because if that is starting a file transfer with millions of bytes he have to collect all the bytes before he forwarding to - to whatever .__c3
+__s__no no no .__c4
+__s^aa__but - we are - we are talking only about a data packet .__c4
+__qy^d^g^rt__huh ?__c3
+__s__one data p- ==__c3
+__b__at the mac layer .__c4
+__fh__he have to do it for all data packets ?__c3
+__fh|s^tc__yeah .__c4
+__b__okay .__c3
+__b__okay .__c3
+__fh|s__so but in principle when he receives the data packet then he - the same applies for the next data packet .__c3
+__s__yeah .__c4
+__s^e__all the packets .__c4
+__b__all unicast packets .__c4
+__fh__but anyway in the meantime he has to forward the packet to the final destination .__c3
+__fh|s__yeah .__c4
+__fh|s__that - that true .__c4
+__fh|s__right ?__c3
+__fh__that's true .__c4
+__fh__so it's acting in - in prin- ==__c3
+__s^j__but not in the meantime .__c4
+__fh|s^df.x__after receiving you know in fact probably the routing protocol will need to check the address the - the let's say i. p address which is inside the data packet .__c4
+__s__okay .__c3
+__sj^ba__yeah .__c3
+__s__so ==__c4
+__fh__you cannot - u- - usually you cannot uh read the data packet until you - the reception is over .__c4
+__sj^df.%--__okay ?__c4
+__s__because usually your network hardware only provides you a copy of a packet after ou- - a - a successful reception .__c4
+__s.%--__and usually you know that reception is successful if every bit has passed the c. r. c check .__c4
+__fh|s__okay ?__c4
+__s__you have checked that the - that this frame has received uh without errors .__c4
+__s__naja to - to - @@ ==__c3
+__b__yeah .__c3
+__fh__okay ?__c4
+__s__uhhuh .__c3
+__s__yeah @@ .__c3
+__fh__okay .__c3
+__fh|s__so ==__c4
+__fh__um | a further question .__c1
+__fh|s__yeah .__c4
+__fh__um ==__c1
+__b__that's okay .__c4
+__fg__am i right that this um dialogue does not prevent um any disturbance of other nodes in the um sending range of yeah n. one ?__c1
+__%--__yeah | let me - let me put some special representation of what we are doing .__c4
+__fg__s- ==__c1
+__s^df.%--__okay .__c4
+__s__this is the transmitting node .__c4
+__s__this is the receiving node .__c4
+__b__and these two areas of course there's something like this are the uh places of the total space where you can hear the here this one is the r. t. s and this one is the c. t. s .__c4
+__s^df^rt__uhhuh .__c1
+__b__so any node ==__c4
+__fh__for example this node is a neighbor of the receiving node .__c4
+__h__uhhuh .__c1
+__s__but it is not a neighbor of the transmitting node .__c4
+__s^e__yeah .__c1
+__b__that's it .__c1
+__b__so when this node hears the c. t. s transmission that is performed by the receiver this will be uh informed that a recev- - a reception is taking place in - in - in it's area .__c4
+__b__uhhuh .__c1
+__h__uhhuh .__c1
+__b__okay ?__c4
+__fg__so ==__c4
+__sj__in fact this node will avoid any further transmission until uh this reception that will start in - in a moment is over .__c4
+__fh__but then this node um this transmission is uh aborted .__c1
+__fh__okay ?__c4
+__s^co.%--__and delayed .__c3
+__qy^d^rt__and so there's no advantage to uh - if it's aborted by - by any data packets .__c1
+__s^bk__yeah .__c3
+__qw__so this um node has to stop each transmission .__c1
+__qo.%--__yeah .__c4
+__s^j__so | even the at the moment ongoing transmission .__c1
+__qy^d^g^rt__uhhuh .__c4
+__s__is that right ?__c1
+__s^no__yeah .__c4
+__fg|%--__so his transmission is aborted .__c1
+__%__yeah but this is typical for mac layer protocols you know .__c3
+__s__not ==__c4
+__fh|s.x__no .__c4
+__b__no .__c4
+__s^bk__that's ==__c3
+__b__let me - let me - let me show you one thing .__c4
+__b__if this node was transmitting before it should uh it should ha- - uh transmit an r. t. s packet in advance | okay ?__c4
+__fh|s^e.%--__uhhuh .__c1
+__fh__uhhuh .__c1
+__b__so this node should hear it before .__c4
+__s^rt__yeah .__c1
+__b__yeah .__c3
+__fh__that's right .__c1
+__fh__yeah .__c3
+__s^no^rt__uhhuh .__c1
+__b__so this node is w- - won't be sending the uh uh c. t. s packet to the transmitter .__c4
+__s^rt__okay .__c1
+__b__yeah .__c1
+__sj^ba__yeah .__c3
+__b__uhhuh .__c1
+__b__so this transmission won't take place .__c4
+__b__okay .__c1
+__fg|s__yeah .__c1
+__s.%--__yeah .__c3
+__fh|s.%--__it's always true that only one node gets a media access for one frame .__c3
+__b__uhhuh .__c1
+__s:qw__uhhuh .__c1
+__s__that's the point .__c3
+__qw__m- - yeah .__c4
+__fh__we always said from data .__c3
+__s__but it's really one frame .__c3
+__qy^d^g^rt__yeah .__c4
+__s.x__yeah .__c3
+__fh|sj^no__okay .__c3
+__fh__and in fact uh there is another detail .__c4
+__fh__it is not uh uh uh uh in - on the - on the slide .__c4
+__s^t__and it is that both the r. t. s and the c. t. s packet uh have a field a control field where the total length of the data packet is shown .__c4
+__qw^rt__uhhuh .__c1
+__h|%-__so ==__c4
+__qr^d^rt__when you hear one uh c. t. s or one uh r. t. s packet you know that the frame that they are trying to transmit or that this one is trying to transmit this one is about to receive you know the length .__c4
+__s^ng__you know the bit rate .__c4
+__qr.%--__uhhuh .__c1
+__s^df__so you know that the amount of time you have to wait until you can try to get the control or t- - try to send your own transmission .__c4
+__s^bk__uhhuh .__c1
+__s^aa__okay .__c1
+__s^bk__but this scenario is also nov- - uh only working if um both or all nodes have the same range of transmission .__c1
+__s^df__so the s- - same radius of the sending range .__c1
+__qy^bu^d^rt__huh | yeah .__c4
+__s__so otherwise um this one node maybe um would hear his neighbor but not vice versa .__c1
+__s^bk^m__uh well | we are assuming that uh huh all the - all the transmissions are bidirectional .__c4
+__qw^rt__i mean uh you know | it depends .__c4
+__h|sj__it depends mainly on - on the antenna gain and the transmission power and the receiver uh threshold .__c4
+__s^aa__uhhuh .__c1
+__s^aa__uhhuh .__c1
+__s^bk__okay ?__c4
+__b__uhhuh .__c3
+__b__but i'm thinking about this example you gave before .__c1
+__b__maybe - maybe you are right .__c3
+__fh|s^co^t__s- ==__c4
+__fh|s^t__so what - what we are assuming is that all the nodes behave exactly the same regarding to uh transmission and receiving signals .__c4
+__s^aa__yeah .__c3
+__s^aa__but miguel this is a good point from - from dietmar .__c3
+__fh__yeah .__c1
+__fh__but maybe here is a wall .__c3
+__fh|s^t__and this guy is behind the wall so his transmission rate is something like that .__c3
+__qy^rt^t__yeah but - but ==__c4
+__s^aa__yeah .__c4
+__s^aa__but the - but in this case you know this - this idea this uh geometric idea can be - can be if you want uh deformed because of some obstacles .__c4
+__s^aa__okay ?__c4
+__s^aa__but this wall is working both ways .__c4
+__sj^ba__it is not only making this node not to hear this one it's also making this one not to hear this node .__c4
+__s^aa__but one of the ==__c1
+__sj^ba__so ==__c4
+__qh^co__if they ==__c4
+__s__because of this wall if they are not neighbors well we can represent this putting this node like here .__c4
+____but one of the um senders could be much stronger than the other one .__c1
+____okay ?__c4
+____no | but this is not the scenario we are assuming .__c4
+____so ==__c1
+____okay .__c1
+__z__so that was my question .__c1

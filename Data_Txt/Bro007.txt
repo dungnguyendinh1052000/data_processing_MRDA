@@ -1,0 +1,625 @@
+__fg__how about channel ?==__c8
+__fg__okay .__c0
+__fh|s^t__we're recording .__c4
+__fh|s__yeah go ahead .__c2
+__fh|s__all right .__c8
+__fh|qw^rt__all right and no crash .__c2
+__s__i pre crashed it .__c4
+__s__huh .__c0
+__s__yeah .__c2
+__s__pre crashed !__c5
+__fh|s__it never crashes on me .__c3
+__fg|s^cc__i think it's actually ==__c4
+__s^bu.%--__what is - what is that ?__c3
+__s__it depends on if the temp files are there or not .__c4
+__fh|s^bu__that - at least that's my current working hypothesis .__c4
+__s^aa__uh .__c3
+__s^bu__that i think what happens is it tries to clear the temp files and if they're too big it crashes .__c4
+__s^aa__uh .__c3
+__fh__when the power went out the other day and i restarted it it crashed the first time .__c1
+__s^cc__oh that's right .__c4
+__s^aa__after the power out- ==__c1
+__s^aa__so then there would be no temp files .__c3
+__b__yeah .__c2
+__b__uh no it doesn't - it doesn't clear those necessarily .__c4
+__s^t3__huh .__c3
+__s^t3__oh wait it ==__c3
+__sj^ft__it - it doesn't clear them .__c3
+__sj^ba__okay .__c3
+__s__so ==__c4
+__x__huh no connection .__c2
+__s^bk__it's - i- - they're called temp files .__c4
+__s^bk__but they're not actually in the temp directory they're in the scratch .__c4
+__s__so ==__c4
+__b__they're not backed up but they're not erased either on power failure .__c4
+__b__but that's usually the meeting that i recorded and it neve- - it doesn't crash on me .__c3
+__s^rt__oh well .__c4
+__b__well this wasn't - actually this wasn't a- - before your meeting this was um - tuesday afternoon when um - uh - robert just wanted to do a little recording .__c1
+__b__oh ==__c3
+__s^rt__oh right .__c3
+__b__okay .__c3
+__s__and the power had gone out earlier in the day .__c1
+__sj^fe__huh okay .__c3
+__sj^fe__i don't know when would be a good excuse for it .__c2
+__s^rt__but i just can't wait to be giving a talk t- - and - and - and use the example from last week with everybody t- - doing the digits at once .__c2
+__b__yeah .__c4
+__b__i'd love to play somebody that .__c2
+__b__that was fun .__c0
+__s^m__that was fun .__c0
+__s^2__it was quick .__c3
+__s^2__it was .__c2
+__s^t1__it was really efficient .__c2
+__s__talk about a good noise shield .__c1
+__s.%--__you know ?__c1
+__s__you wanted to pe- - keep people from listening in you could like have that playing outside the room .__c1
+__s^aa__nobody could listen in .__c1
+__fh|s__yeah .__c2
+__qy^d^rt__well i had this idea we could make our whole meeting faster that way .__c3
+__s^aa__yeah .__c2
+__s^na__everybody give the reports about what they were doing at exactly the same time .__c2
+__s^bk|s^co__and we'll just all leave .__c3
+__qw__and ==__c3
+__qy^bu^d__and then we'll - we'll go back later and review the individual channels .__c1
+__s^aa__yeah .__c2
+__b__yep .__c4
+__h|s__and then everyone can listen to it later .__c4
+__s^2__yes absolutely .__c4
+__fh__actually isn't that what we have been doing ?__c2
+__s__yeah .__c3
+__b__right ?__c1
+__b__if you want to know what ==__c1
+__fh__it's what it sounds like .__c4
+__s__practically huh .__c1
+__s^bk__with all the overlaps .__c1
+__s.%--__yeah .__c0
+__s__what are we doing ?__c2
+__s__i - since i've been gone all week i didn't send out a reminder for an agenda .__c4
+__fh|s__so ==__c4
+__fh__yeah | and i'm just ==__c2
+__fg|qy^d__do we have anything to talk about or should we just read digits and go ?__c4
+__h|s^aa__i wouldn't mind hearing how the conference was .__c1
+__s^bk__what conference ?__c2
+__fh__uh | i had one question about ==__c3
+__s__yeah really .__c4
+__s^bk__it's all a blur ?__c4
+__qy^rt__aren't the u w folks coming this weekend ?__c3
+__b__yep .__c4
+__s.%-__no | the next .__c5
+__s^nd__right ?__c5
+__s^ar__next weekend week from ==__c4
+__s^cs__next weekend .__c3
+__s^aa__that is right .__c2
+__s^cs__sorry not - not - not the days coming up but ==__c3
+__b__the next weekend .__c2
+__b__it's like the ==__c5
+__fh|qw__a week from saturday .__c4
+__qy^bu^d__yeah .__c3
+__s^aa__within ten days .__c3
+__s^aa.%--__that's when they're coming .__c2
+__s^nd__that's correct .__c2
+__s__so | are we - do we have like an agenda or anything that we should be ?==__c3
+__b__no | but that would be a good idea .__c2
+__s__okay .__c3
+__fh|s__so - | so the deal is that i can um uh i can be available after uh like ten thirty or something .__c5
+__s^bk__why don't we w- ==__c2
+__x__i don't know how s- - how early you wanted to ==__c5
+__fg|s^bu__they're not even going to be here until eleven or so .__c2
+__b__oh okay .__c5
+__s^aa__that's good .__c4
+__%-__so ==__c5
+__fg__wait this is on - on sunday ?__c3
+__s^na.%--__because they're flying up that day .__c2
+__s^aa__saturday .__c2
+__s^aa__or saturday ?__c3
+__s^df^na.%--__saturday .__c2
+__s__saturday .__c5
+__x__okay .__c3
+__fg|s__well y- ==__c4
+__s^aa__s- - saturday .__c2
+__s__uhhuh .__c5
+__s__yeah .__c2
+__s^rt.%-__eurospeech is due on friday .__c4
+__s__and then i'm going down to san - uh san jose friday night .__c4
+__qy^bu^d^rt__so if - you know if we start nice and late saturday that's a good thing .__c4
+__s^aa__no i mean they're flying up from - from ==__c2
+__b__seattle .__c4
+__fh|s__down from seattle .__c2
+__s__they're flying from somewhere to somewhere .__c4
+__fh|s__yeah .__c2
+__fh__and they'll end up here .__c2
+__s^bs__so b- - and also brian kingsbury is actually flying from uh - the east coast on that - that morning .__c2
+__s^bk__excellent .__c0
+__s^aa__so i- - i - i will be - i mean he's taking a very early flight .__c2
+__s.%-__oh .__c5
+__b__and we do have the time work difference running the right way .__c2
+__fh__but i still think that there's no way we could start before eleven .__c2
+__sj^by__it might end up really being twelve .__c2
+__sj^ba^by__so when we get closer we'll find people's plane schedules and let everybody know .__c2
+__b__uh | so - that's good .__c2
+__fg__but uh - | yeah maybe an agenda or at least some things to talk about would be a good idea .__c4
+__s^no__well we can start gathering those - those ideas .__c2
+__b__but then we - we should firm it up by next - next thursday's meeting .__c2
+__s__will we have time to um - to prepare something that we - in the format we were planning for the i b m transcribers by then ?__c0
+__fh__or ?==__c0
+__fh__oh yeah .__c4
+__s^cs__absolutely .__c4
+__s^cs__okay .__c0
+__fh__so have you heard back from brian about that ?__c4
+__s.%-__chuck .__c4
+__b__yes .__c1
+__fg__um ==__c1
+__s__he's - i - i'm sorry i should have forwarded that along .__c1
+__s__uh - | oh i - i think i mentioned at the last meeting .__c1
+__s__he said that um - he talked to them .__c1
+__%-__and it was fine with the beeps .__c1
+__s^aa__they would be - that's easy for them to do .__c1
+__s__great .__c4
+__fh__okay .__c4
+__fh__so uh - | oh though thi- - thilo isn't here .__c4
+__fh__um - but uh ==__c4
+__qw__i - i have the program to insert the beeps .__c4
+__fh|s.%--__what i don't have is something to parse the output of the channelized transcripts to find out where to put the beeps .__c4
+__s^cc__but that should be really easy to do .__c4
+__fh|s__so do we have a meeting that that's been done with ?__c4
+__fh__that we've tightened it up to the point where we can actually give it to i b m and have them try it out .__c4
+__s^bk|s__he's - he's ==__c0
+__sj^ba__he generated um - a channel wise presegmented version of a meeting .__c0
+__fh|s__but it was robustness rather than e d u so i guess depends on whether we're willing to use robustness .__c0
+__s|qy^bu^d^g^rt__uhhuh .__c4
+__s.%--__well for this experiment i think we can use pre- - pretty much anything .__c1
+__b__okay .__c0
+__%__this experiment of just ==__c1
+__sj__well we had - we had talked about doing maybe e d u as a good choice though .__c4
+__b__well whatever we have .__c4
+__fh__well we've talked about that as being the next ones we wanted to transcribe .__c1
+__s^rt__right .__c4
+__s__but for the purpose of sending him a sample one to f- ==__c1
+__s__okay .__c0
+__b__yeah maybe it doesn't matter .__c4
+__fh__great .__c0
+__b__i - i don't think it matte- ==__c1
+__s^cs__i'll - i'll - i'll um - get - make that available .__c0
+__s^aa__okay | and has it been corrected ?__c4
+__s^df__oh well | wait .__c0
+__b__um ==__c0
+__s__hand checked ?__c4
+__fh|s.%--__because that was one of the processes we were talking about as well .__c4
+__fh|s__right | so we need to run thilo's thing on it .__c1
+__fh__that's right .__c0
+__s^e__and then we go in and adjust the boundaries .__c1
+__fh__yeah that's right .__c0
+__fh|s__yeah we haven't done that .__c0
+__b__and time how long it takes .__c4
+__s^cs__i - i could set someone on that tomorrow .__c0
+__qy__right .__c1
+__qr.%--__okay .__c1
+__s^aa__and we probably don't have to do necessarily a whole meeting for that if we just want to send them a sample to try .__c1
+__s^aa__i think they're coming ==__c0
+__qy__okay .__c0
+__s^aa__what would be a good number of minutes ?__c0
+__s^na__i don't know .__c1
+__s^bk__maybe we can figure out how long it'll take to - to do ==__c1
+__b__um ==__c4
+__s^cc__i don't know .__c4
+__s^bk__it seems to me w- - we probably should go ahead and do a whole meeting .__c4
+__s__because we'll have to transcribe the whole meeting anyway sometime .__c4
+__x__yes .__c2
+__s__except that if they had - if there was a choice between having fifteen minutes that was fully the way you wanted it and having a whole meeting that didn't get at what you wanted for them ==__c2
+__b__it's just dependent of how much ==__c2
+__s^aa__like i - i mean i guess if we have to do it again anyway .__c4
+__s^bs__but uh ==__c4
+__s^cs__yeah .__c2
+__s__i guess the only thing i'm not sure about is um ==__c1
+__s^na__how quickly can the transcribers scan over and fix the boundaries ?__c1
+__s^na__uhhuh .__c0
+__s__and ==__c1
+__s__i mean is it pretty easy ?__c1
+__fh__i think it's going to be one or two times real time at ==__c4
+__b__wow | excuse me two or more times real time !__c4
+__s__right ?__c4
+__s^df__because they have to at least listen to it .__c4
+__s^no__can we pipeline it so that say there's uh - the transcriber gets done with a quarter of the meeting and then we - you run it through this other - other stuff ?__c2
+__qw__well the other stuff is i b m .__c4
+__s__uh ==__c2
+__qw__i'm just thinking that from a data - keeping track of the data point of view it may be best to send them whole meetings at a time and not try to send them bits and pieces .__c4
+__h__okay so ==__c2
+__s^no__oh that's right .__c2
+__h|s__so the first thing is the automatic thing .__c2
+__qy^d__right .__c4
+__s__and then it's - then it's - then it's the transcribers tightening stuff up .__c2
+__%-__and then it's i b m .__c2
+__s__uhhuh .__c0
+__qo^d__uhhuh uhhuh .__c0
+__s__right .__c4
+__s__okay so you might as well ha- - run the automatic thing over the entire meeting .__c2
+__s^m__and then - and then uh - you would give i b m whatever was fixed .__c2
+__s__and have them fix it over the entire meeting too .__c0
+__fh__right .__c4
+__s^bk__well yeah but start from the beginning and go to the end .__c2
+__b__right ?__c2
+__s__so if they were only half way through then that's what you'd give i b m .__c2
+__qy^d^rt__okay .__c0
+__qrr.%--__right ?__c2
+__s^aa__as of what point ?__c1
+__s^na__i mean ==__c1
+__s^aa__the - i guess the question on my mind is do we wait for the transcribers to adjust the marks for the whole meeting before we give anything to i b m ?__c1
+__%-__or do we go ahead and send them a sample ?__c1
+__s^arp^rt__why wouldn't we s- - w- ?==__c2
+__s__let their ==__c1
+__s__i- - if they were going sequentially through it why wouldn't we give them ?==__c2
+__b__i mean i- - are we trying to get something done by the time brian comes ?__c2
+__s^bk|s^bu__well i - i - i mean i don't know .__c1
+__s^df|qy^d^g__that was the question though .__c4
+__x__so if we - if we were then it seems like giving them something whatever they had gotten up to would be better than nothing .__c2
+__fh|s^bu__yeah .__c1
+__b__uh - that - i agree .__c1
+__qy^d^g__i agree .__c1
+__s__well | i don't think ==__c4
+__b__i mean h- - they - they typically work for what four hours something like that ?__c4
+__b__huh i gue- - huh .__c0
+__b__i think the- - they should be able to get through a whole meeting in one sitting .__c4
+__fh|s^co__i would think .__c4
+__qy^bu^d__unless it's a lot harder than we think it is .__c4
+__b__which it could be certainly .__c4
+__s^cs__if it's got like for speakers then - i guess - i mean if ==__c0
+__s.%-__or seven or eight .__c4
+__s^df__we're just doing the individual channels .__c1
+__fh__right ?__c1
+__b__individual channels .__c0
+__b__yeah .__c0
+__s__so it's going to be - depending on the number of people in the meeting ==__c1
+__b__um ==__c1
+__qy^d__i guess there is this issue of you know if - if the segmenter thought there was no speech on - on a particular stretch on a particular channel .__c0
+__b__well ==__c4
+__s__and there really was then if it didn't show up in a mixed signal to verify then it might be overlooked .__c0
+__b__so i mean | the question is should - should a transcriber listen to the entire thing or can it g- - can it be based on the mixed signal ?__c0
+__s__and i th- - uh - so far as i'm concerned it's fine to base it on the mixed signal at this point .__c0
+__s^aa__and ==__c0
+__b__that's what it seems to me too in that if they need to just like in the other cases they can listen to the individual if they need to .__c4
+__s^bk__and that cuts down the time .__c0
+__b__yeah .__c0
+__s^co__but they don't have to for most of it .__c4
+__s^bk__yeah that's good .__c0
+__fh|qw__so yeah .__c0
+__fh|s__i don't see how that will work though .__c1
+__qy^d.%--__good good good .__c0
+__qw__what - what aspect ?__c0
+__fh__so you're talking about tightening up time boundaries .__c2
+__s__yeah .__c1
+__s^bk__so they have the normal channeltrans interface where they have each - individual speaker has their own line .__c4
+__s^bk__so how do you ?==__c2
+__s__yeah .__c1
+__s__but you're listening to the mixed signal and you're tightening the boundaries .__c4
+__b__correcting the boundaries .__c4
+__b__you shouldn't have to tighten them too much because thilo's program does that .__c4
+__qy^d^rt__should be pretty good .__c0
+__s^bu__yeah .__c0
+__b__except for it doesn't do well on short things remember .__c3
+__s^aa|s^df.%-__right | so - so you'll have to i ==__c4
+__s^ar|s^nd__it will miss them .__c3
+__s^ar__it will miss most of the really short things .__c3
+__s^na__uhhuh .__c4
+__s.%-__like that .__c3
+__s^df__but those would be - those would be ==__c0
+__fh__uhhuh .__c3
+__s__uhhuh .__c4
+__s__it will - it will miss ==__c3
+__s^bk__yeah you have to say uhhuh more slowly to - to get c- ==__c3
+__b__sorry .__c4
+__qw__i'll work on that .__c4
+__h|s__no i'm s- - i'm actually serious .__c3
+__qy^d__so it will miss stuff like that which ==__c3
+__s^rt__well | so - so that's something that the transcribers will have to - have to do .__c4
+__s__i ==__c1
+__fh__yeah but | presumably most of those they should be able to hear from the mixed signal unless they're embedded in the heavil- - heavy overlap section .__c0
+__%-__when - in which case they'd be listening to the channels anyway .__c0
+__s^bk|qw__right .__c3
+__s__that's - that's what i'm - i'm concerned about the part .__c1
+__s__and that's what i'm not sure about .__c3
+__qw.%-__yeah .__c0
+__s.%--__i am too .__c0
+__s^bk__and i think it's an empirical question .__c0
+__fh__can't we - uh - couldn't we just have um ==__c1
+__s^bu__i don't know maybe this just doesn't fit with the software .__c1
+__b__but i guess if i didn't know anything about transcriber and i was going to make something to let them adjust boundaries i would just show them one channel at a time with the marks and let them adju- ==__c1
+__s^aap__oh they can ==__c0
+__b__well but then they have to do ==__c4
+__b__but then they - for this meeting they would have to do seven times real time and it would probably be more than that .__c4
+__b__yeah that's it .__c0
+__b__yeah .__c0
+__fh__right ?__c4
+__fg__because they'd have to at least listen to each channel all the way through .__c4
+__fg__but i- - but it's very quick .__c1
+__s^bs__and if ==__c0
+__s^na__uhhuh .__c0
+__b__right ?__c1
+__s^cs__i mean you scan - i mean if you have a display of the waveform .__c1
+__b__oh you're talking about visually .__c4
+__fh__yeah .__c0
+__b__i just don't think ==__c4
+__qr__w- - well | the other problem is the breaths .__c0
+__s^bu|qy^d^g__because you also see the breaths on the waveform .__c0
+__h|s^aa__i've - i've looked at the int- - uh - s- - i've tried to do that with a single channel .__c0
+__s^bk__and - and you do see all sorts of other stuff besides just the voice .__c0
+__s^aa__uhhuh .__c1
+__b__yeah and i - i think that they're going much more on acoustics than they are on visuals .__c4
+__b__well that - that i'm not sure .__c0
+__s__so ==__c4
+__s^bk__what you - the digital - what the digital task that you had - your interface ?__c0
+__s__um- - | i know for a fact that one of those - sh- - she could really well - she could judge what th- - what the number was based on the - on the waveform .__c0
+__fg__yeah that's actually true .__c4
+__s^co__yeah you're right .__c4
+__s__you're absolutely right .__c4
+__b__yeah i found the same thing that when i was scanning through the wave form i could see when someone started to read digits just by the shapes .__c4
+__b__yeah she could tell which one was seven .__c0
+__s__um maybe .__c4
+__qw.%--__yeah .__c0
+__s.%--__so i don't ==__c2
+__fh|s__but ==__c4
+__qy^d^g__i'm - i'm now entirely confused about what they do .__c2
+__s__so | they're - they're looking at a mixed signal ?__c2
+__b__or they're looking ?==__c2
+__b__what - what are they looking at visually ?__c2
+__s__well | they have a choice .__c0
+__s^cs__they could choose any signal to look at .__c0
+__s^aa__i've tried lookin- - but usually they look at the mixed .__c0
+__s^na__but i've - i've tried looking at the single signal and - and in order to judge when it - when it was speech and when it wasn't .__c0
+__s^aa__oh .__c4
+__s^aa__but the problem is then you have breaths which - which show up on the signal .__c0
+__s__but the procedure that you're imagining i mean people vary from this is that they have the mixed signal wave form in front of them .__c2
+__s__yes .__c0
+__b__@reject@ .__c5
+__x__yes .__c0
+__%-__and they have multiple ==__c2
+__s^bk__uh - | well let's see there isn't - we don't have transcription yet .__c2
+__s__so - | but there's markers of some sort that have been happening automatically .__c2
+__s__right .__c4
+__qr__yes .__c0
+__%-__and those show up on the mixed signal ?__c2
+__s__there's a @reject@ clicks ?__c2
+__s^bk|s__n- - the t- ==__c4
+__b__oh !__c0
+__b__they show up on the separate ribbons .__c0
+__b__right .__c4
+__b__so you have a separate ribbon for each channel .__c0
+__fh__there're separate ribbons .__c2
+__b__and - and i- - i- - it'll be - because it's being segmented as channel at a time with his - with thilo's new procedure .__c0
+__fh__then you don't have the correspondence of the times across the bins - uh - across the ribbons .__c0
+__fg__uh you could have ==__c0
+__s__and is there a line moving across the waveform as it goes ?__c2
+__s^bk__yes .__c4
+__s^cs__yes .__c0
+__fg__okay so | the way you're imaging is they kind of play it .__c2
+__b__and they see oh - this happened then this happened then - and if it's about right they just sort of let it slide .__c2
+__s^co__right .__c4
+__s^na__yeah .__c0
+__b__right .__c4
+__s^na__and if it - if it - there's a question on something they stop and maybe look at the individual wave form .__c2
+__s__right .__c4
+__fh__oh | well not - not look .__c0
+__b__well they wouldn't look at it at this point .__c4
+__s^cc__they would just listen .__c4
+__fh__they - they might look at it .__c2
+__s__well the problem is that the - the interface doesn't really allow you to switch visuals .__c4
+__b__right ?__c2
+__fh__not very quickly .__c0
+__b__the problem is that - that - the tcl t. k. interface with the visuals it's very slow to load waveforms .__c4
+__fh__you can but it takes time .__c0
+__qy__that's it .__c0
+__h|s^ar__uhhuh .__c2
+__b__and so when i tried - that - that was the first thing i tried when i first started it .__c4
+__fh|s__oh oh .__c0
+__x__visually .__c0
+__s^bk__right ?__c4
+__s__you can - you can switch quickly between the audio .__c0
+__s__but you just can't get the visual display to show quickly .__c0
+__s__so you have to ==__c0
+__s^bk__it takes i don't know three four minutes to ==__c0
+__qy__well | i mean it takes - it takes long enough ==__c0
+__h|s__yeah | it's very slow to do that .__c3
+__s.%-__it takes long enough because it has to reload the ==__c0
+__fh__i - i don't know exactly what it's doing frankly .__c0
+__s^bu__because - but it t- - it takes long enough that it's just not a practical alternative .__c0
+__x__that w- ==__c3
+__b__well it - it does some sort of shape pre computation so that it can then scroll it quickly .__c4
+__qy^d^g__but you can cancel that .__c8
+__s^bk__yeah .__c4
+__b__yeah .__c3
+__s^bk__but then you can't change the resolution or scroll quickly .__c4
+__s__oh really ?__c8
+__fh|s__so ==__c4
+__b__huh !__c8
+__fh__now you could set up multiple windows each one with a different signal showing and then look between the windows .__c0
+__fh__maybe that's the solution .__c0
+__s__i mean we - we could do different interfaces .__c4
+__s^e__what if you preload them all ?__c8
+__s__right ?__c4
+__s.%--__i mean so - so we could use like x waves instead of transcriber .__c4
+__b__yeah .__c0
+__fh__and it loads faster certainly .__c4
+__s|s^bk__what if you were to preload all the channels or - or - initially ?__c8
+__s.%-__like doesn't ==__c8
+__qy^bu^d|qrr.%-__well that's what i tried originally .__c4
+__s^ar__so i - i actually before uh dave gelbart did this i did an interface which showed each waveform and ea- - a ribbon for each waveform .__c4
+__%-__uhhuh .__c8
+__s^ar^r__but the problem with it is even with just three waveforms it was just painfully slow to scroll .__c4
+__s^df__oh okay .__c8
+__s^bk__so you just scroll a screen and it would you know go kur chunk !__c4
+__s^e__uhhuh .__c0
+__s__and so it just was not doable with the current interface .__c4
+__b__you know i am thinking if we have a meeting with only four speakers .__c0
+__s^bu__and you know you could fire up a transcriber interface for y- - you know in different windows multiple ones one for each channel .__c0
+__s^aa__and it's sort of a - a hack but i mean it would be one way of seeing the visual form .__c0
+__s^aa__i think that if we decide that we need - that they need to see the visuals we need to change the interface so that they can do that .__c4
+__s^rt__yeah .__c0
+__s^bk__yeah .__c0
+__fh__that's actually what i thought of loading the chopped up waveforms i mean you know that - that would make it faster .__c3
+__s^bu__an- ==__c4
+__h|s^aa__so ==__c2
+__fh|s.%--__huh .__c8
+__qy^rt__but isn't ==__c4
+__s^aa__the chopped up waveforms .__c4
+__s__the problem is if - if anything's cut off you can't expand it from the chopped up .__c1
+__s__so ==__c3
+__s^bk__isn't that ==__c4
+__b__right .__c8
+__fg|s__right | but if you ==__c3
+__b__and wouldn't that be the same as the mixed signal ?__c4
+__b__a- - at some point ==__c3
+__s.%--__no | i mean the individual channels that were chopped up that ==__c3
+__s__it'd be nice to be able to go back and forth between those short segments .__c3
+__s__uhhuh .__c2
+__b__because you don't really nee- - like nine tenths of the time you're throwing most of them out .__c3
+__s.%-__but what you need are tho- - that particular channel or that particular location .__c3
+__s__yeah .__c4
+__qo^br^rt__and ==__c3
+__s__um | might be nice because we save those out already um to be able to do that .__c3
+__b__yeah .__c0
+__s__but it won't work for i b m of course .__c3
+__fg|s__it only works here because they're not saving out the individual channels .__c3
+__s^bk__well i - i do think that this - this will be a doable procedure .__c0
+__b__yeah .__c2
+__fh__and have them starting with mixed .__c0
+__s.%-__okay .__c2
+__s^arp__and um - | then when they get into overlaps just have them systematically check all the channels to be sure that there isn't something hidden from - from audio view .__c0
+__fh__yeah .__c4
+__s^bd^no__yeah | hopefully i mean ==__c4
+__s^cs__the mixed signal the overlaps are pretty audible because it is volume equalized .__c4
+__b__so i think they should be able to hear .__c4
+__fh__the only problem is - is you know counting how many and if they're really correct or not .__c4
+__s^bu.%--__so | i don't know .__c4
+__s^aa__i don't know that you can locate them very well from the mixed signal .__c3
+__b__right | but - but once - once you know that they happen you can at least listen to the close talking .__c4
+__b__but you would know that they were there and then you would switch .__c3
+__s^bu__right .__c3
+__s__and then you would switch into the other ==__c3
+__s^bu.%-__so ==__c4
+__s^aa__but right now to do this limitation the switching is going to be switching of the audio is what she's saying .__c2
+__s.%-__right .__c4
+__s^nd__yeah .__c0
+__%-__so ==__c2
+__s^bk__right .__c4
+__s^na__so - so .__c4
+__s__did dave - did dave do that change where you can actually just click rather than having to go up to the menu to listen to the individual channels ?__c4
+__%-__so they're using their ears to do these markings anyway .__c2
+__s^ar__yes .__c0
+__s^ar__yeah .__c3
+__qy^bu^rt__yes .__c0
+__s^ng.%-__click ==__c0
+__s^no.%-__um ==__c0
+__s^aa__i had suggested it before .__c4
+__s__i just don't know whether he did it or not .__c4
+__s^aa.%-__i'm not sure what - click what - click on the ribbon ?__c0
+__s^df__yeah you can get that .__c0
+__s^bk__yeah .__c4
+__s^df__oh oh !__c0
+__b__get - you can get the uh - you can get it to switch audio ?__c0
+__b__yeah .__c4
+__%__uh - | not last i tried .__c0
+__s.%-__but um - | maybe he's changed it again .__c0
+__s^co__we should get him to do that .__c4
+__s__because uh - i think that would be much much faster than going to the menu .__c4
+__fh|s__i disagree .__c0
+__b__there's a reason i disagree and that is that uh - you - it's very good to have a dissociation between the visual and the audio .__c0
+__s__there're times when i want to hear the mixed signal .__c0
+__b__bu- - but i want to transcribe on the single channel .__c0
+__s__so | right now ==__c0
+__b__then maybe just buttons down at the bottom next to it .__c4
+__s^co__maybe | i just don't - i don't see that it's a ==__c0
+__b__just something so that it's not in the menu option so that you can do it much faster .__c4
+__b__well | i mean that's the i- - i - i think that might be a personal style thing .__c0
+__fh|s__i find it really convenient the way - the way it's set up right now .__c0
+__s__well | it just seems to me that if you want to quickly well was that jane no was that chuck no was that morgan right now you have to go up to the menu .__c4
+__s__and each time go up to the menu select it listen to that channel then click below .__c4
+__fh|s^cs__and then go back to the menu select the next one and then click below .__c4
+__b__that's fine .__c0
+__fh|qw^cs__yeah it's true .__c0
+__fh__so you can definitely streamline that with the i- - with the interface .__c4
+__b__yeah | it could be faster .__c0
+__b__but you know i mean th- - in the ideal world ==__c0
+__qo__what ?__c4
+__sj__yeah .__c0
+__%--__no i - i agree that'd be nice .__c0
+__s__okay .__c4
+__s^aa__yeah .__c0
+__b__okay .__c0
+__b__so um - | we're done with that ?__c2
+__b__then today ==__c2
+__s^bd__i forget .__c2
+__s__does anybody uh - working on any - any eurospeech submission related to this ?__c2
+__qo^d^g__i would like to try to do something on digits .__c4
+__sj^ba__but i just don't know if we have time .__c4
+__b__i mean it's due next friday .__c4
+__b__so we have to do the experiments and write the paper .__c4
+__s__so | i'm going to try .__c4
+__%-__but uh ==__c4
+__s__we'll just have to see .__c4
+__b__so actually i want to get together with both andreas and uh - uh stephane with their respective systems .__c4
+__b__yeah .__c2
+__s__yeah | there was that - we- ==__c2
+__s__that's right .__c2
+__fh__we had that one conversation about uh - what - what - what did it mean for uh - one of those speakers to be pathological .__c2
+__b__right .__c4
+__s__was it a ?==__c2
+__fh|s__and i haven't had s- - chance to sit down and listen .__c4
+__b__oh i haven't - i haven't listened to them either .__c5
+__fh|s__i was going to do that this afternoon .__c4
+__%--__but there must be something wrong .__c5
+__fh__i mean ==__c5
+__fg__unless our ==__c5
+__s^bs|qo__well | morgan and i were - were having a debate about that .__c4
+__qrr__whereas i think it- - it's probably something pathologic .__c4
+__b__and actually stephane's results i think confirm that .__c4
+__s__he s- - he did the aurora system .__c4
+__fh__also got very lousy average error like fifteen or - or uh fifteen to twenty percent average .__c4
+__s^cc__but then he ran it just on the lapel and got about five or six percent word error .__c4
+__s^cs__so that - that means to me that somewhere in the other recordings there are some pathological cases .__c4
+__s^df__but | you know we - th- - that may not be true .__c4
+__s^cs__it may be just some of the segments they're just doing a lousy job on .__c4
+__b__so i'll - i'll listen to it and find out since you'd actually split it up by segment .__c4
+__s^na__right .__c2
+__b__so i can actually listen to it .__c4
+__fh|s^aap__yeah .__c5
+__b__did you run the - andreas - the r- - s r i recognizer on the digits ?__c1
+__s^cc^tc__yeah .__c5
+__fh|s__oh i thought he had sent that around to everyone .__c4
+__b__did you just sent that to me ?__c4
+__s__no i d- - i didn't .__c5
+__s.%--__oh .__c4
+__s__since i considered those preliminary i didn't .__c5
+__fh__but yeah if you take ==__c5
+__s__i- - it wasn't ==__c1
+__s__it was bimodal .__c4
+__b__so if you ==__c5
+__fh__yeah | it's actually um - it uh it was trimodal actually .__c5
+__%--__oh was it trimodal ? | okay .__c4
+__s__trimodal .__c5
+__fh__yeah .__c2
+__s__so ==__c5
+__s__there's zero a little bit and a lot .__c2
+__b__there were - t- - there was - there was one h- - one bump at ze- - around zero which were the native speakers .__c5
+__s__yeah .__c2
+__fg__the non pathological native speakers .__c5
+__fh|s^ba^tc__yeah .__c2
+__fh__zero percent error ?__c1
+__s.%--__y- - yeah .__c2
+__fh|s^t^tc__then there was another bump at um - oh like fifteen or something .__c5
+__fh|s__oh was it fifteen ?__c2
+__s__this is error you're talking about ?__c1
+__fh|s^cs__whe- ==__c5
+__s^cs__yeah .__c4
+__fh__yeah .__c2
+__s__yeah .__c5
+__b__okay .__c1
+__s__those were the non natives .__c5
+__s^co^t^tc__and then there was another distinct bump at like a hundred which must have been some problem .__c5
+__fh__oh wow !__c0
+__s^cc__i can't imagine that .__c5
+____oh okay .__c0
+__z__what is patho- - what do you mean by pathological ?__c8
+____i'm sorry i don't ==__c8
+____just - just something really wrong with ==__c4
+____oh .__c8
+____in the recording .__c5
+____a bug is what i mean .__c4
+__z__so that it's like ==__c4

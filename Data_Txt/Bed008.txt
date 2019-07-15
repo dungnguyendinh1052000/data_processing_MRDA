@@ -1,0 +1,1083 @@
+__z__okay .__c4
+____we can start ?__c4
+____okay .__c4
+__z__thank you adam .__c4
+____i will call you then when we are ready .__c4
+____i believe maybe one hour in that sense .__c4
+__z__okay .__c4
+__z__welcome to our next meeting .__c4
+__fg|%--__um | i have couple of points we should discussed .__c4
+__s__one is related to the proposal .__c4
+__fh__michael please can you close the door ?__c4
+__s^co^t__yep .__ca
+__qy^bu^d^rt__thank you .__c4
+__qy^bu^d^rt__and um ==__c4
+__s^no__furthermore as most of you know i will leave in tenth of december .__c4
+__b__i think we should discuss how we proceed in the meantime .__c4
+__b__because i get i would like to say different signals from siemens .__c4
+__fg__i believe in the meantime it's a higher probability that i will return .__c4
+__s__but based on the pro- - uh procedure to get a j. one visa and the i. p six six it will be i would like to say earliest stage will be end of january .__c4
+__s^t^tc.%--__so that means we have to get over six weeks .__c4
+__s__and ==__c4
+__s^t__then furthermore i would like to know the status of everybody .__c4
+__s^e__i know for sure okay um miguel you will have your plans for this uh ongoing process uh concerning your work .__c4
+__s^cs__okay from you it's definitely clear in principle .__c4
+__s^df__okay for michael what are your current plans ?__c4
+__s^e__and dietmar maybe you then also .__c4
+__s.%--__what we have discussed in principle concerning the ongoing process with u.  - u. s. a. i. a and also this uh your current work .__c4
+__s__and from my point it seems to be clear that i will go back .__c4
+__qy^rt__definitely at tenth of december .__c4
+__h__and as i mentioned before probably will be more than fifty percent i would like to say that i will be come back to get the freedom to launch here the project in the sense in whatever kind of form and get in principle paid by another project within siemens .__c4
+__s^bk|%--__so | the point is how long i will stay .__c4
+__b__i believe a couple of months definitely .__c4
+__s__and based on the success i think that's always an ongoing process to go back to uh to germany for a couple of weeks .__c4
+__s__and then come here and - and go on with - with this work .__c4
+__s^t3__and ==__c4
+__s.%--__so that is my current opinion concerning how siemens deal with - with my uh ongoing effort .__c4
+__s__and furthermore i would like to - first of all thanks to uh dietmar .__c4
+__%--__because he started to use a testbed .__c4
+__s^cs__oh .__c1
+__qy^rt__uh ==__c4
+__s^aa|s^na__in principle in his spare time .__c4
+__s^bk__yeah .__c4
+__s^co^t__yeah .__c1
+__s^t__uh i will ==__c4
+__s^cs.%--__so - so the first uh uh box this morning .__c4
+__s^t__i will set up definitely in my spare time in the evenings and the weekends the second box .__c4
+__s__and i'm looking for two other volunteers who are setting the third and the fourth box .__c4
+__qy^d^g^rt__but wh- - wh- - wh- - what are the box ?__c2
+__fh__a box is a s- - p. c .__c4
+__s:qy__p. c.'s .__c1
+__fh|s.%-__p. c.'s .__c1
+__qrr.%-__but what w- ?==__c2
+__s^aa__equipped with - with - we should equipped it with - with linux .__c4
+__s^aa__or maybe too with free b. s. d .__c4
+__s^na__well the first ==__c1
+__fh__i doubt - i don't know .__c4
+__s.%-__stop .__c1
+__b^rt__and we'll ==__c4
+__s__the first thing the most uh complicated is to fit them with the removal - removable - um hard disk .__c1
+__s^cs^rt__and now we have an expert .__c4
+__s^e__but it's ==__c1
+__fh|qy^rt__yeah .__c1
+__qrr.%-__so the first computer i had to ==__c1
+__fg__um ==__c1
+__qw^bu^rt__the ==__c1
+__qw__oh .__c1
+__s__what's the right word ?__c1
+__fg__i had to put everything out .__c1
+__fg|s.%-__to - to put the removable hard disk in .__c1
+__s.%-__yeah to remov- ==__c4
+__s^bu__so that you can pull uh the - plug in the removable hard disk to the i. d bus .__c4
+__b__and - and it's ==__c1
+__qy^d^g^rt__okay .__c2
+__s^e__yeah | it's ==__c1
+__s^na__and - and okay maybe it's a little bit ==__c4
+__b__but i- - but it's not - not um very uh difficult or something like that .__c1
+__%--__uhhuh .__c4
+__s^df:s__so you just have to ==__c1
+__s__and ==__c4
+__b__why you are laughing ?__c4
+__qy^d^g^rt__i ju- ==__c4
+__fh|s.%--:qy__i don't know .__c4
+__s__i cou- - i s- - i didn't see him .__c4
+__s^cs:s__so i don't know what he did .__c4
+__s^cs:qw__i know in the meantime it's running .__c4
+__s^2:qw__uh !__c1
+__s^2:qw__and i will definitely set up the next one .__c4
+__s^aa__so wilbert will set up the second computer .__c1
+__s^2:qw__yeah .__c4
+__s^2__though my idea - maybe you uh can equip it with a- ==__c4
+__b__i don't know what your time constrain- - whether the time constraint allows you to set up one with - with free b. s. d for instance .__c4
+__s^co.%--__you know i - i can - i can build uh any computer uh you n- - - installing whatever it's needed .__c2
+__s^cc__yeah .__c4
+__b^rt__okay .__c4
+__s^cs__uhhuh .__c4
+__s^cs^e__i mean i will enjoy doing it .__c2
+__s:s__do you find the time ?__c4
+__s^df.%-__so ==__c2
+__s^aa|s^co__that's okay for me .__c2
+__s^df__huh .__c8
+__s^df^e__maybe also to uh support your ==__c4
+__b__no promises .__c8
+__b__no promises ?__c4
+__b__no .__c8
+__s__and even maybe to - to uh put your i. g. m. p stuff on it .__c4
+__qh^rt__uh ==__c4
+__s:s__no promises .__c8
+__s:s__no promises .__c4
+__s__no .__c8
+__s.%--__uh he's very hard to sell .__c4
+__s.%--__so it's about one hour to put this uh hard disk in .__c1
+__qy^rt__and a further hour to uh - well two or three hours to install the operating systems .__c1
+__s__nee because then the network is still running then .__c4
+__b__could we wait until the network is running ?__c4
+__s__because currently it's not possible uh based on certain fire wall constraints .__c4
+__s__yeah .__c1
+__s.%--__at the moment .__c1
+__s:qw__i believe david is uh currently working on that to set up the fire wall .__c4
+__s__and he's not an expert for that .__c4
+__b__and when i get the signal i will ask one more time .__c4
+__qw__nah but nevertheless thanks to dietmar that he @@ .__c4
+__fg__did the networks have internet connectivity ?__c8
+__fh__yes .__c4
+__qy^d^f^rt__we have uh for - for secure socket .__c4
+__s^aa__and uh for web access the fire wall is open .__c4
+__s^aa^rt__that's all .__c4
+__s.%-__and - but currently it's not working | right ?__c4
+__qy^rt__right .__c1
+__h|s^ar__um | on friday when i installed um uh linux the first time i got access to the local network here um but not to any machines outside of uh i. c. s. i .__c1
+__s^e^rt__and till monday there's no access at all to any machines .__c1
+__s^e__also not to inside machines .__c1
+__s__but then ==__c4
+__b__uh ==__c4
+__b__so i think it's related to the work um they've done on sunday here .__c1
+__s^rt__and i sent ==__c1
+__qy^bu^rt__but normally you should have access to th- - all the internet r- - to outside .__c8
+__s^bk|qw__yes .__c4
+__h|s__yeah .__c4
+__qr__you have internet outside access .__c4
+__s^bk__full .__c8
+__s.%--__but no telnet and not r. login or whatever kind of things you know .__c4
+__s.%--__a restricted in .__c8
+__s__not .__c8
+__s__huh ?__c8
+__fh__not a - no f. t. p .__c8
+__b__yeah f. t. p yes .__c4
+__b__h- ==__c8
+__s__but no telnet .__c4
+__s^2__huh .__c8
+__s^r__uh because you can ==__c4
+__s^2__the - the - the point is that we will use it as it is uh described several times that we will use it as a local network in principle .__c4
+__s^aa__but it doesn't make sense to use certain kinds of uh media transportation f- - to put some stuff you need from your p. c or your l. s to this uh - uh - uh to this testbed .__c4
+__s^ba^m__you know .__c4
+__b__uhhuh .__c2
+__s__so ==__c4
+__fg|s__you download it if that s- - must be possible from the network .__c4
+__b__but normally it should be used as um - uh - for demonstrations or to figure out if you have a scenario where you have to use more than uh one box which you have on your desktop .__c4
+__s__because that is the primary uh uh reason for this testbed .__c4
+__s__so definitely you have to have web access to download the necessary files .__c4
+__s^bk__uhhuh huh .__c2
+__s^bk^r__so and then furthermore one more thanks to claudia .__c4
+__s__he did a lot of work .__c4
+__s^fe^j__right .__c0
+__s.%--__and i could only pass her some advices and some discussions with her concerning the web pages .__c4
+__s^cs__uh the messages .__c0
+__s^2__oh .__c0
+__s^aa^m__and now we are in principle in the state we have to do it with a project area .__c4
+__s^aa__but they're also some contributions from you guys requested .__c4
+__s__um ==__c4
+__s^co.%-__and the alumni page in principle we have to ==__c4
+__s^co__you know but it's primarily my job i believe uh to set up so that it is uh adjusted really to the people who are worth to be alumnis .__c4
+__s__alumnis .__c4
+__qw^rt__yeah .__c4
+__s__is it alumni - alumni ?__c4
+__fg|s__i'm ==__c4
+__s__alumni .__c0
+__s__alumni .__c4
+__qy^d^rt__i'm not sure how to pronounce this word .__c4
+__s__aber das wird jetzt geaendert .__ca
+__s__huh ?__c4
+__s^aa__das wird geaendert .__ca
+__qy^d^g^rt__and um ==__c4
+__s.%--__but um ==__c4
+__s^co__i think everybody should take a look to the web pages and inform claudia if something uh has to be improved or if there's some comments .__c4
+__s^cs__uhhuh .__c2
+__s__or ==__c4
+__s__uh ==__c4
+__b__he's laughing all the time .__c4
+__fg|s.%--__why ?__c4
+__fh__uh because it is - you know that's very important .__c4
+__s^co__maybe now- - not for us .__c4
+__s^bk__but maybe for our successors .__c4
+__s^co^tc__and maybe somebody will come back once a day or send some students or some colleagues or whatever .__c4
+__fg|%--__so my point of view - i will doc- - i will documented everything when i will leave here in the sense that potential successor as a group leader can hook in with these things and that these web pages will be updated every time when it is necessary .__c4
+__s__we tried to do it so that it must be at least updated only when really major changes happen .__c4
+__qr__so that means somebody's leaving the group .__c4
+__fg|s^ba__uh somebody is joining the group .__c4
+__qy^rt__a new project is started .__c4
+__s^no__but uh | the effort should be minimized as possible .__c4
+__h__and | so please take a look to the web pages .__c4
+__s__and ==__c4
+__s^bk^fe__i have announced in the project area the major headlines .__c4
+__b__and especially wilbert maybe you can write something about yours ?__c4
+__s__i call it i believe multicast and then development deployment uh for - for source specific multicas- ==__c4
+__b__maybe a few lines .__c4
+__s^co__maybe a picture .__c4
+__s.%--__and something like that should be added to u. s. a. i. a .__c4
+__s.%-__okay | that's my stuff .__c4
+__s^t1.%--__and ==__c4
+__s^fe^t1__um ==__c4
+__s^cs__then the next point is then this active routing stuff .__c4
+__s__um ==__c4
+__fg__i would like to discuss it before .__c4
+__s__but you were busy .__c4
+__s:qy__yeah .__c2
+__s:qy__and so .__c4
+__s^e__okay .__c2
+__b__um ==__c4
+__fh__i believe it must be adjusted to the current activities a little bit more .__c4
+__%--__uhhuh .__c2
+__b__and um ==__c4
+__fg__i - i think it doesn't ==__c4
+__s__it is not worth to discuss it now .__c4
+__s^cs^t^tc.%-__because nobody raised it before .__c4
+__qy^2^cs^rt__yeah .__c2
+__s.%-__i think so .__c2
+__s^cs__and uh | so l- - let us have a bilateral discussion afterwards .__c4
+__qy^bu^d^rt__i would - what i would like to have is that um your contributions is related to certain kind of things happened here .__c4
+__s^aa__and that means really to the project proposal itself and also maybe to the u. s. a. i. a architecture .__c4
+__fg__in that sense that at certain stages because it's a general architecture certain stages maybe to future mobile core networks that it is related to these kind of things .__c4
+__s^fe__um | having - uh i - what i have in mind is that things should not be started from the end system .__c4
+__%--__that's my principle concern .__c4
+__b__because that will never be happen from my point of view .__c4
+__b__it should be started as the edge device .__c4
+__qy^bu^d^rt__so that it cu- - certain kind of mechanism whatever is enabled between the ingress edge device and the outgress a- - edge device .__c4
+__s^ar__because it will be at the certain stage i. p based in the future generation telecommunication networks before its goal .__c4
+__s^ar|%-__uhhuh .__c2
+__s__that's okay .__c2
+__s__fuel it to the - over the internet .__c4
+__fg__and b- - between these both boxes i can assume uh because the mobility happens there as a normal natural thing .__c4
+__qw^rt__and the forwarding process and the routing process should be no more separated from my point of view .__c4
+__s^na__and to have there a certain kind of intelligent mechanism that the packets can be used to set up the routes because they have all the information .__c4
+__fh__they know where they have to go because i. p addresses are still there and - within the packet .__c4
+__%-__uhhuh huh .__c2
+__h|s.%-__i mean how can this use uh within this area and how this area is then aligned to the more traditional routing within the internet backbone itself ?__c4
+__%-__that's my question .__c4
+__qy^2^bu^d^rt__and i think that is good a research area .__c4
+__s^aa__then i think there's a lot of ==__c4
+__s^bk__i'm not a expert at all for this .__c4
+__s__but i - i - i believe there's a lot of potential for that .__c4
+__b__and we should discuss it maybe bilateral afterwards .__c4
+__s__okay .__c2
+__s^bk__okay .__c2
+__qr__yeah ?__c4
+__s__so one more time everybody should take a look to the web pages .__c4
+__s__and from claudia at the general remarks .__c4
+__s__and should write based on the uh headlines in the project proposal the um things what still happened the things what they have still in mind .__c4
+__s__uh | so that we can update these last @@ you know @@ present the last major part of the web pages .__c4
+__s^rt__the pages are already on the web ?__c1
+__s^cs__okay .__c2
+__s^cs^e__yeah yeah .__c0
+__b__yes .__c4
+__b__yeah .__c1
+__s__it is .__c0
+__s^m__you can now access it normally with maybe w. w. w i. c. s. i berkeley edu .__c4
+__s^ar__so there are some gaps .__c0
+__fg__okay .__c1
+__s__huh .__c1
+__s__and ==__c4
+__s^r.%-__so ==__c4
+__qy^rt__okay .__c1
+__s__yeah so there are some gaps left .__c0
+__s^aa|s__and ==__c0
+__s__i don't know .__c0
+__%-__you - maybe you can also read through the - all the text which is on the web pages .__c0
+__s__because i'd like to change the text a bit .__c0
+__s__because sometimes it's too long .__c0
+__s__sometimes it's too short .__c0
+__s__maybe the english is not that good .__c0
+__fh__so ==__c0
+__s^aa__um ==__c0
+__fg__but anyways .__c0
+__s^co__so i tried to do this today .__c0
+__b^rt__and if you could do it afterwards it would be really nice .__c0
+__b__because i'm quite sure that i can't find every like orthographic mistake in it or something .__c0
+__s^co__uh there - there - there are couple of comments i - i have about the web pages .__c2
+__s.%-__good .__c0
+__s^df__one is - is the uh i think it's joe's uh graphic i think it should be better .__c2
+__s__yeah yeah yeah .__c0
+__b__yeah .__c4
+__b__the graphics are too bad .__c0
+__s__maybe you are working at it .__c2
+__fh__i know .__c0
+__s.%-__you are definitely right .__c4
+__s^aap.%--__it was in a good shape but it uh then we disturbed .__c4
+__s__okay .__c2
+__s^rt__and then maybe the - the i. c. s. i logo could be - could be - could be ==__c2
+__qw^rt__i can't change something with a logo .__c0
+__s^bk__uh ==__c2
+__s^aa__no .__c2
+__s__it is just ==__c2
+__s^2__uh ==__c2
+__s^bk|s.%--__maybe we can - we can uh translate the white color into transparent color .__c2
+__fh|s.%--__so it will get more natural .__c2
+__s^df__yeah .__c0
+__b__okay .__c0
+__s__good .__c0
+__fh|s^e__yeah | i ju- ==__c0
+__s.%--__it's just a suggestion .__c2
+__s.%--__an- ==__c0
+__s^cs__another thing is i'd want to get a link on the logo so that you can come from the logo to the icsi web p- - home page back .__c0
+__s.%--__to the home page .__c2
+__s__okay .__c2
+__b__that's - that's okay .__c2
+__s__so ==__c0
+__s^cs^rt__that's - these are th- - some things i have to do .__c0
+__fh__yeah .__c0
+__s^co:qw__and if you have something which i should put on the web page for you ==__c0
+__s__so ==__c0
+__s^bu__yeah | some pictures will be nice .__c0
+__s^aa__a few sentences will be nice .__c0
+__b__and ==__c0
+__s^bu__yeah | it depends on how much time you have .__c0
+__s__and then the page for inf- - about ==__c0
+__s__so some information for people who are new comers or ==__c0
+__s^2__i don't know a good word for it .__c0
+__s^aa__should we use uh new comers ?__c0
+__fg|qy^rt__or ?==__c0
+__s^aa__so with somebody who is new arriving here or wants to - to uh send an application .__c0
+__s^bk__newbies .__c8
+__s.%--__s- ==__c0
+__s.%--__huh ?__c0
+__s__newbies .__c8
+__qy^rt__newbies ?__c0
+__%--__yeah okay .__c0
+__qw^rt__so there i have to add some information .__c0
+__s__i don't know i t- - i tried to set up everything by today for this page .__c0
+__qy^d^rt__because i've started with this .__c0
+__s.%--__um | if you have any kind of ideas what was important for you then just let m- ==__c0
+__s^bk__because i have some points like um i don't know f- - yeah like pacific bell .__c0
+__s^bk__like uh long-distance carriers .__c0
+__s__then like uh cars and car insurances .__c0
+__b__health insurances .__c0
+__s^bk__so health insurance is k- - something i can only say for german people .__c0
+__s^2__uhhuh huh .__c2
+__qo^d.%--__so maybe ==__c0
+__h|s.%-__i don't know if this is different in spain .__c0
+__s^2__that would be fine too to have some information or in d- - nnn holland .__c0
+__%-__okay .__c2
+__s^nd__i- ==__c2
+__s^aa__i don't know .__c0
+__b__i will take a look and i will tell you something .__c2
+__fg__yeah .__c0
+__s.%--__uhhuh .__c4
+__b__so how - maybe how you did it or whatsoever .__c0
+__s^cs__okay .__c4
+__s^aa__i will send you some because i have something in mind .__c4
+__b__so ==__c0
+__s__yeah .__c0
+__s^co.%--:qw__then what else did i have ?__c0
+__s__then ==__c0
+__s.%--__another point's like uh what about the bank .__c0
+__fh|s^bsc__uh so transferring your money from europe t- - over here what is the cheapest way or what could you recommend or something ?__c0
+__s:qw__um ==__c0
+__s.%--:qy__another point .__c0
+__s__yeah and then there's - there's another point like going out in berkeley or what to do in berkeley or in the neighborhood .__c0
+__s__this - a lot of this stuff is not networking group - n. s. a uh restricted .__c8
+__s__no .__c0
+__s^co__i know .__c0
+__s:qy__yeah but nobody do that you know .__c4
+__s^e:qy__i know .__c0
+__fh|s^e:qy__but there's nothing like this on the - on the icsi page as far as i know .__c0
+__b__so ==__c4
+__qy^d^f__that's the point .__c4
+__s^e__we discussed it still a couple of weeks or months ago .__c4
+__s__uh the point is normally it is an i. c. s. i task anyway .__c4
+__s__uhhuh .__c2
+__s^df__m- ==__c8
+__b__but ==__c4
+__fh__yeah | but a- - at least then it should be - huh i think be uh i. c. s. i part and not network restricted .__c8
+__s__right .__c4
+__s.%--__@@ ==__c4
+__s^aa__well th- - they have uh a - a white booklet you know probably ==__c2
+__b__yeah | that is from nineteen ninety one or nineteen ninety two you know .__c4
+__s^rt__yeah | but it's not in the ==__c0
+__s^e^rt__this is not on the web .__c0
+__s^aa__a- ==__c4
+__s^aa__and this is not on the web .__c4
+__s^rt__no .__c2
+__s^ba__no no .__c2
+__fh|s^ba__and the - the - the ==__c4
+__qy^d^g^rt__i - i just - i ==__c2
+__s^cs.%--__people ==__c4
+__%--__normally that's was my - my uh ==__c4
+__s^rt__in fact the pacific bell phone was not working for example .__c2
+__s^2__when i tried the - the phone on this booklet it was not working .__c2
+__s^nd.%-__huh .__c4
+__s__but the thing is that maybe this could be on a starting point or - or if - digest ==__c2
+__s__yeah .__c0
+__s^bk__i don't know .__c0
+__s^e__maybe i talk with jane about this .__c0
+__fg__if we can use this information i don't know somewhere on the icsi home page too .__c0
+__s^co__m- - move it on the normal icsi - i. c. s. i .__c8
+__fh|qy__yeah .__c0
+__fh|s^e__maybe .__c0
+__s^na__maybe every group has somewhere hidden uh a gro- - uh deep outgoing ==__c8
+__s__we can do that .__c4
+__s^bk__yeah but the point is that nobody feel responsible for that .__c4
+__s__and if it's ==__c4
+__s^bs__yeah | but uh - but my point is that it should not be under the networking group thing .__c8
+__s.%--__it's a common ==__c2
+__s__yes .__c4
+__s__uh yes .__c4
+__qy^bu^rt__uh - but ==__c8
+__s.%-__i see there your point .__c4
+__%-__okay .__c8
+__qy^bu^d^rt__that's right .__c4
+__s.%-__but if it is under the networking points the group leader is responsible to get up to date information .__c4
+__s^aa__i believe we are the group where the people are uh changing much more faster to join the group and to leave the group as other groups .__c4
+__s^bk__uhhuh .__c2
+__s^arp__and | so the most problem as - as of uh it's likely that uh the people here in this group needs this information um much more f- - uh often as - as other groups .__c4
+__b__but ==__c8
+__s^cs__b- ==__c8
+__qy^bu^d^rt__but that could still be applicable if you put it under the icsi site if you take the responsibility for that .__c8
+__s^aa__yes .__c4
+__s__i see th- ==__c4
+__s^bk__yeah | i talk to jane about this .__c0
+__qy^rt__uh ==__c8
+__fh__yeah .__c4
+__h|s__so i think th- - i think both arguments are not an ar- - are arguments against having this under the normal i. c. s. i page .__c8
+__s^aap__but we - we can do that .__c4
+__s__or only the networking uh page .__c8
+__b__but the problem is are you allowed to change anything on the general icsi server ?__ca
+__s^bk__yeah .__c8
+__s^bs__no .__c0
+__b__this is why i have to talk to jane .__c0
+__s__yeah .__ca
+__s^bk__yeah that's ==__c4
+__s.%-__yeah .__c4
+__s^2__so you may need just a link from the main icsi page to the n. s. a page .__ca
+__s^aa^m__that's a ==__c4
+__qy^cs^rt__we have the - we have the directory structure of the real unix tree in compliance and in accordance with what you - with the structure of the web pages .__c4
+__s^aa__and um | that means uh the group leader normally do not have access to the general web pages .__c4
+__s^co__he has access to the n. s. a pages .__c4
+__s^nd__and um ==__c4
+__%-__but i think that's an administration problem and that everybody agrees that the information page must be on the general on the highest level .__c4
+__s^bk__okay .__c4
+__s.%-__i have no problem with that .__c4
+__fg|qy^rt__but uh ==__c1
+__%-__but ==__c4
+__qy^rt__but i think we discuss if still ==__c4
+__s^co__your argument is uh i think it - we have to have the right to change it .__c1
+__s__yeah .__ca
+__s__so if there's anything changing in insurances or something something like that that we have access to this page further on to chan- - to make any changes .__c1
+__s^e^rt__yeah .__c8
+__s^bk__yeah | but this is not a problem at all .__c0
+__qy^d^g^rt__i - i mean if y- - you are coming from germany and you know that there is something changed with the health insurance then you send jane an email like could you please change this blah blah blah .__c0
+__s.%-__yeah | but it's much more complicated .__c1
+__s^cs__yeah | but that's - that's effort .__ca
+__s^aa__that's the whole problem that nobody wants to do it .__ca
+__s.%--__yeah .__c1
+__s^cs.%-__yeah .__c4
+__s^co__yeah okay .__c0
+__fh|s__you know how it - you know the process here within the n. s. a group .__c4
+__fh__you know .__c4
+__s^2^cs__yes .__c0
+__fg__and - and that was a reason i - we finally decided here that we put it - information on the n. s. a page .__c4
+__s^nd__we have discuss- - dis- - this discussed still a couple of months ago - ago .__c4
+__b__i think the best solution is really to put a link on the i. c. s. i page to this stuff .__c1
+__s^df__yeah .__c8
+__s.%-__yep .__ca
+__b__and the stuff itself is uh located at our server .__c1
+__qw^rt__in our directory .__c4
+__s__yeah .__c1
+__s^no__in our directory .__c1
+__qo^e^rt__yeah .__c4
+__s.%--__yeah .__c1
+__s__yeah | we can do that .__c4
+__s^e__yes | also fine .__c0
+__s^bk__we then create a link and then we have to ask with jane .__c4
+__fg|qw^rt__yeah .__c0
+__h|s__okay .__c4
+__s__another point is i want - i want to - would like to add a- - another button something which is called like events or i don't know - yeah i guess i call it events .__c0
+__b__huh .__c2
+__s^bk__like where we could s- - uh announce talks which are you know future - talks for the future .__c0
+__s^bk^r__or - and where we could also have a link on for instance the two workshops which have going on uh last summer .__c0
+__s__so hannes' workshop and then the workshop from oliver .__c0
+__qy^bu^rt__that there might be a link behind these workshops and - or former talks we have .__c0
+__qy^cs^rt__so like from people who have been here before .__c0
+__s^na__and he wants to uh publish their slides or an article or whatsoever behind there .__c0
+__s__so that we have like a button for events which are - where workshops can be announced or old workshops could - could be um shown or whatever .__c0
+__s^bk__uhhuh .__c2
+__fh__of course that is a living thing .__c4
+__s^df__i think it's a good idea .__c4
+__s^df__not only that the workshop was a talk announce because they are still announce it is a broader sense .__c4
+__s^e__uh | but i think the idea from claudia is very good that the slides from the talks here if it's worth to have it on the web anyway um should be published in that way that the people can access it .__c4
+__s^arp__uhhuh .__c2
+__fh__for instance i have my u. s. a. i. a slides .__c4
+__s__maybe if some things and - is going on maybe you have some multicast slides concerning your work at i. g. m. p .__c4
+__b__yeah .__c2
+__s.%--__that's okay too .__c2
+__s^bk__and uh ==__c4
+__s^co__and if we have some talks from exterm and we had some in the past we can also put the slides on - on these things .__c4
+__s^bk^r__because then they're still cau- - still a growing context for us opportunity for the people you know there .__c4
+__s:qw__oh .__c4
+__s:qw__this guy did something there .__c4
+__s:qw__maybe i can contact him and ask him would you like to do something contribute whatever .__c4
+__b__uhhuh huh .__c2
+__s:qw__uh so .__c4
+__b__that's - and i think it's a great idea from claudia to to have this event page .__c4
+__s__because it's not a big deal .__c4
+__s__you know .__c4
+__s__no | it's easy to - to add it .__c0
+__s__it's - it's ==__c4
+__b__i mean .__c0
+__s__yeah .__c4
+__s__and then it's ==__c4
+__b__nah okay .__c4
+__s__if there are no events then there are no events .__c4
+__s^rt__yeah yeah .__c0
+__s^e__but we still have a few which happened in the last year .__c4
+__s__and | okay .__c4
+__b__then it is a growing thing .__c4
+__s__but it's done automatically that the group leader or the group uh put some things uh also on the web .__c4
+__fg__something in the center pipe .__c4
+__s^co__yeah ?__c4
+__fh|s^cs__everybody agree ?__c4
+__qy^rt__um | i don't know .__c1
+__s^nd__okay .__c2
+__s^bk__maybe it could be a good thing if we have such an event button that um somewhere beneath this button or wherever that there's a date when the last update was .__c1
+__s^df__so that you know it's worth to click this button to see there's a new um announcement or not .__c1
+__s^e__yeah okay .__c0
+__s^bs__s- - so otherwise you are often clicking this button .__c1
+__s^co__and you get your old information or even an - uh empty page .__c1
+__b__maybe there's ==__c4
+__b__yeah | but this will be then down on the button of the page anyways .__c0
+__s^cs:s__yeah | maybe we can have updated on you know the button itself .__c4
+__s^df__so ==__c1
+__b__yeah .__c1
+__s^ng__something like that .__c1
+__fh__and then updated and the current date when - when something happened .__c4
+__s^bk|s^bd__last updated .__c1
+__s^co__yeah .__c1
+__%--__i don't know how we deal with that .__c4
+__qy^bu^rt:s__yep .__c0
+__s^rt__is it another thing we have to ?__c4
+__s^bk^rt__yep .__c0
+__s^e__so it's just a su- - suggestion .__c1
+__qy^bu^d^rt__i don't know how easy it is to - to implement something like that .__c1
+__qrr.%--__yeah .__c4
+__s.%--__huh .__c0
+__fh|s^co__okay .__c0
+__qy^bu^d^rt__okay | you ==__c4
+__s^aa^m.%--__well .__c4
+__s.%-__let's consider update event button .__c4
+__s^bk__okay .__c4
+__s__so and then the next point - and i believe - yeah so -  not the last one @@ - is one that i would like to know the status as far it is possible from everybody concerning his future intention here at i. c. s. i or whether e- - when he will leave whether he can contri- - or will he consider currently uh contribute here to the proposal .__c4
+__s^bk__because you know i've - i'm facing the problem if i go back to siemens .__c4
+__s^co__and i say okay .__c4
+__s.%--__there's a potential .__c4
+__s^2__there are potential contacts .__c4
+__s^aa__currently maybe no money .__c4
+__s^co.%--__but if we go in one direction it - it is worth to know if people can still go on in that area of that kind of work then they are back in their university or their company or whatever .__c4
+__s^cs.%--__and even if it's nur unschl- - part-time jobs and - and if it's come to a real proposal that maybe the people can hook in uh one more time .__c4
+__qy^rt__because i need this information definitely t- - uh to inform the - uh the siemens management that it's worth to send me back here .__c4
+__h|s^na.%--__so maybe wilbert you can start .__c4
+__qrr.%--__you will leave end of january definitely .__c4
+__s^2__and | currently you see no chance as far as i know uh to stay longer here .__c4
+__s^aa^m__and either you will go back to k. p. n or you will stay here and find then a job opportunity another company .__c4
+__s__is that right ?__c4
+__fh__yes .__c8
+__b__yeah .__c8
+__fg__can you give us more details of - concerning the status ?__c4
+__fg|qy^t^tc__no .__c8
+__qy^d^g__no ?__c4
+__qrr.%--__no .__c8
+__qy^rt__pending .__c8
+__qw^rt__pending .__c4
+__qw^rt__yeah .__c8
+__s^no__see for me it's the same .__c0
+__s.%--__i can also say uh ==__c0
+__s^co__for me everything has completely changed .__c0
+__s^co^t__so now i go back and i don't anything what to do .__c0
+__qy^rt__so it's like i have to sort everything out when i'm back in germany .__c0
+__fg__yes .__c4
+__s^aa__but you have no ==__c4
+__s^ng.%--__but i won't go back to the university .__c0
+__s^aa__yeah .__c4
+__s^bk__so ==__c0
+__b__i don't think so .__c0
+__b__so you are looking for a job .__c4
+__s.%-__that's probably then okay .__c4
+__b__in principle i would like to say you are lost for the n. s. a group .__c4
+__s__then it's like ==__c0
+__s^no__yeah .__c0
+__s^am__because ffft that's uh - it would be a - a wonder if uh it hook in at the same area you know .__c4
+__b__yeah .__c0
+__s.%--__no no no .__c0
+__qw^rt__yeah .__c0
+__s^rt:s__uh but that's also for me .__c8
+__s^bd__yeah .__c4
+__fg|s^ba__i'm kind of lost for the n. s. a group .__c8
+__s.%--__yeah .__c4
+__fh__yeah .__c4
+__s__i think so yeah .__c4
+__s__lost is maybe a bit like ==__c0
+__qy^cs^rt^t__and oh also - also ==__c8
+__s.%--__ja .__c4
+__s^aa__from the work contributions you know .__c4
+__s^aa__well ==__c8
+__s__b- - but i think even - also k. p. n i- - is lost for the uh for the i. c. s. i .__c8
+__s^e__yeah .__c4
+__s^aa__yeah .__c4
+__s^am__uh do you know whether they have ?==__c4
+__s.%--__there's a lot of uh z- - budget cuts going on .__c8
+__s^co^na__and nothing is possible anymore .__c8
+__s.%-__so ==__c8
+__%-__um | so from your side the statement is um that uh independently of your person uh the k. p. n is not - they're not willing to send us another guy here to i. c. s. i anyway .__c4
+__s__yes .__c8
+__s__absolutely .__c8
+__fh__and | if they are interested in uh a certain kind of project then it must be related to a certain kind of really service or a certain kind of end system or real product or whatever kind of thing with respect to u. m. t. s .__c4
+__fh|s__i- - it - it will be different thing .__c8
+__qy^bu^d^rt__right ?__c4
+__b__it will be a - it will be a start-up .__c8
+__s^nd__and i know they're - they're working on a w- - a few of them in this area .__c8
+__s^e__but it's ou- - outside of i. c. s. i .__c8
+__fg__huh .__c4
+__s__so ==__c4
+__s.%-__k. p. n and - and i. c. s. i in principle .__c4
+__s^bk__yeah .__c8
+__b__after you will leave here that is .__c4
+__qw^rt.%--__yeah and then what do you intend to do in the last two months beside of course looking for ==__c4
+__qy^bu^d^rt__u- ==__c8
+__%--__holidays .__c1
+__qy^bu:qy^d__th- ==__c8
+__s^aa__yeah .__c4
+__s^aa__um | i am working now on - on something .__c8
+__s^bk__uh an open source router .__c8
+__b__this is that from - from mark | right ?__c4
+__fg__no .__c8
+__fh|s^co__in ==__c8
+__qy^d^rt__not ?__c4
+__s^cs__well it's a little bit u- - out of mark .__c8
+__s^cs.%--__i'm ==__c8
+__s^e__right now i'm interested and i'm looking into it .__c8
+__s^cs__and i'm working - started yesterday actually working on it .__c8
+__b__to do the uh u- - to do an implementation of the protocol that was designed by mark um on an open source router that's different from the one that - of mark's project .__c8
+__b__uhhuh .__c4
+__s^cs__yeah do you finish that and do you believe that you can finish that until end of january ?__c4
+__s__s- - s- ==__c8
+__b__i hope so .__c8
+__fh__i- ==__c8
+__%--__it sounded - sounded to me a little bit - little bit hard t- - hard - hard time constraint | right ?__c4
+__s__that would be cool .__c8
+__fh__yeah .__c8
+__s^tc__it's ==__c8
+__b^rt__hard work .__c8
+__qy^rt__yeah .__c8
+__s^aa__that's right .__c8
+__s^am__but i'm working on it .__c8
+__b__uhhuh .__c4
+__s.%--__okay .__c4
+__s^bk__mi- - miguel maybe you can say also .__c4
+__s__oh i'll be - i'll be here until the end of july .__c2
+__s__and uh ==__c2
+__qy^bu^rt__well uh ==__c2
+__s^na:qr__even later if uh there is some interesting work uh going on .__c2
+__s^aa__well i - i will be able to to do some work from spain too .__c2
+__s^ba.%-__uhhuh .__c4
+__s__so that's my future uh forecast .__c2
+__%--__uhhuh .__c4
+__s^aa__and uh | do you have some students which could be join if there is ?==__c4
+__s^df__yeah .__c2
+__b__i assume there is a certain activity .__c4
+__%-__maybe i- - if you will leave in july ==__c4
+__s__yeah | well you know uh the problem the - i think that we have a - a problem - or a difference in spain at least compared with the americans .__c2
+__fg__and i- - is that our students are uh - are not getting involved in research until they have uh finished their studies .__c2
+__qy^d^g^rt__so uh it's something a little bit uh strange .__c2
+__s^e__but it is this - this is the w- ==__c2
+__s.%-__what ?__c4
+__fg__they are not ?==__c4
+__s^aa__sorry ?__c4
+__s__they are not involved in - in research ?__c4
+__s^cc.%--__yeah .__c2
+__b__you know ==__c2
+__s^ba__what they are doing then ?__c4
+__s__i'm sorry .__c4
+__s__lectures .__c8
+__s^co__huh ?__c4
+__s^co__you know they ==__c2
+__s^cs__ach so ach so ==__c4
+__s^e__okay .__c4
+__s^ng__you - you have to - to pass the different tests .__c2
+__b__and you have to study the different subjects .__c2
+__s^aa__and until you have finished with this uh well okay you can do it by - by your own .__c2
+__s^bk|%-__uhhuh .__c4
+__b__but - but the thing is that you're not supposed to do it .__c2
+__s^nd__and usually students are pretty busy for not doing other things .__c2
+__s^e__uhhuh .__c4
+__s^df__uh ==__c2
+__s__and there's no final master's thesis or something like that what they have to perform ?__c1
+__s^bs__uh yeah them nnn | not really .__c2
+__s__you know there is .__c2
+__%-__there is .__c2
+__fg__uhhuh .__c1
+__s^e__but uh it is not a research work .__c2
+__qy^bu^d^rt__usually it's an application work .__c2
+__qy^bu^d^rt__so you build a web site your own e. commerce site uh whatever .__c2
+__s^aa__uhhuh .__c1
+__s^e.%--__or a program or ==__c2
+__qy^bu^d^rt__why i didn't study in spain ?__c4
+__s^aa__but ==__c2
+__s^aa__but it is not uh something your teacher provides you some research papers and you let's say build a simulator or try to .__c2
+__s^aa__huh .__c4
+__s__uhhuh .__c4
+__s__uhhuh .__c1
+__qy^t3__are certain tasks ?__c4
+__s^e__okay .__c1
+__b__and so ==__c4
+__s.%--__so ==__c2
+__b__we have uh other students are which are uh huh people that has a grant .__c2
+__s__and they are they are starting as uh researchers .__c2
+__fh|s^bs__ah | but this is only connected to your own funding .__c2
+__b__so if you - if you have projects you can have uh people working with you .__c2
+__s__uhhuh .__c4
+__fh|qw__if you don't have a research project well you cannot pay them .__c2
+__qw__so u- - u- - usually you don't have anybody .__c2
+__s^df__so it's kind of uh dependent on the funding we have in some projects .__c2
+__s:s__so ==__c2
+__b__w- ==__c2
+__s^cs:s__it's not sure .__c2
+__s^cs:s__no .__c4
+__b__not really sure .__c2
+__qy^d^rt__there .__c4
+__s^aa^rt__we're not talking about to send the students here to i. c. s. i .__c4
+__s^aa__i'm talking if there is an activity at least with the n. s. a group that certain kind of activities also in the university could apply for the master works of diplomas thesis uh whatever kind of thing that ==__c4
+__s__yeah .__c2
+__s^rt__we - we ==__c2
+__s__i think we could we could find uh some uh work force .__c2
+__s^e^no__okay ?__c2
+__fh__uhhuh .__c4
+__s.%--__because - well you - you can uh fo- - redirect you know the - the work as - uh let's say as a subject work of something that you can you can try to uh s- ==__c2
+__s__in some subjects in fact uh the - the - the uh topics are more open .__c2
+__s^e__so you can introduce some research topics too .__c2
+__fg|s.%--__so ==__c2
+__s^2__but the main thing is that there is a uh this big difference .__c2
+__s^aa^m__because uh students are not supposed to do research uh work until they have finished their gra- - their grade .__c2
+__s.%--__uhhuh .__c4
+__s^aap|s^bu^df__you can change that .__c8
+__qy^d^g^rt__yeah .__c2
+__%-__sure .__c2
+__s^aa__m- - uh maybe you sh- ==__c8
+__s__sure .__c2
+__s^nd__i think it's pretty healthy for a student to - to have a project uh where you have to write actually some part of research .__c8
+__s.%--__or ==__c8
+__s__yeah | i think so too .__c2
+__s^co__but uh you know it also depends on the subjects .__c2
+__s^cs.%--__because sometimes subjects are fixed .__c2
+__s__sure .__c8
+__s^rt__so you cannot - you cannot uh - uh give any - any stuff you want .__c2
+__s^e__okay .__c8
+__s__you have to - to provide a certain - a certain prime for the subject too .__c2
+__s^rt__o- ==__c8
+__qy__of course .__c8
+__b__but you know sometimes especially in the - in the latest uh uh courses uh things are probably more open .__c2
+__s^no__and well it - it is something that can be changed .__c2
+__s^na__uhhuh .__c4
+__%-__okay .__c4
+__s__thank you .__c4
+__%--__claudia i still mentioned have you other things ?__c4
+__s^e__for me as i said before i will be funded by a d- - uh by the ministry of uh the german government for research in the project so-called invinet .__c4
+__b__that seems to be sure .__c4
+__qo^rt__and i got absolutely freedom to do what i would like to do .__c4
+__qy^d^g^rt__and i would like to go on with the q. s in advance mechanism .__c4
+__s^bd__and uh ==__c4
+__qy^rt__in the relation of u. s. a. i. a i also have the activities with georgia tech .__c4
+__s^e.%--__they have now a p. h. d .__c4
+__s^bd__it is settled .__c4
+__s.%-__and my other next uh generation of contract is also going in that sense so the topic is still going - go- - going on .__c4
+__s^ng__and when i will come back here i would like to use these things too to maybe come to a closer - a bigger project um outside of this goal with contributions here from uh - first of all from the n. s. a group and then from - from other partners .__c4
+__s^bk__but this i have definitely ou- - uh discussed with my management .__c4
+__s__and this will happened i believe in december .__c4
+__b__maybe and in the beginning of january .__c4
+__s.%-__and i will keep informed to the management of i. c. s. i anyway .__c4
+__s^bk__but also i assume that my suggestions that we have a weekly phone conference and email exchange during that time .__c4
+__s^bk__so that we can inform each other concerning what are the questions what are the problems what is the status and so on .__c4
+__s^bk^m__uh ==__c4
+__fg__but i think we will uh detail these things then in one of the last meetings .__c4
+__s^co^t^tc__so ==__c4
+__s__how is your status and - and your ideas and your plans and your future and ?==__c4
+__b__yeah .__c1
+__s^cs^t__well .__c1
+__s^e__i will ==__c1
+__s^cs:s__you're addicted to the testbeds you run on the hour .__c4
+__qy^d^g^rt__no no no no no .__c1
+__fh__so that's ==__c4
+__s__so i will stay here till the end of february .__c1
+__s^cs__and ==__c1
+__s^na__afterwards um at berlin i'm yeah funded by an institution of the german government .__c1
+__s__so ==__c1
+__b__they are paying me .__c1
+__s^df__and i have to do research for them of course .__c1
+__b__i have to um - well uh - reach some goals and so on .__c1
+__fh__but on the other hand there will be some time left i think to do some work on this area i started here .__c1
+__s.%--__and for me myself i'm also very interested in - in continue this work .__c1
+__qw^t^tc__and so that will be manageable .__c1
+__s^co__and um ==__c1
+__qw__on the other hand there are also uh some students or ==__c1
+__s.%-__well .__c1
+__s^ba:s__at the moment it's quite difficult to find students uh who are doing their master's thesis and so on .__c1
+__b__because there are not a lot of students uh which are in this state in germany now .__c1
+__s__but um ==__c1
+__fh__about two years ago the numbers of students were um studying computer science uh started to increase again .__c1
+__qw.%--__and so in one or two years we will have uh many students uh which are performing their master's thesis .__c1
+__%-__and so i think there will also be uh many students which are joining in this work .__c1
+__fg|s__so | hopefully uh i will found - will find some students which are joining in .__c1
+__s__and um ==__c1
+__s^df__so hopefully this work will be go on .__c1
+__b__uhhuh .__c4
+__%--__okay .__c4
+__b__sounded good to me .__c4
+__fh__and michael ?__c4
+__s^no__so | i won't change the topic then .__ca
+__s__i'm here until end of may .__ca
+__s__and after that i presumably going to a siemens project with some - department of gee mens .__ca
+__b__but related to that topic what i have done here .__ca
+__s__so ==__ca
+__qw^cs.%-__it's some of pre stage to that .__ca
+__s__so it might be more related or loosely related .__ca
+__s^aa__so it's - at least it's in the same topic .__ca
+__s__and progress it's going on .__ca
+__b__but it's not that fast going on as i would have like it .__ca
+__fh|s__uhhuh .__c4
+__s__oh .__ca
+__s__i would like to have it .__ca
+__s__sorry .__ca
+__s^ng__well .__ca
+__b__but oder ?__ca
+__s^nd__yeah | then what is the current status anyway ?__c4
+__b__um | i'm - currently i'm looking into quality of service routing .__ca
+__s__@@ this is .__c4
+__b__and i had discussions with a post doc from the u.  - u. c. b .__ca
+__fg__well .__ca
+__s^co^rt__we want to - we started to collect information to write the paper about quality of serving routing for m. p. l. s in an m. p. l. s domain .__ca
+__fh__uhhuh .__c4
+__s__so you have um distributed routing at the edges .__ca
+__s__and one aspect is that the information is outdated so that you know to always have the exact information of your links dates and so on .__ca
+__qy^bu^d^rt__it what we have plans of that .__ca
+__s__and trying to look at some routing policies or routing algorithms .__ca
+__s^aa__uhhuh .__c4
+__s^e__now as i see in principle uh fff that's a really raw view .__c4
+__s^bk__m. p. l. s offers certain kind of success of active routing .__c4
+__s^bk|s__because in principle the forwarding pass is a little bit decoupled from this - from the routing pass .__c4
+__s.%-__yeah .__ca
+__s^cs:s__and this was in principle .__c4
+__s^df__okay .__c4
+__fh__it's - it's not really the subject .__c4
+__fh|s__it - it ==__ca
+__s:qw__but in a broader sense it could be seen in that sense .__c4
+__s__it d- - yeah .__ca
+__b__i think uh there are in a certain degree some alignment with - with both of you guys .__c4
+__s__yeah .__ca
+__s^aa__right ?__c4
+__s:qw__so at least from the desh- - definition of christian tschudin m. p. l. s is a subset of - of active route- - active routing .__ca
+__s^e__so it's very - it's static ?__ca
+__s^e__it's - no | active ?__ca
+__s^aa__but it's sort of active because they have these program statements .__ca
+__s:qw__yeah .__c4
+__b__yeah .__c4
+__s^e^rt__maybe it's a separation in principle that i do not use the normal traditional uh data forwarding pass and update in principle only the routing information uh to - to - to use it .__c4
+__s^e.%--__but y- ==__ca
+__s__yeah .__ca
+__s^aa__yeah .__ca
+__s^aa__well they are - they are using the - the - the same idea of labelling packets with a - with a content descriptor or something .__c2
+__s__yeah .__c4
+__s^e:s__yeah .__c4
+__b__yeah .__ca
+__b__that's right .__ca
+__s:s^co__yeah .__c4
+__s^am__so what i mean is at a certain degree yeah that has to be figured out .__c4
+__s^no__yeah .__c2
+__s:s__there's a connection point .__c2
+__s^e__there is uh there are some linkage between them @@ in both of your your work .__c4
+__b__uhhuh .__c2
+__s^ba__yeah .__ca
+__s__so ==__c4
+__b__my last point uh in principle is the proposal itself .__c4
+__s.%--__um ==__c4
+__fh|qh__i know in the past it was always if i'm not writing something nothing going to happen .__c4
+__b__so i believe wilbert you are going out of these activity .__c4
+__fh|s__you have to use your time to finish your work as you uh have in mind until your end of february .__c4
+__s__or is that right ?__c4
+__s.%-__january .__c8
+__s^aa__yes .__c8
+__fh__end of january .__c4
+__fg|s^ba__sorry .__c4
+__s__so you will not - y- - you will not find any time to contribute anymore to this activity .__c4
+__b__no .__c8
+__s^e__okay .__c4
+__s^2__then from miguel's side i expect more detailed vision .__c4
+__qy^d^g^rt__we can do it as i mentioned before bilateral afterwards uh concerning your work and how you think it could be beneficial contribution to the activity maybe based on the generic uh uh u. s. a. i. a architecture .__c4
+__s^aa__later .__c2
+__b__i will write as long as i have time here uh on the proposal itself .__c4
+__s^bu__and in the near term future i will distribute a list of the small cluster of people .__c4
+__s^aa|s^na__i tried to access juan peire several times .__c4
+__s^aa__he didn't answer because he still had mentioned that there's some minor funding that i think would help .__c4
+__fg__for instance to have initial meeting either here or in europe or - or wherever .__c4
+__s__i've uh contact one more time the professor .__c4
+__s__what is his name ?__c4
+__s^df.%-__rao ?__c4
+__s^nd__or ?==__c4
+__s^na__uh | l- - landay mentioned uh ==__c4
+__s:s__l- - lan- ==__ca
+__%-__landay ?__ca
+__s^fe^t1__rao | right ?__c4
+__b__yeah .__c4
+__b__because he's a professor in - uh responsible for the infrastructure at u. c. b and he has some projects which are related to um these - these uh activities .__c4
+__s^bk__landay .__ca
+__s^bk__uh .__ca
+__s^am__i would c- - c- - name it cor- - intelligent classroom .__c4
+__s.%--__i don't know whether i can succeed to get an appointment then .__c4
+__b^rt__but i will distribute a list - contact list and @@ the interests of each partner .__c4
+__s^am__so that everybody can see and everybody knows yeah i have in mind .__c4
+__s^e.%-__maybe it's a small n. s. a group activity itself with no linkage to the outer world .__c4
+__b__maybe it's a n. s. a group activity with a linkage to the outer world based on the uh universities at home or the companies at home .__c4
+__s^2__there's some linkage .__c4
+__%-__and the third stage is let's say there's a n. s. a group activity in this area uh with the supported um home entities and with certain kind of linkage here to the companies or u- - or universities here in this area .__c4
+__b__the last one i think it's uh the best one .__c4
+__s^aa|s__but you see the question is always where's the money .__c4
+__s__and i say oh poo .__c4
+__s^e__currently i don't know .__c4
+__s^e__the second question is how long i stay here .__c4
+__s^2.%-__and say ooo i don't know .__c4
+__s:s__so ==__c4
+__s^co__everybody's waiting .__c4
+__b__yeah ?__c4
+__s__and the only rea- - um activity could come from the n. s. a group itself .__c4
+__b__but i think it's a - a work in process and that it will take some time and uh everything must be just settled a little bit more .__c4
+__b__so but anyway | i would like to get contributions from the people here of the n. s. a group concerning proposals .__c4
+__fh__this is a living thing .__c4
+__s^cs^rt:s__and ==__c4
+__s^am__it's a pity that multicast is in principle removed .__c4
+__s^am__and we do not have any expert from multicast anymore .__c4
+__s^bk__and uh | that's makes very hard i believe .__c4
+__s^df__because that is a major @@ at least twenty five percent of the whole network uh stuff .__c4
+__b__and um ==__c4
+__s^cs__but neverless we have to live with this situation .__c4
+__s^aa__right .__c4
+__s^bk__you are laughing again ?__c4
+__s.%--__right .__c8
+__b__right .__c8
+__s^co:s__so maybe we have to rewrite something .__c4
+__b__have new ideas going forward more in certain kind of really telecommunication network and the routing and q. s stuff .__c4
+__s^cc__and remove in principle the multicast stuff .__c4
+__s^e__which in principle a pity because i think that's a really really good uh uh huh source of research work for the future telecommunication core networks .__c4
+__s__because they are still not able to deal with multicast .__c4
+__s^na.%-__they still have there that tunnel generations and all those kind of things .__c4
+__s__and | i - i believe that would be very beneficial to use it for the really uh mobile scenarios in - in that network .__c4
+__fh__so - but anyway we have to live with a real situation .__c4
+__s^aa__and that means we have to drop multicast from the proposal .__c4
+__qw.%-__any comments ?__c4
+__s__oh not really you know .__c2
+__s__uh | i - i - i - i think that well in the future somebody will come to the n. s. a group .__c2
+__s__uh ==__c2
+__qw^e^rt__then we can extend the proposal one more time with multicast .__c4
+__s^co.%--__uh ==__c2
+__s.%--__so ==__c2
+__fh__no | i mean that ==__c2
+__s^ng__okay .__c2
+__s^bk__i - i - i think that it cannot uh be uh considered the first type task to do .__c2
+__b__because nobody is - is knowledgeable about multicasting .__c2
+__s^bk__but i think that uh any of us could address these things in the future .__c2
+__fg|s.%-__or maybe a new person could address this in the future .__c2
+__b__so ==__c2
+__fg|s__if ==__c2
+__b__i mean wh- - what i think is that uh it - it makes no sense to me to reduce uh uh uh uh something which is more or less complete .__c2
+__fg|s__because we don't have the person .__c2
+__h|qw__i think that the - the way to - to go is probably the opposite to try to find something which has a meaning by itself .__c2
+__s__and then try to get the resources to - to - to do this .__c2
+__qy^d^g^rt__oh maybe you understand me in the wrong way .__c4
+__s__uh ==__c4
+__s.%--__i do not mean to drop it to remove the text from the proposal .__c4
+__s^2__okay .__c2
+__qy^cs^rt__okay .__c2
+__s^aa__i mean activities - planning activities .__c4
+__fh__sorry .__c2
+__s.%--__yeah .__c2
+__b__that's okay .__c2
+__qh__work packages .__c4
+__b__sorry sorry .__c2
+__s^bu__heh .__c2
+__s^aa__yeah .__c4
+__s^bk__now i ==__c2
+__fh__so ==__c4
+__s.%--__no no .__c4
+__qy^cs^rt__because that's uh that's why i mentioned that it is important thing .__c4
+__s__but | currently there's only one new group member sven buchholz who will figure out the thing huh how to say um the taking into account the end system or the limited end system capabilities with respect to mobility and the network itself .__c4
+__s^aa__where it should be ada- - @@ - where should be uh the adaptation process performed to deal with the different devices for ubiquitous access to the network ?__c4
+__b__should it be in the end system itself ?__c4
+__s^df__should be in the edge device ?__c4
+__s^fe^t1__it should it be in the core ?__c4
+__s^t1__should it be on the server ?__c4
+__s^bk__these are the questions he would like to figure out .__c4
+__s^fe^t1__and to p- - uh to have in principle the pro and cons of uh different - of all these different approaches .__c4
+__fg__so that's the only new member .__c4
+__s__who is that ?__c8
+__s^bc^e__sven buchholz .__c4
+__fg__he was here .__c4
+__b__i invited him and discussed with him his potential work i @@ .__c4
+__qy^rt__quite sure .__c4
+__s^e^rt__oh | he was here one day .__c8
+__s^aa__yeah .__c4
+__s^df.%--__yeah .__c0
+__%-__huh .__ca
+__h__but he showed up the next day .__c4
+__fh__several days .__ca
+__s^bk__but only for administration stuff .__c4
+__s^am__yeah .__ca
+__s.%--__but for the technical discussion he was here one day .__c4
+__%-__yeah .__ca
+__s^aa__yeah .__ca
+__s:s__i- - i'm do not remember whether - w- - whether you were ==__c4
+__s^na__that must be three weeks ago .__c0
+__b__because i r- - i just met him when i arrived .__c0
+__s^m^na__yeah | i do remember him .__c8
+__s^bk__yeah .__ca
+__s__but i didn't talk with him about uh - about the research topic .__c8
+__b__uhhuh .__c4
+__s__so i didn't know what he was going to do .__c8
+__qy^d^f^g__yeah | he will come mid of january i believe .__c4
+__fg__yeah .__c4
+__s^e:qy__uhhuh .__ca
+__s^no.%--__as far as i know .__c4
+__fh__so but this is the only guy you know .__c4
+__s__but that is not reflected in that sense that we remove the text @@ .__c4
+__s^e__what i mean is - is uh the - that we - what's kind of activity we are going more in detail in describing the network packages and - and detailed uh uh descriptions - more detailed descriptions .__c4
+__s^aa__okay .__c2
+__s__so ==__c4
+__b__any other question ?__c4
+__fh|s^cs__any other comment ?__c4
+__b__oh .__c4
+__s__then we pu- - should start with reading the numbers .__c4
+__s:qy__one more time .__c4
+__b__oh again ?__c0
+__b__we have to do that ?__c8
+__s:qy__oh .__c8
+__b__yes .__c4
+__s__we have to do it .__c4
+__b__i don't know .__c0
+__b__so that means we have to read the transcript script number and then the numbers .__c4
+__b__and if there's a new line a short break .__c4
+__s^aa__and | afterwards we have to ==__c4
+__s^e__uh | that device is switched on .__c4
+__b__so please do not switch off the devices .__c4
+__s^co^t__and i will call herr janin and that - adam @@ .__c4
+__fg__so i will start .__c4
+__s^df__DIGIT_TASK__c4
+__s^e__okay the next one please .__c4
+__s.%--__should i ?__c0
+__s.%--__oh yeah yeah fine .__c4
+__s__okay .__c0
+__b__DIGIT_TASK__c0
+__fh|s__DIGIT_TASK__c2
+__s.%--__DIGIT_TASK__c8
+__b__he's laughing all the time .__c4
+__s^e__oh oh wilbert .__c0
+__qy^d^f^rt__oh i'm sorry .__c0
+__fh|s__did you get that ?__c8
+__s__oh i'm so sorry .__c0
+__s^df__that was mean .__c0
+__b__okay .__c0
+__s__no it wasn't .__c8
+__s__i - i - i saw it already standing there when i was here so then i started laughing .__c8
+__s__oh oh .__c8
+__s.%-__okay michael please .__c4
+__s^rt__DIGIT_TASK__ca
+__qr__DIGIT_TASK__c1
+__b__that's it .__c1
+__qr__okay .__c4
+__fg|s__thank you .__c4
+__b__okay .__c4
+__s__then i will call adam .__c4
+__b__adam ?__c4

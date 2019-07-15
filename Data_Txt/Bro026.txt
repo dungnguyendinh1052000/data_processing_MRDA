@@ -1,0 +1,1095 @@
+__b__@@ ==__c0
+__b__okay .__c8
+__fg|s__so we should be on .__c8
+__s__so ==__c3
+__qy^rt__and i'm going to go ahead and start by reading the digit strings .__c8
+__b__just to give you an example of how to do it .__c8
+__s^aa__and so the first thing to do is read the transcript number .__c8
+__s^aa^r__which is on the right hand side there .__c8
+__s__DIGIT_TASK__c8
+__s^bk__and so if you could just go around the table .__c8
+__qy^d^g^rt__and read them out .__c8
+__s^aa__okay .__ca
+__s^bk__should i next ?__ca
+__s^na__yep .__c8
+__s__DIGIT_TASK__ca
+__fh__DIGIT_TASK__c1
+__b__DIGIT_TASK__c3
+__qw__if you could sign that ?__c8
+__qy^bu^m^rt__DIGIT_TASK__c4
+__s^aa__thanks .__c8
+__s__DIGIT_TASK__c0
+__s__DIGIT_TASK__c2
+__qy^rt__thanks .__c8
+__s.%-__so i wanted to just era- - it- - reiterate because we did have have one person come in a little later that um there will be an opportunity to remove anything from the transcript that you don't want made public after it's transcribed .__c8
+__b__so that'll be some months off .__c8
+__qy^rt__but you will have that opportunity .__c8
+__qrr.%--__okay ?__c8
+__sj^ng.%-__thanks .__c8
+__sj^m^ng^rt__okay .__c1
+__fh__okay .__c3
+__b__thanks adam .__c3
+__fg|sj__we could start with our meeting ?__c3
+__s^bk__yep !__c8
+__sj__yep !__c3
+__s^aa__thanks very much .__c8
+__s^aa^m__okay .__c3
+__s^aa^m__you have to stay all the time here ?__c3
+__s__i don't have to .__c8
+__s^bk__um ==__c8
+__%--__but ch- - you want to do ?__c3
+__s__well .__c8
+__s^bk^m__it's just at the end of the meeting don't turn off the mikes .__c8
+__b__just leave them on .__c8
+__s^bk__okay .__c1
+__s__and uh ==__c8
+__b__uh ==__c8
+__fh__actually could y- - actually could you call me at the end of the meeting ?__c8
+__fh|s__i'll leave my number on the board there .__c8
+__s__yeah .__c3
+__s__okay .__c3
+__qy^rt__thanks .__c8
+__b__we can do that .__c3
+__s^bk__hey adam you know what ?__ca
+__h|s^no.%-__it must be funny to do an a- - research on how people behave while reading these numbers .__ca
+__s^cs__numbers are strange !__c8
+__s^cs.%-__that must be ==__ca
+__qy^rt__it is !__c8
+__s^ar__yeah !__ca
+__s^bk__it must be much more interesting to - to see their behavior .__ca
+__s^cc__the - the meetings are strange .__c8
+__sj^ba__oh y- - yeah !__ca
+__b__people interrupt each other much more than i thought they did .__c8
+__s^aa__two nine seven seven ?__c3
+__s__right .__c3
+__s__two nine seven seven .__c8
+__qy^d^rt__okay .__c3
+__qy^d^rt__okay .__c1
+__s^aa__yeah .__c3
+__sj^ba__i will call you then .__c3
+__b__thanks .__c8
+__b__uh okay .__c3
+__s__so then let's start with our weekly meeting .__c3
+__s__the last time's uh we learned too much i believe .__c3
+__s^rt__so ==__c3
+__b__uh | today i have two topics .__c3
+__b__and the first topic um we have a new member in our group .__c3
+__s^bu__miguel sanchez .__c3
+__%-__i believe everybody knows him very well in the meantime because he stayed here quite a little time .__c3
+__qy^d^g^rt__hi .__c1
+__s^aa__and i think he is talking to everybody in the meantime .__c3
+__s^df__so but anyway i would like that miguel sanchez will introduce himself a little bit concerning his background what he intend to do .__c3
+__s.%-__and - | because i discussing with him uh uh many things concerning uh his skills and what the n. s. a group intends to do .__c3
+__qy^rt__uhhuh .__c1
+__s^bu__i hope there will be a match uh then for his future work .__c3
+__s^aa__and the second topic is then to discuss a proposal in much more detail .__c3
+__s^aa__i believe we still haven't left our starting position .__c3
+__s^bk__and um | yesterday i also discussed with wilbert some things .__c3
+__s^bk__and i would like to focus on the question what problem we are going to solve with such a proposal .__c3
+__s^bu__not so will they have a common activity within the group itself and maybe with other partners outside .__c3
+__qy^d^g^rt__but the technical problem .__c3
+__%-__but that's under the s- - second topic .__c3
+__s^aa|s__so first i would like that miguel will told us a little bit about his skills and - and uh his background .__c3
+__s^bk__okay .__c1
+__s^bu.%-__okay .__c1
+__s__thank you joe .__c1
+__s__so please .__c3
+__s^bk__well i uh as all of you know i came from - from spain .__c1
+__s__from the uh polytechnic university of valencia .__c1
+__s__and i- - uh | i um just finished my p. h. d thesis about uh um- - power saving techniques for wireless networking .__c1
+__b__uh | in fact i have developed an algorithm to control the ra- - radio frequency power uh of a wireless transceiver .__c1
+__b__and uh | i've been working also in routing issues especially in the so-called ad hoc netw- - wireless networks .__c1
+__h__where uh you have a set of uh mobile nodes and no other infrastructure .__c1
+__sj__no base stations .__c1
+__b__so all the routing functions are done by the node - by the same nodes .__c1
+__s^df__okay ?__c1
+__s^aa__so nodes act as both end points and routers .__c1
+__s^aa^r__uh ==__c1
+__s__i've in the study for some time these kind of networks .__c1
+__s^df__and uh in fact there are a lot of - of research uh articles about this - this kind of networks because you know uh huh infrastructure based network network has been a long topic of research .__c1
+__s^df__so ==__c1
+__fh__for example routing on - on wired networks is a - a topic still to be researched .__c1
+__b__but it has an important background .__c1
+__fh__but mobile network- - this kind of mobile networks is a little bit - uh newer .__c1
+__s^bk__especially because uh until not so long uh the - the things were too heavy to have a computer a wireless transceiver on a more or less portable thing .__c1
+__s^bk__so | with the advent of this new technology low power uh high uh processing capability and wireless - uh - networking capability in a really small package new kind of devices are - are being built and are appearing in the market .__c1
+__b__and uh | well this is more or less what i have done .__c1
+__fg__and the kind of uh things i'm interested is more or less all around this these kind of networks .__c1
+__qw^t__but i could say uh in general mobile service is not only about uh these specific kind of networks .__c1
+__s__but in general about uh services uh over mobile or services that can benefit from the uh capability of nodes to move around .__c1
+__qy^d^g^rt__and uh | well i - i've been teaching now for twelve years comp- - uh at a computer sciences school in my university .__c1
+__fh__i've been teaching computer networks .__c1
+__h|s^m.%--__and well i am - more or less uh knowledgeable about well t. c. p i. p networking i. s. o uh networking .__c1
+__s__and uh ==__c1
+__s^rt__well i'm - i'm a computer guy .__c1
+__s^bk__so i'm really um well i can say uh proudly uh more or less computer skilled .__c1
+__s^rt__i mean uh operating systems uh programming languages uh networking @@ .__c1
+__h__so this kind of things i think i'm more or less well-trained .__c1
+__s^co^t__so ==__c1
+__s^bk__this is i think um my first presentation .__c1
+__b__next - maybe next meeting i will uh do a small sketch about uh my past work and well presenting some det- - a little bit more detailed approach with some schemes and - and some things from previous talks so you can have a better idea of w- - the kind of work i've been doing .__c1
+__qy^bu^d__okay ?__c1
+__fh__uhhuh .__c3
+__s^aa__thank you .__c1
+__s.%--__so thanks miguel .__c3
+__b__yeah we m- - discussed it yesterday that you'll maybe will have a talk next tuesday .__c3
+__s:qw^t__y- ==__c1
+__b__yeah .__c1
+__fh|s:qw__but give me a sign and send me an abstract so that i can announce it then for the next meeting .__c3
+__s.%--:qw.%--__yeah .__c1
+__fh__that's okay .__c1
+__s__um ==__c3
+__s__one short other topic is uh claudia did a lot of work concerning the web pages in the meantime .__c3
+__s__oh .__ca
+__b__okay .__ca
+__fh__and | despite busy stuff with waivers and uh and visas and whatever uh she found the time to um write with what we discussed before and in the form of h. t. m. l stuff .__c3
+__sj^ba__and we want to put it on the web pages in the next days .__c3
+__s^cs__so | i will send an email then to everybody that they should check their web pages whether they're aligned with um their own views and opinions of what we should - what should be presented on the web pages .__c3
+__s__and any feedback is then well appreciated .__c3
+__fh__no ?__c3
+__fh|s^co^t__okay .__c1
+__fh__so ==__c3
+__fg__let's switch to the project proposal .__c3
+__fh|s__um | i mentioned that it is still f- ==__c3
+__fh__uh .__ca
+__qy^rt__sorry .__ca
+__s__can i ?==__ca
+__s^e__yeah ?__c3
+__s^e__maybe i can add something .__ca
+__s^e__claudia ==__c3
+__h__yeah if there's anything else which we - what we could add on the web site .__ca
+__h__so p- - for example if you have a small abstract or some pictures or whatever about the work you did before what you are planning to do here that would be fine .__ca
+__qy^bu^d__okay .__c1
+__s^aa__because now we can add some more stuff there .__ca
+__%-__or if you have something - or if somebody has some slides o- - or articles whatever he wants to be published there .__ca
+__s^aa^r__yeah .__c3
+__qr^bu^d__then everybody sees the structure - how it is uh structured - really structured .__c3
+__%-__yeah .__ca
+__b__and ==__ca
+__h|s__then maybe you wi- - can easy offer some additional input which should be presented then on the web pages .__c3
+__fh__yeah | it depends what - what everybody wants to do .__ca
+__s^bu^m__yeah .__c3
+__s^aa__yeah .__c3
+__s^bk__so ==__ca
+__fg|s__about the projects will be something .__ca
+__s__then about publications will be another point .__ca
+__fh__and yeah additional information about how is life in berkeley and i- - yep i don't know some - some hints some web sites or links which are useful when somebody arrives or stuff like that .__ca
+__s^rt__yeah it is .__c3
+__s^cc__yeah .__c3
+__b__uhhuh huh .__c1
+__fh__half collection of necessary information .__c3
+__s^co__but there's no personal homepage for everybody ?__c4
+__s__or | is it planned or not ?__c4
+__s__yeah su- - you can have ==__c3
+__qy^d^g^rt__or ==__c4
+__s^aa__yeah | you can have it .__c3
+__fh__because as uh uh uh le- ==__c3
+__fh|s^cs__i'm not interested in this .__c4
+__s^aa.%-__that makes work .__c4
+__h|s^cs^r__no .__c3
+__s^arp__but this is - oh uh - everybody's obliged to do it for his own you know .__c3
+__s^df__yeah .__c4
+__s__so there is not uh - claudia is not the webmaster here to uh get the collection for - for - for everything .__c3
+__s^bu__okay .__c4
+__s.%-__oh oh no | i'm not doing it for everybody .__ca
+__s^aa__so ==__c3
+__fg|s__but what i can ==__ca
+__s__this is responsible for - uh everybody's responsible for his own .__c3
+__s__yeah .__c3
+__s^cs__yeah | but - but what is planned is that i do something like a- - previous you know layout and give everybody the uh opin- - uh the possibility to the chance to put his content inside .__ca
+__b^rt__sure .__c4
+__%--__okay .__c4
+__b__his name and so on .__c4
+__fh__so that the layout is for everybody the same .__ca
+__qy^bu^d^rt__yeah .__c4
+__s^ar|%-__well like have a blueprint .__c1
+__s^2.%-__so about the projects and stuff .__ca
+__s__okay .__c4
+__s__uhhuh .__c4
+__s^aa__so there will be something .__ca
+__b__yeah .__c3
+__fh__yeah .__c3
+__b__okay .__c3
+__fh|s.%--__thanks .__c3
+__s__so ==__c3
+__s^df__let's switch to the proposal .__c3
+__s__i ask everybody whether read it in the meantime and understand everything .__c3
+__sj__yeah .__c3
+__sj.%--__everybody say yes ?__c3
+__s__yeah ?__c3
+__s__yes .__c4
+__s__yes .__c3
+__s__okay .__c3
+__fh|sj__um ==__c3
+__s__from my point of view as i mentioned before we still in the starting position .__c3
+__s__i think the four building blocks on the network level will have really a major impact on - on f- - current um available wireless networks and uh also for future generations .__c3
+__s__and | what the missing thing is really what kind of problem we are wan- - want to s- - solve with such a project proposal .__c3
+__s__and wilbert yesterday mentioned and he is right that what kind of maybe service we are really going to offer .__c3
+__fh|s__the linkage between such kind of application also interactive multimedia application and uh this kind of networking stuff is um maybe not very well aligned .__c3
+__s__because there will be of course a portion of mobile access to such kind of application .__c3
+__s^co.%--__but i think that's not the majority .__c3
+__s__and that is not the major focus of um this kind of - um this kind of application anyway .__c3
+__s^co__so i would like to - to - uh split in principle the discussions of what kind of application tsk um f- - far away .__c3
+__b__and i would like to - more to focus if we have certain kind of vision t- - concerning these building blocks and the network um what kind of problem we are going to solve .__c3
+__fh__what kind of uh um um glue between these four building blocks exists .__c3
+__fh|s^t__and | what kind of synergy effects in principle as if they work and fit very well together exists for networking stuff .__c3
+__s^co^t__and what kind of service could we provide in that area .__c3
+__fg|s__we will have these kind of uh really closely working together of these four building blocks .__c3
+__s__so maybe uh wilbert you can start to discu- - oder to - to tell the group about what you mentioned yesterday concerning certain kind of ideas .__c3
+__%-__maybe it's a brainstorming um of - of these things .__c3
+__s^aa|s^rt__and maybe we can comment later on th- - these - uh these ideas .__c3
+__b__and i saw you sk- - still discuss with - with - uh - mark | right ?__c3
+__s^rt__some stuff .__c3
+__b__was it also related with - with these things ?__c3
+__h__no .__c2
+__qy^bu^d^rt__no .__c3
+__s^aa__okay it was @@ .__c3
+__s^bk__this afternoon you mean ?__c2
+__s^bk__yeah .__c3
+__s^rt.%-__no | this was unrelated to - to the things of yesterday and last weeks .__c2
+__s^2__okay .__c3
+__s^m__yeah yeah .__c3
+__h|s^2__then maybe then one - one w- - uh sentence before .__c3
+__%-__wha- ==__c2
+__s^m__i believe everybody fits very well in these kind of things .__c3
+__s__because from the mathematical description with q. s. in advance me as an expert for quality of service and uh michael as an expert for uh m. p. l. s and wilbert an expert for - for multicast and uh i discussed with miguel it's uh maybe a little bit the shift to active routing .__c3
+__s^m__but it is still in the area of routing .__c3
+__s__so my idea is in principle to have independently of any funding independently of any outer contact such - such a core activity in principle .__c3
+__s^m__and we can see how much from the outer world can fit in .__c3
+__s__first of all the first stage is the institution which is behind everybody .__c3
+__s__that means uh k. p. n in your case and siemens in our case .__c3
+__s^bk|s^bu__and maybe then in the broader world here other partners registered in the proposal migh- ==__c3
+__fh__tomorrow i will go to cisco for instance .__c3
+__s^aa__and i will discuss uh all this kind of things .__c3
+__fh__maybe they have certain additional activities and they're interested in the results before .__c3
+__s__the benefit here is in principle that the results are available .__c3
+__s__they are not restricted any way .__c3
+__b^rt__if you have your own common activity that makes a little bit more easier .__c3
+__s__and uh | if there is a technical linkage between such uh um between the outer world and us okay the better it is .__c3
+__b__but anyway if we come to a certain kind of uh common work within the core of the n. s. a group i think that's really beneficial to everybody .__c3
+__b__and uh | especially wilbert if you have in mind to go in the huh uh really from the project proposal view i think we can build it on this - this core .__c3
+__s.%--__you know ?__c3
+__s.%--__and go to the outer world with and - and - and align it in a certain way .__c3
+__s__for instance that it also fit maybe to k. p. n and siemens and in other companies .__c3
+__%--__yeah .__c3
+__s__yeah and this probably has to be a brainstorm right now .__c2
+__s__yep .__c3
+__s__um | what i told joachim yesterday was that uh uh for my company - the company i work for they are more interested in - in an explicit service than in core technology .__c2
+__s__u- ==__c2
+__fh__me on the other hand i'm more interested in uh core service or c- - core technology myself .__c2
+__qy^d^rt__so i'm u- - i was thinking about uh how i could combine the both of them .__c2
+__qy^d^g^rt__k. p. n was um - they're interested in having uh like six people or something working on the project for one year .__c2
+__s^aa|s__or maybe uh three people fo- - working on the project for two years .__c2
+__fh|s__and have a kind of a demonstration uh for a specifically in- - u. m. t. s service .__c2
+__s__uhhuh .__c1
+__fh__i was thinking that um as a - well not really a u. m. t. s service but - yesterday what i discussed with joachim was uh a w- - little bit based on your ad hoc networking also .__c2
+__s__that it would be interesting to have a kind of a device where you can switch from w- - a wavelan technology to um u. m. t. s .__c2
+__s__i think that's uh it's in - in the future that will be a main competitor of uh of u. m. t. s .__c2
+__b__uhhuh huh .__c1
+__s__too like the - the - the lucent uh equipment has a l- - huge scope already .__c2
+__fh__like five hundred feet or - or even more sometimes .__c2
+__fh|sj__so that's - it's might be interesting for a service to walk into a building or whatever is available on that network .__c2
+__s__you can switch from u. m. t. s or uh uh to wavelan technologies .__c2
+__b__huh .__c3
+__s__uhhuh huh .__c1
+__fh__uh maybe i will write a few keywords on the - on the whiteboard .__c3
+__qw__sure .__c2
+__b^rt__okay ?__c3
+__%-__of course it sounds strange for a company that does u. m. t. s to switch - to - to be able to switch or provide the service to switch to wavelan .__c2
+__s^e__but at the end it makes it easier for your - and cheaper for your customers .__c2
+__s__so if they don't do it somebody else will probably do it .__c2
+__s__and you can build a - a - an - a - a double technology adapter too .__c1
+__qy^d^g^rt__so you can market these double technology adapters .__c1
+__fh__and this can be a - a potential uh um you know uh income too .__c1
+__s^bk__yeah .__c2
+__s^nd__because you just have to license uh uh wavelan technology .__c1
+__qy^d^g^rt__you can build uh the whole thing .__c1
+__s^aa__yeah .__c2
+__s^aa.%__this u.  - u. m. t. s wavelan uh- - mixed together .__c1
+__fh.%__and ==__c2
+__s^bk^rt__yeah | something like that could be possible .__c2
+__qy^bu^d^rt__maybe even a u. m. t. s. to wavelan gateway .__c2
+__fg__or - i'm not sure if that's possible like we- - u.  - if u. m. t. s re- - contains redirects or whatever like switches .__c2
+__qy.%--__i'm not sure about it .__c2
+__qy^bu^d^rt__it could be .__c2
+__s^aa__huh .__c1
+__s^bk__i think they are using different uh radio technologies .__c1
+__s__so uh | at the physical level they're - they're - they are not compatible .__c1
+__fh__it's not a problem .__c2
+__s^df__no | but s- - you could have a u. m. t. s gateway that translates everything to that uh w- - local @@ .__c2
+__b__yeah .__c1
+__b^rt__yeah .__c1
+__b^rt__if you will .__c2
+__b__that - that's right .__c1
+__b^rt__yet the basic idea is in principle to switch seamlessly between wireless lan technology whatever and u. m. t. s .__c3
+__qy^d^f^rt__right ?__c3
+__fh__yes .__c2
+__qw__and | you see the benefit that in principle the customer will save a lot of money .__c3
+__s__because if in-house communication like wavelan or maybe i see it also in the american market some wavelan communication in the outer world will be available the m- - and that is your assumption that the more cost uh extensive um u. m. t. s connection could be principle used i would like to say over wavelan .__c3
+__s__and then i have a normal wavelan connection | right ?__c3
+__s^e__yes .__c2
+__b__and the router and the wavelan connection goes into the core internet elsewhere .__c3
+__s^bk^rt__and | the connection is not dropped between this seamless hand off i would like to say .__c3
+__s^bk^rt__uhhuh .__c2
+__fh|s__right ?__c3
+__qy^bu^d^rt__or what - or ==__c3
+__%-__well .__c2
+__h|s^nd__if connection is lost i am - i'm not sure if sometimes you'd simply have to drop a connection if you have outstanding connections .__c2
+__qy^d^rt__what ==__c3
+__qy^d^g^rt__yeah .__c0
+__s^aa__but that's uh one thing of the internet .__c2
+__sj.%-__right ?__c2
+__fg|s^nd__it's - should be able to unplug a host bring it somewhere else and everything continues like it should be .__c2
+__qy^rt__i'm not sure i- - if it's uh - if you really have to con- - uh save a connection for all applications .__c2
+__fh__i - i don't think so .__c2
+__s__yeah | but if this is the final goal .__c3
+__s^aa__it should be as much as possible available that you do not have to break the connection if you switch between the subnets' technology .__c3
+__s__right ?__c3
+__qy^rt__yeah | but i - i have a point uh regarding the - this question is uh the cost function .__c1
+__s__i mean .__c1
+__s__uh ==__c1
+__s__what about the user who is switching from one - let's say - zero cost area network to another network where he has to pay ?__c1
+__s^aa^m__it is okay for the service to continue when he uh switches from one network to another .__c1
+__sj^fe__but probably the user wants to be aware that he's switching from one place - from one network to another .__c1
+__s__because maybe while he's uh having let's say a vide- - video conference uh over the - the wavelan oh he's not paying any extra cost .__c1
+__s__but when he continues with this service on the u. m. t. s he's having to cover uh an important - let's say an important cost - or some cost - non-null cost .__c1
+__fh__yeah .__c3
+__b__non-null @@ .__c3
+__b__so uh ==__c1
+__fh|s__this can be something that probably the user wants to be aware of .__c1
+__fh|s__of course this doesn't mean that the user wants the connection to be dropped when he switches to the w- - uh r- - uh from the zero cost area network to - to the - uh um non-null cost area network .__c1
+__s__but maybe some users want to do this .__c1
+__%-__because they say okay .__c1
+__qw__i'm not willing to pay any back for this service .__c1
+__s^e.%--__because i'm just watching uh you know the sports news .__c1
+__fg|qy^bu^rt__so if i switch - if - if because of my motion i'm switching or i'm going out of the coverage of the - of the uh wave - uh wireless uh local area network well i - i want the service to be uh stopped .__c1
+__s^aa__and this can be some pattern then that some users will follow .__c1
+__fg|%-__yeah .__c0
+__s.%-:qw.%-__yeah | but if your s- ==__c3
+__sj__uh | i believe everybody is aware about the u. s. a. i. a architecture .__c3
+__s__and uh | this one is here - this stuff is here also related to this kind what is mentioned there concerning the end system .__c3
+__qy^d^g^rt__and in my conf- - uh considered end system there is a certain kind of policy concerning how to use subnets technologies and - and all these kind of things .__c3
+__b.%__how to use quality of service you know in advance .__c3
+__s__because you have to pay for certain technologies and maybe for certain services .__c3
+__s^e__and that should not be done automatically .__c3
+__s__but it could be done automatically .__c3
+__s__but nevertheless there must be a certain kind of um user interaction always possible that you could set up a certain kind of mini database how to deal with all these kind of things .__c3
+__s__i think that's not a problem .__c3
+__s__but uh what i - i would like to ask wilbert here and we discuss it yesterday is it only the usage of that p. c. m. c. i. a card where you have instead of g. s. m today u. m. t. s and instead of wireless lan today also wireless lan .__c3
+__s__remember your four and one card uh concerning um ==__c3
+__%-__what is the name from dataco- ?==__c3
+__s__no .__c3
+__s^2.%__dacom .__c3
+__s^bk__oh | the one i have sitcom ?__c2
+__s^bk^r__where you can enable four technologies and you plug in in your laptop .__c3
+__fh__yeah .__c2
+__qy^bu^rt__and then you have every four uh subnet layer technologies available in your laptop .__c3
+__qy^bsc^rt__is that the problem ?__c3
+__s^aa__yeah that's not the problem .__c3
+__s^aa__right .__c3
+__qw__um ==__c2
+__qy^rt__well the switching itself could be a problem .__c2
+__sj^ar__why ?__c3
+__h|s__becau- - well it's a depends .__c2
+__qy^d^g^rt__maybe you are .__c2
+__s^bk__i don't know .__c2
+__s^bk^rt__so that could be a t- - topic for research .__c2
+__fg__yeah but | this i- ==__c3
+__s^cs__so maybe you know more about it .__c2
+__s^aa__yeah | but this is th- - only the probing to figure out that you get at a certain location the information that a s- - certain coverage of a certain subnet techn- - technology is available .__c3
+__s^aa^r__and if so then what miguel mentions then you add a certain kind of policy to switch or not to switch to this kind of technology .__c3
+__fh|s__yeah .__c2
+__s__right ?__c3
+__b^rt__y- - yes .__c2
+__fh__but this is end system related .__c3
+__s__that's not network related .__c3
+__qr^bu__i see no network related stuff within these in this uh idea .__c3
+__s__um ==__c2
+__s__it's only to set up i- - u- ==__c3
+__s__for me it's like a laptop t- - to plug one p. c. m. c. i. a - and currently will have two p. c. m. c. i. a cards and i compare g. s. m with u. m. t. s .__c3
+__fh__uhhuh huh .__c1
+__s__and today i would like to have g. s. m .__c3
+__qy^d^g^rt__and then i have my g. s. m connectivity .__c3
+__s^aa__and i cannot use it other technology .__c3
+__fh|s__only g. s. m because the interfaces the driver interface does not permit me to switch between the - between different technologies .__c3
+__s__so if i want to go to wireless lan i have to stop my connection and put in my wireless lan p. c. m. c. i. a card .__c3
+__fh__and then i can go on and set up the - the same connection one more time .__c3
+__sj__and what you have in mind to do it a bit more seamlessly and that makes an only sense for me if both technologies in principle were close together in that sense for application .__c3
+__s^no__for instance the application would be that i have my laptop here .__c3
+__qw^rt__and i work here with - wi- - with my device .__c3
+__fg__any kind of device .__c3
+__h__and i work here in wireless lan area .__c3
+__h|qy^bu^d^rt__and then i go outside and want to go still on leaving the coverage of - uh of the - uh wireless lan .__c3
+__s^aa__and at a certain state the device uh receives certain signals that the coverage of u. m. t. s or g. s. m is available .__c3
+__s^aa__and at that state you automatically or based on the certain kind of user profile switched to the um u. m. t. s or g. s. m st- - uh network .__c3
+__sj__that's the only senseful application .__c3
+__qh^rt__from my understanding that means only to have a certain kind of control layer for the different drivers .__c3
+__sj__which you also mentioned as a u. s. a. i. a architecture .__c3
+__s__and uh | then to do the switching for an existing stream or application between these uh transparently to this application between those - uh these both technologies .__c3
+__qr^bu^d__maybe there's more potential .__c3
+__s__i don't s- - see it .__c3
+__s^aa__but maybe you have a additional idea .__c3
+__sj__and i don't think that this end system device uh architecture which will come automatically .__c3
+__%--__and i believe there's a lot of activity throughout the world .__c3
+__s^co__because this seamlessly communication is always mentioned elsewhere where you cou- - where you listen to .__c3
+__s__so ==__c3
+__s__uh uh- ==__c3
+__b__if - if you can leave it out the network that will be really cool .__c2
+__s__that's what you w- - what i would like to do .__c2
+__s^rt__so ==__c2
+__s__yes .__c2
+__fh|sj^cs__but when quality of service comes to the uh scene well i think we have a - a bigger problem .__c1
+__s.%--__because maybe this - this uh uh seamless migration cannot be seamless at all .__c1
+__sj__because maybe the - the quality of service we are getting when we are connected to a certain network let's say high-speed networking cannot be sustained when we are switching to a different technology .__c1
+__s__so this is another thing that is uh putting a little bit in more trouble our - our scheme .__c1
+__qy^rt__or ==__c1
+__qrr.%--__now i would like not to hear only three opinions .__c3
+__s^nd__hm- ==__c0
+__%__but maybe there are also other opinions .__c3
+__%-__okay .__c1
+__s__yeah .__c1
+__s__oh sorry .__c1
+__s^bk__and maybe everybody should uh give a short ==__c3
+__s__i think you ==__c0
+__s__let us understand built for everybody and their com- - whether their comments .__c3
+__s^m__yeah .__c0
+__s^bk__i think we should ==__c0
+__s__in this thing of seamless handoff - or handovers - should think more maybe in different layers ?__c0
+__b__so one layer is having the seamless handover .__c0
+__qy^rt__it's clear if a technology doesn't provide that quality of service you can't do magic and have it .__c0
+__s^ar|s^df__there are certain constraints on that .__c0
+__s^bk__it's true .__c0
+__s__that's still in mind .__c0
+__%-__but for - with the cases there there it is possible .__c0
+__b__so that should be made possible then ?__c0
+__s^bk__uhhuh .__c1
+__s__yeah .__c1
+__%--__yeah .__c1
+__s^aa|s__so ==__c0
+__fg|s__it can be done .__c1
+__fh__it is just huh uh trying to - to - to - to poi- - to pinpoint the - the possible problems .__c1
+__qy^rt__yeah .__c0
+__qrr.%--__there are still enough problems i- - in doing it .__c0
+__s^fe__yeah .__c0
+__s^no__yep .__c0
+__s^bk__but it might be the wrong thing to promise uh ten megabits to everywhere .__c0
+__s.%-__there you are .__c0
+__s^aap__but saying okay if it's a - if the technology is okay you can do it .__c0
+__fh__yeah .__c1
+__s^aa|s^e__in fact if you take the slower technology of the ones you are planning to to support you can offer this warran- - this - uh this throughput as uh the minimum warranty you - you can get .__c1
+__b__yep .__c0
+__s__yep .__c0
+__b__yeah .__c0
+__qy^d^g^rt__so | if everybody is - is asking for less than this minimum amount no problem at all .__c1
+__s^aa^rt__but in this case maybe not too much effort should be put on providing this quality of service .__c1
+__sj__because you just have a - usually a huge bandwidth compared on a - a - w- - with what the user is - is using .__c1
+__b__yeah .__c0
+__sj__yep .__c0
+__b__uhhuh .__c0
+__qy^d^g^rt__i mean if you have a ten megabits bandwidth and the user is asking two kilobits per second of course you can uh build uh certain reserve mechanisms to warranty the user these two kilobits per second bandwidth .__c1
+__b__but probably in - it isn't - it is not worth because you have so many uh available bandwidths that maybe uh it is not a problem .__c1
+__fh__oh please come in .__c3
+__fh|s:qy__hi .__c1
+__s:qw__hi .__c0
+__s^bk__huh ?__ca
+__s__oh !__ca
+__fg|%-__okay .__ca
+__s^cs__@@ ist fertig .__c0
+__s^bk__uh ==__c3
+__s.%-__okay .__c3
+__s__oh okay .__c1
+__fg__good luck .__c3
+__sj__the - the thing is that we are looking for a research topic on - on those uh four areas .__c2
+__b^rt__yeah .__c3
+__b__yeah .__c3
+__b__and the building blocks .__c3
+__b__yeah .__c3
+__s^aa__multicast not a topic .__c3
+__s^e__so ==__c2
+__qy^d^g^rt__so we ==__c2
+__s__routing ?__c3
+__b__so - so we went through uh uh to - through multicast .__c2
+__fh__so this architecture with m- ==__c2
+__fh|s__well at least no wireless environment or a mobile i. p environment comparable to uh u. m. t. s environments we really did not find any well difficulties there .__c2
+__b__on the blackboard that is .__c2
+__s__of course in real life there will b- - probably be some problems .__c2
+__b__have you - have you read about this - uh barwan project held at berkeley university ?__c1
+__s:qw__well what you - the pointer - the pointer you sent yesterday .__c3
+__s:qy__iceberg ?__c2
+__s__yeah .__c1
+__fh__yeah .__c3
+__b__i c- - i didn't find the time yeah to do so .__c3
+__fh__okay .__c1
+__fh|qw^rt^t^tc__but ==__c3
+__s^cs__uh ==__c3
+__qy^bu^d^rt__you mean the iceberg project ?__c2
+__qy.%--__barwan .__c1
+__qrr.%--__barwan of uh e. s ==__c2
+__qy^rt__barwan .__c1
+__qrr.%-__how's it start ?__c0
+__s__i know there's one that's of uh randy katz .__c2
+__s^bk__uh da- - it was another related project called daedalus .__c1
+__s^bk__yes .__c2
+__s__and uh | well it seems they what they were doing was some kind of uh things si- - somehow similar to this .__c1
+__fh__they worked together wi- - little bit with nokia ?__c2
+__s^cc__u- ==__c1
+__fh__uh | don't know .__c1
+__s__palo alto ?__c2
+__qy^d^g^rt__mountain view ?__c2
+__h|s^aa__i - i - i - i just uh take a - a quick uh look at the - at the thing .__c1
+__%-__because i - i was uh read about this uh a long time ago .__c1
+__s__and it - the - the latest report i - i found was in nineteen ninety eight .__c1
+__qy^bu^d^rt__and in this report well they - they pres- - they have uh some slides some uh papers some - well a lot of things .__c1
+__s^ar|s__huh .__c2
+__qy^bu^d^rt__and well the main thing - and the quick uh thing i - i was uh looking at was a - a video available in m. p.-thr- - in m. p. g m. peg format .__c1
+__s^aa.%__and uh ==__c1
+__s^bk|s^bu__well what this video was presenting was a kind of test of - of one guy with a portable computer moving across different networks .__c1
+__s^aa__so starting at the c. s department at berkeley .__c1
+__s^bk__and then going out the street .__c1
+__fh__switching to the - a campus wide network .__c1
+__sj__uh um | i think it's a metricom uh network .__c1
+__qw__an- - which is uh a test ==__c1
+__s__a ricochet here | right ?__c3
+__s^e__ricochet .__c1
+__b.x__yeah .__c1
+__fg__yeah .__c3
+__fh__yeah .__c3
+__qy.%--__that's right .__c1
+__sj^ba__yeah .__c3
+__qy^rt__and then finally switching to - i think it was city p. d or something like this .__c1
+__s^fa__okay ?__c1
+__s^ar__i - as lo- - uh as the - as the user is moving out of the - of the coverage area of this second network .__c1
+__s^ar__and well what they have built is a - a - kind of uh proxy structure .__c1
+__s^bk__so they are - they are putting most of the work of this adaptational layer on on the side of the proxies .__c1
+__s__so the client or the server is not changed .__c1
+__s^bk__it is the proxy the one that does the work .__c1
+__b__yeah .__c2
+__qw__okay ?__c1
+__s.%--__so you can even for example use ==__c1
+__b__it's the same ?__c1
+__b__uh we just discussed a lot about proxies .__c3
+__qy^bu^d__oh okay .__c1
+__s^aa__that's a fun @@ .__c3
+__qy^rt__i like them .__c2
+__s^na__so ==__c2
+__s^bk__okay .__c1
+__fh__i ==__c1
+__%--__it is just that - that - well maybe we can - we can take a look at oh maybe a more in-depth look at this project .__c1
+__s^rt__just to see if we are doing the same or if we are doing something similar .__c1
+__s^bk__it would be important for us to - to highlight the differences .__c1
+__s^co__yeah .__c2
+__s^bk__because if not well they can say oh you are doing the same thing .__c1
+__s.%-__this was done now .__c1
+__qy^d^rt__or maybe talk to them about s- - operations they thought of but didn't touch yet .__c2
+__s^nd__yeah | well we are close .__c1
+__qy^rt__uhhuh .__c3
+__s^bk__uh | maybe a few comments .__c3
+__s^bk^r__first of all um do you mind mi- - miguel to write the name of the project on the whiteboard ?__c3
+__s^cs.%--__yeah .__c1
+__b__no problem .__c1
+__s^bk__so that everybody ==__c3
+__s^cs^e__uh | i - i will send also the pointer which miguel sent to me to everybody so that everybody can take a look to this uh project .__c3
+__s__i was ==__c2
+__s^bk__and uh | i don't know what avail- - information is available .__c3
+__s^cc__because i didn't find the time currently to check it out .__c3
+__%-__it's a project of the u. c .__c4
+__%-__but first of ==__c3
+__qy^bu^d^rt__yeah .__c1
+__sj__oh yeah .__c4
+__s__u. c ber- - uh berkeley .__c1
+__qy^rt__yeah .__c3
+__qrr.%--__wh- - when did you go through this ?__c2
+__h|s__yeah .__c1
+__s__i'll - i - you - uh | i seen uh uh reports from nineteen ninety- - uh ninety six ninety seven and ninety eight .__c1
+__s^bc__because yesterday i was uh well coincidentally i b- - bumped into this project here .__c2
+__s^fe__maybe the project ==__c1
+__sj^ba__n- - uh ==__c1
+__b__it's funny .__c2
+__s^am__uh sorry ?__c3
+__fg|s.%--__uh do ==__c3
+__s__yeah yesterday i was just surfing a little bit .__c2
+__s^2__uhhuh .__c3
+__s^aa__uh .__c3
+__s^bk__and then from nokia i came to this - that project .__c2
+__s^bk__uh .__c3
+__fh|s^co__okay .__c3
+__b__i see .__c3
+__fh__so ==__c2
+__s.%-__yeah .__c3
+__fg|s.%-__nokia research .__c2
+__s^aa__i think that - that the leader was uh professor katz .__c1
+__s^bk__and then ==__c2
+__s^aa^r__@@ okay .__c3
+__fh|s.%--__that's right .__c2
+__b__and he's also board in nokia research .__c2
+__fh__okay .__c1
+__fh__so ==__c2
+__s__uhhuh .__c3
+__fh|s__then the second thing is that uh daimler-chrysler research here in palo alto as well as in germany ulm is doing in principle the same with a car .__c3
+__qw^rt__uhhuh .__c1
+__s__they have a specific antenna for uh g. s. m oh g. p. s and - and fu- - for future extended g.  - uh g. s. m networks and wireless lan and and other thi- - and other network technology .__c3
+__s^bk__in the roof of the car they have a s- - lot of servers .__c3
+__s^bk__in the trunk of the car then they collect data how it is - with handoff and all these kind of things .__c3
+__fh|s.%--__and they are driving around the different areas .__c3
+__s__and the same car exists here in palo alto uh based on wireless lan g. s. m and 2x ricochet networks .__c3
+__s__uhhuh .__c1
+__fh|s__they collect the dat- - collect - collecting a lot of data concerning the seamless handoffs and whether it works very well with speed .__c3
+__s__and um ==__c3
+__fh__uh thomas is going to build mobile i. p stuff in their servers .__c3
+__s^tc__uh ==__c3
+__b__because they want to ==__c3
+__b__so i think there is a lot of activities in the area .__c3
+__sj__uh ==__c3
+__s__and my third uh comment is uh if we are going something in that direction that is quite different from this thing here .__c3
+__%--__but | anyway maybe as a core technology with a real product in mind .__c3
+__qy^rt__i see some difficulty because nobody currently has here certain kind uh of u. m. t. s know how .__c3
+__qrr__uhhuh .__c1
+__sj__and you need it definitely .__c3
+__s.%-__because then - it j- - must be your uh bible i would like to say that you are very familiar with u. m. t. s if you want to go in - in that way .__c3
+__%-__and as far as i know the u. m. t. s standardization is not finished yet .__c3
+__qy^bu^d^j^rt__ninety percent maybe or eighty percent .__c3
+__s^aa__i kno- - i'm not sure .__c3
+__s__but uh ==__c3
+__s^e__yeah .__c1
+__b__b- - le- - let me - let me ask you a question about uh u. m. t. s or - or third or possible fourth- - generation communic- - wireless communication systems .__c1
+__fh|s__that ==__c3
+__s__yeah .__c3
+__b__uh | from the point of view of the user uh is there uh something more that - nnn that - than more speed ?__c1
+__s__is there any other advantage from the point of view of the user or of - of the terminals ?__c1
+__s__users of - of u. m. t. s ?__c3
+__sj__yeah .__c1
+__s^e__you can request certain kind of q. s .__c3
+__sj__you can even request it in g. p. s .__c3
+__s^am__but it's not end to end quality of service .__c3
+__s__uhhuh huh .__c1
+__b__it is only um what the gateways get .__c3
+__fh|s__okay .__c1
+__qy^d^g^rt__yeah .__c1
+__s__and within the core network there are certain kind of tunnels set up in the core network itself of the access provider .__c3
+__s^aa__not the internet backbone core .__c3
+__s__and you use certain kind of tunnel mechanism to combine in principle the base station cluster control .__c3
+__b__but this is uh is controlled by a certain kind of node .__c3
+__fh|s__uhhuh huh .__c1
+__s__and you have the gateway to the p. d. n or the public data network .__c3
+__s^bk__and between both there's a certain kind of tunnel set up .__c3
+__s.%-__but in fact ==__c1
+__b__but in - fact now at the g. s. m level what you have is that every voice channel you use provides a - a p- - a pretty fine fixed uh data speed .__c1
+__fg|qy.%-__so we can say that every voice channel has an i- - an incr- - uh implied um quality of service .__c1
+__s__which is nnn ninety six hundred bits per second .__c1
+__s^aa__full duplex .__c1
+__qy^bu^rt__you mean now for g. s. m @@ ?__c3
+__s^aa__doesn't it ?__c1
+__s^bk__or ?==__c3
+__b__yeah .__c1
+__b__yeah .__c3
+__fg|s__yeah .__c3
+__b^rt__so ==__c1
+__s^bu__yeah what is - what means quality of service .__c3
+__h|s__a certain degree .__c3
+__qy^d^g^rt__right ?__c3
+__s^am__yeah .__c1
+__%-__uh ==__c3
+__s__sometimes we have some ==__c3
+__fh|%--__no but - | um but not only because of - of data speed .__c1
+__%--__but also about delay .__c1
+__s^bk__you know .__c1
+__%-__because g. s. m networks were developed to y- - uh with a voice service in mind .__c1
+__s__uh | delay is also considered in these networks .__c1
+__fh__so ==__c1
+__fh__uh | in fact for every voice channel you have uh a pretty fine maximum uh delay and jitter and a - a - a specified um data speed .__c1
+__sj.%--__so you can scale up - scale up this uh - this um thing by using several channels .__c1
+__qy.%-__so in fact you have using just g. s. m technology you have more or less the same building blocks as you can get uh with the u. m. t. s .__c1
+__qy^2^d^rt__i mean that one thing is that the technology is a little bit different .__c1
+__s^aa__that uh the base station thing is different .__c1
+__s^ar__and maybe uh the - the internal routing uh inside the network is different .__c1
+__s__but from the point of view of the mobile things uh i'm not sure if - if ==__c1
+__b.%__it's packaged data oriented .__c3
+__b__it's not really circuit switched .__c3
+__s.%-__in u. m. t. s you have always g. p. s as a - a involvement in the core network .__c3
+__s^bk__you have in principle the path which still is available for - for the g. s. m network .__c3
+__s__also they use in principle the same - uh the same mechanism .__c3
+__s^bk__uhhuh .__c1
+__s^aa__but you also have a dat- - uh packet oriented communication that's on the g. p. s stuff .__c3
+__fg|s__and that's also related to u. m. t. s .__c3
+__s__yeah | but the - you know it is also being d- - uh developed this g.  uh p.  - d. p. r. s thing - g. p. r. s thing .__c1
+__b__so ==__c3
+__fg|sj__that is ==__c3
+__sj__which is uh pack- - uh packet data over g. s. m .__c1
+__s^am__so ==__c1
+__fh__i mean uh i don't see that a - a lot of difference .__c1
+__s^tc__we can expect a lot of differences f- - uh from the uh mobile terminal point of view uh when uh u. m. t. s be deployed .__c1
+__qy^d^rt^t__what i'm trying to say is that - is that well uh maybe uh it is not a big problem that any of us uh be uh um were um a u. m. t. s expert .__c1
+__s^na__because uh i - i don't see - it - i think that the u. m. t. s thing is more a technology issue than a research issue .__c1
+__qw__maybe i'm wrong .__c1
+__h|s__just es- ==__c1
+__qy^bu^d__um ==__c1
+__s^aa|s__no | i think there's a lot .__c3
+__s^bk__explaining my - m- ==__c1
+__s^aa^r__yeah .__c3
+__s^bk__i think there's a lot of research .__c3
+__s^e__but the question is is this uh a research wh- - in which direction we are going ?__c3
+__s^bk__i mean - to be done here .__c1
+__s__and because ==__c3
+__s__for inf- ==__c3
+__s^na__not - not at the ==__c1
+__qy^rt__of course you know i'm - i - i agree with you that there are a lot o- - of things to be developed .__c1
+__s^ng__but - but the point is that - uh this is probably not here .__c1
+__s^bk__because uh well you know the - the - the orientation of our group which is uh networks services and applications not uh wireless technology or the underlying wireless technology .__c1
+__s__you think more about hardware technology .__c4
+__s^bk__yeah .__c1
+__s^e__so there is a lot of hardware to develop but not ==__c4
+__s^bk__you know radio frequency technology .__c1
+__s^bk^r__wide band w- - uh c. d. m. a .__c1
+__b__these kind of things all have a lot of things to be - to be - uh researched .__c1
+__s__but uh i don't think w- - this is not something we are doing here .__c1
+__s^m__right .__c3
+__b__but bear in mind the picture is a - is a little bit different .__c3
+__s^bk__the picture i have in mind concerning u. m. t. s is first of all if you use u. m. t. s only for voice like you did it or are doing now for g. s. m it's not worth to have this kind of network .__c3
+__s__and currently in europe where it will be deployed first i believe it will be very hard in principle to get some money back if you have only for - using it for voice .__c3
+__s__voice .__c1
+__s^na.%-__yeah .__c1
+__b__because they paid a lot of money .__c3
+__s.%-__so ==__c3
+__s^aa__what is the point ?__c3
+__qw.%__the point is that you use the u. m. t. s to connect to the internet and have certain kind of services which are still not available up to now .__c3
+__b__but the problem is if you have the internet content and you have maybe your small uh um device of maybe only evolution based for - for these uh new technologies for - for certain mobile phones then you have certain kind of problems .__c3
+__fg|qy^bu^rt__uhhuh huh .__c1
+__qy^rt__you know ?__c3
+__s^na__because you cannot use these things .__c3
+__b__and wap is not an answer for - for these kind of things .__c3
+__s__you know ?__c3
+__qy^d^rt.%--__so ==__c3
+__s^bk__the - i believe there is a lot of research work .__c3
+__b__and also if you see the end to end scope of the internet from the mobile node up to the certain kind of server correspondent node or whatever you call this destination then you have certain kind of models for instance for the quality of service and all these kind of things .__c3
+__s.%-__and then is u. m. t. s only one link where you have certain kind of subnet layer technology .__c3
+__s^aa__and you have to match these things anyway .__c3
+__b__it's like a normal ethernet .__c3
+__b__uhhuh huh .__c1
+__fg__whatever you see it is only an additional subnet layer technology .__c3
+__s.%--__yeah .__c1
+__s__and you have all the things mapped to the - uh to - to the - to the - the internet stuff in principle to this technology .__c3
+__qy^d^g^rt__and furthermore you see that the trend is to put more i. p technology really really i. p technology and not certain kind of modifications and adaptations to their access network itself .__c3
+__s^aa__and ==__c3
+__s^bk__th- - there's a lot of potential as i believe for - for uh certain research work .__c3
+__s__but the question is first of all do we have the competence to do something like that ?__c3
+__s__first of all .__c3
+__qw__second we are not hardware builders in that sense to set up certain kind of end systems .__c3
+__s^bk__we can design them yeah from the protocol layering .__c3
+__qy^rt__and - and maybe have some simulations or whatever .__c3
+__s^df.%-__but isn't the final outcome really such a device ?__c3
+__s^aa__prototype linux based .__c3
+__s__and we go around here and we have maybe a g. p. s. base station sponsored by ericsson .__c3
+__qy^rt__since they are living not so far away .__c3
+__s^aa__and - and maybe wavelan connection here .__c3
+__s^aa__now a testbed .__c3
+__s__and then - then figure out that it works ?__c3
+__s^cs.%-__so that's my point .__c3
+__s^cc__well just to make the list a little bit longer .__c2
+__s.%-__yep .__c3
+__s__may- ==__c2
+__s__um | you could also think about uh session management .__c2
+__s__i do along with uh the network applications and services uh as you might know .__c2
+__fg__it's a - a ==__c2
+__fg__if you can do it in the end systems or at sp- - specific servers then i'm in favor of that .__c2
+__fg|s^cs__but se- - session management i mean uh the authentication if you go from one network to the other it's not solved .__c2
+__s^e__uh ==__c2
+__fh__nobody really wants a - a guest on your network .__c2
+__qy.%-__unless you get some money through some way - uh through some way .__c2
+__s^na__then there is also the session management in the sense that a lot of these things at the barwan project as you said go through proxies .__c2
+__s^co__there might be kind of handoffs at - uh at proxies .__c2
+__s^bk__like the zip uh - s- - zip proxy that we also discussed before a little bit .__c2
+__%-__that - that's als- - i think also in the line of uh session management .__c2
+__qy^rt__then there is this uh perfect thing uh the berkeley sockets .__c2
+__h__it's almost perfect .__c2
+__qh^cs:s__they s- - kind of skipped uh layer five uh session management or session layer i think .__c2
+__s^bk__that's um normally with - if you do a socket programming it's directly the prot- - application protocol on layer four uh t. c. p socket or layer five for u. d. p socket .__c2
+__s^bk__there might also be some research ==__c2
+__s__well .__c2
+__b__could you introduce such a session management ?__c2
+__s^df__or ==__c2
+__%--__norm- - what they do right now is they make it part of the application level protocol .__c2
+__b__that's what they do most often .__c2
+__s__like with session management for mobile the - uh applications such as ist- - instant messaging or uh talks and so on uh like zip it's just doing a - a reconnect .__c2
+__s__if they think that the network is different or different capabilities come into play they simply do a reconnect .__c2
+__s^bk__so it's part of the protocol .__c2
+__s^bk^r__that's all what i think about session management .__c2
+__s^e__like part of - in proxies or is it en- - embedded in application level protocols .__c2
+__qy^rt.%-__but it's really higher level .__c3
+__s^aa|s__right ?__c3
+__s^bk__it's no more related to a network .__c3
+__%-__i- - it's ==__c2
+__qy^rt__we are leaving the network area .__c3
+__s^no__that's dangerous .__c3
+__fh__so how do you want to focus on network services .__c2
+__s^cs__because if you go to the app- ==__c3
+__s^cs__if you ==__c3
+__s^bk|qy^bu^d__for me that's starting with middleware aspects .__c3
+__%-__you know ?__c3
+__s__well the- ==__c2
+__s^am__and ==__c3
+__s.%--__so network applications if you look at the name of the group one thing is that um the- - they used to call a - a n- - a network that was uh - if it was like distributed between two systems connected by a network .__c2
+__fh|s^co__if you look at network from the o. z layer then it's uh level two or something or maybe level three but everything below three .__c2
+__%-__so there are i think two - two different interpretations of uh network .__c2
+__b__no i believe network is if you see it really from - from the i. p protocol suite is then layer one in principle up t- - including layer four .__c3
+__s^cc__despite the fact that layer four is only residing normally in the end system and in the gateways .__c3
+__b__but are there network applications then ?__c2
+__b__yeah .__c3
+__qy^d^f^rt__so the - the name is network services and applications .__c2
+__fh__s- - so what could be an en- - example of a network application if you look at the o. z stick ?__c2
+__qy^d^rt__yeah | we have i think some .__c3
+__h__yeah .__c3
+__s^na__do you see this word application related to a network ?__c3
+__s__or do you see this word independently ?__c3
+__fh|s__that was never discussed in detail .__c3
+__fh|s__network services and applications .__c3
+__s__so everything in the world .__c3
+__qy^d^g^rt__okay .__c2
+__s^e__or is the application related to the network ?__c3
+__s__for my understanding and as far as we discussed so - such a long time uh these applications should .__c3
+__s__for instance ecommerce .__c3
+__fh|s__okay okay | well they will - i didn't want to get a discussion now .__c2
+__fh|s__and it's really really ==__c3
+__s__yeah ==__c3
+__s__you know ?__c3
+__s^2__that ==__c3
+__%-__yeah .__c3
+__s^aa__no no | uh that is a typical application i think .__c3
+__s^m__which is in principle also a little bit related to uh to the network .__c3
+__b__but not any application .__c3
+__fh__and we also have the aspects for security .__c3
+__qy^bu^d^rt__miguel you mentioned here authentication and - and triple a. .__c3
+__s^aa|s__but we do not have any expert anymore .__c3
+__b.%__because hannes was an expert for that .__c3
+__s__so the problem for me it still exists that we have in principle here basic building blocks in the proposal from the networking side .__c3
+__s__we could have a certain kind of application .__c3
+__b__and there's a lot of activities in the outside world .__c3
+__s__and i believe there's a lot of contacts .__c3
+__fh|s__or there could be a lot of contacts uh with - with these people .__c3
+__s^df^rt__especially at uh georgia tech .__c3
+__s^df^e__i know on - next week on tuesday .__c3
+__fh|s__tuesday | right .__c3
+__fh|s^cs__we will go to u. c. b .__c3
+__s^aa__there are three guys .__c3
+__b__then morgan mentioned one .__c3
+__sj__i do not know exactly um uh what he is doing .__c3
+__fh|s^cs__but he's also interesting in some kind of collaboration .__c3
+__qy__he's also a professor in the u. c. b .__c3
+__b.%__and uh many universities .__c3
+__h|s^bk__maybe claudia mentioned duisburg .__c3
+__%-__and uh - in principle most of the university have some activities in that area .__c3
+__s__we will not take care about these one .__c3
+__qy^d^g^rt__but we can use them as um for field ex- - uh field trial access .__c3
+__s^aa__and - and - and maybe some support .__c3
+__s^aa^r__and - and whatever kind of thing .__c3
+__s__and we focus really on the networking stuff .__c3
+__s^cs__and going in more detail in this area .__c3
+__fh__and the alternative is maybe what uh ==__c3
+__fh__currently we have only uh this uh proposal from wilbert to go more in the smaller scope .__c3
+__s__figure out some potential from maybe this uh wavelan u. m. t. s stuff .__c3
+__s^bk__and - and starting from that .__c3
+__s__or are there other suggestions ?__c3
+__s^cs__i think we uh have already so much work put into this proposal .__c4
+__s^aa__why to switch now ?__c4
+__s__so i don't see the reason for that .__c4
+__s^aa__maybe the application we suggested is not the best one .__c4
+__fh|s__so we have to think about an application which - which is um - um for mobile users more relevant .__c4
+__s^e__i don't know .__c4
+__b__maybe video games .__c4
+__fh|s__if you are traveling ==__c4
+__b__uh it's boring to travel .__c4
+__fh|s__and then you decide to play a g- - video game with somebody else who's traveling .__c4
+__qy^d^df^f^rt__yeah | you know it's still mentioned in the proposal .__c3
+__s^aa__so ==__c4
+__s__and ==__c3
+__fh|sj__th- - um ==__c3
+__sj__i - i'm sure okay that it is the wrong place to get the foundation why we are use this kind of application .__c3
+__b__but uh - and - in - in the end of the text - in the end of the pr- - text of the proposal .__c3
+__fh|sj__but it is mentioned that it is only an example .__c3
+__s__and that we use this application in principle while it is then very very easy to get a certain kind of access to these kind of things .__c3
+__s.%--__when you have a video game server and - and you want to have mobile access you must at least have one in your consortium or as a partner whatever who provides this service .__c3
+__s:qw__and then we - we are playing videos in principle if you have a field trial .__c3
+__b__and that is i think much more harder than to have a certain kind of certain kind of access to the university .__c3
+__sj__and uh to this server which is run on the campus of the university .__c3
+__b__okay | that's right .__c4
+__qy^d^f^g^rt__and that is the point .__c3
+__s__you can have this f- - to figure out all the things .__c3
+__qh__and the - the um ==__c3
+__s__and the - the um ==__c3
+__b__um now how to say the requirements of this application using this classroom scenario .__c3
+__sj__but nevertheless it's not the best for 3x .__c3
+__s__and - and - and - and uh ==__c3
+__s__s- - networking stuff .__c3
+__fh|s^cs__you are right .__c3
+__b__but it - does anybody see certain kind of potential here to go on ?__c3
+__b__and to start the work maybe in this little bit smaller oh uh scope based on these building blocks .__c3
+__s__because multicast you still mentio- - uh you mentioned that there is no potential .__c3
+__%__i think it's described here that the potential if you use it for the mapping to the next generation networks in the wireless access area they are still some potential to map multicast .__c3
+__s:qw__because they do not use it .__c3
+__s__and to figure out whether they're useful inse- - instead of using certain kind of tunneling mechanism and to set up these tunnels ==__c3
+__s^aa__and have the mapping between a p. s. d. n uh telephone number or whatever kind of number they are using to i. p addresses and then there's the tunnel i. d.'s ==__c3
+__s__and - and all this kind of things i think is very beneficial as well for - for telecommunication providers .__c3
+__%--__as well as for i. s. p.'s .__c3
+__fh|s__i - i think the potential is still there .__c3
+__fh|s__you - you neglected that .__c3
+__s^e__but i don't think that you are right in that sense .__c3
+__fh__well think it works .__c2
+__b__but uh ==__c2
+__fh__yes | the mapping of course between multicasting and the u. m. t. s or - or whatever .__c2
+__fh__in next generation ?__c3
+__s^tc__yeah .__c3
+__s^bk__that's - or c. d. m. a or whatever - that's uh yeah probably a thing that has to be find out .__c2
+__s__yeah .__c3
+__s__i don't know what statuses .__c2
+__s^aa__maybe they already did it par- - as part of u. m. t. s .__c2
+__s__i'm not sure .__c2
+__b__i don't have a clue .__c2
+__s^aa__i - i only know how it works on copper and like ethernet .__c2
+__s^e__and on p. s p. p. p over something .__c2
+__fg__and how it works like that .__c2
+__b__but on the wireless i'm not sure .__c2
+__s__now what do you see about the ?==__c3
+__s^no__um um ==__c3
+__s^cs__k. p. n interests .__c3
+__s__because i believe s- - if the argument changes as follows that you are here and that you are very familiar with uh the multicast stuff and k. p. n is very interesting in u. m. t. s stuff and this is one potential target network environment we are focusing on but only for the uh i. p. layer technology then why do - the mapping of multica- - also potential mapping of multicast i think must be of major interest for them .__c3
+__b__right ?__c3
+__s^no__one question .__c1
+__s__yes | but if - if it's available ==__c2
+__b__that means ==__c2
+__s__so - so if uh if it's already part of the u. m. t. s standardization then uh it's immediately finished .__c2
+__s^no__like okay you can tell k. p. n well go to ericsson or nokia and buy it .__c2
+__s__and if it's not in there yet well it could be a suggestion .__c2
+__qy^d^g^rt__and then the hardware people will make it part u- - like the etsi or whatever - where u.  - wherever u. m. t. s is standardized they will d- - well go for it .__c2
+__s__uhhuh .__c3
+__b__of course yeah this - this group could do that too .__c2
+__s__could be .__c2
+__fg__but ==__c2
+__s:qw__i have a - an important doubt about the i. p availability over u. m. t. s .__c1
+__qy^d^g^rt__i mean you know that the carriers and some manufacturers have done an important effort in developing this web thing .__c1
+__%-__and uh | i'm not sure what they plan to do with next generation .__c1
+__s__i mean are they maintaining are they holding the same web technology ?__c1
+__qy^d^g^rt__or are ju- - just they - discarding this technology ?__c1
+__s__and forgetting about the thing .__c1
+__s^aa|sj__i - i don't know what will happen .__c1
+__b__uh i - i don't have a clue .__c1
+__s.%--__probably if after searching a little bit on the - on the net i can get the answer .__c1
+__s^bsc^cs__but initially this is something to - to - to have in mind .__c1
+__s^aa__i mean because maybe this u. m. t. s thing will appear on the market without i. p as a native protocol .__c1
+__s__and if this is the case well thus seamless integration could be we- - strongly affected .__c1
+__s__at least uh if you - we want to use u. m. t. s .__c1
+__s__i'm - i'm - just uh throwing the question .__c1
+__s^aa__uh i mean looking for an answer .__c1
+__s.%-__because i don't know if uh some of you have a clue about this .__c1
+__fh__i don't know what - what carriers are planning to do about this .__c1
+__s^na__i'm not really sure .__c2
+__%-__but i thought i - i had the impression that we can throw away our nokia stuff when our web gateways when we g- - even go to g. p. r. s .__c2
+__s__so ==__c2
+__qy^d^g^rt__let alone u. m. t. s .__c2
+__s__now wap is ja not only related now to available bandwidth .__c3
+__fh|s__that's the impression i get .__c2
+__sj__that's not the only thing .__c3
+__qy^d^g^rt__it's only the adaptation towards the capabilities of the end device .__c3
+__s__right ?__c3
+__b__yeah | definitely .__c2
+__fg|s^nd__so ==__c3
+__s.%--__uh - i never was a friend ==__c3
+__s.%--__but but still a le- - d- - it's a - it's a fundamental ==__c2
+__b__huh .__c3
+__b__yeah .__c3
+__s^cs__uh it's a - part of a - of design like the - the ==__c2
+__s^aa__the terminal has a wap stick .__c2
+__s^aa^r__and there's a box that has also a - a wap stick .__c2
+__s.%--__so yeah .__c3
+__s__and they do sometime - most cases they do share an i. p address .__c2
+__s^bk__but doesn't uh have to deal with i. p at all .__c2
+__s^bk__it's l- - just a thirty bit number .__c2
+__s^df__uhhuh .__c1
+__b__that a- - actually is an assigned number .__c2
+__s__but it's all only used for identification .__c2
+__sj__that's the only thing .__c2
+__s^df__it's stored in a wap cookie .__c2
+__b^rt__much like h. t. p .__c2
+__b__in a cookie and from the wap gateway ==__c2
+__fh|s^cs__then it will be h. t. p - real h. t. p - or something .__c2
+__s^aa__so it's - it's really a different uh type of connection .__c2
+__s^e__it looks a little bit like uh the - the well w. m. l looks a little bit like h. t. m. l .__c2
+__b__but that's all what's uh ==__c2
+__fh|s__it's not i. p at all .__c2
+__s__right .__c3
+__b__because there is a gateway you can access with almost the same microbrowser .__c2
+__s__the same i- - uh web servers .__c2
+__s.%-__if they provide the right content - uh spit out the right uh w. m. l language .__c2
+__s^bs__so it's - it's really a different network - technology - i think .__c2
+__s^aa__yeah .__c3
+__sj__it's transparent in principle what you can carry .__c3
+__s^aa__but ==__c3
+__s^aa__anyway you have the gateway .__c3
+__s^am__it must be uh the ca- - uh c- - uh t- - conversion of the media .__c3
+__fh__yeah .__c2
+__fh__but @@ ==__c2
+__s^cs.%--__@@ of the contents in principle .__c3
+__sj.%--__but i don't see that uh ==__c3
+__s__it's too late i believe .__c3
+__b__if wap was available in the beginning of g. s. m then i think it was there would be a good chance that it is well deployed .__c3
+__s__uhhuh .__c1
+__b__but now the first generation of web-browsers are in the ha- - and - and uh i would say handies .__c3
+__b__i- - i- ==__c2
+__b__so that's wrong - in the mobile phones .__c3
+__fh|s^rt__but the - the next generation of networks are still available .__c3
+__fh|s__and the ba- - uh the bandwidth constraints are no more applicable .__c3
+__fh|s.%--__well ==__c2
+__fh|s.%--__ri- - right now there is still a lot of wap actually .__c2
+__b__and ==__c3
+__b__so that the ==__c2
+__fh|s__uhhuh .__c1
+__sj__yeah | but - the hype .__c3
+__sj__but ==__c3
+__s^df__pffft ==__c3
+__sj__uh ==__c3
+__fh__well users - usage .__c2
+__s^no__i never saw a user using wap .__c3
+__fh__please raise your hand who is using wap .__c3
+__fg__my colleagues are .__c2
+__s__yeah ?__c3
+__s__yeah .__c2
+__s:qw__yeah | they are using wap .__c2
+__s:qy__yeah ?__c3
+__b__okay | one of six .__c3
+__s.%--:qy.%--__so ==__c3
+__s__i don't have a mobile phone .__c4
+__s__yeah .__c2
+__s__oh .__c3
+__fh|sj.%--__i- ==__c2
+__b.%__who is using mobile phones ?__c0
+__s^no__bu- - well you don't have a mobile phone in - in the u. s. a here .__c2
+__%-__no .__c1
+__sj__no .__c1
+__s__so that's maybe the reason .__c2
+__b__not me .__c1
+__s__and i'm not - i doubt that it's not available in germany .__c2
+__%-__it's - would be unbelievable to me .__c2
+__fg|s.%-__now do you - yeah do you see the chance for wap ?__c3
+__s^aa__i don't see it .__c3
+__s^aa__it i- - it is .__c2
+__b__in - in - in sweden it is also there .__c2
+__fh|s^rt__and in the netherlands it is also available .__c2
+__b__huh .__c1
+__%--__every provider provides ==__c2
+__fh|s__in spain it's available .__c1
+__s__but uh you know uh my main complaint has been all the time that it is difficult to me to believe that i can do interesting work with a 4 lines display .__c1
+__fh__uh maybe check the lottery result or something like this .__c1
+__fh__oh .__c2
+__s__yeah | but ==__c2
+__fh|s__oh !__c2
+__fh__bu- ==__c2
+__qy^rt^t^tc__i'm the first one to admit that's a h- - that it is a hype .__c2
+__s^aa__but ==__c1
+__s^df^rt__but - and - but i'm - i just wanted to say it is being used .__c2
+__s^co__but if it makes sense to me and to - especially to have wap in - in between no .__c2
+____i'm not a supporter of it .__c2
+____huh huh-huh .__c1
+____so they have this optimized protocol to - to transmit a few ascii bytes that can rescr- - refresh the screen with a different animation every well second a few times .__c2
+____yeah .__c3
+____so that's - that's true .__c2
+__z__i immediately agree .__c2
+__z__but the thing was y- - you just asked well will - will it be the same will there be wap for u. m. t. s and so on q. p. r. s .__c2
+__z__well ==__c1

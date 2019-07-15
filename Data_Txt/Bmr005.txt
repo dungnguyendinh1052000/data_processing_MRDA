@@ -1,0 +1,1501 @@
+__z__okay .__c9
+__z__um w- - would you mind telling me again please ?__c9
+__z__oh he's going to write it .__c9
+__z__okay .__c9
+__z__now if the batteries were to go out during the meeting there's really ==__c9
+__z__what do we do ?__c9
+__z__do we have batteries back there ?__c9
+__z__okay .__c9
+__z__okay .__c9
+__z__and you'll be in your office during this ?__c9
+__z__oh thank you very much .__c9
+__z__thanks a lot .__c9
+__z__what's - so what do we do with this ?__c0
+__z__appreciate it .__c9
+__z__could you close the door for me please ?__c9
+__z__anything ?__c0
+__z__just put your name on it i think .__c2
+__z__oh okay .__c0
+__z__okay thanks .__c9
+____uhhuh .__c2
+__z__so ==__c9
+____thanks very much for coming .__c9
+__z__okay .__c9
+__z__so um ==__c9
+____let's see .__c9
+____so um | as you know the meeting today is to um benefit from your involvement in the data .__c9
+____all the things that - that you've been exposed to in these many months .__c9
+__z__and um | i just - i just put down some ideas .__c9
+__z__you've seen some of this in the email that i sent out earlier .__c9
+__z__and um ==__c9
+____huh .__c3
+____none of these - these are not obligatory toca- - topics .__c9
+____but they're just things that i thought might be useful to discuss .__c9
+____just as a way of organizing the discussion .__c9
+__s^j__but if there are other topics you'd like to discuss that'd be great too .__c9
+__b__all right .__c9
+__s.%--__so um ==__c9
+__b__it struck me that um you know we could start out with some sort of general thing about um things that you found easier or more difficult with respect to transcribing or checking or using the interface or uh dealing with the time bins or any aspect of that type .__c9
+__h|s^na__and then maybe talk about specifics - specifics of the data .__c9
+__s__and then maybe talk about um aspects of the conventions .__c9
+__fh|s__and then the technical set up regarding the um auditory image and the interface .__c9
+__s^bk|s.%-__okay .__c9
+__s^e__so ==__c9
+__s.%--__maybe we could just um start with issues of the - the tar- - ti- - up there at the top of ==__c9
+__s^t__what - what did you find easiest or more s- - most difficult about transcribing the data ?__c9
+__fh|s__okay .__c6
+__fh|s__yeah .__c9
+__s__one thing that i remember being really difficult at the beginning and it got easier as we went along was um acronyms and technical terms .__c6
+__fh|s^cs__um | because there are so many .__c6
+__s^co__uhhuh .__c0
+__fh|s__and it's a field that i'm not really l- - very ==__c6
+__s:s__i don't know .__c6
+__s:s__i don't know very much about this kind of stuff .__c6
+__s__computers and speech recognition .__c6
+__s^e__i've never taken classes on it or anything .__c6
+__s^aa__so i found that really hard .__c6
+__qy^d^g^rt__and i remember transcribing and having a bunch of ==__c6
+__s^aa__you know every five words there'd be something i'd put in parentheses because i didn't know what it was .__c6
+__qy^bu^d^rt__so ==__c6
+__s__parentheses meaning uncertainty .__c9
+__%--__yeah .__c6
+__s^aa__yeah .__c6
+__fh|s^cs^t__uhhuh .__c3
+__fh|s__but it's definitely gotten easier because the same things keep getting repeated .__c6
+__s^t__uhhuh .__c9
+__fh|s__once you learn what it is and you can say okay i know what they meant by that .__c6
+__s^e.%--__or i know how to spell that now .__c6
+__s__or something like that .__c6
+__s__and the cast of characters that you put up on the web was helpful .__c6
+__s^bk__is ==__c9
+__fh__yeah .__c3
+__s^aa__also .__c6
+__fh__yeah .__c7
+__qy^d^rt__okay .__c9
+__h|s^nd__good .__c9
+__s^df^e__it's sort of like a foreign language | isn't it ?__c9
+__fh__it's - basically - you have these specialized terms for things that i didn't know n- - needed specialized terms .__c9
+__fh|qh^cs.%--__yeah .__c6
+__s__yeah .__c9
+__qh^cs__especially when describing like the set up in this room also and the different types of mikes .__c6
+__s^bk__yeah .__c9
+__qy^rt^t__i don't know .__c6
+__s^aa|s^co__uhhuh .__c9
+__s^bk__and it's hard to tell when people are talking relatively quickly .__c6
+__fh|s__they just glide over some of the letters .__c6
+__fh|s^e__they don't fully pronounce them .__c6
+__s.%--__so you can't really tell even if you listen to it ten times what it is .__c6
+__s__uhhuh .__c9
+__s__huh .__c2
+__s^bd__uhhuh .__c3
+__s^e__yeah .__c7
+__s^rt:s__i usually put most of the acronyms in parentheses .__c7
+__s__because i think it's sort of safe .__c7
+__s__because people can - people can say their acronyms really fast .__c7
+__s^e__uhhuh .__c6
+__fh|s__and i figure that even if i think i know exactly what letters they said it's probably best to put them in parentheses .__c7
+__fh|s__because i probably don't .__c7
+__fh|s:qy__that's not a bad strategy .__c9
+__fh|s:s__i mean i- - it's - it's true that i - i always check the parentheses at the last stage .__c9
+__qh__and those are pretty easy to clear in terms of when they're in context .__c9
+__fh|s:s__uhhuh .__c7
+__fh|s^co^rt__right .__c7
+__fg|s__huh .__c2
+__s^e__not a bad strategy .__c9
+__s:s__uhhuh .__c3
+__s^co:s__yeah .__c9
+__s__some of them just occurred over and over the - again .__c3
+__s__so like - p d a like that got - got easy .__c3
+__s__yes .__c9
+__qy^rt__uhhuh .__c9
+__qrr^rt__there - there was a - a bunch of them that uh ==__c3
+__qrr__i suspect in context ==__c9
+__fg|s^df__they just kept getting repeated often and often .__c3
+__fh|s__you know over and over .__c3
+__b__so ==__c3
+__fh|s^cs.x__uhhuh .__c6
+__b__yeah .__c7
+__s^e:qy__just got better .__c3
+__s:qy__and also when you have the - the juxtaposition of p d a and p z m then you know you - in context you can tell which one it's - is probably likely to be the one that you had .__c9
+__sj^df.%--:s__but ==__c3
+__s^2__uhhuh .__c3
+__b__yeah .__c6
+__fh|s__even though i still don't know what they are .__c6
+__s^am__i mean i assume they're microphones of some sort .__c6
+__s^df__but that's all .__c6
+__b.%__well these here are the p z m's .__c9
+__s^e__that right there .__c9
+__b__oh .__c6
+__s.%-__oh .__c7
+__s^bk__is anybody wearing one of those awful quote crown microphones that people used to be ?==__c0
+__fh|s__no .__c3
+__fg|s__uh you've heard the crown of pain .__c9
+__s^cs__yeah .__c0
+__s__no he was telling us uh before the meeting that um that they're not in circulation right now .__c9
+__s.%-__that they're - they were unpopular .__c9
+__s__i liked them .__c9
+__qy^d^g^rt__huh .__c0
+__qrr.%--__and adam liked them .__c9
+__s__oh oh okay .__c0
+__s^bk__i thought the quality was good .__c9
+__s^e__huh .__c7
+__sj^ba__just curious .__c0
+__s^e__what ==__c9
+__fg|s^cs.x__yeah what did he say ?==__c9
+__s^df__he said some more things about that .__c9
+__fh__but i was n- - i was working on something else .__c9
+__s__about the microphone ?__c6
+__s^no.x__uhhuh .__c9
+__s^no__i can't remember .__c6
+__s__i mean he's e- ==__c6
+__fh__he - he said that they were designed for a specific sized head ?__c6
+__s^bk|s^nd__uh yeah .__c9
+__s^df__yeah that's right .__c9
+__b__right ?__c6
+__fh__yeah .__c7
+__s__and so if - if your head happened to be that size then you were fine .__c6
+__%-__that's right .__c9
+__s^fe__oh .__c0
+__s^bu__and if it w- - was bigger then it was like torture .__c6
+__s^bk__oh .__c0
+__sj__right .__c3
+__s^rt:s__yeah .__c9
+__%__o- - or - i don't know .__c6
+__b__it's ==__c9
+__s.x__i don't know .__c6
+__s__i liked them .__c9
+__b__and there's the - actually there's the picture of the - of the crown adjustment on the wall right there .__c9
+__s.%--__huh .__c7
+__s:s__so it sort of hooks over your ears from the back .__c9
+__b__right .__c3
+__s.%-__oh yeah .__c6
+__s^2__oh okay .__c0
+__s^aa__yeah good c- ==__c9
+__s^arp__oh it doesn't look so bad .__c6
+__s__but i guess it depends really .__c6
+__qy.%-__yeah .__c9
+__s^fa__okay .__c9
+__fh|s.x__so now what about accents ?__c9
+__qw^rt.x:s__do you have uh - did you find any p- ?==__c9
+__fg|s^j.%-__they're tough sometimes .__c0
+__fg__uhhuh .__c9
+__s:s__yeah .__c7
+__%__sometimes the german accents can get a little bit daunting .__c0
+__fg|s:s__i mean ==__c0
+__sj^ba__um ==__c0
+__s^ng^rt__i forget who it was that i was transcribing .__c0
+__s^e__but it was tough to figure out what e- - e- - he was saying uh at any given point in time .__c0
+__%--__and i would - i would just listen to it over and over and over again going oh my god my head's going to explode .__c0
+__s.x__like not really understanding a- ==__c0
+__qy^bu^d^rt.x__yeah .__c7
+__s^aa|s^df.x:s__you know ?__c0
+__b__and so ==__c0
+__s.%-__i was getting a little frustrated .__c0
+__s^df__because i would put a lot of things into parentheses .__c0
+__s^aa__and then go back over it .__c0
+__qy^g^rt__and go back over it again .__c0
+__sj^ba^rt__and still ==__c0
+__s^aa__you know ?__c0
+__sj^ba__i - i like to try to clear as much up as i possibly can .__c0
+__b__and i - i just felt like you know with the german accents just for me personally those were probably the toughest to get around .__c0
+__s^df__uhhuh .__c9
+__b__um | they weren't impossible .__c0
+__s^cs__but just - like they too- - the m- - they took the most time too .__c0
+__s^df^rt__i mean i would take maybe twice as long on a - a g- - given channel w- - with a speaker who has a german accent than somebody who's you know a native english speaker .__c0
+__b__uhhuh .__c7
+__s^am__huh huh .__c6
+__s^aa.%-__or even asian .__c0
+__sj^ba__like uh speaks an en- - asian language .__c0
+__qy.%-__i found that easier .__c0
+__b.%__uh ==__c0
+__s^aa|s.%-__you know .__c0
+__s__uh somebody who speaks like chinese or something .__c0
+__s__what's ?==__c9
+__s__you've studied some languages .__c9
+__s^aa__uhhuh .__c3
+__fh__which - which ones do you - are you studying ?__c9
+__s^arp.%-__it's more of a romance direction ?__c9
+__s^co__or ?==__c9
+__%-__um | yeah .__c0
+__s.%-__well i studied - i mean i studied old english for a while .__c0
+__%-__uhhuh .__c9
+__qy^bu^rt__um ==__c0
+__s^aap^rt.%--__and then i've worked with larry hyman on like some of the bantu languages .__c0
+__s__um ==__c0
+__s^rt__uhhuh .__c9
+__sj__and you know | i'm also working with ian maddieson .__c0
+__s^ng__and he's been doing work on the uh - like also some african languages .__c0
+__s^bk__so i've like learned a little bit .__c0
+__s^j__uhhuh .__c9
+__s__so it's not really - you're not really exposed to german very much .__c9
+__s^df.x__no .__c0
+__s^2^rt__i mean i sing in german .__c0
+__fh|s.%--__uh | interesting .__c9
+__s^na__interesting .__c9
+__s__but ==__c0
+__s^r__i mean i can - i can pronounce it .__c0
+__s:s__huh .__c9
+__s^aa__but i don't know any .__c0
+__s^e__okay .__c9
+__s^aa__that's interesting .__c6
+__s^aa|s^df__huh huh .__c3
+__s.%-__uhhuh .__c3
+__qy^rt.%--__i can do - i can pronounce a lot of languages and not actually speak them .__c0
+__s^aa__yeah .__c6
+__s^aa.%__because of singing .__c0
+__qrr__yeah .__c6
+__s^aa__huh .__c2
+__s^ar|%-__huh .__c7
+__s^ar__for me i found the spanish speakers to be the hardest .__c6
+__s.%-__and the german speakers i found a little bit easier .__c6
+__s^df__yeah .__c3
+__s^nd__and i thought maybe that was because i had - i took german for a semester and i've had exposure to german .__c6
+__%-__oh .__c0
+__s.%-__um because i had a lot of friends who were really into germany and german language .__c6
+__sj^ba__and ==__c6
+__s^t__but ==__c6
+__s^bd__and i found that i could ==__c6
+__s.%--__if they were pronouncing something in a certain way i could say oh well that's just the german way of pronouncing this .__c6
+__s:s__and then i figured out what they were saying .__c6
+__fh|s^e:s__uhhuh .__c0
+__s:s__um | but with the spanish speakers it was ==__c6
+__s:s__i've never taken spanish .__c6
+__s^cc:s__and even though i've taken french and i speak french fairly well um i found the spanish to be much harder .__c6
+__s:s__and maybe also because the level of fluency for the spanish speakers was a little bit less than the level of fluency of the german speakers that are here .__c6
+__fg__oh .__c0
+__s^df__if you're talking about who i think you're talking about .__c7
+__s^bs^cs__i think .__c6
+__s^df__are you talking about ?==__c7
+__s^na__um ==__c7
+__s^arp__there was a couple of different spanish speakers .__c6
+__s^df__can we give names ?__c3
+__s^e__o- - can ==__c7
+__sj__yeah .__c7
+__s^df__we - w- - we probably shouldn't | right ?__c3
+__fg|s.%-__is that ?==__c7
+__%-__i- - it's a good question .__c9
+__s.x__um ==__c9
+__s^cs__and i can't really answer that .__c9
+__b__okay .__c7
+__fg|s__well there's one in particular who i find the hardest to transcribe of all .__c7
+__fh__and it's - d- - she's spanish .__c7
+__s.%-__oh .__c9
+__fg|sj.x__so ==__c7
+__qy^d^g__oh yeah .__c3
+__s^aa__okay .__c3
+__fg|s^cs.%-__and um ==__c7
+__fg|s__and i've taken lots ==__c7
+__s^e__i'm fluent in spanish .__c7
+__b__and so ==__c7
+__s^bu__um when i - when i correct it i can t- - i can tay- - tell that the person who um transcribed it before me probably didn't speak spanish .__c7
+__s^aa__because i can catch a lot of things .__c7
+__s^tc__like - like no that's not what she said .__c7
+__s^bk__i can tell she's pronouncing - pronouncing it the way that if you read it from a - you know a spanish speaker's mind that you would you know pronounce it the way that you would pronounce it in spanish .__c7
+__s^ba^df__but the same time uh i can't get most of it .__c7
+__%-__because i ==__c7
+__fh|s^co^tc__huh that's really interesting .__c6
+__s__oh that's fascinating .__c9
+__s^e__huh .__c0
+__b__i find it one of - one of the hardest ones to transcribe .__c7
+__s.%-__well what you can see is that it's - it's her lack of - of english fluency that's being ==__c9
+__s^no.x:s__yeah .__c7
+__s^no.x:s__oh okay .__c0
+__s^co:s__i think so .__c6
+__s^bk__yeah .__c6
+__fh|s__yeah | that's - that's really interesting .__c9
+__s^bk__i do find that the german tends to be easier for me than s- - than the others .__c9
+__s__uhhuh .__c3
+__s^no__uhhuh .__c3
+__sj^ba__because of my c- - exposure and interest in german .__c9
+__s.%-__uhhuh .__c0
+__s.x__yeah .__c6
+__s.x__but um ==__c9
+__s^bk__right .__c7
+__b__maybe i haven't transcribed this spanish woman .__c0
+__s__i don't know if i have .__c0
+__fg__i suspect you haven't .__c9
+__s__because this was uh earlier on that we had a lot of ==__c9
+__s^aa__uhhuh .__c6
+__b__actually she - she was in the middle phase i would say .__c9
+__s^aa__we had another spanish speaker who was earlier who was also difficult .__c9
+__s.%__huh .__c7
+__fg|s__uhhuh .__c6
+__b__yeah .__c6
+__s^bk__uhhuh .__c7
+__b__yeah | he was hard .__c6
+__fg|s^tc__yeah .__c3
+__s^df__but that's really interesting .__c9
+__b__he got easier though .__c3
+__b__because he started - like he would say certain words over and over .__c3
+__b.%__yeah .__c6
+__fg__and ==__c3
+__s^j__and you got to know his pronunciation of them .__c6
+__fg__yeah .__c3
+__s^tc__so when he said sign yah and it sounds like sign he was saying signal .__c3
+__s^df__i remember | yeah .__c6
+__fh|s^rt__yes yes yes yes .__c9
+__s^df__uhhuh .__c9
+__fh|s__yeah | i remember that .__c6
+__s__ex- ==__c9
+__fh|s__and so i would transcribe it as signal .__c3
+__s^no__exactly .__c9
+__s^2^rt__huh .__c0
+__b__oh wow !__c7
+__s__and - and m- - uh the way he said mixed was really strange too .__c6
+__fh__uh ==__c2
+__fg__miss ed .__c9
+__h|s__meexe meese mees uh or something .__c3
+__s^df^rt__miss ed or somethi- ==__c6
+__s^cs__miss- ==__c7
+__s^df.x__yeah .__c6
+__b__uhhuh .__c9
+__fg|s.x__huh .__c7
+__s.%-__right .__c3
+__b__yeah .__c6
+__s__which was - you know you could predict it .__c9
+__b__he ==__c6
+__b__i mean if you knew - look- - looked back at it .__c9
+__b__uhhuh .__c6
+__b__that's kind of cool .__c0
+__fg|s^bu__especially because also in the beginning meetings i mean he'd say something and no one in the meeting would understand .__c6
+__%-__they ==__c9
+__qy^d^g^rt__and then everyone would say what was that again .__c6
+__s^bs__oh uh ==__c3
+__s__and then they'd pronounce it in english .__c6
+__s__yeah .__c3
+__s^bk__and so i could figure out what it was .__c6
+__s^e__yeah .__c3
+__s^bk__that way .__c6
+__b__yeah .__c9
+__h|s__interesting .__c9
+__qw__yeah .__c6
+__s^ar|qw__okay .__c9
+__qw^m__yeah | i mean he was never like ==__c3
+__h|s__it was never up to like a native speaker .__c3
+__s^fe__but like that - it got a little easier .__c3
+__s^e__um ==__c3
+__sj^ba__like his english fluency got better ?__c6
+__s^bu__i remember in the beginning you had - and you were just sort of like - you were beating your head against the wall .__c3
+__s^aa^m__oh i went crazy .__c6
+__s^bc__but i - it go- - but it got better it got better .__c3
+__s^bsc__i - i would skip doing that portion for as long as i could .__c6
+__s^aa__yeah i know yeah i remember .__c3
+__s^aa__because i- - i just couldn't deal with it .__c6
+__qy^rt.%--__yeah .__c3
+__qw^rt__and ==__c6
+__h|s^rt__yeah | i had the same experience .__c9
+__h|s^cc__yeah .__c6
+__%-__sometimes ==__c9
+__s^ar|qy^bu__and actually ==__c9
+__s^bk__sometimes when people lack a certain level of fluency you can ask them themselves what did you say there .__c9
+__s^bk__and they can't tell you .__c9
+__s^aa__and they won't know .__c6
+__s__s- - i think it's - it's sort of a general variability when it's not - when you're learning a language and you haven't gotten to a certain level .__c9
+__s__huh .__c7
+__fg|s^cs.%-__uhhuh .__c2
+__%-__oh .__c0
+__s__huh .__c6
+__s^e__uhhuh .__c6
+__qw__uhhuh .__c7
+__s^bu^no__uhhuh .__c6
+__fg|s__yeah .__c6
+__qy^bh^rt__yeah .__c7
+__qy^rt__i also wonder if - if it's partly that span- - spanish has different pronunciations in different regions .__c9
+__h|s^ar__i mean do you think that - um that uh maybe ?==__c9
+__sj__i mean being ==__c9
+__s^df__i mean not that i would know that .__c9
+__s.%-__huh .__c7
+__s^bk__but i just wondered if ==__c9
+__b__um ==__c9
+__fg|s__you know she was from probably continental spain versus y- - you know other spanish .__c9
+__b__i wonder if that would have a - a contributing factor .__c9
+__fh|s__i don't know .__c7
+__%-__oh like the region ?__c0
+__b__i have no idea about spain .__c6
+__s^bu__yeah .__c9
+__qy^bu^rt__but i know that in france for example parisian french is much easier for me to understand .__c6
+__b__because i learned it .__c6
+__b__versus france in like marseilles or in the south or in like the provin- - like the villages in the south .__c6
+__qrr__sure .__c0
+__s__right .__c0
+__s^df__it's really hard to understand .__c6
+__s^bk__uhhuh .__c9
+__s__menton .__c0
+__s__or in quebec .__c3
+__s__that's right .__c9
+__fh|s^rt__right ?__c3
+__s__in canada it'd be ==__c3
+__s__yeah .__c6
+__s^rt__right .__c0
+__s^e__it's different .__c3
+__s^bu__much different .__c6
+__s^aa^bk__a lot of the pronunciations are different .__c3
+__s^bk__yeah .__c6
+__s^e__yeah .__c6
+__s^bk__yeah .__c3
+__s^df__and in my case with - with uh german w- - i - a certain region that i do well in .__c9
+__s__and then get farther away from that region .__c9
+__fg|s^na__yeah .__c7
+__%-__yeah .__c6
+__s^aap__and i notice it's more and more difficult .__c9
+__s^am__uhhuh .__c6
+__s^2__there's another language that's spoken in spain too that's um ==__c0
+__s^aa.%-__yeah .__c9
+__s.%-__what am i thinking of ?__c0
+__s^bs__castillian ?__c3
+__b__castillian .__c0
+__fg__yeah .__c0
+__s^m__and uh ==__c0
+__qy^d^g^rt__and ==__c6
+__s^bu__um ==__c0
+__s^e__isn't it catalan ?__c6
+__s^aa__catalan .__c0
+__s^aa^r__yeah .__c6
+__s^aa__uhhuh .__c7
+__h|s__so maybe - i mean depending on where she is like maybe ==__c0
+__s.%-__but she was also very low volume .__c9
+__s__ch- ==__c0
+__s.%-__and um - | and didn't say a lot .__c9
+__%-__yeah .__c6
+__fg__uhhuh .__c2
+__s__i mean i - i - i c- - i totally agree .__c9
+__b__this was a - a difficult person to - to understand .__c9
+__fg__yeah .__c7
+__fh|s^nd^r__yeah .__c7
+__%-__well | the last one i did she actually said a lot .__c7
+__fg__yeah .__c6
+__s__but ==__c9
+__s^m__and it was kind of - it was very hard to transcribe .__c7
+__qy.%--__you kno- ==__c7
+__s^aa__it was - i- - j- - i just think that um her fluency in english wasn't - wa- - um wasn't very - very high up there .__c7
+__s__so it was really difficult .__c7
+__s^bk__yeah .__c6
+__b__but i mean i did find that knowing spanish helped me a lot .__c7
+__s^bk__i can imagine that .__c9
+__s__i could tell that a lot of things that the other transcriber had put in parentheses i was like i can see how you - how you couldn't understand that .__c7
+__b__huh .__c3
+__fg|qw__yeah .__c9
+__b.%__uhhuh .__c0
+__s^bu^j__but i c- - i kn- - i think i know what she's doing .__c7
+__%-__yeah yeah yeah .__c9
+__s.x__i mean i think i know the mistake she's making .__c7
+__s^bk.x__and ==__c7
+__qw^r__uhhuh .__c0
+__b__that's really good .__c6
+__s^m__yeah yeah .__c9
+__s^no.%--__yeah .__c6
+__s^cs^rt__because that's definitely something that i wouldn't have be able to do .__c6
+__b__yeah .__c7
+__s__yeah i couldn't do it in spanish .__c9
+__b__i've - i found myself doing that somewhat in - in german .__c9
+__b__yeah .__c6
+__s__german .__c0
+__s__in german .__c7
+__fh|s__yeah .__c7
+__b__uhhuh .__c9
+__s^aa__there were problems even with um am- - english speakers though .__c6
+__s^m__i mean not in their level of fluency obviously .__c6
+__b__uhhuh .__c3
+__s__but in ==__c6
+__%--__uhhuh .__c7
+__s__some people tend to mumble .__c6
+__s__uhhuh .__c9
+__s__huh .__c2
+__s.%--__yeah .__c0
+__s^rt__that's right .__c9
+__b__and ==__c6
+__b__and it's hard to catch what it is .__c6
+__s__is because it goes by really quickly .__c6
+__fg__and you can't really tell .__c6
+__s^df__uhhuh .__c3
+__b__and ==__c6
+__sj^ba__or they're laughing when they're talking .__c9
+__sj^ba^r__that too .__c6
+__s__or they're ==__c9
+__b__uhhuh .__c7
+__s__uhhuh .__c2
+__b__that too .__c6
+__b__yeah .__c6
+__b__or just ==__c6
+__sj^cs__i don't know .__c6
+__fh__and some people tend to get interrupted more .__c6
+__s__i know that's not something that the person themselves can control .__c6
+__b__he- - yeah .__c0
+__s^2__but ==__c6
+__b__huh .__c7
+__s^co__if - when people talk over one another like constantly like there's this whole barrage of voices coming from everywhere .__c0
+__s^co__um ==__c6
+__s^df__uhhuh .__c6
+__s__it's like oh my god .__c0
+__s__what's going on right now .__c0
+__fh|s__especially when they're - when you were using the l- - the mikes that weren't m- - headmounted mikes .__c6
+__fh|s^cs__it's kind of ==__c0
+__s^ba__oh .__c9
+__s^cs__yeah .__c9
+__b__and there was input from other people on the same channel as the person who was talking .__c6
+__%-__yeah .__c0
+__qw__yeah .__c9
+__s^df__and that was really hard to deal with .__c6
+__s^df__we had lapels for d- - l- - brief- ==__c9
+__s.%-__and then sometimes people would wear these around their necks .__c9
+__s__huh .__c7
+__s^ng__which would mean really basically u- - uh a problem that you're saying of getting input from others .__c9
+__b__uhhuh .__c2
+__qy^t3__oh yeah .__c6
+__s^aa__huh .__c7
+__s^aa__right .__c3
+__s^aa.%__and also um it varying when they change their hea- - w- - head position .__c9
+__s^aap.%--__uhhuh .__c6
+__b__yeah .__c6
+__s__yeah .__c9
+__s^arp__right .__c3
+__b__but ==__c9
+__s^aa__a big im- ==__c3
+__fh|s__i tha- - i think the transcriptions improved immensely .__c3
+__s^aa__like exponentially .__c3
+__qy^g^rt__um after it was able to sort of isolate a single person onto a single channel .__c3
+__s__yeah .__c6
+__b__oh excellent .__c9
+__s__absolutely .__c6
+__s.%--__um ==__c3
+__s.%--__oh good to know .__c9
+__s__yeah .__c6
+__s__oh there's no question .__c3
+__fh|s__yeah .__c6
+__b__oh yeah .__c2
+__s^r__um ==__c3
+__s^r__s- ==__c9
+__s^aa__so that was - you're talking about early on the change fro- - into channeltrans .__c9
+__fh__yeah .__c3
+__s.%--__yeah .__c6
+__qy.%-__you guys didn't have o- - one channel per person before ?__c7
+__s__uhhuh .__c9
+__s.%--__no .__c3
+__s__no | it was one like - one ribbon for everybody .__c6
+__b.%__no .__c3
+__b.%__oh wow .__c0
+__s__euh .__c2
+__s^df__and you had to kind of ==__c6
+__s^aa__you could switch signals .__c6
+__s.%--__like you could listen to a different one .__c6
+__sj__uhhuh .__c9
+__s^bd^cc__but you couldn't really ==__c6
+__s^cs__well could you ?__c6
+__s^df__did - we didn't do that very much .__c6
+__sj^ba.%--__you couldn't visually isolate it ?__c0
+__sj^ba__what ?__c7
+__%-__you couldn't visually do it .__c6
+__s.x__no .__c6
+__s^aa__huh .__c0
+__s^aa__euh .__c2
+__fh|qy^rt.%--__no .__c3
+__fh|s__and f- ==__c6
+__qy.%--__yeah .__c6
+__s^2__and you had to mark interruptions by a slash .__c3
+__s^aa__uhhuh .__c9
+__s^bk__that's right .__c9
+__fh|qy^rt__right ?__c3
+__s__and it was very hard to be precise about it .__c6
+__b__um ==__c3
+__b__overlaps .__c9
+__qy.%-__and it was very hard to tell .__c6
+__s.%--__i had so much trouble at the very beginning trying to figure out who was who .__c6
+__s__huh .__c7
+__s^rt__yeah .__c3
+__s^rt__because there's m- - so many men and so few women .__c6
+__fh|s__huh .__c2
+__b__the women were easy to f- - figure out who was who .__c6
+__s.%-__and then the men - all their voices sounded the same .__c6
+__s^bk__except i think there was one british english speaker .__c6
+__s^bk|s.%-__and that was easy .__c6
+__s.%-__but ==__c6
+__fg__wow that's difficult .__c7
+__s^bs__uh - yeah .__c6
+__s^bs.%-__you know what ?__c3
+__s^bc__there might be a gender thing there though too .__c3
+__s^bc^m__yeah .__c2
+__s^fe^m__because i think - i think as women it might be easier to differentiate ==__c3
+__s^aa^r^rt__well there were fewer women too .__c3
+__s^aa^t__but i - i wonder if a man transcribing all the guys would have had ==__c3
+__s^bu.%-__yeah .__c6
+__s^ar|s^bc__an easier time ?__c6
+__s^r__like if you had transcribed it you would have had an easier time differentiating them .__c3
+__s^bk__uhhuh .__c7
+__s^fe__i don't know why that would be true .__c3
+__s^aa__that's interesting .__c9
+__s^bk__that's possible .__c0
+__s^r__but ==__c3
+__s^fe__that's possible .__c6
+__s.%-__you wonder if there'd be like a gender difference there ?__c3
+__s^co__i don't know .__c3
+__s.%--__i'm thinking about it as like a psychologist i suppose .__c3
+__b.%__i don't know .__c6
+__qy^bu^d^rt__it's possible .__c9
+__s^ar__anyway .__c3
+__s^ng__well it's ==__c0
+__s^bk__huh .__c9
+__s^bk^r__oh yeah .__c0
+__s^bk__yeah that's possible .__c0
+__s__huh .__c9
+__s^bu__yeah .__c6
+__s__i was just going to say something .__c0
+__s^aa__i was going to say that ==__c0
+__s^bk__i mean it's easier for people to mimic like the timbre of somebody's voice if it's the same - if uh that person's voice is the same .__c0
+__s^nd__if that person is the same sex as you so maybe like implicitly people pay attention more closely to uh speakers of the same sex .__c0
+__fg|qy.%--__uhhuh .__c6
+__qr.%-__huh ?__c3
+__s^ng__i don't know .__c0
+__s^df__i don't know if that's actually true .__c0
+__s__but i'm just throwing that out there .__c0
+__b__huh .__c9
+__s__it's interesting .__c6
+__s^aa__huh .__c3
+__s__i don't know .__c6
+__b__huh .__c9
+__s^aa__kind of an interesting research project .__c0
+__s.%-__yeah .__c9
+__%-__it seems like it's - it's related to this production idea .__c9
+__fg|s^nd.%--__how you you internalize what you're externalizing in a way .__c9
+__fh|s__but ==__c9
+__s^ar|%-__yeah .__c6
+__s.%-__yeah .__c9
+__b__yeah | but it definitely got much better when that change happened .__c6
+__b__oh yeah .__c3
+__b__it was so ea- - it - it became much easier .__c3
+__b__uhhuh .__c6
+__fg__um ==__c3
+__b__you know .__c3
+__s^aap__in the prev- ==__c9
+__s__you've also gone through ==__c9
+__s^aa__they've been here since the beginning .__c9
+__b__you've also gone through the - use the int- - in- - in- - introduction of the pre segmentation and that kind of thing .__c9
+__s^aa__oh yeah .__c6
+__s^aa__right .__c3
+__b__so initially they had to actually mark all the time bins themselves as well .__c9
+__s__wow .__c2
+__s__oh .__c0
+__b__oh wow .__c7
+__s__right .__c3
+__b__that took a l- ==__c6
+__s__which wasn't as hard .__c3
+__b__yeah .__c9
+__sj^bk__i mean it took time .__c3
+__%-__e- - no it just took time yeah .__c6
+__sj__it took time .__c3
+__s^aa__yeah .__c7
+__s.x__uhhuh .__c9
+__b__huh .__c2
+__s.%-__um | i find that i have to adjust the time bins a lot anyway .__c3
+__s.%-__uhhuh .__c9
+__b__me too .__c6
+__s^df__me too .__c0
+__s^cc__yeah yeah .__c6
+__s^nd.%--__yeah .__c7
+__%-__um ==__c3
+__s^nd__i always adjust the time bins .__c7
+__fh|s__yeah .__c2
+__s^ba^df__um not for the end of the utterance but for the beginning .__c3
+__s.%--__yeah .__c6
+__qw^cs__sometimes the beginning - the person started to say something .__c3
+__s^bu^r__yeah .__c0
+__s^aa__i see .__c9
+__s^co__really ?__c2
+__b__it's a very slight difference .__c3
+__s^co^rt__and then the time bin starts .__c3
+__s^bk__uhhuh .__c9
+__qy__yeah | that happens a lot .__c6
+__s^bk__yeah right .__c7
+__s.%--__huh .__c2
+__qy^r^rt__right .__c0
+__h|qy^d^rt__um | so you have to just move it back a little bit .__c3
+__s^bu.%--__and besi- - and i think you mentioned at some point that you wanted a little pad of time anyway .__c3
+__s__uhhuh .__c7
+__s^aa__it doesn't hurt to have a pad .__c9
+__s^aa^r__it's - it's nicer to have a pad than not .__c9
+__s^cs.%-__yeah .__c3
+__s.%-__then to have it be cut off .__c6
+__fg|qy__d- - but s- - don't have to be really - yeah don't - doesn't have to be ==__c9
+__s^bk__yeah .__c7
+__s^aa__don't have it just start .__c3
+__s^bk__yeah .__c3
+__s^aa__i always wonder about the um time bins .__c7
+__s^aa^r__i thought ==__c6
+__sj^ba__um so .__c3
+__sj^ba^r.%-__i mean i usually ended adjusting them a little bit .__c7
+__s^aa^r__yeah .__c9
+__s^r__i mean ==__c7
+__s__definitely when something's cut off at the beginning or the end .__c7
+__b__but also sometimes there's just like huge pads of you know air before and - or after um that i don't really feel is necessary for that segment .__c7
+__s__uhhuh .__c9
+__%-__and i usually um you know shrink it a bit .__c7
+__s^bk__huh .__c2
+__s__shrink in them or whatever .__c6
+__s__uhhuh .__c3
+__b__yeah .__c6
+__s__nice .__c9
+__s__and make it a little bit ==__c7
+__sj^ba__seems like i always have to cut off pads at the end .__c2
+__s__nice .__c9
+__b__i don't have so much problem at the beginning .__c2
+__sj__but ==__c2
+__b__of breath or of uh - nothing ?__c6
+__s^bk__no | of n- - just nothing .__c2
+__h|s.%-__just nothing .__c7
+__b__yeah .__c2
+__s.%-__huh yeah .__c6
+__b__yeah .__c7
+__s^cs__yeah there's nothing going on .__c3
+__b.%__at the beginning it seems to happen when um voicing occurs later .__c0
+__qw.%-__yeah .__c6
+__%-__yeah .__c6
+__s__l- - you know like ==__c0
+__s__with fricatives a lot .__c6
+__h|s^co__yeah | with fricatives and with like uh ==__c0
+__qy^d^g^rt__huh .__c2
+__s^fa__i mean like i- - it doesn't happen with uh like buh so much .__c0
+__s^bs__because you've got the pre voicing before the consonant actually begins .__c0
+__s^e.%--__although i found one in - actually i was just working right before this meeting - one where someone said great .__c6
+__s__and ==__c6
+__b__the - the g - it was pronounced as a k .__c6
+__s^bu__so it was unvoiced .__c6
+__s^aa__and then part of the r was cut off in the beginning .__c6
+__s^bk__oh .__c0
+__fg|s__and then ==__c6
+__s^cs__you - it sounded like great .__c6
+__s__if you just listened to that time bin it still sounded like great .__c6
+__s__uhhuh .__c7
+__s__but if you listened to right before it you could hear a little the - the k or whatever and a little bit of the r .__c6
+__sj^bu:qw^cs__uhhuh .__c0
+__s^df__so ==__c6
+__h|s^no^rt__i don't know .__c6
+__s^cs^rt__that's kind of interesting .__c0
+__s^aa__usually it's not ==__c6
+__s^e.%--__usually that doesn't happen .__c6
+__s.%-__but this time it did .__c6
+__s.%-__so for the non linguists what's a fricative ?__c3
+__s.%-__i ==__c9
+__s^aa^r__uh ==__c9
+__s.%--__oh .__c0
+__s^bk|%-__uh | it's like fff sss .__c0
+__s^bs^rt__or sss .__c6
+__s__or ==__c6
+__s^aa__yeah .__c7
+__s.%--__oh okay .__c3
+__s__or thh .__c7
+__qy__shh .__c0
+__qrr__it's a sound that ==__c7
+__s__it's like the noisy uh um like airflow ones where you've got like a - a stoppage in your mouth .__c0
+__s.%--__like uh like your tongue ==__c0
+__s__but it's not completely blocking the airflow .__c6
+__fg__oh i see .__c3
+__s.%-__yeah .__c7
+__fg|sj^ba__and you can sort of - you can sort of keep it going a little bit .__c7
+__s__right .__c0
+__qy^d^g^rt__oh i see .__c3
+__s__oh okay .__c3
+__s^e__unlike like a tuh or a kuh that just stops .__c2
+__s^aa__yeah .__c6
+__s^e__yeah .__c6
+__sj.%--__right .__c3
+__s.%--__got it .__c3
+__fh|s.%--__sorry .__c0
+__s__have you ==__c9
+__s^aa|s__i guess i'm the only non linguist .__c3
+__fh|qw__well i'm - i'm sort of a hybrid .__c9
+__fg__so i - i - you know i - i appreciate having them do this .__c9
+__b__uhhuh .__c7
+__s^rt__oh right .__c3
+__s^bk__yeah | oh you ==__c3
+__s.%-__yeah .__c9
+__s^fa.%-__yeah .__c3
+__s^bd__so um | in - did you - have you run into places ?==__c9
+__fh|s__i've run into a couple where actually the word was totally different when you adjusted the time bin .__c9
+__s^e__have you had that happen ?__c9
+__b__huh | yeah .__c6
+__s^cs__oh yeah .__c7
+__s^aa__yeah .__c0
+__s^aa^m__that's fascinating .__c9
+__fh__yeah .__c7
+__fg|s^e__i like that .__c7
+__sj__yeah .__c0
+__s__oh it's really a kick .__c9
+__s.%--__i think that's fun .__c7
+__s__yeah .__c3
+__fh|s^cc__and it sometimes changes the entire utterance too .__c0
+__s__oh it does .__c6
+__s__yeah .__c7
+__fh|s^cc__yeah .__c9
+__b__completely .__c6
+__s^co__yeah .__c6
+__s^df__i - i don't remember the words exactly .__c6
+__s^aa__it's a shame .__c6
+__s^fe__there was one that was a whole sentence was broken up in the middle and there was a little like millisecond of break in the middle .__c6
+__%-__and ==__c6
+__s__if you connected it all together it completely changed what was right before it and what was right after it .__c6
+__%-__it was written as something else .__c6
+__fh|sj__and then it became a word together from what was before and after .__c6
+__fg__and then with this little tiny millisecond pause .__c6
+__fh|%-__so i guess - i don't know - i mean i guess when we talk in between different segments of the word maybe there's pauses somehow .__c6
+__sj^ba__i guess ==__c6
+__s^df.%-__huh .__c3
+__s__or the - you can ==__c6
+__b__we stop voicing sometimes .__c0
+__s^bk__yeah .__c6
+__s^ft^t3.%__or something like that .__c6
+__s^t.%-__it's probably like inaudible for us .__c6
+__fh__but ==__c6
+__sj^ba^t3__and maybe the pause was just so short that it made up a pause .__c6
+__s^cc^t3__i don't - is - it - that doesn't make any sense .__c6
+__s^ft^t3__but ==__c6
+__s^t3__there are some times when there have been words that they just pause right in the middle of .__c9
+__b__uhhuh .__c6
+__sj^bu__you're ==__c9
+__fh|s^df__i- - it's h- ==__c9
+__s^aa__on purpose though .__c6
+__s__or not .__c6
+__s__well ==__c9
+__s^e__it ge- - u- - i'm sure sometimes on purpose .__c9
+__sj__but sometimes it'd just be s- - saying something and especially people who have really lo- - elongation in their style .__c9
+__s.%-__uhhuh .__c6
+__s__and they say that's really fascinating .__c9
+__s^aa__uhhuh .__c2
+__s^aap__it's not a great example .__c9
+__s^t__but you know ==__c9
+__s^cs__uhhuh .__c6
+__s^df__sh- ==__c0
+__b__and ==__c9
+__s__yeah .__c9
+__s__uh there's ==__c9
+__s^cs__it's - it's funny how um ==__c9
+__b__i- - it's funny to me that th- - something like that you just change one little boundary and suddenly the whole meaning changes .__c9
+__b__and i've run across that also .__c9
+__s^cs__uhhuh .__c3
+__s^aa__uhhuh .__c7
+__s__yeah .__c3
+__s__yeah that is true .__c6
+__fh__huh | would you want um uh a transcription of something like that ?__c7
+__s.%-__of a big pause in between - in the middle of a word .__c7
+__s__or just leave it as fascinating ?__c7
+__s^aa|s__what i've done - i've ==__c9
+__s__it's very rare i mean when i've run across it .__c9
+__s^cs__uhhuh .__c7
+__sj^ba__and you know maybe there are times i haven't detected it .__c9
+__s^bk__and i'm not you know fin- - i haven't looked at everything .__c9
+__qy^rt__i've looked at - i've probably looked at per- - uh s- - at least eighty percent of the data .__c9
+__qy^rt__you know all the way through e- - every meeting - for about eighty percent of the stuff that i've cleared so far .__c9
+__h|s^ar__oh !__c7
+__s__and um ==__c9
+__s^bk|s__i- - it s- - you guys are getting so good that it's like i'm - i - i - i- - i can get through them faster and i'm getting to the point where i maybe don't have to go through them all the way .__c9
+__s__you know ?__c9
+__qy__uhhuh .__c6
+__qrr.%--__so it's like - it's just we've gotten to a level it's just really great of um - of - of pre- - precision that um it takes a lot of a load off of me .__c9
+__s^bk^m__huh .__c7
+__s^ar__and um ==__c9
+__s^bk__and so i'm not going to be checking them all i don't think in the for throughout the whole rest of the project .__c9
+__s.%-__but um ==__c9
+__s^aa__certainly have spot checking .__c9
+__b__but um hhh | those that i have found that way to me i think f- - f- - the most sensible way to handle it from my perspective was to treat it as a pronunciation situation .__c9
+__sj__uhhuh .__c6
+__s__so just do a - you know a mark then fascinating and then put p r n and uh interrupted by a pause or you know some kind of other gloss like that you know .__c9
+__qw__uhhuh .__c0
+__h|s^no__uhhuh .__c0
+__s^cc__p r n .__c0
+__s^cc^e__how it was really pronounced .__c6
+__s__uhhuh .__c7
+__s^ba.%__uhhuh .__c6
+__s^j.x__right .__c7
+__%-__huh oh right .__c3
+__s__uhhuh .__c3
+__%-__you know p r dot dot fascinating whatever it is .__c9
+__s__i always get confused with the pronunciation convention .__c6
+__s^bk__sorry | what was this ?__c9
+__fg|s^no.%--__i get confused with pronunciation like when there's a strange pronunciation that i want to mark .__c6
+__fh|s^tc__okay .__c9
+__qy^rt__because i think w- ==__c6
+__s__m- - may- - di- - in the beginning did we do the strange pronunciation and then write p r n and what it really was meant to be ?__c6
+__s^aa__and now we're doing the normal word and then inside the brackets what it sounded like ?__c6
+__qr.%-__right .__c3
+__qy^rt__we did a switch | right ?__c6
+__s^m.%--__or not .__c6
+__qw__i don't know if it's just me that's confused or if it was swi- ==__c6
+__qw^m__well | i've ==__c9
+__%--__uhhuh .__c3
+__s.%--__i - it - it never occurred to me but now that you're mentioning it n- - yeah yeah possibly .__c3
+__b__there was an adjustment .__c9
+__fg|s__and i - and i've switched them all - all the way at this point so that ==__c9
+__s^2__okay .__c6
+__s^bk__okay .__c6
+__s__so the convention as it stands now is write the word as it is normally conventionally spelled in english with the little apostrophe or whatever you call it .__c6
+__s__yeah .__c9
+__fh__yep .__c9
+__sj__uhhuh that's right .__c9
+__b__and then p r n .__c6
+__s^bsc__and then in the brackets what it ==__c9
+__b__how it's pronounced .__c6
+__s^rt__uhhuh .__c9
+__s^no__so i- - you know okay is a very e- - easy example .__c9
+__s^rt__uhhuh .__c6
+__b__a person says huh kay .__c9
+__s__uhhuh .__c6
+__b__then ==__c9
+__sj__oh .__c2
+__s^cs__it's okay with a ha- - a little hatch .__c9
+__b__and then p r n and then m- - huh kay or whatever it is in quotes .__c9
+__s^aa__oh right .__c3
+__s^no__okay .__c6
+__s^t__oh right .__c0
+__s^df__i think nelson's the only one who uh ==__c3
+__s__oh morgan .__c3
+__qy^rt__you guys call him morgan .__c3
+__qw^rt__yeah yeah .__c9
+__s^df.%--__he's the only one who ever did that i think .__c3
+__s__huh kay .__c3
+__s^rt__he does it a lot .__c6
+__qw__huh kay .__c7
+__fg|s__i ==__c7
+__%-__he does it a ==__c3
+__s__okay .__c0
+__s.x__yeah .__c3
+__qy^d^g^rt__yeah .__c7
+__s^no__and some people just say kay .__c7
+__qw^rt__um ==__c3
+__qw^bu^rt__yeah .__c6
+__qw^r.%-__kay .__c3
+__s.%-__yeah that's true .__c3
+__qo^bu^d^rt__yeah that's right .__c9
+__s^aa__s- ==__c7
+__s^bk__yeah .__c0
+__%-__and of course you know - i mean there's also this other reduction that w- - that we've done in terms of like not capturing every time a person says and versus nnn versus you know nd whatever .__c9
+__qy^bu^d^rt__uhhuh .__c6
+__%-__all the different ways of reducing and .__c9
+__s^ng__that's true .__c3
+__s^bk__because you can assume that the speech recognition um uh pronunciation models will handle a certain amount of reductions of these types .__c9
+__s^bk__and the same thing for um well the the versus the .__c9
+__s^bk|s__that there are those known variants and ==__c9
+__qw^rt__uhhuh .__c6
+__s__uhhuh .__c7
+__s__or a versus a .__c6
+__s__exactly .__c9
+__qr^bu^d.%-__uhhuh .__c6
+__s^ar__uhhuh .__c3
+__s^ar__and that they should be able to handle themselves .__c9
+__s^ar|s^rt__and - and that we assume also that for discourse purposes those distinctions are not really the focus right now .__c9
+__s^bk__and those distinctions could be added later if needed .__c9
+__s^ng__but it's unlikely that they would be .__c9
+__s^rt__and it's so time consuming .__c9
+__s__uhhuh .__c0
+__qy^rt__so we've made these - these simplifying assumptions with that .__c9
+__s.%-__and so then you begin to think well what about okay .__c9
+__h|s^aa^rt__i mean maybe huh kay is an appropriate variant for okay .__c9
+__qrr.%-__and it wouldn't be necessary to mark those either .__c9
+__s__so it's - it's definitely - there's a uh choice of how far you go with that and whether kay is - is enough of a variant .__c9
+__s.%--__uhhuh .__c3
+__fh|s^rt__huh .__c2
+__s__you know it's - th- - this is a case where um i appreciate it when people mark those kinds of things .__c9
+__fh|s__but i - i sort of figure that i- - that - that's not as far aw- - away from okay as huh kay is .__c9
+__sj^ba__so it's not quite so ==__c9
+__s__uhhuh .__c7
+__s__huh .__c6
+__s__but i don't change it back if it's there .__c9
+__fh__uhhuh .__c3
+__fh|s__i think with like some of them - like you know with uh the difference between the and the you can you can distinguished very uh u- - dif- - definitively like what context they're going to be used in .__c0
+__s__you know ?__c9
+__s__yes .__c9
+__s^e__uhhuh .__c9
+__s.%--__uhhuh .__c6
+__s__like um like you would say the apple .__c0
+__s^e__because it's the plus then the next word starts with a vowel .__c0
+__fh__uhhuh .__c9
+__s^bs__or the cat because it's next word starts with a ==__c0
+__s^na__yeah .__c6
+__s^bk^m__there's a study done on when people say uh and when people say um .__c6
+__s^aa__yeah | i'm sure it's ==__c0
+__s^bu__also there's contec- - in concet- - contextual variation .__c6
+__s^aa__oh really ?__c7
+__%--__and it's predictable apparently .__c6
+__s^aa__huh .__c2
+__s^rt__uhhuh .__c0
+__%-__i haven't read the ==__c6
+__s^no.%--__i was trying to figure that out myself a couple times .__c7
+__b__it's really interesting .__c6
+__s^no.%--__but something like ==__c0
+__s^cs^rt__and i couldn't get anything .__c7
+__s^no__yeah .__c0
+__s^aa__yeah .__c6
+__s^df__uhhuh .__c9
+__b__interesting .__c9
+__fh|s__i kept looking at all the uh's and um's and i was like oh this would be hard to do .__c7
+__s__yeah .__c6
+__s^df__oh that's interesting .__c9
+__%-__you know what's - on that sort of similar topic i just thought of something that's been hard for me sometimes is you can have a pronunciation of - of the word a as a .__c6
+__s__huh ?__c9
+__s__yeah .__c9
+__b__and then you can have uh like a pause or whatever as uh .__c6
+__s__uhhuh .__c7
+__b__and sometimes it's hard to tell what the person meant .__c6
+__s__are - did they mean uh like they're pausing ?__c6
+__b__huh yeah .__c0
+__s__or did they mean a like a person ?__c6
+__fh|qy^rt__yeah .__c0
+__h|s^aa__yeah .__c9
+__qy^rt__i've run into that .__c0
+__s^aa__really ?__c7
+__fh|s__yeah .__c9
+__s^bk__yeah .__c0
+__s__yeah .__c6
+__s__right .__c3
+__s__huh ?__c2
+__fh__once in a while .__c9
+__s^aa__and ==__c6
+__fh__i don't usually get con- ==__c7
+__s.%-__you can kind of tell from the context .__c6
+__s__but sometimes it's hard .__c6
+__b__yes .__c9
+__sj^ba__right .__c7
+__fg__yeah .__c6
+__s^cs__yeah that came up a couple of times .__c3
+__s^df__yeah i ==__c9
+__b__yeah .__c6
+__s^df__huh .__c7
+__b__yeah .__c3
+__fh|s__i agree .__c9
+__s^df__and - and when i - when i'm totally in doubt if there's a case where it really could be either and i could flip a coin i'll choose the one that would make syntactically the most sense .__c9
+__fh|s__uhhuh .__c6
+__b__uhhuh .__c7
+__s__uhhuh .__c6
+__s__give them the benefit of the doubt that they're being fluent about it .__c9
+__b__uhhuh .__c6
+__fh|s__uhhuh .__c7
+__s__sometimes i'll put in like a bracket like uh you know the orthographic a slash u h like if i'm really confused .__c0
+__sj^cs__like you can't tell .__c6
+__s__uhhuh .__c9
+__fh|s^cs__uhhuh .__c6
+__fh|s.%--__yeah .__c0
+__b__kind of go well there's two .__c0
+__s__so here .__c0
+__fh|s.%-__uhhuh .__c6
+__qw^rt.x__it must be really rare though .__c9
+__s.%__i haven't run across that often .__c9
+__h|s.%--__ha- - ha- - h- - is it rare ?__c9
+__qw.%--__huh huh .__c3
+__fh.x__a few times .__c0
+__s__a few .__c6
+__s^bk__it's really ==__c6
+__s^e__yeah .__c6
+__fh|s^e__okay .__c9
+__fh|s.%--__it's rare .__c3
+__fh|s__relatively rare .__c6
+__s__i don't think i ever have .__c2
+__s.%-__yeah .__c6
+__s__yeah .__c6
+__s^cs__i mean i can only think of like two or three occasions where i sat and thought about it for a while .__c6
+__s__huh .__c7
+__s__other times just you figure you look at it and what's the context .__c6
+__s^bu__yeah .__c6
+__fh|s__it's okay .__c6
+__qy^d^rt__i don't know .__c6
+__s.%--__right .__c0
+__s^ng.%--__okay | well le- - let's see now .__c9
+__s__there's another - another methodo- ==__c9
+__s__what i go- - i want to ask you at some point it just occurred to me i'd like to ask you the following question maybe you can have this in the back of your minds something like um you know what sorts of hypothesis - your hypothesis about the - you know ti- - trying to find the distributional explanations for some of these things .__c9
+__qy^d^f^rt__huh ?__c3
+__s__right .__c7
+__%--__what kind of uh hypotheses have - has this caused you ?==__c9
+__s__uh i mean don't want to have you give away a paper topic that you want to explore .__c9
+__s__but ==__c9
+__fh|s__you know if there's interesting th- - uh hypotheses that the - that y- - have been suggested to you by looking at the data .__c9
+__s__that kind of thing maybe uh at some point .__c9
+__s__so ==__c9
+__s__hnh .__c3
+__s__and al- - oh and i also want to say that um i'd like to meet again also next week .__c9
+__s__uhhuh .__c6
+__fh|s__um | and i don't know if this is a good time frame .__c9
+__s^bu.%--__uh maybe it'd be good to have it an hour later .__c9
+__s^aa^m__or - i don't know - i mean could do anything .__c9
+__s^bk__this is fine .__c0
+__fg|s__this time is fine for me .__c6
+__fh|s__about ==__c9
+__s__yeah this is a good time for me .__c7
+__s__good time for you ?__c9
+__b__it should be .__c3
+__s__okay .__c9
+__qy^d^f__um i know i have something in the morning which i don't normally have .__c3
+__s^aa|s__i don't remember off the top of my head when it ends .__c3
+__s__um | i'll let you know if it's - it'll be a problem .__c3
+__fh|s.x__but it should be okay .__c3
+__s__okay .__c9
+__s__two thirty should be late enough .__c3
+__s__so ==__c3
+__b__okay .__c9
+__qy^rt__excellent .__c9
+__qrr__because we could probably move it one hour later .__c9
+__s__in m- ==__c0
+__qy^d^g^rt__i mean - i think u- - unless ==__c9
+__s:s__i was just going to say maybe fifteen minutes later would help me a little bit .__c0
+__s__just because i have a class up at dwinelle b- - just before this .__c0
+__s.%--__oh i see .__c9
+__%--__that's why i was a little late today .__c0
+__s^fe__wow !__c9
+__s__you did really well .__c9
+__s__because ==__c0
+__s__yeah .__c9
+__s__thanks .__c0
+__fh|s__well i took the bus for part of the way .__c0
+__s__uhhuh .__c6
+__s__oh did you ?__c9
+__s.%--__okay okay .__c9
+__s.%--__but um | that might help me just a little bit .__c0
+__s__because then it - i - you know i'm going to - going to be hobbling a little slowly .__c0
+__fh|s__then you don't have to rush .__c6
+__s__would anybody be constrained by having it be a full half hour later ?__c9
+__s__hnh nn .__c6
+__s__no .__c3
+__s__no .__c7
+__s__okay .__c9
+__fh|s__and th- - the final question i- ==__c9
+__s__no .__c0
+__fh|s^tc__except we'll miss treat time .__c3
+__fh|s__oh !__c7
+__s.%--__tea !__c0
+__qy^d.%--__oh that's right .__c9
+__s__oh i thought she said mistreat time .__c9
+__fh__oh no !__c0
+__s__maybe we could have like a - like a half hour then take a little break .__c3
+__s__yeah .__c7
+__s__mistreat oh !__c6
+__s__yeah .__c7
+__s__then come back and finish the meet- ==__c3
+__fh|s__well that's - that's some good motivation to not start a half hour later .__c7
+__s^bk__you know what we could do ?__c6
+__fg|s^t__yeah | you know that's - that's - that's an interesting ==__c9
+__s__we could just ask the someone like the front desk person or lila to like set aside a little bit for us .__c6
+__s__tha- - that's so funny .__c0
+__s__little bit of treats .__c3
+__s__hey they would .__c9
+__fh__oh that's true .__c0
+__qy__uhhuh .__c2
+__s^ar__yeah they would .__c9
+__s^t1__yeah .__c7
+__%-__that's - that's not a bad solution .__c9
+__s__uhhuh .__c7
+__fh|s.%-__it's not going to be birthday cake .__c3
+__fg|s.%--__so ==__c3
+__s__yeah | so we'll survive .__c6
+__s^rt__yeah .__c3
+__s^m__yeah that's right .__c9
+__b__this is very important .__c0
+__qy^rt.%--__it's already done .__c9
+__s__it's good to s- - good to have these things all scheduled .__c9
+__fh|s.%--__okay .__c9
+__fh|s__so um ==__c9
+__s__oh .__c9
+__qw__uh uh then i was going to ask you what about an hour later ?__c9
+__s__i mean if we h- - had those things an hour later .__c9
+__s^cs__like would people ?==__c9
+__fh|s^cs__this is fine with me .__c0
+__s^arp__okay .__c9
+__fh__that's fine too .__c6
+__qy^d^g^rt__yeah .__c3
+__sj__okay good .__c9
+__s.%--__huh .__c2
+__s^bsc.%--__yeah that's fine .__c7
+__fh|s.%--__all right so i'll - i'll so- - settle on that .__c9
+__fh|qy^rt__yeah .__c6
+__qrr.%-__okay now i wanted to say you've been through a couple of different uh improvements in the methods the pre segmentation .__c9
+__s__there was another impro- - another improvement in that ==__c9
+__s__well s- - let's ask if it was an improvement from your standpoint .__c9
+__s__uh the tigerfish um approach .__c9
+__s.%--__so ==__c9
+__sj^ba__uh | s- - moving from having the first transcription done by an external service and then you correcting that versus doing the initial transcription yourselves .__c9
+__qy^bu^d^rt__ho- - ho- - how - have you ?==__c9
+__s^aa|s.%--__oh .__c0
+__b__and so i think you - yeah i think you - did you ?==__c9
+__s__i don't think i have ever done one from an external ==__c7
+__s^t__has there already been t- ?==__c9
+__s^bk__i have .__c0
+__s__i th- - i feel like they've all been done probably by another transcriber here .__c7
+__s__you talking about the i b m ones ?__c0
+__sj^ba__yeah i b m or if - if it was dash t f .__c9
+__sj^ba__that's the tigerfish .__c9
+__s__right .__c3
+__s__t- ==__c7
+__s__right .__c0
+__s__yeah .__c0
+__s__oh yeah yeah .__c0
+__fh|s__oh m- - yeah | then i guess i have .__c7
+__fh|s__maybe the o- - one i'm working on now .__c7
+__fh|s.%-__i could tell you something that i thought .__c0
+__qy^2^d^rt__uhhuh .__c6
+__s^ng__so d- ==__c9
+__s__they have different - definitely a different style | right ?__c7
+__b__do they end all - them all in dots ?__c7
+__s__yeah .__c0
+__s__like dot dot .__c7
+__sj^ba^rt__there's a lot of that .__c9
+__s__yes .__c3
+__s^e__yeah .__c6
+__s__they used to .__c2
+__s^ba^fe__uhhuh .__c6
+__fg|s.%--__and they - and they capitalize like every single first ==__c7
+__s__i really th- ==__c0
+__s__yeah .__c9
+__qy^d^g^rt__and they put paren- ==__c6
+__fh|sj^ba__um not parentheses .__c6
+__b__what's it called ?__c6
+__s.%--__punctuation after brackets .__c6
+__b__yeah .__c9
+__s__that's right too .__c9
+__fh__yep .__c0
+__s.%--__oh okay .__c7
+__sj^ba__yeah then i'm doing that right now .__c7
+__s__right .__c3
+__s__oh right .__c3
+__s__uhhuh .__c9
+__s^cs__yeah .__c6
+__s__laugh period .__c3
+__s__yeah .__c6
+__fh|s__yeah .__c7
+__sj__something like that | right ?__c3
+__s__right .__c0
+__s__yeah .__c6
+__s__which makes no sense to me .__c7
+__s.%--__no | it doesn't to me either .__c6
+__fg__like that's not a syntactic part of that sentence .__c7
+__s__yeah .__c9
+__s__if ==__c0
+__fh|s.%--__but ==__c6
+__s__no .__c6
+__qy^d^g^rt__exactly .__c9
+__s^nd.%-__exactly .__c9
+__qy.%--__i'm glad you ==__c9
+__fh|s^df^t__yeah .__c3
+__b__yeah exactly .__c9
+__s.%-__well they're not linguists .__c3
+__b__if ==__c0
+__s__uhhuh .__c7
+__fg__so ==__c3
+__fg__no .__c6
+__s__if i could be completely frank i really didn't like the i b m ones .__c0
+__b__yeah .__c9
+__s^no.%--__oh good to know .__c9
+__s__yeah ==__c0
+__s.%--__i didn't either .__c6
+__b__oh that's helpful .__c9
+__s__i found them to be just ==__c0
+__b__i just - i - i ended up basically redoing them .__c0
+__fh__okay .__c9
+__s__huh .__c2
+__fh|qy__um | like from start to finish .__c0
+__%-__i don't know if i did one .__c3
+__s.%--__so when i was checking them like it would take me basically as long as it would have taken me to just to transcribe it by myself .__c0
+__fh|s__wow .__c9
+__sj__huh .__c3
+__s__huh .__c7
+__%-__wow !__c9
+__s__i think it was a little bit faster than just transcribing it .__c6
+__fh__wow .__c9
+__%-__okay .__c9
+__s^e__yeah .__c7
+__b__but i definitely saw a lot of ==__c6
+__b__i'm really picky .__c0
+__s__there was a lot of errors that are not in the tigerfish ones .__c6
+__s__uhhuh .__c9
+__s__yeah tigerfish are better .__c0
+__s__yeah .__c6
+__s__and they just have better intuitions or i don't know what but about what's said .__c6
+__qy^d^g^rt__okay- ==__c7
+__s^na.%--__which are - what are the two differences ?__c7
+__s__i'm not sure .__c7
+__s.%--__i'm not sure if you had an i b m one .__c9
+__qh^aa__so this was earlier on .__c9
+__s^aa__so do i have a tigerfish one right now ?__c7
+__s__huh .__c2
+__s^cs^rt__if it says t f .__c6
+__sj__if it says t f .__c0
+__h|s^aa__you probably do .__c9
+__sj__uhhuh .__c7
+__s__okay .__c7
+__s__yeah .__c0
+__sj^ba__the ones that say i b m are like - they actually say i b m .__c0
+__sj^df__so i don't think i've ever ==__c7
+__s__the i b m ones were the ones that came in huge huge paragraphs | huh ?__c7
+__fh|s__yes .__c0
+__s__yeah | and we had to split them up .__c6
+__b__see i never got one of those .__c7
+__s^cs__yeah | and you have to parse them all down .__c0
+__fh__right .__c7
+__s__yeah yeah yeah yeah .__c0
+__s^cs__okay .__c7
+__qw^rt.%--__yeah .__c7
+__s__uhhuh yeah i didn't g- - ever get one of those .__c7
+__s__so you didn't get one .__c9
+__qw__oh interesting .__c9
+__s^ng__no i'm glad i didn't .__c7
+__s^bk__okay .__c0
+__s^aa__i didn't get one either .__c2
+__b__i think those show up in tigerfish too .__c3
+__s.%-__because i think i've had a couple of tigerfish where i've had to break them up .__c3
+__s__where they have li- ==__c6
+__fh|s__ye- ==__c7
+__s^bk__yeah | but they're not like ==__c6
+__b__they're not ==__c7
+__s^na__yeah | i can remember u- - i used to see ==__c7
+__fg__they're not huge huge though .__c6
+__s__a couple were .__c3
+__s__really ?__c6
+__sj^ba__yeah .__c3
+__b__oh .__c6
+__sj^bd__and i had to sort of break them down .__c3
+__s__oh .__c6
+__s__do they get them um ?==__c7
+__sj^ba__i don't know .__c6
+__s__id- - is ?==__c7
+__s__they don't have like an interface | right ?__c7
+__s__they just ==__c7
+__sj__no .__c9
+__qy^d^g^rt__in neither case .__c9
+__fh|qy^rt__and i'm - and i'm thinking - i'm thinking - you're causing me to think back over what the differences were in the - what they got .__c9
+__h|s__yeah .__c7
+__b__and i b m didn't ==__c9
+__b__yeah .__c7
+__s^cc__they just have - they just have it segmented .__c7
+__s^bk__yeah .__c9
+__s__you can tell because sometimes they have it so wrong .__c7
+__s__and it's like well if you had just listened to what was before .__c7
+__s__yeah .__c6
+__b__yeah .__c0
+__fh|s__but they don't have that option .__c6
+__b.%__yeah but they don't have that .__c7
+__qy^d^g^rt__yeah i figured that they didn't .__c7
+__s^aap.%--__right .__c0
+__fg__yeah .__c6
+__qy^bh__right .__c3
+__qy^rt__there's also some i- - iffiness about how d- - if ==__c9
+__s^ar__als- ==__c0
+__s^df__we're not sure really how tigerfish does it .__c9
+__%-__you know the methodology .__c9
+__s__how do they do this ?__c9
+__qy^d^g^rt__huh .__c7
+__s__because sometimes you'll have the s- - the same word ==__c9
+__fh|sj__and i've seen this like within ==__c9
+__s.%-__well within a single turn l- - it'll be spelled in three different ways .__c9
+__s^aa|s__and it's like you know is this the same person who's kind of forgetful .__c9
+__qy^bh__huh .__c0
+__s.%-__uhhuh .__c7
+__s__or is it that they have several people doing it together ?__c9
+__s__you know maybe it's parallel .__c9
+__b__right .__c3
+__qw__right .__c7
+__s.%-__maybe they're all doing it in parallel .__c9
+__s^cs__and one falls behind and the other one .__c9
+__s^df^rt__yeah .__c7
+__s^ng.%-__oh that's interesting .__c0
+__s^ar.%--__but who knows ?__c9
+__fh|s__and they don't ==__c6
+__s.%-__one person doesn't listen to all the channels of one meeting .__c6
+__qy^bu^d^rt__right ?__c6
+__s^aa^m__so they can't get clues from the other channels ?__c6
+__s^bk__well | you know the - the way they're listening to it is they - they get a - they get ==__c9
+__s__or can they ?__c6
+__s^am|s__i don't know .__c6
+__%-__uhhuh .__c6
+__b__it's linearized .__c9
+__s.%-__so if you picture what we have on the screen .__c9
+__b__um | you know there's this block and it goes over ==__c9
+__qy^d^rt:s__i'm doing it from my perspective .__c9
+__s__you have this block .__c9
+__b__and it goes over to here and stops .__c9
+__s__and this person starts to talk .__c9
+__sj^ba__and he goes over to here .__c9
+__sj__uhhuh .__c6
+__fg|s^co__and then you have an overlap over here .__c9
+__s__and so what they would get is this block from the first guy .__c9
+__s__this block from the second guy .__c9
+__fh|s__and then the top of the overlap .__c9
+__b__and then the second guy in the overlap .__c9
+__fh__oh .__c6
+__qy^rt__oh wow .__c7
+__qrr^rt__huh .__c3
+__h|s__and then it would move on .__c9
+__fh|s__huh .__c2
+__s__so it's sort of like this - you know you go this way as much as you can .__c9
+__s.%--__then you cycle through there .__c9
+__s^cs__and then you go up to this next level .__c9
+__s__so they hear all the channels at once like you guys were saying you first did ?__c7
+__s__and ==__c9
+__s^bk__oh okay .__c6
+__s.%--__um ==__c9
+__qw__let's see .__c9
+__s^ng__they hear them ==__c9
+__s^bk__oh .__c9
+__s^bk__uh | they hear them separately in two chunks .__c9
+__s^df__but then sometimes they get confused about who the foreground speaker is because they're not being told who the foreground speaker is .__c9
+__s^cs__uhhuh .__c6
+__s^e__you know .__c9
+__s^na__and especially you can see if you have like four speakers it be reason- - you can maybe find a way of doing that .__c9
+__fh__but with nine speakers ==__c9
+__s.%--__eee yeah .__c0
+__s.%--__so what they get is they get a beep that tells them when there's something that they think - that the f- - pre segmenter thought there should be s- - transcribed in there .__c9
+__s__uhhuh .__c6
+__s__uhhuh .__c0
+__s^cs__huh .__c2
+__s.%--__and - so they'll get ==__c9
+__s^cs__and it's numbered so that we end up with the same number of - of transcribed slots .__c9
+__qw^rt__as there are slots in the pre segmentation .__c6
+__s.%-__exactly .__c9
+__s.%-__uhhuh .__c6
+__b__because the first time when we didn't have them numbered we ended up with a couple extra segments that were transcribed .__c9
+__%--__and it was hard to patch the whole thing back together .__c9
+__s^ng__uhhuh .__c6
+__b__huh .__c7
+__s^bk__because when it comes back to our end um it's just this long string of things that they've uh partitioned according to the tape that they were given .__c9
+__b__uhhuh .__c0
+__s__because they don't - they actually don't have digital interface either .__c9
+__%-__so it's - it's audiotape .__c9
+__s__oh wow .__c2
+__s:s__oh wow .__c6
+__s__huh ?__c3
+__qw.%--__oh .__c0
+__s__huh wow .__c7
+__s__and they type it on .__c9
+__fh|s.%-__makes it really hard .__c3
+__b__and then - then it comes back to us .__c9
+__s__wow .__c7
+__b.%__and adam and thilo have a program wa- - they put it back together into our interface format .__c9
+__s__and then we can use it .__c9
+__b__uhhuh .__c7
+__s.%--__but ==__c9
+__s.%-__um ==__c9
+__%--__um | there are f- - cases where you'll get a segment and it's someone else's utterance .__c9
+__s^ar__and that's because that was overlapping with someone else and this is the weaker speaker of the two .__c9
+__s__uhhuh .__c6
+__s^df__and you'll have like two totally parallel r- - renditions of the same thing .__c9
+__qw__yeah .__c6
+__fg|s__because i- - it's just - i- - n- ==__c9
+__s__right .__c3
+__s__so what they get is like - i- - t- - is they get something like beep one .__c9
+__s__and then - then they get beep two beep three .__c9
+__fh__chuck wooters does the numbers .__c9
+__s^cs__and um | it cycles through .__c9
+__b__wow .__c3
+__b__oh | so they don't ==__c3
+__sj__do they know the names of the speakers ?__c3
+__s__no .__c9
+__b__oh okay .__c3
+__s^bk__and they don't know which channel is s- - l- - supposed to be together .__c9
+__s^bu__because ==__c3
+__b__y- - okay .__c3
+__fh__huh .__c0
+__s__because sometimes there'd just be interesting things where there'd be a misunderstanding about like ==__c3
+__b__like ==__c3
+__s^t__morgan would be speaking but it'd be on your channel .__c3
+__fh|s^co__and it'd be like this is clearly not a woman speaking .__c3
+__s^co.%-__yes .__c9
+__s^ba__exactly .__c9
+__s^co__huh .__c7
+__s^fe__yeah .__c6
+__s^ba__yeah that's quite right .__c9
+__s__it's like how could they do that .__c3
+__fh__and that's why .__c9
+__s^ba^r__it's like - well now it's - it m- - seems more reasonable that they'd make a mistake like that if they had no idea .__c3
+__b__uhhuh .__c6

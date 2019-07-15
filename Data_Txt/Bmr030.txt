@@ -1,0 +1,894 @@
+__z__okay we're on .__c2
+__s^rt__okay .__c1
+__fh__yes .__c3
+__qy^d^rt__and we seem to be working .__c2
+__s^rt__one two three four f- ==__c3
+__s^t^tc__okay .__c1
+__s^bsc__we didn't crash - we're not crashing anymore .__c2
+__s^fa__and it really bothers me .__c2
+__s^rt.x__i do .__cb
+__s__yeah .__c1
+__s__no crashing .__c3
+__s__i crashed when i started this morning .__cb
+__s__you crashed - crashed this morning ?__c2
+__s^bc__yeah ?__c3
+__s^aa|s__i did not crash this morning .__c2
+__s.%--__oh !__c1
+__s__well maybe it's just you know how many t- - u- - u- - u- - u- - how many times you crash in a day .__c1
+__s__really ?__cb
+__s__yeah .__cb
+__s__maybe yeah .__cb
+__b__first time - first time in the day .__c1
+__s__you know .__c1
+__s__or maybe it's once you've done enough meetings it won't crash on you anymore .__cb
+__s.%--__yeah .__c5
+__s^2__no .__c3
+__s__yeah .__c8
+__qw^rt__it's a matter of experience .__cb
+__s^rt__yeah .__c5
+__s^rt__yeah .__c1
+__s^bk^m__self learning yeah .__c8
+__b__that's - that's great .__c1
+__s^bk^rt__yeah .__cb
+__s.%-__yeah .__c3
+__s__uh ==__c1
+__s^aa|s^na__do we have an agenda ?__c1
+__s.%--__liz - liz and andreas can't sh- - can't - uh can't come .__c1
+__s^j__i do .__c2
+__s__so they won't be here .__c1
+__b__i have agenda .__c2
+__b__did ==__cb
+__s__and it's all me .__c2
+__b__because no one sent me anything else .__c2
+__fg|s__did they send uh the messages to you about the meeting today ?__cb
+__s^ba__i have no idea .__c2
+__qy^rt__but i just got it a few minutes ago .__c2
+__s^aa__oh .__cb
+__s^bk__oh .__cb
+__s__right when you were in my office it arrived .__c2
+__b__okay | because i checked my mail i didn't have anything .__cb
+__qw^rt__so does anyone have any a- - agenda items other than me ?__c2
+__qo^cs^d.%--__i actually have one more also which is to talk about the digits .__c2
+__s__uh right | so - so i - i was just going to talk briefly about the n s f i t r .__c1
+__s__uhhuh yeah .__c3
+__b__oh great .__c2
+__b__uh ==__c1
+__b__and then you have ==__c1
+__qr__can w- ==__c8
+__s__i mean i won't say much .__c1
+__s^e__but uh but then uh you said - want to talk about digits ?__c1
+__s__i have a short thing about digits .__c2
+__fh__and then uh i want to talk a little bit about naming conventions .__c2
+__s^bk__although it's unclear whether this is the right place to talk about it .__c2
+__s__so maybe just talk about it very briefly .__c2
+__s^bk__and take the details to the people who - for whom it's relevant .__c2
+__s__right .__c1
+__s^aa__yeah .__c3
+__fg|%-__i could always say something about transcription .__c8
+__s^na__i've been - but - but - uh well ==__c8
+__%-__well if we - yeah we shouldn't add things in just to add things in .__c1
+__b__i'm actually pretty busy today .__c1
+__s^aa^m__yeah .__c8
+__b__so if we can - we ==__c1
+__b__yeah yeah yeah .__c8
+__s.%--__a short meeting would be fine .__c1
+__s^ba__this does sound like we're doing fine .__c8
+__s^cs__yeah .__c8
+__s.%--__that won't do .__c8
+__fh__so the only thing i want to say about digits is we are pretty much done with the first test set .__c2
+__qy^rt__there are probably forms here and there that are marked as having been read that weren't really read .__c2
+__s^no__so i won't really know until i go through all the transcriber forms .__c2
+__s.%--__and extract out pieces that are in error .__c2
+__s.%--__so i wa- - uh two things .__c2
+__qw^br^rt__the first is what should we do about digits that were misread ?__c2
+__s__my opinion is um we should just throw them out completely .__c2
+__s^bk__and have them read again by someone else .__c2
+__s^tc__you know the grouping is completely random .__c2
+__s^t^tc__uhhuh .__c3
+__s__so it - it's perfectly fine to put a - a group together again .__c2
+__b__of errors .__c2
+__s.%--__and have them re read ==__c2
+__%-__just to finish out the test set .__c2
+__s__oh | by - throw them out completely ?__c8
+__qy^rt__um the other thing you could do is change the transcript to match what they really said .__c2
+__s^bk|s.%--__so those are - those are the two options .__c2
+__s__uhhuh .__c8
+__s__yeah .__c3
+__s^no__but there's often things where people do false starts .__c1
+__s.%--__i know i've done it where i say - say a ==__c1
+__qy^bu^d^rt__what the transcribers did with that is if they did a correction and they eventually did read the right string you extract the right string .__c2
+__s^aa__oh you're talking about where they completely read the wrong string and didn't correct it .__cb
+__s.%--__yeah .__c5
+__s^am__yeah | and didn't notice .__c2
+__fg|s^cs__uh !__cb
+__%-__yeah .__c5
+__s^aa__which happens in a few places .__c2
+__qy^rt__yeah .__c3
+__s^no__well | and s- - and you're talking string wise .__c8
+__s^df__so - so ==__c2
+__s^aa__you're not talking about the entire page .__c8
+__qy^br^d^rt__yeah .__c5
+__s^aa__correct .__c2
+__qy^bu^d^rt^t3__i get it .__c8
+__qw__and so the - the two options are change the transcript to match what they really said .__c2
+__s__but then but then the transcript isn't the aurora test set anymore .__c2
+__s__i don't think that really matters .__c2
+__s^e__because the conditions are so different .__c2
+__fg|%-__and that would be a little easier .__c2
+__fg|%-__well how many are - how - how often does that happen ?__cb
+__%-__huh five or six times .__c2
+__%-__oh | so it's not very much .__cb
+__b__no | it's not much at all .__c2
+__s^df__seems like we should just change the transcripts .__cb
+__b__yeah .__c5
+__s__okay .__c2
+__fh__to match .__cb
+__s^ar|s.%-__yeah | it's five or six times out of thousands ?__c1
+__%-__yeah .__c3
+__%-__four thousand .__c2
+__fh__four thous- - uh four thousand .__c3
+__s.%-__four thousand ?__c1
+__s__yeah .__cb
+__s__it's ==__cb
+__s^r__yeah | i would uh tak- - do the easy way .__c1
+__s.%--__yeah .__cb
+__s__okay .__c2
+__s__yeah .__c1
+__s.%--__yeah .__c3
+__s^bk^fe__it - it's kind of nice ==__c1
+__s:s^co__huh .__c3
+__s__i mean wh- - who knows what studies people will be doing on - on speaker dependent things ?__c1
+__s^rt__and so i think having - having it all ==__c1
+__fg|%-__yeah .__c3
+__s__the speakers who we had is - is at least interesting .__c1
+__b__so | you - um how many digits have been transcribed now ?__cb
+__b__four thousand lines .__c2
+__fh__and each line is between one and about ten digits .__c2
+__s__four thousand lines ?__cb
+__s^bk|qw^rt__i didn't i didn't compute the average .__c2
+__b__i think the average was around four or five .__c2
+__s^bu.%-__so that's a couple hours of - of uh speech probably .__c1
+__s__wow .__cb
+__s__yep .__c2
+__s__yep .__c2
+__b__which is a yeah reasonable - reasonable test set .__c1
+__b__uhhuh .__c3
+__s^bk|s.%--__uhhuh .__cb
+__s.%-__and jane i do have a set of forms which i think you have copies of somewhere .__c2
+__s^aa__uhhuh yeah true .__c8
+__b__oh | you do ?__c2
+__b__uhhuh uhhuh .__c8
+__s^bk^fe^rt__oh okay | good good .__c2
+__s__yeah i was just wond- ==__c2
+__s__i thought i had - had all of them back from you .__c2
+__s^ba__no | not yet .__c8
+__b__and then the other thing is that uh the forms in front of us here that we're going to read later were suggested by liz .__c2
+__fh__because she wanted to elicit some different prosodics from digits .__c2
+__b__uhhuh .__c3
+__s^ba^r__uhhuh .__c3
+__s.%-__and so uh i just wanted people to take a quick look at the instructions .__c2
+__s__eight eight two two two nine .__c5
+__fh__and the way it wa- - worked and see if it makes sense .__c2
+__s^aa|s^e.%-__and if anyone has any comments on it .__c2
+__s^aa|s^m^na__i see .__c1
+__s__and the decision here uh was to continue with uh the words rather than the - the numerics .__c1
+__s__uh | yes .__c2
+__qw__although we could switch it back .__c2
+__s^ar|s__the problem was o and zero .__c2
+__qy^br^d^rt__although we could switch it back and tell them always to say zero or always to say o .__c2
+__qw__oh .__c8
+__s^no__or neither .__c1
+__s__yeah .__c3
+__s__but it's just two thing - ways that you can say it .__c1
+__b__uhhuh .__c2
+__s__right ?__c1
+__s^bk|s__oh .__c8
+__fh__sure .__c2
+__%-__yeah .__c5
+__s__um - um ==__c1
+__s.%-__that's the only thought i have .__c1
+__b__because if you t- - start talking about these you know u- - tr- ==__c1
+__fh__she's trying to get at natural groupings .__c1
+__s^ba^fe__right .__c2
+__s^bk|s.%--__but it - there's - there's nothing natural about reading numbers this way .__c1
+__fh|s__i mean if you saw a telephone number you would never see it this way .__c1
+__qrr^rt__the - the problem also is she did want to stick with digits .__c2
+__s__i mean i'm speaking for her since she's not here .__c2
+__s__yeah .__c1
+__qrr.%--__but um the other problem we were thinking about is if you just put the numerals they might say forty three instead of four three .__c2
+__s^bk__yeah .__c5
+__fh__huh !__cb
+__b__yeah .__c3
+__s__yeah .__c5
+__s__yeah .__c3
+__s^bk__well if there's space though between them ==__c8
+__s__i mean you can ==__c8
+__s.%--__with - when you space them out they don't look like uh forty three anymore .__c8
+__s__yeah .__c5
+__b__well she and i were talking about it .__c2
+__s__yeah .__c1
+__b__and she felt that it's very very natural to do that sort of chunking .__c2
+__s^bk^fe__she's right | it's - it - it's a different problem .__c1
+__s^df__i mean it's a - it's a - it's an interesting problem .__c1
+__fg|%-__i mean we've done stuff with numbers before .__c1
+__s.%--__and yeah sometimes people ==__c1
+__s^bsc__if you say - s- - three nine eight one sometimes people will say thirty nine eighty one .__c1
+__s^df.%--__or three hundred - three hundred eighty nine one .__c1
+__s^aa__yeah .__c3
+__fh__or - i don't think they'd say that .__c1
+__s^co__but ==__c1
+__s.%--__not very frequently .__c2
+__qy^2^bu^d^rt__but th- ==__c1
+__s^bk^m__no .__c1
+__s^cs__but they certainly could .__c2
+__s^e__but ==__c1
+__fg|qy^rt__yeah .__c1
+__qy^rt__uh th- - thirty eight ninety one is probably how they'd do it .__c1
+__s^ba__so | i mean this is something that liz and i spoke about .__c2
+__s^ar__but ==__c1
+__s^ar__and since this was something that liz asked for specifically i think we need to defer to her .__c2
+__s__i see .__c1
+__s^rt__uhhuh .__c1
+__b__yeah .__c3
+__s^rt__okay | well we're probably going to be collecting meetings for a while .__c1
+__b__and if we decide we still want to do some digits later we might be able to do some different ver- - different versions .__c1
+__s^rt__do something different .__c2
+__s.x__yeah .__c2
+__s^2__but this is the next suggestion .__c1
+__qy^bu^d^rt__so ==__c1
+__s^aa|s^m^na__okay .__c1
+__s^bk__okay | so uh e- - l- - i guess let me uh get my - my short thing out about the n s f .__c1
+__s__i sent this ==__c1
+__b__actually this is maybe a little side thing .__c1
+__s__um i - i sent to what i thought we had uh in some previous mail as the right joint thing to send to .__c1
+__b__it was .__c2
+__s__which was m - m t g r c d r hyphen joint .__c1
+__s^bk__joint .__c2
+__qy^bu^d^rt__yep .__c2
+__s^aa|s__but then i got some sort of funny mail saying that the moderator was going to ==__c1
+__s__it's ==__c2
+__s__uhhuh .__c8
+__b__that's because they set the one up at u w .__c2
+__s^ba__that's not on our side that's on the u dub side .__c2
+__s^2__oh .__c1
+__b__and so u - u w set it up as a moderated list .__c2
+__s^ba__yeah .__c8
+__b__oh okay .__c1
+__s^aa__and i have no idea whether it actually ever goes to anyone .__c2
+__s^rt__so you might just want to mail to mari .__c2
+__s^rt__no - no | th- - i got - i got uh little excited notes from mari and jeff and so on .__c1
+__b__and ==__c2
+__b__okay | good .__c2
+__s__so it's ==__c1
+__s^ba__yeah .__c1
+__s__so the moderator actually did repost it .__c2
+__qy^d__yeah .__c1
+__s__because i had sent one earlier .__c2
+__s^aa|s.%-__actually the same thing happened to me - i had sent one earlier .__c2
+__s__the message says you'll be informed .__c2
+__b__and then i was never informed .__c2
+__s__but i got replies from people indicating that they had gotten it .__c2
+__b__so ==__c2
+__b__right .__c1
+__s^no__it's just to prevent spam .__c2
+__s^bk__i see .__c1
+__%-__yeah so o - okay | well anyway i guess - everybody here - are y- - are .__c1
+__qy^rt__you are on that list .__c1
+__s^aa__uhhuh .__cb
+__s^df__right ?__c1
+__s__so you got the note .__c1
+__s^df__yeah .__cb
+__fh__yeah okay .__c1
+__s__um ==__c1
+__s__so this was uh a uh proposal that we put in .__c1
+__b__before on - on more - more higher level uh issues in meetings .__c1
+__s^aa__from - i guess higher level from my point of view .__c1
+__s__and uh meeting mappings .__c1
+__s^df__and uh ==__c1
+__s^bk|s^ng__so is i- - for - it was a proposal for the i t r program .__c1
+__b__uh information technology research program's part of national science foundation .__c1
+__s^bk__it's the second year of their doing uh these grants .__c1
+__s__they're - they're ==__c1
+__s__a lot of them are ==__c1
+__%-__some of them anyway are larger - larger grants than the usual small n s f grants .__c1
+__fg__and ==__c1
+__b__so they're very competitive .__c1
+__s__and they have a first phase where you put in pre proposals .__c1
+__%-__and we - we uh got through that .__c1
+__s^ba__and so th- - the - the next phase will be - we'll actually be doing a larger proposal .__c1
+__s__and i'm - i - i hope to be doing very little of it .__c1
+__s^bk|s^no__and ==__c1
+__b.x__uh which was also true for the pre proposal .__c1
+__qy^rt__so ==__c1
+__qrr.%-__uh there'll be bunch of people working on it .__c1
+__s^rt__so ==__c1
+__s__when's - when's the full proposal due ?__c2
+__b__uh i think april ninth or something .__c1
+__s^2^j__so it's about a month .__c1
+__qy^bu^j__p- - s- ==__c5
+__s^bk|qy.%-__yep .__c2
+__s^df__um ==__c1
+__s^ar|%-__and they said end of business day you could check on the reviewer forms .__c2
+__s__u- ==__cb
+__s^df__tomorrow .__cb
+__s^bk__is that ?==__c2
+__b__tomorrow .__c1
+__s^fa__tomorrow .__c5
+__fg|s^tc.%--__march second i said .__c1
+__s__yeah .__c5
+__s__tomorrow .__c3
+__s__i've been a day off all week .__c2
+__qy^bu^d^rt__i guess that's a good thing .__c2
+__qrr__because that way i got my papers done early .__c2
+__%-__it would be interesting ==__cb
+__s^ar|s__so that's amazing you showed up at this meeting !__c1
+__s__it is it is actually quite amazing .__c2
+__s^bk__yeah .__c5
+__s^bk__it'll be interesting to see the reviewer's comments .__cb
+__s__yeah .__c1
+__s__yeah .__c1
+__b__my favorite is was when - when - when one reviewer says uh you know this should be far more detailed .__c1
+__%-__and the nex- - the next reviewer says you know there's way too much detail .__c1
+__s.%--__yep .__c2
+__%-__or this is way too general .__c2
+__s__and the other reviewer says this is way too specific .__c2
+__qy^bu^d^rt__yeah .__c3
+__qy^d^e__yeah .__c1
+__h|s^bu__yeah .__c3
+__qy^d^rt__yeah .__c1
+__s^aa|s__this is way too hard .__c2
+__s^bk__way too easy .__c2
+__s^bk__we'll see .__c1
+__s__maybe there'll be something useful .__c1
+__s^bk|s__and - and uh ==__c1
+__fh__well it sounded like they - they the first gate was pretty easy .__c2
+__b.%__is that right ?__c2
+__fh__that they didn't reject a lot of the pre proposals .__c2
+__s^bk__do you know anything about the numbers ?__c1
+__b__no .__c2
+__s^rt^t^tc__it's just from his message it sounded like that .__cb
+__s__just - just th- ==__c2
+__s__yeah yeah .__c5
+__fh__i said something yeah .__c5
+__s__gary strong's ==__cb
+__s^df.%--__there was a sentence at the end of one of his paragraphs .__cb
+__qy^rt__i- ==__c1
+__s^aa|s__i ==__cb
+__qw__yeah .__c5
+__s__i should go back and look .__c1
+__s^ba__i didn't - i don't think that's true .__c1
+__s__yeah okay .__c2
+__fh|s.%-__huh .__cb
+__qy^bu^d__he said the next phase will be very competitive .__cb
+__s^2__very - very ==__c5
+__s^2__because we didn't want to weed out much in the first phase .__cb
+__s^bk__yeah .__c5
+__%-__yeah .__c5
+__qy^bu^d^rt__or something like that .__c2
+__s^ar|s__well we'll have to see what the numbers are .__c1
+__s__uhhuh .__c3
+__b__so ==__c2
+__qy^d^f^g__huh .__c3
+__s^rt__yeah .__c1
+__b__but they - they have to weed out enough so that they have enough reviewers .__c1
+__s__right .__c2
+__s^aa__yeah .__c3
+__b__so uh you know maybe they didn't r- - weed out as much as usual .__c1
+__s^e__but it's - it's usually a pretty ==__c1
+__s__but it ==__c1
+__b__yeah it's - it's certainly not i'm sure that it's not down to one in two or something .__c1
+__b__right .__c2
+__s^bs__of what's left .__c1
+__b__i'm sure it's you know ==__c1
+__s__how - how many awards are there ?__c2
+__fh__do you know ?__c2
+__%-__well there's different numbers of w- - awards for different size .__c1
+__fg|s__they have three size grants .__c1
+__%-__this one there's ==__c1
+__s__um ==__c1
+__s__see the small ones are less than five hundred thousand total over three years .__c1
+__x__and that they have a fair number of them .__c1
+__s__um ==__c1
+__s^rt__and the large ones are ==__c1
+__s^bk__uh ==__c1
+__s__boy i forget .__c1
+__s__i think more than ==__c1
+__b__uh ==__c1
+__s__more than a million and a half more than two million or something like that .__c1
+__s__and - and we're in the middle ==__c1
+__s__uhhuh .__c2
+__s__middle category .__c1
+__s^df__i think we're ==__c1
+__s__uh uh ==__c1
+__s^cs__i forget what it was .__c1
+__s^df__but um ==__c1
+__s^cs__uh i don't remember .__c1
+__s^bk|s^ba__but it's pr- - probably along the li- ==__c1
+__s__i - i could be wrong on this .__c1
+__s^df__yeah but probably along the lines of fifteen or - that they'll fund or twenty .__c1
+__s^rt__i mean when they - do you - do you know how many they funded when they f- - in - in chuck's ?__c1
+__s__that he got last year .__c1
+__s__i don't - i don't know .__cb
+__b__yeah .__c1
+__b__i thought it was smaller .__c2
+__s^cs.%--__that it was like four or five .__c2
+__s^cs.%-__wasn't it ?__c2
+__s^na__i - i'm ==__cb
+__s^df__well they fund ==__c1
+__s__i don't remember .__cb
+__b__they ==__c1
+__s.%-__yeah .__c1
+__%-__uh it doesn't matter .__c2
+__s^no__i mean ==__c1
+__qr__we'll find out one way or another .__c2
+__s__yeah .__c1
+__s__i mean last time i think they just had two categories .__c1
+__s^rt__small and big .__c1
+__s__uhhuh .__c2
+__s__and this time they came up with a middle one .__c1
+__b__so it'll there'll be more of them that they fund than of the big .__c1
+__fh__if we end up getting this um what will it mean to icsi in terms of w- - wh- - where will the money go to ?__cb
+__b__what would we be doing with it ?__cb
+__s^df__uh ==__c1
+__s^df__exactly what we say in the proposal .__c2
+__s^bk|qw__i - i mean uh which part is icsi though ?__cb
+__qw.%-__you know it - i- ==__c1
+__s^rt__i mean ==__cb
+__b__none of it will go for those yachts that we've talking about .__c1
+__b__dang !__cb
+__s^rt__um well ==__c1
+__s^e__no i mean it's - u- ==__c1
+__s__it ==__c1
+__s^e__it's just for the research .__cb
+__b__to continue the research on the meeting recorder stuff .__cb
+__s__it's extending the research .__c1
+__qy^bu^d^rt__right ?__c1
+__s^aap__yeah .__cb
+__s|s^aa__because the other ==__c1
+__s^bk^m__yeah | it's go- - higher level stuff than we've been talking about for meeting recorder .__c2
+__b__yeah .__c1
+__b__yeah | the other things that we have uh been working on with uh the c- - with communicator .__c1
+__s^aa__uh especially with the newer things .__c1
+__fh__with the more acoustically oriented things are - are - are - are lower level .__c1
+__s^bk^rt|s^ba__and ==__c1
+__fg|s__this is dealing with uh mapping on the level of - of um the conversation .__c1
+__s__uhhuh .__cb
+__s__of mapping the conversations .__c1
+__s^bk|s^ng.%-__right right .__cb
+__b__to different kind of planes .__c1
+__s__so um but um ==__c1
+__s^bk__so it's all- - it's all stuff that none- - none of us are doing right now .__c1
+__s^bd__or none of us are funded for .__c1
+__b__so it's so it's - it would be new .__c1
+__s^rt__so assuming everybody's completely busy now it means we're going to have to hire more students or something ?__cb
+__s__well there's evenings and there's weekends .__c1
+__s^bk|s^ng.%-__and uh ==__c1
+__%-__yeah | there - there would be - there would be new hires .__c1
+__fg|s.%-__and - and there - there would be expansion .__c1
+__b__but ==__c1
+__s^aa|s^ba__also there's always for everybody there's - there's always things that are dropping off .__c1
+__qw^rt__grants that are ending .__c1
+__h|s.%--__or other things that are ending .__c1
+__qy.%--__right .__cb
+__h__so ==__c1
+__h|s.%--__uhhuh .__c3
+__s.%--__there's - there's a continual need to - to bring in new things .__c1
+__b__right .__cb
+__s__yep .__c2
+__s__i see .__cb
+__s__but - but there definitely would be new - new - new uh students .__c1
+__b__and so forth both at - at u w and here .__c1
+__s__are there any students in your class who are expressing interest ?__c2
+__s__um | not clear yet .__c1
+__b__other than the one who's already here .__c2
+__s__not clear yet .__c1
+__b__i mean we got - we have ==__c1
+__s^bu__yeah two of them are - two in the c- - there're two in the class already here .__c1
+__s^aa|s^na__and then ==__c1
+__s^bu__and - and uh uh ==__c1
+__s.%-__then there's a third who's doing a project here .__c1
+__b__uhhuh .__c2
+__b__who uh - but he - he - he won't be in the country that long .__c1
+__s.%--__and ==__c1
+__s.%--__maybe another will end up ==__c1
+__s^2__yep .__c2
+__b__actually there is one other guy who's looking - that - that's that ==__c1
+__s__guy uh ==__c1
+__s__jeremy i think .__c1
+__s__huh .__c3
+__fh__uhhuh .__c3
+__s__anyway | yeah that's - that's all i was going to say is that that that's - you know that's nice .__c1
+__fg__and we're sort of preceding to the next step .__c1
+__s__and it'll mean some more work uh you know in in march in getting the proposal out .__c1
+__b__and then it's uh you know we'll see what happens .__c1
+__%-__uh the last one was - that you had there was about naming ?__c1
+__qh__yep .__c2
+__s^bk|s^ba__it just uh - we've been cutting up sound files in - for ba- - both digits and for uh doing recognition .__c2
+__fh__and liz had some suggestions on naming .__c2
+__s^cs__and it just brought up the whole issue that hasn't really been resolved about naming .__c2
+__s__so uh one thing she would like to have is for all the names to be the same length .__c2
+__qy^d^f^g__so that sorting is easier .__c2
+__s^df__yeah .__c3
+__s^aa__um ==__c2
+__b__same number of characters .__c2
+__s^aa__so that when you're sorting filenames you can easily extract out bits and pieces that you want .__c2
+__b__and that's easy enough to do .__c2
+__s^ba__and i don't think we have so many meetings that that's a big deal just to change the names .__c2
+__s__so that means uh instead of calling it m r one m r two you'd call it m r m zero zero one .__c2
+__%-__m r m zero zero two things like that .__c2
+__s^df__just so that they're - they're all the same length .__c2
+__b__but you know when you do things like that you can always ==__c8
+__qy^bu^d^rt__as long as you have ==__c8
+__qw.%-__uh you can always search from the beginning or the end of the string .__c8
+__fh__you know so zero zero two ==__c8
+__s^aa__the problem is that they're a lot of fields .__c2
+__qy^bu^d^rt__yeah .__c8
+__%--__all right .__c2
+__s^aa__so we - we have th- - we're going to have the speaker i d .__c2
+__s^bk__the session .__c2
+__qr__uh uh ==__c2
+__s^aa__yeah | well your example was really ==__c8
+__s__information on the microphones .__c2
+__s__i- ==__c8
+__s^bk__uhhuh .__c3
+__s__information on the speak- - on the channels and all that .__c2
+__s__okay .__c8
+__b__and so if each one of those is a fixed length the sorting becomes a lot easier .__c2
+__s__she wanted to keep them the same lengths across different meetings also .__c4
+__s^bk__so like the n s a meeting lengths all filenames are going to be the same length as the meeting recorder meeting names ?__c4
+__s__yep .__c2
+__s__and as i said the- - it's - we just don't have that many that that's a big deal .__c2
+__s^cs__because of digits ?__cb
+__%-__and so uh um at some point we have to sort of take a few days off ==__c2
+__s^aa__let the transcribers have a few days off .__c2
+__s^ng__make sure no one's touching the data .__c2
+__b__and re organize the file structures .__c2
+__fh__and when we do that we can also rationalize some of the naming .__c2
+__s^ng__i - i would think though that the transcribe - the transcripts themselves wouldn't need to have such lengthy names .__c8
+__s^am^bd__so i mean you're dealing with a different domain there and with start and end times and all that .__c8
+__s^aa__right .__c2
+__%-__and channels and stuff .__c8
+__fg|s__so it's a different set .__c8
+__b__right | so the only thing that would change with that is just the directory names .__c2
+__b__i would change them to match .__c2
+__s__so instead of being m r one it would be m r m zero zero one .__c2
+__s^ar|s^df__but i don't think that's a big deal .__c2
+__s^2__fine .fine .__c8
+__fg|s__so for - for m- - the meetings we were thinking about three letters and three numbers .__c2
+__s^bk__for meeting i ds .__c2
+__s^df__uh for speakers m or f and then three numbers .__c2
+__s^cs__for uh - and uh ==__c2
+__s^cs^e__that also brings up the point that we have to start assembling a speaker database so that we get those links back and forth .__c2
+__s^cs^e.%--__and keep it consistent .__c2
+__s^bd^df__um ==__c2
+__%-__and then uh the microphone issues .__c2
+__s__we want some way of specifying more than looking in the key file what channel and what mike what channel what mike and what broadcaster .__c2
+__fh__or - i don't know how to s- - say it .__c2
+__s^aa__so i mean with this one it's this particular headset with this particular transmitter w- - as a wireless .__c2
+__h__yeah .__c3
+__s^cs__yep .__c5
+__s^cs^e__and you know that one is a different headset and different channel .__c2
+__s^aa__and so we just need some naming conventions on that .__c2
+__s^2^cs__yeah .__c3
+__s^cs__and uh ==__c2
+__s^aa__uhhuh .__c3
+__s^aa__that's going to become especially important once we start changing the microphone set up .__c2
+__s^bu__we have some new microphones that i'd like to start trying out .__c2
+__qy^d^g^rt__um ==__c2
+__s^ar__once i test them .__c2
+__s.%--__and then we'll - we'll need to specify that somewhere .__c2
+__s^fe__so i was just going to do a fixed list of uh microphones and types .__c2
+__s^cs__yeah .__c3
+__s^cs^e^rt__okay .__c5
+__s^bk^m|s^aa__so as i said ==__c2
+__b__that sounds good .__cb
+__qh__yeah .__c3
+__s__um | since we have such a short agenda list i guess i wi- - i will ask how - how are the transcriptions going ?__c1
+__s^ba__yeah .__c1
+__s^df__the - the news is that i've - i uh ==__c8
+__s^aa__s- - so - in s- - um ==__c8
+__s__so i've switched to ==__c8
+__fh__start my new sentence .__c8
+__s.%--__i - i switched to doing the channel by channel transcriptions to provide uh the - uh tighter time bins for - partly for use in thilo's work .__c8
+__qy^d^rt__and also it's of relevance to other people in the project .__c8
+__s^ar|s^df__and um i discovered in the process a couple of - of interesting things .__c8
+__s__which um ==__c8
+__s__one of them is that um it seems that there are time lags involved in doing this .__c8
+__s^bk__uh uh ==__c8
+__s^bk__using an interface that has so much more complexity to it .__c8
+__fh__and i - and i wanted to maybe ask uh chuck to help me with some of the questions of efficiency .__c8
+__s.%-__maybe - i was thinking maybe the best way to do this in the long run may be to give them single channel parts .__c8
+__s__and then piece them together later .__c8
+__qw^br^rt__and i - i have a script .__c8
+__s__i can piece them together .__c8
+__s__i mean so it's like i - i know that i can take them apart and put them together and i'll end up with the representation .__c8
+__qh^br__which is where the real power of that interface is .__c8
+__s__and it may be that it's faster to transcribe a channel at a time with only one uh sound file and one uh set of - of uh utterances to check through .__c8
+__qy^rt__uhhuh .__c1
+__x__yeah .__c3
+__s^aa^rt__i'm a little confused .__c1
+__s^ng__i thought that - that one of the reason we thought we were so much faster than - than uh the - the other transcription uh thing was that - that we were using the mixed file .__c1
+__b__oh yes okay .__c8
+__s__but um with the mixed when you have an overlap you only have a - a choice of one start and end time for that entire overlap .__c8
+__s^fe__which means that you're not tightly uh tuning the individual parts th- - of that overlap by different speakers .__c8
+__s__uhhuh .__c1
+__s^ba__so someone may have only said two words in that entire big chunk of overlap .__c8
+__s^aa__yeah .__c1
+__s^df^e__yeah .__c1
+__s^aa^rt__and for purposes of - of uh things like ==__c8
+__qw__well so things like training the speech nonspeech segmentation thing .__c8
+__%__yeah .__c5
+__s__th- - it's necessary to have it more tightly tuned than that .__c8
+__qh^br__okay .__c1
+__qy^bu^d^rt__and w- - and w- - and you know is- - a- - it would be wonderful if uh it's possible then to use that algorithm to more tightly tie in all the channels after that .__c8
+__s^ar__but um you know i've th- - the ==__c8
+__s__so ==__c8
+__s__i- - i don't know exactly where that's going at this point .__c8
+__s^aa|s__but m- - i was experimenting with doing this by hand .__c8
+__s^df__and ==__c8
+__s^aa__i really do think that it's wise that we've had them start the way we have .__c8
+__s__with uh m- - y- - working off the mixed signal .__c8
+__b__um ==__c8
+__s^fe__having the interface that doesn't require them to do the ti- - uh the time bins for every single channel at a t- - uh through the entire interaction .__c8
+__s^ba__uhhuh .__c1
+__s^aa__um i did discover a couple other things by doing this though .__c8
+__s^cs^j__and one of them is that .__c8
+__s^aa__um um ==__c8
+__s^bu__once in a while a backchannel will be overlooked by the transcriber .__c8
+__qy^d^g^rt__as you might expect .__c8
+__s^rt__uhhuh .__c1
+__s.%--__because when it's ==__c8
+__b__sure .__c1
+__s__a b- - backchannel could well happen in a very densely populated overlap .__c8
+__s^2__and if we're going to study types of overlaps ==__c8
+__b__which is what i want to do .__c8
+__b__an analysis of that ==__c8
+__s__then that really does require listening to every single channel all the way through the entire length for all the different speakers .__c8
+__b__now for only four speakers that's not going to be too much time .__c8
+__s__but if it's nine speakers then that i- - that is more time .__c8
+__qy^d^f^g__so it's li- - you know kind of wondering ==__c8
+__s^2^df.%-__and i think again it's like this - it's really valuable that thilo's working on the speech nonspeech segmentation .__c8
+__s^df__because maybe um we can close in on that wi- - without having to actually go to the time that it would take to listen to every single channel from start to finish through every single meeting .__c8
+__s^2__yeah | but those backchannels will always be a problem i think .__c5
+__b__uh especially if they're really short .__c5
+__b__and they're not very loud .__c5
+__s^fe__and so it - it can - it - it will always happen that also the automatic s- - detection system will miss some of them .__c5
+__fh__so ==__c5
+__b__okay .__c8
+__s__well so then - then maybe the answer is to uh listen especially densely in places of overlap .__c8
+__s^2__just so that they're - they're not being overlooked because of that .__c8
+__fg|s^cs^t^tc__yeah .__c5
+__s^e__and count on accuracy during the sparser phases .__c8
+__b__yeah .__c5
+__s__because there are large s- - spaces of the ==__c8
+__fg__that's a good point .__c8
+__s__there are large spaces where there's no overlap at all .__c8
+__s^e__someone's giving a presentation .__c8
+__qw__yeah .__c5
+__fh__or whatever .__c8
+__qy.%--__that's - that's a good - that's a good thought .__c8
+__s__and um | let's see there was one other thing i was going to say .__c8
+__s^bk|s^bu.%-__i - i think it's really interesting data to work with .__c8
+__s^aa__i have to say it's very enjoyable .__c8
+__s^ba__i- - really not - not a problem spending time with these data .__c8
+__s^aa__really interesting .__c8
+__s^df__and not just because i'm in there .__c8
+__s^cs.%--__no it's real interesting .__c8
+__s__uh | well i think it's a short meeting .__c1
+__s^df__uh you're - you're - you're still in the midst of what you're doing from what you described last time i assume .__c1
+__s^df^e__is true .__c3
+__s^aa__uhhuh .__c8
+__qy^rt__i haven't results uh yet .__c3
+__qy^bu^d^rt__and ==__c1
+__qy^rt__but uh ==__c3
+__qw^br^rt__yeah .__c1
+__%-__i - i'm continue working with the mixed signal now after the - the last experience .__c3
+__s^aa|s^am.%--__yeah yeah .__c1
+__b__and - and i'm tried to to uh adjust the to - to improve uh an harmonicity uh detector that uh i - i implement .__c3
+__s__yeah .__c1
+__qw__but i have problem .__c3
+__b__because uh i get uh ==__c3
+__s.%--__uh ==__c3
+__s^bk|s^no__very much harmonics now .__c3
+__s__yeah .__c1
+__s.%--__um harmonic - possi- - possible harmonics .__c3
+__s__uh ==__c3
+__s__uh and now i'm - i'm - i'm trying to - to find uh some kind of a um of h- - of help uh using the energy to - to distinguish between possible harmonics and - and other fre- - frequency peaks that uh corres- - not harmonics .__c3
+__s__and ==__c3
+__s^aa|s__uh i have to - to talk with y- - with you with the group uh about the instantaneous frequency .__c3
+__b__because i have uh an algorithm .__c3
+__s^aa|s__and i get ==__c3
+__b__huh uh ==__c3
+__s__t- - t- - results - similar results like uh the paper uh that i - i am following .__c3
+__b__but uh the - the rules uh that uh people used in the paper to - to distinguish the harmonics is doesn't work well .__c3
+__qy^bu^d^rt__uhhuh .__c1
+__s^aa__and i - i - i - i not sure that i- - uh the - the way - o- - to - ob- - the way to obtain the - the instantaneous frequency is right .__c3
+__s^aa^m__or it's - it's not right .__c3
+__qy^rt__uh ==__c3
+__s.%--__yeah .__c1
+__s^bd__i haven't enough file- - feeling to - to - to distinguish what happened .__c3
+__s__yeah | i'd like to talk with you about it .__c1
+__s__if - if - if uh - if i don't have enough time and y- - you want to discuss with someone else ==__c1
+__b__some- - someone else besides us that you might want to talk to uh might be stephane .__c1
+__s__yeah .__c3
+__s__i talked with stephane and - and thilo .__c3
+__s__yeah | and - and thilo .__c1
+__s__yeah .__c1
+__s__and ==__c3
+__s__yeah but ==__c1
+__s__they nnn they - they - they didn't ==__c3
+__s^ba__i'm not too experienced with harmonics .__c5
+__fh__they think that the experience is not enough to ==__c3
+__s__i see .__c1
+__fh__and ==__c5
+__qy^bu^d^rt__is - is this the algorithm where you hypothesize a fundamental and then get the energy for all the harmonics of that fundamental ?__cb
+__fg|qw.%-__no no | it's - no ==__c3
+__qrr.%--__no .__c3
+__s__and then hypothesize a new fundamental and get the energy .__cb
+__s^co__no .__c3
+__s__yeah | that's wh- ==__c1
+__s__no | i - i - i - i don't proth- - process the - the fundamental .__c3
+__b__i - i um i calculate the - the phase derivate using the f f t .__c3
+__s__yeah .__c1
+__s.%--__and ==__c3
+__s__the algorithm said that uh if you - if you change the - the - the ==__c3
+__b__uh nnn ==__c3
+__qy__the x - the frequency x uh using the in- - the instantaneous frequency .__c3
+__%-__you can find uh how uh in several frequencies that proba- - probably the - the harmonics uh ==__c3
+__s^ar__uhhuh .__c1
+__s^ba__the errors of peaks - the frequency peaks uh - uh move around these uh - uh frequency harmonic .__c3
+__s^ar^r__the frequency of the harmonic .__c3
+__%__and uh | if you - if you compare the - the instantaneous frequency uh of the - of the uh continuous uh - uh filters that uh - that uh they used uh to - to - to get uh the - the instantaneous frequency ==__c3
+__s^bu__uhhuh .__c1
+__s^m^na__it probably too you can find uh that the instantaneous frequency for the continuous uh - uh - the output of the continuous filters are very near .__c3
+__s^bk__and in my case - i- - in - equal with our signal it doesn't happened .__c3
+__b__yeah | i'd have to look at that and think about it .__c1
+__qw.%--__and ==__c3
+__s.%-__it's - it's - it's - i haven't worked with that either .__c1
+__s^ar|s__so i'm not sure .__c1
+__s__the way - the simple minded way i suggested was what chuck was just saying is that you could make a - a sieve .__c1
+__s^ar^rt|s^rt__yeah .__c3
+__s__you know y- - you actually say that here is ==__c1
+__s__let's - let's hypothesize that it's this frequency or that frequency .__c1
+__qy^d^g__and - and uh ==__c1
+__s__yeah .__c3
+__s^bk^m__maybe you - maybe you could use some other cute methods to uh short cut it by - by uh making some guesses .__c1
+__s__but but uh uh uh ==__c1
+__s__i would uh ==__c1
+__s.%--__i mean you could make some guesses from uh - from the auto correlation or something .__c1
+__s^bk|s__but - but then given those guesses try ==__c1
+__s__um uh ==__c1
+__s^bk__only looking at the energy at multiples of the - of that frequency .__c1
+__fh__and - and see how much of the ==__c1
+__s__take the one that's maximum .__c1
+__s^2__call that the ==__c1
+__fh__yeah .__c3
+__s^ba__using the energy of the - of the multiple of the frequency .__c3
+__s^2^m__but ==__c1
+__s^aa__of all the harmonics of that | yeah .__c1
+__fh__yeah .__c3
+__s^ba^fe__do you have to do some kind of uh low pass filter before you do that ?__cb
+__qy^rt__i don't use .__c3
+__b__or ?==__cb
+__s.%-__but i - i know many people use uh low pass filter to - to - to get uh the pitch .__c3
+__s__no ?__c1
+__s^bk__to get the pitch | yes .__c1
+__s^e__i don't use .__c3
+__s^bk__to get the pitch | yeah .__c5
+__s^df__to get the pitch | yes .__c3
+__%-__but the harmonic | no .__c3
+__s__but i- ==__cb
+__qw.%-__but the harmonics are going to be ==__cb
+__s^aa|s^ba__uh uh ==__cb
+__qy^d^g^rt__i don't know what the right word is .__cb
+__s__um ==__cb
+__s__they're going to be dampened by the uh vocal tract .__cb
+__b__right ?__cb
+__fg|s__the response of the vocal tract .__cb
+__s__yeah .__c1
+__qh__yeah .__c3
+__s^cs__and so just looking at the energy on those - at the harmonics is that going to ?==__cb
+__s^cs__well so the thing is that the ==__c1
+__s^ba__this is for ==__c1
+__s^aa__uh a um ==__c1
+__s__i m- - what you'd like to do is get rid of the effect of the vocal tract .__cb
+__s__right ?__cb
+__s^cs__yeah .__c5
+__s^cs^e__and just look at the at - at the signal coming out of the glottis .__cb
+__s^e__yeah .__c1
+__s^cs__uh well ==__c1
+__qy^bu^ng^rt.%-__yeah | that'd be good .__c1
+__s^aa__yeah .__c3
+__s^cs__but uh - but i - but - but i don't know that you need to .__c1
+__s^bk__open wide !__c2
+__b__but i don't need you - know if you need to get rid of it .__c1
+__s^cs__i mean that'd - that'd be nice .__c1
+__s^bk|s__but i don't know if it's ess- - if it's essential .__c1
+__s^df.%--__um i mean because i think the main thing is that uh you're trying ==__c1
+__s^2__uhhuh .__cb
+__s__wha- - what are you doing this for ?__c1
+__s__you're trying distinguish between the case where there is uh where - where there are more than uh where there's more than one speaker .__c1
+__s^bd__and the case where there's only one speaker .__c1
+__fh__sorry .__c2
+__s__so if there's more than one speaker ==__c1
+__s^cc__um ==__c1
+__fh__yeah | i guess you could - i guess ==__c1
+__s^ba^ng__yeah you're - so you're not distinguished between voiced and unvoiced .__c1
+__s^bk|s__so so i- - if you don't if you don't care about that ==__c1
+__s^ba^fe__yeah .__c3
+__b__see if you also want to just determine if you also want to determine whether it's unvoiced then i think you want to look - look at high frequencies also .__c1
+__s__because the f- - the fact that there's more energy in the high frequencies is going to be an ob- - sort of obvious cue that it's unvoiced .__c1
+__b__yeah .__cb
+__s__but i- - i- - uh i mean i- - i- ==__c1
+__fh__but um ==__c1
+__s__other than that i guess as far as the one person versus two persons it would be primarily a low frequency phenomenon .__c1
+__qy.%--__and if you looked at the low frequencies yes the higher frequencies are going to - there's going to be a spectral slope .__c1
+__b__the higher frequencies will be lower energy .__c1
+__s^e^rt__but so what ?__c1
+__s__i mean that's - that's w- ==__c1
+__s^ba__i will prepare for the next week uh all my results about the harmonicity .__c3
+__fh__and will - will try to come in ==__c3
+__qy^bu^d^rt__and to discuss here ==__c3
+__s^e^rt__because uh i haven't enough feeling to - to u- - many time to - to understand what happened with the - with uh so many peaks .__c3
+__s^ar^rt__uh uh ==__c3
+__qy^br^m^rt__and i - i see the harmonics there many time .__c3
+__s^cs.%-__but uh there are a lot of peaks .__c3
+__s^ba^fe__uh that uh they are not harmonics .__c3
+__qw__um ==__c3
+__qw__yeah .__c1
+__b__i have to discover what - what is the - the w- - the best way to - to - to c- - to use them .__c3
+__h|s__well but - yeah i don't think you can i mean you're not going to be able to look at every frame .__c1
+__fh__so i mean ==__c1
+__s__i - i mean i - i really - i- - i really thought that the best way to do it .__c1
+__s^aa|s__and i'm speaking with no experience on this particular point .__c1
+__s.%--__but my impression was that the best way to do it was however you - you've used instantaneous frequency whatever however you've come up - you - with your candidates you want to see how much of the energy is in that .__c1
+__fh__yeah .__c3
+__qw^br^rt__yeah .__c3
+__s.%-__as coppo- - as opposed to all of the - all - the total energy .__c1
+__s__and um if it's voiced ==__c1
+__s__i guess - so - so y- - i think maybe you do need a voiced unvoiced determination too .__c1
+__b__but if it's voiced ==__c1
+__s__yeah .__c3
+__s^ba^fe__um and the uh ==__c1
+__s^rt__e- - the fraction of the energy that's in the harmonic sequence that you're looking at is relatively low then it should be - then it's more likely to be an overlap .__c1
+__s^rt__is height .__c3
+__s^bk__yeah .__c3
+__s^e__this - this is the idea - the idea i - i - i had .__c3
+__s^cs^rt__to - to compare the - the ratio of the the energy of the harmonics with the uh with the uh total energy in the spectrum .__c3
+__b__and try to get a ratio to - to distinguish between overlapping and speech .__c3
+__s^aa__huh .__c3
+__%-__but you're looking a- - y- - you're looking at ==__c1
+__s^cs__let's take a second with this .__c1
+__s^bk__uh uh ==__c1
+__b__you're looking at f- - at the phase derivative .__c1
+__s^no__um ==__c1
+__s__in - in uh ==__c1
+__s__what domain ?__c1
+__b__i mean this is - this is in - in - in - in bands ?__c1
+__s^bk__or - or ?==__c1
+__fh__no no no .__c3
+__qy^rt__just - just overall ==__c1
+__s^df__it's a - it's a - o- ==__c3
+__s^t1.%-__i- - w- - the band - the band is uh from zero to - to four kilohertz .__c3
+__s^e__and i - i ot- - i ==__c3
+__s__and you just take the instantaneous frequency .__c1
+__s__yeah i u- - m- - t- - i - i used two m- - two method - two methods .__c3
+__s__uh one uh based on the f - uh f t t .__c3
+__s^bk__to f f t ==__c3
+__s__to - to obtain the - or to study the harmonics ==__c3
+__s__from - from the spectrum directly ==__c3
+__fh__and to study the energy and the multiples of ==__c3
+__s^t^tc__yeah .__c1
+__b__yeah .__c1
+__b__frequency .__c3
+__fg__and another - another algorithm i have ==__c3
+__qy^rt__is the - in the instantaneous frequency ==__c3
+__s^aa__based on - on ==__c3
+____on the f f t to ==__c3
+____to - to calculate the - the phase derivate ==__c3
+__z__in the time .__c3
+____uh uh n- - the d- ==__c3
+____i mean i - i have two - two algorithms .__c3
+____right .__c1
+____but uh in m- - i- - in my opinion the - the - the instantaneous frequency ==__c3
+__z__the - the - the behavior ==__c3

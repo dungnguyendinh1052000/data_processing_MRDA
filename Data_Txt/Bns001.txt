@@ -1,0 +1,756 @@
+__z__all right | we're on .__c0
+__z__test um test test test .__c1
+__z__guess that's me .__c1
+__z__yeah okay .__c1
+__z__ooh thursday .__c3
+__z__so ==__c1
+__z__there's two sheets of paper in front of us .__c1
+__z__yeah so ==__c5
+____what are these ?__c0
+__z__this is the arm wrestling ?__c1
+__z__uh | yeah we formed a coalition actually .__c2
+__z__yeah almost .__c5
+__z__we already made it into one .__c2
+__z__oh good .__c1
+____yeah .__c2
+____yeah .__c5
+____excellent .__c1
+__z__that's the best thing .__c1
+____uhhuh .__c5
+__z__so tell me about it .__c1
+____so it's - well it's spectral subtraction or wiener filtering .__c5
+____um ==__c5
+__z__depending on if we put - if we square the transfer function or not .__c5
+__z__right .__c1
+__z__and then with over estimation of the noise depending on the uh - the s n r with smoothing along time .__c5
+__z__um ==__c5
+__z__smoothing along frequency .__c5
+__z__uhhuh .__c1
+__z__it's very simple smoothing things .__c5
+__z__uhhuh .__c1
+__z__and um | the best result is when we apply this procedure on f f t bins uh with a wiener filter .__c5
+__z__uhhuh .__c1
+__z__and there is no noise addition after - after that .__c5
+__z__okay .__c1
+__z__so it's good .__c5
+__z__because it's difficult when we have to add noise to - to - to find the right level .__c5
+__z__okay .__c1
+__z__are you looking at one in - in particular of these two ?__c0
+__z__yeah | so the sh- - it's the sheet that gives fifty f - three point sixty six .__c5
+__z__uhhuh .__c1
+__z__um | the second sheet is abo- - uh about the same .__c5
+__z__and it's a spectral subtraction instead of wiener filter .__c5
+__z__and there is also a noise addition after uh cleaning up the mel bins .__c5
+__z__huh ==__c5
+__z__well the results are similar .__c5
+__z__yeah i mean it's - it's actually uh very similar .__c1
+__z__uhhuh .__c5
+__z__i mean if you look at databases ==__c1
+__z__uh ==__c1
+__z__the uh one that has the smallest - smaller overall number is actually better on the finnish and spanish .__c1
+__z__uh | but it is uh worse on the uh aurora .__c1
+__z__it's worse on ==__c5
+__z__i mean on the uh t i- - t i digits .__c1
+__z__on the multi condition in t i digits yeah .__c5
+__z__uh - uh ==__c1
+__z__um ==__c1
+__z__huh ==__c5
+__z__so it probably doesn't matter that much either way .__c1
+__z__but um when you say u- - uh unified do you mean uh it's one piece of software now ?__c1
+__z__or ?==__c1
+__z__so now we are - yeah - setting up the software .__c5
+__z__uhhuh .__c1
+__z__um | it should be ready uh very soon .__c5
+__z__um and we- ==__c5
+__z__so what's - what's happened ?__c0
+__z__i think i've missed something .__c0
+__z__so a week ago ==__c1
+__z__maybe you weren't around when - when - when hynek and guenther and i ==__c1
+__z__hynek was here .__c2
+__z__yeah i didn't .__c0
+__fg__oh okay | so - yeah let's summarize .__c1
+__s^co^rt^t__um - | and then if i summarize somebody can tell me if i'm wrong .__c1
+__s__which will also be possibly helpful .__c1
+__fh__what did i just press here ?__c1
+__fh|s^t__i hope this is still working .__c1
+__s^t__p-p-p- ==__c5
+__s^e__we uh - we looked at uh ==__c1
+__s__anyway we - after coming back from qualcomm we had you know very strong feedback .__c1
+__s__and uh i think it was hynek and guenter's and my opinion also that um you know we sort of spread out to look at a number of different ways of doing noise suppression .__c1
+__s__but given the limited time uh it was sort of time to choose one .__c1
+__s^co__uhhuh .__c0
+__fh|s__huh ==__c0
+__b__uh and so uh | th- - the vector taylor series hadn't really worked out that much .__c1
+__s__uh the subspace stuff uh had not been worked with so much .__c1
+__s^t__um | so it sort of came down to spectral subtraction versus wiener filtering .__c1
+__s__huh ==__c0
+__fh|s__uh | we had a long discussion about how they were the same and how they were d- - uh completely different .__c1
+__s^co^t__uhhuh .__c0
+__s__and uh | i mean fundamentally they're the same sort of thing .__c1
+__s__but the math is a little different .__c1
+__s^df__so that there's a - a - there's an exponent difference in the index .__c1
+__s^co__you know what's the ideal filtering .__c1
+__s^bk__and depending on how you construct the problem .__c1
+__s^bk__uhhuh .__c0
+__s^ft__and uh | i guess it's sort - you know after - after that meeting it sort of made more sense to me .__c1
+__s__because um if you're dealing with power spectra then how are you going to choose your error .__c1
+__s__and typically you'll do - choose something like a variance .__c1
+__s^e__and so that means it'll be something like the square of the power spectra .__c1
+__fh|s__uhhuh .__c2
+__fh|s__whereas when you're - when you're doing the - the uh um looking at it the other way you're going to be dealing with signals .__c1
+__fh|s__and you're going to end up looking at power - uh noise power that you're trying to reduce .__c1
+__s^e__and so uh - so there should be a difference of - you know conceptually of - of uh a factor of two in the exponent .__c1
+__s^e__uhhuh .__c0
+__s__but there're so many different little factors that you adjust in terms of - of uh - uh over subtraction and - and - and - and - and so forth .__c1
+__qy^d^f^g__um that arguably you're c- ==__c1
+__s__and - and - and the choice of do you - do you operate on the mel bands or do you operate on the f f t beforehand .__c1
+__fh__there're so many other choices to make that are - are almost - well if not independent certainly in addition to - the choice of whether you uh do spectral subtraction or wiener filtering .__c1
+__s__that um again we sort of felt the gang should just sort of figure out which it is they want to do .__c1
+__s__and then let's pick it .__c1
+__fh__go forward with it .__c1
+__s^e__so that's - that was - that was last week .__c1
+__s__and - and uh we said uh take a week go arm wrestle .__c1
+__s__you know .__c1
+__s^df__oh .__c3
+__fh|s__figure it out .__c1
+__fh|s__i mean and th- - the joke there was that each of them had specialized in one of them .__c1
+__s__and - and so they ==__c1
+__s__oh okay .__c0
+__s__so instead they went to yosemite and bonded and - and they came out with a single - single piece of software .__c1
+__fh|s__so it's another - another victory for international collaboration .__c1
+__s^e__so ==__c1
+__s__uh ==__c1
+__fh__so - so you guys have combined - or you're going to be combining the software ?__c0
+__s__oh boy !__c5
+__s__well the piece of software has like plenty of options .__c2
+__s^e__like you can parse command line arguments .__c2
+__s__so depending on that it - it becomes either spectral subtraction or wiener filtering .__c2
+__fh__oh okay .__c0
+__s__so ye- ==__c2
+__s^cc__well that's fine .__c1
+__qy^d^f^g^rt__they're close enough .__c0
+__s^bk__but the thing is - the important thing is that there is a piece of software that you - that we all will be using now .__c1
+__s^ft__yeah yeah .__c2
+__s^ft__yes .__c1
+__s__yeah .__c5
+__%__there's just one piece of software .__c2
+__s^bk__yeah .__c1
+__s^co__i need to allow it to do everything and even more - more than this .__c5
+__s^bk__well if we want to like optimize different parameters of ==__c5
+__s^bk__right .__c2
+__fh__parameters yeah .__c2
+__s^tc__sure .__c1
+__s^bk__yeah we can do it later .__c5
+__s^bk__but still - so there will be a piece of software with - uh will give this system the fifty three point sixty six by default .__c5
+__fh|s__and ==__c5
+__s__uhhuh .__c1
+__fh|s^cc__how - how is - how good is that ?__c0
+__s__uhhuh .__c5
+__%__i - i - i don't have a sense of ==__c0
+__b__it's just one percent off of the best proposal .__c5
+__fg__best system .__c2
+__s^co^t^tc__it's between - i- - we are second actually if we take this system .__c5
+__fh|s.%-__right ?__c5
+__fg__yeah .__c2
+__s^fa__yeah .__c1
+__qy.%-__okay .__c0
+__qw^d__compared to the last evaluation numbers yeah .__c0
+__s__but uh ==__c1
+__%__uhhuh yeah .__c5
+__s__yeah .__c2
+__s__w- - which we sort of were before .__c1
+__s^bk__but we were considerably far behind .__c1
+__s^df__and the thing is this doesn't have neural net in yet for instance .__c1
+__s__uhhuh .__c5
+__b__you know ?__c1
+__s__huh ==__c0
+__s^bk__so it - so um it's - it- - it's not using our full bal- - bag of tricks if you will .__c1
+__fh__uhhuh .__c0
+__s__and uh and it - it is uh very close in performance to the best thing that was there before .__c1
+__s^bk|s^ng__uh but you know looking at it another way maybe more importantly uh we didn't have any explicit noise uh handling .__c1
+__b__stationary - dealing with - e- - e- ==__c1
+__b__we didn't explicitly have anything to deal with stationary noise .__c1
+__fg__uhhuh .__c0
+__s__and now we do .__c1
+__s__so will the neural net operate on the output from either the wiener filtering or the spectral subtraction ?__c0
+__s__well so - so - so argu- - arguably i mean what we should do ==__c1
+__s^na__or will it operate on the original ?__c0
+__b__i mean i gather you have - it sounds like you have a few more days of - of nailing things down with the software and so on .__c1
+__b__but and then - but um arguably what we should do is - even though the software can do many things - we should for now pick a set of things .__c1
+__s__th- - these things i would guess .__c1
+__qy^bu^d^rt__uhhuh .__c5
+__fh|qr__and not change that .__c1
+__%-__and then focus on everything that's left .__c1
+__fh__and i think you know that our goal should be by next week when hynek comes back uh to uh really just to have a firm path uh for the - you know for the time he's gone .__c1
+__s^aa|s__of - of uh what things will be attacked .__c1
+__s^df.%-__but i would - i would - i would thought - think that what we would want to do is not futz with this stuff for a while .__c1
+__s^nd__because what'll happen is we'll change many other things in the system .__c1
+__s^df__uhhuh .__c0
+__s^ar__and then we'll probably want to come back to this and possibly make some other choices .__c1
+__s^df__but um ==__c1
+__s^bk__but just conceptually where does the neural net go ?__c0
+__s__do - do you want to h- - run it on the output of the spectrally subtracted ?__c0
+__s^bk__huh ==__c5
+__s^aa|s^na__well depending on its size ==__c1
+__fg__well one question is is it on the um server side or is it on the terminal side .__c1
+__s.%-__uh if it's on the server side it - you probably don't have to worry too much about size .__c1
+__s__uhhuh .__c0
+__fh__so that's kind of an argument for that .__c1
+__s^bk|s__we do still however have to consider its latency .__c1
+__b__so the issue is - is um for instance could we have a neural net that only looked at the past .__c1
+__s^bk__right .__c0
+__s__um what we've done in uh - in the past is to use the neural net uh to transform um all of the features that we use .__c1
+__s^df__so this is done early on .__c1
+__b__this is essentially um um - i guess it's - it's more or less like a spee- - a speech enhancement technique here .__c1
+__s__right ?__c1
+__s^df__uhhuh .__c0
+__b__where we're just kind of creating new - if not new speech - at least new - new f f t's .__c1
+__b__that - that have - you know which could be turned into speech .__c1
+__s__uhhuh .__c5
+__b__uh | that - that have some of the noise removed .__c1
+__b__uhhuh .__c0
+__s^bk__um | after that we still do a mess of other things to - to produce a bunch of features .__c1
+__s^ft__right .__c0
+__fg__and then those features are not now currently transformed by the neural net .__c1
+__s^co^rt^t^tc__and then the - the way that we had it in our proposal two before we had the neural net transformed features and we had the untransformed features .__c1
+__s__which i guess you - you actually did linearly transform with the k l t .__c1
+__%__yeah yeah right .__c5
+__qy^d^rt__but - but - but - uh to orthogonalize them .__c1
+__qy^d^rt__but - but they were not uh processed through a neural net .__c1
+__s^aa__and stephane's idea with that as i recall was that you'd have one part of the feature vector that was very discriminant and another part that wasn't .__c1
+__s^bk__uhhuh .__c0
+__s^bk__uh | which would smooth things a bit for those occasions when uh the testing set was quite different than what you'd trained your discriminant features for .__c1
+__fh__so um all of that is - is uh - still seems like a good idea .__c1
+__s__the thing is now we know some other constraints .__c1
+__s__we can't have unlimited amounts of latency .__c1
+__fh|s__uh y- - you know that's still being debated by the - by people in europe .__c1
+__s__but uh no matter how they end up there it's not going to be unlimited amounts .__c1
+__s__so we have to be a little conscious of that .__c1
+__s^df__yeah .__c0
+__s__um ==__c1
+__s__so there's the neural net issue .__c1
+__s__there's the v a d issue .__c1
+__s__and uh there's the second stream thing .__c1
+__s__and i think those that we - last time we agreed that those are the three things that have to get uh focused on .__c1
+__fh|s__what was the issue with the v a d ?__c0
+__s__well better ones are good .__c1
+__s__and so the w- - the default uh boundaries that they provide are - they're okay but they're not all that great ?__c0
+__s^co__i guess they still allow two hundred milliseconds on either side or some- ==__c1
+__s^am__uhhuh .__c5
+__s^cs__is that what the deal is ?__c1
+__s^bu|qy^d^g^rt__uh so th- - um they keep two hundred milliseconds at the beginning and end of speech and they keep all the ==__c5
+__s^e__outside the beginnings and end .__c0
+__qy__yeah .__c5
+__s^ar__and all the speech pauses .__c5
+__s^bk^m__uhhuh .__c0
+__s__which is - sometimes on the speechdat car you have pauses that are more than one or two seconds .__c5
+__qy^bu^d^rt__wow .__c0
+__s^aa__more than one second for sure .__c5
+__s^ar|s^nd__um ==__c5
+__s^bk__huh ==__c0
+__b__yeah .__c5
+__s^cs__and - yeah it seems to us that this way of just dropping the beginning and end is not ==__c5
+__%-__we cou- - we can do better i think .__c5
+__s__uhhuh .__c0
+__s^df__because um with this way of dropping the frames they improve over the baseline by fourteen percent .__c5
+__s__and sunil already showed that with our current v a d we can improve by more than twenty percent .__c5
+__s^cs__on top of the v a d that they provide ?__c0
+__s^cs__no .__c2
+__s__just using either their v a d or our current v a d .__c5
+__s^e__our way .__c2
+__s.%--__oh okay .__c0
+__s^e__so our current v a d is - is more than twenty percent .__c5
+__s^cc__while their is fourteen .__c5
+__s^am__theirs is fourteen ?__c0
+__s__yeah .__c5
+__s^df__i see .__c0
+__s__huh .__c0
+__fh|s__so ==__c5
+__s__yeah .__c5
+__fh|s__and | another thing that we did also is that we have all this training data for - let's say for speechdat car .__c5
+__qy^d^f^g__we have channel zero which is clean .__c5
+__s__channel one which is far field microphone .__c5
+__s^cs__and ==__c5
+__fh__if we just take only the um v a d probabilities computed on the clean signal and apply them on the far field uh test utterances then results are much better .__c5
+__s__uhhuh .__c0
+__s^aa__in some cases it divides the error rate by two .__c5
+__fg|s__wow !__c0
+__%__so it means that there are stim - still ==__c5
+__s__if - if we can have a good v a d well it would be great .__c5
+__s__how - how much latency does the uh - does our v a d add ?__c0
+__s__is it significant ?__c0
+__s__uh | right now it's um a neural net with nine frames .__c5
+__s__or ?==__c0
+__b__so it's forty milliseconds plus um the rank ordering .__c5
+__s^cs__which uh should be ==__c5
+__s__like another ten frames .__c2
+__s__ten .__c5
+__b__yeah .__c5
+__s^e__so right now it's one hundred and forty milliseconds .__c5
+__s^e__rank .__c3
+__s__oh .__c3
+__s__with the rank ordering ?__c1
+__b__i'm sorry .__c1
+__b__the - the - the smoothing - the m- - the - the filtering of the probabilities .__c2
+__s__the - the um ==__c5
+__s^aa__on the r .__c2
+__qy^d^f^g__yeah it's not a median filtering .__c5
+__s__it's just - we don't take the median value we take something ==__c5
+__s^df__um | so we have eleven um frames ==__c5
+__s^df__oh this is for the v a d ?__c1
+__s__and ==__c5
+__s__yeah .__c2
+__s^df__for the v a d yeah .__c5
+__s^bk__and we take th- - the third .__c5
+__s^df__yeah .__c2
+__s__oh okay .__c1
+__s^bk__yeah .__c2
+__s__dar- ==__c3
+__%__um ==__c5
+__s^bk|s^na__yeah .__c1
+__s^cs__um ==__c1
+__s^df^no__huh ==__c5
+__s^no__so - | yeah i was just noticing on this that it makes reference to delay .__c1
+__s__so what's the - if you ignore ==__c1
+__b__um | the v a d is sort of in - in parallel .__c1
+__s__isn't i- - isn't it ?__c1
+__fh|s__with - with the - i mean it isn't additive with the - the uh l d a and the wiener filtering and so forth .__c1
+__s__the l d a ?__c2
+__fg|s__yeah so - so what happened right now we removed the delay of the l d a .__c2
+__s^bk__right ?__c1
+__s^bk__uhhuh .__c5
+__s^e__yeah .__c1
+__s^aa__so we - i mean if - so if we - if - so which is like if we reduce the delay of v a ==__c2
+__s^bu__so the f- - the final delay's now ba- - is f- - determined by the delay of the v a d .__c2
+__qy^d^g^rt__because the l d a doesn't have any delay .__c2
+__s^aa__so if we re- - if we reduce the delay of the v a d i mean it's like effectively reducing the delay .__c2
+__fh|s^rt__how - how much uh delay was there on the l d a ?__c0
+__s^df__so the l d a and the v a d both had a hundred millisecond delay .__c2
+__s|qy^d^g^rt__so and they were in parallel .__c2
+__s^aa__so which means you pick either one of them .__c2
+__s__huh ==__c0
+__fh|s__the - the biggest whatever .__c2
+__s^bk__uhhuh .__c1
+__qy^d^g^rt__i see .__c0
+__%-__so right now the l d a delays are more .__c2
+__h__and there ==__c1
+__s^no__oh okay .__c0
+__%-__and there didn't seem to be any uh penalty for that ?__c1
+__s^aa__pardon ?__c2
+__s__there didn't seem to be any penalty for making it causal ?__c1
+__qy^d^g^rt__oh no | it actually made it like point one percent better or something actually .__c2
+__s__okay .__c1
+__s^no__or something like that .__c2
+__s^nd__well may as well then .__c1
+__s^bk|s__and ==__c2
+__s__and he says wiener filter is - is forty milliseconds delay .__c1
+__qy^d^g__yeah so that's the one which stephane was discussing like ==__c2
+__s^aa|s__huh ==__c5
+__fh__so is it ?==__c1
+__fh__the smoothing .__c1
+__qo__yeah the - you smooth it and then delay the decision by ==__c2
+__s__so ==__c2
+__s__right .__c1
+__s^df__okay .__c1
+__s__so that's - that's really not - not bad .__c1
+__s^aa__so we may in fact - we'll see what they decide we may in fact have um the - the uh latency time available for - to have a neural net .__c1
+__s^na__i mean sounds like we probably will .__c1
+__fh__uhhuh .__c2
+__s__so ==__c1
+__s^df__that'd be good .__c1
+__s__because i - because it certainly always helped us before .__c1
+__s^df:s^bk__so ==__c1
+__s^df:s^nd__uh .__c1
+__s^df:s^df__what amount of latency are you thinking about when you say that ?__c0
+__s__well they're - you know they're disputing it .__c1
+__s__you know they're saying uh - one group is saying a hundred and thirty milliseconds and another group is saying two hundred and fifty milliseconds .__c1
+__s^bk__huh ==__c0
+__s^bk|s.%--__two hundred and fifty is what it was before actually .__c1
+__fh|s^ng__so ==__c1
+__fh|s__oh .__c0
+__s__uh some people are lobbying - lobbying to make it shorter .__c1
+__s^e__huh ==__c0
+__s^df__um ==__c1
+__s__and um ==__c1
+__s__were you thinking of the two fifty or the one thirty when you said we should have enough for the neural net ?__c0
+__s__well it just - it - when we find that out it might change exactly how we do it is all .__c1
+__s^ba__i mean how much effort do we put into making it causal ?__c1
+__s__oh okay .__c0
+__s.%--__i mean i think the neural net will probably do better if it looks at a little bit of the future .__c1
+__qw.%--__uhhuh .__c0
+__s^ar__but um it will probably work to some extent to look only at the past .__c1
+__s__and we ha- - you know limited machine and human time and effort .__c1
+__s^bk|qy^bu^d__and you know how - how much time should we put into - into that ?__c1
+__s^df__so it'd be helpful if we find out from the - the standards folks whether you know they're going to restrict that or not .__c1
+__b__uhhuh .__c0
+__s^df__um ==__c1
+__qy^rt__but i think you know at this point our major concern is making the performance better .__c1
+__s^nd__and - and um if uh something has to take a little longer in latency in order to do it that's you know a secondary issue .__c1
+__s^bk__uhhuh .__c0
+__fg__but if we get told otherwise then you know we may have to c- - clamp down a bit more .__c1
+__s^am__huh ==__c3
+__qw__so the one - one - one difference is that - was there - is like we tried computing the delta and then doing the frame dropping .__c2
+__s^am__s- ==__c3
+__s^am__uhhuh .__c5
+__s^no__the earlier system was do the frame dropping and then compute the delta on the ==__c2
+__s^cs__uhhuh .__c1
+__fg|%-__so this ==__c2
+__s^am__which could be a kind of a funny delta .__c0
+__s^bk|s__right ?__c0
+__s__yeah .__c2
+__b__oh .__c1
+__qy^d^g^rt__oh oh !__c1
+__s^aa__so that's fixed in this .__c1
+__s__yeah we talked about that .__c1
+__s__yeah .__c2
+__s__yeah uhhuh ==__c5
+__fg__so we have no delta and then ==__c2
+__s.%--__good .__c1
+__s__so the frame dropping is the last thing that we do .__c2
+__b__so yeah what we do is we compute the silence probability .__c2
+__s__convert it to that binary flag .__c2
+__s^rt__uhhuh .__c1
+__s__and then in the end you c- - up- - upsample it to match the final features number of ==__c2
+__s^df__uhhuh .__c5
+__s^e__did that help then ?__c0
+__s^e__it seems to be helping on the well matched condition .__c2
+__s__so that's why this improvement i got from the last result .__c2
+__s^e^rt__so | and it actually r- - reduced a little bit on the high mismatch .__c2
+__s^e__so in the final weightage it's b- - b- - better .__c2
+__s^e__because the well matched is still weighted more than .__c2
+__s^e__so | i mean you were doing a lot of changes .__c1
+__s^e__did you happen to notice how much uh the change was due to just this frame dropping problem ?__c1
+__s^e^rt__what about this ?__c1
+__s^e__uh y- - you had something on it .__c2
+__s^ba__right ?__c2
+__s__just the frame dropping problem .__c5
+__s^e__yeah but it's - it's difficult .__c5
+__fh|s__sometime we - we change two - two things together .__c5
+__s^am__and - but it's around maybe - it's less than one percent .__c5
+__s^no__uhhuh .__c1
+__s^am__yeah .__c2
+__s__it ==__c5
+__s__but like we're saying if there's four or five things like that then pretty sho- - soon you're talking real improvement .__c1
+__s^df__yeah .__c5
+__fh__yeah and it ==__c5
+__fh__yeah .__c5
+__s^ba^cs__and then we have to be careful with that also - with the neural net .__c5
+__s^df__@reject@ yeah .__c1
+__fh__because in the proposal the neural net was also uh working on - after frame dropping .__c5
+__fh__uhhuh .__c1
+__s^nd__um ==__c5
+__s^df__oh that's a real good point .__c1
+__s^df__so well we'll have to be ==__c5
+__s__to do the same kind of correction .__c5
+__fh__it might be hard if it's at the server side .__c1
+__s__right ?__c1
+__%__huh | well we can do the frame dropping on the server side .__c5
+__s__or we can just be careful at the terminal side to send a couple of more frames before and after .__c5
+__b__and - so ==__c5
+__b__i think it's okay .__c5
+__s^fa__okay .__c1
+__s^co.%--__you have um ==__c0
+__s.%-__so when you ==__c0
+__s__uh maybe i don't quite understand how this works .__c0
+__b__but um couldn't you just send all of the frames but mark the ones that are supposed to be dropped ?__c0
+__s^cs.%--__because you have a bunch more bandwidth .__c0
+__qy^cs^d^rt__right ?__c0
+__s^df__well you could .__c1
+__s__yeah i mean it - it always seemed to us that it would be kind of nice to - in addition to uh reducing insertions - actually use up less bandwidth .__c1
+__s__yeah yeah .__c0
+__s^aa__but nobody seems to have cared about that in this evaluation .__c1
+__s__and that way the net could use ==__c0
+__s__so ==__c1
+__qy^d^rt__if the net's on the server side then it could use all of the frames .__c0
+__s^aa__yes it could be .__c2
+__s^aa__it's like you mean you just transferred everything .__c2
+__s^aa^r__and then finally drop the frames after the neural net .__c2
+__fg__right ?__c2
+__s^na__uhhuh .__c0
+__s^df__uhhuh .__c5
+__s^bk__yeah that's - that's one thing which ==__c2
+__s__but you could even mark them before they get to the server .__c0
+__s^bk__yeah | right now we are ==__c2
+__s^aa__uh ri- ==__c2
+__s__right now what - wha- - what we did is like we just mark - we just have this additional bit which goes around the features saying it's currently a - it's a speech or a nonspeech .__c2
+__s__oh .__c0
+__s__oh okay .__c0
+__s^aa__so there is no frame dropping till the final features like including the deltas are computed .__c2
+__s__i see .__c0
+__b__and after the deltas are computed you just pick up the ones that are marked silence and then drop them .__c2
+__b__uhhuh .__c0
+__b__i see .__c0
+__fh|s__so it would be more or less the same thing with the neural net i guess actually .__c1
+__s^cs__uhhuh .__c5
+__s^df__i see .__c0
+__b__so | yeah that's what - that's what - that's what uh this is doing right now .__c2
+__b__i see .__c0
+__b__okay .__c0
+__s^e__yeah .__c1
+__s^e__uhhuh .__c5
+__z__um ==__c1
+__z__okay .__c1
+__z__so uh ==__c1
+__qw^rt__what's uh ?==__c1
+__s^bk^fe__that's - that's a good set of work that - that uh ==__c1
+__s^bk__just one more thing .__c2
+__z__like should we do something f- - more for the noise estimation ?__c2
+__fg__because we still ==__c2
+__s^bk__yeah i was wondering about that .__c1
+__s^bk__yeah .__c2
+__s__uhhuh .__c5
+__s__that was - i - i had written that down there .__c1
+__b__um ==__c1
+__s^bk__so we uh - actually i did the first experiment .__c5
+__s__this is with just fifteen frames .__c5
+__s^bk__um ==__c5
+__s__we take the first fifteen frame of each utterance to it .__c5
+__fg__yeah .__c1
+__%-__and average their power spectra .__c5
+__qy^d^rt__um ==__c5
+__s__i tried just plugging the um uh guenter noise estimation on this system .__c5
+__s.%--__and it - uh it got worse .__c5
+__s__um ==__c5
+__s^e__but of course i didn't play with it .__c5
+__s__uhhuh .__c1
+__qy^rt__but - uhhuh ==__c5
+__s__uh | i didn't do much more for noise estimation i just tried this .__c5
+__qy^bu^d^rt__and ==__c5
+__s^aa__huh yeah well it's not surprising it'd be worse the first time .__c1
+__s^aa__uhhuh .__c5
+__s__but um ==__c1
+__s^bk__it does seem like you know i- - i- - i- - i- - some compromise between always depending on the first fifteen frames and a- - a- - always depending on a - a pause is - is - is a good idea .__c1
+__fh__uh maybe you have to weight the estimate from the first - -teen - fifteen frames more heavily than - than was done in your first attempt .__c1
+__fh__but ==__c1
+__qy^bu^d^rt__uhhuh .__c5
+__s^nd__but ==__c1
+__s^bk.%-__yeah i guess .__c5
+__s^m^na__yeah .__c1
+__qw^rt__um ==__c1
+__s__no i mean ==__c1
+__s__um ==__c1
+__s^aa__do you have any way of assessing how well or how poorly the noise estimation is currently doing ?__c1
+__fh|s^df__huh | no we don't .__c5
+__qy^bu^d^rt__yeah .__c1
+__%__we don't have nothing that ==__c5
+__h|s^no__is there - was there any experiment with ?==__c2
+__qy^d^rt__well i - i did - the only experiment where i tried was - i used the channel zero vad for the noise estimation .__c2
+__qy^d__and frame dropping .__c2
+__s__so i don't have a - i don't have a split like which one helped more .__c2
+__s^df__yeah .__c5
+__s__so | it - it was the best result i could get .__c2
+__s^df__uhhuh .__c5
+__b__so | that's the ==__c2
+__s__so that's something you could do with um this final system .__c1
+__fh__right ?__c1
+__s^e__just do this - everything that is in this final system except uh use the channel zero .__c1
+__s^e__uhhuh .__c2
+__s^e__for the noise estimation .__c2
+__s^e__yeah .__c1
+__fh|s__yeah we can try something .__c2
+__s.%-__and then see how much better it gets .__c1
+__s|qy^d^g^rt__uhhuh sure .__c2
+__s^m^na__if it's you know essentially not better then it's probably not worth ==__c1
+__s^aa__yeah .__c5
+__s^bk__any more .__c1
+__b__yeah but the guenter's argument is slightly different .__c2
+__s^aa__it's like ev- - even - even if i use a channel zero vad i'm just averaging the - the s- - power spectrum .__c2
+__b__but the guenter's argument is like if it is a non stationary segment then he doesn't update the noise spectrum .__c2
+__s^e__so he's like - he tries to capture only the stationary part in it .__c2
+__qy^d^f^g__so the averaging is like different from updating the noise spectrum only during stationary segments .__c2
+__s^e__so th- - the guenter was arguing that i mean even if you have a very good v a d averaging it like over the whole thing is not a good idea .__c2
+__s^e__because you're averaging the stationary and the non stationary and finally you end up getting something .__c2
+__s^e__i see .__c1
+__s__which is not really the s- - because you - anyway you can't remove the stationary part fr- - i mean non stationary part from the signal .__c2
+__s__so ==__c2
+__b__not using these methods anyway yeah .__c1
+__qy^d^f^g__yeah so you just update only doing - or update only the stationary components .__c2
+__s.%-__yeah so that's - so that's still a slight difference from what guenter is trying .__c2
+__qy^d^rt__and ==__c2
+__s__well yeah | and - and also there's just the fact that um ==__c1
+__s^bk__uh - | although we're trying to do very well on this evaluation um we actually would like to have something that worked well in general .__c1
+__s__yeah yeah .__c2
+__s^ba__and um | relying on having fifteen frames at the front or something is - is pretty ==__c1
+__fh__i mean you might you might not .__c1
+__s__huh ==__c2
+__%__uhhuh .__c5
+__s^cs__so um ==__c1
+__s^df__um | it'd certainly be more robust to different kinds of input if you had at least some updates .__c1
+__s^df__um ==__c1
+__s^bk__uhhuh .__c5
+__s^df:s__but um ==__c1
+__s:s__well i don't know .__c1
+__s^cs__what - what do you uh what do you guys see as - as being what you would be doing in the next week given wha- - what's happened ?__c1
+__s^bk|s__cure the vad .__c2
+__b__yeah .__c5
+__fg|s__what was that ?__c0
+__qy__v a d .__c2
+__s^ar__oh .__c0
+__s^nd__and ==__c2
+__s.%--__uh ==__c2
+__fh|s^cc__okay .__c1
+__s.%-__so should we keep the same - i think we might try to keep the same idea .__c5
+__fh|s^no__of having a neural network .__c5
+__s^df__but training it on more data .__c5
+__s__and adding better features i think .__c5
+__s.%-__but - because the current network is just p l p features .__c5
+__s^aa__well it's trained on noisy p l p .__c5
+__s^aa__just the cepstra .__c2
+__s^na__yeah ?__c2
+__b__p l p features computed on noisy speech .__c5
+__qw^rt__but there is no- - nothing particularly robust in these features .__c5
+__s^aa__so i- - i- - uh ==__c0
+__h|s__no .__c2
+__s^df__there's no rasta no ==__c5
+__s.%-__so | uh i - i don't remember what you said the answer to my uh question earlier .__c0
+__fh__will you - will you train the net on - after you've done the spectral subtraction or the wiener filtering ?__c0
+__s^ba__this is a different net .__c1
+__qw^br^rt__oh .__c0
+__%__so we have a v a d which is like neur- - that's a neural net .__c2
+__s__oh yeah huh ==__c5
+__s^bk__oh you're talking about the v a d net .__c0
+__s^bk__yeah .__c2
+__s__okay .__c0
+__s^bk__uhhuh .__c5
+__s^bk__i see .__c0
+__s^bk__so that - that v a d was trained on the noisy features .__c2
+__fh__uhhuh .__c0
+__b__so right now we have like uh - we have the cleaned up features .__c2
+__s__so we can have a better v a d by training the net on the cleaned up speech .__c2
+__s__uhhuh .__c0
+__s.%-__i see i see .__c0
+__fg__yeah but we need a v a d for uh noise estimation also .__c2
+__s^aa__so it's like - where do we want to put the v a d ?__c2
+__s__uh it's like ==__c2
+__b__can you use the same net to do both ?__c0
+__fh__or ?==__c0
+__s^bk__for ?==__c2
+__s^t^tc__can you use the same net that you - that i was talking about to do the v a d ?__c0
+__s^bk__uhhuh .__c2
+__s^df__uh | it actually comes at v- - at the very end .__c2
+__s__so the net - the final net - i mean which is the feature net ==__c2
+__s__uhhuh .__c0
+__s__so that actually comes after a chain of like l d a plus everything .__c2
+__s__so it's like it takes a long time to get a decision out of it .__c2
+__b__and - and you can actually do it for final frame dropping .__c2
+__s__but not for the v a- - f- - noise estimation .__c2
+__fh__uhhuh .__c0
+__s__you see the idea is that the um initial decision to - that - that you're in silence or speech happens pretty quickly .__c1
+__fh__oh okay .__c0
+__s^df.%--__huh ==__c2
+__s__and that ==__c1
+__fh__because that's used by some of these other ==__c0
+__s__yeah and that's sort of fed forward and - and you say well flush everything it's not speech anymore .__c1
+__fh|s__oh okay .__c0
+__s__i see .__c0
+__b__yeah .__c2
+__s__i thought that was only used for doing frame dropping later on .__c0
+__s^df__um | it is used uh ==__c1
+__s__yeah it's only used f- - well it's used for frame dropping .__c1
+__s^e__um | it's used for end of utterance .__c1
+__s^no__huh ==__c5
+__fh__because you know there's - if you have more than five hundred milliseconds of - of - of nonspeech then you figure it's end of utterance or something like that .__c1
+__s^bk__uhhuh .__c0
+__s^co__so ==__c1
+__%-__um ==__c1
+__s^bk__and it seems important for like the on line normalization .__c5
+__fh|qy__um | we don't want to update the mean and variance during silen- - long silence portions .__c5
+__qy__um | so it - it has to be done before .__c5
+__qy^bu^d^rt__oh .__c0
+__s^aa__i see .__c0
+__s__this mean and variance normalization .__c5
+__s__um ==__c5
+__s^df__um ==__c1
+__b__yeah so probably the v a d and - and maybe testing out the noise estimation a little bit .__c1
+__s__i mean keeping the same method .__c1
+__s^bk__but - but uh seeing if you cou- - but um noise estimation could be improved .__c1
+__b__uhhuh .__c5
+__s__those are sort of related issues .__c1
+__s^e__it probably makes sense to move from there .__c1
+__s__and then uh later on in the month i think we want to start including the neural net at the end .__c1
+__s__um ==__c1
+__b__okay | anything else ?__c1
+__s__the half dome was great .__c5
+__s__good .__c1
+__s.%-__yeah you didn't - didn't fall .__c1
+__s__well yeah .__c2
+__s__that's good .__c1
+__s^e__our e- - our effort would have been devastated .__c1
+__s^e__if you guys had run into problems .__c1
+__qy^bu^d^rt__so hynek is coming back next week you said ?__c0
+__qy^g^rt__yeah that's the plan .__c1
+__qrr.%--__huh ==__c0
+__s^aa__i guess the week after he'll be uh going back to europe .__c1
+__b__and so we want to ==__c1
+__b__is he in europe right now or is he up at ?==__c0
+__fh__no no | he's - he's - he's dropped into the u s yeah yeah .__c1
+__s__oh .__c0
+__s__huh ==__c0
+__qy^d^g__so ==__c1
+__s^aa__uh so uh ==__c1
+__fh__uh the idea was that uh we'd - we'd sort out where we were going next with this - with this work before he uh left on this next trip .__c1
+__s.%-__uh barry you just got through your quals so i don't know if you have much to say .__c1
+__fg|s^arp__but uh ==__c1
+__s__huh ==__c3
+__fh__no just uh looking into some - some of the things that um - uh john ohala and hynek um gave as feedback .__c3
+__s^df__um as - as a starting point for the project .__c3
+__fh|s__um ==__c3
+__fh__in - in my proposal i - i was thinking about starting from a set of uh phonological features or a subset of them .__c3
+__fh|s__um but that might not be necessarily a good idea according to um john .__c3
+__s__uhhuh .__c0
+__s__he said uh um these - these phonological features are - are sort of figments of imagination also .__c3
+__s__uhhuh .__c0
+__s^e__um s- ==__c3
+__s^am__in conversational speech in particular .__c1
+__s^no.%-__ye- ==__c3
+__s__i think you can - you can put them in pretty reliably in synthetic speech .__c1
+__s__but we don't have too much trouble recognizing synthetic speech since we create it in the first place .__c1
+__s__so it's ==__c1
+__s^rt__right .__c3
+__s__yeah so um a better way would be something more - more data driven .__c3
+__b__uhhuh .__c0
+__s__just looking at the data and seeing what's similar and what's not similar .__c3
+__s__uhhuh .__c0
+__s^bk|s^nd__so i'm - i'm um taking a look at some of um sangita's work on - on traps .__c3
+__fh__she did something where um - w- - where the traps learn- ==__c3
+__%-__she clustered the - the temporal patterns of um certain - certain phonemes in - in m- - averaged over many many contexts .__c3
+__s^e__and uh some things tended to cluster .__c3
+__fh__uhhuh .__c0
+__s__right you know like stop - stop consonants clustered really well .__c3
+__s__huh ==__c0
+__s__um silence was by its own self .__c3
+__s^df__uhhuh .__c0
+__s^am^bd__and uh um v- - vocalic was clustered .__c3
+__%--__uhhuh .__c0
+__fh__and um so | those are interesting things to ==__c3
+__s^ar|s^nd__so you're - now you're sort of looking to try to gather a set of these types of features ?__c0
+__s.%-__right .__c3
+__fh__uhhuh .__c0
+__s^ba__yeah .__c3
+__qy^rt__just to see where - where i could start off from .__c3
+__s^df^ng__uhhuh .__c0
+__s.%-__uh you know ?__c3
+__s.%-__a - a - a set of small features and continue to iterate and find uh a better set .__c3
+__s.%--__uhhuh .__c0
+__s^na__yeah .__c3
+__s__okay | well short meeting .__c1
+__s^df__that's okay .__c1
+__s__yeah .__c0
+__s^aa__okay so next week hopefully we'll - can get hynek here to - to join us .__c1
+__s^bu.%-__and uh ==__c1
+__s^e__uh ==__c1
+__s^e__should we do digits ?__c0
+__s__digits digits .__c1
+__s__okay now .__c1
+__s^bk__go ahead morgan .__c0
+__s__all right let me get my glasses on so i can see them .__c1
+__s^df__you can start .__c0
+__s__okay .__c1
+__s^2__DIGIT_TASK__c1
+__s^aa__DIGIT_TASK__c5
+__s^df__DIGIT_TASK__c0
+__fh__DIGIT_TASK__c2
+__qw^rt__DIGIT_TASK__c3
+__s__okay .__c0
+__s__and we're off .__c0
+__b__huh- ==__c1

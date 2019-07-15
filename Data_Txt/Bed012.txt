@@ -1,0 +1,971 @@
+__s^rt^t__nice .__c3
+__s.%-__okay .__c4
+__s^j__to - to handle .__c1
+__fh__is that good ?__c4
+__s__right .__c3
+__qy^rt__yeah i've have never handled them .__c3
+__h|qw^rt__goats eat cans to my understanding .__c2
+__h|s^bd__did we need to do these things ?__c4
+__s__tin cans .__c2
+__s__wow !__c3
+__s^bd__okay .__c4
+__h|s^ar__could i hit - hit f seven to do that ?__c2
+__%--__on the ==__c2
+__fh__robert ?__c2
+__s^fe__@reject@ @reject@ .__c1
+__s^ba__oh the remote will do it .__c2
+__s^cs^rt__okay .__c4
+__s^e^rt__okay .__c2
+__fh__because i'm already up there ?__c2
+__qw^rt__i'm in control here .__c1
+__s^e^rt__you are in control .__c2
+__qy^rt__already ?__c2
+__qrr^rt__wow we're all so high tech here !__c4
+__qrr^rt__yet another p- - powerpoint presentation .__c4
+__s^e__i - well it makes it easier to do powerpoint .__c2
+__s__certainly does .__c4
+__qy^rt__so we were ==__c2
+__qrr^rt__uh !__c2
+__s.%-__johno where are you ?__c3
+__s^bk__okay .__c2
+__qw^rt__so let's see .__c2
+__h|s^df^rt__which one of these buttons will do this for me ?__c2
+__s^bk__aha !__c2
+__s^e__okay .__c2
+__qy^d^g^rt__should you go back to the first one ?__c3
+__s^cc.%-__do i want to go back to the first one ?__c2
+__s.%-__well ==__c3
+__fg|qy^rt__okay .__c2
+__s^ar|s^df__i'm sorry i ==__c4
+__qy^d^g^rt__well i mean - just to ==__c3
+__s:s__okay .__c2
+__s.%--__introduce .__c2
+__s^bu__okay .__c4
+__qy^rt__yeah | um - well the search for the middle layer .__c3
+__qy^bu^e^rt__it's basically uh - talks about uh - it just refers to the fact that uh - one of main things we had to do was to decide what the intermediate sort of nodes were .__c3
+__s^aa__i can read !__c4
+__s^bk__i'm kidding .__c4
+__s^rt__uhhuh .__c4
+__s^e__you know - because ==__c3
+__qy^d^f^g^rt__but if you really want to find out what it's about you have to click on the little light bulb .__c1
+__qy^bu^d^rt__although i've - i've never - i don't know what the light bulb is for .__c2
+__s^e^rt__i didn't i- - install that into my powerpoint presentation .__c2
+__qy^bu^rt__it opens the assistant that tells you that the font type is too small .__c1
+__%-__uh .__c2
+__s^e__do you want to try ?__c1
+__s__ach u- ==__c4
+__b__i'd prefer not to .__c2
+__qy^d^g^rt__okay .__c1
+__s^e__continue .__c1
+__s^no__it's a needless good idea .__c4
+__s^ar__is that the idea ?__c4
+__s^ar__why are you doing this in this mode and not in the presentation mode ?__c1
+__qy.%-__okay .__c4
+__s^2__because i'm going to switch to the javabayes program .__c2
+__s^aa__oh okay .__c1
+__qy^bu^rt__of course .__c1
+__s^aa__uhhuh .__c1
+__s^bk__and then if i do that it'll mess everything up .__c2
+__s^ba__i was wondering .__c4
+__s.%--__is that okay ?__c2
+__s.%--__yeah it's okay .__c4
+__qy^d^g^rt__sure .__c1
+__s:s__can you maximize the window ?__c3
+__qy^d^g^rt__proceed .__c4
+__s:s__you want me to ?==__c2
+__s^e^rt__wait what do you want me to do ?__c2
+__s__can you maximize the window so all that stuff on the side isn't - doesn't appear ?__c3
+__s.%-__no it's okay .__c1
+__qy^bu^d^m__it's - it'll work .__c1
+__s^aa__well i can do that .__c2
+__fh__but then i have to end the presentation in the middle so i can go back to open up javabayes .__c2
+__s^e__okay fine .__c3
+__s^bk__here let's see if i can ==__c2
+__s:s__all right .__c3
+__s^rt__very nice .__c4
+__s^e__is that better ?__c2
+__s^e^rt__yeah .__c3
+__s^df__okay .__c2
+__qy^rt__uh - i'll also get rid of this click to add notes .__c2
+__s^e.%--__okay .__c2
+__qy^bu^d^rt__perfect .__c4
+__h|s^aap__so then the features we decided - or - we decided we were - talked about .__c2
+__s__right ?__c2
+__s^df__uh the - the prosody the discourse verb choice .__c2
+__s__you know - we had a list of things like to go and to visit and what not .__c2
+__qy^d^g^rt__the landmark-iness of uh ==__c2
+__s^bk__i knew you'd like that .__c2
+__s__nice coinage .__c4
+__s^aa__thank you .__c2
+__s^bk__uh - of a - of a building .__c2
+__s__whether the ==__c2
+__s__and this i- - we actually have a separate feature .__c2
+__s__but i decided to put it on the same line for space .__c2
+__s__nice walls which we can look up .__c2
+__s^e__because i mean - if you're going to get real close to a building in the tango mode ==__c2
+__s__right ?__c2
+__s.%-__there's got to be a reason for it .__c2
+__qy^bu^d^rt__and it's either because you're in route to something else or you want to look at the walls .__c2
+__qy^d^g^rt__the context which in this case we've limited to business person tourist or unknown .__c2
+__s^aa__the time of day .__c2
+__s^m__and open to suggestions isn't actually a feature .__c2
+__s^e__it's we are open to suggestions .__c2
+__fh__right .__c4
+__s__can i just ask the nice walls part of it is that uh - in this particular domain ?==__c4
+__s^bk|s^aa__you said - be - i- - it could be on two different lines .__c4
+__qy^d^g^rt__but are you saying that in this particular domain it happens the - that landmark-iness cor- - is correlated with ?==__c4
+__s__no .__c3
+__b__oh ==__c2
+__s:s__we have a separate ==__c3
+__s__they're separate things .__c2
+__s.%--__their being nice w- ==__c4
+__b__feature .__c3
+__s__okay .__c4
+__fg__yeah .__c2
+__fh__i either could put nice walls on its own line or open to suggestions off the slide .__c2
+__s^df.%--__and - and ==__c4
+__fh__like - you could have a p- ==__c3
+__s.%--__by nice you mean ?==__c4
+__s^co__you - like - you could have a post office with uh - you know - nice murals or something .__c3
+__qy^rt__right .__c2
+__s^aa|s__okay .__c4
+__qy^d^g^rt__or one time i was at this ==__c2
+__s__so nice walls is a stand in for like - architecturally it uh - significant .__c4
+__s^nd__architecturally appealing from the outside .__c3
+__s^ng.%-__or something like that .__c4
+__%-__but see the thing is if it's ==__c2
+__s^aa|s:s__okay .__c4
+__s__yeah | but if it's architecturally significant you might be able to see it from ==__c2
+__s:qw__like you m- - might be able to vista it .__c2
+__fh__right ?__c2
+__s:qy__uhhuh .__c1
+__s^e__and be able to ==__c2
+__s^e^rt__uhhuh .__c4
+__s^e:qy__appreciate it .__c1
+__s^co__yeah .__c2
+__s^bk__versus like ==__c2
+__qy^d^g^rt__i was at this place in europe where they had little carvings of like - dead people on the walls or something .__c2
+__fh__uhhuh .__c4
+__fh__i don't remember w- ==__c2
+__s^t1__uhhuh .__c4
+__s.%--__it was a long time ago .__c2
+__b__there's a lot of those .__c4
+__s^co__but if you looked at it real close you could see the - the in- - intricacy of the of the walls .__c2
+__fh__okay .__c4
+__s.%--__so that count as - counts as a nice wall .__c4
+__s__right .__c2
+__s^e__the ==__c4
+__s^cs__okay .__c4
+__qr__uhhuh .__c1
+__s__right .__c4
+__s^aa__something you want to inspect at close range because it's interesting .__c4
+__s^aa__the ==__c1
+__s.%-__exactly .__c2
+__s^cs.%-__okay .__c4
+__s.%--__huh .__c1
+__fh|s.%--__robert ?__c2
+__s__well there - there is a term that's often used .__c1
+__fg|qy^rt__that's saliency or the salience of an object .__c1
+__s.%--__and i was just wondering whether that's the same as what you describe as landmark-iness .__c1
+__s^bu__but it's really not .__c1
+__qy^d^g^rt__i mean - an object can be very salient .__c1
+__qy^bu^rt__huh .__c4
+__s^e.%--__but not a landmark at all .__c1
+__s^2:s__not a landmark at all .__c4
+__s^df__there's landmark for um - touristic reasons and landmark for ==__c4
+__s:qw__i don't know .__c4
+__s:s^co__navigational reasons or something .__c4
+__s.%-__right .__c2
+__s__yep .__c1
+__h__yeah .__c3
+__s^no__we meant uh - touristic reasons .__c3
+__s^cs^t__yeah .__c2
+__s^e__okay .__c4
+__s^e__huh .__c1
+__s.%--__right .__c2
+__s__okay .__c4
+__s^bs__but you can imagine maybe wanting the oth- - both kinds of things there for different um - goals .__c4
+__s__huh .__c1
+__%-__yeah .__c3
+__s^e__right ?__c4
+__s^e__right .__c2
+__s^aa__but ==__c2
+__s^df__yeah .__c2
+__s__touristy landmarks also happen to be ==__c2
+__s.%--__wouldn't - couldn't they also be ?==__c2
+__qy^d^f^g^rt__they're not exclusive groups .__c2
+__s^fe__are they ?__c2
+__s^cs:s__like non tourist y landmarks and ==__c2
+__s__or it can be als- ==__c1
+__b__they're not mutually exclusive ?__c4
+__s^df^e__direct navigational ==__c2
+__s__yeah .__c2
+__s^bk__right .__c4
+__s__okay .__c2
+__b__right .__c4
+__s^df__definitely .__c4
+__b__okay | so our initial idea was not very satisfying because - uh - our initial idea was basically all the features pointing to the output node .__c2
+__s.%--__uh ==__c2
+__s^bu__so a big flat structure .__c4
+__s^aa|s^bs__right ?__c4
+__qw__right .__c2
+__qw.%-__yep .__c3
+__s:qw__and uh - so we ==__c2
+__s:qw__reasons being you know - it'd be a pain to set up all the probabilities for that .__c2
+__s^arp.%--__if we moved onto the next step and did learning of some sort uh - according bhaskara we'd be handicapped .__c2
+__s^e^rt:qw__i don't know belief nets very well .__c2
+__s^e__well usually i mean - you know - n ==__c3
+__s__if you have n features then it's two to the n - or - exponential in n .__c3
+__s__and they wouldn't look pretty .__c2
+__s^2__so ==__c2
+__s__yeah .__c3
+__s__they'd all be like pointing to the one node .__c3
+__s^cs__uhhuh .__c1
+__b__uh ==__c2
+__s^aa__so then our next idea was to add a middle layer .__c2
+__s^e__right ?__c2
+__s^e__so the thinking behind that was we have the features that we've drawn from the communication of some - like - the someone s- ==__c2
+__s^e__the person at the screen is trying to communicate some abstract idea .__c2
+__fh__like i'm - the - the abstract idea being i am a tourist .__c2
+__b__i want to go to this place .__c2
+__fg__right ?__c2
+__s^co__so we're going to set up features along the lines of where they want to go .__c2
+__qy^d^g^rt__and what they've said previously and whatnot .__c2
+__fh__and then we have the means that they should use .__c2
+__s:s^co__right ?__c2
+__qy^d^g^rt__but the middle thing we were thinking along the lines of maybe trying to figure out like - the concept of whether they're a tourist or whether they're running an errand or something like that .__c2
+__s:qw__along those lines .__c2
+__%-__or ==__c2
+__qy^d^g^rt__yes | we could- - things we couldn't extract the - from the data the hidden variables .__c2
+__s__yes .__c2
+__qy^d^g^rt__good .__c2
+__s^aa^rt__so then the hidden variables - hair - variables we came up with were whether someone was on a tour running an errand or whether they were in a hurry .__c2
+__s.%--__because we were thinking uh - if they were in a hurry there'd be less likely to - like - or th- ==__c2
+__s^fe__want to do vista .__c3
+__s^cc__right ?__c3
+__s^co__because if you want to view things you wouldn't be in a hurry .__c3
+__s^co__right .__c2
+__s^df__or they might be more likely to be using the place that they want to go to as a - like a navigational point to go to another place .__c2
+__s__uhhuh .__c4
+__s^df__whether the destination was their final destination .__c2
+__s^df__whether the destination was closed .__c2
+__s^j__those are all ==__c2
+__s^rt__and then let's look at the belief net okay .__c2
+__s^ba__so that means that i should switch to the other program .__c2
+__s__um - right now it's still kind of in a toy version of it .__c2
+__s^m__because we didn't know the probabilities of - or ==__c2
+__qw^rt__well i'll talk about it when i get the picture up .__c2
+__s^aa__no one knows it .__c1
+__s__okay .__c2
+__qy^d^m^rt__so this right - what we ==__c2
+__qy^rt__let's see .__c2
+__s^aa__what happens if i maximize this ?__c2
+__s^bk__there we go .__c2
+__s^e__but uh ==__c2
+__s__so the mode basically has three different outputs .__c2
+__s^co__the probability - whether the probability of a vista tango or enter ==__c2
+__%-__um - | the context we simplified .__c2
+__s__basically it's just the businessman the tourist unknown .__c2
+__s^e__verb used is actually personally amusing .__c2
+__s^na__mainly because it's - it's just whether the verb is a tango verb an enter verb or a vista verb .__c2
+__s^j__yeah .__c3
+__s^aa__that one needs a lot of ==__c3
+__qy^d^rt__and are those mutually exclusive sets ?__c4
+__qy^rt__not at all .__c3
+__s^aa__that's - that - that needs a lot of work .__c3
+__s^bk__no .__c2
+__s^bu__right .__c4
+__qy^d__got it .__c4
+__s^aa__but uh that would've made the probably significantly be more complicated to enter .__c3
+__s^aa__uhhuh .__c4
+__s^e__yeah .__c4
+__s^bk__so we decided that for the purposes of this it'd be simpler to just have three verbs .__c3
+__s^fe^j__simple .__c4
+__qy^t__yeah .__c2
+__s^t__stab at it .__c4
+__s^j__yep .__c4
+__s__right .__c2
+__fg__um ==__c2
+__s^co__why don't you mention things about this bhaskara ?__c2
+__s:qw__that i am - not - that are not coming to my mind right now .__c2
+__s^rt__okay | so - yeah so note the four nodes down there the - sort of the things that are not directly extracted .__c3
+__%-__actually the five things .__c3
+__qy^rt^t3__the closed is also not directly extracted i guess .__c3
+__s^ar^t3__from the uh ==__c3
+__fh__well i- - it's ==__c2
+__s^ng^t3__from the utterance ?__c4
+__qw^t3__huh .__c3
+__s^bk^t3__actually no .__c3
+__s^fa^t3__it's so- - it sort of is .__c2
+__s^co^rt__wait .__c3
+__s__it is .__c3
+__s^bu__because it's - because have the - the time of day .__c2
+__qy^d^g^rt__okay closed sort of is .__c3
+__%--__and the close ==__c2
+__s__it just had the - uh - and what time it closed .__c2
+__s:qw__right .__c3
+__s^aap|%-__so f- ==__c3
+__b__right .__c3
+__s^df__but the other ones the final destination the whether they're doing business whether they're in a hurry and whether they're tourists .__c3
+__s.%-:s__that kind of thing is all uh - sort of - you know - probabilistically depends on the other things .__c3
+__s^nd__inferred from the other ones ?__c4
+__s^e:qw__yeah .__c3
+__s^bk__okay .__c4
+__fh__and the mode you know - depends on all those things only .__c3
+__fh__yeah the - the actual parse is somewhere up around in here .__c2
+__s__yeah .__c3
+__qy^d^g^rt__so we haven't uh - managed ==__c3
+__s^rt:s__like - we don't have nodes for discourse and parse .__c3
+__s^co^rt__although like - in some sense they are parts of this belief net .__c3
+__b__uhhuh .__c4
+__s__but uh the idea is that we just extract those features from them so we don't actually have a node for the entire parse .__c3
+__s__uhhuh .__c4
+__s__right .__c2
+__s^fa^t3__because we'd never do inference on it anyway .__c3
+__s^e__so ==__c3
+__fh__so some of the - the top row of things ==__c4
+__s^bk__what's - what's disc admission fee ?__c4
+__s__whether they discuss the admission fees .__c3
+__s__so we looked at the data .__c3
+__qy^d^g^rt__oh .__c4
+__b__and in a lot of data people were saying things like can i get to this place .__c3
+__s^aa__what is the admission fee .__c3
+__s^e__so that's like - a huge uh - clue that they're trying to enter the place rather than uh - to tango or vista .__c3
+__s^rt__uhhuh .__c4
+__fh__right .__c2
+__s^e__okay .__c4
+__s^e.%-__so ==__c3
+__s^cs.%--__i see .__c4
+__b__there were - there'd be other things besides just the admission fee .__c2
+__%-__but you know - we didn't have ==__c2
+__s__uhhuh .__c4
+__s__that was like our example .__c3
+__qy^d^f^g^rt__that was the initial one that we found .__c2
+__qy^bu^rt__uhhuh .__c1
+__s^aa__okay .__c4
+__%--__so there are certain cues that are very strong either lexical or topic based um - concept cues .__c4
+__s__from the discourse that ==__c2
+__qy^bu^d^rt__yeah .__c2
+__s^na^rt:s__for one of those .__c4
+__s^na__and then in that second row or whatever that row of time of day through that - so all of those - some of them come from the utterance .__c4
+__s^aa__and some of them are sort of either world knowledge or situational things .__c4
+__qw__right ?__c4
+__%-__so that you have no distinction between those and ==__c4
+__s^df__right .__c2
+__%-__@reject@ okay .__c4
+__qw.%-__one uh - uh - um ==__c2
+__%-__anything else you want to say bhaskara ?__c2
+__s__um ==__c3
+__s__unmark @reject@ time of day ?__c4
+__s^bk__yeah .__c3
+__s^e__i m- - i mean ==__c3
+__s^bk__one thing - uh ==__c2
+__b__yeah .__c1
+__s.%--__they're - they're are a couple of more things .__c1
+__%-__i mean - uh - i would actually suggest we go through this one more time so we - we all uh - agree on what - what the meaning of these things is at the moment .__c1
+__qw^rt__and maybe what changes we ==__c1
+__s__yeah th- ==__c2
+__s.%-__okay .__c2
+__s^2__so one thing i - i'm you know - unsure about is how we have the discus- - uh - the admission fee thing set up .__c2
+__s^aa__so one thing that we were thinking was by doing the layers like this ==__c2
+__s.%--__uh - we kept um - things from directly affecting the mode beyond the concept .__c2
+__qy^rt__but you could see perhaps discus- - the admission fee going directly to the mode pointing at enter .__c2
+__s^df__uhhuh .__c1
+__qy^d^g^rt__right ?__c2
+__s^bc__versus pointing to- - just at tourist .__c2
+__s^na__uhhuh .__c4
+__s^na.%--__uhhuh .__c4
+__s^df__okay ?__c2
+__s^bu__but we just decided to keep all the things we extracted to point at the middle and then down .__c2
+__qy^d^g^rt__uhhuh .__c1
+__s^aa__why is the landmark ?==__c1
+__s^bu__okay .__c1
+__%-__the landmark is facing to the tourists .__c1
+__b__that's because we're talking about landmarks as touristic landmarks .__c1
+__qy^d^g^rt__right .__c2
+__s^aa__not as possible um ==__c1
+__fg__yeah .__c3
+__s.%-__navigational landmarks .__c2
+__qw^rt__navigational cue .__c4
+__s^ng__yeah .__c2
+__s__navigational landmarks .__c1
+__s__so ==__c1
+__s^e__uhhuh .__c1
+__s:s^co__yeah .__c2
+__s:s^co__then ==__c1
+__s^e:s__that would be whatever building they referred to .__c2
+__s^e__prosody .__c4
+__qy^d^g^rt__right .__c3
+__s.%-__so let's see .__c3
+__qw^nd__the variables .__c3
+__s__disc- - admission fee is a binary thing .__c3
+__s^arp|qw__uhhuh .__c1
+__s^e__time of day is like morning afternoon night .__c3
+__s^cs__is that the deal ?__c3
+__s^e__that's how we have it currently set up .__c2
+__b^rt__yeah .__c3
+__qy^f^rt__but it could be you know - based upon hour .__c2
+__qy^d^rt__yep .__c1
+__qy^d^rt__yeah .__c3
+__h|qy^bu^rt__yeah .__c3
+__%-__or dis- - we could discrete it - des- - descret-ize it .__c2
+__qy^rt__whatever granularity .__c1
+__s^ar|s.%--__yeah .__c3
+__s^co__uhhuh .__c4
+__qy__uhhuh .__c1
+__qy^rt__yeah .__c3
+__qrr__yeah .__c3
+__qy^d^rt__normally context will include a huge amount of information .__c3
+__%-__but um - we are just using the particular part of the context which consists of the switch that they flick to indicate whether they're a tourist or not i guess .__c3
+__s^bsc__yep .__c1
+__h__okay .__c4
+__s^nd__so that's given in their input .__c4
+__s^df__right .__c2
+__s^df__so ==__c3
+__%-__right ?__c4
+__fg__right .__c3
+__s__so it's not really all of context .__c3
+__b__similarly prosody is not all of prosody .__c3
+__qw__but simply for our purposes whether or not they appear tense or relaxed .__c3
+__h|s^co__uhhuh .__c1
+__s__that's very nice .__c1
+__s:qw__huh ?__c1
+__qw__okay .__c4
+__s^e__and ==__c3
+__s^df__the - the - so the context is a switch between tourist or non tourist ?__c1
+__b__or also unknown ?__c1
+__s^cs.%-:s__or un- - unknown .__c2
+__s^nd.%-__yeah .__c3
+__s__yeah .__c2
+__qy^d^g^rt__okay .__c1
+__s__unknown .__c3
+__s^aa__so final dest- ==__c4
+__s__right ?__c3
+__s^df^e__so it seems like that would really help you for doing business versus tourist .__c4
+__qy^d^g^rt__which is th- - which one ?__c3
+__%--__but ==__c4
+__s.%--__okay .__c4
+__s__so the the context being um - e- ==__c4
+__s.%-__i don't know if that question's sort of in general .__c4
+__fg__are you ?==__c4
+__s^nd__i mean the ==__c4
+__s.%-__ar- - ar- - are ?==__c4
+__qy^2^bu^d^rt__do they allow business people to be doing non business things at the moment ?__c4
+__qy.%-__yeah it does .__c3
+__s^aa|qy^rt__okay .__c4
+__s^na__so then you just have some probabilities over ==__c4
+__s^am__everything is probablistic .__c3
+__s^df__and there's always ==__c3
+__s.%--__okay .__c4
+__fh__over which - which of those it is .__c4
+__fh__yeah .__c3
+__s:s__um - | right .__c3
+__s:s__so then landmark is ==__c3
+__s:s__oh !__c3
+__s.%-__sorry .__c3
+__qw^br^rt__verb used is like ==__c3
+__s__right now we only have three values .__c3
+__s^r__but in general they would be a probability distribution over all verbs .__c3
+__s^ar__uhhuh .__c4
+__%-__rather ==__c3
+__s.%-__let me rephrase that .__c3
+__s__it - it can take values in the set of all verbs that they could possibly use .__c3
+__b__uhhuh .__c4
+__s^rt__um - nice walls is binary .__c3
+__b^rt__closed is binary .__c3
+__fh__final destination again ==__c3
+__fh__yeah all those are binary i guess .__c3
+__qy^bu^rt__and mode is one of three things .__c3
+__s^aa__so the - the middle layer is also binary ?__c1
+__s^aa__no ==__c1
+__s^bu.%--__yeah .__c3
+__s^bu__anything with a question mark after it in that picture is a binary node .__c3
+__b^rt__uh - it ==__c1
+__s__yeah .__c1
+__s:s__but all those things without question marks are also binary .__c1
+__%-__right ?__c1
+__b__which things ?__c3
+__s:qw__uhhuh .__c4
+__s^bk__nice walls .__c1
+__s^cc__wi- ==__c2
+__s^aa__oh .__c3
+__s^aa|%--__nice walls is uh - something that we extract from our world knowledge .__c3
+__s^aa__uhhuh .__c1
+__s^na__yeah a- - oh .__c3
+__b__yeah sorry it is binary .__c3
+__s^na.%--__it is binary .__c2
+__s^cs__that's true .__c3
+__s^cs^e__but it doesn't have question mark because it's extracted .__c2
+__s^cs^e__yeah .__c3
+__s^cs^e__okay i see your point .__c3
+__s^ba^df__yeah .__c2
+__s^cs:s^co__yeah .__c1
+__s__okay .__c1
+__qy^d^f^g^rt__uhhuh .__c4
+__s__i - i gotcha .__c1
+__s.%--__yeah similarly closed i guess .__c3
+__s__so we can either be in a hurry or not .__c1
+__s^e:s^co__but we cannot be in a medium hurry at the moment ?__c1
+__s__well we- ==__c3
+__s__to do that we would add another uh - value for that .__c3
+__qy^d^g^rt__uhhuh .__c1
+__s^cs__okay .__c1
+__qy^d^g^rt__and that would require s- - updating the probability distribution for mode as well .__c3
+__s^e.%-__uhhuh .__c4
+__s^aap.%--__because it would now have to like uh - take that possibility into account .__c3
+__s^fa__uhhuh .__c1
+__s:s__take a conti- ==__c4
+__s^e__uhhuh .__c1
+__s^aa__so | um - of course this will happen when we think more about the kinds of verbs that are used in each cases .__c4
+__%--__yeah yeah .__c1
+__s^aa^r__but you can imagine that it's verb plus various other things that are also not in the bottom layer that would - that would help you .__c4
+__qy^f^rt__yeah .__c3
+__fg|s^bs__like it's a conjunction of ==__c4
+__s^bu__i don't know .__c4
+__fg|%-__you know the verb used and some other stuff that - that would determine ==__c4
+__s.%-__right .__c3
+__s.%--__other syntactic information you mean ?__c3
+__fh__yeah .__c4
+__s__exactly .__c4
+__s__yeah .__c3
+__s^df__um ==__c4
+__s^e__well the - the - sort of the landmark is - is sort of the object .__c1
+__b__right ?__c1
+__s^aa__the argument in a sense ?__c1
+__s^co__usually .__c4
+__s.%--__i - i don't know if that's always the case .__c4
+__s.%--__i - i guess haven't looked at the data as much as you guys have .__c4
+__s__so um ==__c4
+__qy^d^g^rt__that's always warping on something - some entity .__c1
+__s^df__uhhuh .__c4
+__fh__uhhuh .__c4
+__s__and um - uh - maybe at this stage we will - we do want to - uh - sort of get - uh - modifiers in there .__c1
+__fg__huh - yeah .__c2
+__qy^bu^rt__because they may also tell us whether the person is in a hurry or not .__c1
+__s^ar__yeah .__c3
+__s^df__i want to get to the church quickly .__c2
+__s^e__uhhuh .__c4
+__s__and uh ==__c2
+__s^nd__yeah .__c3
+__s^ng__right .__c3
+__s:qw__that would be a cue .__c4
+__s^aa|s^df.%-__what's the fastest way ==__c1
+__s^aa__yeah .__c3
+__s^aa__uhhuh .__c4
+__%-__correct .__c3
+__s^na__um - okay .__c4
+__qy^d^g^rt__right .__c2
+__s^arp__excellent .__c2
+__s^ng__do we have anything else to say about this ?__c2
+__s^aa__we can do a little demo .__c3
+__s__oh the ==__c2
+__s__yeah we could .__c2
+__qy^d^g^rt__but the demo doesn't work very well .__c2
+__qy^d^g^rt__no .__c1
+__s__then it wouldn't be a demo .__c1
+__s^cs.%--__i mean - we can do a demo in the sense that we can um - just ob- - observe the fact that this will in fact do inference .__c3
+__b^rt__i was just going to s- ==__c1
+__b__observe nodes .__c2
+__s^cs^e__so we can you know - set some of the uh - nodes .__c3
+__s^aa__yeah .__c4
+__qy^bu:s^co__go ahead .__c4
+__s^e__and then try to find the probability of other nodes .__c3
+__s^e.%-__okay .__c2
+__s^aap__dat-dat-dah .__c2
+__fh__what should i observe ?__c2
+__s^nd:s^co__just se- - set a few of them .__c3
+__s.%-__you don't have to do the whole thing that we did last time .__c3
+__s.%--__just like uh - maybe the fact that they use a certain verb .__c3
+__s^df__okay .__c2
+__s^df__actually forget the verb .__c3
+__s^aa__okay .__c2
+__s^aa__just uh ==__c3
+__s^na__i don't know .__c3
+__s^t^tc__say they discussed the admission fee .__c3
+__s^bk|qw__okay .__c2
+__s__and uh - the place has nice walls .__c3
+__s.%--__i love nice walls .__c2
+__b^rt__okay .__c2
+__s__i'm a big fan .__c2
+__s^bk__it's starting to grow on me .__c4
+__s^bk__and it's night .__c3
+__s__and the time of day is night ?__c2
+__%-__yeah .__c3
+__s^aa|s^df__no .__c3
+__%-__wait .__c3
+__s^bk__that - that doesn't uh ==__c3
+__fg|qy^rt__it's not really consistent .__c3
+__s__they don't discuss the admission fee .__c3
+__qrr.%--__make that false .__c3
+__s^na__all right .__c2
+__fh__and it's night .__c3
+__qw^rt__oh they ==__c2
+__h__okay .__c2
+__s__oh whoops .__c2
+__s__that didn't work .__c3
+__fh|s__i forgot to uh ==__c2
+__s__ach !__c2
+__qw^rt__i'd like to do that again .__c4
+__qh^m^rt__one thing that bugs me about javabayes is you have to click that and do this .__c2
+__h|s__yeah .__c4
+__s__that seems kind of redundant .__c4
+__s__but ==__c4
+__fh__okay .__c3
+__s^e__that all you want ?__c2
+__s^no__yes .__c3
+__s^bu__okay .__c2
+__qy^d^g^rt__so let's see .__c2
+__qy^bu^no^rt__i want to query .__c2
+__s^bk__go and right query .__c3
+__b__right ?__c2
+__fg__the mode .__c2
+__%--__okay and then on here ==__c2
+__s^bs^rt__so let's see .__c2
+__b__so that is the probability that they're entering vista ing or tango ing .__c3
+__s^e^rt__uhhuh .__c4
+__b__yeah .__c2
+__s^e^t__and uh ==__c3
+__s^rt__so slightly biased toward tango ing ?__c4
+__%-__yeah .__c3
+__qy.%-__okay .__c4
+__s^aa__if it's night time they have not discussed admission fee and the n- - walls are nice .__c2
+__s^bk__so yeah .__c2
+__s__i guess that sort of makes sense .__c2
+__qy^d^g^rt__the reason i say the demo doesn't work very well is yesterday we uh - observed everything in favor of taking a tour .__c2
+__fg|qw^rt__and it came up as tango .__c2
+__b__right ?__c2
+__s^rt__over and over again .__c2
+__s^e.%-__so ==__c4
+__s^bc__we couldn't - we couldn't figure out how to turn it off of tango .__c2
+__b__uhhuh .__c4
+__s^aa^m__huh !__c4
+__s^df__it loves the tango .__c3
+__s^bk__um ==__c4
+__s^bk__well that's obviously just to do with our probabilities .__c3
+__s.%--__yeah yeah .__c2
+__fh|s__like we totally hand tuned the probabilities .__c3
+__b__yeah .__c4
+__s.%--__right .__c3
+__qy^2^rt__we were like huh well if the person does this and this and this let's say forty percent for this .__c3
+__s^aa__okay .__c4
+__b__fifty per- - like - you know ==__c3
+__s^bc^ng__so obviously that's going to happen .__c3
+__s^fa|s__right .__c4
+__s__yeah .__c2
+__s^e__yeah .__c1
+__qy^d^g^rt__but it - it ==__c1
+__s^aa__maybe the bias toward tango ing was yours then .__c4
+__s^am__yeah .__c3
+__s__yeah .__c2
+__b__it's - so we have to like fit the probabilities .__c3
+__s__that's - that's at ==__c2
+__s^e^rt__spent my youth practicing the tango de la muerte .__c2
+__s__so the real case .__c4
+__s^e__however you know - it - the purpose was not really at this stage to come up with meaningful probabilities .__c1
+__s^e__but to get thinking about that hidden middle layer .__c1
+__s^co^rt__uhhuh .__c4
+__s^cs__and so th- ==__c1
+__fh__and ==__c1
+__s__we would actually ==__c2
+__%--__i guess once we look at the data more we'll get more hidden nodes .__c2
+__s^r__uhhuh .__c1
+__fh|s__yeah .__c3
+__fh__but i'd like to see more .__c2
+__qy^d^rt__not because it would expedite the probabilities because it wouldn't .__c2
+__s^aa__it would actually slow that down tremendously .__c2
+__s^cc__um - | well yeah .__c3
+__s^aa__i guess .__c3
+__qw^rt__but ==__c2
+__s__not that much though .__c3
+__qw^d^rt__only a little early .__c3
+__s__no .__c2
+__s^bk__i think we should have uh - exponentially more middle nodes than features we've extracted .__c2
+__s^bk|qy^bu^m^rt__okay .__c3
+__b__i'm ju- - i'm just jo- ==__c2
+__s^aa^r__so are doing business versus tourist ?==__c4
+__qy^bu^d^rt__they refer to your current task .__c4
+__s^aa__like - like current thing you want to do at this moment .__c4
+__s^bsc__um - | yeah .__c3
+__qw^rt__well - | that's - that's an interesting point .__c3
+__s__whether you're - it's whether - it's not ==__c3
+__qh^rt__and are th- ?==__c4
+__qw^rt__i think it's more like are you are tourist .__c3
+__s^j__are you in ham- - like heidelberg for a ==__c3
+__s^j__oh .__c4
+__s^j^rt__so i thought that was directly given by the context switch .__c4
+__s__that's a different thing .__c3
+__s^j__what if the context which is not set but still they say things like i want to go uh - see the uh - the - the castle and uh - et cetera ?__c3
+__s__is it ?==__c1
+__b^rt__well the - i kind of thought of doing business as more of running an errand type thing .__c2
+__s^bk__yeah .__c3
+__s^aa^m__business on the other hand is uh - definitely what you're doing .__c3
+__s__so if you run out of cash as a tourist and - and - and you need to go to the a t- ==__c1
+__s^ba__so i- - wi- - th- ==__c2
+__s^e__okay .__c4
+__qy.%--__oh i see .__c4
+__s^t^tc__you may have a task .__c4
+__fh__wh- - you have to go get money and so you are doing business at that stage .__c4
+__s^j__huh .__c1
+__qh^rt__yeah .__c3
+__s__right .__c2
+__fh__how do i get to the bank .__c1
+__s^ba__i see .__c4
+__s^cs^j__huh .__c4
+__s^j^na__and that'll affect whether you want to enter or you if you ==__c3
+__s^j__kind of thing .__c3
+__s.%-__okay .__c4
+__s^ba__so the tourists node should be um - very consistent with the context node .__c4
+__s__right ?__c4
+__qy__if you say that's more their - in general what their background is .__c4
+__s^df__yeah .__c3
+__s^bd__i think this context node is a bit of a ==__c3
+__s__i don't know .__c3
+__s__like in d- ==__c3
+__b__uh - do we want to have ?==__c3
+__qy^bu^d^rt__like it's ==__c3
+__s^e^rt__are you assuming that or not ?__c4
+__s^aa__like - is that to be - i mean if that's accurate then that would determine tourist node .__c4
+__s^co^rt__if the context were to set one way or another that like - strongly uh - um - says something about whether - whether or not they're tourists .__c3
+__fh|s^e^t__uhhuh .__c4
+__s.%--__uhhuh .__c4
+__s__so what's interesting is when it's not - when it's set to unknown .__c3
+__s^df.%--__uhhuh .__c4
+__s^2^j__we- - what set the - they set the context to unknown ?__c1
+__s^bc__okay .__c4
+__b__okay .__c2
+__fh__right now we haven't observed it .__c3
+__qh^j__so i guess it's sort of averaging over all those three possibilities .__c3
+__qy^bu^rt__uhhuh .__c4
+__qrr.%--__uhhuh .__c1
+__h__right .__c2
+__s__but yes .__c3
+__s^cc^e__you can set it to un- - unknown .__c3
+__s^e__and if we now do - leave everything else as is the results should be the same .__c1
+__s^bk__oops !__c2
+__s^e__right ?__c1
+__s^bu.%--__no .__c2
+__qw__well no .__c3
+__s^bu.%-__because we - th- - the way we set the probabilities might not have ==__c3
+__s^aa|s^co__yeah .__c3
+__qy^d^rt__it's - it's an - it's an issue .__c3
+__s^aa^m__right ?__c3
+__s^bk__like ==__c3
+__qy^bu^d^rt__pretty much the same ?__c1
+__s^na.%-__yeah .__c3
+__s^na__it is .__c3
+__s^e^rt__so the issue is that um - in belief nets it's not common to do what we did of like having you know - a d- - bunch of values and then unknown as an actual value .__c3
+__s^aa__yeah .__c4
+__fh__what's common is you just like don't observe the variable .__c3
+__fh__yeah .__c4
+__s.%--__right ?__c3
+__s.%-__and then just marginalizes .__c3
+__s^co__yep .__c1
+__s^e__but uh - we didn't do this because we felt that there'd ==__c3
+__b__i guess we were thinking in terms of a switch that actually .__c3
+__s^cc__we were thi- ==__c2
+__s^aa|s__yeah .__c2
+__s^e__uhhuh .__c1
+__s^e__we were th- ==__c2
+__s^e__but uh - i don't know y- - what the right thing is to do for that .__c3
+__fh__i'm not - i don't know if i totally am happy with the way it is .__c3
+__s^2__why don't we ?==__c1
+__b__can we ?==__c1
+__b__um | how long would it take to - to add another node on the observatory and um - play around with it ?__c1
+__fh__another node on what ?__c3
+__s^j__uh - | well it depends on how many things it's linked to .__c2
+__s^cc__let's just say make it really simple .__c1
+__s^co__if we create something that for example would be um ==__c1
+__s__so th- - some things can be landmarks in your sense .__c1
+__qy^d^f^g^rt__but they can never be entered .__c1
+__%-__so for example s- - a statue .__c1
+__s^e.%-__good point .__c3
+__qw^rt__yeah ?__c1
+__s:s__right .__c2
+__qy^d^g^rt__uhhuh .__c4
+__h|qw^bu.%-__so maybe we want to have landmark meaning now enterable landmark versus um - something that's simply just a vista point for example .__c1
+__s__yeah that's true .__c2
+__s__yeah ?__c1
+__h__uh - a statue or um ==__c1
+__s:s__so basically it's addressing a variable that's enterable or not .__c3
+__s^aa__so like an enterable question mark .__c3
+__b__also - you know - didn't we have a size as one ?__c2
+__qw^rt__what ?__c3
+__s__the size of the landmark .__c2
+__s.%--__um - not when we were doing this .__c3
+__s__because if it's ==__c2
+__s^bk|s.%--__yeah .__c2
+__s^bk__but i guess at some point we did .__c3
+__s^bk__for some reason i had that - okay that was a thought that i had at one point .__c2
+__s__but then went away .__c2
+__s^bs.%--__so you want to have a - a node for like - whether or not it can be entered ?__c3
+__qy^rt__well | for example if we include that .__c1
+__s^aa__yeah .__c3
+__s^bk|qy^rt__yeah ?__c1
+__qrr.%--__um - accessibility or something .__c1
+__s.%--__yeah ?__c1
+__s__huh .__c3
+__s.%-__is it - can it be entered ?__c1
+__s^r^t1__then of course this is sort of binary as well .__c1
+__s.%--__yeah .__c3
+__s^cs__and then um - there's also the question whether it may be entered .__c1
+__s^e^rt__in the sense that you know - if it's tom - the house of tom cruise you know - it's enterable but you may not enter it .__c1
+__s^m__you know ?__c1
+__s__you're not allowed to .__c1
+__s__yeah .__c3
+__s__unless you are whatever his - his divorce lawyer or something .__c1
+__b__yeah .__c3
+__s^fe__yeah ?__c1
+__fh__and um - | and these are very observable sort of from the - from the ontology sort of things .__c1
+__qr__way- ==__c2
+__qy^bu^rt__does it actually help to distinguish between those two cases though ?__c2
+__s^aa__whether it's practically speaking enterable or actually physically enterable or not ?__c2
+__s__it seems like it would for uh - uh - determining whether they want to go into it or not .__c4
+__s^ba__y- - y- - if - if you're running an errand you maybe more likely to be able to enter places that are usually not al- - w- - you're not usually - not allowed to uh - m- ==__c1
+__s.%--__because they ==__c4
+__s.%--__well i can see why ==__c2
+__s__let's get this uh - b- - clearer .__c1
+__s^bk__s- - so it's matrix between if it's not enterable .__c1
+__s__whether it's a - whether it's a public building and whether it's - actually has a door .__c2
+__b__period .__c1
+__s^bk__yeah .__c1
+__s^j__exactly .__c1
+__s^ft^j__okay .__c2
+__s__this is sort of uh ==__c1
+__qy^m^rt__uhhuh .__c4
+__s^df__so tom cruise's house is not a public building .__c2
+__s^e__but it has a door .__c2
+__s^bk__right .__c4
+__s^fe^j__uhhuh .__c3
+__s^ba__but the thing is ==__c2
+__%-__okay sh- ==__c2
+__qw.%--__explain to me why it's necessary to distinguish between whether something has a door and is not public .__c2
+__fg__or if something ==__c2
+__qw^rt__it seems like it's equivalent to say that it doesn't have a door a- - and it ==__c2
+__s__uhhuh .__c1
+__qy^d^m^rt__or not public and not a door are equivalent things .__c2
+__s^aa__it seems like in practice .__c2
+__qy^d^rt__yeah .__c1
+__qo__right .__c1
+__s__yeah .__c1
+__s__so we would have ==__c1
+__s^no__what does it mean then that we have to ?==__c1
+__s^ng__we have an object type statue .__c1
+__s^df__that really is an object type .__c1
+__s^2__right .__c2
+__s^aa__so there is - there's going to be a bunch of statues .__c1
+__h|s^no__and then we have for example an object type huh that's a hotel .__c1
+__s^2__how about hotels ?__c1
+__qw^br^rt__okay .__c2
+__s__so the most famous building in heidelberg is actually a hotel .__c1
+__%-__it's the hotel zum ritter .__c1
+__s__which is the only renaissance building in heidelberg that was left after the big destruction and for the thirty years war blah blah blah .__c1
+__s^bk__huh .__c2
+__s^e.%-__does it have nice walls ?__c2
+__s__it has wonderful walls .__c1
+__b__excellent .__c2
+__s^bk__um - | and lots of detail c- - and - carvings engravings and so forth .__c1
+__s__so ==__c1
+__fg__but um - it's still an unlikely candidate for the tango mode i must say .__c1
+__s__but um - so - s- - so if you are a d- ==__c1
+__s^bd__well it's very tricky .__c1
+__s^ba__so i guess your question is - so far i have no really arg- - no real argument why to differentiate between statues as - statues and houses of celebrities .__c1
+__fg|s__from that point of view .__c1
+__s^df__huh .__c1
+__s^aa__okay .__c1
+__s^na^r__let - let's do a ==__c1
+__s^df__can we add just so i can see how it's done uh - a has door property ?__c1
+__s^e__or ?==__c1
+__fh__okay .__c2
+__fh__what would it uh - connect to ?__c3
+__%--__like - what would uh - it affect ?__c3
+__qy^rt^t__um - i think um - | it might affect ==__c1
+__s^aa__oh actually it's - it - it wouldn't affect any of our nodes .__c1
+__qy^d^e^rt__right ?__c1
+__s^aa__what i was thinking was if you had a - like ==__c3
+__s^bk__oh it's - it affects th- - the doing business is certainly not .__c1
+__s^cc__you could affect - theoretically you could affect doing business with has door .__c2
+__s^cc^e__yeah .__c3
+__s^co^t__huh .__c4
+__s__okay .__c3
+__s^df__it should um - inhibit that .__c1
+__s^aap__right .__c3
+__s^aap__let's see .__c2
+__s^df__right ?__c1
+__b__yeah .__c3
+__b__i don't know if javabayes is nice about that .__c3
+__qy^d^f^g^rt__it might be that if you add a new thing pointing to a variable you just like - it just overwrites everything .__c3
+__s.%--__but you can check .__c3
+__s^bsc__well we have it saved .__c2
+__s__so we can rel- - open it up again .__c2
+__b__okay .__c3
+__s^e__it's true .__c3
+__b__the safety net .__c2
+__s^2__i think you could just add it .__c4
+__s^e__i mean - i have before .__c4
+__s^e__okay .__c4
+__qo__whew !__c4
+__h__well that's fine .__c3
+__h__but we have to see the function now .__c3
+__qw__has it become all point fives or not ?__c3
+__qr^bu^d.%-__oh right .__c4
+__s^ar:s__let's see .__c2
+__s^e__so this is has door .__c2
+__qw^bu^rt__uh - true false .__c2
+__s^aa__that's acceptable .__c2
+__s^no__and i want to edit the function going to that .__c2
+__qy^rt__right ?__c2
+__s__no .__c3
+__s^bk|s^bu__this is fine .__c3
+__%-__oh no .__c2
+__b__this business .__c3
+__s__right .__c2
+__s^bk__it was fine .__c2
+__fh__@reject@ added this one .__c2
+__s^e__yep .__c3
+__s^2__what would be nice if it - is if it just like - kept the old function for either value .__c3
+__b__this ==__c2
+__b__but ==__c3
+__s^e__nope .__c3
+__s^e__didn't do it .__c3
+__s.%--__oh .__c4
+__%-__oh wait .__c2
+__qy^bu.%-__it might be ==__c2
+__s^2__did we w- ?==__c2
+__s^aa__yes .__c2
+__s__that's not good .__c2
+__s__that's kind of annoying .__c3
+__b^rt__okay .__c1
+__b__so just dis- - dismiss everything .__c1
+__fg|s__close it and - and load up the old state so it doesn't screw - screw that up .__c1
+__fh__let's see .__c2
+__s^na__oops !__c2
+__s^aa__huh .__c3
+__s__maybe you can read in .__c1
+__s^e__ha- - so have you used javabayes a lot ?__c3
+__qw^rt__yes .__c4
+__s__really i ha- - i've - i haven't used it a lot .__c4
+__s^ng__and i haven't used it in the last you know - many months .__c4
+__s^aa^j|s__so ==__c4
+__s__okay .__c3
+__s^aa|s^df^rt__um - | uh - we can ask someone .__c4
+__s^aa__it might be worth uh - asking around .__c3
+__s.%--__um ==__c4
+__s^bsc__like - we looked at sort of uh - a page that had like a bunch of ==__c3
+__s^aap__yeah .__c4
+__s^aa__srini ==__c4
+__s^aap__okay .__c3
+__b__yeah .__c3
+__s^co__srini's the one to ask i would say .__c4
+__qy^rt__s- - i guess he'd be the person .__c3
+__s^co__um - he might know .__c4
+__%--__yeah .__c3
+__qy^rt__because ==__c3
+__s^e__and ==__c4
+__b__yeah .__c3
+__h|s^aap.%-__i mean - in a way this is a lot of good features in java .__c3
+__s^2__it's cra- - has a gui and it's uh ==__c3
+__qy^d^g^rt__uhhuh .__c4
+__s^na__i guess those are the main two things .__c3
+__b__it does learning .__c3
+__z__it has ==__c3
+__z__uhhuh .__c4

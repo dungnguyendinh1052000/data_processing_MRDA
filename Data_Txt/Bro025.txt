@@ -1,0 +1,756 @@
+__fg|s__headphones that aren't so uncomfortable .__ca
+__z__huh .__c3
+__z__i think - well this should be off the record .__c1
+__z__but i think ==__c1
+__s^t1__BLEEPED__c0
+__fh__BLEEPED__c1
+__s^t__BLEEPED__c2
+__fg__BLEEPED__c3
+__qw__BLEEPED__c8
+__qy^d^j^rt__BLEEPED__c9
+__fg|s^na__BLEEPED__ca
+__s^aa^j__BLEEPED__cb
+__s__uh okay .__c3
+__s^ba__we're not recording yet | are we ?__c0
+__b__well i don't think ==__ca
+__b__no .__ca
+__s^ba__no | uh that - that wasn't recorded .__c9
+__s^ba__um | i don't think they're designed to be over your ears .__ca
+__b__yeah i know .__c1
+__s^co__it just - it really hurts .__c1
+__s__it gives you a headache .__c1
+__fh__like if you ==__c1
+__s^e^rt__temple squeezers .__c9
+__b__on your temple ==__c1
+__s^rt__yep .__ca
+__fh__yeah .__c1
+__s^e__yeah .__c1
+__b__uhhuh .__c3
+__s^rt__but i definitely haven't figured it out .__ca
+__b^rt__um meeting recorder meeting .__c0
+__fh|s^rt__i guess i have to d- - stop doing this sigh of contentment you know after sipping cappuccino or something .__c9
+__b__yeah | with the - we kno- - i know .__c1
+__s^e__sip sigh .__ca
+__b__i was just noticing a big s- ==__c9
+__s^ba__we know exactly how much you have left in your cup .__c1
+__s^df__so are we recording now ?__c3
+__s^bk^rt__is this ?==__c3
+__qy^rt__yeah .__c8
+__s^aa|s__oh | we're - we're - we're live .__c3
+__s^bk__okay .__c3
+__fh|s__yeah .__c8
+__s^rt__so uh | what were we going to talk about again ?__c3
+__s__so we said - we said data collection which we're doing .__c3
+__fh.%__were we going to do digits ?__c1
+__s__okay | do we do th- - do you go around the room and do names or anything ?__c0
+__s^na__i think that ==__ca
+__b__it's a good idea .__c8
+__s.%--__u- ==__ca
+__fh__usually we've done that .__ca
+__s__and also we've s- - done digits as well .__ca
+__fh|s__but i forgot to print any out .__ca
+__s^2.%--__so ==__ca
+__s^bsc__besides with this big a group .__ca
+__s^2^bc__it would take too much time .__ca
+__fh__no | i- - it'd be even better with this big ==__c3
+__fh__you can write them on the board if you want .__c1
+__b__which way is ?==__c8
+__s__yeah | but it takes too much time .__ca
+__qy^bu^rt__mari .__c8
+__qrr.%--__what ==__cb
+__s^ng__what ?__c0
+__b^rt__y- - i think your - your - your thing may be pointing in a funny direction .__c8
+__h|s__it's not that long .__c3
+__%--__sort of it's - it helps if it points sort of upwards .__c8
+__qw^rt__whoops !__c0
+__s__sort of it ==__c8
+__s.%--__you know .__c8
+__s^rt.%--__yeah .__c8
+__s^2__would it - m- ?==__c0
+__s^aa__so that thing - the little - th- - that part should be pointing upwards .__c8
+__s^bk|s^cc__w- - u- ==__c3
+__fh|s^cs__so ==__c0
+__s^e__oh | this thing .__c0
+__qw__that's it .__c8
+__s__yeah .__c8
+__%--__otherwise you just get a heartbeats .__cb
+__s.%--__yeah .__c0
+__s__it's kind of ==__c0
+__s__oh yeah | the element .__c3
+__s__yeah | n- - should be as close to you - your mouth as possible .__c3
+__b__yeah .__c0
+__b__that's good .__c8
+__fh|s__okay .__c0
+__s__that kind of thing is good .__c8
+__fh|s__it's a ==__cb
+__b__this w- ==__c0
+__fh|s__all right .__c0
+__b__yeah .__c8
+__fh|s__oh yeah .__c8
+__s^df^e__yeah .__c3
+__s__how's that working ?__c0
+__s__it's a ==__c8
+__s__it's working .__c8
+__b__okay .__c0
+__fh|s__all right .__c3
+__s^df__so what we had was that we were going to talk about data collection .__c3
+__s__and um uh you - you put up there data format .__c3
+__s__um ==__c0
+__b__and other tasks during data collection .__c3
+__s__so i think the goal - the goal was what can we do - how can you do the data collection differently to get ?==__c0
+__s__and ==__c3
+__s__what can you add to it to get um some information that would be helpful for the user interface design ?__c0
+__b__like ==__c0
+__s__uh especially for querying .__ca
+__s^e.%--__especially for querying .__c0
+__s__so getting people to do queries afterwards .__c0
+__s__getting people to do summaries afterwards .__c0
+__s^cs__um ==__c0
+__s^cs^e__well one thing that came up in the morning - in the morning was the um ==__cb
+__s^cs^e__i- - uh if he - i um ==__cb
+__s__if he has - s- ==__cb
+__s^co^j__i - i don't remember .__cb
+__fh__mister lan- - doctor landry ?__cb
+__s^bk__la- - landay .__cb
+__s^co__landay james .__ca
+__s__so he has um these uh um tsk note-taking things .__cb
+__s.%--__then that would sort of be a summary which you wouldn't have to solicit .__cb
+__s^bk__uhhuh .__c0
+__s__y- - if - if we were able to - to do that .__cb
+__s^j__well if - if you actually take notes as a summary as opposed to n- - take notes in the sense of taking advantage of the time stamps .__c0
+__fh__so action item or uh reminder to send this to so-and-so blah blah blah .__c0
+__fh__uhhuh .__cb
+__qy^bu^d^rt__so that wouldn't be a summary .__c0
+__s^fe.%__that would just be - that would b- - relate to the query side .__c0
+__s^df__uhhuh .__cb
+__s^df^e__but if we had the crosspads we could ask people you know if - if something comes up write it down and mark it somehow .__ca
+__s__you know .__ca
+__s^bk__right | i mean we - because you'd have several people with these pads you could collect different things .__c8
+__%-__i mean because i tend to take notes which are summaries .__c8
+__s^ba__right .__c0
+__s^ba__and so you know ==__c8
+__s__i mean the downside to that is that he sort of indicated that the uh quality of the handwriting recognition was quite poor .__c9
+__s^aa^m__well ==__c0
+__s^aa__but that's all right .__ca
+__b__i don't think there'd be so many that you couldn't have someone clean it up .__ca
+__s^bs__so ==__c0
+__s^aa__pretty easily .__ca
+__s^df__yeah | we also could come up with some code for things that people want to do so that - for frequent things .__c0
+__s.%-__yeah .__c9
+__b__and the other things people can write whatever they want .__c0
+__s^2__i mean it's to some extent uh for his benefit .__c0
+__s^aa__so ==__c0
+__s^cc__if that - you know if - if we just keep it simple then maybe it's still useful .__c0
+__s__right .__c9
+__%--__yeah .__ca
+__b__i just realized we skipped the part that we were saying we were going to do at the front where we each said who we were .__c3
+__qw__the roll call .__cb
+__b__right .__c0
+__s^bd.%--__roll call .__c3
+__s__i thought you did that on purpose .__c0
+__s^2__but anyway shall we do the roll call ?__c0
+__s__no | not a- ==__c3
+__qy^d^g^rt__no | i just - my mind went elsewhere .__c3
+__s^aa__so ==__c3
+__s^aa__uh yeah | i'm morgan .__c3
+__s^bk__and ==__c3
+__s^2__where am i ?__c3
+__fg__i'm on channel three .__c3
+__s^aa__and i'm adam janin on channel a.  .__ca
+__s^aa__i'm jane edwards i think on channel b.  .__cb
+__s^df__i'm dan ellis .__c8
+__s^e__eric on channel nine .__c9
+__s^df^e__liz on channel one .__c1
+__b__mari on channel zero .__c0
+__qy^d^g__katrin on channel two .__c2
+__b__should we have used pseudo names ?__cb
+__s^df__should we do it a second time with pseudo ?==__cb
+__b__no no .__cb
+__s__i'm rocky raccoon on channel ==__c3
+__s__and uh do you want to do the p. d. a.'s and the p. z. m.'s ?__ca
+__s^e.%--__let me uh turn that off .__c8
+__s^bc__oh | p. z. m nearest nearest next nearest .__c8
+__b__next one .__c8
+__s^e__next nearest .__cb
+__qy^bu^rt__far .__ca
+__s.%--__furthest .__c8
+__qrr__p. d. m. right .__c8
+__s__p. z. a. right .__c8
+__s^cs__p. d. a. right .__c8
+__s^e__p. d. a. left .__c8
+__b__okay .__cb
+__s^cs^e__thanks .__c8
+__s^cs^e__yeah and eventually once this room gets a little more organized the jimlets will be mounted under the table .__ca
+__s^cs^t__and these guys will be permanently mounted somehow .__ca
+__s^e__you know probably with double sided tape .__ca
+__s^cs__but so ==__ca
+__s^df__you - so we won't have to go through that .__ca
+__b__huh .__c0
+__s^e__i have a question on protocol in these meetings .__cb
+__fh__which is when you say jimlet and the person listening won't know what that is sh- - shou- - how - how do we get - is that important information ?__cb
+__qw__you know the jimlet ==__cb
+__qy^bu__i mean the box that contains the ==__cb
+__b__well i mean suppose we broaden out and go to a range of meetings besides just these internal ones .__c3
+__s.%--__there's going to be lots of things that any group of people who know each other have in column - common that we will not know .__c3
+__s:qy__uhhuh .__cb
+__s^df^rt__right .__c0
+__b__okay .__cb
+__s__right .__c0
+__s__so the- - there will be jargon that we he- - there'll be transcription errors .__c0
+__s:qy__good .__cb
+__b__yeah .__c3
+__s__okay .__cb
+__s__i mean we - we were originally going to do this with v. l. s. i design .__c3
+__s__and - and - and the reason we didn't go straight to that was because immediately ninety percent of what we heard would be jargon to - to us .__c3
+__qy^d^f^g__so ==__c3
+__b__well that was just one of the reasons .__ca
+__s^e__but yeah | definitely .__ca
+__s^e__yeah .__c3
+__b__okay good .__cb
+__fh|s^e__that - that's right .__c3
+__b__there were others of course .__c3
+__fh|s__yeah .__c3
+__b__okay | so we were on the data collection and the summary issue .__cb
+__s^e__right .__c3
+__s__we can go back .__c3
+__s^e__so ==__c0
+__b__uh u- - u- ==__c0
+__s^e__so actually there's kind of three issues .__c0
+__s^e__there's the crosspad issue .__c0
+__s__should we do it and if so what'll we have them do ?__c0
+__b__um do we have s- - people write summaries ?__c0
+__fh|s^e__everybody or one person ?__c0
+__s^ba__and then do we ask people for how they would query things ?__c0
+__s__there's - there're sub problems in that .__c9
+__s__is that ==__c0
+__s__in that where - or when do you actually ask them about that ?__c9
+__s^df__i mean that was one thing i was thinking about was is that dan said earlier that you know maybe two weeks later which is when you would want to query these things you might ask them then .__c9
+__s__right .__c0
+__b__right .__c0
+__fh__but there's a problem with that in that if you're not ==__c9
+__s__if you don't have an interactive system it's going to be hard to go beyond sort of the first level of question .__c9
+__s^e__right .__c0
+__s^e__right ?__c9
+__s__and furth- - id- - explore the data further .__c9
+__qw__right .__c0
+__s__so ==__c9
+__qy^bu^rt__and ==__ca
+__s.%--__there's - there's another problem .__c3
+__b__which is um we certainly do want to branch out beyond uh uh recording meetings about meeting recorder .__c3
+__qy^rt__and uh once we get out beyond our little group the people's motivation factor uh reduces enormously .__c3
+__s.%-__and if we start giving them a bunch of other things to do ==__c3
+__s^2__how - you know we - we did n- - you know another meeting here for another group .__c3
+__s^aa__and - and uh they were fine with it .__c3
+__s^e__but if we'd said okay now all eight of you have to have to come up with uh the summar- ?==__c3
+__b__well i asked them to .__ca
+__s__and none of them did .__ca
+__s^bk__t- - see ?__c3
+__s^e__uhhuh .__cb
+__fh__so i - i asked them to send me ideas for queries after the meeting .__ca
+__b__there we go .__c3
+__fh__they ==__c0
+__s.%--__and no one ever did .__ca
+__s__uhhuh .__c8
+__b__i didn't follow up either .__ca
+__s^df__so i didn't track them down and say please do th- - do it now .__ca
+__s__yeah .__c0
+__qy^bu^rt__but uh no one spontaneously provided anything .__ca
+__s^ar__i- ==__c3
+__s__i'm worried that if you did - even if you did push them into it it - it - it might be semi random .__c3
+__s^2__right .__c0
+__s^bk__uh as opposed to what you'd really want to know if you were going to use this thing .__c3
+__s__right .__c8
+__s^e__i just don't know how else to generate the queries other than getting an expert to actually listen to the meeting and say that's important .__ca
+__qy^bu^d^rt__okay .__c0
+__s^aa__that might be a query .__ca
+__s^bk__tsk .__cb
+__b__well there is this other thing which y- - which you were alluding to earlier which is um there are certain key words like you know action item and things like that .__cb
+__fh__which could be used in uh t- - to some degree finding the structure .__cb
+__fh__although ==__c8
+__fh|s__yeah .__c0
+__s__w- ==__c0
+__s__and - and i also um was thinking with reference to the n- - uh note-taking .__cb
+__fh__the advantage there is that you get structure without the person having to do something artificial later .__cb
+__s__and the fir- - third thing i wanted to say is the summaries afterwards .__cb
+__b__um i think they should be recorded instead of written .__cb
+__s^e__because i think that um it would take so long for people to write that i think you wouldn't get as good a summary .__cb
+__s^fe__how about this idea ?__c0
+__s.%--__that normally at most meetings somebody is delegated to be a note taker .__c0
+__s^ba__yeah | good .__cb
+__qw__good point .__cb
+__qy^rt__yeah .__cb
+__h|s__and - so why don't we just use the notes that somebody takes ?__c0
+__qrr.%--__i mean that gives you a summary .__ca
+__s__but it doesn't really ==__ca
+__s.%-__how do you generate queries from that ?__ca
+__s^2__well but i mean maybe a summary is one of the things we'd want from the output of the system .__c8
+__s^aa^m__yeah .__cb
+__s^aa__right ?__c8
+__s__right .__c0
+__s^m^t1__i mean they're something .__c8
+__b__it's a - a kind of output you'd like .__c8
+__qy^bu^d^rt__actually ==__c1
+__s^fa__uh james and i were talking about this during one of the breaks .__ca
+__s__and so ==__c1
+__%-__and the problem with that is i'm definitely going to do something with information retrieval .__ca
+__s^e__even if it's sort of not full- - full bore what i'm going to do for my thesis .__ca
+__s__right .__c0
+__s.%--__i'm going to do something .__ca
+__fh|s.%-__i'm not going to do anything with summarization .__ca
+__qy^bk^bu^d__and so if someone wants to do that that's fine .__ca
+__%-__but it's not going to be me .__ca
+__s^aa__well i think that we - i mean the - the f- - the core thing is that you know once we get some of these issues nailed down we need to do a bunch of recordings .__c3
+__s^aa^m__well ==__c0
+__s__and send them off to i. b. m .__c3
+__b__and get a bunch of transcriptions .__c3
+__s^bk__even if they're slightly flawed .__c3
+__b__yep .__ca
+__%-__or need some other ==__c3
+__fh__and then we'll have some data there .__c3
+__b__and then i- - i- - we can start l- - looking and thinking what do we want to know about these things .__c3
+__fg__yeah .__c0
+__b__and - at the very least .__c3
+__fh|s__uhhuh .__c8
+__s.%--__i actually want to say something about the note pad .__c1
+__fh|s__yeah .__c0
+__qy^d^g^rt__so if you could sense just when people are writing and you tell them not to doodle or try not to be using that for other purposes and each person has a note pad they just get it when they come in the room then you c- - you can just have a fff plot of wh- - you know who's writing when .__c1
+__s__huh .__c3
+__qy^bu^d^rt__activity .__c8
+__s^na__that's all you ==__c1
+__qy^d^g^rt__yeah .__c8
+__b__and you can also have notes of the meeting .__c1
+__b__but i bet that's - that will allow you to go into the sort of the hot places where people are writing things down .__c1
+__s.%--__uhhuh .__c3
+__s__oh i see .__ca
+__s^df__i mean you can tell when you're in a meeting when everybody stops to write something down that something was just said .__c1
+__s__uhhuh .__c0
+__qw^rt__it may not be kept in the later summary .__c1
+__s__but at that point in time is was something that was important .__c1
+__s__uhhuh .__cb
+__s__and that wouldn't take any extra ==__c1
+__b__that's a nice idea .__cb
+__s^e__or someone could just pu- - you could just put your hand on the pad .__c1
+__b__it ==__c3
+__s^bk__uhhuh .__c0
+__s__uhhuh .__c2
+__%-__and go like that if you want to .__c1
+__s^bk__that's a good idea .__c3
+__qy^bu^d^rt__it's ==__c1
+__qy^br^rt__but that doesn't ==__c3
+__qy^bu^d^r^rt__maybe i'm missing something .__c3
+__s^ar|s^ng__but that doesn't get to the question of how we come up with queries | right ?__c3
+__s^bk__well | then you can go to the points where the - you could actually go to those points in time .__c1
+__s__well what it does ==__c0
+__s__and find out what they were talking about .__c1
+__fh__and you r- ==__c1
+__s__yeah .__c3
+__s.%-__well what it does is provide a different ==__c0
+__b__and ==__c1
+__qy.%-__uh y- ==__ca
+__s^2__i - i think it's an interesting thing .__c0
+__s^na.%-__i don't think it gets at the - the queries per se .__c0
+__fh__but it does give us an information fusion sort of thing that you know you want to i- - say what were the hot points of the meeting .__c0
+__s^bk__yeah .__c1
+__s^bk__that - that's what i mean is that i think it gets at something interesting .__c3
+__s^ba__but if we were asking the question which i thought we were of - of - of um how do we figure out what's the nature of the queries that people are going to want to ask of such a system knowing what's important doesn't tell you what people are going to be asking .__c3
+__s__but i bet it's a good superset of it .__c1
+__s^e__does it ?__c3
+__b__well see there are th- ==__c8
+__fh__well yeah .__c0
+__s^ba__i think you could say they're going to ask about uh when - uh when did so-and-so s- - talk about blah .__c0
+__s^df__and at least that gives you the word that they might run a query on .__c0
+__fh__at least you can find the locations where there are maybe keywords .__c1
+__fh__i mean i- - this would tell you what the hit is .__ca
+__qw__maybe .__c3
+__s__and ==__c1
+__s^e__not what the query is .__ca
+__b__what ==__ca
+__s^e__right right .__c1
+__fh__right .__c0
+__s^bk__it'll tell you the hit but not the query .__c0
+__s__but i think - i think thinking about queries is a little bit dangerous right now .__c1
+__b__and so you could - you can generate a query from the hits .__ca
+__fh__but ==__ca
+__fh__right .__c0
+__qr^rt__we don't even know what ==__c1
+__s__i mean if you want to find out what any user will use that might be true for one domain and one user .__c1
+__qw__uhhuh .__c3
+__s^bk__but i mean a different domain and a different user ==__c1
+__s^ba__uhhuh .__cb
+__b__yeah | but we're just looking for a place to start with that .__c3
+__s^ba__um ==__c1
+__s^df__because you know th- - what - what - what james is going to be doing is looking at the user interface .__c3
+__qw__and he's looking at the query in - in ==__c3
+__s__i- - we - we have five hours of pilot data of the other stuff .__c3
+__b__but we have zero hours of - of - of queries .__c3
+__fh__so he's just sort of going where - where do i - where do i start .__c3
+__s__w- ==__c0
+__s__well th- - you could do ==__c0
+__b__i think the summaries actually may help get us there .__c0
+__s__okay .__c3
+__b__for a couple reasons .__c0
+__s__one if you have a summary - if you have a bunch of summaries you can do a word frequency count and see what words come up in different types of meetings .__c0
+__%-__uhhuh .__c3
+__b__so action item is going to come up whether it's a v. l. s. i meeting or speech meeting or whatever .__c0
+__s.%--:s^co__so words that come up in different types of meetings may be something that you would want to query about .__c0
+__b__uhhuh .__ca
+__%-__um the second thing you could possibly do with it is just run a little pilot experiment with somebody saying here's a summary of a meeting what questions might you want to ask about it to go back .__c0
+__s^2^bu__yeah | i think that's difficult .__ca
+__qy^d^g^rt__because then they're not going to ask the questions that are in the summary .__ca
+__s^aa__well ==__c0
+__s^bk__but i think it would give ==__ca
+__s^fe__that's one possi- - one possible scenario though is you have the summary .__c0
+__s^bk__uhhuh .__ca
+__s__and you want to ask questions to get more detail .__c0
+__s^aa__th- - yeah i think it has to be a participant .__ca
+__b__well it doesn't have to be .__ca
+__s.%--__okay so that - that is another use of meeting recorder that we haven't really talked about .__ca
+__b__which is for someone else .__ca
+__s__as opposed to as a remembrance agent .__ca
+__s^rt__which is what had been my primary thought in the information retrieval part of it would be .__ca
+__s^e^rt__but uh ==__ca
+__b__i guess if you had a meeting participant they could use the summary to refresh themselves about the meeting and then make up queries .__ca
+__s^e.%-__but it's not ==__ca
+__b__uhhuh .__c3
+__qy^rt__i don't know how to do it if - until you have a system .__ca
+__s^df^na__the summary is actually going to drive the queries then .__c1
+__s__yeah .__c8
+__fh|s__huh .__c0
+__s__i mean your research is going to be very circular .__c1
+__s^df__yeah | that - that's what i was saying .__ca
+__fg|s__yeah .__c0
+__qy^rt__but th- - there is this um there is this class of queries which are the things that you didn't realize were important at the time .__c8
+__qo__but some- - in retrospect you think oh hang on didn't we talk about that .__c8
+__s__and it's something that didn't appear in the summary but you ==__c8
+__qy^d^g^rt__uhhuh .__c0
+__s^na__and that's kind of what this kind of uh complete data capture is kind of nicest for .__c8
+__s^ba__right .__c0
+__s__right .__c1
+__s__because it's the things that you wouldn't have bothered to make an effort to record but they get recorded .__c8
+__b__right .__c0
+__b__so i mean - and th- - there's no way of generating those u- - u- - until we just - until they actually occur .__c8
+__%-__you know it's like ==__c8
+__s__but you could always post hoc label them .__c1
+__b__right right exactly .__c8
+__%-__yeah .__c1
+__b__but i mean it's difficult to sort of say and if i was going to ask four questions about this what would they be .__c8
+__s^co__yeah .__c1
+__%__those aren't the kind of things that come up .__c8
+__s^df__but at least it would get us started .__ca
+__s^bk__oh yeah .__c8
+__fh__yeah sure .__c8
+__s^ba__i also think that w- - if - if you can use the summaries as an indication of the important points of the - of the meeting then you might get something like ==__cb
+__s.%--__y- - so if th- - if the obscure item you want to know more about was some form of data collection .__cb
+__s^bsc__you know maybe the summary would say you know we discussed types of na- - data collection .__cb
+__s^ba__and you know - and - and maybe you could get to it by that .__cb
+__qy^d^g^rt__if you - if you had the - the larger structure of the - of the discourse then if you can categorize what it is that you're looking for with reference to those l- - those larger headings then you can find it .__cb
+__h|s^cs__even if you don't have a direct route to that .__cb
+__s^cs__huh .__ca
+__fh__i think that ==__cb
+__s^ba__although it seems like that's um - a high burden on the note taker .__ca
+__s^bk__that's a pretty fine grain that the note taker will have to take .__ca
+__s.%--__maybe landay can put a student in to be a note taker .__c1
+__s.%--__i th- ==__c0
+__s^bd__no .__c0
+__qy^rt__i think you got to have somebody who knows the pro- - knows the topic or - you know whose job it is delegated to be the note taker .__c0
+__s^df__no ?__c1
+__qy^d^g^rt__uhhuh .__c3
+__s^am__somebody who's part of the meeting .__c0
+__s^df__no | i mean but someone who can come sit in on the meetings and then takes the notes with them that the real note taker ==__c1
+__b__but they ==__ca
+__s__and that way that one student has you know a rough idea of what was going on .__c1
+__s.%--__and they can use it for their research .__c1
+__fh__i mean this isn't really necessarily what you would do in a real system .__c1
+__s__uhhuh .__ca
+__s^am__because that- - that's a lot of trouble .__c1
+__s__uhhuh .__c3
+__s__and maybe it's not the best way to do it .__c1
+__qy^d^g^rt__uhhuh .__c3
+__s^aa__but if he has some students that want to study that then they should sort of get to know the people and attend those meetings .__c1
+__b__and get the notes from the note taker or something .__c1
+__s.%-__right .__ca
+__s^cs__huh .__c3
+__fg|s.%-__well i think that's a little bit of a problem .__ca
+__s^aa.%--__their sort of note-taking application stuff .__ca
+__s__they've been doing for the last couple of years .__ca
+__s^bk__and i don't think anyone is still working on it .__ca
+__s^bk__i think they're done .__ca
+__s__yeah .__c3
+__s^bk__um so i'm not sure that they have anyone currently working on notes .__ca
+__s__so what we'd have to interest someone in is the combination of note and speech .__ca
+__b__uhhuh .__c1
+__s^bk__and so the question is is there such a person ?__ca
+__s__and i think right now the answer is no .__ca
+__b__i've b- - been thinking .__c3
+__b__well- ==__c0
+__fh|s__we'll just have to see .__ca
+__s^bk__i've been thinking about it a little bit here - about the - uh th- - this e- - um ==__c3
+__s^bk__i think that the ==__c3
+__b__now i'm thinking that the summary - a summary uh is actually a reasonable uh bootstrap into this - into what we'd like to get at .__c3
+__b__it's - it's not ideal .__c3
+__fg__but we - you know we - we have to get started someplace .__c3
+__fh__so i was - i was just thinking about um suppose we wanted to get ==__c3
+__fh__w- - we have this collection of meeting .__c3
+__qw.%--__we have five hours of stuff .__c3
+__s^ba.%-__uh we get that transcribed .__c3
+__s^t^tc__so now we have five hours of meetings .__c3
+__qy__and uh you ask me uh uh morgan what d- - you know what kind of questions do you want to ask .__c3
+__s^df.%-__uh i wouldn't have any idea what kind of questions i want to ask .__c3
+__s^aa__i'd have to get started someplace .__c3
+__b__so in fact if i looked at summary of it i'd go oh yeah i was in that meeting .__c3
+__b__i remember that .__c3
+__s__um what was the part that ==__c3
+__fh__and - and th- - i think that might then help me to think of things - even things that aren't listed in the summary but just as a - as a - as a refresh of what the general thing was going on in the meeting .__c3
+__s__uhhuh .__ca
+__s^e__i think it serves two purpo- - purposes .__c0
+__fh__one as sort of a refresh to help bootstrap queries .__c0
+__s__uhhuh .__c3
+__b__yeah .__c3
+__s^e__but also i mean maybe we do want to generate summaries .__c0
+__fh__well yeah | that's true too .__c3
+__s__and then it's you know it's kind of a key .__c0
+__s^ba^e^rt__huh .__c8
+__fh__yeah absolutely | then you want to have it .__ca
+__s^bd__so how does the summary get generated ?__c1
+__b__uh ==__c0
+__fh__i'm not against the idea of a summary .__c1
+__fh|s__well i- - i- ==__c0
+__fh__by hand .__ca
+__s^ba__but i wanted to think carefully about who's generating it .__c1
+__b__or d- - o- ==__c0
+__fh__and how ==__c1
+__s^ba^cs__because the summary will drive the queries .__c1
+__s^cs__so ==__c1
+__fh__what i - i think you know in most meetings .__c0
+__b__this one being different .__c0
+__fh__but in most meetings that i attend there's somebody t- - explicitly taking notes frequently on a laptop .__c0
+__s^aa__um you can just make it be on a laptop .__c0
+__b__uhhuh .__c1
+__fh__so then yo- - you're dealing with ascii .__c0
+__%--__and not somebody ==__c0
+__fh__you don't have to go through handwriting recognition .__c0
+__qy__um and then they post edit it into uh a summary .__c0
+__h|s^ar__and they email it out for minutes .__c0
+__b__i mean that happens in most meetings .__c0
+__s.%-__i- - i - i think that um there's - we're using summary in two different ways .__cb
+__qy.%--__so what you just described i would describe as minutes .__cb
+__s^df__minutes .__ca
+__s^df^e__yeah .__c8
+__s__right .__c0
+__b__and what i originally thought was um if you asked someone what was the meeting about ==__cb
+__fh|s__yeah .__c1
+__b__okay .__c1
+__fh|%-__and then they would say well we talked about this .__cb
+__s^cs__huh .__c0
+__qy^d^g^rt__and then we talked about that .__cb
+__s__and so-and-so talked about .__cb
+__s^aa^rt__and then you'd have like ==__cb
+__s^bu__i - e- - my thought was to have multiple people summarize it on recording rather than writing .__cb
+__s^aa__because writing takes time .__cb
+__s^cc__and you get irrelevant other things that u- - take time that ==__cb
+__s^2__uhhuh .__c0
+__s^aa__whereas if you just say it immediately after the meeting ==__cb
+__s^ba.%--__you know a two minute summary of what the meeting was about i think you would get .__cb
+__b__uh with mult- ==__cb
+__s^e__see i - i also worry about having a single note taker .__cb
+__s__because that's just one person's perception .__cb
+__s__and um ==__cb
+__s^df__you know it - it's releva- - it's relative to what you're focus was on that meeting .__cb
+__s__uhhuh .__c3
+__s__and - and people have different major topics that they're interested in .__cb
+__s__a- ==__c3
+__s^df__so my proposal would be that it may be worth considering both of those types you know the note-taking and a spontaneous oral summary afterwards .__cb
+__s^bk__okay .__c0
+__s__yeah .__c8
+__fh__no longer than two minutes .__cb
+__s^2^na__adam you can ==__c3
+__s__from multiple people .__cb
+__s__yeah .__cb
+__%--__you can correct me on this .__c3
+__s^aap|s.%--__but - but uh my impression was that uh pretty much uh true that the meetings here nobody sits with a w- - uh with a laptop .__c3
+__fh|s__never .__ca
+__b__and ==__c3
+__fh|s.%--__never | i've never seen it at icsi .__ca
+__s__does anyone ?==__ca
+__b__i mean dan is the one who - who most frequently would take notes .__ca
+__b__i- ==__c3
+__fh__dan .__c1
+__fh|s__yeah .__c8
+__fh__and ==__ca
+__b__i've d- - when we - when we have other meetings .__c8
+__fh__when i have meetings on the european projects we have someone taking notes .__c8
+__s^bd__oh really ?__ca
+__qw__in fact i often do it .__c8
+__s^cs^rt__yeah | but those are bigger deal things .__c3
+__s^aa__right ?__c3
+__qw^br^rt__yeah .__c8
+__s^rt__where you've got fifteen peo- ==__c3
+__s^bk__i mean most ==__c3
+__fh__th- - this is one of the larger meetings .__c3
+__fh__most of the meetings we have are four or five people .__c3
+__s^bk__that's true - | are four or five people .__ca
+__s^cs^rt__and you're not - you don't have somebody sitting and taking minutes for it .__c3
+__s^e__yeah .__c0
+__s^e__you just get together and talk about where you are .__c3
+__s^e__right .__c0
+__s^df__so | i think it depends on whether it's a business meeting or a technical discussion .__c0
+__s__culture .__ca
+__s^2__yeah .__c3
+__qy^d^g^rt__yeah .__c3
+__s^e__and i agree .__c0
+__s__technical discussions you don't usually have somebody taking notes .__c0
+__fg__yeah .__c3
+__b__the i. ram meeting they - they take notes every ==__ca
+__s.%--__yeah .__c3
+__fg|s^bd__do they ?__c3
+__qy^rt__there's uh a person with a laptop at each meeting .__ca
+__s^ng__how many people are those meetings ?__c8
+__s^bk__there are more .__ca
+__s^ng__i mean there are ten-ish .__ca
+__%-__yeah .__c8
+__s^bk__yeah .__c3
+__s^aa__y- - you should also have a record of what's on the board .__c1
+__s^bk__they're very sparse .__ca
+__b__i mean i find it very hard to reconstruct what's going on .__c1
+__s^bk__i - i don't know how .__c1
+__s__yeah | this is something early in the project we talked a lot about .__ca
+__s^bk__i don't know how .__c1
+__s^df__but for instance i mean the outline is sort of up here .__c1
+__s__and that's what people are seeing .__c1
+__b__and if you have a ==__c1
+__s^bk__or you shou- - could tell people not to - to use the boards .__c1
+__s__but there's sort of this missing information otherwise .__c1
+__qw__i agree .__cb
+__%-__we sh- - we should ==__c8
+__qy^rt__i agree | but - but you - you just - you g- - end up with video .__ca
+__qrr.%--__well i don't know .__c8
+__qo^bu^d.%--__and - and instrumented rooms .__ca
+__qy^rt__and that's a different project i think .__ca
+__b__f- - u- ==__c8
+__h|s__i think for this data capture it would be nice to have a digital camera .__c8
+__s.%-__yeah | different ==__ca
+__b__uh y- ==__c1
+__s__just to take pictures of who's there .__c8
+__s__where the microphones are .__c8
+__s__and then we could also put in what's on the board .__c8
+__s__you know like three or four snaps for every ==__c8
+__b__right .__c1
+__s^bs__i agree .__cb
+__s^bk__yeah .__c1
+__b__that's wonderful .__cb
+__%-__for every meeting .__c8
+__s^bu.%-__people who were never at the meeting will have a very hard time understanding it otherwise .__c1
+__s^na__uhhuh .__c2
+__s^bk__but don't you think that's ?==__ca
+__s^bk__i agree .__cb
+__b__don't you think that - but ?==__ca
+__s__uhhuh .__c2
+__h|s.%--__well no | i mean i - i just think - i mean i think that right now we don't make a record of where people are sitting on the tables .__c8
+__s__even people who were at the meeting .__c1
+__fh|s__right .__c0
+__b__huh .__ca
+__s^df__right .__ca
+__b__and that - the - at some point that might be awfully useful .__c8
+__fh__but i think adding photographs adds a whole nother level of problems .__ca
+__fh__uhhuh .__cb
+__s^2__huh .__c0
+__fh|s^df__yeah .__c8
+__fh|s__we- ==__c8
+__s^bk__it's just a digital record .__cb
+__s^bk__n- - uh ==__c8
+__s^e__not - not as part of the - not as a part of the data that you have to recover .__c8
+__fh__i don't mean that you model it .__c1
+__fg__just - just in terms of ==__c8
+__s^cs__we should just ==__c1
+__s__like archiving it or storing it .__c1
+__s__yeah .__c8
+__b__yes | i agree .__cb
+__s^rt__i agree .__cb
+__s__it's i- - because discourse is about things .__cb
+__s^cs__uhhuh .__c0
+__fh__because someone ==__c1
+__s^tc|qy^d^rt^t^tc__and then you have the things that are about and it's recoverable .__cb
+__s^ba^j^rt^tc__someone later might be able to take these and say okay they you know - at least these are the people who were there .__c1
+__s^ba^rt__so ==__c8
+__s^j^rt__and here's sort of what they started talking about .__c1
+__s^aa__and ==__c1
+__s^ba__and just ==__c1
+__s^j^rt__yes .__cb
+__s^e^j__and it's so simple .__cb
+__qy^bu^d^rt^tc__like you said three snapshots .__cb
+__s^aa__li- ==__c3
+__b__uh l- - l- ==__c3
+__s__and ==__cb
+__s.%-__l- ==__c3
+__qr.%--__liz you ==__c3
+__s^ar|s^ng__just to archive .__cb
+__s^bk__u- - uh liz you sa- - you sat in on the uh subcommittee meeting or whatever ==__c3
+__b__actually ==__c8
+__fh__uh on - you - on the subcommittee meeting for - for - at the uh - that workshop we were at that uh uh mark liberman was - was having .__c3
+__fh__so i - i wasn't there .__c3
+__s__they - they - they - they h- - must have had some discussion about video and the visual aspect and all that .__c3
+__s^tc__big big interest .__c1
+__fh__yeah .__c3
+__h__huge .__c1
+__s^tc__i mean it - personally i don't - i would never want to deal with it .__c1
+__s^e__but i'm just saying first of all there's a whole bunch of fusion issues that darpa's interested in .__c1
+__fh__yeah .__c3
+__s^cs__yeah .__c3
+__s__you know fusing gesture and face recognition .__c1
+__b__yeah .__c3
+__s__even lip movement and things like that .__c1
+__b__for this kind of task .__c1
+__%-__and there's also i think a personal interest on the part of mark liberman in this kind of - in storing these images in any data we collect .__c1
+__s^2__uhhuh .__c3
+__%-__so that later we can do other things with it .__c1
+__s^cs__yeah .__c3
+__s__so - so to address what - what adam's saying ==__c3
+__%--__huh .__cb
+__s^aa__uhhuh .__cb
+__s^cs^rt__i mean i think you - uh that ==__c3
+__b__and ==__c1
+__s__the key thing there is that this is a description of database collection effort that they're talking about doing .__c3
+__b__uhhuh .__ca
+__s__and if the database exists and includes some visual information that doesn't mean that an individual researcher is going to make any use of it .__c3
+__s.%--__right ?__c3
+__s__uhhuh .__cb
+__s__so uh ==__c3
+__b^rt__but that - it's going to be a lot of effort on our part to create it and store it .__ca
+__s__and get all the standards and to do anything with it .__ca
+__b__right .__c3
+__s__so we're going to ==__c3
+__b^rt__so we're going to do what we're going to do .__c3
+__s__whatever's reasonable for us .__c3
+__b__yeah .__ca
+__fh|s.%-__i think even doing something very crude ==__c1
+__qy^bu^d^rt__but having ==__c3
+__s^aa__like i know with atis we just had a tape recorder running all the time .__c1
+__b__uhhuh .__ca
+__s^aa__and later on it turned out it was really good that you had a tape recorder of what was happening .__c1
+__s^df__even though you w- - you just got the speech from the machine .__c1
+__b__so if you can find some really you know low uh perplexity ==__c1
+__qy^d^f^g^rt__low fidelity .__ca
+__s__yeah .__ca
+__b__yeah | way of - of doing that i think it would be worthwhile .__c1
+__b__i agree .__cb
+__fg|s^t^tc__and if it's simple as - i mean as simple as just the digital ==__cb
+__s^ba__otherwise you'd - you lose it .__c1
+__s^aa__yeah .__cb
+__s^t__well minimally i mean what - what dan is referring to at least having some representation of the p- - the spatial position of the people .__c3
+__fh__because we are interested in some spatial processing .__c3
+__fh__uhhuh .__cb
+__qy^rt^t__and so ==__c3
+__s^t__right .__ca
+__s^aa__uhhuh .__c0
+__s^co__so um ==__c3
+__s^co__well once the room is a little more fixed that's a little easier .__ca
+__s^co__yeah .__c3
+__s^bk__because you'll ==__ca
+____well the wireless .__ca
+____yeah .__c3
+____yeah .__c3
+____but ==__ca
+____also c. m. u has been doing this .__c1
+__z__and they were the most vocal at this meeting .__c1
+__z__alex waibel's group .__c1
+__z__and they have said i talked to the student who had done this that with two fairly inexpensive cameras they - they just recorded all the time .__c1

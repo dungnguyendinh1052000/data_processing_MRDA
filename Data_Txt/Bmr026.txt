@@ -1,0 +1,1287 @@
+__z__all right so i'm - i should read all of these numbers ?__c0
+__s__DIGIT_TASK__c0
+__s^t__DIGIT_TASK__c5
+__s__okay .__c2
+__b__DIGIT_TASK__c2
+__h|s^rt^t__DIGIT_TASK__c3
+__qy^rt__piece of paper i could borrow ?__c5
+__fg|s__oh yeah .__c0
+__h|s__okay | so uh i- - um ==__c2
+__qy^rt^t1__i don't know whether ami's coming or not .__c2
+__s__um ==__c2
+__s^fe__but i think we ought to just get started .__c2
+__s__nancy is uh- - currently in berkeley but not here ?__c5
+__s__nancy's still stick ?__c3
+__h|s__don't know .__c2
+__qy__okay .__c5
+__s__anyway .__c2
+__s^e__oh !__c2
+__fg|s__so there you go .__c2
+__b__anyway so my idea f- - for today ==__c2
+__%-__and we can uh - decide that that isn't the right thing to do .__c2
+__qw^rt__was to at - spend at least part of the time trying to uh build the influence links .__c2
+__s^t1.%-__you know - which sets of things are uh - relevant to which decisions .__c2
+__h|s__and actually i had uh - specific s- - suggestion to start first with the path ones .__c2
+__s^bk__the database ones being in some sense less interesting to us .__c2
+__s^2__although probably have to be done .__c2
+__b__and so to do that ==__c2
+__b__so there's - and the idea was we were going to do two things .__c2
+__s__is your mike on ?__c3
+__s^bu__uh ==__c2
+__qy^rt__oh right | well ==__c2
+__s^aa__yeah .__c2
+__s^ar__we were going to do two things .__c2
+__s^ar^r__one of which is just lay out the influence structure of what we think influences what .__c2
+__s^ar__that's funny .__c4
+__s^ar^r__and then as a uh - separate but related task ==__c2
+__qy^bu^d^r^rt__uh - particularly bhaskara and i were going to try to decide what kinds of belief nodes are needed in order to um - do what we - what we need to do .__c2
+__s__once ==__c2
+__s__so but du- - we should sort of have all of the uh - basic design of what influences what done before we decide exactly how to compute it .__c2
+__s^e__so i didn't - did you get a chance to look at all - yet ?__c2
+__s^bk__yeah | i looked at some of that stuff .__c4
+__s^bk__great .__c2
+__b__okay so let's start with the uh - belief nets - the general influence stuff .__c2
+__s^bu.%-__and then we'll - then we'll also at some point break and talk about the techy stuff .__c2
+__s__well i think one could go - there's ==__c5
+__s^na__i think we can di- - discuss everything .__c5
+__s^bk__first of all this i added i knew from - sort of - basically this has to be there .__c5
+__b__right ?__c5
+__s.%--__um ==__c5
+__s__oh are you going to go there or not .__c2
+__s__yeah | so one i- ==__c2
+__b__given - given uh - uh - not transverse the castle the decision is does the person want to go there or is it just ?==__c5
+__s__right .__c2
+__sj^ba__true .__c2
+__s.%--__does have to be there .__c2
+__s.%-__and ==__c5
+__b__and i'm sure we'll find more as we go that ==__c2
+__%-__huh .__c5
+__s__so go there in the first place or not is definitely uh - one of the basic ones .__c5
+__%-__we can start with that .__c5
+__s^aa__interesting effect .__c5
+__s.%-__um | is this basically true or false ?__c5
+__fg__or maybe we'll get ?==__c5
+__s__well ==__c2
+__fg__which one ?__c4
+__fh__what ?__c5
+__fg__go there .__c0
+__s__m- - right .__c5
+__s.%--__so | there is this question about ==__c2
+__s.%-__here we ==__c5
+__s.%--__we actually get just probabilities .__c5
+__s^e__yeah .__c2
+__s^aa__right ?__c5
+__s__for each down here .__c5
+__qy^d^g__when we're - yeah when we're done .__c2
+__fh__huh .__c5
+__b__so - so @reject@ ==__c2
+__s.%-__the - the reason it might not be true or false is that we did have this idea of when .__c2
+__qy^2^d^rt__so it's you know uh - current @reject@ and so forth and so on or not at all .__c2
+__fh__uhhuh .__c5
+__b__right ?__c2
+__fh|s.%--__and | so that a decision would be do we want that ==__c2
+__s.%-__so you could - two different things you could do .__c2
+__fg|s.%-__you could have all those values for go there .__c2
+__s^cc__or you could have go there be binary and given that you're going there when .__c2
+__s^aa__when .__c5
+__s.%--__how .__c5
+__b__yeah .__c2
+__s^bk__why .__c5
+__b__and so forth .__c2
+__s^bk__yeah .__c5
+__fg|s^tc__so i'll let ==__c2
+__s__we'll see .__c2
+__s.%-__huh .__c5
+__qy^rt__i mean it seems that you could um - uh it seems that those things would be logically independent .__c0
+__s^aa^cc__like you would want to have them separate or binary .__c0
+__%--__go there and then the - the possibilities of how to go there .__c0
+__s__because ==__c0
+__s.%--__okay | that's - let's start that way .__c2
+__s^bk__because you know - it might be easy to figure out that this person is going to need more film eventually from their utterance .__c0
+__s^cc__but it's much more complex to query when would be the most appropriate time .__c0
+__s__huh .__c5
+__s__huh .__c5
+__b__okay .__c5
+__s^cc__and so i've tried to come up with some initial things one could observe .__c5
+__s^bk^rt^tc__so who is the user ?__c5
+__s__everything that has user comes from the user model .__c5
+__s^cc__everything that has situation comes from the situation model a .__c5
+__s__we should be - be clear .__c5
+__qy^bu^d.%-__but when it comes to sort of - writing down ==__c5
+__s^cc__when you - when you do these things ==__c5
+__s__is it here ?__c5
+__s^bk__you sort of - have to a- - write the values this can take .__c5
+__s__right .__c2
+__fh__and here i was really uh - in some s- - sometimes i was really sort of - standing in front of a wall feeling very stupid .__c5
+__qy^bu^d^rt__because um - this case it's pretty simple .__c5
+__s^ar|s__but as we will see the other ones um ==__c5
+__s^bk__for example if it's a running budget so what are the discrete values of a running budget .__c5
+__h__so maybe my understanding there is too impoverished .__c5
+__s__huh .__c0
+__b__how can i write here that this is something - a number that cr- - keeps on changing ?__c5
+__s__no uh ==__c2
+__fg__but okay .__c5
+__b__thus is understandable ?__c5
+__s__yes .__c3
+__qy^d^rt__think so .__c0
+__qrr.%-__so here for example ==__c5
+__sj^ba__you've s- - have you seen this before at all keith - these belief net things ?__c2
+__sj^ba^r__uh - | no .__c0
+__h|s__but i think i'm following it .__c0
+__b__so far .__c0
+__s.%-__so here is the - the - we had that the user's budget may influence the outcome of decisions .__c5
+__s__yeah .__c2
+__qy^bu__huh .__c4
+__s^t__there we wanted to keep sort of a running total of things .__c5
+__s^bk__is this like a number that represents how much money they have left to spend ?__c4
+__s^cc__okay | h- - well i mean - how is it different from user finance ?__c4
+__h__um - | the finance is sort of here thought of as - as the financial policy a person carries out in his life .__c5
+__sj^ba__he - is he cheap average or spendy ?__c5
+__h|s__all right .__c4
+__s__and um - i didn't come uh ==__c5
+__s__maybe a user ==__c5
+__s__i don't know .__c5
+__s__i didn't want to write greediness .__c5
+__s__but ==__c5
+__fh|s__yeah .__c0
+__fh|s__huh .__c0
+__s__welcome .__c5
+__b__or cheapness .__c2
+__fh|s__welcome .__c5
+__fg__user thrift .__c0
+__s__yeah .__c4
+__s__thrift that's good .__c2
+__s__great .__c2
+__s__there it is .__c5
+__%--__yeah | so keith w- - what's behind this is actually a program that will - once you fill all this in - actually s- - solve your belief nets for you and stuff .__c2
+__s^bk__uhhuh .__c0
+__b__so this is not just a display .__c2
+__s^fe^rt__this is actually a gui to a simulator that will - if we tell it all the right things - we'll wind up with a functioning belief net at the other end .__c2
+__s__okay .__c0
+__s__okay .__c0
+__fg|s__and it's so simple even i can use it .__c5
+__fh__wow that is simple !__c0
+__sj^bd__okay so here was ==__c5
+__fg__okay i can think of uh - people being cheap average or spendy or we can even have a - a finer scale moderately cheap .__c5
+__fg|s^tc__doesn't matter .__c2
+__s^no__doesn't matter .__c5
+__s__agree there .__c5
+__sj^ba__but here um - i wasn't sure what to write in .__c5
+__s__let's ==__c2
+__s__go ahead .__c2
+__s__well i mean - you've written in - you've written in what uh - seems to be required .__c4
+__sj__like what else is - is - do you want ?__c4
+__qy^d^rt__if that's permissible then i'm happy .__c5
+__s^aa^r__well yeah | so here's - here's what's permissible .__c2
+__s^bk__is that you can arrange so that the um - the value of that is going to have to be updated .__c2
+__fh__and n- - it's not a belief update .__c2
+__fg|s__right ?__c2
+__b__it's - you took some actions you spent money and stuff .__c2
+__fh__so the update of that is going to have to be essentially external to the belief net .__c2
+__s^bk__yeah .__c5
+__s__right ?__c2
+__s^bk__and then what you're going to need is uh - for the things that it influences ==__c2
+__s.%-__well let's - first of all let's see if it does influence anything .__c2
+__b__and if it does influence anything then you're going to need something that converts from the - the number here to something that's relevant to the decision there .__c2
+__s__so it could be ra- - they create different ranges that are relevant for different decisions or whatever .__c2
+__%--__but for the moment this is just a node that is conditioned externally and might influence various things .__c2
+__s__huh .__c5
+__s__yeah - | this is where um ==__c5
+__qy^bh__okay anyways .__c5
+__qy^rt.%--__let's forget it .__c5
+__s.%--__well that's fine .__c2
+__sj^cs__well anyway go ahead .__c2
+__b__okay | and - so this - oh that ==__c5
+__s^df.%--__the other thing is that um - every time that's updated beliefs will have to be propagated .__c4
+__s^bk__but then the question is do you - do we want to propagate beliefs every single time it's updated or only when we need to ?__c4
+__s.%--__yeah | that's a good question .__c2
+__s__and uh - does it have a lazy mode ?__c2
+__b__i don't remember .__c2
+__s__uh ==__c4
+__b__well i mean - in srini's thing there was this thing - there was this um - option like proper inferences which suggests that uh - doesn't happen automatically .__c4
+__fg__oh right !__c2
+__fg__yeah .__c2
+__s__s- - probably does .__c2
+__s__yeah .__c2
+__s__someone has to track that down .__c2
+__s__but i - but uh ==__c2
+__s__i just accidentally ==__c5
+__s__and - and - and i think - actually uh ==__c2
+__s^bu__oops !__c5
+__s^aap__one of the we- - w- - items for the uh - user home base uh - should be uh - essentially non local .__c2
+__s^arp__i- - they're only there for the day and they don't have a place that they're staying .__c2
+__s__well ==__c4
+__s^bk__oh just uh - accidentally erased this .__c5
+__s__i - i just had values here such as uh - um - is he s- - we had in our list we had is he staying in our hotel .__c5
+__s__is he staying with friends .__c5
+__b__and so forth .__c5
+__s__yeah .__c2
+__b.%__uh ==__c5
+__s^e__so we're ==__c5
+__s__okay .__c5
+__s__so ==__c2
+__s__it's clear where w- - w- - w- - where we are right now .__c2
+__s^2__so my suggestion is we just pick uh ==__c2
+__s^cs.%-__something down here ?__c5
+__s^fe__one - you know one uh - particular one of the uh ==__c2
+__b__well let's do the first - first one let's do the one that we sort of already think we did .__c2
+__b__so w- - that was the - of the endpoint ?__c2
+__s__uhhuh .__c5
+__qy^bu^d^m^rt__and um ==__c5
+__s^aa|s__oops !__c5
+__s^bk__is ==__c4
+__s^bk__huh .__c4
+__qr^tc.%--__uh .__c5
+__s^ar__so it's true or false ?__c4
+__%--__no no no .__c5
+__s^ar__no | that's - that's a @reject@ ==__c2
+__s^cc__e v a .__c5
+__qy^tc__missed that one .__c5
+__fh|s.%--__so ==__c4
+__b__what's the difference between mode and endpoint ?__c3
+__s__i thought mode .__c4
+__fh__yeah .__c4
+__s.%--__although that ==__c2
+__s.%--__um - | mode was um ==__c5
+__s__well that's @reject@ ==__c2
+__fg__mode of transportation ?__c4
+__s^cs__yeah .__c5
+__b__okay .__c4
+__b__also true or false .__c4
+__sj^aa^ba__uhhuh .__c5
+__b__no he has- - he hasn't filled them in yet is what's true .__c2
+__sj__yeah okay .__c4
+__s^ng__did i or didn't i ?__c5
+__b__no .__c5
+__s__probably nothing done yet .__c5
+__b__oh i just did it on the upper ones okay .__c5
+__b__makes sense .__c5
+__s__okay so this was e v a .__c5
+__s__maybe we can think of more things .__c5
+__b__cross .__c5
+__s^aa__yeah .__c4
+__%-__okay .__c2
+__b__climb rob .__c0
+__b__climb emerge .__c5
+__b__no no no .__c2
+__s^cs__uh ==__c3
+__b__well some of those are subsumed by approach .__c4
+__sj.%--__these are ju- - that's just a point .__c2
+__%-__this is ju- ==__c2
+__sj__would it be an endpoint if you were crossing over it ?__c3
+__sj__the charles bridge you know .__c0
+__h|qw__yeah | would be a f- - for a given segment .__c2
+__qy.%-__you know you - y- - you go - first go the town square .__c2
+__s^bu^rt__well i uh ==__c3
+__s^bk__no i mean - if you go to re- - you know - if you go to prague or whatever one of your - your key points that you have to do is cross the charles bridge .__c0
+__qy^rt__and doesn't really matter which way you cross .__c0
+__s^aa__which - where you end up at the end .__c0
+__b__but the part - the good part is walking over it .__c0
+__sj.%--__so ==__c0
+__sj.x__that's subtle but true .__c2
+__sj__anyway .__c2
+__s^2__so let's just leave it three - with three for now .__c2
+__b__uhhuh .__c5
+__s__yeah .__c5
+__b__and let's see if we can get it linked up just to get ourselves started .__c2
+__b__okay we ==__c5
+__s^aap|s^nd__you'll see it - you'll see something comes up immediately that the reason i want to do this .__c2
+__s.%-__w- - well the uh - user was uh - definitely more likely to enter if he's a local .__c5
+__s.%-__right .__c2
+__s.%-__right .__c2
+__fg__more likely to view if he's a tourist .__c5
+__sj^df__um ==__c5
+__%--__and then of course we had the fact that given the fact that he's thrifty and there will be admission then we get all these cross um ==__c5
+__fg__we did but the three things w- - that - that it contributed to this ==__c2
+__%--__in fact the other two aren't up there .__c2
+__s__so one was the ontology .__c2
+__b__we'll d- - what type of building is it ?__c5
+__fg|s__yeah .__c5
+__s__yeah .__c2
+__s__and the - and the third thing we talked about was something from the discourse .__c2
+__s__what he has mentioned before .__c5
+__b__okay | so this is w- ==__c2
+__s__right | so what w- - i - what we seem to need here ==__c2
+__fh__this is why it starts getting into the technical stuff .__c2
+__fh|s__uhhuh .__c0
+__b__the way we had been designing this there were three intermediate nodes .__c2
+__s__uh - | which were the endpoint decision as seen from the uh - user model as seen from the ontology and as seen from the discourse .__c2
+__sj__so each of those ==__c2
+__b__the way we had it designed ==__c2
+__b__now we can change the design .__c2
+__s^tc__but the design we had was ==__c2
+__s__there was a decision with the same three outcomes uh - based on the th- - those three separate considerations .__c2
+__s__uhhuh .__c0
+__s__so if we wanted to do that would have to put in uh - three intermediate nodes .__c2
+__s__uh - we can load it up it you know very simple .__c5
+__b__so ==__c0
+__s^rt__and then what you and i have to talk about is okay if we're doing that and they get combined somehow uh - how do they get combined .__c2
+__s__but the - they're - they're undoubtedly going to be more things to worry about .__c2
+__b__so this was adjusted for this one mode thing .__c5
+__s__oh yes .__c4
+__s^bk|s^m__yeah .__c2
+__b__so that's w- - w- - in our uh - in - in johno's sort of pictogram everything that could contribute to whether a person wants to enter view or approach something .__c5
+__s^cs__oh it was called mode .__c2
+__b__so this - this is m- - mode here means the same as endpoint .__c2
+__s^rt^t__is now this endpoint .__c5
+__%-__right .__c3
+__b__okay | why don't we ch- - can we change that ?__c2
+__s__we can just rename that yeah .__c5
+__fh|s__all right .__c2
+__s.%--__you know but that was actually ==__c2
+__s^fa__yeah unfortunately that was a um - kind of an intermediate versio- ==__c2
+__s__that's i don't think what we would currently do .__c2
+__qy^rt__can i ask about slurred and angry as inputs to this ?__c0
+__s^r__that's a ==__c2
+__s^aa__what - why ?__c0
+__b__like they're either true or false .__c4
+__s__the prosody ?__c5
+__s^r__and they uh ==__c4
+__s^bk__okay .__c0
+__s^cs__oh i see .__c4
+__s^e__if the - if the person talking is angry or slurs their speech they might be tired or you know .__c3
+__s__uhhuh .__c0
+__qy.%--__okay .__c0
+__qw^cs^nd__drunk .__c0
+__qy.%-__therefore ?==__c4
+__b__and | you know - possibly uh ==__c3
+__s__less likely to enter .__c0
+__s^bk__some ==__c3
+__s^bk__uh - i was thinking less likely to view .__c4
+__qy^bu.%--__yeah .__c3
+__s^cs__huh .__c0
+__s__yeah .__c2
+__s__but that's - that seems to ==__c2
+__%-__yeah .__c2
+__s^cs.%--__so - so my advice to do is - is get this down to what we think is actually likely to - to be a - a strong influence .__c2
+__s^co__okay .__c0
+__qy^bu^d^rt.%-__right .__c4
+__s__but yeah that was what he had in mind .__c2
+__b__so let's think about this - this question of how do we want to handle ==__c2
+__b.%__so there're two separate things .__c2
+__s^aa__one is ==__c2
+__s^bk__uh - | at least two .__c2
+__s__one is how do we want to handle the notion of the ontology .__c2
+__s__now what we talked about - and this is another technical thing bhaskara - is uh - can we arrange so that ==__c2
+__b__i think we can .__c2
+__s^cs__so that the belief net itself has properties .__c2
+__s^e^rt__and the properties are filled in uh - from on- - ontology items .__c2
+__sj^ba__so the - let's take the case of the uh - this endpoint thing .__c2
+__qh__the notion was that if you had a few key properties like is this a tourist site you know - some kind of landmark .__c2
+__b__is it a place of business .__c2
+__s^bk__uh - | is it something you physically could enter .__c2
+__sj__uhhuh .__c0
+__qy^g__okay ?__c2
+__fh|s^df^f__et cetera .__c2
+__s^no__so that there'd be certain properties that would fit into the decision node .__c2
+__h|s^bsc__and then again as part of the ou- - outer controlling conditioning of this thing those would be set .__c2
+__s^by__so that some- - somehow someone would find this word look it up in the ontology pull out these properties put it into the belief net and then the decision would flow .__c2
+__qy^bu^d.%--__uhhuh .__c0
+__b__now ==__c2
+__qw^rt__seems to me that we've sort of e- - them- - embedded a lot - them- - embedded a lot of these uh - things we had in there previously in - in - in some of the other final decisions done here .__c5
+__s^no__for example if we would know that this thing is exhibiting something um ==__c5
+__s^no__right .__c2
+__s__right .__c2
+__s__if it's exhibiting itself it is a landmark .__c5
+__%-__meaning more likely to be viewed .__c5
+__b__yeah .__c2
+__s__yep .__c2
+__s^ba^fe__if it is exhibiting pictures or sculptures and stuff like this then it's more likely to be entered .__c5
+__h__i uh - that's - i think that's completely right .__c2
+__qw^rt__and um - | i think that's good .__c2
+__h|s^rt__right ?__c2
+__s^bc__so what - what that says is that we might be able to uh - take and ==__c2
+__s^aa__in particular ==__c2
+__s__so - so the ones we talked about were uh - exhibiting and selling .__c2
+__qy^bu^d^rt__accessibility .__c5
+__s^aa__no accessibility meant ==__c2
+__s^bk__if it's closed one probably won't enter .__c5
+__fg|s__or if it's not accessible to a tourist ever the likelihood of that person actually wanting to enter it .__c5
+__qy^d.%-__okay .__c2
+__s__given that he knows it of course .__c5
+__s^bk__all right .__c2
+__s__so let me suggest this .__c2
+__s.%-__uh - | w- - could you move those up about halfway ?__c2
+__fh__uh - | the ones that you th- - and selling i guess .__c2
+__s.%--__yeah all - all of these .__c5
+__qw__if it's fixing things selling things or servicing things .__c5
+__qy^d^g^rt__right .__c2
+__s__so here - here's what it looks like to me .__c2
+__s^m__is that you want an intermediate structure which i- - uh - is essentially the - or of uh - for this purpose of - of uh - selling f- - fixing or servicing .__c2
+__s^bk__so that it uh ==__c2
+__b__that is for certain purposes it becomes important .__c2
+__qw^bu^d^rt__but for this kind of purpose uh - one of these places is quite like the other .__c2
+__s^bu__does that seem right ?__c2
+__s^fa__so we di- ==__c2
+__s^ar__basic- ==__c3
+__qy^d^g__you're basically just merging those for just the sake of endpoint decision ?__c3
+__s^bu__if we ==__c2
+__s__yes .__c2
+__qy^g__yeah .__c3
+__s^aa__so if - well it may be more than endpoint decisions .__c2
+__s__uhhuh .__c0
+__%__so the idea would be that you might want to merge those three .__c2
+__s__these three ?__c5
+__b__yeah .__c2
+__s__uh - ser- - s- - uh - selling fixing and servicing .__c2
+__fg__yeah .__c5
+__s__what ex- - um - and so either those is true f- - or false ?__c4
+__s^r__so ==__c4
+__s__uh - | uh - well it - it - i- - here's where it gets a little tricky .__c2
+__s.%--__uh - from the belief net point of view it is .__c2
+__qy^bu^rt__from another point of view of course it's interest- - it's - it's important to know what it's selling or servicing and so forth .__c2
+__%-__yeah .__c0
+__s.%-__okay .__c4
+__s__so for this decision it's just uh - true or false .__c2
+__s.%--__yeah .__c4
+__s^aa__and in th- - this is a case where the - or seems just what you want .__c2
+__s^m__okay .__c4
+__s.%-__that - that if any of those things is true then it's the kind of place that you uh ==__c2
+__s.%--__um more likely to enter .__c5
+__s^fa__are more likely to enter .__c2
+__sj__so you just want to have them all pointing to a summary thing ?__c4
+__s__you could yeah .__c2
+__s__yeah so let's do that .__c2
+__s.%-__no no no uh - to - to an inter- - no an intermediate node .__c2
+__s^bk__t- ==__c4
+__s.%-__oh okay .__c5
+__%-__that's the p- - part of the idea is ==__c2
+__s^na__um - | is - is that the object type node ?__c5
+__s__i d- ==__c2
+__s.%-__so are they the - is it the kind of object that sells fixes or services things ?__c5
+__s__well o- - open up object type and let's see what its values are .__c2
+__%-__oh i just created it it has none so far .__c5
+__s__oh well okay first of all it's not objects .__c2
+__s__we called them entities .__c2
+__s__yeah .__c5
+__s__right ?__c2
+__sj^ba^tc__and then we have sort of - the um ==__c5
+__s.%--__let's say i put commercial .__c2
+__s.%-__yeah .__c5
+__s^tc__i w- - i was just going to ==__c5
+__s^cs^j__commercial action inside where people p- ==__c5
+__s^aa__well couldn't i do - let's do commercial .__c2
+__s^e__uh - | landmark .__c2
+__s__and ==__c2
+__s__and where was the accessible yeah .__c5
+__qy^d^rt__well ==__c2
+__b__accessible i think is different .__c2
+__s^co__yeah .__c5
+__s__because that's tempor- - that - that varies temporally .__c2
+__s__whereas this is a ==__c2
+__qw^rt__uhhuh .__c5
+__s^bc__what would a hotel fall under ?__c3
+__qy^bu^m^rt__i would call that a service .__c2
+__s^bk|s__but - but i don't know .__c2
+__%-__well i mean in terms of entity type ?__c3
+__%-__say w- - w- - well it's co- - i would s- - a- - a- ==__c2
+__b__again for this purpose i think it's commercial .__c2
+__s__someplace you want to go in to do some kind of business .__c2
+__qw__okay .__c3
+__%-__um - | what does the underscore t at the end of each of those things signify ?__c4
+__s__um - | things .__c5
+__qy^bh^d^rt__so places that service things sell things or fix things and pe- - places that e- - exhibit things .__c5
+__s__uhhuh .__c4
+__b__okay .__c4
+__b__okay .__c4
+__b__that also points to entity type i guess .__c4
+__s__so we're deriving um - this - the - this feature of whether the - the main action at this place happens inside or outside or what we're deriving that from what kind of activity is done there ?__c0
+__qw^t1__couldn't you have it as just a primitive feature of the entity ?__c0
+__qy^bs__well you could .__c2
+__s__that's a - that's a choice .__c2
+__fh.%__okay .__c0
+__b__so uh ==__c2
+__s__i mean it seems like that's much more reliable .__c0
+__b__because you could have outdoor places that sell things .__c0
+__b__and you know - indoor places that do something else .__c0
+__s.%-__yeah the problem with it is that it sort of - putting in a feature just for one decision .__c2
+__b__and ==__c0
+__s__now w- - we may wind up having to do that .__c2
+__fh__huh .__c0
+__s__this i- - anyway - this i- ==__c2
+__b__okay .__c0
+__sj__at a mental level that's what we- - we're going to have to sort out .__c2
+__s__okay .__c0
+__b__so you know what does this look like .__c2
+__b__what are - what are uh - intermediate things that are worth computing .__c2
+__s__what are the features we need in order to make all these decisions .__c2
+__s__uhhuh .__c0
+__b__and what's the best way to organize this so that um - it's clean and - and consistent and all that sort of stuff .__c2
+__s__okay .__c0
+__b__i'm just thinking about how people - human beings who know about places and places to go and so on would store this .__c0
+__s__and it would probably - you wouldn't just sort of remember that they sell stuff and then deduce from that that it must be going on inside or something .__c0
+__qw__well i think an entity maybe should be regard as a vector of several possible things .__c5
+__b__it can either them - do s- - do sell things fix things service things exhibit things it can be a landmark at the same time as doing these things .__c5
+__s__uhhuh .__c0
+__qy.%--__it's not either or .__c5
+__b__certainly a place can be a hotel and a famous site .__c5
+__s__uhhuh .__c0
+__sj__many come to mind .__c5
+__s^cs__things can be generally um - a landmark and be accessible .__c5
+__s^cs:qw__i e a - a castle .__c5
+__s:qy__or can be a landmark a- - or not accessible some statue .__c5
+__s__uhhuh .__c0
+__b__you know can go inside .__c5
+__s__okay .__c2
+__s__anyway so let me suggest you do something else .__c2
+__b__uh - | which is to get rid - get rid of that l- - long link between who - the user and the endpoint .__c2
+__s__could we just move it like this ?__c5
+__fh|s__no no i don't want the link there at all .__c2
+__b__oh okay .__c5
+__qw__because what we're going to want is an intermediate thing .__c2
+__b__which is uh - the endpoint decisi- - the endpoint decision based o- - on the user models .__c2
+__s__so what we - we - what we talked about is three separate endpoint decisions .__c2
+__b__so let's make a new node .__c2
+__%-__yeah .__c5
+__b__yeah .__c5
+__s__just as a suggestion maybe you could save as to keep your old one nice and clean .__c3
+__%-__and so you can mess with this one .__c3
+__s__huh .__c5
+__s^df.%-__the old one was not that - not that important i think .__c5
+__%-__but ==__c5
+__%__okay | well not a big deal then .__c3
+__b__let's do it then .__c5
+__s.%--__well the ==__c3
+__s__isn't there a save as inside of java base ?__c3
+__s__but i can just take this .__c5
+__s__okay .__c3
+__s__copy it somewhere else .__c5
+__b__this was user something ?__c5
+__b__or ?==__c5
+__fg__well this was ==__c2
+__s__uh - | let's p- - put it this - let's do endpoint underbar u .__c2
+__b__end point ?__c5
+__s__i- - endpoint e- - end poi- ==__c2
+__b__this is sa- ==__c2
+__s__uh .__c5
+__s__it's the endpoint .__c2
+__b__gotcha yeah .__c5
+__b__let's say underbar u .__c2
+__fh__so that's the endpoint decision uh - as seen through the ==__c2
+__fg__as related from the user model .__c3
+__s.%--__right .__c2
+__%-__so let's - let's actually ==__c2
+__s__yeah so lin- - you can link that up to the ==__c2
+__s__should i rename this too ?__c5
+__s__uh - | yeah so that i guess that's endpoint uh ==__c2
+__s__or ?==__c5
+__fh|qo__it's underscore e .__c5
+__s__underscore e for entity .__c2
+__s^cs__and we may change all this .__c2
+__s^cs__but ==__c2
+__s^aa__right .__c2
+__s.%-__and ==__c2
+__s^2__okay | shouldn't i be able to move them all ?__c5
+__s^2^rt__no ?__c5
+__b__or ?==__c5
+__s^rt__can i ?__c5
+__%-__where ?__c5
+__b.%__what ?__c5
+__s^arp__oh i d- - uh - i don't know .__c2
+__qw^bu__actually i guess the easiest thing would move - mo- - move the endpoint ==__c2
+__s.%--__well go ahead .__c2
+__s__just do whatever .__c2
+__s__wasn't this possible ?__c5
+__qy^bu^d^rt__well ==__c2
+__s^aa__yeah .__c5
+__s^bk__i think you have to be in move mode before ==__c3
+__b__uhhuh .__c5
+__s__okay .__c5
+__qh__good .__c2
+__sj__right .__c2
+__sj__so now we're looking for user related things that um ==__c5
+__fh__yeah .__c2
+__s__and uh - maybe th- - maybe it's just one who is the user .__c2
+__%-__i don't know .__c2
+__s__maybe - maybe there's more .__c2
+__fg__huh .__c0
+__s__well if he's usi- - if he's in a car right now ==__c5
+__s.%-__what was that ?__c5
+__s^arp__people with harry drove the car into the cafe .__c5
+__s^nd__never mind .__c2
+__s__uh - | anyway this is crude .__c2
+__s^cs.%--__now but the - now so - so - but then the question is ==__c2
+__fh|s^cs.x__uh ==__c2
+__s__so - and - and we assume that some of these properties would come indirectly through an ontology .__c2
+__qw^rt__but then we had this third idea of input from the discourse .__c2
+__h|s^rt__well let's - should we finish this ?__c5
+__sj^fe__i mean - but surely the user interests ==__c5
+__b__sure .__c2
+__s^e__okay .__c2
+__s^rt^tc__the user thrift .__c3
+__fg__the user budget .__c3
+__h__yeah yeah .__c5
+__s__well maybe .__c2
+__s__i- - again i d- ==__c2
+__s__well okay put them in .__c2
+__s__but what we're going to want to do is actually uh ==__c2
+__s__well is ==__c3
+__s__here this was one of my problems .__c5
+__fh|%-__we have the user interest is a - is a vector of five hundred values .__c5
+__b.%__so ==__c5
+__qy^bu^d^rt__um - | that's from the user model .__c5
+__h|%-__oh you mean level of interest ?__c4
+__qy^bu^d^rt__uhhuh .__c5
+__s^aa__no not levels of interest .__c5
+__s^bk__but things you can be interested in .__c5
+__fh__well ==__c0
+__fh|%--__somebody else has built this user model .__c2
+__%-__gothic churches versus baroque townhouses versus ==__c5
+__qy^rt__oh i see .__c4
+__%-__right .__c4
+__h__so why is it ?==__c4
+__%--__oh it - so it's like a vector of five hundred one's or zeroes ?__c4
+__s__yea- - n- - is that ==__c5
+__s^cs.%-__like for each thing are we - are you interested in it or not ?__c4
+__s^nd__yeah .__c5
+__s__uh - i - i think .__c5
+__s^bk__i see .__c4
+__s.%-__huh .__c0
+__s^fa__okay .__c2
+__s.%-__so | uh - you cou- - and so here let me give you two ways to handle that .__c2
+__fg__all right ?__c2
+__s__one is um - you could ignore it .__c2
+__b__but the other thing you could do is have an ==__c2
+__b__and this will give you the flavor of the - of what @reject@ .__c2
+__b__you could have a node that's - that was a measure of the match between the object's feature you know - the match between the object - the entity i'm sorry and the user .__c2
+__b__uhhuh .__c5
+__s__uh .__c5
+__fh__so you could have a k- - a fit node .__c2
+__s__and again that would have to be computed by someone else .__c2
+__b__uhhuh .__c5
+__fh__but uh ==__c2
+__fg|s^tc__so that uh ==__c2
+__fh|s__just as a mental note .__c5
+__b__uh ==__c5
+__s^cs__yeah that's all .__c2
+__s__uhhuh .__c5
+__s^df__and - and should we say that this interests uh - affects the likelihood of - of entering ?__c5
+__s.%--__yeah .__c2
+__qy^bh__i mean - we could .__c2
+__s__yeah .__c5
+__s^nd__and also if it's an expensive place to enter this may also ==__c5
+__s^aa__okay .__c2
+__fg|qw__budget .__c4
+__s__user schedule .__c0
+__s__schedule ?__c5
+__s.%--__do i have time to go in and climb all the way to the top of the koelner dome or do i just have to - time to take a picture of the outside .__c0
+__b__right .__c2
+__qr.%--__it seems like everything in a user model a- - affects ==__c3
+__s^ar__well that's what we don't want to do .__c2
+__s__see that - se- ==__c2
+__s__yeah .__c3
+__s^bk__because then we get into huge combinatorics and stuff like that .__c2
+__fg|%-__uhhuh .__c0
+__%-__an- ==__c2
+__fg__because if the - i mean - and if the user is tired - the user state .__c3
+__fh__well ==__c4
+__s__right ?__c3
+__s^bk|s__it would affect stuff .__c3
+__s__but i can't see why e- - anything w- - everything in the model wouldn't be ==__c3
+__%-__well but ==__c2
+__s__right .__c4
+__qy^d^j^rt__well that - that's - we can't do that .__c2
+__s^j__so we- - we're going to have to ==__c2
+__s^co^t3__yeah .__c3
+__b__but this is a good discussion .__c2
+__%-__we're going to have to somehow figure out uh - some way to encapsulate that .__c2
+__s^by__uh - so if there's some general notion of - for example the uh - relation to the time to do this to the amount of time the guy has or something like that is - is the uh - compatibility with his current state .__c2
+__b__so that's what you'd have to do .__c2
+__qy^j^rt__you'd have to get it down to something which uh - was itself relatively compact .__c2
+__s.%-__so it could be compatibility with his current state .__c2
+__s.%-__which would include his money and his time and - and his energy .__c2
+__s^co__yeah just seems like it'd push the problem back a level .__c3
+__b__right .__c4
+__s.%-__it does .__c2
+__s__yeah | but ==__c3
+__s^aa__uhhuh .__c0
+__fh__no but it's more than that .__c4
+__b__like - the - the more sort of - you break it up @reject@ .__c4
+__%-__like - because if you have everything pointing to one node it's like exponential .__c4
+__s__whereas if you like keep breaking it up more and more it's not exponential anymore .__c4
+__fh|s^bk__so it - yeah there are two advantages .__c2
+__s^tc__that's tha- - there's one technical one .__c2
+__s__sh- - sh- ==__c3
+__b.%__yeah .__c3
+__%--__and the other is it - it gets used .__c2
+__fh|%-__s- - so we'd basically be doing subgrouping ?__c3
+__s^cs__subgrouping basically ?__c3
+__qy.%-__yeah .__c4
+__s^cs__into mo- ==__c3
+__s^aa|%-__so basically make it more tree like going backwards ?__c3
+__s.%-__right .__c4
+__qw^cs^rt__yeah .__c0
+__s^2^cs^ng__right .__c2
+__s__but it - there's two advantages .__c2
+__s^e__one is the technical one that you don't wind up with such big exponential uh - c b t's .__c2
+__s^aa__@reject@ bhaskara ?__c5
+__s^na__the other is it can be - it presumably can be used for multiple decisions .__c2
+__b__uhhuh .__c0
+__s__so that if you have this idea of the compatibility with the requirements of an action to the state of the user one could well imagine that that was u- ==__c2
+__fh|s.%-__right .__c4
+__b__not only is it sim- - is it cleaner to compute it separately but it could be that it's used in multiple places .__c2
+__%-__anyway | th- - so in general this is the design - this is really design problem .__c2
+__s^j^nd__yeah .__c5
+__s^fa.%-__okay you've got a signal a d- - set of decisions .__c2
+__sj__um - | how do we do this ?__c2
+__b__what do i have under user state anyhow ?__c5
+__s.%-__because i named that already something .__c5
+__s__oh that's tired fresh .__c5
+__b__yeah .__c5
+__fg|s^ng__maybe should be renamed into physical state .__c5
+__b__or fat- - user fatigue even .__c2
+__s__huh .__c0
+__b__that's with a g ?__c5
+__x__uhhuh .__c0
+__x__yep .__c2
+__s^cs.%-__whatever .__c2
+__s^ar__then we can make a user state .__c5
+__s^co^t1__what's th- - what we're talking about is compatibility .__c2
+__qw^cs__uh - or something - i don't know .__c2
+__s^cs__but ==__c2
+__s^bk__i guess the - the question uh - is ==__c3
+__b__it's hard for me to imagine how everything wouldn't just contribute to user state again .__c3
+__sj^ba__or user compatibility .__c3
+__fh|s^cs.%--__oh but | the thing is that we uh - uh - we had some things that uh ==__c2
+__b.%__that don't .__c5
+__fg|sj__that don't .__c2
+__s__the user interests and the user who - who - who the user is are completely apart from the fact whether he is tired broke ==__c5
+__s__sure | but other - i thought though the node we're creating right now is user compatibility to the current action .__c3
+__b__right ?__c3
+__s.%--__the ==__c2
+__sj^r^rt__right .__c2
+__s.%--__seems like everything in the user model would contribute to whether or not the user was compatible with something .__c3
+__s__uh - maybe not .__c2
+__s^2__i mean the - that's the - the issue is um ==__c2
+__b__would - even if it was true in some abstract general sense it might not be true in terms of the information we actually had and can make use of .__c2
+__s__and anyway we're going to have to find some way to cl- - uh - get this sufficiently simple to make it feasible .__c2
+__fh__maybe um - if we look at the - if we split it up again into sort of um ==__c5
+__b__if we look at the uh - the endpoint again we - we said that for each of these things there are certain preconditions .__c5
+__b__so you can only enter a place if you are not too tired to do so .__c5
+__fh__and also uh - have the money to do so if it costs something .__c5
+__fg__so if you can afford it and perform it is preconditions .__c5
+__b__viewing usually is cheap or free .__c5
+__s^cs^tc__is that always true ?__c5
+__s^ar__uhhuh .__c0
+__s.%--__i don't know .__c5
+__fh|s__well with the way we're defining it i think yeah .__c3
+__b__w- - w- ==__c2
+__s__but that uh - viewing it without ent- - yeah view w- - with our definition of view it's free .__c2
+__b.%__because you ==__c2
+__qy^bu^rt__and so is approaching .__c5
+__s^aa__yeah .__c2
+__s^bk^fe__well what about the grand canyon ?__c0
+__s^bd.%--__right ?__c0
+__s__no never mind .__c0
+__s__i mean - are there - are there large things that you would have to pay to get up close to ?__c0
+__b__like - i mean ==__c0
+__s__never mind .__c0
+__b.%__not in the current ==__c0
+__b.%__no we have to enter the park .__c2
+__s__okay .__c0
+__b__uh - almost by definition um - paying involves entering .__c2
+__%-__yeah .__c0
+__qy^bu^rt__ge- - going through some ==__c2
+__%-__okay .__c0
+__s__right sure .__c0
+__s^bk__right .__c2
+__s__uh ==__c2
+__s__so let me suggest we switch to another one .__c2
+__b__i mean - clearly there's more work to be done on this .__c2
+__b__uhhuh .__c5
+__%-__but i think it's going to be more instructive to - to think about uh - other decisions that we need to make in path land .__c2
+__s^rt__and what they're going to look like .__c2
+__%-__so you can save this one as and open up the old one .__c3
+__s^ba__right ?__c3
+__s.%--__and ==__c3
+__s__and then everything would be clean .__c3
+__fh|qh__you could do it again .__c3
+__s^aa|qh^m__why i think it's worth saving this one .__c2
+__fh__but i think i'd - i'd like to keep this one .__c2
+__s^cs__yeah .__c4
+__h|qw^bu__because i want to see if - if we're going to reuse any of this stuff .__c2
+__qr__uhhuh .__c3
+__s__um ==__c5
+__s__so this might be ==__c5
+__s.%--__what next ?__c5
+__s.%-__well you tell me .__c2
+__b__so in terms of the uh - planner what's - what's a good one to do ?__c2
+__fg__well let's - th- - this ==__c5
+__b__go there or not i think is a good one .__c5
+__s.%--__uh ==__c2
+__b__is a very basic one .__c5
+__s.%--__so ==__c5
+__s.%--__what makes things more likely that ?==__c5
+__s__so ==__c5
+__b.%__well | the fir- - see the first thing is - getting back to thing we left out of the other - is the actual discourse .__c2
+__b.%__so keith this is going to get into your world .__c2
+__fh__because uh - we're going to want to know you know - which constructions indicate various of these properties .__c2
+__s__uhhuh .__c0
+__s__s- ==__c2
+__s__uhhuh .__c0
+__b__and - so ==__c2
+__%-__i - i don't yet know how to do this .__c2
+__qy^rt.%--__i guess we're going to wind up pulling out uh - discourse properties like we have object properties .__c2
+__fh__and we don't know what they are yet .__c2
+__s^aa__uhhuh .__c0
+__s^aa__so that - that the go there decision will have a node from uh - discourse .__c2
+__s__and i guess - why don't we just stick a discourse thing up there to be as a placeholder for ?==__c2
+__s.%--__we - we also had discourse features of course for the endpoint .__c5
+__b__of - of course .__c2
+__s__identified that .__c5
+__fh__yeah .__c2
+__s__and so | again re- - that's completely correct .__c5
+__sj^ba__we have the user model the situation model here .__c5
+__s^tc.%--__we don't have the discourse model here yet .__c5
+__%--__much the same way as we didn't - we don't have the ontology here .__c5
+__s__well the ontology we sort of said we would pull these various kinds of properties from the ontology like exhibiting selling and so forth .__c2
+__b__really .__c5
+__s.%--__so in some sense it's - it's there .__c2
+__s__uhhuh .__c5
+__s__but the discourse - we don't have it represented at all yet .__c2
+__b__yeah .__c5
+__b__um ==__c5
+__s__this be specific for second year .__c5
+__s.%-__um ==__c5
+__s.%-__and - and we probably will have uh - something like a discourse for endpoint .__c5
+__s.%--__but if we do it'll have the three values .__c2
+__s^nd__huh ?__c5
+__s__it'll have the e v a values .__c2
+__qw__yeah .__c5
+__fg__if - if we have it .__c2
+__qw^r__yeah .__c5
+__s__okay | just for starters .__c5
+__s__and here discourse um ==__c5
+__b__for go there probably is true and false let's say .__c2
+__s__that's what we talked about .__c2
+__fh__um ==__c5
+__s.%--__well | i think um - we're looking at the - the little data that we have .__c5
+__qy^bh^d__so people say how do i get to the castle .__c5
+__%-__and this usually means they want to go there .__c5
+__s__uhhuh .__c0
+__b__so this should sort of push it in one direction .__c5
+__qw__right .__c2
+__qy^bu^rt__however people also sometimes say how do i get there .__c5
+__b__in order to find out how to get there .__c5
+__s^no__without wanting to go there .__c5
+__s__uhhuh .__c2
+__s__and sometimes um - people say where is it .__c5
+__%-__uhhuh .__c0
+__sj__because they want to know where it is .__c5
+__%-__but in most cases they probably ==__c5
+__s__yeah but that doesn't change the fact that you're - you want these two values .__c2
+__b__oh yeah .__c5
+__fh__true .__c5
+__b__so this is sort of some external thing that takes all the discourse stuff .__c5
+__qy^rt__and then says here it's either yep yay a or nay .__c5
+__s^bk__yeah .__c5
+__s^na__okay .__c5
+__s^bk__and they'll be a - y- - uh - a user go there .__c2
+__fh|sj^cs__and maybe that's all .__c2
+__s^cs__i don't know .__c2
+__b.%__situation go there .__c4
+__s__i mean - because it's whether it's open or not .__c4
+__b__uhhuh .__c5
+__b__okay good .__c2
+__b__that definitely interes- - @reject@ .__c4
+__s__yep .__c2
+__s__but that - now that kind of ==__c4
+__b__um - | what's the word ?__c4
+__b__huh .__c0
+__%--__um | the - that interacts with the uh - e v a thing .__c4
+__s__if they just want to view it then it's fine to go there when it's closed .__c4
+__b.%__whereas if they want to um ==__c4
+__s__right .__c2
+__s^bk__so ==__c4
+__s.%--__right | so that's - that's where it starts getting to be uh - uh - essentially more interesting .__c2
+__s__so what uh - bhaskara says - which is completely right - is if you know that they're only going to view it then it doesn't matter whether it's closed or not .__c2
+__b__uhhuh .__c0
+__s__in terms of - uh - uh - you know - whether - whether you want to go there .__c2
+__b__the time of day .__c4
+__s__right ?__c4
+__b__i - well right .__c4
+__s.%--__uhhuh .__c0
+__s__it does matter though if there's like a strike or riot or something .__c3
+__s__absolutely | there are other situational things that do matter .__c2
+__b__right .__c4
+__b__so ==__c4
+__s__yeah that's what i said .__c4
+__s__just having one situational node may not be enough .__c4
+__b__because this - that node by itself wouldn't distinguish ==__c4
+__b__well i- - i- - it can have di- - various values .__c2
+__s^tc__yeah but we uh - you - you're right it might not be enough .__c2
+__s^tc__yeah i mean see i'm - i'm thinking that any node that begins with go there is either going to be true or false .__c4
+__qy^cs^d__well what ==__c0
+__s.%-__whoops !__c0
+__s__yeah .__c2
+__b.%__right .__c0
+__s__uh .__c2
+__s__i see .__c2
+__s.%-__that could be .__c2
+__s__also that node i mean - the go there s- - s node would just be fed by separate ones for ==__c0
+__b__uhhuh .__c5
+__s.%--__could be .__c2
+__s^bc__you know - there's different things the strikes and the ==__c0
+__s^rt__yeah .__c2
+__b__like situation traffic and so on .__c4
+__s__n- ==__c2
+__b__yeah .__c2
+__sj__yeah | the time of day .__c0
+__s__so - so now the other thing that bhaskara uh - pointed out is what this says is that uh - there sh- - should be a link .__c2
+__s.%--__and this is where things are going to get very messy .__c2
+__s.%--__from the endpoint uh - decision .__c2
+__s__i guess the final ==__c4
+__s__maybe the t- - they're final re- - and i guess the very bottom endpoint decision uh - to the go there node .__c2
+__s__and i - don't worry about layout .__c2
+__fg__yeah .__c4
+__s.%-__i mean then we'll go - we'll go nuts .__c2
+__fg__uhhuh .__c5
+__fg__huh .__c4
+__s__but ==__c2
+__b__maybe we could um - have intermediate node that just the endpoint and the go there s node sort of - fed into .__c4
+__s__could be .__c2
+__s__yeah .__c2
+__s^cs__right .__c4
+__s__because that's what we - i mean - that's why this situation comes up .__c4
+__b__yeah .__c2
+__qy^bu^d__well the go there - actually the endpoint node could feed - feed into the go there s .__c2
+__b__yeah right .__c4
+__s^aa__that's right .__c2
+__b__so the endpoint node ==__c2
+__s.%--__uhhuh .__c5
+__s.%--__make that up t- - t- - to the go there then .__c2
+__s__yeah .__c5
+__fh|s__and again we'll have to do layout at some point .__c2
+__s__but something like that .__c2
+__s^bk__now it's going to be important not to have loops by the way .__c2
+__b__i was just going to ==__c5
+__b__uh really important in - in the belief worl- - net world not to have loops .__c2
+__s__uh ==__c2
+__b__yes .__c4
+__fh|s__how long does it take you to - to compute uh ?==__c5
+__s__no it's much worse than that .__c2
+__s.%--__it - if i- - loo- - it - it - it - it - it's not def- - i- - it's not well defined if you're there are loops .__c2
+__b__it - things don't converge yeah .__c4
+__s__uh - r- - recursive action ?__c5
+__sj__you just - you have to ==__c2
+__s.%-__there are all sorts of ways of breaking it up so that there isn't ==__c2
+__sj^ba__uh ==__c2
+__s__uh - but this isn't - this is - this line is just coming from over here .__c5
+__b__okay .__c2
+__fh|s__yeah .__c4
+__s__yeah .__c4
+__%-__yeah | no it's not a loop yet i'm just saying we - we in - no in ==__c2
+__s^rt__huh .__c5
+__b__well | but the good thing is we - we could have loopy belief propagation which we all love .__c4
+__b__right .__c2
+__s__okay | so anyway so that's another decision .__c2
+__fh|s__uh - | what's - what's another decision you like ?__c2
+__s__okay these have no parents yet but i guess that sort of doesn't matter .__c5
+__b__right ?__c5
+__b__well the idea is that you go there you go comes from something about the user from something about the situation and the uh - the discourse is - is a mystery .__c2
+__fh|s__i mean this is sort of ==__c5
+__b__this comes from traffic and so forth yeah .__c5
+__b__sh- - should we just make some ?__c5
+__s__sure if you want .__c2
+__s__um ==__c5
+__fh|s__if there's parking maybe ==__c5
+__b__huh .__c5
+__b__oh who cares ?__c5
+__s__okay .__c5
+__b__and if he has seen it already or not and so forth .__c5
+__s.%-__right .__c2
+__qw__okay .__c5
+__b__um ==__c5
+__qw^e__and discourse is something that sort of ==__c5
+__s__should we make a keith note here ?__c5
+__s.%--__that sort of comes from keith .__c5
+__s__sure .__c2
+__s__uhhuh .__c2
+__s__just sort of - so we don't forget .__c5
+__s__oops !__c5
+__b__have to get used to this .__c5
+__b__okay .__c5
+__s.%-__whoops !__c5
+__s__um - actually ==__c0
+__s.%-__and then also the discourse endpoint .__c2
+__fg__i - i guess endpoint sub d is - if you want to make it consistent .__c2
+__fh|s.%-__wh- - uh .__c3
+__s__uhhuh .__c5
+__qy^d^g^rt__um - actually is this the - the right way to have it ?__c0
+__s__where um - go there from the user and go there from the situation just sort of don't know about each other but they both feed the go there decision .__c0
+__s^aa__i think so .__c2
+__s.%-__because isn't the - i mean ==__c0
+__fg__s- ==__c2
+__s.%--__uh ==__c0
+__s.%-__huh ==__c0
+__fg__okay .__c0
+__s__maybe not .__c2
+__b__but that still allows for the possibility of the - of the user model affecting our decision about whether a strike is the sort of thing which is going to keep this user away from ==__c0
+__b__a- ==__c2
+__s.%--__right .__c2
+__b__that - all that - that kind of decision making happens at the go there node .__c0
+__s__uh - y- - you - yeah you - i- - you - if you needed to do that .__c2
+__b__uh .__c0
+__s.%--__if you needed it to do that .__c0
+__fh__yeah .__c2
+__s__but uh - okay i was just thinking .__c0
+__s__yeah .__c2
+__b__i guess maybe i'm conflating that user node with possible - possible asking of the user .__c0
+__s__you know ?__c0
+__s^bk__uh .__c2
+__s__hey there's a strike on uh - does that affect whether or not you want to go or something .__c0
+__qy^d^g__good point i don't - i don't know how we're going to - t- - uh ==__c2
+__s__or ==__c0
+__b__yeah so that might not come out of a user model .__c0
+__s^df__but you know - directly out of interaction .__c0
+__b__right .__c2
+__b__uh - i gu- - yes my curr- - you know don't - yeah yeah yeah that's enough .__c2
+__sj__yeah .__c5
+__s__uh - | my current idea on that would be that each of these decision nodes has questions associated with it .__c2
+__s^ar__uhhuh .__c0
+__s^aa__and the question wouldn't itself be one of these conditional things .__c2
+__qy^rt__you know - given that you know there's a strike do you still want to go .__c2
+__%-__okay .__c0
+__%-__yeah .__c0
+__%-__but uh - if you told him a bunch of stuff then you would ask him do you want to go .__c2
+__qy^rt__uhhuh .__c0
+__s^bk__but i think trying to formulate the conditional question that sounds too much .__c2
+__qrr.%-__okay .__c0
+__h|s^no__right right .__c0
+__s__yeah .__c0
+__s^co__right sure okay .__c0
+__s^co^rt__to me .__c2
+__s^co^rt__uhhuh .__c5
+__s^co__all right but let me - let - let's stay with this a minute .__c2
+__h|s^aa__but ==__c5
+__s.%--__because i want to do a little bit of organization .__c2
+__s^cs__before we get more into details .__c2
+__b__the organization is going to be that uh ==__c2
+__b__the flavor of what's going on is going to be that uh ==__c2
+__s__as we s- - e- - sort of going to this detail indeed keith is going to - to worry about the various constructions that people might use .__c2
+__b__uhhuh .__c0
+__s^cs__and | johno has committed himself to being the parser wizard .__c2
+__s^bk__so what's going to happen is that eventually ==__c2
+__b__all right .__c0
+__b__like - by the time he graduates .__c2
+__s__okay ?__c2
+__s.%-__uh - | they'll be some sort of system which is able to take the discourse in context and have outputs that can feed the rest of belief net .__c2
+__%-__i j- - wa- - i - i assume everybody knows that .__c2
+__%-__i just want to you know - get closure that that'll be the game then .__c2
+__s__uhhuh .__c0
+__qy^rt__so the semantics that you'll get out of the discourse will be of values that go into the various discourse based decision nodes .__c2
+__qrr__and now some of those will get fancier like mode of transportation and stuff .__c2
+__fh|s__so it isn't by any means uh - necessarily a simple thing that you want out .__c2
+__s__so uh - if there is an- - and there is mode of transportation ==__c2
+__b__and it - there's a sort of also a split if you loo- - if you blow this up and look at it in more detail there's something that comes from the discourse in terms of what was actually just said .__c5
+__s^df__what's the utterance go- - giving us ?__c5
+__s^2.%-__yeah .__c2
+__b__and then what's the discourse history give us ?__c5
+__b__yeah well | that well we'll have to decide uh - how much of th- - where that goes .__c2
+__s__uhhuh .__c0
+__fh__that's uh - two things then .__c5
+__s__huh .__c5
+__s^aa__uhhuh .__c0
+__s^arp.%-__an- - and it's not clear yet .__c2
+__sj__i mean it could be those are two separate things .__c2
+__qy^bu^d^rt__it could be that the discourse gadget itself integrates them as ==__c2
+__s^aa__which would be my guess .__c2
+__s.%--__that you'd have to do - see in order to do reference and stuff like that um - you've got to have both the current discourse and the context to say i want to go back there .__c2
+__fh__wow what does that mean .__c2
+__b__uhhuh .__c0
+__fg__and uh ==__c2
+__sj.%--__uhhuh .__c5
+__fh__now .__c0
+__s__uhhuh .__c0
+__%-__all right .__c2
+__qy^bu^rt__so ==__c2
+__s^ng__but is th- - is this picture that's emerging here just my wish that you have noticed already for symmetry ?__c5
+__s^aa__or is it that we get for each - each decision on the very bottom we sort of get the sub e sub d sub u and maybe a sub o - o for ontology um - meta node ?__c5
+__s^e^nd__i don't know .__c2
+__qy^bh__but it might just ==__c5
+__s^aa__it could be .__c2
+__qy^bh__could be .__c5
+__s__so this ==__c5
+__b__this is - this is getting into the thing i want to talk about next .__c2
+__sj^ba__which is s- - if that's true uh - how do we want to combine those ?__c2
+__qw^bu^rt__o- - or when it's true .__c2
+__s^r^rt__but this uh - w- - wou- - wou- - would be nice though that you know - we only have at most four at the moment um - arrows going f- - to each of the uh - bottom decisions .__c5
+__s^df.%-__yeah .__c2
+__s^fe__yeah .__c4
+__s__and four you - we can handle ?__c5
+__s^fa__no .__c2
+__sj.%--__it's too much ?__c5
+__sj__yeah .__c4
+__s__well i- - i- - it see- - i- - if it's fou- - if it's four things and each of them has four values it turns out to be a big c p t .__c2
+__fh|sj^ba__it's not s- - completely impossi- ==__c2
+__fh|s__i mean - it's - it's not beyond what the system could solve .__c2
+__s__but it's probably beyond what we could actually uh - write down or learn .__c2
+__s^df.%--__right true .__c5
+__s__uh - | but you know it's four to the fourth .__c2
+__s^aa__it's pretty big .__c2
+__s.%-__uh ==__c2
+__b__two fifty six ?__c3
+__s__is that what that ?==__c3
+__s__yeah .__c2
+__b__yeah | i mean ==__c2
+__s__it's - and i don't think it's going to g- - e- - i don't think it'll get worse than that by the way .__c2
+__b__so le- - that's a - that's a good ==__c2
+__qw__huh yeah .__c4
+__s^co__but - but four - didn't we decide that all of these had true or false ?__c5
+__s.%--__so is - it's four ==__c5
+__b__uh - for go there .__c2
+__s^fa^t3__but not f- - but not for ==__c2
+__s__yeah .__c3
+__b__the other one's three values for endpoint already .__c2
+__s__yeah | i mean - you need actually three to the five .__c4
+__b__because uh - well i mean - if - if it has four inputs and then it itself has three values .__c4
+__s__right .__c3
+__s.%-__so ==__c4
+__s.%-__i mean - it can get big fast .__c4
+__qy^bu^d^rt__um - | for endpoint ?__c5
+__qrr.%--__no | it's - it's sh- ==__c5
+__s^fa.%--__e v- - it's the e v a .__c2
+__s.%--__yeah | down here .__c5
+__qw^rt__but this one only has two .__c5
+__s__no it still has three .__c4
+__s__no .__c2
+__s__since ta- - they will still have three .__c2
+__b__e v a .__c4
+__s__each - so you're uh - uh - from each point of view you're making the same decision .__c2
+__fh|sj__uhhuh .__c0
+__b__so from the point of view of the ob- - of the entity ==__c2
+__sj^no__uhhuh .__c0
+__b__want to view that ==__c5
+__qy^d^rt^tc__yeah yeah .__c5
+__s^aa__c- - sl- ==__c5
+__s^r.%--__yeah .__c5
+__qo__yeah .__c2
+__qw^rt__this - and also i mean - the other places where ==__c4
+__s__like - for example consider endpoint view it has inputs coming from user budget user thrift .__c4
+__qw^rt__right .__c2
+__s.%--__so even ==__c4
+__s^no__those are not necessarily binary .__c2
+__fg|s.%--__s- - so we're - we're going to have to use some t- - care in the knowledge engineering to not have this explode .__c2
+__s^bu__and in fact i think it doesn't in the sense that ==__c2
+__qy^d^g__um ==__c2
+__s^aa^m__read it ==__c2
+__s__you know actually with the underlying semantics and stuff i think it isn't like you have two hundred and fifty six different uh - ways of - of thinking about whether this user wants to go to some place .__c2
+__qy^d^m^rt__all right .__c2
+__s^aa^e__so we - we just have to figure out what the regularities are and - and code them .__c2
+__s^no.x__but um - what i was going to suggest next is maybe we want to work on this a little longer .__c2
+__qy^bu^d^rt__but i do want to also talk about the thing that we started into now of ==__c2
+__qo^rt^t3__uh ==__c2
+__s^aa__well it's all fine to say all these arrows come into the si- - same place .__c2
+__%--__what rule of combination is used there ?__c2
+__qw^br^rt^t3__so th- - yes they - so these things all affect it .__c2
+__s__uhhuh .__c0
+__s__right .__c0
+__s^bk^t3__how do they affect it ?__c2
+__s__and belief nets have their own beliefs about uh - what are good ways to do that .__c2
+__s^t3__so is it - it's - it's clearer n- - clear enough what the issue is .__c2
+__qy^d^rt__right .__c4
+__b.%__right ?__c2
+__s^aa__so do we want to switch that now or we want to do some more of this ?__c2
+__fg|s.%-__r- - basically w- - we just need to sort of ==__c5
+__s__in order to get some closure on this figure out how we're going to get this picture sort of uh - completely messy .__c5
+__s^bk__well here - he- - here's one of the things that - that i th- - you sh- ==__c2
+__%--__you - no ==__c2
+__s.%--__i don't know how easy it is to do this in the interface .__c2
+__s__but you - it would be great if you could actually just display at a given time uh - all the things that you pick up ==__c2
+__s.%--__you click on endpoint .__c2
+__b__okay .__c2
+__s__uhhuh .__c5
+__s__and everything else fades .__c2
+__b__and you just see the links that are relevant to that .__c2
+__s^cs__and i ==__c2
+__s.%-__does anybody remember the gui on this ?__c2
+__qy^bu^d^rt__uh - | d- - i would almost say the other way to do that would be to open u- - or make you know - n many belief nets .__c3
+__h__and then open them every time you wanted to look at a different one .__c3
+__s__uhhuh .__c5
+__b__vers- ==__c3
+__s__it's probably pretty easy do it - to do it in h t m l .__c5
+__b__because uh ==__c3
+__s^e__just ==__c5
+__s__yeah | but ==__c3
+__s__uh ==__c5
+__s^arp__h t m l ?__c4
+__s^arp__yeah | i have each of these thing- - each of the end belief nets be - be a page and then you click on the thing .__c5
+__%-__and then li- - consider that it's respective .__c5
+__qy^bu^d^rt__okay .__c4
+__s__yeah | the - well the b- ==__c2
+__s^bk__but ==__c5
+__b__anyway | so uh - it clear that even with this if we put in all the arrows nobody is going to be able to read the diagram .__c2
+__b__yeah .__c3
+__b__all right .__c2
+__s__so e- - we have to figure out some uh - uh - uh - basically display hack or something to do this .__c2
+__s^aa|s__because ==__c2
+__s__anyway | i - i - let me consi- - suggest that's a s- - not a first order consideration .__c2
+__b__we have two first order considerations .__c2
+__s^bk__which is what are the uh - influences .__c2
+__s^bk__a .__c2
+__s^bk__and b how do they get combined mathematically ?__c2
+__b__how do we display them is an issue .__c2
+__b.%__but ==__c2
+__s^bs|s^bk__um ==__c2
+__s__i don't yeah i just don't think this has been designed to support something like that .__c3
+__b__yeah .__c4
+__fh|s.%--__yeah | i - i mean - it might soon if this is going to be used in a serious way like java base then it might soon be necessary to uh - start modifying it for our purposes .__c4
+__qw.%-__right .__c2
+__h__yeah | and um - i - that seems like a perfectly feasible thing to get into .__c2
+__qw^t1__but um - we have to know what we want first .__c2
+__s__okay so why don't you tell us a little bit about decision nodes and what - what the choices might be for these ?__c2
+__s__so ==__c4
+__s^bk__uh sorry .__c4
+__s__i guess that's ==__c4
+__qrr__you can technically wear that as you're talking .__c3
+__s__yeah it's right i guess i can do that .__c4
+__s^bk__darn !__c0
+__s__put it in your ==__c2
+__b__yeah .__c2
+__fh__i guess this board works fine .__c4
+__s.%--__so um - recall the basic problem which is that um - you have a belief net and you have like - a lot of different nodes all contributing to one node .__c4
+__s__right ?__c4
+__s__so as we discussed specifying this kind of thing is a big pain .__c4
+__s__and it's so- - will take a long time to write down .__c4
+__b__because for example if these s have three possibilities each and this has three possibilities then you know you have two hundred and forty three possibilities .__c4
+__fh__which is already a lot of numbers to write down .__c4
+__s__so what um - helps us in our situation is that these all have values in the same set .__c4
+__b__right ?__c4
+__s^aa__these are all like saying e v or a .__c4
+__b__right ?__c4
+__b__so it's not just a generalized situation like ==__c4
+__fg|s__i mean - basically we want to just take a combination of ==__c4
+__fh|s__we want to view each of these as experts .__c4
+__s__ea- - who are each of them is making a decision based on some factors .__c4
+__sj__and we want to sort of combine their decisions .__c4
+__s__and create you know - um - sort of weighted combination .__c4
+__s__huh .__c5
+__fh__rover - the rover decision .__c5
+__fg__the what decision ?__c4
+__s__rover .__c5
+__fh__all of their outputs combined to make a decision .__c5
+__s^bk__huh .__c0
+__s__yeah .__c4
+__s^f.%--__yeah .__c4
+__s^bk__so the problem is to specify the uh - so the conditional property of this given all those .__c4
+__s.%--__right ?__c4
+__b__that's the way belief nets are defined .__c4
+__s__like - each node given its parents .__c4
+__s__right ?__c4
+__qo^rt__so um - | that's what we want  .__c4
+__s^ar__we want for example p of um ==__c4
+__s__let's call this guy y .__c4
+__s^bk__and let's call these x one x two x n .__c4
+__fh__right ?__c4
+__%--__so we want probability that y equals you know - for example um - e .__c4
+__s^aa__given that these guys are ==__c4
+__b__i'll just refer to this as like x um - hat or something .__c4
+__s__uh - the co- - like all of them .__c4
+____given that for example the data says you know - a v a e or something .__c4
+____right ?__c4
+____yep .__c2
+____so we would like to do this kind of combination .__c4
+__z__all right | so ==__c2
+____um ==__c2
+__z__is that uh ?==__c2
+__z__i - yeah i just want to make sure everybody is with us before he goes on .__c2

@@ -1,0 +1,769 @@
+__z__ts- ==__c1
+__z__am i on ?__c1
+__z__i guess so .__c1
+__z__radio two .__c1
+__z__huh .__c1
+__z__radio two .__c1
+__z__hello ?__c8
+__z__wow .__c1
+__z__uhhuh .__c8
+__fg__hi ?__c8
+__fh__blow into it .__c2
+__fh|qw^rt^t__it works really well .__c2
+__s^t__channel b .__cb
+__s^bk|s__people say the strangest things when their microphones are on .__c1
+__fh__channel four .__c4
+__s.%--__test .__c4
+__b__uh oh .__c3
+__s__okay .__c4
+__qy^2^d__radio four .__c3
+__b__hello ?__c8
+__fh|s__today's ==__c4
+__b__so | everybody - everybody's on ?__c1
+__fh|s__yeah .__c1
+__b__so y- - you guys had a - a meeting with uh - with hynek which i unfortunately had to miss .__c1
+__s.%--__um ==__c1
+__fh__huh .__c3
+__s__and uh - | somebody ==__c1
+__s__uh e- - and uh ==__c1
+__s.%--__i guess chuck you weren't there either .__c1
+__fg__so the- - uh ==__c1
+__s__i was there .__c2
+__b__oh you were there .__c1
+__b__with hynek ?__c2
+__qr__yeah .__c1
+__s__yeah .__c2
+__s^bk__so everybody knows what happened except me .__c1
+__fh__maybe somebody should tell me .__c1
+__s^aap__oh yeah .__c3
+__qy^d^g__all right .__c3
+__s^aa|s^na__well - uh | first we discussed about some of the points that i was addressing in the mail i sent last week .__c3
+__s^df__uhhuh .__c1
+__b__so ==__c3
+__fh__yeah .__c3
+__fg__about the um - well - the downsampling problem .__c3
+__s__yeah .__c1
+__s__uh - and about the f- - the length of the filters .__c3
+__s.%--__and ==__c3
+__s__yeah .__c3
+__s^aa__what was the - w- - what was the downsampling problem again ?__c1
+__s__so we had ==__c3
+__b__i forget .__c1
+__s^bk__so the fact that there - there is no uh - low pass filtering before the downsampling .__c3
+__s^bu|qy^d^g__well .__c3
+__x__uhhuh .__c1
+__%--__there is because there is l d a filtering but that's perhaps not uh - the best .__c3
+__s^aa__w- - m- ==__c3
+__s^na__depends what it's frequency characteristic is | yeah .__c1
+__fh__well .__c3
+__s^bk__uhhuh .__c3
+__s^bk__is the system on ?__c4
+__s__so you could do a - you could do a stricter one .__c1
+__b__maybe .__c1
+__s^cs.%--__yeah .__c1
+__s__yeah .__c3
+__qy^d^g__so we discussed about this about the um ==__c3
+__s^cs__was there any conclusion about that ?__c1
+__qy^d^g^rt__uh - | try it .__c3
+__s^aa__yeah .__c3
+__b__i see .__c1
+__s^na__i guess .__c3
+__b__uh ==__c3
+__s.%-__yeah .__c1
+__%--__so again this is th- - this is the downsampling uh - of the uh - the feature vector stream .__c1
+__s.%--__and ==__c1
+__s^no__um - | yeah i guess the - the uh - l d a filters they were doing do have ==__c1
+__s__um - uh - | let's see so the - the - the feature vectors are calculated every ten milliseconds .__c1
+__s.%--__so ==__c1
+__s.%-__uh - | the question is how far down they are at fifty - fifty hertz .__c1
+__fg__yeah .__c3
+__s|qy^d^g__uh - um ==__c1
+__s^aa__uhhuh .__c3
+__s__sorry - at twenty five hertz since they're downsampling by two .__c1
+__%-__so | does anybody know what the frequency characteristic is ?__c1
+__b__we don't have yet .__c3
+__s__um - so yeah .__c3
+__s__oh okay .__c1
+__b__we should have a look first at perhaps the modulation spectrum .__c3
+__fh|s__okay .__c1
+__b__yeah .__c1
+__fh__um - | so there is this ==__c3
+__fh__there is the um - length of the filters .__c3
+__s__um - | so the i- - this idea of trying to find filters with shorter delays .__c3
+__b__um - | we started to work with this .__c3
+__s^df__huh huh .__c1
+__b__huh .__c3
+__b__and the third point um - was the um ==__c3
+__fh__yeah | the online normalization where ==__c3
+__s^cs.%-__well the recursion f- - recursion for the mean estimation is a filter with some kind of delay .__c3
+__s^na|s^ng__yeah .__c1
+__s^bk__and that's not taken into account right now .__c3
+__s__um - yeah .__c3
+__%-__and there again yeah .__c3
+__s^2__for this the conclusion of hynek was well we can try it but ==__c3
+__b__uhhuh .__c1
+__fh__um ==__c3
+__b__try - try what ?__c1
+__b__so | try to um - um - take into account the delay of the recursion for the mean estimation .__c3
+__fh|s^co__okay .__c1
+__s^e__huh .__c3
+__b__and this - we've not uh - worked on this yet .__c3
+__x__um - yeah .__c3
+__b__and so while discussing about these - these l d a filters some i- - issues appeared like ==__c3
+__s^cs.%--__well the fact that if we look at the frequency response of these filters it's ==__c3
+__s^cs__uh - well we don't know really what's the important part in the frequency response .__c3
+__fh__and there is the fact that in the very low frequency these filters don't - don't really remove a lot compared to the - to the uh - standard rasta filter .__c3
+__s__uh - | and that's probably a reason why - yeah online normalization helps because it - it ==__c3
+__s__right .__c1
+__b__yeah it removed this mean .__c3
+__fh__um - | yeah but perhaps everything could - should be - could be in the filter .__c3
+__s^fa__i mean uh - the - the mean normalization and ==__c3
+__qw__yeah .__c3
+__s__so ==__c3
+__%-__yeah .__c3
+__b__so | basically that was - that's all we discussed about .__c3
+__qy^2^cs^d^rt__we discussed about good things to do .__c3
+__s^aa__also uh - well generally good stuff to do for the research .__c3
+__fg__uhhuh .__c1
+__s__and this was this l d a uh - tuning perhaps and hynek proposed again to his uh - traps .__c3
+__%-__so ==__c3
+__s__okay .__c1
+__fg__yeah .__c3
+__b__um ==__c3
+__s^bk|s^df__i mean i g- - i guess the key thing for me is - is figuring out how to better coordinate between the two sides .__c1
+__%--__uhhuh .__c3
+__fh__because - because um ==__c1
+__s.%--__uh - | i was talking with hynek about it later .__c1
+__%-__and the - the - sort of had the sense sort of that - that neither group of people wanted to - to bother the other group too much .__c1
+__s__and - and i don't think anybody is you know closed in in their thinking or are unwilling to talk about things .__c1
+__b__but i think that you were sort of waiting for them to tell you that they had something for you .__c1
+__b__and - and that - and expected that they would do certain things .__c1
+__s^ng__uhhuh .__c3
+__s^bk__and they were sor- - they didn't want to bother you .__c1
+__b__and they were sort of waiting for you .__c1
+__fh|s.%--__and - and - and uh - we ended up with this thing where they - they were filling up all of the possible latency themselves .__c1
+__b__and they just had- - hadn't thought of that .__c1
+__s.%--__so ==__c1
+__s.%--__uh - | i mean it's true that maybe - maybe no one really thought about that - that this latency thing would be such a - a strict issue .__c1
+__s__yeah .__c3
+__b__well but .__c3
+__b__yeah .__c3
+__b__yeah .__c3
+__s__well ==__c3
+__fh|s__in - in uh - the other ==__c1
+__b__yeah .__c3
+__s^rt__i don't know what happened really but ==__c3
+__b__yeah .__c1
+__fh__i guess it's - it's also so uh - the time constraints .__c3
+__s.%--__because - well we discussed about that - about this problem .__c3
+__fh__and | they told us well we will do all that's possible to have enough space for a network .__c3
+__qy^rt__but then - yeah perhaps they were too short with the time and ==__c3
+__s^aa__then they couldn't .__c1
+__s__i see .__c1
+__b__uh - yeah .__c3
+__s^nd__but there was also problem - perhaps a problem of communication .__c3
+__%-__so yeah .__c3
+__b__now we will try to ==__c3
+__s^bk__just talk more .__c1
+__s^bk__yeah | slikes and send mails .__c3
+__s^na__uh - so ==__c3
+__s__yeah .__c1
+__b__yeah .__c3
+__fh__yeah .__c1
+__fh__uh ==__c3
+__s.%--__okay .__c3
+__fh|s^cs__so there's um ==__c1
+__b__all right .__c1
+__b__well maybe we should just ==__c1
+__%--__uh - i mean you're - you're bus- - other than that you folks are busy doing all the - all the things that you're trying that we talked about before .__c1
+__s__right ?__c1
+__s__and this - machines are busy .__c1
+__fh__and | you're busy .__c1
+__qw__yeah .__c3
+__s__and ==__c1
+__fh__basically .__c3
+__s^bk__yeah .__c1
+__s^bk__okay .__c1
+__s__um ==__c3
+__s^bu__oh .__c1
+__s^aa__let's - let's - i mean i think that as - as we said before that one of the things that we're imagining is that uh - there - there will be uh - in the system we end up with there'll be something to explicitly uh - uh - do something about noise .__c1
+__b__uh .__c3
+__s__in addition to the uh - other things that we're talking about .__c1
+__b__and that's probably the best thing to do .__c1
+__qy^d__and there was that one email that said that it sounded like uh - uh - things looked very promising up there .__c1
+__s^bk__in terms of uh - i think they were using ericsson's approach or something .__c1
+__s^bk|s.%--__and in addition to ==__c1
+__fh|s__they're doing some noise removal thing .__c1
+__b__right ?__c1
+__s__yeah yeah .__c3
+__b__so yeah we're - will start to do this also .__c3
+__s^cs__yeah .__c1
+__s__uh - | so carmen is just looking at the ericsson - ericsson code .__c3
+__b__yeah .__c4
+__s__we modif- ==__c4
+__b__uhhuh .__c1
+__%--__yeah i modified it .__c4
+__s__and ==__c3
+__b__well modify no .__c4
+__s^bs__i studied barry's sim code more or less .__c4
+__s__to take only the first step - the spectral subtraction .__c4
+__b__and we have some - the feature for italian database .__c4
+__s__and we will try with this feature with the filter to find the result .__c4
+__b__uhhuh .__c1
+__fh__uhhuh .__c1
+__fh|s__but we haven't result until this moment .__c4
+__fh__yeah sure .__c1
+__b__but well we are working in this also .__c4
+__s__yeah .__c1
+__s.%--__and maybe try another type of spectral subtraction i don't ==__c4
+__s__when you say you don't have a result yet you mean it's - it's just that it's in process ?__c1
+__b__or that you - it finished and it didn't get a good result ?__c1
+__fh|s__no .__c4
+__fh__no no | n- - we have n- - we have - do the experiment .__c4
+__fh__only have the feature - the feature but - the experiment have ==__c4
+__fh__yeah .__c3
+__s.%--__we have not make the experiment .__c4
+__fh__oh .__c1
+__qw.%--__and ==__c4
+__s__okay .__c1
+__qw__maybe will be good result or bad result .__c4
+__fh__we don't know .__c4
+__fg__yeah .__c1
+__s^na__yeah .__c3
+__%-__yeah .__c1
+__%-__okay .__c1
+__s__so um - | i suggest actually now we - we - we sort of move on and - and hear what's - what's - what's happening in - in other areas .__c1
+__b__like what's - what's happening with your investigations about echos and so on .__c1
+__s__oh um ==__cb
+__s__well um | i haven't started writing the test yet i'm meeting with adam today .__cb
+__s__uhhuh .__c1
+__b__um - | and he's going t- - show me the scripts he has for um - running recognition on mee- - meeting recorder digits .__cb
+__s__uhhuh .__c1
+__fh|qw__uh - | i also um - haven't got the code yet .__cb
+__s^aa__i haven't asked hynek for - for the - for his code yet .__cb
+__qy^d^f^g__because i looked at uh - avendano's thesis and i don't really understand what he's doing yet .__cb
+__s__but it - it - it sounded like um - the channel normalization part um - of his thesis um - was done in a - a bit of i don't know what the word is a - a bit of a rough way .__cb
+__b__um - | it sounded like he um ==__cb
+__fh|s__he - he - it - it wasn't really fleshed out .__cb
+__b__and maybe he did something that was interesting for the test situation .__cb
+__s__but i - i'm not sure if it's what i'd want to use .__cb
+__%__so i have to - i have to read it more .__cb
+__b__i don't really understand what he's doing yet .__cb
+__s.%--__okay .__c1
+__s__it's my ==__c4
+__s__yeah i haven't read it in a while so i'm not going to be too much help unless i read it again .__c1
+__s__i know this is mine here .__c4
+__b__oh yeah .__c3
+__s__so ==__c1
+__%--__okay .__c1
+__b__um - | the um ==__c1
+__b__so you - and then - you're also going to be doing this echo cancelling between the - the close mounted and the - and the - the - the - what we're calling a cheating experiment uh - of sorts .__c1
+__b__uh i- - i'm ho- ==__cb
+__s.%-__between the distant ==__c1
+__s__right .__cb
+__s^t3__well - | or i'm hoping - i'm hoping espen will do it .__cb
+__s^ft^t3__um ==__cb
+__s.%--__uh .__c1
+__b__okay .__c1
+__fg__f- - um ==__c1
+__%__u- ==__cb
+__s__delegate .__c1
+__b__that's good .__c1
+__fh|s__it's good to delegate .__c1
+__s__i - i think he's at least planning to do it for the cl- - close mike cross talk .__cb
+__s__and so maybe i can just take whatever setup he has and use it .__cb
+__s__great .__c1
+__b__great .__c1
+__fh|s__yeah actually um - he should uh ==__c1
+__s__i wonder who else is ==__c1
+__b__i think - maybe it's dan ellis is going to be doing uh - a different cancellation .__c1
+__fh__um - | one of the things that people working in the meeting task want to get at is they would like to have cleaner close miked recordings .__c1
+__b__so uh - | this is especially true for the lapel .__c1
+__s.%--__but even for the close - close miked uh - cases .__c1
+__fh|s__um - | we'd like to be able to have um - other sounds from other people and so forth removed from ==__c1
+__s__so when someone isn't speaking you'd like the part where they're not speaking to actually be ==__c1
+__s.%--__so | what they're talking about doing is using ec- - uh - echo cancellation like techniques .__c1
+__s__it's not really echo but uh - just um - uh ==__c1
+__s__taking the input from other mikes and using uh - uh - a uh - an adaptive filtering approach to remove the effect of that uh - other speech .__c1
+__s.%--__so ==__c1
+__fh|s.%--__um - | what was it ?__c1
+__b__there was - there was some - some - some point where uh - uh - eric or somebody was - was speaking and he had lots of silence in his channel .__c1
+__s__and i was saying something to somebody else uh - which was in the background .__c1
+__s__and it was not ==__c1
+__fh__it was recognizing my words which were the background speech on the close - close mike .__c1
+__fh__huh .__cb
+__fh__oh the - | what we talked about yesterday ?__c2
+__fg__yes .__c1
+__s^tc__yeah that was actually my ==__c2
+__qw^t^tc__i was wearing the - i was wearing the lapel and you were sitting next to me .__c2
+__h__oh you .__c1
+__qy__it was you i was ==__c1
+__%__yeah .__c1
+__qrr.%--__and i only said one thing but you were talking and it was picking up all your words .__c2
+__s__yeah .__c1
+__fh__yeah .__c1
+__fg__so they would like clean channels .__c1
+__s.%--__uh - | and for that - huh uh - that purpose uh - they'd like to pull it out .__c1
+__s__so i think - i think dan ellis or somebody who was working with him was going to uh - work on that .__c1
+__s.%--__so ==__c1
+__x__okay .__c1
+__s|qy^d^g__right ?__c1
+__s__um - | and uh - i don't know if we've talked lately about the - the plans you're developing that we talked about this morning .__c1
+__s^aa__uh - | i don't remember if we talked about that last week or not .__c1
+__s^aa.x__but maybe just a quick reprise of - of what we were saying this morning .__c1
+__s^aa__okay .__c8
+__fg__um - so | continuing to um - extend ==__c8
+__s^cc__uh ==__c1
+__b__what about the stuff that um - mirjam has been doing ?__c2
+__s__and - and s- - shawn yeah .__c2
+__s__oh .__c2
+__b__so they're training up nets to try to recognize these acoustic features ?__c2
+__b__i see .__c2
+__s__but that's uh - uh - all - that's - is a - a certainly relevant uh - study .__c1
+__s__and you know what are the features that they're finding ?__c1
+__fh__we have this problem with the overloading of the term feature .__c1
+__s__so ==__c1
+__fh__yeah .__c2
+__qo^d^rt__uh - | what are the variables ?__c1
+__s^aa__what we're calling this one ?__c1
+__h__what are the variables that they're found - finding useful ?__c1
+__s.%--__huh .__c3
+__s__um ==__c1
+__s__and their - their targets are based on canonical mappings of phones to acoustic f- - features .__c2
+__fh__for ==__c1
+__fh__right .__c1
+__fh__and that's certainly one thing to do and we're going to try and do something more f- - more fine than that .__c1
+__s^rt__but uh ==__c1
+__s__um ==__c1
+__b__so ==__c1
+__b__um ==__c1
+__fh|s^rt__so i guess you know what - i was trying to remember some of the things we were saying .__c1
+__s__do you ha- - still have that ?==__c1
+__fh__oh yeah .__c8
+__b__yeah .__c1
+__s.%--__there's those - that ==__c1
+__s.%--__uh ==__c1
+__s.%--__yeah some of - some of the issues we were talking about was in j- - just getting a good handle on - on uh - what good features are .__c1
+__s__and ==__c1
+__s^e__what does - what did um - larry saul use for - it was the sonorant uh - detector ?__c2
+__s__right ?__c2
+__s__how did he ?==__c2
+__s__h- - how did he do that ?__c2
+__s.%--__wh- - what was his detector ?__c2
+__qw^rt__uhhuh .__c2
+__fh__uhhuh .__c2
+__s__oh okay .__c2
+__s__uhhuh .__c2
+__fh|s__so how did he combine all these features ?__c2
+__qy^bu^d__what - what r- - huh - classifier did he use ?__c2
+__s^aa__huh .__c2
+__s^bk__oh right .__c2
+__s^bk|s__you were talking about that yeah .__c2
+__qy^g__i see .__c2
+__s^aa__and the other thing you were talking about is - is - is where we get the targets from .__c1
+__fh__so i mean there's these issues of what are the - what are the variables that you use .__c1
+__s^aa__and do you combine them using the soft and or or you do something you know more complicated .__c1
+__s__um - | and then the other thing was so where do you get the targets from .__c1
+__s.%-__the initial thing is just the obvious that we're discussing is starting up with phone labels from somewhere and then uh - doing the transformation .__c1
+__s^ng__but then the other thing is to do something better .__c1
+__fh__and uh - w- - why don't you tell us again about this - this database ?__c1
+__fg__this is the ==__c1
+__x__huh !__c2
+__s^cs__and then tell them to talk naturally ?__c1
+__%--__yeah yeah .__c1
+__s^no__pierced tongues and ==__c2
+__fh|s.%-__yeah .__c2
+__b__you could just mount it to that and they wouldn't even notice .__c2
+__b__weld it .__c2
+__s__zzz .__c2
+__s__maybe you could go to these parlors and - and you could you know you know have - have you know reduced rates if you - if you can do the measurements .__c1
+__s__yeah .__c2
+__s^bk__i ==__c2
+__s__that's right .__c2
+__s__you could - what you could do is you could sell little rings and stuff with embedded you know transmitters in them and things .__c2
+__s^2__yeah .__c1
+__s^bk__and ==__c2
+__x__yeah be cool and help science .__c1
+__s^df__yeah .__c2
+__s^ng__okay .__c1
+__s^cs__huh !__c2
+__fh__there's a bunch of data that l- - around ==__c2
+__s^bk__that - people have done studies like that w- - way way back .__c2
+__s^df__right ?__c2
+__b__i mean i can't remember where - uh - wisconsin or someplace that used to have a big database of ==__c2
+__s^ba__yeah .__c2
+__fh|s^rt__i remember there was this guy at a t and t .__c2
+__s.%--__randolph ?__c2
+__fh__or r- - what was his name ?__c2
+__fh__do you remember that guy ?__c2
+__s__um - | researcher at a t and t a while back that was studying trying to do speech recognition from these kinds of features .__c2
+__s__i can't remember what his name was .__c2
+__s.%--__dang .__c2
+__s^bk__now i'll think of it .__c2
+__s__do you mean uh - but you - i mean mar- ?==__c1
+__b__that's interesting .__c2
+__b__well he was the guy - the guy that was using ==__c3
+__s.%-__you mean when was - was mark randolph there or ?==__c1
+__b__mark randolph .__c2
+__s^bu|qy^d^g__yeah he's - he's - he's at motorola now .__c1
+__s__oh is he ?__c2
+__s__oh okay .__c2
+__s__yeah .__c1
+__s__yeah .__c1
+__b__yeah .__c2
+__b__is it the guy that was using the pattern of pressure on the tongue ?__c3
+__fh__or ?==__c3
+__%--__i can't remember exactly what he was using now .__c2
+__s^bu__but i know - i just remember it had to do with you know uh - positional parameters .__c2
+__qy^bu^d^rt__what ?==__c3
+__s^aa.x__yeah .__c3
+__s__uhhuh .__c3
+__b__and trying to m- - you know do speech recognition based on them .__c2
+__b__yeah .__c1
+__s^aa__so the only - the only uh - hesitation i had about it since i mean i haven't see the data is it sounds like it's - it's continuous variables and a bunch of them .__c1
+__s^aa.x__huh .__c2
+__b.x__and so ==__c1
+__x__i don't know how complicated it is to go from there .__c1
+__fg|s__what you really want are these binary labels and just a few of them .__c1
+__b__and maybe there's a trivial mapping if you want to do it .__c1
+__s__and it's e- - but it ==__c1
+__s__i - i - i worry a little bit that this is a research project in itself .__c1
+__s^e__whereas um - if you did something instead that - like um - having some manual annotation by uh - you know linguistics students .__c1
+__b__this would - there'd be a limited s- - set of things that you could do a- - as per our discussions with - with john before .__c1
+__b__uhhuh .__c2
+__b__but the things that you could do like nasality and voicing and a couple other things you probably could do reasonably well .__c1
+__s^bk__uhhuh .__c2
+__s__and then there would - it would really be uh - this uh - uh - binary variable .__c1
+__s__course then that's the other question is do you want binary variables .__c1
+__s__so ==__c1
+__b__i mean the other thing you could do is boot trying to - to uh - get those binary variables .__c1
+__s__and take the continuous variables from uh - the uh - uh - the data itself there .__c1
+__s__but i - i'm not sure ==__c1
+__s__could you cluster the - just do some kind of clustering ?__c2
+__b__guess you could yeah .__c1
+__b__bin them up into different categories and ==__c2
+__s__yeah .__c1
+__b__so anyway that's - that's uh - that's another whole direction that cou- - could be looked at .__c1
+__s.%--__um - um - | i mean in general it's going to be for new data that you look at .__c1
+__b__it's going to be hidden variable because we're not going to get everybody sitting in these meetings to wear the pellets and ==__c1
+__s^no__right .__c8
+__b__um - so ==__c1
+__fg__right .__c8
+__s.%--__so you're talking about using that data to get ==__c2
+__b__uh ==__c2
+__b__instead of using canonical mappings of phones .__c2
+__s.%--__right .__c8
+__s__so you'd use that data to give you sort of what the - the true mappings are for each phone ?__c2
+__s__uhhuh .__c8
+__b__i see .__c2
+__b__uhhuh .__c8
+__s__yeah .__c1
+__b__so wh- - yeah where this fits into the rest in - in my mind i guess is that um - we're looking at different ways that we can combine uh - different kinds of - of rep- - front end representations um - in order to get robustness under difficult or even you know typical conditions .__c1
+__s__and part of it - this robustness seems to come from uh - multi stream or multi band sorts of things .__c1
+__fg__and saul seems to have a reasonable way of looking at it at least for one - one um - articulatory feature .__c1
+__s__the question is - is can we learn from that to change some of the other methods we have since ==__c1
+__s__i mean one of the things that's nice about what he had i thought was that - that it - it um ==__c1
+__s.%--__the decision about how strongly to train the different pieces is based on uh - a - a reasonable criterion with hidden variables .__c1
+__s.%--__rather than um - just assuming that you should train e- - e- - every detector uh - with equal strength towards uh - it being this phone or that phone .__c1
+__s__huh .__c2
+__s^no.%--__right ?__c1
+__qw^rt__so it - so um - | he's got these um - uh - uh ==__c1
+__h|s__he and's between these different features .__c1
+__s^bk^m^rt__it's a soft and i guess .__c1
+__s^aa__but in - in principle you - you want to get a strong concurrence of all the different things that indicate something .__c1
+__qw^rt__and then he or's across the different - soft or's across the different uh - multi band channels .__c1
+__h|s__and um - | the weight ==__c1
+__%--__yeah the target for the training of the and - and'ed things is something that's kept uh - as a hidden variable .__c1
+__s__and is learned with e m .__c1
+__s^e__so he doesn't have ==__c2
+__s^e__whereas what we were doing is - is uh - taking the phone target and then just back propagating from that .__c1
+__s^bu__which means that it's - it's uh - i- - it could be for instance that for a particular point in the data you don't want to um - uh - train a particular band - train the detectors for a particular band .__c1
+__s^bu.%-__you - you want to ignore that band because that's a - ban- - band is a noisy - noisy measure .__c1
+__s__uhhuh .__c2
+__s__and we don't ==__c1
+__s^bk__we're - we're still going to try to train it up .__c1
+__s^bu__in our scheme we're going to try to train it up to do as well - well as it can at predicting .__c1
+__s^aa__uh - | maybe that's not the right thing to do .__c1
+__s^no__so he doesn't have to have truth marks ?__c2
+__s__or - ho- ?==__c2
+__s^no__f- - right .__c8
+__b__and uh - he doesn't have to have hard labels .__c8
+__qw^rt__well at the - at the tail end yeah he has to know what's - where it's sonorant .__c1
+__s__right .__c8
+__s__for the full band .__c8
+__s^bk__but he's - but what he's - but what he's not training up - uh - what he doesn't depend on as truth is ==__c1
+__s__um - | i guess one way of describing would be ==__c1
+__s__if - if a sound is sonorant is it sonorant in this band ?__c1
+__s.%--__is it sonorant in that band ?__c1
+__b__is it sonorant in that band ?__c1
+__s__right .__c8
+__%--__i- - it's hard to even answer that .__c1
+__s__what you really mean is that the whole sound is sonorant .__c1
+__fh__uhhuh .__c2
+__s.%-__so ==__c1
+__s.%-__okay .__c2
+__s^bu__then it comes down to - you know to what extent should you make use of information from particular band towards making your decision .__c1
+__s^aa__i see .__c2
+__s^aa|s^na__and um - uh - | we're making in a sense sort of this hard decision that you should - you should use everything uh with - with uh - equal strength .__c1
+__s__and uh - | because in the ideal case we would be going for posterior probabilities .__c1
+__s__if we had uh - enough data to really get posterior probabilities .__c1
+__b__and if the - if we also had enough data so that it was representative of the test data .__c1
+__s__then we would in fact be doing the right thing to train everything as hard as we can .__c1
+__s__but um - this is something that's more built up along an idea of robustness from - from the beginning .__c1
+__b__and so you don't necessarily want to train everything up towards the ==__c1
+__b__so where did he get his - uh - his tar- - his uh - high level targets about what's sonorant and what's not ?__c2
+__s__from uh - canonical mappings um - at first .__c8
+__s^bk__okay .__c2
+__s__yeah .__c1
+__s__and then it's unclear um - uh ==__c8
+__s^bk__using timit ?__c2
+__qy^bu^d^rt__or using ?==__c2
+__s.%-__using timit .__c8
+__s^no__right right .__c8
+__s^nd__uhhuh .__c2
+__s__yeah .__c1
+__s.%--__and then uh - he does some fine tuning um - for um - special cases .__c8
+__s__yeah .__c8
+__qy^d^g^rt__yeah .__c1
+__s^na__i mean we ha- - we have a kind of iterative training because we do this embedded viterbi .__c1
+__s^e__uh - | so there is some- - something that's suggested based on the data .__c1
+__s.%--__but it's - it's not ==__c1
+__%-__i think it s- - doesn't seem like it's quite the same because of this .__c1
+__s__because then whatever that alignment is it's that for all - all bands .__c1
+__s__uhhuh .__c2
+__s__well no that's not quite right we did actually do them separate - tried to do them separately .__c1
+__s__so that would be a little more like what he did .__c1
+__s__um ==__c1
+__b__but it's still not quite the same because then it's - it's um - setting targets based on where you would say the sound begins in a particular band .__c1
+__s.%--__where he's - this is not a labeling per se .__c1
+__qy.%--__might be closer i guess if we did a soft - soft target uh - uh - embedded neural net training like we've done a few times .__c1
+__s__uh - |  f- - the forward um - do the forward calculations to get the gammas and train on those .__c1
+__fh|qy^rt__huh .__c1
+__qy.%--__uh - |  what's next ?__c1
+__s__i could say a little bit about w- - stuff i've been playing with .__c2
+__s^aa__oh .__c1
+__qy^d^g^rt__i um ==__c2
+__fh__you're playing ?__c1
+__fg__huh ?__c2
+__s__you're playing ?__c1
+__%__yes i'm playing .__c2
+__s^bk__um - | so i wanted to do this experiment to see um - uh - what happens if we try to uh - improve the performance of the back end recognizer for the aurora task .__c2
+__s^bk__and see how that affects things .__c2
+__b__and so i had this um - i think i sent around last week a - this plan i had for an experiment .__c2
+__s^aa|s__this matrix where i would take the um - the original um - the original system .__c2
+__b__so there's the original system trained on the mel cepstral features .__c2
+__b__and then com- - and then uh - optimize the b- - h t k system and run that again .__c2
+__s__so look at the difference there .__c2
+__b__and then uh - do the same thing for the i. c. s. i. o. g. i. front end .__c2
+__b__what - which test set was this ?__c1
+__s.%--__this is ==__c2
+__s__that i looked at ?__c2
+__s__uhhuh .__c1
+__fh|s__uh - | i'm looking at the italian right now .__c2
+__b__uhhuh .__c1
+__fh__so as far as i've gotten is i've uh - been able to go through from beginning to end the um - full h t k system for the italian data .__c2
+__fh__and got the same results that um - that uh - stephane had .__c2
+__s.%--__so um - | i started looking - to - and now i'm - i'm sort of lookin- - at the point where i want to know what should i change in the h t k back end in order to try to - uh - to improve it .__c2
+__qy^d^rt__so ==__c2
+__s.%--__one of the first things i thought of was the fact that they use the same number of states for all of the models .__c2
+__b__uhhuh .__c1
+__fh__and so i went online and i uh - found a pronunciation dictionary for italian digits .__c2
+__s^cs__uhhuh .__c1
+__qy^d^g^rt__and just looked at you know the number of phones in each one of the digits .__c2
+__b__um - | you know sort of the canonical way of setting up a - an h m m system is that you use um - three states per phone .__c2
+__fh__and um - | so then the the - total number of states for a word would just be you know the number of phones times three .__c2
+__s__and so when i did that for the italian digits i got a number of states ranging on the low end from nine to the high end eighteen .__c2
+__s^bk__um - | now you have to really add two to that because in h t k there's an initial null and a final null .__c2
+__s__so when they use uh - models that have eighteen states there're really sixteen states .__c2
+__fg__they've got those initial and final null states .__c2
+__s^bk|s^ng.%--__and so um - | their guess of eighteen states seems to be pretty well matched to the two longest words of the italian digits .__c2
+__%--__the four and five which um - according to my you know sort of off the cuff calculation should have eighteen states each .__c2
+__s^bk|s^ng__uhhuh .__c1
+__x__and so they had sixteen .__c2
+__b__so that's pretty close .__c2
+__s^m__um - | but for the - most of the words are sh- - much shorter .__c2
+__fh__so the majority of them want to have nine states .__c2
+__s__and so theirs are s- - sort of twice as long .__c2
+__s__so | my guess - uh ==__c2
+__s^bk__and then if you - i - i printed out a confusion matrix um - uh - for the well matched case .__c2
+__qw__and it turns out that the longest words are actually the ones that do the best .__c2
+__qy__so my guess about what's happening is that you know if you assume a fixed - the same amount of training data for each of these digits .__c2
+__s^aa__and a fixed length model for all of them .__c2
+__s^bk__but the actual words for some of them are half as long .__c2
+__s__you really um - have - you know half as much training data for those models .__c2
+__s^bk__because if you have a long word and you're training it to eighteen states uh - you've got - you know you've got the same number of gaussians you've got to train in each case .__c2
+__fg|s__uhhuh .__c1
+__b__but for the shorter words - you know the total number of frames is actually half as many .__c2
+__s.%--__uhhuh .__c1
+__s__so - | it could be that you know for the short words there's - because you have so many states you just don't have enough data to train all those gaussians .__c2
+__s.%--__so um - | i'm going to try to um - create more word specific um - uh - prototype h m m's to start training from .__c2
+__fh|s__yeah i mean it's not at all uncommon you do worse on long word- - on short words than long words anyway just because you're accumulating more evidence for the - for the longer word .__c1
+__b__uhhuh .__c2
+__s__but ==__c1
+__s^bk__yeah | so i'll - i'll - the next experiment i'm going to try is to just um - you know create uh - models that seem to be more w- - matched to my guess about how long they should be .__c2
+__s__uhhuh .__c1
+__b__and as part of that um - i wanted to see sort of how the um ==__c2
+__s__how these models were coming out you know what w- - when we train up uh - th- - you know the model for one which wants to have nine states you know .__c2
+__fh__what is the - uh - what do the transition probabilities look like - in the self loops - look like in - in those models ?__c2
+__s^bk__and so i talked to andreas and he explained to me how you can calculate the expected duration of an h m m just by looking at the transition matrix .__c2
+__s__uhhuh .__c1
+__s__and so i wrote a little matlab script that calculates that .__c2
+__%-__and ==__c2
+__s^bk__so i'm going to sort of print those out for each of the words to see what's happening you know how these models are training up .__c2
+__s^aa__uhhuh .__c1
+__s^m^na__you know the long ones versus the short ones .__c2
+__s^aa__uhhuh .__c1
+__qy^bu^d__i d- - i did ==__c2
+__s^bk__quickly i did the silence model ==__c2
+__fh__and - and um ==__c2
+__s^aa__that's coming out with about one point two seconds as its average duration .__c2
+__s^am__and the silence model's the one that's used at the beginning and the end of each of the string of digits .__c2
+__fh__wow !__c1
+__fg__lots of silence .__c1
+__%--__yeah yeah .__c2
+__fg__and so the s p model which is what they put in between digits i - i haven't calculated that for that one yet .__c2
+__s^cs__but um ==__c2
+__s^cs__so they basically - their - their model for a whole digit string is silence digit s p digit s p blah blah blah and then silence at the end .__c2
+__b__and so ==__c2
+__b__are the s p's optional ?__c1
+__fh|s__i mean skip them ?__c1
+__b__i have to look at that but i'm not sure that they are .__c2
+__fh__now the one thing about the s p model is really it only has a single - s- - emitting state to it .__c2
+__s^df__uhhuh .__c1
+__s^df__so if it's not optional you know it's - it's not going to hurt a whole lot .__c2
+__s__i see .__c1
+__s^cs__and it's tied to the center state of the silence model so it's not its own .__c2
+__s^e__um - | it doesn't require its own training data .__c2
+__b__uhhuh .__c1
+__fh|s.%--__it just shares that state .__c2
+__b__uhhuh .__c1
+__s__so it - i mean it's pretty good the way that they have it set up .__c2
+__s__but um ==__c2
+__s__i- - so i want to play with that a little bit more .__c2
+__b__i'm curious about looking at you know - how these models have trained and looking at the expected durations of the models .__c2
+__%__and i want to compare that in the - the well matched case f- - to the unmatched case and see if you can get an idea of ==__c2
+__fg__just from looking at the durations of these models you know what - what's happening .__c2
+__s^rt__yeah i mean i think that uh - as much as you can it's good to - d- - sort of not do anything really tricky .__c1
+__fh__uhhuh .__c2
+__qo^tc__not do anything that's really finely tuned .__c1
+__h|s^rt__but just sort of uh - you know you t- - you i- - z- ==__c1
+__s^bk__yeah .__c2
+__fh|s__the premise is kind of if you have a - a good person look at this for a few weeks and what do you come up with .__c1
+__fh|s__huh .__c2
+__fh|s__uhhuh .__c2
+__fh|s__and uh ==__c1
+__fh|s__and hynek when i wa- - told him about this he had an interesting point .__c2
+__s__and that was th- - um - the - the final models that they end up training up have i think probably something on the order of six gaussians per state .__c2
+__s__so they're fairly you know hefty models .__c2
+__s__and hynek was saying that - well probably in a real application you wouldn't have enough compute to handle models that are very big or complicated .__c2
+__b__so in fact what we may want are simpler models .__c2
+__fh|s__could be .__c1
+__s__and compare how they perform to that .__c2
+__fh__but you know it depends on what the actual application is .__c2
+__fh|s__and it's really hard to know what your limits are in terms of how many gaussians you can have .__c2
+__b__right .__c1
+__fh__and that i mean at the moment that's not the limitation .__c1
+__s__so ==__c1
+__b__uhhuh .__c2
+__s^e__i mean i - i - i - what i thought you were going to say i- - but which i was thinking was um ==__c1
+__fh__where did six come from ?__c1
+__fh__probably it came from the same place eighteen came from .__c1
+__%--__yeah .__c2
+__s__you know ?__c1
+__s^bk__so ==__c1
+__fg__right .__c2
+__fh__uh - | that's another parameter .__c1
+__fh__right ?__c1
+__s__yeah yeah .__c2
+__fh__that - that maybe you know uh - you really want three or nine or ==__c1
+__s^cc__well one thing - i mean if i - if - if i start um - reducing the number of states for some of these shorter models that's going to reduce the total number of gaussians .__c2
+__s^e__so in a sense it'll be a simpler system .__c2
+__s__right .__c1
+__s__yeah .__c1
+__s__yeah .__c1
+__fh|s__but i think right now again the idea is doing just very simple things .__c1
+__s.%--__yeah .__c2
+__s.%--__how much better can you make it ?__c1
+__s^fa__uhhuh .__c2
+__s^bsc__and um - | since they're only simple things there's nothing that you're going to do that is going to blow up the amount of computation .__c1
+__s__right .__c2
+__s__um - so ==__c1
+__s__right .__c2
+__fh|s.%--__if you found that nine was better than six that would be okay i think actually .__c1
+__s__uhhuh .__c2
+__s__yeah .__c2
+__s^e__doesn't have to go down .__c1
+__fh|s__i really wasn't even going to play with that part of the system yet .__c2
+__fh|s__i was just going to change the - the t- ==__c2
+__fh|s__uhhuh okay .__c1
+__s^no__yeah just work with the models ?__c1
+__s__yeah | just look at the length of the models and just see what happens .__c2
+__s__yeah .__c1
+__b__yeah .__c1
+__s^cc__so ==__c2
+__s^df__cool .__c1
+__s^cc__okay .__c1
+__s^no__so uh - | what's uh ?==__c1
+__b__i guess your plan for - you - you - you guys' plan for the next - next week is just continue on these - these same things we've been talking about for aurora and ==__c1
+__fh|s.%--__yeah .__c3
+__fh__i guess we can try to have some kind of new baseline for next week perhaps .__c3
+__s^cc__with all these minor things modified .__c3
+__fh__and then do other things .__c3
+__s__play with the spectral subtraction .__c3
+__fh|s__and retry the m s g and things like that .__c3
+__fh|s^cc__yeah .__c1
+__s^cc__yeah .__c1
+__b__yeah | we - we have a big list .__c1
+__s__big list ?__c3
+__b__you have a big list of - of things to do .__c1
+__fg__so ==__c1
+__fh|s^tc__well that's good .__c1
+__b__i think that after all of this uh - um - confusion settles down in another ==__c1
+__s^co^t__some point a little later next year there will be some sort of standard and it'll get out there .__c1
+____and hopefully it'll have some effect from something that - that has uh - been done by our group of people .__c1
+__fg__but uh ==__c1
+__fg__e- - even if it doesn't there's - there's go- - there'll be standards after that .__c1
+__s__so ==__c1
+__s^aa__does anybody know how to um - run matlab ?__c2
+__qy^rt__sort of in batch mode like you c- - send it s- - a bunch of commands to run and it gives you the output .__c2
+__s__is it possible to do that ?__c2
+__%--__i - i think uh - mike tried it .__c8
+__s^ar__yeah ?__c2
+__s^nd__and he says it's impossible so he went to octave .__c8
+__%__octave is the um - unix clone of - of matlab which you can batch .__c8
+__s^aa__octave .__c2
+__s.%--__uh .__c2
+__fg__okay .__c2
+__s^fe__great .__c2
+__s.%-__thanks .__c2
+__s^cs.%--__yeah .__c8
+__s__i was going crazy trying to do that .__c2
+__fh__huh .__c1
+__s^ar__yeah .__c8
+__s__what is octave so ?__c3
+__%-__what's that ?__c8
+__b__it's a free software ?__c3
+__s__uh - | octave ?__c8
+__b__yeah .__c3
+__s^bk__yeah it's - it's - it's free .__c8
+__s__i think we have it here r- - running somewhere .__c8
+__s^bk__great .__c2
+__s^ng.%--__yeah .__c8
+__s^df__and it does the same syntax and everything .__c3
+__s^nd.%--__uh ?__c3
+__s^df__um - | i- - it's a little behind .__c8
+__s__like matlab or ?==__c3
+__s__it's the same syntax but it's a little behind in that matlab went to these like - um ==__c8
+__s__you can have cells and you can - you can uh - implement object oriented type things with matlab .__c8
+__s^bk|s__uh - octave doesn't do that yet .__c8
+__s^nd.%--__so i think you ==__c8
+__s^df__octave is kind of like matlab .__c8
+__s^bk__um - | four point something or ==__c8
+__s^bk__if it'll do like a lot of the basic matrix and vector stuff .__c2
+__x__the basic stuff right .__c8
+__s.%--__that's perfect .__c2
+__qy^d^f^g__yeah .__c8
+__s__great !__c2
+__b__okay guess we're done .__c1
+__b__okay .__c8
+__b__well | although by the way ==__cb

@@ -1,0 +1,1245 @@
+__z__all right .__c8
+__z__so ==__c8
+__z__so are you ?==__c4
+__z__are we going ?__c4
+__z__it is uh must be february fifteenth .__c8
+__z__yeah .__cb
+__z__yu- ==__c4
+__z__i think the date's written in there yep .__c4
+__z__and actually if everyone could cross out the r nine next to session and write m r eleven .__c4
+__z__yeah .__c8
+__z__yeah .__c8
+__z__we didn't have a front end meeting today .__c8
+__z__and let's remember also to make sure that one's gets marked as unread unused .__c4
+__z__okay .__c8
+__z__m r eleven ?__c1
+__z__m r eleven .__c4
+__z__that sounds like a spy code .__cb
+__z__huh .__c8
+__z__okay .__c8
+__z__so ==__c8
+__z__there's lots of clicking i'm sure as i'm trying to get this to work correctly .__c4
+__z__agenda .__c8
+__z__any agenda items today ?__c8
+__z__i want to talk a little bit about getting - how we're going to to get people to edit bleeps parts of the meeting that they don't want to include .__c4
+__z__what i've done so far and i want to get some opinions on how to - how to finish it up .__c4
+__z__okay .__c8
+__z__i want to ask about um some aud- - audio monitoring on some of the um well some of the equipment .__cb
+__z__in particular the ==__cb
+__z__well uh that's just what i want to ask .__cb
+__z__okay audio monitoring jane .__c8
+__z__ba- - based on some of the tran- - uh i- ==__cb
+__z__in listening to some of these meetings that have already been recorded there are sometimes big spikes on particular things .__cb
+__z__and in pact - in fact this one i'm talking on is one of - of the ones that showed up in one of the meetings .__cb
+__fg__so i ==__cb
+__qy^t^tc__oh really ?__c4
+__s__uhhuh .__cb
+__s^na__yeah .__cb
+__s__spikes you mean like uh instantaneous click type spikes or ?==__c2
+__s^r__spikes ?__c1
+__%-__clicks .__c4
+__s__yeah .__cb
+__s^df__huh .__c8
+__qy^rt__yeah .__cb
+__s^no__huh .__c2
+__s^df__and i don't know what the e- - electronics is but ==__cb
+__s^bk__yeah .__cb
+__s^bk__yeah .__c4
+__s^e__well i think it's ==__c4
+__s^bk|s__touching .__c1
+__qy__uh | it - it could be a number of things .__c4
+__s__it could be touching and fiddling .__c4
+__h|s^na__yeah .__c1
+__b__and the other thing is that it could ==__c4
+__s^ba__the fact that it's on a wired mike is suspicious .__c4
+__h__it might be a connector .__c4
+__s.%--__oh okay .__cb
+__%-__well maybe ==__cb
+__s^bd__then we don't really have to talk about that as an ==__cb
+__qy^bu^d__i - i take that off the agenda .__cb
+__s^na__you could try an experiment and say okay i'm about to test for spikes .__c2
+__s__and then wiggle the thing there .__c2
+__s^df__and then go and when they go to transcribe it it could ask them to come and get you .__c2
+__s^cs__yeah .__c4
+__s^e__right .__c4
+__s^bk__oh that ==__cb
+__b__come get me when you transcribe this and see if there's spikes .__c2
+__s^cs__um ==__c8
+__%--__well okay .__cb
+__s^ng__no i'm just ==__c2
+__s^df__@reject@ .__c2
+__b__i mean were this a professional audio recording what we would do - what you would do is - in testing it is you would actually do all this wiggling and make sure that - that - that things are not giving that kind of performance .__c8
+__s^cs.%--__and if they are then they can't be used .__c8
+__s^bk__right .__c4
+__s^cs__so ==__c8
+__s^na__um | let's see .__c8
+__b__i guess i would like to have a discussion about you know where we are on uh recording transcription .__c8
+__s__you know basically you know where we are on the corpus .__c8
+__s^t^tc__good .__cb
+__s__and then um the other thing which i would like to talk about which is a real meta quest i think deal is uh agendas .__c8
+__s__so maybe i'll - i'll start with that actually .__c8
+__s__uh um | andreas brought up the fact that he would kind of like to know if possible what we were going to be talking about .__c8
+__s__because he's sort of peripherally involved to this point .__c8
+__qw__and if there's going to be a topic about - discussion about something that he uh strongly cares about then he would come .__c8
+__s^cs__and - and i think part of - part of his motivation with this is that he's trying to help us out .__c8
+__s^cs^e__in the - because of uh the fact that the meetings are - are tending to become reasonably large now on days when everybody shows up .__c8
+__s__and so he figures he could help that out by not showing .__c8
+__b__and - and i'm sure help out his own time .__c8
+__s__huh .__c4
+__s^e__by not showing up if it's a meeting that he's - he's ==__c8
+__s^cs.%--__so uh in order ==__c8
+__s__i'd - i think that this is a wish on his part .__c8
+__s^bk|qy^bu^d^rt__uh | it's actually going to be hard .__c8
+__s^cs__because it seems like a lot of times uh things come up that are unanticipated .__c8
+__s__and - and ==__c8
+__b__but um we could try anyway .__c8
+__b__right .__c4
+__s__uh - | do another try at coming up with the agenda uh at some point before the meeting .__c8
+__s^df.%-__uh | say the day before .__c8
+__s__well maybe it would be a good idea for one of us to like on wednesday or tuesday send out a reminder for people to send in agenda items .__c4
+__s^bu__yeah .__c1
+__b__okay .__c8
+__s^aa|s^e__you - you want to volunteer to do that ?__c8
+__s^bk^fe__sure .__c4
+__s^bk__okay .__c8
+__s^e__all right so we'll send out agenda request .__c8
+__b__uh ==__c8
+__fg|s__let me ==__c4
+__fg__that'll be ==__c2
+__s^bu__i think that'll help ==__c2
+__s^aa__i'll put that on my spare brain or it will not get done .__c4
+__s^aa__that'll help a lot actually .__c2
+__s^bk__yeah i have to tell you for the uh for the admin meeting that we have lila does that um every time before an admin meeting .__c8
+__s^rt__and uh she ends up getting the agenda requests uh uh ten minutes before the meeting .__c8
+__s^df__but - but - but ==__c8
+__s__uh but we can try .__c8
+__s^df__maybe it'll work .__c8
+__s^ba__yeah .__c4
+__qw__huh .__c2
+__s^rt__maybe .__c4
+__s^bk|s^ba__yeah .__c8
+__s^aa|s^na__weirder things have happened .__c4
+__s^cs__i'm wondering if he were to just uh specify particular topics .__cb
+__s^aa__i mean ==__cb
+__s^bk__maybe we'd be able to meet that request of his a little more .__cb
+__s^e__i would - i would also guess that as we get more into processing the data and things like that there'll be more things of interest to him .__c2
+__fg|qy^bu^d^rt__well then ==__c4
+__b__yeah .__c8
+__s^bc__actually | it ==__c8
+__s^bc__this - this maybe brings up another topic which is um ==__c8
+__qh^bk__so we're done with that topic .__c8
+__b__the other topic i was thinking of was the sta- - status on microphones and channels and all that .__c8
+__%--__yeah actually i - i was going to say we need to talk about that too .__c4
+__fg|s^cs__yeah .__c8
+__s^aa__why - why don't we do that ?__c8
+__s^bk__okay .__c4
+__s^bk__um | the new microphones - the two new ones are in .__c4
+__b__um | and they are being assembled as we speak i hope .__c4
+__s^ba.%-__and i didn't bring my car today so i'm going to pick them up tomorrow .__c4
+__b__um | and then the other question i was thinking about is - well a couple things .__c4
+__qh__first of all if the other headsets are a lot more comfortable we should probably just go ahead and get them .__c4
+__s^cs.%--__so we'll have to evaluate that when they come in .__c4
+__b__and get people's opinions on - on what they think of them .__c4
+__s^ba__uhhuh .__c1
+__fg|qw__um | then the other question i had is maybe we should get another wireless .__c4
+__s__another wireless setup .__c4
+__s__i mean it's expensive but it does seem to be better than the wired .__c4
+__qh^bk^d__so how many channels do you get to have in a wireless setup ?__c8
+__s__um well | i'm pretty sure that you can daisy chain them together .__c4
+__s__so what we would do is replace the wired mikes with wireless .__c4
+__s__so we currently have one base station with six wireless mike .__c4
+__s^ba__possibility of six wireless receivers .__c4
+__s^aa__and apparently you can chain those together .__c4
+__b__and so we could replace our wired mikes with wireless if we bought another base station and more wireless mikes .__c4
+__s^ba__so um ==__c8
+__b__and ==__c4
+__b__so let's see we ==__c8
+__s__so you know it's still it's fifteen minus six .__c4
+__s^aa__right ?__c4
+__s^bk|qy^bu^d__so we could have up to nine .__c4
+__s^aa__and right now we can have up to six .__c8
+__s^bk|s^ba__right .__c4
+__s^df.%--__and we have five we're getting one more .__c4
+__s__yeah .__c8
+__s^ar|s^na__and it's um about nine hundred dollars for the base station .__c4
+__s__and then eight hundred per channel .__c4
+__s^df__oh .__c8
+__b__so yeah so the only ==__c8
+__b__beyond the mike - the cost of the mikes the only thing is the base station that's nine hundred dollars .__c8
+__s^co__right .__c4
+__s.%__oh we should do it .__c8
+__s__okay .__c4
+__s__yeah .__c8
+__s^bk__okay so i'll look into how you daisy chain them and - and then just go ahead and order them .__c4
+__s^bu__yeah .__c8
+__h|s^aa^rt__i don't quite understand how that - how that works .__c2
+__s^cs__if ==__c2
+__s__so we're not increasing the number of channels .__c2
+__s^cs__no | we're just replacing the wired - the two wired that are still working .__c4
+__s^bk.%__okay .__c2
+__s^cs__okay .__c2
+__b__i see .__c2
+__s^bu__along with a couple of the wired that aren't working - one of the wired that's not working with a wireless .__c4
+__b__yeah .__c8
+__qy^d^f^g__basically we found ==__c8
+__b__three wireds work .__c2
+__s^aa__right ?__c2
+__b__i - i guess three wireds work yeah .__c4
+__fh__yeah .__c2
+__s__yeah .__c2
+__s^df.%--__yeah .__c8
+__s__but we've had more problems with that .__c8
+__s^aa__yep .__c4
+__s__and that sort of bypasses the whole - the whole jimbox thing and all that .__c8
+__s^df^e__right .__c4
+__s__and so um we - we seem to have uh a reliable way of getting the data in which is through the ra- - sony radio mikes .__c8
+__s^df__as long as we're conscious about the batteries .__c8
+__s^aa__that seems to be the key issue .__c8
+__s__right .__c4
+__b__everyone's battery okay ?__c4
+__s^bk^fe__i checked them this morning .__c2
+__b__they should be .__c2
+__b__okay .__c4
+__b__yeah .__c8
+__s.%--__um | because that's the only thing with them .__c8
+__s.%--__but the quality seems really good .__c8
+__s__and ==__c8
+__b__um | i heard from u w that they're - they're uh very close to getting their uh setup purchased .__c8
+__s__they're - they're - they're buying something that you can just sort of buy off the shelf .__c8
+__b__well we should talk to them about it because i know that s r i is also in the process of looking at stuff .__c4
+__s__and so you know what we should try to keep everyone - on the same page with that .__c4
+__s^na|s^ba__yeah .__c8
+__s__s r i ?__c2
+__s__really ?__c2
+__s.%--__yeah .__c4
+__s__oh .__c2
+__s__they got sa- - apparent- ==__c4
+__b__well maybe this needs to be bleeped out ?__c4
+__s^bd__i have no clue .__c4
+__fh__uh | i don't know .__c8
+__s^na__i don't know how much of it's public .__c4
+__%-__probably we shouldn't - probably we shouldn't talk about funding stuff .__c8
+__s^aa__right .__c4
+__s^df__yeah .__c8
+__%-__but anyway there's - there's - there's uh uh other activities that are going on there and - and uh and nist and u w .__c8
+__s^aa__so ==__c8
+__s__um | but - but yeah i thin- - i think that at least the message we can tell other people is that our experience is - is quite positive with the sony .__c8
+__fg|s__uh radio mikes .__c8
+__fh__right .__c4
+__s^cs__now the one thing that you have said that actually concerns me a little is you're talking about changing the headsets .__c8
+__s^bk__meaning changing the connector which means some hand soldering or something .__c8
+__b__right ?__c8
+__b__uh | no .__c4
+__s^bk|s__no ?__c8
+__s__we're having the - them do it .__c4
+__s^2__so it's so- - hand soldering it but i'm not doing it .__c4
+__b__oh .__c8
+__s^bd__okay .__c8
+__fh__so they - they charge .__c4
+__s^bk__nothing against you and your hand soldering .__c8
+__fg|s^t^tc__right ?__c4
+__s.%--__but ==__c8
+__s__you've never seen my hand soldering .__c4
+__s__but uh a- - as i said they're coming in .__c4
+__s__uh | okay so that's being done professionally ==__c8
+__s__and ==__c8
+__s^2__yeah .__c8
+__s^aa__i - i mean ==__c4
+__s.%-__yeah .__c4
+__%-__i mean ==__c4
+__b__yeah .__c8
+__s__as professionally as i guess you can get it done .__c4
+__s__well it could ==__c8
+__s^bk__if they do a lot of it it's ==__c8
+__s__i mean i- - it's just their repair shop .__c4
+__b.%__right ?__c4
+__s^bk__their maintenance people .__c4
+__s^no__well we'll see what it - it's like .__c8
+__s^cs__yep .__c4
+__s^ar|s^df__that - tha- - that can be quite good .__c8
+__%-__th- - this ==__c8
+__s^bk|s^ba__yeah okay .__c8
+__%--__good .__c8
+__b__yeah .__c8
+__s__so let's go with that .__c8
+__s^aa__uh ==__c8
+__s__and i mean we'll see tomorrow you know what it looks like .__c4
+__s__yeah .__c8
+__s:s__so um uh dave isn't here but he was going to start working on some things with the digits .__c8
+__s__uh | so he'll be interested in what's going on with that .__c8
+__s__i guess ==__c8
+__fh__was - the decision last time was that the - the uh transcribers were going to be doing stuff with the digits as well ?__c8
+__b__uhhuh .__cb
+__s__has that started or is that ?==__c8
+__s^bk__yeah .__cb
+__fg|s^tc__uh it would be to use his interface and i was going to meet with him today about that .__cb
+__s^bu__right | so | the decision was that jane did not want the transcribers to be doing any of the paperwork .__c4
+__s^aa__so i did the - all that last week .__c4
+__qy^d^g^rt__so all the - all the forms are now on the computer .__c4
+__s^bu__and uh then i have a bunch of scripts that we'll read those and let the uh transcribers use different tools .__c4
+__s^aa__and i just want to talk to jane about how we transition to using those .__c4
+__s^bk__uhhuh .__cb
+__fh__so he has a nice set up that they ==__cb
+__s__it w- - it will be efficient for them to do that .__cb
+__s^e__okay .__c8
+__s^bd__so anyway ==__c8
+__s__i - i don't think it'll take too long .__c4
+__fh__so you know just uh a matter of a few days i suspect .__c4
+__s__so anyway i think we - we have at least one uh user for the digits once they get done which will be dave .__c8
+__s__right .__c4
+__s__i've already done five or six sets .__c4
+__%--__okay .__cb
+__s.%--__so if he wanted to you know just have a few to start with he could .__c4
+__s__yeah he might - he might be asking ==__c8
+__fh__you know and i also have a bunch of scripts that will like generate p files and run recognition on them also .__c4
+__s^ba__right .__c8
+__s__okay .__c8
+__s__uh | is dave ?==__c8
+__s__i don't know if dave is on the list .__c8
+__s__if he's invited to these meetings ==__c8
+__fh__uh ==__c8
+__s__i don't tend to get an invitation myself for them even .__cb
+__fh__if he knows ==__c8
+__s__no no .__c1
+__fh__uh | we don't have a active one .__c4
+__qw^rt__but i'll make sure he's on the list .__c4
+__s__yeah .__cb
+__s__should we call him ?__cb
+__%-__i mean is he d- - is he definitely not available today ?__cb
+__s^bk__i don't know .__c8
+__fh__should i call his office and see ?__cb
+__s^rt__uh well | i- - it's uh ==__c8
+__%-__he was in .__c1
+__s__i mean he's still taking classes so uh he may well have conflicts .__c4
+__qy.%-__yeah .__c1
+__s__yeah .__c8
+__s__yeah | he was in s- ==__c1
+__s__he wasn't there at cof- ==__cb
+__b__yeah so this might be a conflict for him .__c8
+__s__yeah .__c1
+__s__okay .__cb
+__s^ba__yeah .__c8
+__s^df__okay .__c8
+__s.%-__uh | so ==__c8
+__s^ba^fe__yeah didn't he say his signal processing class was like tuesdays and thursdays ?__c4
+__s^na__i think he has a class .__c1
+__b__yeah .__c1
+__s__yeah .__c2
+__s^aa__he might have .__c2
+__b__oh okay .__c8
+__s__you talking about david gelbart ?__c5
+__s__oh well whatever .__c4
+__b__yeah .__c8
+__s__yeah .__c2
+__s__yeah .__c4
+__b__yes .__cb
+__b__yeah .__c1
+__b__yeah i think he's taking two twenty five a which is now .__c5
+__b__yeah .__c8
+__s__okay .__cb
+__s__so ==__c5
+__s__yeah .__c2
+__s^am__okay .__c8
+__%-__so that's why we're not seeing him .__c8
+__s^bu^rt__okay .__c8
+__qy^g^rt__uh | transcriptions uh beyond the digits where we are and so on .__c8
+__s^e^rt__okay .__cb
+__qy^rt__and the - and the recordings also .__c8
+__s^ar__um ==__cb
+__s__just where we are .__c8
+__%-__yeah .__c8
+__b__well | so um - should we - we don't wan- - want to do the recording status first or ?==__cb
+__s__well | we have about thirty two hours .__c4
+__%--__uh - | as of i guess a week and a half ago .__c4
+__s__so we probably now have about thirty five hours .__c4
+__%-__and - and that's - that's uh ==__c8
+__%-__how much of that is digits ?__c8
+__b.%__it's uh ==__c8
+__s__that's including digits .__c8
+__s__that's including digits .__c4
+__b__right ?__c8
+__b__so ==__c8
+__s__i haven't separated it out so i have no clue how much of that is digits .__c4
+__s^2.%--__yeah .__c8
+__s__so anyway there's at least probably thirty hours .__c8
+__b__or something of ==__c8
+__b__there's got to be more than thirty hour ==__c8
+__s__i- - it couldn't ==__c8
+__s__of - of non digits ?__c4
+__b__of - of non digits .__c8
+__fh__huh .__c1
+__b__yeah absolutely .__c4
+__b__yeah yeah .__c8
+__s__i mean the digits don't take up that much time .__c4
+__s^aa__okay .__c8
+__b__okay | and the transcribers h- ==__cb
+__s__i uh don't have the exact numbers .__cb
+__s.%--__but i think it would come to about eleven hours that are finished uh transcribing from them right now .__cb
+__%--__the next step is to - that i'm working on is to insure that the data are clean first and then channelized .__cb
+__s__what i mean by clean is that they're spell checked .__cb
+__b__that the mark up is consistent all the way throughout .__cb
+__s^e__and also that we now incorporate these additional conventions that uh liz requested in terms of um um in terms of having a s- - a systematic handling of numbers and acronyms which i hadn't been specific about .__cb
+__s.%-__um | for example i- - they'll say uh ninety two .__cb
+__qw^rt__and you know so how - you could ==__cb
+__qy^e^rt__nine two .__c4
+__s__e- - exactly .__cb
+__s__right .__c4
+__s.%--__so if you just say nine two the - there are many s- - ways that could have been expressed .__cb
+__fh__an- - and i just had them ==__cb
+__s__i - i mean a certain number of them did put the words down .__cb
+__s__but now we have a convention which also involves having it followed by um a gloss th- - and things .__cb
+__fh__you know jane ?__c2
+__s.%--__uhhuh .__c4
+__fh__um one suggestion ==__c2
+__s^no__and you may already be doing this .__c2
+__s.%--__but i've noticed in the past that when i've gone through transcriptions - and you know in - in order to build lexicons and things ==__c2
+__fh__if you um just take all the transcriptions and separate them into words and then alphabetize them a lot of times just scanning down that list you'll find a lot of inconsistencies and mis- ==__c2
+__s__misspelled .__c4
+__s.%--__yeah .__c1
+__b__you're talking about the type token frequency listings and i use those too .__cb
+__s^e__y- - you mean just uh on each - on each line there's a one word .__cb
+__s.%--__right ?__cb
+__fh__it's one token from the - from the corpus .__cb
+__s^no__uhhuh .__c2
+__fh__uhhuh .__c2
+__s^no__yeah those are e- - extremely efficient .__cb
+__s.%--__and i- - and i - i agree that's a very good use of it .__cb
+__s^bd__oh | so you already have that .__c2
+__s__okay .__c2
+__qy__well that's - that's a way - that's ==__cb
+__s^e__you know the spell check basically does that .__cb
+__s^no__but - but in addition ==__cb
+__s^bk__yes that's - that's exactly the strategy i want to do in terms of locating these things which are you know colloquial spoken forms which aren't in the lexicon .__cb
+__s__uhhuh .__c2
+__s__exactly .__cb
+__qy__because a lot of times they'll appear next to each other and uh ==__c2
+__%--__and then you ca- - then you can do a s- ==__cb
+__s.%--__yeah .__c1
+__s^no__i- - in alphabetized lists they'll appear next to each other and - and so it makes it easier .__c2
+__%--__absolutely .__cb
+__b__i agree .__cb
+__s^ba__that's a very good - that's a very good uh suggestion .__cb
+__%-__and that was - that's my strategy for handling a lot of these things in terms of things that need to be glossed .__cb
+__s^df__i didn't get to that point .__cb
+__b__but ==__cb
+__s__so there are numbers then there are acronyms .__cb
+__s__and then um there's a - he- - she wants the uh actually a - an explicit marker of what type of comment this is .__cb
+__b__so i- - curly b- - inside the curly brackets i'm going to put either voc for vocalized .__cb
+__s__like cough or like laugh or whatever .__cb
+__s__nonvoc for door slam .__cb
+__qo__and gloss for things that have to do with - if they said a s- - a spoken form with this m- - this pronunciation error .__cb
+__qw^e__right .__c4
+__fh__i already had that convention .__cb
+__s__but i - i haven't been asking these people to do it systematically .__cb
+__qw__oh that's great .__c2
+__%-__because i think it most - ha- - most efficiently handled by uh by a - a filter .__cb
+__fh__that was what i was always planing on .__cb
+__s^j__so that you know you get a whole long list ==__cb
+__s^ba^fe__exactly what you're saying .__cb
+__fh__you get a whole list of things that say curly bracket laugh curly bracket .__cb
+__s.%-__uhhuh .__c2
+__%-__then y- - you know it's - it's ==__cb
+__s^bu__you - you risk less error if you handle it by a filter than if you have this transcriber ch- - laboriously typing in sort of a voc space ==__cb
+__s^bu^rt__yeah .__c2
+__s^aap__so man- - so many ways that error prone .__cb
+__qy^d^f^g__right .__c2
+__s^bk__right .__c2
+__s^df.%-__so um um i'm - i'm going to convert that via a filter into these tagged uh subcategorized comments .__cb
+__fg|s__and same thing with you know we see you get a subset when you do what you're saying .__cb
+__s^aa__you end up with a s- - with uh you're collapsing across a frequency you just have the tokens .__cb
+__fg|s__uhhuh .__c2
+__s__and you can um have a filter which more efficiently makes those changes .__cb
+__s__uhhuh .__c2
+__fh__but the numbers and acronyms have to be handled by hand .__cb
+__s__because you know i mean jus- ==__cb
+__b__you don't know what they could be .__c4
+__s^e__yeah | now timit's clear um - and p l p is clear .__cb
+__b__yeah .__c2
+__s^e__but uh there are things that are not so well known in ==__cb
+__fh__or - or have variant u- - u- - uses like the numbers you can say nine two or you can say ninety two .__cb
+__s__and uh ==__cb
+__s__so how are you doing the ?==__c4
+__s__i'd handle the numbers individually .__cb
+__qo^rt__how are you doing the uh acronyms so if i say p z m what would it appear on the transcript ?__c4
+__s^j__it would be separate .__cb
+__fh__the letters would be separated in space .__cb
+__s^aa|s.x__okay .__c4
+__s^e__and potentially they'll have a curly bracket thing afterwards .__cb
+__fh__e- ==__cb
+__s__but i'm not sure if that's necessary clarifying what it is .__cb
+__s__uhhuh .__c4
+__s__so gloss of whatever .__cb
+__b__right .__c4
+__fh__i don't know if that's really necessary to do that .__cb
+__b__maybe it's a nice thing to do because of it then indicating this is uh a step away from i- - indicating that it really is intentional that those spaces are there .__cb
+__s__and indicating why they're there to indicate that it's uh the you know uh - enumerated or i- ==__cb
+__b__uhhuh .__c4
+__b__it's not a good way of saying .__cb
+__b.x__but it's - it's the specific uh way of stating these - these letters .__cb
+__s__right .__c4
+__s__so it sounds good .__c4
+__qy^rt__and so anyway the clean - those are those things .__cb
+__h|s^no__and then channelized is to then um get it into this multichannel format .__cb
+__s^e__and at that point then it's ready for use by liz and don .__cb
+__s^r__but that's been my top priority - beyond getting it tanel- - channelized .__cb
+__s.%--__the next step is to work on tightening up the boundaries of the time bins .__cb
+__s^rt__yeah .__c1
+__%--__right .__c4
+__fh__and uh thilo had a e- - e- - a breakthrough with this - this last week in terms of getting the channel based um uh s- - s- - speech-nonspeech segmentation um up and running .__cb
+__s__and i haven't - i haven't been able to use that yet .__cb
+__b__because i'm working ==__cb
+__s^bd__s- - re- ==__cb
+__fh__this is my top priority - get the data clean and channelized .__cb
+__s.%--__i actually gave ==__c1
+__b__have you also been doing spot checks jane ?__c4
+__s.%--__oh yes .__cb
+__%--__okay good .__c4
+__s^rt__well you see that's part of the cleaning process .__cb
+__b__i spent um ==__cb
+__b__actually um i have a segment of ten minutes that was transcribed by two of our transcribers .__cb
+__fg|s__oh good .__c4
+__s__good .__c4
+__s__and i went through it last night it's - it's almost spooky how similar these are word for word .__cb
+__s__and there are some differences in commas because commas i - i left them discretion at commas .__cb
+__qy^bu^d^rt^t^tc__right .__c4
+__s^aa__uh - | and so ==__cb
+__s__because it's not part of our st- - of our ne- - needed conventions .__cb
+__s__uhhuh .__c8
+__s__and um ==__cb
+__s__and - so they'll be a difference in commas .__cb
+__s^df__but it's word by word the same in - in huge patches of the data .__cb
+__b__and i have t- - ten minute stretch where i can - where i can show that .__cb
+__fh__and - and sometimes it turns out that one of these transcribers has a better ear for technical jargon .__cb
+__s^e__and the other one has a better ear for colloquial speech .__cb
+__s^df__so um the one i- - i- - the colloquial speech person picked up gobbledy gook .__cb
+__s^ba__huh .__c2
+__s__and the other one didn't .__cb
+__s__and on this side this one's picking up things like neural nets and the one that's good on the sp- - o- - on th- - the vocabulary on the uh colloquial didn't .__cb
+__s__right .__c4
+__s__when ==__c2
+__s.%--__for the person who missed gobbledy gook what did they put ?__c2
+__s^df.%--__it was an interesting approximation put in parentheses .__cb
+__s__because i have this convention that i- - if they're not sure what it was they put it in parentheses .__cb
+__s.%-__oh .__c2
+__s__so they tried to approximate it but it was ==__cb
+__s^bk__oh good .__c2
+__s^f__it was spelled g a b b l ==__cb
+__s^df^e__sort of how it sounds ?__c2
+__s__yes .__cb
+__fh__more of an attempt to ==__cb
+__s^bk|s^ba.%-__yeah .__c2
+__s__i mean apparently it was very clear to her that these - the- - a- - this - this was a sound - these are the sounds .__cb
+__%-__it was a technical term that she didn't recognize .__c4
+__b__yeah .__c2
+__s__but ==__cb
+__s^bk__yeah .__cb
+__s^ba__but she knew that she didn't know it .__cb
+__s^rt__maybe it was a technical ter- ==__cb
+__qy^bu^d^rt__exactly .__cb
+__s^aa__but she even - though her technical perception is just really - uh you ==__cb
+__s^ba__know i've - i'm tempted to ask her if she's taken any courses in this area or if she's taken cognitive science courses .__cb
+__qy^bu^d^rt__right .__c4
+__s^cs.%--__then because neural nets and - oh she has some things that are - oh down sampled she got that right .__cb
+__s^cs^e__huh .__c2
+__s^cs^e__and some of these are rather uh unexpected .__cb
+__s^cs^e__obscure .__c4
+__s__yeah .__c4
+__s^ng__but ch- - ten solid uh m- - ch- - s- - chunk of ten solid minutes where they both coded the same data .__cb
+__s__and um ==__cb
+__s^bk__and - and again the main track that you're working with is elev- - eleven hours ?__c8
+__s__is that right ?__c8
+__s__yes exactly .__cb
+__fg|s__yeah okay .__c8
+__s__and that's part of this ==__cb
+__s__eleven hours .__cb
+__s^ba__is that - is that - that including digits ?__c8
+__s^bk__yes it is .__cb
+__s__yeah .__c8
+__s__so let's say roughly ten hours or so of ==__c8
+__s__uhhuh .__cb
+__fh__i mean it's probably more than that but - but with - of - of non digits .__c8
+__s^cs__it'd be more than that .__cb
+__s__yeah .__c1
+__fh__because i - my recollection is the minutes - that da- - digits don't take more than half a minute per person .__cb
+__s__oh okay .__c8
+__s__but um the - the total set that i gave them is twelve hours of tape .__cb
+__s^df^no__oh i see .__c8
+__s__but they haven't gotten to the end of that yet .__cb
+__b__so they're still working - some of them are - two of them are still working on completing that .__cb
+__b__oh i see .__c8
+__s__yeah .__cb
+__s__boy they're moving right along .__c2
+__b__yeah | they are .__cb
+__fh__yeah .__c8
+__b__uhhuh | they're very efficient .__cb
+__s^ba__there're some who have more hours that they devote to it than others .__cb
+__s__uhhuh .__c8
+__fh__uhhuh .__c2
+__s__yeah .__cb
+__s__so what - what - what's the deal with - with your ?==__c8
+__s__the channel u- - thing ?__c1
+__s^bk__yeah .__c8
+__s^bk__oh it's just uh i ran the recognizer - uh the speech-nonspeech detector on different channels .__c1
+__s.%-__and it's just in uh - in this new multi channel format and output .__c1
+__s^ba__and i just gave one - one meeting to - to liz who wanted to - to try it for - for the recognizer .__c1
+__b__oh i see .__c8
+__fh|qw^t^tc__as uh apparently the recognizer had problems with those long chunks of speech which took too much memory or whatever .__c1
+__b__right .__c8
+__s.%--__yeah .__c8
+__%--__and so she - she will try that i think .__c1
+__s.%--__and ==__c1
+__s__i'm - i'm working on it .__c1
+__s__so i hope ==__c1
+__s__is this anything different than the h m m system you were using before ?__c4
+__s__yeah .__c8
+__%--__no .__c1
+__s__uh | i huh use some - some different features but not - not ==__c1
+__fh__uhhuh .__c4
+__s__the basic thing is this h m m base .__c1
+__s^cs__so there's still no - no knowledge using different channels at the same time .__c4
+__s^cs__you know what i mean ?__c4
+__s^cs__there is some uh as the energy is normalized across channels .__c1
+__s^cs__across all of them .__c4
+__s^cs__yeah .__c1
+__s__okay .__c4
+__s__so ==__c1
+__s^am^ba__but basically that's one of the main changes .__c1
+__b__uhhuh .__c4
+__b__uhhuh .__c8
+__s__what are some of the other features besides the energy ?__c8
+__s__you said you're trying some different features or something .__c8
+__s^bk__oh i just uh - huh - i just use um - our loudness based things .__c1
+__s^ng__now as they ==__c1
+__s__before there were - they were some in - in the log domain and i - i changed this to the - to the ==__c1
+__b__cu- - cube root .__c8
+__s__yeah .__c1
+__b__to ==__c1
+__b__no | i changed this to the - to the - to the loudness thingy with the - with the ==__c1
+__s.%--__huh .__c4
+__s__uh .__c8
+__b__how do you call it ?__c1
+__s__i'm not sure .__c1
+__b__with the uh ==__c1
+__s^ba__fletcher munson ?__c8
+__s.%--__no .__c8
+__fh__i'm not sure about the term .__c1
+__s^no__oh okay .__c8
+__s__uh i'll look it up .__c1
+__fh__yeah all right .__c8
+__s^ba__and say it to you .__c1
+__s__uh okay and ==__c1
+__fh__yeah .__c1
+__s__that's - that's basically the - the - the thing .__c1
+__b__okay .__c8
+__s__yeah | and i - and i tried t- - to normalize uh uh the features there's loudness and modified loudness um - within one channel .__c1
+__s__because they're - yeah to - to be able to distinguish between foreground and background speech .__c1
+__fh__and it works quite well .__c1
+__s__but not always .__c1
+__s__uhhuh .__c8
+__b__uhhuh .__c8
+__s^df.%--__so ==__c1
+__b__okay .__c8
+__s__good .__c4
+__s.%--__um let's see .__c8
+__s__i think the uh ==__c8
+__s^e.%--__were - were you basically done with uh transcriptions or ?==__c8
+__s__so i guess the next thing is this uh bleep editing .__c8
+__s^ba^bd__right .__c4
+__s^df__so the - the idea is that we need to have ==__c4
+__s.%--__we need to provide the transcripts to every participant of every meeting to give them an opportunity to bleep out sections they don't want .__c4
+__s__so i've written a bunch of tools that will generate web pages uh with the transcription in it so that they can click on them and piece - pieces and they can scroll through and read them .__c4
+__s^df__and then they can check on each one if they want it excluded .__c4
+__s^bk|s^ba^ng__and then it's a form - h t m l form so they can submit it and it will end up sending me e mail with the times that they want excluded .__c4
+__s__and so uh some of the questions on this is what do we do about the privacy issue .__c4
+__s^e^rt__yeah .__c8
+__s__and so i thought about this a little bit and i think the best way to do it is every participant will have a password .__c4
+__fh__a single password .__c4
+__s^bk__each person will have a single password user name and password .__c4
+__s^cs__and then each meeting we'll only allow the participants who were at that meeting to look at it .__c4
+__s__and that way each person only has to remember one password .__c4
+__b__i - i can't help but wonder if this is maybe a little more elaborate than is needed .__c8
+__s__i mean if people have ==__c8
+__b__uh ==__c8
+__s^df.%--__i mean for me i would actually want to have some pieces of paper that had the transcription and i would sort of flip through it .__c8
+__s^ba__and then um if i thought it was okay i'd say it's okay .__c8
+__s__uhhuh .__c4
+__s__and i ==__c8
+__b__uh - | i mean it depends how this really ends up working out .__c8
+__s^e__but i guess my thought was that the occasion of somebody wondering whether something was okay or not and needing to listen to it was going to be extremely rare .__c8
+__s^ba__right | i mean so th- - th- - th- - the fact that you could listen to it over the web is a minor thing that i had already done for other reasons .__c4
+__fh|s__okay .__c8
+__s^ba__and so that - that's a minor part of it .__c4
+__s__i just wanted some web interface so that people - you didn't actually have to send everyone the text .__c4
+__s__so m- - what my intention to do is that as the transcripts become ready um i would take them and generate the web pages .__c4
+__s^ba__and send email to every participant or contact them using the contact method they wanted .__c4
+__s^df__and just uh - tell them here's the web page .__c4
+__s^ba^r__um  you need a password .__c4
+__fg|s^ba^t^tc__so th- - th- - question number one is how do we distribute the passwords ?__c4
+__s__and question number two is how else do we want to provide this information if they want it ?__c4
+__s^aa__that's ==__c8
+__b__i think what i was sort of saying is that if you just say here is a - here is ==__c8
+__s__i mean this maybe it sounds paleolithic but - but i just thought if you handed them some sheets of paper that said uh here's what was said in this transcription is it okay with you .__c8
+__fh__and if it is here's this other sheet of paper that you sign that says that it's okay .__c8
+__%--__i think that um there are a subset of people who will want printouts that we can certainly provide .__c4
+__b__and then they'd hand it back to you .__c8
+__s__but certainly i wouldn't want a printout .__c4
+__b__these are big .__c4
+__s__and i would much rather be ha- - be able to just sit and leaf through it .__c4
+__b__you find it easier to go through a large ?==__c8
+__s__i mean how do you read books ?__c8
+__s.%--__well i certainly read books by hand .__c4
+__fh__but for something like this i think it's easier to do it on the web .__c4
+__s__really ?__c8
+__b__i mean it ==__c8
+__s__because you're going to get you know if i - i'm - i'm in a bunch of meetings and i don't want to get a stack of these .__c4
+__fh__i want to just be able to go to - go to the web site and visit it as i want .__c4
+__s__going to a web site is easy .__c8
+__fh__but flipping through a hundred pounds - a hundred pages of stuff is not easy on the web .__c8
+__s__well i don't think it's that much harder than paper .__c4
+__s^df^rt__i have one question .__cb
+__s.%--__really ?__c8
+__fh__so ==__c4
+__s__so are you thinking that um the person would have a transcript and go strictly from the transcript ?__cb
+__s^df__because i - i do think that there's a benefit to being able to hear the tone of voice and the ==__cb
+__b__so here's the way i was imagining it and maybe i'm wrong .__c8
+__s^no__yeah .__cb
+__s^bsc__but the way i imagined it was that um the largest set of people is going to go oh yeah i didn't say anything funny in that meeting .__c8
+__fh__just go ahead .__c8
+__b__where's the - where's the release ?__c8
+__s__and then there'll be a subset of people .__c8
+__fg|s__right ?__c8
+__s.%--__okay there's ==__c8
+__s^cs__i mean think of who it is we've been recording mostly .__c8
+__s^bk__okay there'll be a subset of people who um will say uh well yeah i really would like to see that .__c8
+__s__yeah .__c1
+__s^bk|s^2__and for them the easiest way to flip through if it's a really large document ==__c8
+__b__i mean unless you're searching .__c8
+__fh__searching of course should be electronic .__c8
+__%-__but if you're not ==__c8
+__s.%-__so if you provide some search mechanism you go to every place they said something or something like that .__c8
+__s^df__yeah .__c1
+__s.%-__but see then we're getting more elaborate with this thing .__c8
+__s^bk__um | if - if uh - you don't have search mechanisms you just sort of have this really really long document .__c8
+__fh__i mean whenever i've had a really really long document that it was sitting on the web i've always ended up printing it out .__c8
+__qy__i mean so it's - it's ==__c8
+__s^ar|%-__i mean you - you're - you're not necessarily going to be sitting at the desk all the time .__c8
+__s^ar__you want to figure you have a train ride and there's all these situations where - where i ==__c8
+__s^e__i mean this is how i was imagining it anyway .__c8
+__s^ar__and then i figured that out of that group there would be a subset who would go huh you know i'm really not sure about this section here .__c8
+__fg|%-__and then that group would need it ==__c8
+__s^ar|s__s- - it seems like i- ==__c8
+__s__if i'm right in that it seems like you're setting it up for the most infrequent case rather than for the most frequent case .__c8
+__b__so that uh now we have to worry about privacy .__c8
+__fh__well no fre- - for the most ==__c4
+__s.%--__we have to worry about all these passwords for different people .__c8
+__fh__for the most frequent case they just say it's okay .__c4
+__s^rt__and then they're done .__c4
+__s.%--__and i think almost everyone would rather do that by email than any other method .__c4
+__b__uhhuh .__c8
+__s__the other thing too is it seems like ==__cb
+__s^bsc__um | yeah that's true .__c8
+__fh|s.%--__go ahead .__cb
+__b__i mean because you don't have to visit the web page if you don't want to .__c4
+__s^cs__yeah .__c1
+__s__i guess ==__c8
+__fg|s__yeah i guess we don't need their signature .__c8
+__%-__i guess an email okay is all right .__c8
+__s^df__oh that was another thing .__c4
+__s^no__i - i had assumed that we didn't need their signature that it - that an email approval was sufficient .__c4
+__s^cs__but i don't actually know .__c4
+__b__are - are people going to be allowed to bleep out sections of a meeting where they weren't speaking ?__c2
+__s.%--__yes .__c4
+__s^e__i also ==__cb
+__fh__if someone feels strongly enough about it then i - i - i think they should be allowed to do that .__c4
+__b__uhhuh .__cb
+__s^cs__so that means other people are editing what you say ?__c2
+__fh__uh i don't know about that .__c8
+__s.%--__yeah .__c4
+__s^cs__i don't know if i like that .__c2
+__s.%--__well the only other choice is that the person would say no don't distribute this meeting at all .__c4
+__fh__and i would rather they were able to edit out other people then just say don't distribute it at all .__c4
+__s^cs__but th- - what they signed in the consent form was something that said you can use my voice .__c8
+__s^cs.%--__well but if - if someone is having a conversation and you only bleep out one side of it that's not sufficient .__c4
+__s^cs__right ?__c8
+__s^cs.%--__yeah .__c8
+__b__yeah | but that's our decision then .__c8
+__s^bu__right ?__c8
+__%-__um | i don't think so .__c4
+__s^na|s^aa__i think it is .__c8
+__b__i mean because if i object to the conversation ==__c4
+__qy^bu^rt__if i say we were having a conversation and i consider that conversation private and i consider that your side of it is enough for other people to infer i want to be able to bleep out your side .__c4
+__s^nd__the ==__cb
+__qrr.%-__i agree that the consent forms were uh i cons- ==__cb
+__s^df__i agree with what adam's saying that um the consent form did leave open this possibility that they could edit things which they found offensive whe- - whether they said them or didn't say them .__cb
+__qy^br^m^rt__i see .__c8
+__s^na|s^aa__okay well if that's what it said .__c8
+__s^nd^r__and the other thing is from the standpoint of the l- - of the l- ==__cb
+__s^m^na|s^aa__i'm not a law- - lawyer .__cb
+__s^m^na|s^aap__but it strikes me that uh we wouldn't want someone to say oh yes i was a little concerned about it .__cb
+__s^df|s^ar__but it was too hard to access .__cb
+__%-__so i think it's kind of nice to have this facility to listen to it .__cb
+__s.%--__now in terms of like editing it by hand i mean i think it's - i- - some people would find that easier to specify the bleep part by having a document they edited .__cb
+__fh__but - but it seems to me that sometimes um you know i- - if a person had a bad day and they had a tone in their voice that they didn't really like you know it's nice - it's nice to be able to listen to it and be sure that that was okay .__cb
+__s^no__i mean i can certainly provide a printable version if people want it .__c4
+__fh__um | i mean it's also a mixture of people .__c8
+__s^bu__um ==__c4
+__qy^d^g^rt__i mean some people are r- - do their work primarily by sitting at the computer flipping around the web .__c8
+__s^e__and others do not .__c8
+__s^aa__yep .__c4
+__b__others would consider it ==__c8
+__qy.%-__this uh a - a set of skills that they would have to gain .__c8
+__s.%--__you know ?__c8
+__s.%--__well i think most of the people in the meetings are the former .__c4
+__fh__it depends on what meetings .__c8
+__s^bu__that's true .__cb
+__qy^d^g^rt__so far .__c2
+__b__so ==__c4
+__s^e__in the meetings so far yeah .__c8
+__s^aa__yep .__c4
+__h__but we're trying to expand this .__c8
+__s^aa|s^ba__right ?__c8
+__b__right .__c4
+__s^arp^df__so i - i - i actually think that paper is the more universal thing .__c8
+__s^co^fe^j__and that ==__c4
+__s^ng__uhhuh .__cb
+__s^ba^bd__well but if they want to print it out that's all right .__c4
+__s^no__yeah .__cb
+__s.%--__i think everyone in the meeting can access the web .__c4
+__b__no i think we have to be able to print it out .__c8
+__qw^t1__it's not just if they want to print it out .__c8
+__s__okay | so does that mean that i can't use email ?__c4
+__s__i - i think ==__c8
+__s^fa^t3__or what ?__c4
+__s.%--__because you could send it through email you're thinking .__cb
+__fh__i - i th- ==__c8
+__s^aa|s^am.%--__well we ==__c8
+__s__well i don't think i ==__c4
+__s.%--__there was this ==__c8
+__b__well i don't think we can send the text through email because of the privacy issues .__c4
+__s^cs__good .__cb
+__s^df__no .__c8
+__b__for security ?__cb
+__s.%--__yeah okay good .__cb
+__fh__yeah .__c1
+__s__right .__c8
+__s__good point .__cb
+__s__um | so giving them you think a web site to say if you want to print it out here it is is not sufficient ?__c4
+__qh__@reject@ .__cb
+__%-__yeah .__c1
+__s^cc__i ==__c1
+__s^e.%--__certainly for everybody who's been in the meetings so far it would be sufficient .__c8
+__s^e.%--__i'm just wondering about ==__c8
+__s^df__yeah | i'm just thinking for people that that's not sufficient for what - the only sufficient thing would be for me to walk up to them and hand it to them .__c4
+__fh__you could mail it to them .__cb
+__s__get an- - a - mailing address .__cb
+__s^df__yeah .__c1
+__s__equivalent .__c4
+__fh__but i think it's easier to drop in the box .__cb
+__b__but ==__c1
+__s__just put the button on - on the web page which say please send me the - the scripts .__c1
+__s^bd__oh that's interesting .__cb
+__s.%--__that's right .__c4
+__s__yeah .__c1
+__s^bd^df__what um ?==__c2
+__s^cs__when you display it on the web page what are - what are you showing them ?__c2
+__b__utterances ?__c2
+__b__uhhuh .__c4
+__s__or ?==__c2
+__s.%--__and so can they bleep within an utterance ?__c2
+__s^cs__no .__c4
+__s.%--__whole utterances only .__c4
+__b__whole utterances .__c2
+__fh__and that was just convenience for my sake that it's uh - uh ==__c4
+__s__it would end up being fairly difficult to edit the transcripts if we would do it at the sub utterance level .__c4
+__s^2__because this way i can just delete an entire line out of a transcript file rather than have to do it by hand .__c4
+__s^bk__there's another aspect to this which maybe is part of why this is bothering me .__c8
+__s__um | i think you're really trying very hard to make this as convenient as possible for people to do this .__c8
+__s__i mean that's why i did the web form because for me that would be my most convenient .__c4
+__s__huh .__c2
+__b__i - i - i understand .__c8
+__s.%--__i think that's the bad idea .__c8
+__s^co__i know where you're going .__c2
+__fh__oh .__c4
+__s^bu__see because you're gon- - you're - uh ==__c8
+__fh__really !__c8
+__%--__you're going to end up with all these little patchy things whereas really what we want to do is have the - the - the bias towards letting it go .__c8
+__qw__because nob- - you ==__c8
+__qy^bu^d^rt__know it ==__c8
+__qrr.%--__there was a ==__c8
+__s^ar__one or twi- - once or twice in the re- - in the meetings we've heard where somebody said something that they might be embarrassed by .__c8
+__s.%-__but overall people are talking about technical topics .__c8
+__%-__nobody's going to get hurt .__c8
+__s__nobody's being l- - libeled .__c8
+__%-__you know this is - this - we're - we're covering ==__c8
+__s^bu__we're playing the lawyer's game and we're playing - we're - we're - we're looking for the extreme case .__c8
+__z__if we really orient it towards that extreme case make it really easy we're going to end up encouraging a headache .__c8
+__z__that - i think that's ==__c8
+__z__i'm sort of psyching myself out here .__c8
+__z__i - i'm trying to uh ==__c8
+__z__but i - i think that's ==__c8
+__z__i guess i don't see having a few phrases here and there in a meeting being that mu- - much of a headache bleeped out .__c4
+__b__well it's ==__c8
+__b__so ==__c4
+__z__but i- ==__c8
+__z__i think what morgan's saying is the easier it is the more is going to be bleeped .__c2
+__z__and - and it really depends on what kind of research you're doing .__c8
+__z__i think some researchers who are going to be working with this corpus years from now are really going to be cursing the fact that there's a bunch of stuff in there that's missing from the dialogue .__c8
+__z__uhhuh .__c4
+__z__you know it depends on the kind of research they're doing .__c8
+__z__yeah .__c1
+__z__but it might be uh it might be really a - a pain .__c8
+__z__and you know where it's really going to hurt somebody in some way .__c8
+__b__the one who said it or someone who is being spoken about we definitely want to allow the option of it being bleeped out .__c8
+__z__but i really think we want to make it the rare incidence .__c8
+__z__and - and uh i am just a little worried about making it so easy for people to do .__c8
+__z__and so much fun that they're going to go through and bleep out stuff .__c8
+__z__so much fun .__cb
+__z__and they can bleep out stuff they don't like too .__c8
+__b__right ?__c8
+__z__from somebody else as you say .__c8
+__z__you know so well i didn't like what he said .__c8
+__z__well i don't see any way of avoiding that .__c4
+__z__i mean we have to provi- - we have promised that we would provide them the transcript and that they can remove parts that they don't like .__c4
+__z__yeah .__c8
+__z__so that the ==__c4
+__z__no no i - i - i don't ==__c8
+__z__the only question is ==__c4
+__s.%--__you- - you've talked me into that .__c8
+__qy^rt__but i - i just think that we should make it harder to do .__c8
+__s.%--__the problem is if it's harder for them it's also harder for me .__c4
+__qw__whereas this web interface i just get email .__c4
+__z__it's all formatted .__c4
+__z__it's all ready to go and i can just insert it .__c4
+__z__so maybe you don't give them access to the web interface unless they really need it .__c8
+__b__well i guess ==__cb
+__z__so - so - so ==__c8
+__s__yeah .__cb
+__z__i'm sorry .__c8
+__s^t1__so - so - so maybe this is a s- - a way out of it .__c8
+__z__huh .__cb
+__b__you've provided something that's useful for you to do - handle .__c8
+__z__and useful for someone else if they need it .__c8
+__z__but i think the issue of privacy and ease and so forth should be that uh they get access to this if they really need it .__c8
+__b__well ==__c4
+__z__so you're saying the - the sequence would be more like first adam goes to the contact lists contacts them via whatever their preferred method is to see if they want to review the meeting .__c2
+__z__right .__c8
+__z__and then if they don't you're done .__c2
+__z__if they do then he provides them access to the - the web site .__c2
+__z__w- - w- ==__c8
+__s^bk|s^bu__well to some extent i have to do that anyway because as i said we have to distribute passwords .__c4
+__z__or a printed out form .__c2
+__z__there's - there ==__c8
+__z__y- ==__c8
+__s^bu^e__so ==__c4
+__z__but you don't necessarily have to distribute passwords is what i'm saying .__c8
+__z__so ==__c8
+__s^bk__well but ==__c4
+__z__only if they want it .__c2
+__z__what i'm saying is that i can't just email them the password because that's not secure .__c4
+__z__no no no .__c8
+__b__but you aren't necessarily giving them ==__c8
+__z__so they have to call me and ask .__c4
+__z__right .__c8
+__z__but we don't even necessarily need to end up distributing passwords at all .__c8
+__z__huh ==__c1
+__z__well we do because of privacy .__c4
+__z__we can't just make it openly available on the web .__c4
+__z__no no .__c8
+__z__you're missing the point .__c8
+__z__uhhuh .__cb
+__z__we're - we're trying i- - we're trying to make it less of an obvious just l- - l- - l- - l- - uh fall off a log to do this .__c8
+__s^bk__not everyone gets a password unless they ask for it .__cb
+__z__right ?__c8
+__b__so th- - so what i would see is that first you contact them and ask them if they would like to review it for to check for the ==__c8
+__z__yeah .__cb
+__z__not just for fun .__c8
+__z__okay ?__c8
+__z__but to - to check this for uh things that they're worried about having said or if they're willing to just send an approval of it at - from their memory .__c8
+__z__um and uh | and we should think carefully - actually we should review - go through how that's worded .__c8
+__z__okay ?__c8
+__z__then if someone uh wants to review it uh ==__c8
+__b__and i know you don't like this but i'm offering this as a suggestion | is that - is that we then give them a print out .__c8
+__z__and then if they say that i have a potential problem with these things  then you - you say okay well you might want to hear this in context to s- - think if you need that you issue them a password i- - in the ==__c8
+__z__but the - the problem with what you're suggesting is it's not just inconvenient for them it's inconvenient for me .__c4
+__z__because that means multiple contacts every time - for every single meeting every time anyone wants anything .__c4
+__z__i would much prefer to have all be automatic they visit the web site if they want to .__c4
+__z__obviously they don't have to .__c4
+__z__i know you'd prefer it | but the proble- ==__c8
+__z__we have ==__c8
+__z__yeah .__c4
+__z__there's a problem with it .__c8
+__z__so i think you're thinking people are going to arbitrarily start bleeping and i just don't think that's going to happen .__c4
+__z__i'm also concerned about the spirit of the - of the informed consent thing .__cb
+__z__because i think if they feel that uh it's - i th- - i th- ==__cb
+__z__you know if it turns out that something gets published in this corpus that someone really should have eliminated and didn't detect then it could have been because of their own negligence that they didn't pursue that next level and get the password and do that .__cb
+__z__um | but - but they might be able to argue oh well it was cumbersome and i was busy and it was going to take me too much time to trace it down .__cb
+__z__so it could that the burden would come back onto us .__cb
+__z__so i'm a little bit worried about uh making it harder for them from the legal standpoint .__cb
+__z__well you can go too far in that direction and you need to find somewhere between i think .__c8
+__z__yeah .__cb
+__z__because ==__c8
+__z__it seems to me that sending them email saying if you have an o - okay reply to this email and say okay .__c4
+__z__uhhuh .__c8
+__z__if you have a problem with it contact me and i'll give you a password .__c4
+__z__seems like is a perfectly reasonable compromise .__c4
+__s^bk|s__and if they want a printout they can print it out themselves .__c4
+__s__or we could print it up for them .__cb
+__s__i mean we could offer that .__cb
+__s^ba__yeah .__c1
+__z__but - but there's uh another aspect to that and that is that in the informed consent form um my impression is that they - that we offered them at the very least that they definitely would have access to the transcript .__cb
+__fh__and - and i ha- ==__cb
+__s^bk__i don't know that there's a chance of really skipping that stage .__cb
+__s^t^tc__yeah .__c8
+__s^t^tc__i mean i - i thought that you were ==__cb
+__s__maybe i misinterpreted what you said but it's ==__cb
+__s__having access to it doesn't necessarily mean that - having it .__c8
+__s.%--__having it .__c4
+__s.%--__giving it to them .__cb
+__s.%--__right ?__c8
+__s__okay .__cb
+__s.%--__it just means they have the right to have it .__c8
+__b__well the in ==__c4
+__s^cs__all right .__cb
+__%--__the consent form is right in there if anyone wants to look at it .__c4
+__s^cs__fine .__cb
+__%--__okay .__cb
+__s.%--__fair enough .__cb
+__s^no__so ==__c4
+__s.%--__yeah .__c8
+__s__sh- - sh- ==__cb
+__b__d- - you want me to grab one ?__c4
+__s__well i could ==__cb
+__s^ba__i'm closer .__cb
+__%-__i could ==__cb
+__s^nd__yeah | but you're wired .__c4
+__s^ar__aren't you ?__c4
+__s^df__yeah .__cb
+__s^df__that is true .__cb
+__b__um yeah | i mean i don't want to fool them .__c8
+__s^df^e__i don't know ==__cb
+__s^nd.%--__i just meant that e- - every - ev- - any time you say anything to anyone there is in fact a - a bias that is presented .__c8
+__s.%--__oh yeah yeah .__cb
+__s__oh i know .__cb
+__b__right ?__c8
+__s^df__yeah that's true .__cb
+__s.%--__of - and ==__c8
+__b__if you agree to participate you'll have the opportunity to have anything ex- - anything excised which you would prefer not to have included in the data set .__c4
+__%--__yeah .__cb
+__s^na__yeah .__c8
+__s.%--__once a transcript is available we will ask your permission to include the data in the corpus for the r- - larger research community .__c4
+__s^ng__there again you will be allowed to indicate any sections that you'd prefer to have excised from the data base .__c4
+__b__and they will m- - be removed both from the transcript and the recording .__c4
+__s^nd.%--__huh .__cb
+__s^bk__well that's more open than i realized .__cb
+__s__well i mean it ==__c4
+__s^aa__the one question is definitely clear with anything as opposed to just what you said .__c4
+__%-__i ==__c8
+__%-__yeah .__c1
+__s^aap__yeah uh no that - it - tha- ==__c8
+__s^ar__tha- - that's true .__cb
+__s^nd__that's more severe but the next one says the transcript will be around .__cb
+__%-__that's right .__c8
+__s^df__and it doesn't really say we'll send it to you .__cb
+__s^aa__or wi- - it'll be available for you on the web or anything .__cb
+__s^bk|s__i think it probably leaves it open how we get it to them .__c2
+__s__i- - i ==__c8
+__s__at least it more often .__cb
+__b__yeah .__cb
+__s^cs__it means also we don't have to g- - to give it to them .__cb
+__s^df__i mean like - like morgan was saying they - they ==__cb
+__s^bk|s^cs__they just have to make sure that it is available to them .__c4
+__fg|%-__it's available to them if they ask for it .__cb
+__qw__yeah okay .__c8
+__fg__so wh- - um - i think i have an idea that may be sat- - may satisfy both you and me in this which is um ==__c8
+__s__it's a - it - we just go over carefully how these notes to people are worded .__c8
+__s^df__so i - i just want it to be worded in such a way where it gives the strong impre- - it gives very i mean nothing hidden v- - very strongly the bias that we would really like to use all of these data .__c8
+__s^cs.%--__right .__c4
+__s^bk|%-__that - that we really would rather it wasn't a patchwork of things tossed out .__c8
+__s.%--__good .__cb
+__%--__that it would be better for um our uh field if that is the case .__c8
+__s__but if you really think something is going to ==__c8
+__s__and i don't think there's anything in the legal aspects that - that is hurt by our expressing that bias .__c8
+__s^ba__great .__cb
+__fh__great great .__cb
+__s^df__and then - then my concern about - which ==__c8
+__s__yeah .__cb
+__b__i agree .__cb
+__s.%--__you know you might be right it may be it was just paranoia on my part uh but people just ==__c8
+__s__see i'm @reject@ worried about this interface so much fun that people start bleeping stuff out just as - just because they can .__c8
+__s^e__it's just a check box next to the text it's not any fun at all .__c4
+__s^bd^df__yeah .__c8
+__s^df__well i don't know .__c8
+__fg|s__i kind of had fun when you played me something that was bleeped out .__c8
+__b__you know ?__c8
+__s.%--__i ==__c8
+__s__well but they won't get that feedback .__c4
+__s__all ==__c4
+__b__oh they won't ?__c8
+__s__no | because it doesn't automatically bleep it at the time .__c4
+__s__oh good .__c8
+__fh__it just sends me ==__c4
+__b__so you haven't made it so much fun .__c8
+__s__right .__c4
+__s.%--__oh good .__c8
+__%--__okay .__c8
+__s^fa|s__it just sends me the time intervals .__c4
+__fh__and then at some point i'll incorporate them all and put bleeps .__c4
+__s__i mean i don't want to have t- - ha- - do that yet until we actually release the data .__c4
+__s__yeah .__c8
+__qy__because um then we have to have two copies of every meeting .__c4
+__qy__and we're already short on disk space .__c4
+__s^bk|s^bu__yeah .__c8
+__s^df^na__so i - i - want to - i - just keep the times until we actually want to release the data and .__c4
+__s__then we bleep it .__c4
+__b__okay .__c8
+__s__all right so i think ==__c8
+__b__yeah so if we have if - i- ==__c8
+__s^t1.%__again let's you know sort of circulate the - the wording on each of these things and get it right .__c8
+__z__but - but ==__c8
+__%-__well since you seem to feel heart- - uh strongest about it would you like to do the first pass ?__c4
+__s^cs__okay .__c8
+__s__uh fair enough .__c8
+__s__turn about is fair play .__c8
+__qh__al- - also it- - ther- - there is this other question the legal question that - that adam's raised uh - about whether we need a concrete signature or email c- - i- - suffices or whatever .__cb
+__%-__sorry .__c8
+__s^bu__yeah .__c4
+__fg|s__and i don't know how that works .__cb
+__qy^d^g^rt__i- - there's something down there about if you agree to ==__cb
+__s^cs__i'm - i'm - i'm - i thought - i - i thought about it with one of my background processes .__c8
+__s__i don't think so .__c4
+__fg|s__and i - uh it's - uh it's uh it's fine to do the email .__c8
+__s__uh .__cb
+__s__fine .__cb
+__s__good .__cb
+__s^bk|s__okay .__c8
+__fh__yeah | because thi- - th- - they're signing here that they're agreeing to the paragraph which says you'll be given an opportunity .__c4
+__%-__okay .__cb
+__s__yeah .__c8
+__fg|%-__and ==__c8
+__s__and so i don't think they need another signature .__c4
+__fh__well and furthermore i ==__c8
+__s__it's now fairly routine in a lot of arrangements that i do with people on contracts and so forth .__c8
+__s__that - that uh if it's - if it's that sort of thing where you're - you're saying uh okay i agree we want eighty hours of this person at such and such amount and i agree that's okay .__c8
+__s.%--__uh | if it's a follow up to some other agreement where there was a signature it's often done in email now .__c8
+__s__right .__c4
+__s.%--__so it's - it's okay .__c8
+__s^df__great .__cb
+__%-__um ==__c8
+__qy^bu^d^j^rt__so i guess i probably should at the minimum think about how to present it in a printed form .__c4
+__%-__i'm not really sure what's best with that .__c4
+__s^aa|s__the problem is a lot of them are really short .__c4
+__s__well ==__cb
+__fh__and so i don't necessarily want to do one per line .__c4
+__s.%-__well i s- ==__cb
+__s^aa|s.%--__but i don't know how else to do it .__c4
+__fh__i also have this ==__cb
+__s.%--__i - i think it's nice you have it uh viewab- - her- - hearable on the - on the web for those who might wonder about um the non - nonverbal side .__cb
+__s__i mean i - i agree that our bias should be as - as expressed here .__cb
+__s__and - but i - i think it's nice that a person could check .__cb
+__b__because sometimes you know you - the words on a - on the page come out soun- - sounding different in terms of the social dynamics if they hear it .__cb
+__s__huh .__c4
+__b__uhhuh .__c8
+__b__and i realize we shouldn't emphasize that people you know shouldn't borrow trouble .__cb
+__s__uhhuh .__c8
+__%-__what it comes down to but ==__cb
+__fg|s^cs__yeah i think actually ==__c4
+__b__my opinion probably is that the only time someone will need to listen to it is if the transcript is uh - not good .__c4
+__s.%--__you know if - if there are lots of mumbles and parentheses and things like that .__c4
+__s__oh you know or what if there was an error in the transcript that didn't get detected and there was a whole uh i- - segment a- - against some - personal i- - th- ==__cb
+__s__right .__c4
+__s__that was all mumbled ?__c4
+__qy__i think microsoft is ==__c4
+__s^aa|s^na__yeah .__c1
+__s^cs__yeah exactly .__cb
+__s^na__oh .__c1
+__fg|s__@reject@ sorry transcribers .__c4
+__s__@reject@ or - or even - or even there was a - a line you know about how huh uhhuh bill gates duh duh duh duh ==__cb
+__s__yeah .__c8
+__b__but - but it was all - the words were all visible but they didn't end up i- - some- - there was a slip in the transcript .__cb
+__s__oh god .__c1
+__%-__@reject@ they're going to hate this meeting .__c4
+__fh__yeah .__c1
+__s__yeah that's true .__cb
+__b__actually liz will like it .__c4
+__s__know but ==__c4
+__s.%--__liz will like it .__c8
+__fh__we had a pretty strong disagreement going there .__c8
+__s__yep yep that's right .__c4
+__s__yeah .__c8
+__s.%--__yeah .__cb
+__s^e__so i don't know .__cb
+__s__i mean i - i guess we're assuming that the transcript is a close enough approximation and that - that my double checking will be so close to absolutely perfect that it - that nothing will slip by .__cb
+__s^df__uhhuh .__c4
+__s__but it - the ==__c8
+__s.%--__some- - something might sometime and they - uh ==__c8
+__b__if - if it's something that they said they might ==__c8
+__s.%--__i- - i- ==__c8
+__s.%--__i mean you might be very accurate in putting down what they actually said .__c8
+__s.%--__uhhuh .__cb
+__s__but when they hear it themselves they may hear something different because they know what they meant .__c8
+__s__i don't know how to notate that .__cb
+__s__sarcasm .__c2
+__s__yeah that's right .__cb
+__s^ba__how do you - how do you indicate sarcasm ?__c2
+__s.%--__yeah that's right .__cb
+__z__no i'm serious .__c8
+__s^ba__so the - so - i- - the ==__c8
+__s__so we might - we might get some feedback from people that such and such was you know not - not really what i said .__c8
+__s^bk|s^ba__yeah .__c4
+__qw__well that would be good to get definitely .__c4
+__s^df.%--__yeah but ==__c8
+__s^bd__yeah sure .__c8
+__s.%--__just for corrections .__c4
+__s.%-__yeah .__c8
+__s^bd__so um in terms of password distribution i think phone is really the only way to do it .__c4
+__qy^d^f^g__phone and in person .__c4
+__%-__yeah .__cb
+__s^bk|s^df__or mail physical mail .__c4
+__%-__or if for- ==__cb
+__s__leave it on their voice mail .__cb
+__s.%--__any sub word level thing .__c2
+__s__@reject@ .__c2
+__s__any sub wor- ==__c4
+__s^df__yeah okay .__c4
+__b__i mean you could do it with p g p or things like that but it's too complex .__c4
+__s__you know i just realized something which is of - e- - th- - this question about the - uh the possible mismatch of ==__cb
+__s__i mean i- ==__cb
+__s__well and actually also the lawyer saying that um we shouldn't really have them - have the people believing that they will be cleared by our checks .__cb
+__s__you know ?__cb
+__fh__i mean so it's like i- - in a way it's - it's nice to have the responsibility still on them to listen to the tape and - and hear the transcript .__cb
+__s^df__uhhuh .__c8
+__s__to have that be the ==__cb
+__b__well yeah | but you can't dep- ==__c8
+__s^bk__i mean most people will not want to take the time to do that though .__c8
+__%--__yeah okay fair enough .__cb
+__s.%--__and they're s- - they're absorbing the responsibility themselves .__cb
+__s__and they - they have to ==__c8
+__s__so it's not - it's not um ==__cb
+__b__yeah good .__cb
+__b__but i mean if you were at a meeting and - and you - you don't think at least that you said anything funny .__c8
+__s__and the meeting was about you know some - some funny thing about semantics or something or uh ==__c8
+__z__you probably won't listen to it .__c4
+__s^df__yeah .__c8
+__z__it is true that tec- - that the content is technical .__cb
+__b__i - and so i- - and we're not having these discussions which ==__cb
+__fh__yeah .__c8
+__s__i - i mean when i listen to these things i don't find things that are questionable in other people's speech or in my own .__cb
+__s^cs__you would think it would be rare .__c8
+__s^cs__just ==__cb
+__s^bk|s__it should be very rare .__cb
+__s^df__i mean we're not talking about the energy crisis or something people have ==__c8
+__z__yeah .__cb
+__s^aa__yeah okay .__cb
+__s^bk__how about them energy crises ?__c4
+__qy^rt^t^tc__yeah .__c8
+__s^aa__i think we're uh ==__c8
+____done ?__c4
+____kind of done .__c8
+____actually i was going to ==__c8
+____di- - did you have anything n- - that's going on or ?==__c8
+____not really .__c5
+____no .__c5
+____um | my project is going along .__c5
+__z__but um i'm really just here to um fill the project uh the overall progress .__c5
+__z__yeah .__c8
+__z__i don't really have anything specific to - to talk about .__c5

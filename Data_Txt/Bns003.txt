@@ -1,0 +1,1083 @@
+__z__okay .__c0
+__z__we're recording .__c0
+__z__we can say the word zero all we want .__c5
+__z__i'm doing some ==__ca
+__z__but just ==__c5
+__z__square brackets .__ca
+__fg__coffee sipping .__ca
+__s^rt__square brackets .__ca
+__fh|s__that's not allowed i think .__c1
+__s^rt__cur- - curly brackets .__c2
+__qy^co__is that voiced or unvoiced ?__c4
+__s^aa__curly brackets .__c1
+__s^ft__curly brackets .__c5
+__fh__curly brackets .__c0
+__s^rt__right .__c0
+__s^rt^t__well ==__c5
+__s^rt__oops !__c1
+__s__correction for transcribers .__c5
+__s^df^rt__gar- - darn !__ca
+__s__yeah .__c5
+__fh__channel two .__c2
+__s__do we use square brackets for anything ?__c0
+__s__yeah .__c2
+__s__these poor transcribers .__c4
+__qw^rt__uh ==__c2
+__s__u- ==__c5
+__s^rt__not ri- - not right now .__c2
+__s^rt__i mean - no .__c2
+__s__there's going to be some zeros from this morning's meeting because i noticed that ==__c3
+__s__u- ==__c5
+__fh|s__barry i think maybe you turned your mike off before the digits were ==__c3
+__s__oh .__c3
+__s__was it during digits .__c3
+__s__oh so it doesn't matter .__c3
+__fh__yeah .__c5
+__s__so it's not - it's not that bad if it's at the end .__c1
+__s^ft__it's still not a good idea .__c0
+__s^df__but it's - in the beginning it's bad .__c1
+__s^bk__yeah .__c3
+__fh__yeah .__c3
+__s^rt__yeah .__c0
+__s^aa__you want to - you want to keep them on so you get good noise .__c0
+__b__noise floors .__c0
+__s.%--__that's interesting .__c2
+__s__through the whole meeting .__c0
+__s^cc__uh ==__c5
+__s__i probably just should have left it on .__c5
+__qw__huh .__c2
+__s__yeah i did have to run .__c5
+__s__but ==__c5
+__s^r__is there any way to change that in the software ?__c4
+__qw.%-__change what in the software ?__c0
+__s^cs__where like you just don't - like if you - if it starts catching zeros like in the driver or something .__c4
+__s^cs^rt__in the card or somewhere in the hardware .__c4
+__s.%-__where if you start seeing zeros on w- - across one channel you just add some random noise floor .__c4
+__s^no__like a small noise floor .__c4
+__s^co__i mean certainly we could do that .__c0
+__%-__but i don't think that's a good idea .__c0
+__s__we can do that in post processing if - if the application needs it .__c0
+__s^j__yeah .__c4
+__%-__well i - u- - i actually don't know what the default is anymore as to how we're using the - the front end stuff but - for - for - when we use the icsi front end .__c5
+__s^bk__manual post processing .__c1
+__s.%--__but um ==__c5
+__fh__as an argument .__c0
+__fh__there is an - there is an o- - an option in - in rasta .__c5
+__s^bk__which ==__c5
+__qw^rt__in- - when i first put it in uh back in the days when i actually wrote things uh i did actually put in a random bit or so that was in it .__c5
+__s__okay .__c4
+__s^e__but then i realized that putting in a random bit was equivalent to adding uh - adding flat spectrum .__c5
+__s.%-__right .__c4
+__s__and it was a lot faster to just add a constant to the - to the spectrum so then i just started doing that .__c5
+__s.%-__huh .__c4
+__b__instead of calling rand or something .__c5
+__s^bk|%-__okay .__c4
+__s.%-__right .__c4
+__s__so ==__c5
+__b__so it d- - it does that .__c5
+__s.%-__gee here we all are !__c5
+__fh__uh ==__c0
+__qw__so the only agenda items were jane - was jane wanted to talk about some of the i b m transcription process .__c0
+__%--__there's an agenda ?__c5
+__s^no__i sort of condensed the three things you said into that .__c0
+__s__and then just - i only have like this afternoon and maybe tomorrow morning to get anything done before i go to japan for ten days .__c0
+__s^no__so if there's anything that n- - absolutely desperately needs to be done you should let me know now .__c0
+__s__uh | and you just sent off a eurospeech paper .__c5
+__s^fe__so ==__c5
+__s^cc__right .__ca
+__s__i hope they accept it .__ca
+__s^bk__i mean i ==__ca
+__s.%--__right .__c5
+__s^no__both actu- - as - as a submission and - you know as a paper .__ca
+__s__um ==__ca
+__b__but ==__ca
+__s^bk__well yeah you sent it in late .__c0
+__b__yeah | i guess you - first you have to do the first one .__c5
+__s^df__yeah .__c0
+__qy^rt__and then ==__c5
+__fh__yeah .__c5
+__s__we actually exceeded the delayed deadline by o- - another day .__ca
+__b__so ==__ca
+__s.%-__oops .__c1
+__s__oh they - they had some extension that they announced or something ?__c5
+__qy^bu^d^m__well yeah .__ca
+__s^aa__liz had sent them a note saying could we please have another i don't know three days or something .__ca
+__s__and they said yes .__ca
+__fh__and then she said did i say three .__c3
+__s__i meant four .__c3
+__s^bk^m__oh .__c0
+__s^aa__that was the other thing .__c0
+__s^ba__uh ==__c0
+__s__but u- ==__ca
+__s__uh | dave gelbart sent me email i think he sent it to you too that um there's a special topic section in si- - in eurospeech on new corp- - corpors- - corpora .__c0
+__s__and it's not due until like may fifteenth .__c0
+__qy^rt__oh this isn't the aurora one ?__c5
+__s^df__it's another one ?__c5
+__s^aa__no .__c0
+__s^aap__no .__c1
+__s^df__it's a different one .__c0
+__s^df__it's ==__c1
+__s^cc__huh !__c4
+__s^ft__yeah .__c1
+__qy^rt__yeah .__c1
+__s^aa__and uh ==__c0
+__s^df__oh !__c5
+__s^df__i got this mail from ==__c1
+__s__i s- - forwarded it to jane as i thought being the most relevant person .__c0
+__s|qy^d^g^rt__um ==__c0
+__s^aa__so i thought it was highly relevant .__c0
+__fh|s__that's ==__c5
+__s__yeah i'm ==__c2
+__s^e__yeah .__c2
+__s.%--__i think so too .__c2
+__fh__have you - did you look at the u r l ?__c0
+__s__um | i haven't gotten over to there yet .__c2
+__s.%-__but what - our discussion yesterday i really - i - i want to submit one .__c2
+__s__uhhuh .__c0
+__s^aa__was this smartkom message ?__c1
+__s^aa__yeah .__c2
+__s^na__i think christoph draxler sent this .__c1
+__s^e__and you offered to - to join me if you want me to .__c2
+__s__yeah .__c1
+__s__i'll help .__c0
+__s^bk__but obviously i can't really do most of it .__c0
+__qy^bh__yeah .__c2
+__s__i think several people - sent this .__ca
+__s^nd__yeah | that's right .__c2
+__%__yeah .__c1
+__s__so ==__c0
+__s^bk__yeah .__ca
+__s.%--__uhhuh .__c2
+__s__but any - any help you need i can certainly provide .__c0
+__s__well ==__c5
+__fh__yeah .__ca
+__b__that's - that's a great idea .__c5
+__fh__well ==__ca
+__s__there - there were some interesting results in this paper though .__ca
+__s__for instance that morgan - uh accounted for fifty six percent of the robustness meetings in terms of number of words .__ca
+__s^df__wow .__c0
+__s__in - in terms of what ?__c2
+__b.%__number of words .__ca
+__s^ft^rt__in term- ==__c2
+__s^df__one ==__c2
+__b__wow !__c2
+__s^df__okay .__c2
+__s^bk__that's just because he talks really fast .__c0
+__s^bk__do you mean ?==__c2
+__s^rt__n- - no .__c5
+__s__oh .__c1
+__fh__short words .__c1
+__s.%--__because ==__c2
+__s__i know- ==__c0
+__s__is it partly uh c- - correctly identified words ?__c2
+__s^aa__or is it ?==__c2
+__qr^bu^rt__no | well according to the transcripts .__ca
+__%-__or just overall volume ?__c2
+__s__yeah .__c5
+__s^bk^m__but re- - well regardless i think it's - he's - he's in all of them .__c0
+__s^df__oh okay .__c2
+__s__i mean we didn't mention morgan by name .__ca
+__qw^rt__and he talks a lot .__c0
+__s__we just ==__ca
+__fh__well we have now .__c5
+__fh__one participant .__c0
+__s^co__we - we - we - something about ==__ca
+__b__but ==__c5
+__fh__did you identify him as a senior member ?__c0
+__fh__no .__ca
+__s^j__we as- - identify him as the person dominating the conversation .__ca
+__qw__well .__c5
+__s^df__yeah .__c0
+__s^am^df__okay .__c2
+__s^am^df__i mean i get these a a r p things .__c5
+__s^am^df__but i'm not se- - really senior yet .__c5
+__s^cc__right .__ca
+__s^df__but ==__c5
+__s^e__huh .__ca
+__s^e__um ==__c5
+__s^e__but uh other than that delightful result what was the rest of the paper about ?__c5
+__fh|s^cs__um ==__ca
+__fh|s^co^rt__well it was about - it had three sections .__ca
+__fh__you sent it to me .__c5
+__s__but i haven't seen it yet .__c5
+__qy^co^d^rt__uh ==__ca
+__s.%--__three kinds of uh results if you will .__ca
+__s^cs__uh | the one was that the - just the - the amount of overlap .__ca
+__s^cs__the good the bad and the ugly .__c0
+__s^co__um ==__ca
+__s^bk|s__s- - in terms of - in terms of number of words .__ca
+__fh__and also we computed something called a spurt .__ca
+__fh__which is essentially a stretch of speech with uh no pauses exceeding five hundred milliseconds .__ca
+__s^rt^tc__um | and we computed how many overlapped i- - uh - spurts there were and how many overlapped words there were um for four different corpora .__ca
+__fh__the meeting recorder meetings .__ca
+__s__the robustness meetings .__ca
+__s^df__switchboard .__ca
+__s^bk__and callhome .__ca
+__fh__and found - and sort of compared the numbers .__ca
+__s^bk__um ==__ca
+__fh__and found that the ==__ca
+__s^cs__uh ==__ca
+__s^bk__you know as you might expect the meeting recorder meetings had the most overlap .__ca
+__fh__uh | but next were switchboard and callhome .__ca
+__s.%--__which both had roughly the same .__ca
+__s__almost identical in fact .__ca
+__s^df__and the robustness meetings were - had the least .__ca
+__s^aa__so ==__ca
+__s^na__one sort of unexpected result there is that uh two party telephone conversations have about the same amount of overlap .__ca
+__fh|s^co__i'm surprised .__c0
+__s^cs__sort of in gen- - you know - order of magnitude wise as uh - as face to face meetings with multiple ==__ca
+__s__i have - i had better start changing all my slides .__c0
+__s__yeah .__ca
+__fh|s^co__also i - in the levinson the pragmatics book in you know uh textbook there's - i found this great quote where he says you know - you know how people - it talks about how uh - how - how people are so good at turn taking .__ca
+__s__uhhuh .__c2
+__s__yeah .__c2
+__s^co__yeah .__c2
+__s__and so - they're so good that generally u- - the overlapped speech does not - is less than five percent .__ca
+__s^df__oh .__c2
+__b__that's interesting .__c2
+__s^aa__so ==__ca
+__s__yeah .__c2
+__s__this is way more than five percent .__ca
+__s__did he mean face - like face to face ?__c4
+__s__or ?==__c4
+__s__well in real conversations .__ca
+__b__everyday conversations .__ca
+__qw__huh .__c4
+__s__it's s- - what these conversation analysts have been studying for years and years there .__ca
+__s^ba__uhhuh .__c2
+__s.%--__uhhuh .__c2
+__s^df__well of course no it doesn't necessarily go against what he said .__c2
+__s^ba__but ==__c1
+__s^cs__because he said generally speaking in order to - to go against that kind of a claim you'd have to big canvassing .__c2
+__s^bk__huh .__c0
+__s^bk__and in f- ==__c1
+__qy^d^f^g^rt__well he - he made a claim .__ca
+__s^bs^co__well ==__c0
+__s^bs^co__well ==__ca
+__s^bs^co__yeah | we - we have pretty limited sample here .__c5
+__fh|s^df__also ==__c0
+__qy^d^rt__but ==__c1
+__s^bk__five percent of time or five percent of what ?__c1
+__s^aa__yeah .__c2
+__s^aa__yeah | i was going to ask that too .__c0
+__b__well it's time .__ca
+__s^na__yeah .__c1
+__s^df__exactly .__c2
+__s__so - but still - but still - u- ==__ca
+__b__it's - i- - it's not against his conclusion .__c2
+__s^bk__yeah .__c1
+__fh__so ==__c1
+__fh__it just says that it's a bi- - bell curve and that you have something that has a nice range in your sampling .__c2
+__s^bk__yeah .__ca
+__s^r__so there are slight ==__ca
+__fh__there are differences in how you measure it .__ca
+__fh__but still it's - you know the difference between um - between that number and what we have in meetings .__ca
+__s^cs__which is more like - you know close to - in meetings like these uh - you know close to twenty percent .__ca
+__s^df__uhhuh .__c2
+__s^df__what was it like say in the robustness meeting for instance ?__c5
+__s^df__uhhuh .__c2
+__s^df__that ==__ca
+__fh__but ==__c0
+__fh__robustness meeting ?__ca
+__fg__it was about half of the r- ==__ca
+__s__so | in terms of number of words it's like seventeen or eigh- - eighteen percent for the meeting recorder meetings and about half that for uh the robustness .__ca
+__s^cs__maybe ten percent ?__c5
+__s^df__but i don't know if that's really a fair way of comparing between multi party conversations and two party conversations .__c0
+__s__then - then - then you have to ==__c1
+__s^ba__yeah .__c0
+__s__i - i - i don't know .__c0
+__s^aa__i mean that's just something ==__c0
+__s^aa__yeah i just wonder if you have to normalize by the numbers of speakers or something .__c3
+__s^ba^na__yeah .__c2
+__s__then - yeah then normalize by - by something like that .__c1
+__s^na__well we didn't get to look at that .__ca
+__s^na__yeah .__c2
+__s^df__that's a good point .__c2
+__s^bk__yeah .__c1
+__s^cs.%--__yeah .__c2
+__s^ng__but this obvious thing to see if - if there's a dependence on the number of uh - participants .__ca
+__fh__good idea .__c2
+__s^ar__i mean ==__c0
+__s.%--__i bet there's a weak dependence .__c0
+__fh__yeah .__c1
+__s^cs__i'm sure it's - it's not a real strong one .__c0
+__s^df__right .__ca
+__s^aa__right ?__c0
+__s^aa__because not everybody talks .__c3
+__s^ba__because you- ==__c0
+__s^bk|%--__right .__ca
+__s^df__right .__c0
+__%--__yeah .__c3
+__s^cs__you have a lot of - a lot of two party subsets within the meeting .__c0
+__s^2__right .__ca
+__s^bk__uhhuh .__c2
+__s^na__well regardless .__c0
+__fh__so ==__ca
+__s__it's an interesting result regardless .__c0
+__fh__right .__ca
+__s.%--__and - and - and then - and we also d- - computed this both with and without backchannels .__ca
+__fh__yes | that's right .__c2
+__s^bk|s^ba^cs__uhhuh .__c2
+__s^ba^cs__so you might think that backchannels have a special status because they're essentially just ==__ca
+__fh__uhhuh .__c0
+__s^bk|s^df__so did - we all said uhhuh and nodded at the same time .__c0
+__s.%--__r- - right .__ca
+__s.%--__but even if you take out all the backchannels ==__ca
+__s^no__so ==__c0
+__qy^rt__so basically you treat backchannels l- - as nonspeech as pauses .__ca
+__qrr.%--__uhhuh .__c0
+__s__uhhuh .__c5
+__s^cs__you still have significant overlap .__ca
+__%-__you know it goes down from maybe for switchboard it goes down from - i don't know - f- - um i don't know - f- - fourteen percent of the words to maybe uh i don't know eleven percent or something .__ca
+__qw^br^rt__it's - it's not a dramatic change .__ca
+__s^r__so it's ==__ca
+__qy^bu^d^m^rt__uhhuh .__c0
+__s^aa__anyway .__ca
+__s__so it's uh ==__ca
+__s__that was - that was one set of results .__ca
+__s^df__and then the second one was just basically the the stuff we had in the - in the h l t paper on how overlaps effect the recognition performance .__ca
+__fh|s^cs.%--__huh .__c2
+__s__nope .__c0
+__s^e__right .__c0
+__s^e__uhhuh .__c5
+__s^e__and we rescored things um a little bit more carefully .__ca
+__s^df__we also fixed the transcripts in - in numerous ways .__ca
+__s^bk__uh | but mostly we added one - one number which was ==__ca
+__s.%--__what if you uh basically score ignoring all ==__ca
+__s^no__so - so the - the conjecture from the h l t results was that most of the added recognition error is from insertions due to background speech .__ca
+__s__so we scored all the recognition results uh in such a way that the ==__ca
+__s^bk__uh ==__ca
+__%-__oh by the way who's on channel four ?__c0
+__s^no__yeah .__c1
+__s^cc__you're getting a lot of breath .__c0
+__s^bk__that's ==__c4
+__b__i j- - was just wondering .__c1
+__s__yeah .__c1
+__s^bk__that's me .__c4
+__s^cc__uh well don's been working hard .__ca
+__fh__that's right .__c4
+__s^bk__okay .__ca
+__qw__so - so if you have the foreground speaker speaking here and then there's some background speech may be overlapping it somehow .__ca
+__fh__um | and this is the time bin that we used .__ca
+__s^tc__then of course you're going to get insertion errors here and here .__ca
+__qw__right .__c0
+__fh__right ?__ca
+__s__so we scored everything .__ca
+__s__and i must say the nist scoring tools are pretty nice for this .__ca
+__s__where you just basically ignore everything outside of the uh region that was deemed to be foreground speech .__ca
+__s^aa__and where that was we had to use the t- - forced alignment uh results from s- - for .__ca
+__s^na__so ==__ca
+__s__that's somewhat - that's somewhat subject to error .__ca
+__s^na__but still we - we uh don did some ha- - hand checking .__ca
+__s^df__and - and we think that - based on that we think that the results are you know valid .__ca
+__fh__although of course some error is going to be in there .__ca
+__s__but basically what we found is after we take out these regions - so we only score the regions that were certified as foreground speech the recognition error went down to almost uh the level of the non overlapped speech .__ca
+__s__so that means that even if you do have background speech if you can somehow separate out or find where it is uh the recognizer does a good job .__ca
+__s__that's great .__c0
+__b__yeah .__c1
+__%__even though there is this back- ==__ca
+__fh__yeah i guess that doesn't surprise me .__c0
+__s^bk|s^cs__because with the close talking mikes the - the signal will be so much stronger .__c0
+__b__right .__ca
+__%__right .__ca
+__s.%-__uhhuh .__ca
+__s^bk|s__uhhuh .__c5
+__s^bk|s^ng.%-__um ==__ca
+__s__so ==__ca
+__%__what - what sort of normalization do you do ?__c0
+__s^bk^m__uh | well we just - we do - u- - you know vit- ==__ca
+__s^aa__i mean in you recognizer .__c0
+__s^aa^r__in the s r i recognizer .__c0
+__%--__well we do uh v t l vocal tract length normalization .__ca
+__%-__w- - and we uh - you know we - we uh - make all the features have zero mean and unit variance .__ca
+__%--__and ==__c5
+__s.%--__over an entire utterance ?__c0
+__s__over - over the entire c- - over the entire channel .__ca
+__s__or windowed ?__c0
+__b__don't train ==__c1
+__s.%-__over the ==__ca
+__s^aa__but you know ==__ca
+__fh__huh .__c0
+__s^cs__um now we didn't re align the recognizer for this .__ca
+__s__we just took the old ==__ca
+__s^2__so this is actually a sub optimal way of doing it .__ca
+__s^aa__right .__c5
+__s^am__right ?__ca
+__s^am.%-__right .__c0
+__s__so we took the old recognition output .__ca
+__s^ng__and we just scored it differently .__ca
+__%-__so the recognizer didn't have the benefit of knowing where the foreground speech - a- - start- ==__ca
+__s^bk|s^df__were you including the - the lapel in this ?__c5
+__s.%-__yes .__ca
+__s^bk__and did the - did - did the la- - did the - the problems with the lapel go away also ?__c5
+__s^bk__um | it - yeah .__ca
+__%-__or ?==__c5
+__s^bk__fray- - for - for insertions ?__c5
+__s^bk__it u- - not per - i mean not completely .__ca
+__s^aa__but yes .__ca
+__s^df__dramatically .__ca
+__s^df__less so .__c5
+__b__so we have to ==__ca
+__fh|s__um ==__ca
+__fg__i mean you still ==__c5
+__%-__well i should bring the - should bring the table with results .__ca
+__s^df^nd__maybe we can look at it monday .__ca
+__s^bk__i would presume that you still would have somewhat higher error with the lapel for insertions than ==__c5
+__s^bk.%-__yes .__ca
+__s^bk|s__it's - it's ==__ca
+__%__yes .__ca
+__s^bk__yeah .__c5
+__s^ba__yeah .__ca
+__s__because again looking forward to the non close miked case i think that we s- - still ==__c5
+__s^ba^e__uhhuh .__ca
+__qy^rt__i'm not looking forward to it .__c0
+__b__i- - it's the high signal to noise ratio .__c5
+__s^ar__right .__ca
+__s^df__here that - that helps you .__c5
+__b__u- - s- - right .__ca
+__%-__so ==__ca
+__s^bk__so that was number - that was the second set of - uh the second section .__ca
+__s^cs__and then the third thing was we looked at uh what we call interrupts .__ca
+__%-__although that's - that may be a misnomer .__ca
+__s__but basically we looked at cases where ==__ca
+__fh|s__uh so we - we used the punctuation from the original transcripts .__ca
+__s__and we inferred the beginnings and ends of sentences .__ca
+__fh__so ==__ca
+__s__you know ==__ca
+__s^bk__di- - did you use upper lower case also or not ?__c2
+__s__um ==__ca
+__fg__huh ?__ca
+__fh__u- - upper lower case or no ==__c2
+__s.%-__no .__ca
+__s^co__we only used you know uh periods uh question marks and exclamation .__ca
+__b__okay .__c2
+__s^co^df__and we know that there's th- - that's not a very g- ==__ca
+__b__i mean we miss a lot of them .__ca
+__s^bk|s^ng__yeah .__c2
+__s:qy^cs__but - but it's f- - i- - i- ==__ca
+__s^bk|s^ng__that's okay .__c2
+__s^bk|s__but ==__c2
+__s^df^nd__comma also or not ?__c2
+__b__no commas .__ca
+__b__no .__ca
+__s^bk__and then we looked at locations where ==__ca
+__s__uh ==__ca
+__fh__if you have overlapping speech and someone else starts a sentence you know where do these - where do other people start their turns - not turns really but you know sentences ?__ca
+__s^aa__uh ==__c1
+__s^df__um ==__ca
+__s__so we only looked at cases where there was a foreground speaker .__ca
+__s^cs__and then at the to- - at the - so the - the foreground speaker started into their sentence and then someone else started later .__ca
+__s^aa__okay ?__ca
+__b.%__somewhere in between the start and the end .__c1
+__s__and so what ==__ca
+__s__okay .__c1
+__s^aa__sorry ?__ca
+__s^m^na__somewhere in between the start and the end of the foreground .__c1
+__b__yes .__ca
+__b__uh so that such that there was overlap between the two sentences .__ca
+__s^aa|s^na__yeah .__c1
+__s^aa|s^na__so the - the question was how can we - what can we say about the places where the second or - or actually several second speakers um start their interrupts as we call them .__ca
+__s^co__three words from the end .__c3
+__s^aa__at pause boundaries .__c0
+__s^bk__w- ==__ca
+__s^cs__and we looked at this in terms of ==__ca
+__b__um ==__ca
+__s^cs^df__on t closures only .__c0
+__s^cs^df__so - so we had - we had ==__ca
+__s^e__um u- ==__ca
+__s__to - for - for the purposes of this analysis we tagged the word sequences and - and we time aligned them .__ca
+__s^e__um ==__ca
+__s^e__and we considered it interrupt - if it occurred in the middle of a word .__ca
+__s^df__we basically you know considered that to be a interrupt as if it were at - at the beginning of the word .__ca
+__b__so that if any part of the word was overlapped it was considered an interrupted word .__ca
+__s__uhhuh .__c5
+__s^ba__and then we looked at the - the locatio- - the um - you know the features that - the tags .__ca
+__s__because we had tagged these word strings um that - that occurred right before these - these uh interrupt locations .__ca
+__fh|s^ba^df__tag by uh- ==__c1
+__b__and the tags we looked at are the spurt tag .__ca
+__s^e__which basically says ==__ca
+__s^cs^e__or actually ==__ca
+__s^aa__sorry .__ca
+__s^na__end of spurt .__ca
+__fh__so whether there was a pause essentially here .__ca
+__s^cs__because spurts are a - defined as being you know five hundred milliseconds or longer pauses .__ca
+__s^df__and then we had things like discourse markers .__ca
+__s:s^bk__uh backchannels .__ca
+__s:s__uh disfluencies .__ca
+__s:s__um ==__ca
+__b__uh filled pauses .__ca
+__fh__so disfluen- - the d s are for um the interruption points of a disfluency .__ca
+__s^ba__so where you hesitate or where you start the repair there .__ca
+__s^df__uh | what else do we had ?__ca
+__fh__uh repeated you know repeated words is another of that kind of disfluencies and so forth .__ca
+__s^aa|s^df^na__so we had both the beginnings and ends of these .__ca
+__%-__uh so the end of a filled pause .__ca
+__fh__and the end of a discourse marker .__ca
+__s^aa__and we just eyeballed ==__ca
+__s.%--__i mean we didn't really hand tag all of these things .__ca
+__fg__we just looked at the distribution of words .__ca
+__s__and so every so yeah and okay uh and uhhuh were - were the - were deemed to be backchannels .__ca
+__s^aa__and wow and so and uh right uh were um - not right right is a backchannel .__ca
+__s^rt__but so we sort of - just based on the lexical um identity of the words we - we tagged them as one of these things .__ca
+__fh|s^bk__and of course the d- - the interruption points we got from the original transcripts .__ca
+__s__so ==__ca
+__s__and then we looked at the disti- ==__ca
+__s^e__so we looked at the distribution of these different kinds of tags overall .__ca
+__qy^d^f^g^rt__uh and - and - and particularly at the interruption points .__ca
+__qy^d^rt__and uh we found that there is a marked difference .__ca
+__h|s^no__so ==__ca
+__s^aa__that for instance after ==__ca
+__s^cs__so at the end after a discourse marker or after backchannel or after filled pause you're much more likely to be interrupted than before .__ca
+__s^df__okay .__ca
+__s^bk__and also of course after spurt ends .__ca
+__s^df__which means basically in p- - inside pauses .__ca
+__s^df__so pauses are always an opportunity for ==__ca
+__%-__so we have this little histogram which shows these distributions .__ca
+__s^bk|s^ng__and um ==__ca
+__s^bk|s^cs^rt__i wonder ==__c3
+__fh__you know it's - it's - it's not - no big surprises .__ca
+__s^aa__but it is sort of interesting from ==__ca
+__s^na__it's nice to actually measure it though .__c0
+__s^cs__yeah .__ca
+__s^2__i wonder about the cause and effect there .__c3
+__b__in other words uh if you weren't going to pause you - you will because you're g- - being interrupted .__c3
+__s^no__well we're ne- ==__ca
+__b__uh ==__c3
+__qy^rt__right .__ca
+__b__there's no statement about cause and effect .__ca
+__s__yeah .__c3
+__s^no__this is just a statistical correlation .__ca
+__b__right .__c3
+__b__no no no .__c3
+__s^bk__right .__c3
+__s^bk|%--__i - i see .__c3
+__fh__yeah .__ca
+__s^t1__yeah .__c3
+__fg__but he - yeah he's - he's right .__c5
+__s^tc__y- - i mean maybe ==__c5
+__s^df__you weren't intending to pause at all .__c5
+__s:s^bk__but - you were intending to stop for fifty seven milliseconds .__c5
+__s:s__right .__ca
+__s:s__right .__ca
+__s__but then chuck came in .__c5
+__s__and so you paused for a second .__c5
+__s^cs__yeah .__c3
+__s^df__right .__ca
+__s^co__so ==__ca
+__s__or more .__c5
+__fh|s^rt__uh and that was basically it .__ca
+__s^bu__and - and we - so we wrote this .__ca
+__qy^g^rt__and then we found we were at six pages .__ca
+__s^aa__and then we started cutting furiously .__ca
+__s^aa__oops .__c1
+__qy^rt__and threw out half of the material again .__ca
+__s^ar__and uh played with the latex stuff .__ca
+__qy^bu^d^m^rt__and ==__ca
+__s^aa__uh ==__ca
+__s^df__and - until it fi- ==__ca
+__s^bk^m__made the font smaller and the narrows longer .__c0
+__s^aa__font smaller .__c1
+__s__yeah .__c1
+__s.%--__no no .__ca
+__s__w- - well d- - you couldn't really make everything smaller .__ca
+__s__but we s- - we put ==__ca
+__s__put the abstract end .__c1
+__s^bk__oh | i - i ==__ca
+__s.%-__you know the - the gap between the two columns is like ten millimeters .__ca
+__s__took out white space .__c0
+__b__yeah .__c1
+__fh__so i d- - shrunk it to eight millimeters .__ca
+__s^nd__and that helped some and stuff like that .__ca
+__s__wasn't there - wasn't there some result andreas ?__c3
+__s__yeah .__c5
+__s__i - i thought maybe liz presented this at some conference a while ago about uh backchannels .__c3
+__s.%-__uhhuh .__ca
+__b__uhhuh .__ca
+__s^df__uh ==__c3
+__b__and that they tend to happen when uh the pitch drops .__c3
+__s^ar__you know you get a falling pitch .__c3
+__b__yeah .__ca
+__s__and so that's when people tend to backchannel .__c3
+__b__well ==__ca
+__s^df__uh- - i- - i- - do you rem- ?==__c3
+__b__y- - we didn't talk about uh prosodic uh properties at all .__ca
+__s^bk__right right .__c3
+__s^na__although that's - i - i take it that's something that uh don will - will look at .__ca
+__s.%-__but ==__c3
+__s.%-__now that we have the data and we have the alignment .__ca
+__s^aa__yeah | we're going to be looking at that .__c4
+__s__so ==__ca
+__fg__this is purely based on you know the words .__ca
+__s^rt__and ==__ca
+__b__uhhuh .__c3
+__b__i have a reference for that though .__c2
+__qy.%-__oh you do ?__c3
+__s^df__yeah .__ca
+__s__uhhuh .__c2
+__fh__so am i recalling correctly ?__c3
+__fg|s^bu__anyway so .__ca
+__s^aa__about ==__c3
+__s^na__well | i didn't know about liz's finding on that .__c2
+__fh|s^bu__uhhuh .__c3
+__s__but i know of another paper that talks about something .__c2
+__qy^d^g__huh .__c3
+__s__that ==__c2
+__s__i'd like to see that reference too .__c4
+__s__it made me think about a cool little device that could be built .__c3
+__s^bk__okay .__c2
+__fg__to ==__c3
+__s^bs__uh ==__c3
+__s^aa__to handle those people that call you on the phone and just like to talk and talk and talk .__c3
+__s^bs^e__and you just have this little detector that listens for these drops in pitch and gives them the backchannel .__c3
+__s^tc.%-__and so then you hook that to the phone and go off .__c3
+__%__yeah .__c0
+__s__and do the - do whatever you r- - want to do .__c3
+__%__uhhuh .__c0
+__b__oh yeah .__ca
+__fg|s__well ==__ca
+__s^e^rt__while that thing keeps them busy .__c3
+__s^bu|qy^d^g^rt__there's actually - uh there's this a former student of here from berkeley .__ca
+__s^ar__nigel - nigel ward .__ca
+__%--__do you know him ?__ca
+__qy^bu^d__uhhuh .__c3
+__s^arp__sure .__c3
+__%--__yeah .__c3
+__s__he did a system uh in ==__ca
+__s__he - he lives in japan now .__ca
+__s__and he did this backchanneling automatic backchanneling system .__ca
+__s^bk__right .__c5
+__qy^rt__it's a very ==__ca
+__%-__oh .__c3
+__s^na__so exactly what you describe .__ca
+__%-__but for japanese .__ca
+__s|qy^d^g^rt__huh .__c3
+__s^ba__and it's apparently - for japa- - in japanese it's really important that you backchannel .__ca
+__b__it's really impolite if you don't .__ca
+__%--__and ==__ca
+__s^2__so ==__ca
+__s^aa__huh .__c5
+__s^aa__actually for a lot of these people i think you could just sort of backchannel continuously .__c5
+__s^df__and it would pretty much be fine .__c5
+__b__it wouldn't matter .__c3
+__s^bk__yeah .__c4
+__s^co^tc__yeah .__c3
+__s^rt__that's w- - that's what i do .__c4
+__fh__random intervals .__c3
+__fh__there was - there was of course a monty python sketch with that .__c0
+__s^e__where the barber who was afraid of scissors was playing a - a tape of clipping sounds and saying uhhuh .__c0
+__s__yeah .__c0
+__b__how about them sports teams ?__c0
+__s__anyway .__ca
+__s^bk__so the paper's online .__ca
+__fh|qy.%--__and ==__ca
+__b__y- - i - i think i uh i c c'ed a message to meeting recorder with the u r l .__ca
+__s__so you can get it .__ca
+__s.%-__yep .__c0
+__s^bk|s__yeah .__c5
+__s^df__printed it out .__c0
+__s^ba__um uh one more thing .__ca
+__s.%-__haven't read it yet .__c0
+__qw^br^rt__yeah .__c5
+__qy^d.%--__so i - i'm actually about to send brian kingsbury an e mail saying where he can find the the s- - the m- - the material he wanted for the s- - for the speech recognition experiment .__ca
+__qw^br__so ==__ca
+__qy^bu^d^rt__but i haven't sent it out yet .__ca
+__s^aa__because actually my desktop locked up .__ca
+__%-__like i can't type anything .__ca
+__qw__uh ==__ca
+__s^fa__b- - so if there's any suggestions you have for that i was just going to send him the ==__ca
+__s__is it the same directory that you had suggested ?__c3
+__qw^br^rt__i made a directory .__ca
+__s.%--__i called it ==__ca
+__%__um ==__ca
+__s^bk__well this isn't ==__ca
+__s^rt__he still has his unix account here you know .__c2
+__s^rt__he does ?__ca
+__s__yeah .__c2
+__b__yeah .__ca
+__s^rt__and he - and he's ==__c2
+__s__but - but - but he has to ==__ca
+__b__i'd have to add him to meeting recorder i guess .__c2
+__fh__he prefe- - he said he would prefer f t p .__ca
+__qy^bu^d^rt__but ==__c2
+__h|s^nd__okay .__c2
+__s^na__and also um the other person that wants it - there is one person at s r i who wants to look at the um you know the uh - the data we have so far .__ca
+__s^na^r__okay .__c2
+__b__and so i figured that f t p is the best approach .__ca
+__s^df__so what i did is i um i made a n- - new directory .__ca
+__s^df__after chuck said that would c- - that was going to be a good thing .__ca
+__s__uh | so it's f t p pub ==__ca
+__b__pub real .__c0
+__s.%--__real .__ca
+__qw^j^rt__exactly .__ca
+__%-__m t g c .__ca
+__s^df__what is it again ?__ca
+__b__c r ==__ca
+__b__u- - r d - r d r .__c5
+__b__ask dan ellis .__c0
+__qy^rt__or ==__ca
+__b__yeah .__c5
+__%-__yeah .__ca
+__fg__right .__ca
+__s^tc__the same - the same as the mailing list .__ca
+__s__and ==__ca
+__fh|s__yeah .__c5
+__s__yeah .__ca
+__b__the - no vowels .__c5
+__s__um ==__ca
+__s__and then under there ==__ca
+__s__yeah .__c5
+__fh__um actually - oh and this directory is not readable .__ca
+__%__it's only uh accessible .__ca
+__s__so in other words to access anything under there you have to be told what the name is .__ca
+__s^ar^t3__so that's sort of a g- - quick and dirty way of doing access control .__ca
+__s__right .__c0
+__s^t3__uhhuh .__c5
+__s__so ==__ca
+__s^df.%-__uh | and the directory for this i call it i- - a s r zero point one .__ca
+__s^bk__because it's sort of meant for recognition .__ca
+__%-__so anyone who hears this meeting now knows the ==__c5
+__s__beta .__c0
+__qy^d^f^g__and then - then in there i have a file that lists all the other files .__ca
+__b__so that someone can get that file and then know the file names and therefore download them .__ca
+__s.%--__if you don't know the file names you can't ==__ca
+__s__is that a dash or a dot in there ?__c5
+__s__i mean you can ==__ca
+__fh__don't - don't - don't say .__c0
+__s__dash .__ca
+__s^df__anyway .__ca
+__b__so all i - all i was going to do there was stick the - the transcripts after we - the way that we munged them for scoring .__ca
+__s__because that's what he cares about .__ca
+__s^aa__and ==__ca
+__s^aa__um ==__ca
+__s.%--__and also - and then the - the waveforms that don segmented .__ca
+__s^aa^r__i mean just basically tar them all up f- - i mean w- - for each meeting i tar them all into one tar file and g. zip them and stick them there .__ca
+__s__i uh - put digits in my own home directory - home f t p directory .__c0
+__fh__and so .__ca
+__s^aa|s^na__but i'll probably move them there as well .__c0
+__s__oh okay .__ca
+__s^df__okay .__ca
+__s^aa__so we could point mari to this also for her march o one request ?__c3
+__s^df__yeah .__ca
+__s^bk__march o one ?__ca
+__s^df__oh !__ca
+__%__or ==__c3
+__s^aa__you n- - remember she was ==__c3
+__s__oh she wanted that also ?__ca
+__s__well she was saying that it would be nice if we had - they had a ==__c3
+__b__or was she talking ?__c3
+__b__yeah .__c3
+__s^ft.%__she was saying it would be nice if they had uh the same set .__c3
+__qy^rt__so that when they did experiments they could compare .__c3
+__s__right .__ca
+__s__but they don't have a recognizer even .__ca
+__s__yeah .__c3
+__s__um ==__c4
+__fh__but yeah .__ca
+__s__i- ==__c4
+__s__we can send - i can c c mari on this so that she knows ==__ca
+__s__yeah .__c3
+__s__so for the thing that ==__c3
+__s__that's good .__c2
+__s^rt__we need to give brian the beeps file .__c3
+__s__right .__ca
+__s__so i was going to probably put it ==__c3
+__s^cc__we can put it in the same place .__c0
+__s^cs__yeah | it- ==__c3
+__s^df__just put in another directory .__c0
+__fh__well | make ano- - make another directory .__ca
+__s__i'll make another directory .__c3
+__fh__yeah .__c3
+__qw.%--__you don't n- - m- ==__ca
+__s^bk__exactly .__c3
+__fh__yeah .__ca
+__s.%-__yeah .__c3
+__s^j__yeah .__ca
+__s^ar__and andreas um - sampled .__c4
+__s.%-__they are ?__ca
+__s^rt__i think so .__c4
+__fh__yeah .__c4
+__s__okay .__ca
+__fh__um so either we should regenerate the original versions or um we should just make a note of it .__c4
+__s^rt__oh .__ca
+__s__beca- - well ==__ca
+__s__okay | because in one directory there's two versions .__ca
+__s^rt__yeah | that's the first meeting i cut both versions .__c4
+__s^rt__okay .__ca
+__s__just to check which w- - if there is a significant difference .__c4
+__fh__and so i ==__ca
+__s.%--__but ==__ca
+__fh__okay .__ca
+__s__so - but for the other meetings it's the downsampled version that you have .__ca
+__s^df__they're all downsampled .__c4
+__fh__yeah .__c4
+__s__oh okay .__ca
+__s__oh that's th- - important to know .__ca
+__s__okay .__ca
+__fh|s__so ==__ca
+__fh__we should probably - uh give them the non downsampled versions .__ca
+__s__yeah .__c4
+__b__so ==__c4
+__s^bk__okay .__ca
+__s^ba__all right | then i'll hold off on that and i'll wait for you to ==__ca
+__qy^co^d^rt__um ==__ca
+__h|s^cc__probably by tomorrow .__c4
+__s^rt__gen- ==__ca
+__s__i can ==__c4
+__s__okay .__ca
+__fh__i'll send you an email .__c4
+__s__all right .__ca
+__s^df__okay .__ca
+__s^bu__yeah definitely they should have the full bandwidth version .__ca
+__s^rt__okay .__ca
+__s__yeah .__c4
+__b__because i mean - i- - i think liz decided to go ahead with the downsampled versions because we can - there was no s- - like r- - significant difference .__c4
+__%__well | it takes - it takes up less disk space for one thing .__ca
+__s__it does take up less disk space .__c4
+__s^fa__and apparently it did even better than the original - than the original versions .__c4
+__fh__yeah .__ca
+__%__yeah .__ca
+__s^bk|qw^rt__right .__ca
+__h|s__which you know is just probably random .__c4
+__s__yeah it was a small difference .__ca
+__s__but yeah .__ca
+__fh__but um they probably w- - want the originals .__c4
+__s^rt__yeah .__ca
+__b__okay .__ca
+__s__okay .__ca
+__s__good .__ca
+__s__good that ==__ca
+__s__well it's a good thing that ==__ca
+__b__okay i think we're losing don and andreas at three thirty .__c0
+__s^ba__right ?__c0
+__s__yeah .__ca
+__s^df__hey mon have to booga .__c4
+__s^aa__okay .__c0
+__s^df__so ==__c5
+__s^bk__that's why it was good to have andreas say these things .__c5
+__s__but ==__c5
+__%-__so we should probably talk about the i b m transcription process stuff that ==__c5
+__s__okay .__c2
+__b__huh .__c5
+__s__so um | you know that adam created um a b- - a script to generate the beep file ?__c2
+__s^aa__to then create something to send to i b m .__c2
+__qy^d^g__and um ==__c2
+__s__you - you should probably talk about that .__c2
+__qy^bu^d^rt__but - but you were going to to use the originally transcribed file .__c2
+__s^ar|qy^bu^d^rt__because i tightened the time bins .__c2
+__s^df__and that's also the one that they had already in trying to debug the first stage of this .__c2
+__b__and uh ==__c2
+__s^bk__my understanding was that ==__c2
+__s__um ==__c2
+__%-__i haven't - i haven't listened to it yet .__c2
+__b__but it sounded very good .__c2
+__b__uhhuh .__c0
+__s__and - and i understand that you guys were going to have a meeting today before this meeting .__c2
+__b__it was just to talk about how to generate it .__c0
+__b__um | just so that while i'm gone you can regenerate it if you decide to do it a different way .__c0
+__b__excellent .__c2
+__s^aa__so uh chuck and thilo should now more or less know how to generate the file .__c0
+__s^bk__okay .__c2
+__s__and the other thing chuck pointed out is that um since this one is hand marked there are discourse boundaries .__c0
+__b__right ?__c0
+__s__uhhuh .__c2
+__s^na__so - so when one person is speaking there's breaks .__c0
+__b__whereas thilo's won't have that .__c0
+__b__oh .__c2
+__fg__okay .__c2
+__s^tc__so what - what we're probably going to do is just write a script that if two chunks are very close to each other on the same channel we'll just merge them .__c0
+__fh__uh interesting .__c2
+__s__yeah .__c2
+__s__yeah .__c2
+__s^co__oh sure .__c2
+__qy^g__yeah sure .__c2
+__s^nd__makes sense .__c2
+__s^aa__so | uh and that will get around the problem of the you know one word beep one word beep one word beep one word beep .__c0
+__s^bk__yeah .__c2
+__s^fa__uh .__c2
+__s^bu__clever .__c2
+__s^aa__yes .__c2
+__s^bk__clever .__c2
+__s^co^rt^tc__yeah .__c2
+__s^cs__excellent .__c2
+__s^2__yeah in fact after our meeting uh this morning thilo came in and said that um there could be other differences between the uh already transcribed meeting with the beeps in it and one that has just r- - been run through his process .__c3
+__s^cc^rt__and that's the purpose .__c2
+__s^cc^rt__yeah .__c2
+__s__so tomorrow when we go to make the um uh chunked file for i b m we're going to actually compare the two .__c3
+__s__so he's going to run his process on that same meeting .__c3
+__s^e__great idea .__c2
+__s__and then we're going to do the beep ify on both and listen to them and see if we notice any real differences .__c3
+__qw__beep ify !__ca
+__qy^d__okay .__c2
+__qrr.%--__now one thing that prevented us from apply- - you - you from applying ==__c2
+__fh|s.%-__exactly .__c2
+__%--__the training .__c2
+__qy^d^rt__so that is the training meeting .__c2
+__s|qy^d^g^rt__yeah .__c3
+__s^aa__w- - and we know that .__c3
+__s__okay .__c2
+__s^bk__wel- - uh we just want to if - if there're any major differences between doing it on the hand- ==__c3
+__s^bk.%__uhhuh .__c2
+__s__oh interesting .__c2
+__s^no__uh .__c2
+__s^cc__okay .__c2
+__s^df__huh .__c0
+__s^am__interesting idea .__c2
+__s^am__so this training meeting uh w- - un- - is that uh some data where we have uh very um you know accurate time marks for ?==__ca
+__s__great .__c2
+__s__i went back and hand marked the ba- - the bins .__c2
+__s^ba__i ment- - i mentioned that last week .__c2
+__s__okay .__ca
+__s:s^fe__yeah .__ca
+__s:s^no__but the - but there's - yeah but there is this one issue with them in that there're - there are time boundaries in there that occur in the middle of speech .__c3
+__s__because ==__ca
+__s:s^no__so ==__c3
+__fh__like when we went t- - to ==__c3
+__s__um ==__c3
+__qy^d^f^g__when i was listening to the original file that adam had it's like you - you hear a word then you hear a beep and then you hear the continuation of what is the same sentence .__c3
+__s__that's on the other channel .__c0
+__s__that's because of channel overlap .__c0
+__fg|s^cs__well ==__c3
+__s^df__and - and so the - th- ==__c3
+__fh__huh ==__c2
+__s^ba__so there are these chunks that look like uh that have uh ==__c3
+__s__it's - i- ==__c0
+__fh|s__i mean that's not going to be true of the foreground speaker .__c0
+__s^df__that'll only be if it's the background speaker .__c0
+__fh__right .__c3
+__s__so you'll - you'll have a chunk of you know channel a which starts at zero and ends at ten .__c3
+__fh__and then the same channel starting at eleven .__c3
+__qy^bu^d__ending at fifteen .__c3
+__s^aa__and then again starting at sixteen .__c3
+__s^aa^r__ending at twenty .__c3
+__s^cs__right ?__c3
+__s^cs^rt__so that's three chunks where actually we w- - can just make one chunk out of that .__c3
+__s^rt__uhhuh .__ca
+__s^ba^e__which is a zero twenty .__c3
+__s^df__yeah .__c2
+__s^df__sure .__c2
+__fh|s^ba^df__that's what i just said .__c0
+__s__sure .__c2
+__s__yeah .__c0
+__qy^d^rt__yeah .__c3
+__s^nd__so i just wanted to make sure that it was clear .__c3
+__fh|s__yeah .__c2
+__fh__i thought that was .__c2
+__s__so | if you were to use these you have to be careful not to pull out these individual ==__c3
+__%__yeah .__c2
+__fh__oh .__ca
+__s^ar|s.%--__i mean it ==__ca
+__fg__right .__ca
+__s^nd__i mean w- - i mean what i would - i was interested in is having a se- - having time marks for the beginnings and ends of speech .__ca
+__s^df__by each speaker .__ca
+__s^cs__well that's definitely a problem .__c0
+__s^cs__uh because we could use that to fine tune our alignment process .__ca
+__fh__to make it more accurate .__ca
+__%--__yeah .__c3
+__s__battery .__c0
+__s^df__battery ?__c1
+__s^cs__uhhuh .__c3
+__s^cs__so ==__ca
+__s^ng__uh ==__ca
+__fh__it - i don't care that you know there's actually abutting segments that we have to join together .__ca
+__s^df__that's fine .__ca
+__s^bk__okay .__c3
+__s^bk__but what we do care about is that the beginnings and ends um are actually close to the speech inside of that ==__ca
+__s^df__yeah .__c3
+__s^fa__uh ==__ca
+__s^bk__i think jane tightened these up by hand .__c3
+__s__okay .__ca
+__s__okay .__c1
+__s^fa__yeah .__c2
+__fh__so what is the - sort of how tight are they ?__ca
+__s^bk__uh it looks much better .__c5
+__%-__yeah .__c1
+__fg__looks good .__c1
+__s^ar__they were um reasonably tight but not excruciatingly tight .__c2
+__s__oh .__ca
+__fh|s__that would've taken more time .__c2
+__qw__i just wanted to get it so tha- - so that if you have like yeah in a - swimming in a big bin then it's ==__c2
+__qy^rt__no no .__ca
+__qy__i don- ==__ca
+__qy^d__actually i - i ==__ca
+__qy__let me make a note on yours .__c0
+__s__i - it's f- ==__ca
+__s__yeah .__c1
+__s__that's fine .__ca
+__qw^rt__because we don't want to ==__ca
+__s__th- - that's perfectly fine .__ca
+__s^e__in fact it's good .__ca
+__s^e__you always want to have a little bit of pause or nonspeech around the speech say for recognition purposes .__ca
+__s__uh ==__ca
+__s^bk|s^bu__but just - just u- - w- - you know get an id- - i just wanted to have an idea of the of how much extra you allowed .__ca
+__s^aa__um ==__ca
+__s^aa__so that i can interpret the numbers if i compared that with a forced alignment segmentation .__ca
+__s^aa__so ==__ca
+__s^e__i can't answer that .__c2
+__s^e__but - but my main goal was um in these areas where you have a three way overlap and one of the overlaps involves yeah and it's swimming in this huge bin i wanted to get it so that it was clo- - more closely localized .__c2
+__s^e__uhhuh .__ca
+__b__uhhuh .__ca
+__s^e__right .__ca
+__b__but are we talking about i don't know a tenth of a second ?__ca
+__b__a ==__ca
+__s^no.%-__you know ?__ca
+__s__how - how much - how much extra would you allow at most ?__ca
+__s^df__i - i wanted to ==__c2
+__s^bk|s__i wanted it to be able to - l- - he- - be heard normally .__c2
+__b__uhhuh .__ca
+__s__so that if you - if you play back that bin and have it in the mode where it stops at the boundary it sounds like a normal word .__c2
+__s^bk__okay .__ca
+__s^df__it doesn't sound like the person .__c2
+__s^bk|s__i- - i- - i- - it sounds normal .__c2
+__s^aa__it's as if the person could've stopped there .__c2
+__b__uhhuh .__ca
+__s^df__okay .__ca
+__s__and it wouldn't have been an awkward place to stop .__c2
+__s__now sometimes you know it's - these are involved in places where there was no time .__c2
+__s__and so there wouldn't be a gap afterwards because ==__c2
+__s^bk__okay .__ca
+__fh__i mean some cases there're some people um who - who have very long segments of discourse where you know they'll - they'll breath and then i put a break .__c2
+__qy^d^rt__uhhuh .__ca
+__qy^d__but other than that it's really pretty continuous .__c2
+__s^bk__and this includes things like going from one sentence into the - u- - one utterance into the next one sentence into the next .__c2
+__s^co^tc__um ==__c2
+__s__w- - without really stopping .__c2
+__qy^d^rt__i mean - i- - they i- ==__c2
+__qy^d^rt__you know in writing you have this two spaces and a big gap .__c2
+__s^bk__uhhuh .__ca
+__s^aa__you know ?__c2
+__s^na__right .__ca
+__s^no__but - but uh i- - some people are planning ==__c2
+__s__and you know i mean a lot - we always are planning what we're going to say next .__c2
+__s__okay .__ca
+__fh|s.%--__but uh in which case the gap between these two complete syntactic units um which of course n- - spoken things are not always complete syntactically .__c2
+__fh|s__but - but it would be a shorter p- - shorter break than maybe you might like .__c2
+__s^cs__uhhuh .__ca
+__s__but the goal there was to not have the text be so - so crudely parsed in a time bin .__c2
+__s^cc__i mean because from a discourse m- - purpose it's it's more - it's more useful to be able to see ==__c2
+____and also you know from a speech recognition purpose my impression is that if you have too long a unit it's - it doesn't help you very much either .__c2
+__z__because of the memory .__c2
+__z__well yeah .__ca
+__z__that's fine .__ca
+__z__so that means that the amount of time after something is variable depending partly on context .__c2
+____but my general goal when there was sufficient space room pause after it to have it be kind of a natural feeling gap .__c2
+____okay .__ca
+____which i c- - i don't know what it would be quantified as .__c2
+__z__you know wally chafe says that um in producing narratives the spurts that people use tend to be uh that the - the - what would be a pause might be something like two - two seconds .__c2
+__z__huh .__ca
+__z__and um that would be you know one speaker .__c2
+__z__the discourse - the people who look at turn taking often do use ==__c2
+__z__uhhuh .__ca
+__z__i was interested that you chose uh you know um the - you know that unit you use .__c2
+__z__because i think that's a unit that would be more consistent with sociolinguistics .__c2
+__z__well we chose um you know half a second .__ca
+__z__yeah .__c2
+__z__because if - if you go much larger you have a - y- - you know your - your statement about how much overlap there is becomes less um precise .__ca
+__z__because you include more of actual pause time into what you consider overlap speech .__ca
+____uhhuh .__c2
+____um ==__ca
+__z__so ==__ca
+__z__it's sort of a compromise .__ca
+__z__and - it's also based ==__ca
+__z__i mean liz suggested that value based on the distribution of pause times that you see in switchboard and - and other corpora .__ca
+__z__uhhuh .__c2
+__z__um ==__ca

@@ -1,0 +1,1602 @@
+__z__that's looks strange .__c9
+__z__okay .__c1
+__z__oh there we go .__c4
+__z__now we're on and it seems to be working .__c1
+__z__one two three four five six .__c2
+__z__this looks good .__c4
+__z__that is weird .__c0
+__z__it's like when it's been sitting for a long time or something .__c0
+__z__so i mean ==__c1
+__z__i don't know what it is .__c1
+__z__but all - all i know is that it seems like every time i am up here after a meeting and i start it it works fine .__c1
+__z__and if i'm up here and i start it and we're all sitting here waiting to have a meeting it gives me that error message .__c1
+__z__and i have not yet sat down with - been able to get that error message in a point where i can sit down and find out where it's occurring in the code .__c1
+__z__next time you get it maybe we should write it down .__c0
+__qy^rt^t__yep we will .__c1
+__s^ar__yeah .__c3
+__s^na__was it a pause or ?==__c4
+__s__one of these days .__c1
+__s^no.%--__okay .__c4
+__s^aa__was it on pause or something ?__c4
+__s^e__no .__c1
+__s^j__okay .__c4
+__s^j__don't know .__c4
+__fg__so | uh so the uh the new procedural change that just got suggested which i think is a good idea is that um we do the digit recordings at the end .__c3
+__%-__and that way if we're recording somebody else's uh meeting and a number of the participants have to run off to some other meeting and don't have the time uh then they can run off .__c3
+__qh^t__it'll mean we'll get somewhat fewer uh sets of digits .__c3
+__s^aa^rt__but um | i think that way we'll cut into people's time um if someone's on strict time uh less .__c3
+__s^aa__so i th- - i think - i think we should start doing that .__c3
+__s__um so | uh let's see we were having a discussion the other day maybe we should bring that up about uh the nature of the data that we are collecting .__c3
+__s^bk__uh | @reject@ that uh we should have a fair amount of data that is um collected for the same meeting so that we can ==__c3
+__fh|s^rt^t__uh ==__c3
+__s^e^rt__i don't know .__c3
+__s^bk|s^t.%--__wh- - what - what were some of the points again about that ?__c3
+__s^cs^t__is it ?==__c3
+__s__uh | well okay i'll back up .__c9
+__s^bk^rt__um at the previous - at last week's meeting this meeting i was griping about wanting to get more data .__c9
+__s^nd__yeah .__c3
+__s^ba__and i - i talked about this with jane and adam .__c9
+__s^aa__um | and was thinking of this mostly just so that we could do research on this data um since we'll have a new - this new student di- - does want to work with us .__c9
+__s^aa__th- - the guy that was at the last meeting .__c9
+__s__well great .__c0
+__s^aa.%--__great .__c0
+__s^bk^rt__and he's already funded part time .__c9
+__fh__so we'll only be paying him for sort of for half of the normal part time .__c9
+__s.%--__what a deal .__c0
+__s.%-__uh yeah .__c9
+__s^aa__and what's he interested in specifically ?__c1
+__s^bk^rt__so ==__c9
+__s^t__he's - comes from a signal processing background .__c9
+__%-__but i liked him a lot .__c9
+__fh|s__because he's very interested in higher level things like language and disfluencies and all kinds of eb- - maybe prosody .__c9
+__fh|qy^bu^d^rt__uhhuh .__c1
+__s^nd__so he's just getting his feet wet in that .__c9
+__s^bk^m__great .__c1
+__s^bk^m__anyway | i thought okay maybe we should have enough data so that if he starts - he'd be starting in january next semester that we'd have you know enough data to work with .__c9
+__s^am__right .__c1
+__s__but um | jane and adam brought up a lot of good points that just posting a note to berkeley people to have them come down here has some problems in that you m- - you need to make sure that the speakers are who you want and that the meeting type is what you want and so forth .__c9
+__s^m__so | i thought about that and i think it's still possible .__c9
+__s^co^rt__um | but i'd rather try to get more regular meetings of types that we know about and hear then sort of a mish mosh of a bunch of one - onetime .__c9
+__s.%__one offs .__c1
+__b.%__yeah just because it would be very hard to process the data in all senses .__c9
+__fh__both to get the - um to figure out what type of meeting it is and to do any kind of higher level work on it like well i was talking to morgan about .__c9
+__qy^rt__things like summarization or what's this meeting about .__c9
+__s^br^j^rt__i mean | it's very different if you have a group that's just giving a report on what they did that week versus coming to a decision and so forth .__c9
+__fh__so | then i was um talking to morgan about some new proposed work in this area sort of a separate issue from what the student would be working on where i was thinking of doing some kind of summarization of meetings or trying to find cues in both the utterances and in the utterance patterns .__c9
+__qw.%-__like in numbers of overlaps and amount of speech .__c9
+__s^br^j^r^rt__sort of raw cues from the interaction that can be measured from the signals and from the diff- - different microphones that point to sort of hot spots in the meeting or things where stuff is going on that might be important for someone who didn't attend to listen to .__c9
+__qw__and in that uh regard i thought we definitely w- - will need it'd b- - it'd be nice for us to have a bunch of data from a few different domains or a few different kinds of meetings .__c9
+__s^aa|s^co__so this - this meeting is one of them .__c9
+__b__although i'm not sure i can participate if i ==__c9
+__s^co__you know i would feel very strange being part of a meeting that you were then analyzing later for things like summarization .__c9
+__fh__uhhuh .__c1
+__b__um | and then there are some others that menti- - that morgan mentioned .__c9
+__h|s^t__like the front end meeting and maybe a networking group meeting .__c9
+__s^na__right .__c1
+__s^aa__yep .__c1
+__s^bk__yeah | we're - we're hoping that they'll let us start recording regularly .__c1
+__fh|s.%--__so - so if that were the case then i think we'd have enough .__c9
+__s.%--__so ==__c1
+__s.%--__uhhuh .__c1
+__fh|s__but basically for anything where you're trying to get a summarization of some kind of meeting meaning out of the meeting um it would be too hard to have fifty different kinds of meetings where we didn't really have a good grasp on what does it mean to summarize .__c9
+__s^e__yeah .__c1
+__s^e__but - rather we should have different meetings by the same group but hopefully that have different summaries .__c9
+__fh|s.%--__and then we need a couple that - of - we don't want to just have one group .__c9
+__s__because that might be specific to that particular group but three or four different kinds .__c9
+__b__s- - so ==__c3
+__fh__yeah we have a lot of overlap between this meeting and the morning meeting .__c1
+__s__see i've never listened to the data for the front end meeting .__c9
+__b__yeah .__c2
+__fh|s__yeah .__c3
+__s__yeah we - we've only had three .__c1
+__s__so ==__c1
+__b__okay .__c9
+__fh|s.%--__but maybe that's enough .__c9
+__s:qw__so in general i was thinking more data .__c9
+__fh|s__but also data where we hold some parameters constant or fairly similar .__c9
+__b__like a meeting about of people doing a certain kind of work where at least half the participants each time are the same .__c9
+__s__uhhuh .__c1
+__s__um ==__c1
+__b.%__now | let - l- - l- - let me just give you the other side to that .__c3
+__%--__because i ca- - because i - i don't disagree with that .__c3
+__s__but i think there is a complimentary piece to it too .__c3
+__s^df__uh | for other kinds of research particularly the acoustic oriented research i actually feel the opposite need .__c3
+__b.%__i'd like to have lots of different people .__c3
+__s__right .__c9
+__s^cs__right .__c9
+__s^df__as many people here a- - a- - and talking about the kind of thing that you were just talking about it would have uh too few people from my point of view .__c3
+__b.%__i'd like to have many different speakers .__c3
+__s__so um | i think i would also very much like us to have a fair amount of really random scattered meetings of somebody coming down from campus and - and uh ==__c3
+__s__uhhuh .__c2
+__b__i mean sure if we can get more from them fine .__c3
+__fh__uhhuh .__c4
+__s__right .__c9
+__fh__but if we only get one or two from each group that still could be useful acoustically just because we'd have close and distant microphones with different people .__c3
+__s^bk__yeah | i definitely agree with that .__c9
+__qh^t^tc__yeah .__c2
+__s^aa__uhhuh .__c4
+__qy.%--__definitely .__c9
+__qy^bu^d^rt__yeah .__c2
+__s^aa__can i - can i say about that - that the - the issues that i think adam and i raised were more a matter of advertising so that you get more native speakers .__c4
+__s^bk__because i think if you just say ==__c4
+__s^aa__an- - and in particular my suggestion was to advertise to linguistics grad students because there you'd have so- - people who'd have proficiency enough in english that - that uh it would be useful for - for purposes you know .__c4
+__h|s^rt__uhhuh .__c3
+__b^rt__but you know i think i've been - i've i - i've gathered data from undergrads at - on campus .__c4
+__fh|s^rt__and if you just post randomly to undergrads i think you'd get such a mixed bag that it would be hard to know how much conversation you'd have at all and - and the english you'd have - the language models would be really hard to build .__c4
+__s^e^rt__well | you want to i- ==__c3
+__s__because it would not really be - it would be an interlanguage rather than than a ==__c4
+__s__well | okay uh first place i - i - i don't think we'd just want to have random people come down and talk to one another .__c3
+__b__okay .__c4
+__b__i think there should be a meeting that has some goal and point because i - i think that's what we're investigating .__c3
+__s.%--__it has to be a - a pre-existing meeting like a meeting that would otherwise happen anyway .__c9
+__s__so ==__c3
+__s^2__yeah yeah .__c3
+__s^e__right .__c1
+__s^e__okay .__c4
+__s__so | i was - i was thinking more in terms of talking to professors uh and - and - and uh senior uh uh d- - and uh doctoral students who are leading projects and offering to them that they have their - hold their meeting down here .__c3
+__s__yep .__c1
+__s__that's i think what we - and i agree with .__c9
+__qy^bu^d^rt__oh interesting !__c4
+__qrr.%--__yeah .__c2
+__s^na__oh i see .__c4
+__fh|s__oh interesting !__c4
+__b__uh that's the first point .__c3
+__fh|s__the second point is ==__c3
+__s__um ==__c3
+__s^aa__i think that for some time now going back through berp i think that we have had speakers that we've worked with who had non native accents and i th- - i think that ==__c3
+__s^aa__oh oh | i'm not saying accents .__c4
+__s^na__the accent's not the problem .__c4
+__h|s__oh okay .__c3
+__s__no | it's more a matter of uh proficiency .__c4
+__b__e- - e- - just simply fluency .__c4
+__s__i mean i deal with people on - on campus who - i think sometimes people undergraduates um in computer science uh have language skills that make - you know that their - their fluency and writing skills are not so strong .__c4
+__qy^rt__yeah .__c3
+__s__oh !__c3
+__qrr.%-__you're not talking about foreign language at all .__c3
+__s^bk__yeah yeah just talking about .__c1
+__s^e__you're just talking about ==__c3
+__b__well | e- - i just think ==__c4
+__qw.%-__we all had the same thought .__c1
+__s__but you know it's like when you get into the graduate level uh no problem .__c4
+__fh__i mean i'm not saying accents .__c4
+__qw__uhhuh .__c2
+__s^am__yeah then we're completely gone .__c3
+__b__i'm say- - i'm saying fluency .__c4
+__s__it's - the - the habits are already burnt in .__c3
+__s__uhhuh .__c1
+__b__well yeah .__c4
+__s__i'm just saying fluency .__c4
+__s__but ==__c3
+__b^rt__well i think that um i think that the only thing we should say in the advertisement is that the meeting should be held in english .__c1
+__b__yeah .__c3
+__s__and - and i think if it's a pre existing meeting and it's held in english i - i think it's probably okay if a few of the people don't have g- - uh particularly good english skills .__c1
+__s^e__okay now can i - can i say the other aspect of this from my perspective .__c4
+__fg__which is that um there's - there's this - this issue you have a corpus out there it should be used for - for multiple things .__c4
+__fg__because it's so expensive to put together .__c4
+__s__right .__c1
+__qw.%-__right .__c3
+__qy^rt__and if people want to approach ==__c4
+__fg__um ==__c4
+__s^na__i so i know e- - e- - you know this ==__c4
+__s^df__the idea of computational linguistics and probabilistic grammars and all may not be the focus of this group .__c4
+__s^e__uhhuh .__c3
+__s.%--__but the idea of language models which are fund- - you know generally speaking uh you know t- - t- - terms of like the amount of benefit per dollar spent or an hour invested in preparing the data .__c4
+__s.%--__uhhuh .__c3
+__fh__uhhuh .__c3
+__s__if you have a choice between people who are pr- - more proficient in um i- - more fluent more - more close to being academic english then it would seem to me to be a good thing .__c4
+__fh__i guess - i- - maybe ==__c3
+__fg|s^bu__huh .__c3
+__b.%__because otherwise y- - you don't have the ability to have ==__c4
+__s^aa__i- ==__c3
+__s^aa^r__uh so if - if you have a bunch of idiolects that's the worst possible case .__c4
+__s__if you have people who are using english as a - as an interlanguage because they - they don't uh they can't speak in their native languages and - but their interlanguage isn't really a match to any existing uh language model .__c4
+__s^aa__uhhuh .__c3
+__b__this is the worst case scenario .__c4
+__s.%--__yeah .__c2
+__s^aa__yeah .__c2
+__b.%__well that's pretty much what you're going to have in the networking group .__c3
+__s^aa__and ==__c4
+__b__right .__c1
+__b__because - because they - most - the network group is almost entirely germans and spaniards .__c3
+__b.%__well ==__c4
+__s^aa__oh .__c4
+__fg__but the thing is i think that these people are of high enough level in their - in their language proficiency that ==__c4
+__s^arp__i see .__c3
+__fg__and i'm not objecting to accents .__c4
+__s^aa__i - i'm - i'm just thinking that we have to think at a - at a higher level view could we have a language model a - a grammar a grammar basically that um wo- - would be a - a possibility .__c4
+__s^e__okay .__c3
+__s^ba__uhhuh .__c3
+__fh__so y- - so if you wanted to bring in a model like dan jurafsky's model an- - and do some top down stuff it - to help th- - the bottom up and merge the things or whatever uh it seems like um i don't see that there's an argument .__c4
+__fg|s^t__uhhuh .__c3
+__fh|s__i'm - i - what i think is that why not have the corpus since it's so expensive to put together uh useful for the widest range of - of central corp- - things that people generally use corpora for and which are you know used in computational linguistics .__c4
+__b__uhhuh .__c3
+__fh|s__that's - that's my point which - which includes both top down and bottom up .__c4
+__qy__okay .__c3
+__s^ar__it's difficult .__c2
+__s^ar|s__yeah .__c2
+__s__okay well i- - i- - let's - let's see what we can get .__c3
+__%-__i mean it - it - i think that if we're aiming at - at uh groups of graduate students and professors and so forth who are talking about things together and it's from the berkeley campus probably most of it will be okay .__c3
+__s.%--__yes that's fine .__c4
+__s.%--__that's fine .__c4
+__s.%--__exactly .__c4
+__s__and my point in m- - in my note to liz was i think that undergrads are an iff- - iffy population .__c4
+__s^df__but ==__c3
+__s^bk__okay .__c3
+__s^bk|s__i definitely agree with that i mean for this purpose .__c9
+__b__okay .__c3
+__s__okay .__c3
+__b.%__grads and professors fine .__c4
+__%-__yeah .__c2
+__s^aa__well not to mention the fact that i would be hesitant certainly to take anyone under eighteen probably even an- - anyone under twenty one .__c1
+__b.%__yeah .__c2
+__b.%__so ==__c1
+__s.%--__oh you age-ist !__c3
+__s.%--__what's that ?__c1
+__s^e__age-ist .__c4
+__s.%--__well age-ist - the eighteen is because of the consent form .__c1
+__s__right yeah .__c9
+__s^e__yeah .__c2
+__s^e__we'd have to get - find their parent to sign for them .__c1
+__s__age-ist .__c2
+__s__yeah yeah .__c2
+__s__yes .__c3
+__b__yeah that's true .__c4
+__s__so ==__c1
+__s__i have a - uh um question .__c9
+__fh|s^cs__well morgan you were mentioning that mari may not use the k- - equipment from i b m if they found something else because there's a ==__c9
+__s.%--__they're - they're - yeah they're d- - they're uh - assessing whether they should do that or y- - do something else hopefully over the next few weeks .__c3
+__s.%--__because i mean one remote possibility is that if we st- - if we inherited that equipment if she weren't using it could we set up a room in the linguistics department ?__c9
+__s^cs__and - and i mean there - there - may be a lot more - or - or in psych or in comp- - wherever in another building where we could um record people there .__c9
+__s^df__i think we'd have a better chance .__c9
+__s__i think we'd need a real motivated partner to do that .__c1
+__s__right .__c9
+__b__we'd need to find someone on campus who was interested in this .__c1
+__fh__but ==__c9
+__s__right .__c9
+__s__but if there were such a ==__c9
+__fh|qy__i mean it's a remote possibility then um you know one of us could you know go up there and record the meeting or something rather than bring all of them down here .__c9
+__s^aa__yep .__c1
+__fh|s^rt__so it's just a - just a thought if they end up not using the - the hardware .__c9
+__b__well | the other thing yeah i mean the other thing that i was hoping to do in the first place was to turn it into some kind of portable thing so you could wheel it around .__c3
+__s^rt__right .__c1
+__s__uh .__c3
+__s^e__but um | and ==__c3
+__%--__well i know that space is really scarce on - at least in c s .__c1
+__b__uh .__c3
+__fh__you know to - to actually find a room that we could use regularly might actually be very difficult .__c1
+__s__yeah .__c3
+__s^rt__but you may not need a separate room you know .__c9
+__s__that's true .__c1
+__s^e__the idea is if they have a meeting room and they can guarantee that the equipment will be safe and so forth and if one of us is up there once a week to record the meeting or something .__c9
+__s^fa^t3.%__yeah .__c3
+__s^e__true .__c1
+__s^m__uhhuh .__c1
+__s^bk__yep .__c1
+__s__well maybe john would let us put it into the phonology lab or something .__c3
+__b__huh .__c9
+__s__yep .__c1
+__s^rt__you know .__c3
+__s__i - i think it's not out of the question .__c9
+__s^cs__yeah .__c3
+__s__yeah i think it would be interesting because then we could regularly get another meeting .__c1
+__s^bk__um .__c9
+__fg|s^am__so ==__c9
+__fh__yeah .__c2
+__s.%--__another type of meeting .__c1
+__s.%--__right .__c9
+__s__right .__c9
+__b__but i - i - i think you need uh another portable thing a- - another portable equipment to - to do uh more e- - easier the recording process uh out from icsi .__c2
+__s^bk|s__huh .__c1
+__%-__yeah .__c3
+__b__uh | and probably i don't know .__c2
+__s.%--__yeah .__c3
+__qy.%--__right .__c1
+__s^ar|s__uh if you - you want to - to record uh a seminar or a class uh in the university you - you need - it - it would be uh uh very difficult to - to put uh a lot of uh head phones uh in different people when you have to - to record only with uh this kind of uh d- - device .__c2
+__s^ar|s.%-__yeah .__c3
+__s^aa__yeah but ==__c1
+__s^bk__i think if we - if we want to just record with the tabletop microphones that's easy .__c1
+__b__oh- - yeah .__c2
+__s^bk^r__ye- - yeah yeah .__c2
+__s.%--__right ?__c1
+__s^nd__that's very easy .__c1
+__s:s__but that's not the corpus that we're collecting .__c1
+__s__yeah .__c2
+__s^bk__actually that's a int- - that raises an interesting point that came up in our discussion that's maybe worth repeating .__c3
+__s__we realized that um when we were talking about this that okay there's these different things that we want to do with it .__c3
+__s^bk__so um | it's true that we want to be selective in some ways uh the way that you were speaking about with uh not having an interlingua and uh these other issues .__c3
+__s^bk__but on the other hand it's not necessarily true that we need all of the corpus to satisfy all of it .__c3
+__s^tc.%--__so a- - a- - as per the example that we want to have a fair amount that's done with a small n- - recorded with a small uh typ- - number of types of meetings .__c3
+__fh|%--__but we can also have another part that's uh just one or two meetings of each of a - of a range of them .__c3
+__s__and that's okay too .__c3
+__s__uh | i- - we realized in discussion that the other thing is what about this business of distant and close microphones .__c3
+__b__i mean we really want to have a substantial amount recorded this way .__c3
+__s__that's why we did it .__c3
+__b^rt__but what about - for th- - for these issues of summarization a lot of these higher level things you don't really need the distant microphone .__c3
+__s__right .__c9
+__s__i mean i c- - i think there's ==__c9
+__s^rt__you actually don't .__c3
+__s__and you don't really need the close microphone you mean .__c1
+__sj^ba^df__yeah .__c2
+__s__yea- - yeah yeah you actually don't really even need any fancy microphone .__c9
+__fg__which one did you mean ?__c4
+__%-__you d- - you don't ne- - it doesn't - you just need some microphone somewhere .__c3
+__s__you can use found data .__c9
+__b__ye- - yeah yep .__c1
+__s^bk__yeah .__c2
+__b__tape recorder .__c1
+__s__oh .__c4
+__b__yeah .__c3
+__b__yeah .__c2
+__s^cs^tc.%--__you - you can .__c9
+__b__you need some microphone .__c3
+__s^cs__you can .__c9
+__b__use - um but i think that any data that we spend a lot of effort to collect ==__c9
+__sj^ba__but i mean ==__c3
+__sj^ba__uhhuh .__c1
+__fg|s__yeah .__c3
+__s__you know each person who's interested in - i mean we have a cou- - we have a bunch of different um slants and perspectives on what it's useful for um they need to be taking charge of making sure they're getting enough of the kind of data that they want .__c9
+__sj^ba__right .__c3
+__b__and so in my case um i think there w- - there is enough data for some kinds of projects and not enough for others .__c9
+__qy^rt^tc__not enough for others | right .__c1
+__s.%--__and so i'm looking and thinking well i'd be glad to walk over and record people and so forth if it's - to help th- - in my interest .__c9
+__fh__uhhuh .__c1
+__qo^t1__and other people need to do that for themselves uh h- - or at least discuss it so that we can find some optimal .__c9
+__s__right | so that ==__c3
+__s__yeah .__c2
+__s__but i think that - i'm raising that because i think it's relevant exactly for this idea up there that if you think about well gee we have this really complicated setup to do well maybe you don't .__c3
+__qy^bh__maybe if - if - if really all you want is to have a - a - a recording that's good enough to get a - uh a transcription from later you just need to grab a tape recorder and go up and make a recording .__c3
+__qy^rt__yeah .__c1
+__s^bk|s__for some of it .__c1
+__s.%--__right .__c9
+__s__yep .__c1
+__s__i mean we - we could have a fairly - we could just get a dat machine and ==__c3
+__%--__well i agree with jane though on the other hand that ==__c9
+__s__yeah .__c2
+__fh__so that might be true you may say for instance summarization or something that sounds very language oriented .__c9
+__s__you may say well oh yeah you just do that from transcripts of a radio show .__c9
+__b__i mean you don't even need the speech signal .__c9
+__s.%--__right .__c3
+__s__but what you - what i was thinking is long term what would be neat is to be able to pick up on um ==__c9
+__s__suppose you just had a distant microphone there and you really wanted to be able to determine this .__c9
+__b__there's lots of cues you're not going to have .__c9
+__sj^ba__so i do think that long term you should always try to satisfy the greatest number of - of interests and have this parallel information which is really what makes this corpus powerful .__c9
+__sj^ba__right .__c1
+__s^bk__yeah .__c3
+__fh|s__yeah .__c2
+__s__special ?__c1
+__b^rt__yep .__c1
+__s__i - i - i - i - i agree .__c3
+__fh__otherwise you know lots of other sites can propose - individual studies so ==__c9
+__qy^bh__uh | but i - i think that the uh - i- - we can't really underestimate the difficulty - shouldn't really u- - underestimate the difficulty of getting a setup like this up .__c3
+__s__yep .__c1
+__qy^bu^df^rt__and so - uh it took quite a while to get that together and to say oh we'll just do it up there  .__c3
+__b__okay .__c9
+__s^aa__if you're talking about something simple where you throw away a lot of these dimensions then you can do that right away .__c3
+__s^cs__talking about something that has all of these different facets that we have here .__c3
+__b__it won't happen quickly it won't be easy and there's all sorts of issues about th- - you know keeping the equipment safe or else hauling it around and all sorts of o- ==__c3
+__s^aa__so then maybe we should try to bring people here .__c9
+__s^bk|sj^ba__i think the first priority should be to pry to get - try to get people to come here .__c3
+__fg|s^tc__here .__c1
+__b__i mean that's that's ==__c9
+__s__okay so .__c9
+__s__we're set up for it .__c3
+__s^e__uhhuh .__c4
+__b__okay .__c9
+__b^rt__the room is - is really uh underused .__c3
+__s__right .__c9
+__s^rt.%--__uh ==__c3
+__s.%--__i thought the free lunch idea was a great idea .__c4
+__s__yeah i thought so too .__c1
+__s__yeah | i - and - i think we can get people to come here that ==__c9
+__b^rt__free lunch is good .__c3
+__b__yeah .__c2
+__sj^ba__but the issue is you definitely want to make sure that the kind of group you're getting is the right group .__c9
+__b__so that you don't waste a lot of your time and the overhead in bringing people down .__c9
+__s__uhhuh .__c4
+__fg__no crunchy food .__c0
+__s__yeah .__c3
+__s__so well it would be lunch afterwards .__c9
+__s.%-__yeah .__c4
+__s^ar|s__well i was thinking lunch after .__c1
+__s^df__right .__c9
+__s^bk|%-__and they'd have to do their digits or they don't get dessert .__c9
+__s__yeah they have to do their digits or they don't get - they don't get their food .__c3
+__s__yep .__c1
+__s^ng__yeah .__c9
+__s^e__yeah .__c3
+__b__um | i had a - i spoke with some people up at haas business school who volunteered .__c1
+__fg__should i pursue that ?__c1
+__s__oh definitely yeah .__c9
+__b__yeah .__c1
+__s^bk__yeah .__c3
+__b__so ==__c1
+__s^bd__they - they originally - they've decided not to do - go into speech .__c1
+__b__so i'm not sure whether they'll still be so willing to volunteer .__c1
+__s.%--__but i'll send an email and ask .__c1
+__s__tell them about the free lunch .__c3
+__b__i'll tell them about the free lunch .__c1
+__b__yeah .__c9
+__s.%-__yeah .__c9
+__s__and they'll say there's no such thing .__c1
+__s__so ==__c1
+__b__i'd love to get people that are not linguists or engineers because these are both weird .__c9
+__s__right .__c1
+__s__yeah .__c3
+__b.%__yeah .__c2
+__s__the - the - the oth- - the other h- ==__c3
+__b__well i know i shouldn't say that .__c9
+__qy__that's all right .__c1
+__s__no the- - they - they're very weird .__c1
+__s^rt__we need a wider sampling .__c9
+__s^bk__beep .__c0
+__s__uh ==__c3
+__s^bk|s^cs__yeah .__c2
+__s.%--__beep .__c3
+__s__uh | the - the ==__c3
+__s^bk|s__the problem with engineers is beep .__c1
+__fg|s__they make funny sounds .__c3
+__b__the o- - the o- - the other - the other thing is uh that we - we talked about is give to them - uh burn an extra c d rom .__c3
+__s^bk__yep let them have their meeting .__c1
+__fh__and give them - so if they want a - basically and audio record of their ==__c3
+__fg|s__well i thought that was - i thought he meant give them a music c d like they g- - then he said a c d of the - of their speech .__c9
+__fh__oh .__c3
+__s__and i guess it depends of what kind of audience you're talking to .__c9
+__s__but you know i personally would not want a c d of my meeting .__c9
+__qy^rt__of the meeting .__c1
+__h|s^na__but maybe - yeah maybe you're ==__c9
+__s.%--__if you're having some planning meeting of some sort and uh you'd like ==__c3
+__s^bk__right right right .__c9
+__s^bk__oh that's a good idea .__c0
+__s__it'd be fun .__c1
+__fh__yeah .__c3
+__s__i think it would just be fun you know if nothing else you know .__c1
+__fh__right .__c9
+__fg|s__yeah .__c2
+__fg__but it als- - it - it - it also i think builds up towards the goal .__c3
+__s__it's a novelty item .__c1
+__s^rt__right .__c9
+__s^rt__we're saying look you know you're going to get this .__c3
+__s__is- - is- - isn't that neat .__c3
+__b__then you're going to go home with it .__c3
+__b__it's actually p- - it's probably going to be pretty useless to you .__c3
+__s__yep .__c1
+__s__but you'll ge- - appreciate you know where it's useful and where it's useless .__c3
+__fh__right .__c9
+__b__and then we're going to move this technology so it'll become useful .__c3
+__fh__no i think that's a great idea actually .__c9
+__s__so ==__c3
+__b__yeah .__c2
+__b__but we might need a little more to incentivize them that's all .__c9
+__b__what if you could tell them that you'll give them the - the transcripts when they come back ?__c0
+__s.%--__alth- ==__c4
+__fh__oh yeah .__c1
+__s.%--__i mean anyone can have the transcripts so i thought we could point that out .__c1
+__fh__oh yeah .__c3
+__s__yeah .__c4
+__s.%-__well that's interesting .__c9
+__s__i hav- - i have to uh raise a little eensy weensy concern about doing th- - giving them the c d immediately because of these issues of you know this kind of stuff where maybe you know .__c4
+__%-__good point .__c3
+__s^aa|s^m__so ==__c4
+__s^2.%--__that's a very good point .__c3
+__s__we could burn it after it's been cleared with the transcript stage .__c4
+__b__so we can - so we can ==__c3
+__s__r- - right .__c3
+__s__and then they - they get a c d but just not the same day .__c4
+__b__oh right .__c9
+__fh__if - it should be the same c d rom that we distribute publically .__c9
+__b__yeah that's right .__c1
+__b__that's a good point .__c1
+__s__right ?__c9
+__b__right it can't be the internal one .__c1
+__fh__otherwise they're not allowed to play it for anyone .__c9
+__s__although it's ==__c3
+__s.%--__there we go .__c4
+__b__oh i like that .__c4
+__fh__that's right .__c1
+__s.%--__well put well put .__c4
+__s^df__so after the transcript screening phase .__c4
+__sj^ba__yeah that's true .__c1
+__b__things have been weeded out .__c4
+__fg__otherwise we'd need two lawyer stages .__c9
+__fh__yeah that's right say yeah well i got this c d and your honor i ==__c4
+__s__yeah .__c1
+__b__that's a good point .__c9
+__s^rt__yeah so that's - so let's start with haas and yeah .__c3
+__s^df__sorry to have to - sorry i have to leave .__c9
+__fg|s__i will be here full time next week .__c9
+__fh__oh that's fine .__c3
+__b__okay see you .__c1
+__s__okay .__c3
+__b__no .__c1
+__b__bye .__c1
+__b__that's all right .__c3
+__s^bk__see you .__c0
+__fh|s__okay .__c3
+__s.%-__see you .__c2
+__fg|s.%--__so uh | let's see .__c3
+__sj^ba^bu__so that was that topic .__c3
+__qy^g__and | then um i guess another topic would be where are we in the whole disk resources question .__c3
+__b.%__for ==__c3
+__fh|s^no__we are slowly slowly getting to the point where we have uh enough sp- - room to record meetings .__c1
+__s.%--__so i uh did a bunch of archiving and still doing a bunch of archiving .__c1
+__b__i - i'm in the midst of doing the p files from uh broadcast news .__c1
+__s__and it took eleven hours to do - to uh - copy it .__c1
+__s__eleven ?__c2
+__s.%--__and it'll take another eleven to do the clone .__c1
+__fh__where did you copy it to ?__c0
+__fh__well it's abbott .__c1
+__s__it's abbott so it just but it's - it's a lot of data .__c1
+__b__sk- - it's copying from one place on abbott to another place on abbott ?__c3
+__s__tape .__c1
+__b__tape ?__c2
+__b__i did an archive .__c1
+__fg|qw^rt^t^tc__oh !__c3
+__h|%--__i'm sorry .__c3
+__qy^bu^d^rt__oh on the tape .__c0
+__qw.%--__oh .__c2
+__s^aa__uh .__c0
+__s__so i'm archiving it and then i'm going to delete the files .__c1
+__b__so that will give us ten gigabytes of free space .__c1
+__s.%-__eleven hours ?__c2
+__qy^d^rt__wow !__c0
+__%-__oh .__c2
+__s^aa__yeah the archiving m- - program does take a long time .__c4
+__b__yeah .__c2
+__s__and - and ==__c1
+__fh__yep .__c1
+__s__and so one- - that - that will be done like in about two hours .__c1
+__s:qy^rt__and so uh | at that point we'll be able to record five more meetings .__c1
+__b__so ==__c1
+__s:qrr__yeah .__c2
+__s:qrr__one thing - the good news about that - that is that once - once it's archived it's pretty quick to get back .__c4
+__fg__yeah .__c2
+__s__i mean it - it - it - the other direction is fast but this direction is really slow .__c4
+__b__is it ?__c3
+__b__right .__c1
+__s.%-__huh .__c3
+__b__yeah .__c2
+__s^m__well especially because i'm generating a clone also .__c1
+__s^bk|qr__yeah okay .__c4
+__sj^ba__so and that takes a while .__c1
+__s.%--__yeah .__c2
+__qw__generating a clone ?__c0
+__qw^e__yeah that's a good point .__c4
+__s__two copies .__c1
+__fh__yeah .__c4
+__s^bk__one offsite one onsite .__c1
+__s^bk__oh .__c0
+__s__oh .__c0
+__s^df__huh .__c0
+__b__now what will uh - is the plan to g- - to - so stuff will be saved it's just that you're relocating it ?__c4
+__b__s- ==__c3
+__fg|s^co__i mean so we're going to get more disk space ?__c4
+__s^bk|s^cc__or did i ?==__c4
+__sj^ba__no | the - the - these are the p files from broadcast news which are regeneratable regeneratable .__c1
+__b.%__okay .__c4
+__b__oh good .__c4
+__s__i see .__c4
+__b__um if we really need to but we had a lot of them and - for the full uh hundred forty hour sets .__c1
+__s.%--__okay .__c4
+__b__and so they - they were two gigabytes per file and we had six of them or something .__c1
+__s__wow !__c4
+__s.%--__yeah .__c2
+__s.%--__wow !__c4
+__b__w- - w- - we are getting more space .__c3
+__s__we are getting uh another disk rack and - and four thirty six gigabyte disks .__c3
+__s__uh so | uh but that's not going to happen instantaneously .__c3
+__s.%--__wonderful .__c4
+__s__or maybe six .__c1
+__s__or maybe six ?__c3
+__b__the sun ha- - uh takes more disks than the andatico one did .__c1
+__s^bk__how many ?__c3
+__s__the sun rack takes th- - one took four and one took six or maybe it was eight and twelve whatever it was it was you know fifty per cent more .__c1
+__s__how much ?==__c3
+__fh__is there a difference in price or something ?__c0
+__b__well what happened is that we - we bought all our racks and disks from andatico for years according to dave .__c1
+__fh|s__and andatico got bought by another company and doubled their prices .__c1
+__b__oh !__c0
+__s__oh .__c2
+__b__and so uh we're looking into other vendors .__c1
+__b__we - by we of course i mean dave .__c1
+__fh__wow .__c4
+__fh__so ==__c1
+__qy^rt__uhhuh .__c0
+__qy^d^e^g^rt.%--__huh i've been looking at the uh aurora data and um first - first look at it there were basically three directories on there that could be moved .__c0
+__s^fe__one was called aurora one was spanish which was carmen's spanish stuff and the other one was um spine .__c0
+__s^cs__spine .__c1
+__s^bk|s^no__and so um | i wrote to dan and he was very concerned that the spine stuff was moving to a non backed up disk .__c0
+__s^aa__so um | i realized that well probably not all of that should be moved just the c d rom type data the - the static data .__c0
+__qr^rt__so i moved that and then um i asked him to check out and see if it was okay .__c0
+__s^co^r__before i actually deleted the old stuff um but i haven't heard back yet .__c0
+__qrr.%--__i told him he could delete it if he wanted to i haven't checked today to see if he's deleted it or not .__c0
+__s^ar|s.%--__and then carmen's stuff i realized that when i had copied all of her stuff to x a i had copied stuff there that was dynamic data .__c0
+__%--__and so i had to redo that one and just copy over the static data .__c0
+__s^na__and so i need to get with her now and delete the old stuff off the disk .__c0
+__s^no__and then i lo- - haven't done any of the aurora stuff .__c0
+__s^j__i have to meet with uh stephane to do that .__c0
+__b__so ==__c0
+__s__so but uh y- - you're figuring you can record another five meetings or something with the space that you're clearing up from the broadcast news .__c3
+__sj^ba__but we have some other disks some of which you're using for aurora .__c3
+__sj^ba__but are we g- - do we have some other other space now ?__c3
+__b__yep .__c1
+__fg__so so | uh we have space on the current disk right now where meeting recorder is .__c1
+__qw^t^tc__yeah .__c3
+__s^cs^rt.%--__and that's probably enough for about four meetings .__c1
+__qo^cs__yeah .__c3
+__s^aa|sj^ba__is that the one that has - is that d c ?__c0
+__s.%--__so ==__c1
+__fg__yep .__c1
+__s__no no .__c1
+__s^df__well it's wherever the meeting recorder currently is .__c1
+__s__i think it's d i .__c1
+__s__okay .__c0
+__s__i - but the stuff i'm moving from aurora is on the d c disk that we ==__c0
+__qy__i don't remember .__c1
+__qrr__th- - i think it's d c- - it's whatever that one is .__c1
+__s^na__okay d c .__c0
+__s__i just don't remember it might be d c .__c1
+__s__yeah .__c0
+__fh__and that has enough for about four more meetings right now .__c1
+__b__uhhuh .__c3
+__fh|s^cs__yeah i mean we were at a hundred per cent and then we dropped down to eighty six for reasons i don't understand .__c1
+__qy^bu^d^rt__um | someone deleted something somewhere .__c1
+__s^aa__and so we have some room again .__c1
+__s^bk__and then with broadcast news that's five or six more meetings .__c1
+__s__so you know we have a couple weeks .__c1
+__s^e__uh | so yeah i think - i think we're okay until we get the new disk .__c1
+__s__okay .__c2
+__fh__so should - um - one question i had for you was um we need - we sh- - probably should move the aurora an- - and all that other stuff off of the meeting recorder disk .__c0
+__b__is there another backed up disk that you know of that would ?==__c0
+__s^cs__we should put it onto the broadcast news one .__c1
+__s__that's probably the best thing to do and that way we consolidate meeting recorder onto one disk rather than spreading them out .__c1
+__fh__okay .__c0
+__qy^d^rt__right .__c0
+__s.%--__right .__c0
+__b__do you know what - happen to know what disk that is off ?__c0
+__b__no .__c1
+__s:qh^rt__okay .__c0
+__b__i mean i can tell you i just don't know off the top of my head .__c1
+__qw^rt__yeah .__c0
+__h__okay .__c0
+__s.%-__all right i'll find out from you .__c0
+__s__but so we could jus- - just do that at the end of today once the archive is complete and i've verified it .__c1
+__s^no__okay .__c0
+__s^bk__because that'll give us plenty of disk .__c1
+__s^bk__uh okay | so uh then i guess th- - the last thing i'd had on my - my agenda was just to hear - hear an update on what - what jose has been doing .__c3
+__s^cs__uhhuh .__c2
+__fh__so ==__c3
+__s.%--__okay .__c2
+__s__i have uh the result of my work during the last days .__c2
+__s__okay .__c3
+__b.%__thank you for your information because i - i read - uh and the - the last uh days uh i work uh in my house uh in a lot of ways and thinking reading uh different things about the - the meeting recording project .__c2
+__s__yeah .__c1
+__s^df__uhhuh .__c3
+__fh__and i have uh some ideas .__c2
+__s__uh this information is very - very useful .__c2
+__s__i'm glad to hear it glad to hear it .__c4
+__s__you have the - the - the distribution now .__c2
+__s:s__but for me uh is interesting because uh uh here's i- - is the demonstration of the overlap uh problem .__c2
+__s__i've seen it already .__c1
+__b__it's a real problem a frequently problem uh because you have overlapping zones uh - uh - uh - all the time .__c2
+__s__yeah .__c4
+__s__yeah .__c4
+__s^aa__yep .__c1
+__b__yeah .__c2
+__b__throughout the meeting .__c1
+__s__uh by a moment i have uh - nnn - the uh n- - i - i did a mark of all the overlapped zones in the meeting recording .__c2
+__b__with uh a exact mark .__c2
+__fh|s.%--__uhhuh .__c1
+__b__oh you did that by hand ?__c1
+__s__that's uh yet b- - b- - yeah by - b- - b- - by hand - by hand because uh uh why .__c2
+__s^aa__can i see that ?__c1
+__s.%-__can i get a copy ?__c1
+__s^cc__oh .__c3
+__s__my - my idea is to work ==__c2
+__qy^d^g^rt__i - i - i do- - i don- - i don't - i don't know uh if uh it will be possible because i - i - i haven't a lot uh enough time to - to - to work uh only just uh six months as you know .__c2
+__s.%-__wow !__c0
+__b__but uh my idea is uh is very interesting to - to work in - in the line of uh automatic segmenter .__c2
+__sj^ba__uhhuh .__c1
+__fh__uh but uh uh in my opinion we need uh uh a reference uh session to - t- - to - to evaluate the - the - the tool .__c2
+__s__yes absolutely .__c1
+__fh__and so are you planning to do that or have you done that already ?__c1
+__s^e__and - no no with i- ==__c2
+__b__sorry ?__c2
+__s__have you done that or are you planning to do that ?__c1
+__s^e__no i - i plan - to do that .__c2
+__b__okay .__c1
+__s__darn !__c1
+__b__i plan - i plan but uh uh the idea is the - is the following .__c2
+__s.%-__now uh i need um to detect uh all the overlapping zones exactly .__c2
+__s__i - i will - i will uh talk about uh in the - in the blackboard about the my ideas .__c2
+__b__yeah .__c4
+__s__duration .__c4
+__b__uhhuh .__c3
+__b__uh um | uh this information uh with uh exactly time marks uh for the overlapping zones uh - overlapping zone and uh a speaker a a - pure speech uh uh speaker zone .__c2
+__fh__i mean uh zones uh of uh speech of uh one speaker without any - any uh noise uh any - any acoustic event uh that uh uh w- - uh is not uh speech - real speech .__c2
+__s^j__and | i need t- - true uh silence .__c2
+__s__for that because my - my idea is to - to study the nnn - the - the set of parameters uh what uh are more m- - more discriminant to uh classify .__c2
+__s__right .__c1
+__b.%__the overlapping zones in cooperation with the speech uh zones .__c2
+__b__the idea is to uh - to use uh - i'm not sure - to - uh yet but uh my idea is to use a - a cluster uh algorithm or nnn a person strong in neural net algorithm to uh - to uh study .__c2
+__s__what is the uh the property of the different feat- - uh feature uh to classify uh speech and overlapping uh speech .__c2
+__%--__huh .__c0
+__b__and my idea is uh it would be interesting to - to have uh a control set .__c2
+__s__and my control set uh will be the uh silence silence without uh any - any noise .__c2
+__s^rt__uhhuh .__c3
+__fh__which means that we'd still - you'd hear the ==__c4
+__s__yeah that's interesting .__c4
+__s__yeah acoustic with this - with - with - yeah the background .__c2
+__s__yeah fans .__c1
+__s__this is like a ground level with - it's not- - it's not total silence .__c4
+__fh__uh i - i mean uh noise uh uh claps uh tape clips uh the difference uh ==__c2
+__b__uhhuh .__c3
+__b__uh uh event uh which uh uh has uh uh a hard effect of distorti- - spectral distortion in the - in the uh speech .__c2
+__s^cs__uhhuh .__c3
+__s.%--__uhhuh .__c4
+__b__so so you intend to hand mark those and exclude them ?__c1
+__s^cs^e__yeah i have mark- - in - in - in - in that - not in all - in all the - the file .__c2
+__s^df__uhhuh .__c1
+__s.%-__only uh uh nnn huh i have uh um i don't remind what is the - the - the - the quantity .__c2
+__s__but uh i - i have marked enough speech on over- - and all the overlapping zones .__c2
+__%-__i have uh two hundred and thirty more or less overlapping zones and is similar to - to this information .__c2
+__s^r__whew !__c1
+__qy^rt__great great .__c4
+__s^df.%-__uhhuh .__c1
+__s^aa__because with the program i cross the information of uh of jane with uh my - my segmentation by hand .__c2
+__s^bk__and is uh mor- - more similar .__c2
+__s^aa^r__excellent .__c4
+__s^aa__glad to hear it .__c4
+__%-__good .__c4
+__s__@reject@ but ==__c2
+__s^e__sorry sorry .__c2
+__s:s__@reject@ go ahead .__c3
+__fh__and the - the idea is uh i - i will use uh - i want - my idea is uh to uh to classify .__c2
+__s.%-__i should've got the digital camera .__c1
+__s^df__oh well .__c1
+__s^co^j__i - i need uh - the exact uh mark of the different uh uh zones .__c2
+__s__because i - i want to put uh for uh each frame a label - indicating it's a sup- - supervised and uh hierarchical clustering process .__c2
+__s__i - i - i put uh uh for each frame a label indicating what is th- - the type what is the class uh which it belong .__c2
+__b__uhhuh .__c1
+__s^cs__uh i mean the class you will overlapping speech overlapping is a class uh speech @reject@ the class that's ==__c2
+__s^cs^e__non speech .__c1
+__b__these will be assigned by hand ?__c0
+__b__a- - i - i - i ha- - i h- - i - i put the mark by hand .__c2
+__s^e__based on the ?==__c0
+__fg__uhhuh .__c0
+__s.%--__because uh my idea is uh in - in the first session i need uh i - i need uh to be sure that the information uh that uh i - i will cluster is - is right because uh uh if not uh i will i will uh return to the speech file to analyze uh what is the problems .__c2
+__s.%--__well training and validation sure .__c1
+__s__uhhuh .__c1
+__s^aa__uh and i - i'd prefer - i would prefer the- - to - to have uh this labeled automatically .__c2
+__%-__but uh uh fro- - th- - i need truth .__c2
+__b__you need truth huh .__c0
+__s^aa__yeah but this is what you're starting with .__c1
+__s__yeah .__c2
+__s^aa__i've got to ask you so uh the difference between the top two i- ==__c4
+__s__yeah yeah yeah .__c2
+__s__so - so - i start at the bottom so silence is clear .__c4
+__b__by speech do you mean speech by one sp- - by one person only ?__c4
+__fh|s__speech ==__c2
+__%-__so this is un- - okay and then and then the top includes people speaking at the same time or - or a speaker and a breath overlapping someone else's breath or - or clicking overlapping with speech so that - that's all those possibilities in the top one .__c4
+__b__yeah .__c2
+__s.%-__yeah .__c2
+__b__yeah .__c2
+__b__is ==__c2
+__b__one or- - two or more .__c1
+__s^j^no__one two three .__c2
+__s.%--__but ==__c2
+__fh|s__no by th- - by the moment n- - yeah yeah yeah .__c2
+__fh|s.%-__yeah .__c2
+__s^j__yeah .__c2
+__s__okay .__c4
+__b__uh in the first moment because uh uh i - i have information uh of the overlapping zones uh information about if the uh overlapping zone is uh from a speech clear speech from a one to a two uh speaker or three speaker or is - is the zone where the breath of a speaker uh overlaps uh onto uh a speech another especially speech .__c2
+__b__so it's basi- - it's basically speech wi- - som- - with - with something overlapping which could be speech but doesn't need to be .__c4
+__s__no no | es- - especially uh overlapping speech from uh different uh uh speaker .__c2
+__b__no but there's - but i think she's saying where do you in these three categories where do you put the instances in which there is one person speaking and other sounds which are not speech ?__c3
+__s__uh .__c2
+__s^cs^t.%--__uh !__c2
+__s__which category do you put that in ?__c3
+__qw^rt__yeah that's right that's my question .__c4
+__s.%--__yeah .__c2
+__s^no__yeah he- - here i - i put uh speech from uh from uh one speaker without uh uh any - any - any events more .__c2
+__fg|%--__oh !__c4
+__qh^cs^t__right | so where do you put speech from one speaker that does have a non speech event at the same time ?__c3
+__fg|%--__which catege- - which category ?__c3
+__s^t__like a c- ==__c4
+__fh__where where what is the class ?__c2
+__s__no by the moment no .__c2
+__s__oh .__c4
+__b^rt__yeah yeah that's what he was saying before .__c1
+__fh__so you don't - i- - i- - it's not in that ==__c4
+__s^cs.%-__oh so you - not - not marked .__c3
+__fg__for - for the - by the @reject@ no @reject@ because i - i - i - i want to limit the - the nnn - the - the study .__c2
+__s^2^rt__okay .__c3
+__s^cs__got it .__c3
+__b__fine | so so ==__c3
+__s^na__yeah so that's what he was saying before is that he excluded those .__c1
+__fh__so you're not using all of the data .__c0
+__s__the - all - i - exactly .__c2
+__s^bk__yeah .__c1
+__b__yeah .__c3
+__sj^ba__yeah you mean .__c2
+__s^e__so you're ignoring overlapping events unless they're speech with speech .__c4
+__s__yeah be- ==__c2
+__s__yeah that's fine .__c3
+__b__yeah .__c2
+__s^rt__okay .__c4
+__b__why ?__c2
+__s__why ?__c2
+__fh|s__what's the reason ?__c2
+__s^co.%--__because i- - it's the first study .__c2
+__s^t3__@reject@ oh no - no | it's a perfectly sensible way to go .__c3
+__s^e__the first ==__c2
+__s^nd.%-__we're just- ==__c4
+__s__we just wondered - trying to understand what - what you were doing .__c3
+__s__yeah .__c2
+__b__yeah .__c4
+__b__yeah because you've talked about other overlapping events in the past .__c4
+__s^bk__okay .__c3
+__s^bk__yeah .__c2
+__s^cs__so - this is this - is - a subset .__c4
+__%-__yeah .__c2
+__b__in the - in the future the - the idea is to - to extend the class .__c2
+__s__is - is ?==__c0
+__s__to consider all the - all the information you - you mentioned before .__c2
+__s^no__yeah yeah | i - i don't think we were asking for that .__c3
+__b__okay ==__c4
+__s__we were jus- - just trying to understand .__c3
+__s^ba__yeah .__c4
+__%-__but uh the - the first idea because uh i don't know what hap- - what will happen with the study .__c2
+__s^co.%--__yeah we just wanted to know what the category was here .__c4
+__b__yeah .__c3
+__s^co__right .__c1
+__%-__sure .__c3
+__fh__yeah .__c2
+__b__is your silence category pure silence or ?==__c0
+__s__what if there was a door slam or something ?__c0
+__b^rt__i- - it's pure ==__c2
+__s__no no | it's pure silence .__c2
+__s^aa__pure silence .__c0
+__qy^rt__it's the control set .__c2
+__b__okay .__c0
+__s__okay .__c2
+__s__it's the control set .__c2
+__s^aa__what you ==__c3
+__fh__it's pure si- - pure silence with the - with the machine on the - on the roof .__c2
+__b__well ==__c3
+__fh|s__w- - i - i think what you m- - i think what you mean is that it's non speech segments that don't have impulsive noises .__c3
+__s^bk__with the fan .__c1
+__fh__yeah .__c2
+__qo__right ?__c3
+__qy^rt__because you're calling - what you're calling event is somebody coughing or clicking or rustling paper or hitting something which are impulsive noises .__c3
+__b__yeah .__c2
+__s^aa__but steady state noises are part of the background .__c3
+__s^na__yeah .__c2
+__b__which are being included in that .__c3
+__s__right ?__c3
+__fh|s__@reject@ h- - here yet yet i - i - i - i - i think - i - i think uh there are - that - some kind of noises that uh don't - don't wanted to - to be in that uh in that control set .__c2
+__s.%-__yeah .__c3
+__b__so it's like a signal noise situation .__c4
+__s^2__yeah .__c4
+__s^m__well ==__c3
+__s__yeah .__c3
+__qw__but i prefer i prefer at - at the first uh the - the silence with uh this uh this kind of the of uh of noise .__c2
+__s^rt__well steady state .__c4
+__qy^bu^d^rt__right | it's - i mean it's - background might be - might be a better word than silence .__c3
+__qy^d^rt__yeah .__c2
+__s^aa__it's just sort of that - the - the background acoustic .__c3
+__s^aa|s__yeah .__c2
+__s^ar__yeah .__c3
+__qy^d^rt__yeah .__c2
+__s^df__right | so fine go on .__c1
+__fh|s__is - is - is only ==__c2
+__fg|s^cs__yeah .__c3
+__s^aa__okay .__c2
+__s^aa__well we needed to get the categories yeah .__c4
+__s__and um with this information the idea is uh uh nnn i have a label for - for each uh frame and uh with a cluster uh - algorithm i - and ==__c2
+__s^aa__sorry .__c2
+__qy^d^g^rt__and uh i am going to prepare a test bed uh well uh a - a set of feature structure uh uh models .__c2
+__b__right .__c1
+__s^cs.%--__and my idea is ==__c2
+__x__tone whatever .__c1
+__s__@reject@ @reject@ so - so - on - because i have a pitch extractor yet .__c2
+__b__right .__c3
+__s.%--__uhhuh .__c1
+__s.%-__i have to - to test but uh i ==__c2
+__s__you have your own ?__c0
+__s__yeah yeah yeah .__c2
+__s^bk__oh !__c0
+__s^aa__i ha- - i have prepare .__c2
+__s^aa__is a modified version of - of - of a pitch tracker uh from uh standar- - uh stanford university .__c2
+__s.%--__in stanford ?__c2
+__fh|s__no .__c2
+__s__from uh them cambridge university .__c2
+__s.%-__oh !__c0
+__qy^2^bu^d^rt__what's it written in ?__c0
+__s^aa^m__uh - them - i - i - i don't remember what is the - the name of the - of the author .__c2
+__qw^rt__because i - i have several - i have uh uh them uh library tools from uh festival and - of - from edinburgh uh from cambridge uh - and from our department .__c2
+__s__uh .__c0
+__s__uhhuh uhhuh .__c3
+__s^m__and - and i have to - because in general the pitch tracker doesn't work very well and ==__c2
+__s^ba__bad .__c1
+__s^bk__right .__c1
+__s__but you know as a feature it might be okay .__c1
+__fh__yeah yeah .__c2
+__b__so we don't know .__c1
+__s^t3__this - this is and th- - the idea is to - to uh to obtain uh for example uh uh diff- - uh uh different - well no a great number of uh f e c for example uh uh twenty five uh thirty - thirty parameters uh for - for each one .__c2
+__s^bk^t3__and in a first uh - nnn -  step in the investi- - in the research - in- - uh my idea is try to uh to prove what is the performance of the difference parameter uh to classify the different uh what is the - the - the - the front end approach to classify uh the different uh frames of each class uh and what is the - the - nnn - nnn - nnn - uh - what is the the error uh of the data .__c2
+__s__supervised clustering .__c1
+__s^e__uhhuh .__c1
+__b__this is the - the uh first idea .__c2
+__fh__uhhuh .__c4
+__s__and the second is try to - uh to use some ideas uh similar to the linear discriminant analysis .__c2
+__s^bk__uhhuh .__c1
+__s^bk__uh ==__c2
+__b__uh similar because the- - the idea is to - to study what is the contribution of uh each parameter to the process of classify correctly the different - the different parameters .__c2
+__qy^co^rt__uhhuh .__c1
+__s^fa__what sort of classifier ar- ?==__c1
+__s^df__uh the - the - the classifier is - nnn by the moment is uh is uh similar nnn that the classifier used uh in a quantifier - vectorial quantifier is uh used to - to uh some distance to - to put uh a vector uh in - in a class different .__c2
+__s^bk__is yeah - w- - with a model is - is only to cluster using a uh @reject@ or a similarity .__c2
+__s^co^rt__@reject@ unimodal ?__c1
+__b.%__uhhuh .__c4
+__s.%--__so is it just one cluster per ?==__c1
+__s^no__a- - another possibility it to use uh a netw- - netw- - a neural network .__c2
+__s__right .__c1
+__s__but uh what's the p- - what is my idea ?__c2
+__s^aa__what's the problem i - i - i - i see in - in - in - if you - you use the - the neural network ?__c2
+__s^aa|s.%-__if w- - when this kind of uh huh cluster clustering algorithm to can test to can uh observe what happened you you can't - you can't uh uh put up with your hand in the different parameter .__c2
+__s^na__right | you can't analyze it .__c1
+__s.%-__but uh if you use a neural net is - is a good idea but uh you don't know what happened in the interior of the neural net .__c2
+__b__well actually you can do sensitivity analyses which show you what the importance of the different parce- - pieces of the input are .__c3
+__s__yeah .__c2
+__s^bk__it's hard to - w- - w- - what you - it's hard to tell on a neural net is what's going on internally .__c3
+__s__yeah .__c2
+__fh__but it's actually not that hard to analyze it and figure out the effects of different inputs especially if they're all normalized .__c3
+__s__yeah .__c2
+__s.%-__yeah .__c2
+__b__um | but ==__c3
+__b__well using something simpler first i think is probably fine .__c1
+__b__well this isn't tru- - if - if - if you really wonder what different if - if ==__c3
+__qy^2^d^rt__yeah .__c2
+__s^aa__but ==__c2
+__s^bk__decision tree .__c1
+__s__yeah then a decision tree is really good .__c3
+__fh|qh__but the thing is here he's - he's not - he's not like he has one you know a bunch of very distinct variables like pitch and this - he's talking about like a- - all these cepstral coefficients and so forth .__c3
+__fh__right .__c1
+__qh^cs^tc__yeah .__c2
+__fh__yeah .__c2
+__s^bk__right .__c1
+__h|s__yeah .__c2
+__s.%--__in which case a- - a- - any reasonable classifier is going to be a mess and it's going to be hard to figure out what - what uh ==__c3
+__s^df__and ==__c2
+__s__right .__c1
+__s__i - i - i will include too the - the - the differential de- - derivates too .__c2
+__s^co^j__yeah .__c3
+__s__deltas .__c1
+__sj^ba__yeah so .__c1
+__s^rt__i - i mean i think the other thing that one - i mean this is i think a good thing to do to sort of look at these things at least ==__c3
+__s^df__see what i'd - i'd - let me tell you what i would do .__c3
+__s__i would take just a few features instead of taking all the m f c c's or all the p l p's or whatever i would just take a couple .__c3
+__sj^ba__yeah .__c2
+__s.%--__okay .__c3
+__fh__like - like c one c two something like that so that you can visualize it .__c3
+__s__and look at these different examples and look at scatter plots .__c3
+__s.%--__yeah .__c2
+__s__yeah .__c2
+__s__okay so before you do - build up any kind of fancy classifiers just take a look in two dimensions at how these things are split apart .__c3
+__s__that i think will give you a lot of insight of what is likely to be a useful feature when you put it into a more complicated classifier .__c3
+__s__yeah .__c2
+__s__yeah .__c2
+__s.%--__and the second thing is once you actually get to the point of building these classifiers @reject@ what this lacks so far is the temporal properties .__c3
+__s^rt__so if you're just looking at a frame and a time you don't know anything about you know the structure of it over time and so you may want to build @reject@ - build a markov model of some sort uh or - or else have features that really are based on um on - on some bigger chunk of time .__c3
+__s__yeah .__c2
+__b__context window .__c1
+__s.%-__yeah .__c2
+__b__yeah .__c2
+__s^fe__but i think this is a good place to start .__c3
+__qy__but don't uh- - anyway this is my suggestion is don't just you know throw in twenty features at it the deltas and the delta del- - and all that into some classifier even - even if it's k nearest neighbors you still won't know what it's doing even - you know it's not a neural net .__c3
+__s.%--__yeah .__c2
+__s:s__yeah yeah .__c2
+__s:s__uh i think to know what it's - to have a better feeling for what it's doing you want to look at it .__c3
+__b__so you want to look at - at som- - some picture that shows you here's these things uh uh are - offer some separation .__c3
+__s:qw__yep .__c1
+__b__and uh in l p c uh the thing to particularly look at is i think is something like uh the residual - the energy in the residual .__c3
+__s.%--:s.%--__yeah .__c2
+__b__um so .__c3
+__b__yeah .__c2
+__s.%--__can i ask ?__c4
+__s__it strikes me that there's another piece of information um that might be useful and that's simply the transition .__c4
+__b__s- ==__c2
+__s.%--__so w- - if you go from a transition of silence to overlap versus a transition from silence to speech there's going to be a b- - a big informative area there it seems to me .__c4
+__b__yeah because ==__c2
+__s__yeah yeah .__c2
+__s.%--__yeah .__c2
+__s__yeah i - yeah but uh i - i - is my- - my - my own vision of the - of the project .__c2
+__s:s__so some sort of ==__c1
+__s__that's ==__c1
+__s^df__uhhuh .__c4
+__s^2__i - uh the - the meeting recorder project for me has uh two uh w- - has uh several parts several p- - objective .__c2
+__b__uhhuh .__c3
+__b__uh because it's a a great project .__c2
+__s__but uh at the first in the acoustic uh uh parts of the project uh i think you uh we have uh two main uh objective .__c2
+__s__one - one of these is to - uh to detect the change the acoustic change .__c2
+__b__and | for that if you don't use uh uh a speech recognizer uh broad class or not broad class to - to try to - to to label the different frames i think the ike criterion or bic criterion uh will be enough to detect the change .__c2
+__s__@reject@ .__c4
+__s:s__and - probably - i - i - i - i would like to - to t- - prove .__c2
+__fh|s__uh probably when you you have uh uh s- - uh the transition of speech or - or silence uh to overlap zone this criterion is enough with - probably with uh this kind of uh uh the the the more uh use uh use uh used uh them normal regular uh parameter m f- - m f c c .__c2
+__s:s__you - you have to - to - to find - you can find the - the mark .__c2
+__s:qw__you can find the nnn - the - the acoustic change .__c2
+__sj^ba__but uh uh i - i understand that you - your objective is to uh classify to know that uh that zone not is only a new zone in the - in the file that uh you have uh but you have to - to - to know that this is overlap zone .__c2
+__s__because in the future you will uh try to - to process that zone with a non- - regular uh uh speech recognizer model i suppose .__c2
+__s__uhhuh .__c3
+__b__uhhuh .__c3
+__s^cs__you - you will pretend to - to - to process the overlapping z- - uh zone with another kind of algorithm .__c2
+__b.x__because it's very difficult to - to - to obtain the transcription from uh using uh uh a regular normal speech recognizer .__c2
+__qw^j__that you know i - i - i think is the idea .__c2
+__s.%-__and so uh the - nnn - the - the system uh will have two models .__c2
+__s__clustering .__c4
+__s__a model to detect more acc- - the mor- - most accurately possible that is p- - uh will be possible the uh the mark the change .__c2
+__s__okay .__c4
+__b__and another - another model will @reject@ or several models to try s- - but uh several model- - uh robust models sample models to try to classify the difference class .__c2
+__s.%-__i'm - i'm - i'm sorry i didn't understand you - what you said .__c1
+__fh__what - what model ?__c1
+__s__@reject@ .__c4
+__s__uh the - the classifiers of the- - of the n- - to detect the different class to the different zones before try to - to recognize uh with uh to transcribe with uh a speech recognizer .__c2
+__s__uhhuh .__c1
+__s__so p- ==__c4
+__fh__and my idea is to use uh for example a neural net .__c2
+__sj^ba__with the information we obtain from this uh this uh study of the parameter with the selected parameter to try to uh to put the class of each frame uh for the difference zone .__c2
+__sj^ba__features .__c1
+__qy^d^g^rt__yeah .__c1
+__s__you - you uh uh have obtained in the first uh step with the for example bic uh uh criterion compare model .__c2
+__s__uhhuh .__c4
+__qy^d^f^g__and you ==__c2
+__s__okay but i - i think - in any event we're agreed that the first step is .__c3
+__s^cs.%--__i don't - u- ==__c2
+__s^aap__yeah .__c4
+__b__i- ==__c2
+__s^cs^ng__because what we had before for - for uh speaker change detection did not include these overlaps .__c3
+__s^aa__yeah .__c2
+__s^aa__so the first thing is for you to - to build up something that will detect the overlaps .__c3
+__qy^d^f^g^rt__yeah .__c2
+__s__right ?__c3
+__s.%--__so | again i think the first thing to do to detect the overlaps is to look at these uh in - in - in - in ==__c3
+__s__yeah .__c2
+__b__features .__c1
+__s^df__well | i - again the things you've written up there i think are way too - way too big .__c3
+__s__yeah .__c2
+__s__okay if you're talking about say twelfth - twelfth order uh m f c c's or something like that it's just way too much .__c3
+__s__you won't be able to look at it .__c3
+__b__yeah .__c2
+__b__all you'll be able to do is put it into a classifier and see how well it does .__c3
+__s^t^tc__yeah .__c2
+__s^ba.%__whereas i think if you have things - if you pick one or two dimensional things or three of you have some very fancy display uh and look at how the - the different classes separate themselves out you'll have much more insight about what's going on .__c3
+__s__it will be enough .__c2
+__b__well you'll - you'll get a feeling for what's happening you know .__c3
+__s__so if you look at - suppose you look at first and second order cepstral coefficients for some one of these kinds of things and you find that the first order is much more effective than the second and then you look at the third and there's not - and not too much there you may just take first and second order cepstral coefficients .__c3
+__b__yeah .__c2
+__fh__yeah .__c2
+__b.%__right ?__c3
+__b__yeah .__c2
+__s__and with l p c i think l p c per se isn't going to tell you much more than - than - than the other maybe .__c3
+__sj^ba__uh | and uh on the other hand the l p c residual the energy in the l p c residual will say how well uh the low order l p c model's fitting it which should be pretty poorly for two- - two or more people speaking at the same time and it should be pretty well for w- - for - for one .__c3
+__s__yeah .__c2
+__s__yeah .__c2
+__s.%-__and so i - i- - again if you take a few of these things that are - are prob- - um promising features and look at them in pairs uh i think you'll have much more of a sense of okay i now have - uh doing a bunch of these analyses .__c3
+__qy^bu^d^rt__yeah .__c2
+__qy^d^g^rt__i now have ten likely candidates .__c3
+__qrr.%--__and then you can do decision trees or whatever to see how they combine .__c3
+__s__yeah .__c2
+__s^bk__yeah .__c2
+__fh|s__yeah .__c2
+__s^2__i've got a question .__c0
+__b__interesting .__c4
+__b__this- ==__c2
+__s__huh .__c4
+__s__sorry .__c2
+__fg__but uh uh uh uh uh i don't know it is the first uh way to - to - do that .__c2
+__s__and i would uh like to - to know what uh your opinion .__c2
+__b__uh all this study in the f- - in the first moment i - i w- - i - i will pretend to do with uh uh equalizes speech the the equalizes speech the speech uh the mixes of speech .__c2
+__fh__with ==__c1
+__s__with what ?__c4
+__s^bk__with what ?__c4
+__qy^rt__right mixed .__c1
+__qrr.%--__the the mix mixed speech .__c2
+__s^na^rt__mixed | thank you .__c4
+__s^aa__uh why ?__c2
+__sj^ba^fe__because uh the spectral distortion is more uh a lot uh clearer very much clearer if we compare with the p d a .__c2
+__s^bd__right .__c1
+__s^ar__p d a speech file is uh it will be uh difficult .__c2
+__s.%--__i ==__c2
+__s__so it's messier .__c4
+__s__the - the p d a is messier .__c4
+__s^ar__yeah .__c2
+__s__because the n- - the noise uh to sp- - the signal to noise relation is uh is - is low .__c2
+__s__okay .__c3
+__b__yeah i think that that's - a good way to start .__c1
+__s.%--__and | i don't know .__c2
+__s__but ==__c1
+__s^aa__i don't know uh uh i- - i- - that uh - the the result of the - of the study uh with uh - with uh this uh this speech - the mix speech uh will work exactly with the uh p d a files .__c2
+__s^aa__it would be interesting in itself to see .__c1
+__s__uh what i - i mean what- - what is the effect of the low signal to - to - to noise relation you know uh with ?==__c2
+__s.%--__well i think that would be an interesting result .__c1
+__b__n- - u- - we- ==__c3
+__s__well | i think - i think - i think it's not a - it's not at all unreasonable .__c3
+__%-__it makes sense to start with the simpler signal .__c3
+__s__because if you have features which don't - aren't even helpful in the high signal to noise ratio then there's no point in putting them into the low signal ratio one would think anyway .__c3
+__s__yeah .__c2
+__sj^ba^tc__and so if you can get @reject@ uh again my prescription would be that you would with a mixed signal you would take a collection of possible uh features look at them look at how these different classes that you've marked separate themselves and then collect uh in pairs and then collect ten of them or something and then proceed with a bigger classifier .__c3
+__s__yeah .__c2
+__s.%-__yeah .__c2
+__s^rt__and then if you can get that to work well then you go to the other signal .__c3
+__s^rt__and then and you - and you know they won't work as well but how m- - you know how much .__c3
+__b__yeah .__c2
+__fg|s__right .__c1
+__s__yeah yeah .__c2
+__s__and then you can re optimize and so on .__c3
+__fh__yeah but it- - i think it would be interesting to try a couple with both .__c1
+__b__because it - i think it would be interesting to see if some features work well with close mixed and and don't .__c1
+__fh__huh .__c3
+__b__uh yeah yeah yeah yeah .__c2
+__b.%__that's - well the - it - it's - it's true that it also it could be useful to do this exploratory analysis where you're looking at scatter plots and so on in both cases sure .__c3
+__s^cs^rt__but ==__c2
+__b__uhhuh .__c1
+__s^df__i - i - i - i think that the - the uh parameter we found uh uh worked with both uh speech file .__c2
+__s^aa__that's good .__c4
+__s^bk__but uh what is the - the - the relation of uh of the performance when uh you use uh - the uh uh speech file- - the p d a speech files ?__c2
+__b__huh .__c3
+__sj^ba__yeah i don't know .__c2
+__b__right .__c3
+__s.%--__but it - i - i - i - i think it will be important .__c2
+__s^bd__because uh people uh uh different groups eh has uh experience with this uh kind of problem is uh is not easy uh to- - to solve because if you ==__c2
+__s__i - i - i have seen the - the - the speech file from uh p d a and s- - some parts is very difficult .__c2
+__s^df__because you - you don't see the spectrum - the spectrogram .__c2
+__s.%--__right .__c1
+__s__is very difficult to apply uh uh a parameter to detect change when you don't see .__c2
+__s.%--__yeah they're totally hidden .__c1
+__fh__yeah .__c3
+__s__yeah .__c3
+__s^m^na__well | that - that - that's another reason why very simple features things like energy and things - things like harmonicity and residual energy are uh yeah are - are better to use than very complex ones because they'll be more reliable .__c3
+__s__but i suppose ==__c2
+__s__are probably better yep .__c1
+__s__yeah yeah yeah .__c2
+__s^aap^rt__i - i - i will put uh the energy here .__c2
+__qy^bu.%-__yeah yeah yeah .__c2
+__s^am__ch- - chuck was going to ask something i guess .__c3
+__qy^d^f^g^rt__you have a question ?__c2
+__s__yeah | i maybe this is a dumb question .__c0
+__s^bk__but w- - i thought it would be - i thought it would be easier if you used a p d a .__c0
+__qy^d^f__nah .__c3
+__s^bk__because can't you couldn't you like use beam forming or something to- - detect speaker overlaps ?__c0
+__s__i mean ==__c0
+__b__well if you used the array rather than the signal from just one .__c1
+__s.%--__uhhuh .__c0
+__s.%--__yeah no you- - you're - you're right .__c3
+__s.%--__but that's ==__c1
+__s.%--__that in fact if we made use of the fact that there are two microphones you do have some location information which we don't have with the one .__c3
+__s.%--__and - and so that's ==__c3
+__s__is that not allowed with this project ?__c0
+__s__uh well | no i mean we- - we don't have any rules r- - really .__c3
+__s^2__but i didn't mean - i w- - given - given the goal .__c0
+__qy^d^f^g^rt__i think i - i think - i think it's - it's - it's a - it's an additional interesting question .__c3
+__b__i mean is - is that violation of the ?==__c0
+__s__oh .__c2
+__b__no .__c2
+__b__yeah .__c2
+__sj^ba^df^rt__i mean i think you want to know whether you can do it with one .__c3
+__s__because you know it's not necessarily true that every device that you're trying to do this with will have two .__c3
+__s__uhhuh .__c0
+__s^rt__yeah .__c2
+__b__uh | if on the other hand we show that there's a huge advantage with two well then that could be a real point .__c3
+__b__yeah .__c2
+__s^bs__but we don't n- - even know yet what the effect of detecting - having the ability to detect overlaps is .__c3
+__fh__you know maybe it doesn't matter too much .__c3
+__s__right .__c0
+__s__right .__c0
+__s__yeah .__c2
+__fh__so this is all pretty early stages .__c3
+__x__okay .__c0
+__b.%__yeah .__c2
+__s__but no you're absolutely right .__c3
+__s^bd__yeah .__c2
+__s^bd__i see .__c0
+__s__yeah yeah yeah .__c2
+__s.%--__that's a good thing to consider .__c3
+__s__okay .__c0
+__b__there - there is a complication though and that is if a person turns their back to the - to the p d a then some of the positional information goes away .__c4
+__s__well it - it - it does i- - it d- - it does but the - the - the issue is that - that ==__c3
+__fh__yeah .__c2
+__s__no it's not - it's not that so much as ==__c0
+__b__and then and if they're on the access on the axis of it that was the other thing i was thinking .__c4
+__s^e__uhhuh .__c1
+__b__he - you mentioned this last time that - that if - if you're straight down the midline then - then - the r- - the left right's going to be different .__c4
+__s.%--__yeah we hav- - need to put it on a little turntable .__c1
+__s^rt__i - i - i - i - i th- ==__c2
+__s.%--__and ==__c1
+__s__well it's- ==__c0
+__b.%__yeah .__c2
+__s.%--__and - and - and in his case i mean he's closer to it anyway .__c4
+__s__yeah .__c2
+__s^cs__it seems to me that - that it's not - a p- - uh you know it's - this - the topograph- - the topology of it is - is a little bit complicated .__c4
+__b__yeah .__c2
+__s__but it's another source of information .__c1
+__s__i - i - yeah .__c2
+__fh__i don't - i don't know ho- ==__c0
+__b__i - i - i think ==__c2
+__s__sorry .__c2
+__fg__i - i - i think because the- - the- - the distance between the two microph- - uh microphone uh in the p d a is very near .__c2
+__s__but it's uh from my opinion it's an interesting idea to - to try to study the binaural uh problem uh with information because i - i found difference between the - the speech from - from each micro- - uh in the p d a .__c2
+__s^cs^df.%--__i would guess ==__c0
+__s^bk__yep .__c1
+__s__yeah it's timing difference .__c3
+__s.%--__oh yeah oh i agree and we use it ourselves .__c4
+__s^bk__it- - it's not amplitude .__c3
+__s__right ?__c3
+__s__s- - right .__c3
+__s__i mean i know - i n- - i know that's a very important cue .__c4
+__b__yep .__c1
+__s^fe__yeah .__c2
+__fh__but i'm just - i'm just saying that the way we're seated around a table is not the same with respect to each - to each person with respect to the p d a .__c4
+__b__no .__c2
+__s^bk|qw^rt__no .__c2
+__fh__no no no .__c2
+__s^cs__so we're going to have a lot of differences with ref- - respect to the speaker .__c4
+__s^cs^df__that's - that's fine .__c3
+__h__but th- - i don't think that matters though .__c0
+__s^ng.%--__but ==__c2
+__s^df__that's - so - so - i- - i think the issue is is there a clean signal coming from only one direction .__c3
+__s^bk__right .__c0
+__s^rt__if it's not coming from just one direction if it - if th- - if there's a broader pattern it means that it's more likely there's multiple people speaking .__c3
+__b__yeah .__c2
+__s.%--__wherever they are .__c3
+__fh__so it's sort of like how - how confused is it about where the beam is .__c0
+__qy^rt__is it a - is it ?==__c3
+__qrr__yeah is there a narrow - is there a narrow beam pattern or is it a - a distributed beam pattern ?__c3
+__s^aa|s^na__yeah .__c2
+__s^bk__so if there's a distributed beam pattern then it looks more like it's - it's uh multiple people .__c3
+__h|qw.%-__okay .__c4
+__s^fa^t3__wherever you are even if he moves around .__c3
+__s__yeah .__c2
+__s^rt__okay | it just - it just seemed to me that uh that this isn't the ideal type of separation .__c4
+__fh__i mean i - i think it's i can see the value o- ==__c4
+__s^rt__oh ideal would be to have the wall filled with them .__c3
+__b__but i mean but the thing is just having two mikes if you looked at that thing on - on dan's page it was when - when there were two people speaking and it looked really really different .__c3
+__s.%--__yeah okay .__c4
+__s.%--__yeah .__c2
+__s^df__yeah .__c2
+__s__yeah .__c2
+__s^r__yep .__c1
+__b__oh yeah yeah okay .__c4
+__s__yeah .__c2
+__b__what looked different ?__c0
+__s__yeah .__c4
+__fh|s^r__uh well basic- - he was looking at correlation .__c3
+__qw^rt__cross co- - cross correlation .__c1
+__s__just cross correlation between two sides .__c3
+__s^bk^m__correlation yeah .__c2
+__fh|s__so cross correlation is pretty sensitive .__c3
+__fg__did- - sorry | b- - uh i'm not sure what dan's page is that you mean he was looking at the two ==__c0
+__s__uh his a web page .__c4
+__s^aa__you take the signal from the two microphones and you cros- - and you cross correlate them with different lags .__c3
+__qy^d^g^rt__subtract them .__c1
+__s^aa^r__okay .__c0
+__s^bk__uhhuh .__c4
+__s__yeah .__c2
+__%-__uhhuh .__c0
+__s^co^tc__okay .__c3
+__s^bk__and you find - they get peaks .__c1
+__b__so when one person is speaking then wherever they happen to be at the point when they're speaking then there's a pretty big maximum right around that point in the l- - in - in the lag .__c3
+__s^df__so if - at whatever angle you are at some lag corresponding to the time difference between the two there you get this boost in the - in - in the cross correlation value - function .__c3
+__b__okay okay .__c0
+__b__so - so if there's two ==__c0
+__s.%--__and if there are multiple people talking you'll see two peaks .__c1
+__b__it's spread out .__c3
+__fh|s__well let me ask you if - if both people were over there it would be less effective than if one was there and one was across catty corner .__c4
+__s.%--__yeah .__c2
+__b.%__yeah .__c3
+__b__yeah .__c2
+__fh__the- - the - oh i'm sorry .__c3
+__s.%--__no ?__c4
+__s__if they're right next to one another ?__c3
+__s__if i was - if i was here and morgan was there and we were both talking it wouldn't work .__c0
+__b__next - next one over n- - over on this side of the p- - p d a .__c4
+__fh|s__i- - i- ==__c3
+__b__there we go .__c4
+__b__right .__c1
+__s__yeah .__c2
+__s__good example the same one i'm asking .__c4
+__b.%__yeah .__c2
+__s__yeah e- - i see .__c3
+__fh__yeah .__c2
+__fh__versus you - versus - you know and we're catty corner across the table and i'm farther away from this one and you're farther away from that one .__c4
+__s__yes .__c0
+__b.%__or - or even if like if people were sitting right across from each other you couldn't tell the difference either .__c1
+__s__yeah .__c2
+__b__yeah .__c2
+__s^cs__it seems like that would be pretty strong .__c4
+__b__yeah oh yeah .__c3
+__s^cs^e__yeah .__c2
+__b__yeah .__c2
+__s^e__across - the same axis you don't have as much to differentiate .__c4
+__b__and so my point was just that it's - it's going to be differentially - differentially varia- - valuable .__c4
+__fh__yeah .__c2
+__s__well we d- - yeah we don't have a third dimension there yeah so it's ==__c3
+__b__right .__c1
+__s__i mean it's not to say i mean i certainly think it's extremely val- - and we - we humans n- - n- - depend on you know these - these binaural cues .__c4
+__%--__yeah yeah .__c2
+__b.%__but it's almost - but it's almost a - i think what you're talking about i- - there's two things .__c3
+__s^cs__but .__c4
+__s^df__must do yeah .__c1
+__s__there's a sensitivity issue and then there's a pathological error uh issue .__c3
+__b__so th- - the one where someone is just right directly in line is sort of a pathological error .__c3
+__b__yes yeah .__c4
+__fh__if someone just happens to be sitting right there then we won't get good information from it .__c3
+__s.%--__yeah .__c2
+__b__okay .__c4
+__s__and i- - and if there - so it - and if it's the two of you guys on the same side ==__c4
+__b__uh if they're - if they're close it's just a question of the sensitivity .__c3
+__b__yep .__c1
+__fh__yeah .__c4
+__b__okay .__c4
+__s^cs.%--__so if the sensitivity is good enough - and we just - we just don't have enough uh experience with it to know how ==__c3
+__s__yeah yeah okay yeah .__c4
+__b__but ==__c1
+__s__yeah .__c2
+__b^rt__oh i'm not - i'm not trying to argue against using it by any means i just wanted to point out that - that weakness that it's topo- - topologically impossible to get it perfect for everybody .__c4
+__s__yeah .__c3
+__s__uhhuh .__c3
+__s^aa__and i think dan is still working on it .__c1
+__qw.%-__so | he actually he wrote me about it a little bit .__c1
+__fh|qw.%--__so ==__c1
+__s^am__great .__c4
+__b__no i don't mean to discourage that at all .__c4
+__s^rt__i mean the other thing you can do - uh if - i mean i- - we're assuming that it would be a big deal just to get somebody - convince somebody to put two microphones in the p d a .__c3
+__b__but if you h- - put a third in you could put in the other axis and then you know then you're sort of - yeah then - then you pretty much could cover ==__c3
+__s__once you got two .__c0
+__s^bk__interesting .__c4
+__qy^rt__yeah .__c2
+__fh__well what about just doing it from these mikes ?__c0
+__s^ar__interesting .__c4
+__s^cs__you know ?__c0
+__s^ar__yeah .__c2
+__s^ar^r__yep .__c1
+__s^aa__it will be more interesting to study the p z m because the- - the - the separation - i - i think .__c2
+__s^aa__uh @reject@ but- - but that's - i mean we can- - we'll be - all of this is there for us to study .__c3
+__s^aa^r__then they're much broader .__c1
+__s^aa__yeah we can do whatever we want .__c1
+__s^df__yeah .__c2
+__b__but - but - but the thing is uh one of the - at least one of the things i was hoping to get at with this is what can we do with what we think would be the normal situation if some people get together and one of them has a p d a .__c3
+__s^cs__whatever you're interested in .__c1
+__s^bk__yeah .__c2
+__s^aa__that's what i was asking about what are the constraints .__c0
+__b__yeah .__c2
+__s^ng__yeah .__c2
+__b__right yeah .__c3
+__b.%__yeah .__c2
+__s.%--__yeah .__c2
+__%--__well that's - that's the constraint of one question that i think both adam and i were - were - were interested in .__c3
+__fh__well ==__c1
+__s__uhhuh .__c0
+__fg|s^arp.%-__yep .__c1
+__b__uhhuh .__c0
+__b__uh ==__c3
+__%-__yeah .__c2
+__s^am__but - you know if you can instrument a room this is really minor league compared with what some people are doing | right ?__c3
+__fh__some people at - at - uh yeah at brown and - and - and - and - at uh um and at cape .__c3
+__s__big micro @reject@ arrays .__c1
+__b__yeah .__c2
+__s^e__didn't they have something at cape ?__c0
+__s^bk__they both have these you know big arrays on the wall .__c3
+__fh__and you know if you could do that you've got microphones all over the place .__c3
+__s^arp__very finely .__c1
+__b__uh you know p- - tens of microphones .__c3
+__b__and - and uh ==__c3
+__qy^d^g^rt__oh i saw a demo !__c0
+__%-__oh right oh yeah .__c2
+__qy^bu^rt__and if you do that then you can really get very nice uh kind of selectivity .__c3
+__qy__yeah .__c0
+__qy^e.%--__oh i saw one that was like a hundred microphones a ten by ten array .__c1
+__s^aa__yeah yeah .__c3
+__s^aa__hundred .__c2
+__b__and you could - in a noisy room they could have all kinds of noises and you can zoom right in on somebody .__c0
+__b__yeah .__c2
+__s^bk__and they had very precision ==__c1
+__s__yeah .__c2
+__qy^bu^d.%-__right .__c1
+__s.%--__ye- - pretty much yeah .__c3
+__s^nd__very complex uh yeah .__c2
+__s^bk__it was all in software and they - and you could pick out an individual beam and listen to it .__c1
+__s^no__yeah .__c3
+__fh|s^df__that is cool .__c0
+__%-__yeah .__c2
+__s__it was yeah it was interesting .__c1
+__fh__but | the reason why i haven't focused on that as the fir- - my first concern is because um i'm interested in what happens for people - random people out in some random place where they're p- - having an impromptu discussion .__c3
+__s^bu__and you can't just always go well let's go to this heavily instrumented room that we spent tens of thousands of dollars to se- - to set up .__c3
+__fh__yeah .__c2
+__s^aa^rt__yeah .__c2
+__s__no | what you need to do is you'd have a little fabric thing that you unroll and hang on a wall .__c0
+__s^na__it has all these mikes and it has a plug in jack to the p d a .__c0
+__s.%-__interesting .__c4
+__s^bu.%--__the other thing actually that gets at this a little bit of something else i'd like to do is what happens if you have two p d a's ?__c3
+__s^aa__but i think ==__c1
+__s__yep .__c1
+__s^bk__and they communicate with each other and then - you know they're in random positions the likelihood that - i mean basically there wouldn't be any l- - likely to be any kind of nulls if you even had two if you had three or four it's - yeah .__c3
+__fh__yeah .__c2
+__s__ooo !__c0
+__s__that's on my web pages .__c1
+__s.%--__yeah .__c1
+__s.%--__network .__c0
+__s^bs__interesting .__c4
+__s^e__though ==__c1
+__s__all sorts of interesting things you can do with that .__c1
+__s^bk^rt__interesting .__c4
+__s__i mean not only can you do microphone arrays but you can do all sorts of um multi band as well .__c1
+__b__huh .__c4
+__s^bk__yeah .__c2
+__s^bk^rt__yeah .__c3
+__s__uh !__c4
+__s__so it's - it would be neat .__c1
+__s^e__i still like my rug on the wall idea so if anybody patents that then ==__c0
+__s^aa__but ==__c1
+__s^cs__i think ==__c1
+__s^aa__well you could have strips that you stick to your clothing .__c4
+__b__in terms of ==__c1
+__fg__yeah .__c1
+__s^ba__yeah !__c0
+__s^e__hats .__c0
+__b__in terms of the research th- - research it's really - it's whatever the person who is doing the research wants to do .__c1
+__s__shirts .__c0
+__s^co^t__so if - if jose is interested in that that's great .__c1
+__fh__but if - if he's not that's great too .__c1
+__s^aa__yeah .__c3
+__fh__yeah .__c3
+__s^cs.%--__yeah yeah .__c2
+__b__um | i - i- - i - i- - i would actually kind of like us to wind it down see if we can still get to the end of the uh birthdays thing there .__c3
+__s__catch some tea ?__c1
+__s__um .__c1
+__b__so ==__c3
+__qy^rt__well i had a couple things that i did want to bring out .__c1
+__qy^d^e^rt__okay .__c3
+__s__one is do we need to sign new - these again ?__c1
+__qy^rt__well it's slightly different so i - i would say it would be a good idea .__c4
+__qy^d^g^rt__because it - it's slightly different .__c4
+__qy^d^rt__are they new ?__c0
+__h__yep .__c1
+__s^no__oh .__c0
+__s__oh this morning we didn't sign anything because we said that if anybody had signed it already we didn't have to .__c3
+__s__yeah i - i should've checked with jane first but the ch- - the form has changed .__c1
+__s^am__it's slightly different .__c4
+__s^bk__uhoh .__c3
+__s^bk^r__so we may want to have everyone sign the new form .__c1
+__s^e__okay .__c2
+__%--__i had to make one ==__c4
+__s^ba__um | i had some things i wanted to talk about with the thresholding stuff i'm doing .__c1
+__s__but if we're in a hurry we can put that off .__c1
+__s^aa__um | and then also anonymity how we want to anonymize the data .__c1
+__b__well should i - i mean i have some results to present but i mean i guess we won't have time to do that this time .__c4
+__s^cs.%--__uh ==__c1
+__s^aa__but it seems like um the anonymization is uh is also something that we might want to discuss in greater length .__c4
+__s^aa__um | i mean wha- - what ?==__c3
+__s__if - if we're about to wind down i think - what i would prefer is that we uh delay the anonymization thing till next week .__c4
+__s^aa__and i would like to present the results that i have on the overlaps .__c4
+__fh|s__we still have to do this too | right ?__c0
+__s^na__right .__c3
+__b__digits ?__c0
+__fh|s__right .__c3
+__b__no- - well we don't have to do digits .__c1
+__s^aa__well why don't we ==__c3
+__s^aa__uh so okay | @reject@ it sounds like u- - uh there were - there were a couple technical things people would like to talk about .__c3
+__s__why don't we just take a couple minutes to to briefly do them and then - and then - and then - and then - and then we ==__c3
+__s.%--__okay go ahead jane .__c1
+__b__i'd - i'd prefer to have more time for my results .__c4
+__b__e- - could i do that next week maybe ?__c4
+__s^t3__okay .__c3
+__fh__oh yeah sure .__c3
+__s^e__okay that's what i'm asking .__c4
+__b__oh yeah yeah .__c3
+__fh__and i think the anonymization if y- - if you want to proceed with that now i just think that that's - that's a discussion which also n- - really deserves a lo- - a - you know more that just a minute .__c4
+__s^tc__we could s- ==__c3
+__fh__i really do think that .__c4
+__b__uhhuh .__c1
+__s__because you raised a couple of possibilities yourself .__c4
+__fh__you and i have discussed it previously .__c4
+__fh__and there are different ways that people approach it e- - and i think we should ==__c4
+__s__all right .__c1
+__s:qy__we're - we're just- - we're getting enough data now that i'd sort of like to do it now before i get overwhelmed with - once we decide how to do it .__c1
+__s^aa__well okay .__c4
+__s.%--:qw.%--__going and dealing with it .__c1
+__s__it's just ==__c4
+__s:qw__yeah okay i - i'll give you the short version .__c4
+__qy^rt__but i do think it's an issue that we can't resolve in five minutes .__c4
+__b__uhhuh .__c1
+__s:qw__okay so - | the - the short thing is um we have uh tape recording - uh uh sorry digitized recor- - recordings .__c4
+__fh__those we won't be able to change .__c4
+__s__if someone says hey roger so-and-so .__c4
+__b__right .__c1
+__s__so that's going to stay that person's name .__c4
+__b__yep .__c1
+__fh__now in terms of like the transcript .__c4
+__s__the question becomes what symbol are you going to put in there for everybody's name ?__c4
+__s^cs__and whether you're going to put it in the text where he says hey roger or are we going to put that person's anonymized name in instead ?__c4
+__b__no | because then that would give you a mapping and you don't want to have a mapping .__c1
+__s^2__okay so first decision is we're going to anonymize the same name for the speaker identifier and also in the text whenever the speaker's name is mentioned .__c4
+__s__no .__c1
+__b__i don't ==__c0
+__b__because that would give you a mapping between the speaker's real name and the tag we're using and we don't want ==__c1
+__s.%--__i - i don't think you understood what i - what i said .__c4
+__b__okay .__c1
+__b__so - uh | so in - within the context of an utterance someone says so roger what do you think .__c4
+__s.%--__okay .__c4
+__s__then uh it seems to me that well maybe i - uh it seems to me that if you change the name the transcript's going to disagree with the audio and you won't be able to use that .__c4
+__fh|s__we don't - we want to - we ha- - we want the transcript to be roger .__c1
+__s__right | you don't want to do that .__c0
+__s^2.%__because if we made the - the transcript be the tag that we're using for roger someone who had the transcript and the audio would then have a mapping between the anonymized name and the real name and we want to avoid that .__c1
+__b__yeah .__c0
+__s__okay | well but then there's this issue of if we're going to use this for a discourse type of thing then - and you know liz was mentioning stuff in a previous meeting about gaze direction and who's - who's the addressee and all then to have roger be the thing in the utterance and then actually have the speaker identifier who was roger be frank that's going to be really confusing and make it pretty much useless for discourse analysis .__c4
+__s.%--__oh .__c1
+__b__ugh .__c1
+__s__that's a good point .__c1
+__qw__now if you want to you know i mean in some cases i - i - i know that susan ervin tripp in some of hers uh actually did do uh um a filter of the s- - signal where the person's name was mentioned except .__c4
+__s__BLEEPED__c0
+__s__BLEEPED__c1
+__s__BLEEPED__c2
+__fh|s^cs.%--__BLEEPED__c3
+__s.%--__BLEEPED__c4
+__qw__BLEEPED__c9
+__qr^d__and - and i - cer- - and i - so i mean the question then becomes one level back .__c4
+__qw__um how important is it for a person to be identified by first name versus full name ?__c4
+__qw__well | on the one hand uh it's not a full identity .__c4
+__b__we're taking all these precautions um and they'll be taking precautions which are probably even the more important ones to - they'll be reviewing the transcripts to see if there's something they don't like okay .__c4
+__s^e__so maybe uh maybe that's enough protection .__c4
+__qy^bu^d^rt__on the other hand this is a small - this is a small pool and people who say things about topic x e- - who are researchers and well known in the field they'll be identifiable and simply from the - from the first name .__c4
+__s^aa__however taking one step further back they'd be identifiable anyway even if we changed all the names .__c4
+__qw__right .__c1
+__qy__so is it really um - you know ?==__c4
+__s^df__huh .__c2
+__%-__ugh !__c1
+__s^na__now | in terms of like - so i - i did some results which i'll report on n- - next time which do mention individual speakers by name .__c4
+__%-__uhhuh .__c1
+__s^e__now there the human subjects committee is very precise .__c4
+__s^e__you don't want to mention subjects by name in published reports .__c4
+__s__now it would be very possible for me to take those data put them in a - in a study and just change everybody's name for the purpose of the publication .__c4
+__b__yeah once you get to the publication you can certainly do that .__c3
+__s__and someone who looked ==__c4
+__b__you can go - you know uh z - uh for instance .__c3
+__b__yeah exactly .__c4
+__s__doesn't matter if ==__c4
+__fg|%-__uh um yeah | i mean t- - it doesn't i mean i'm not knowledgeable about this .__c3
+__s__that's the same thing you saw .__c4
+__s__but it certainly doesn't bother me to have someone's first name in - in the - in the transcript .__c3
+__fg|s^cs__okay .__c1
+__fh__@reject@ .__c1
+__%-__uh | i think - you don't want to have their full name to be uh listed .__c3
+__b.%__yeah | and - and in the form that they sign it does say your first name may arise in the course of the meetings .__c4
+__s^aa__and so ==__c3
+__s^rt__yeah .__c1
+__s^na__well ==__c0
+__b__yeah .__c3
+__fh|s.%-__so again th- - the issue is if you're tracking discourse things you know if someone says uh uh frank said this and then you want to connect it to something later you've got to have this part where that's frank colon .__c3
+__s^2__or your name .__c4
+__s^rt__yeah shoot !__c1
+__s^aa__right ?__c3
+__s^aa__yeah and - and - you know even more i- - i- - uh - immediate than that just - being able to uh well it just seems like to track - track from one utterance to the next utterance who's speaking and who's speaking to whom because that can be important .__c4
+__s^aa__uhhuh .__c1
+__qy^rt__s- - i- - you know you raised the point so-and-so it's be kind of nice to be able to know who you was .__c4
+__qy^rt__yeah .__c3
+__s^aa__shoot !__c1
+__s^aa^r__i - i'm thinking too much .__c1
+__s^bk__and ac- - and actually you remember furthermore you remember last time we had this discussion of how you know i was sort of avoiding mentioning people's names .__c4
+__fh__yeah i was too yeah .__c3
+__s__and - and it was - and we made the decision that was kind of artificial .__c4
+__s^co__well i mean if we're going to step in after the fact and change people's names in the transcript we've basically done something one step worse .__c4
+__s__yep .__c1
+__s^co__yeah .__c3
+__s^aa__yeah .__c2
+__b.%__well i would sug- - i - i - don't want to change the names in the transcript .__c1
+__b__misleading .__c4
+____but that's because i'm focused so much on the acoustics instead of on the discourse and so i think that's a really good point .__c1
+____yeah .__c3
+____you're right | this is going to require more thought .__c1
+____yeah .__c3
+____l- - let me just back up this to make a - a brief comment about the uh what we're covering in the meeting .__c3
+____uh i realize when you're doing this that uh i mean i didn't realize that you had a bunch of things that you wanted to talk about .__c3
+__%--__uh and so uh | and so i was proceeding some- - somewhat at random frankly .__c3

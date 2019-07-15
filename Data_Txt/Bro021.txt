@@ -1,0 +1,806 @@
+__s^bk__we're going ?__c0
+__fg__okay .__c0
+__s^co__okay .__c1
+__s^df:qo__sh- - close your door on - door on the way out ?__c0
+__%-__thanks .__c1
+__qy^cs^rt__thanks .__c0
+__b__oh .__c1
+__qy^cs^d^rt__yeah .__c0
+__s^co^na__probably want to get this other door too .__c0
+__s^bk__okay .__c0
+__s^bk__so ==__c0
+__fg__um | what are we talking about today ?__c0
+__fg__uh well first there are perhaps these uh - meeting recorder digits that we tested .__c5
+__s^cs__oh yeah | that was kind of uh - interesting .__c0
+__s^e__so ==__c5
+__fh__the - both the uh - the s r i system and the oth- ==__c0
+__s__um ==__c5
+__s__and for one thing that - that sure shows the difference between having a lot of uh - training data or not .__c0
+__s__of data ?__c5
+__qy^rt__yeah .__c5
+__b__uh - | the uh - the best kind of number we have on the english uh - on near microphone only is - is uh - three or four percent .__c0
+__s^e^rt__uhhuh .__c5
+__s^ar__and uh - | it's significantly better than that using fairly simple front ends on - on the uh - uh - with the s r i system .__c0
+__s^bk__uhhuh .__c5
+__s^co__so i th- - i think that the ==__c0
+__b__uh ==__c0
+__qy^cs^rt__but that's - that's using uh - a - a pretty huge amount of data .__c0
+__s^aa__mostly not digits of course .__c0
+__fh__but - but then again ==__c0
+__s^rt__well yeah .__c0
+__fh__in fact mostly not digits for the actual training the h m m's whereas uh - in this case we're just using digits for training the h m m's .__c0
+__fh__yeah .__c5
+__qw^rt__right .__c5
+__s^rt__did anybody mention about whether the - the s r i system is a - is - is doing the digits um - the wor- - as a word model or as uh a sub- - s- - sub phone states ?__c0
+__qy^bu^d^rt__i guess it's - it's uh - allophone models .__c5
+__s^aa__yeah .__c0
+__s^bk__so well ==__c5
+__b__probably .__c0
+__fh__huh ?__c0
+__s__yeah | i think so .__c5
+__fh__because it's - their very d- - huge their huge system .__c5
+__b__yeah .__c0
+__fh__and ==__c5
+__fh__but ==__c5
+__qw^rt__so there is one difference .__c5
+__s^rt__well the s r i system - the result for the s r i system that are represented here are with adaptation .__c5
+__s^bk__so there is ==__c5
+__s.%--__it's their complete system and - including online - uh unsupervised adaptation .__c5
+__fh__that's true .__c0
+__s__and if you don't use adaptation the error rate is around fifty percent worse i think if i remember .__c5
+__b__yeah .__c5
+__fh__okay .__c0
+__fg__it's tha- - it's that much | huh ?__c0
+__s.%--__nnn .__c5
+__s__it's ==__c5
+__fh|s__yeah .__c5
+__fh|s^e^rt__it's quite significant .__c5
+__s^e__yeah .__c5
+__s^e__oh .__c0
+__fh__okay .__c0
+__s__still .__c0
+__fh__uhhuh .__c5
+__s__but - but uh - what - what i think i'd be interested to do given that is that we - we should uh - take ==__c0
+__s__i guess that somebody's going to do this .__c0
+__fh__right ?__c0
+__s__is to take some of these tandem things and feed it into the s r i system .__c0
+__qy^rt__right ?__c0
+__s.%-__yeah .__c5
+__s^aa__yeah .__c0
+__s^na__we can do something like that .__c5
+__fh__yeah .__c5
+__qy^bh__yeah because ==__c0
+__qy^rt__but ==__c5
+__s^e__but i guess the main point is the data because ==__c5
+__s^df__uh - i am not sure .__c5
+__s^na__our back end is - is fairly simple .__c5
+__s^aa__but until now well the attempts to improve it or - have fail- ==__c5
+__fh__uh well i mean uh what chuck tried to - to - to do ==__c5
+__s__yeah .__c0
+__fh__but he's doing it with the same data | right ?__c0
+__fh__yeah .__c5
+__s.%--__i mean so to - so there's - there's - there's two things being affected .__c0
+__s__so it's ==__c5
+__b__yeah .__c5
+__fh__i mean one is that - that you know there's something simple that's wrong with the back end .__c0
+__s__we've been playing a number of states .__c0
+__fh__uhhuh .__c5
+__s__uh - | i - i don't know if he got to the point of playing with the uh - number of gaussians yet .__c0
+__s^df__uhhuh .__c5
+__fh|s^e__but - but uh ==__c0
+__s^e^rt__uh you know .__c0
+__s^e__but yeah so far he hadn't gotten any big improvement .__c0
+__s^bk__uhhuh .__c5
+__s__but that's all with the same amount of data which is pretty small .__c0
+__s__yeah .__c5
+__fh__huh .__c5
+__s^cc__and um ==__c0
+__fh|s^rt__so yeah we could retrain some of these tandem on - on huge ==__c5
+__s^e__well you could do that | but i'm saying even with it not - with that part not retrained .__c0
+__fh__uh yeah .__c5
+__s^bk__just - just using - having the h m m's - much better h m m's .__c0
+__s__just ==__c5
+__s.%--__f- - for the h m m models .__c5
+__b__yeah .__c5
+__s__yeah .__c0
+__b__uhhuh .__c5
+__fh__uhhuh .__c5
+__b__um | but just train those h m m's using different features .__c0
+__fh__the features coming from our aurora stuff .__c0
+__fh|s__yeah .__c5
+__s^df__so ==__c0
+__fh__yeah .__c5
+__s.%--__but what would be interesting to see also is what - what ==__c5
+__qy^rt__perhaps it's not related - the amount of data but the um - recording conditions .__c5
+__s^e.%--__i don't know .__c5
+__s^e__because it's probably not a problem of noise because our features are supposed to be robust to noise .__c5
+__s^no.%--__it's not a problem of channel because there is um normalization with respect to the channel .__c5
+__s.%--__well yeah .__c0
+__s^no__so ==__c5
+__s^ar__i - i - i'm sorry .__c0
+__s__what - what is the problem that you're trying to explain ?__c0
+__s^2.%--__the - the fact that - the result with the tandem and aurora system are uh so much worse .__c5
+__b__that the ==__c0
+__fh__oh .__c0
+__b__so much worse ?__c0
+__fg__yeah .__c5
+__s__oh .__c0
+__s.%--__i uh - but i'm - i'm almost certain that it - it - i mean that it has to do with the um - amount of training data .__c0
+__s.%--:s.%--__it ==__c5
+__s^no__it - it's - it's orders of magnitude off .__c0
+__b__yeah but ==__c5
+__fg|s.%--__yeah .__c5
+__s^aa__yeah | but we train only on digits and it's - it's a digit task .__c5
+__fh|s__so ==__c5
+__s__well ==__c5
+__fh__but - but having a huge ==__c0
+__%--__it ==__c5
+__s^e__if - if you look at what commercial places do they use a huge amount of data .__c0
+__fh__uhhuh .__c5
+__s__all right .__c5
+__fh__this is a modest amount of data .__c0
+__fh__yeah .__c5
+__s__uhhuh .__c5
+__fh__so | i mean ordinarily you would say well given that you have enough occurrences of the digits you can just train with digits rather than with you know ==__c0
+__s^bk__uhhuh .__c5
+__s.%--__but the thing is if you have a huge ==__c0
+__fg__in other words do word models ==__c0
+__s^cs__but if you have a huge amount of data then you're going to have many occurrences of similar uh - allophones .__c0
+__s^df__right .__c5
+__b__huh .__c5
+__fh__yeah .__c5
+__s__and that's just a huge amount of training for it .__c0
+__s^df__so it's um - | i - i think it has to be that because as you say this is you know this - is near microphone .__c0
+__s^aa__uhhuh .__c5
+__b__it's really pretty clean data .__c0
+__s^df__uhhuh .__c5
+__fh__um ==__c0
+__fh__now some of it could be the fact that ==__c0
+__fh__uh ==__c0
+__s^df__let's see in the - in these multi train things did we include noisy data in the training ?__c0
+__s^df__yeah .__c5
+__s__i mean that could be hurting us actually for the clean case .__c0
+__b__yeah .__c5
+__b__well actually we see that the clean train for the aurora proposals are - are better than the multi train .__c5
+__b__it is if ==__c0
+__s^bk__yeah .__c5
+__b__yeah .__c0
+__fg__yeah .__c0
+__fh__because this is clean data .__c0
+__s^rt__and so that's not too surprising .__c0
+__fh__uhhuh .__c5
+__s^tc__but um uh ==__c0
+__fh__so ==__c0
+__fh__well o- - i guess what i meant is that ==__c5
+__s.%--__well | let's say if we - if we add enough data to train on the um - on the meeting recorder digits i guess we could have better results than this .__c5
+__s^bk__uhhuh .__c0
+__s.%--__uhhuh .__c0
+__s^bsc^rt__and ==__c5
+__s.%--__what i meant is that perhaps we can learn something uh from this .__c5
+__s__what's - what's wrong - uh what - what is different between t i digits and these digits .__c5
+__s.%--__and ==__c5
+__s^rt__what kind of numbers are we getting on t i digits ?__c0
+__b__it's point eight percent .__c5
+__b__so ==__c5
+__fh__oh .__c0
+__s__i see .__c0
+__s^df__four- - fourier .__c5
+__b__so in the actual t i digits database we're getting point eight percent .__c0
+__s^rt__@reject@ yeah .__c5
+__s^e__yeah .__c5
+__fh__and here we're getting three or four - three .__c0
+__s^bk__uhhuh .__c5
+__s^rt__let's see three for this ?__c0
+__fh__yeah .__c0
+__s.%--__sure | but i mean ==__c0
+__fh|s^e__um | point eight percent is something like double uh or triple what people have gotten who've worked very hard at doing that .__c0
+__s__uhhuh .__c5
+__qy^bh__and - and also as you point out there's adaptation in these numbers also .__c0
+__fh__huh .__c5
+__s^bk__so if you you know put the ad- - adap- - take the adaptation off then it - for the english near you get something like two percent .__c0
+__s^rt__and here you had you know something like three point four .__c0
+__s^df__uhhuh .__c5
+__b__and i could easily see that difference coming from this huge amount of data that it was trained on .__c0
+__s__uhhuh .__c5
+__s^df__so it's ==__c0
+__s^fa^t3__you know i don't think there's anything magical here .__c0
+__%-__yeah .__c5
+__qw__it's you know we used a simple h t k system with a modest amount of data .__c0
+__s.%-__and this is a - a you know modern uh - system .__c0
+__s^no__yeah .__c5
+__s|qy^d^g__uh - has - has a lot of nice points to it .__c0
+__s__uhhuh .__c5
+__s^df.%-__um ==__c0
+__s__so | i mean the h t k is an older h t k even .__c0
+__s^bk__so ==__c0
+__fh__uhhuh .__c5
+__s__yeah it - it's not that surprising .__c0
+__s__but to me it just - it just meant a practical point that um - if we want to publish results on digits that - that people pay attention to we probably should uh ==__c0
+__qy^bh__because we've had the problem before that you get - show some nice improvement on something that's - that's uh - uh it seems like too large a number .__c0
+__b__uhhuh .__c5
+__s__and uh - uh - | people don't necessarily take it so seriously .__c0
+__fh__um ==__c0
+__s__yeah .__c0
+__s__yeah .__c0
+__s^e__so the three point four percent for this uh - is - is ==__c0
+__b__uh ==__c0
+__fh__so why is it ?==__c0
+__fh|s__it's an interesting question though still .__c0
+__s__why is - why is it three point four percent for the d- - the digits recorded in this environment as opposed to the uh point eight percent for - for - for the original t i digits database ?__c0
+__b__um ==__c0
+__s.%--__yeah .__c5
+__qy^bh__th- - that's - th- - that's my point .__c5
+__fh__given - given the same ==__c0
+__qy^rt__i - i - i don't - i ==__c5
+__qrr.%--__yeah so ignore - ignoring the - the - the s r i system for a moment .__c0
+__b__uhhuh .__c5
+__s^na__just looking at the t i di- - the uh - tandem system .__c0
+__s^nd__if we're getting point eight percent which yes it's high .__c0
+__%-__it's you know it - it's not awfully high .__c0
+__s^df__uhhuh .__c5
+__s.%--__but it's you know - it's - it's high .__c0
+__b__um | why is it uh - four times as high or more ?__c0
+__s__yeah i guess .__c5
+__b__right ?__c0
+__s__i mean there's - even though it's close miked there's still - there really is background noise .__c0
+__s__uhhuh .__c5
+__s^e__um and uh - | i suspect when the t i digits were recorded if somebody fumbled or said something wrong or something that they probably made them take it over .__c0
+__fh__uhhuh .__c5
+__fh__it was not - i mean there was no attempt to have it be realistic in any - in any sense at all .__c0
+__s^bk|s__well .__c5
+__s^e__yeah .__c5
+__%-__and acoustically it's q- - it's ==__c5
+__qy^d^g^rt__i listened .__c5
+__s^aa|s^na__it's quite different .__c5
+__s^aa__t i digit is - it's very very clean and it's like studio recording .__c5
+__fh__uhhuh .__c0
+__s^bk__whereas these meeting recorder digits sometimes you have breath noise .__c5
+__qy^bu^d^rt__and ==__c5
+__s^ar__huh .__c5
+__s^nd__right .__c0
+__s^bk__yeah .__c0
+__%--__so i think they were ==__c0
+__fh__it's not controlled at all i mean .__c5
+__fh|s__bless you .__c0
+__s^cs__thanks .__c1
+__s__i - yeah i think it's - it's ==__c0
+__fh__uhhuh .__c5
+__fh|s__so yes .__c0
+__s^cs__but ==__c5
+__s__it's - i think it's - it's the indication it's harder .__c0
+__b__yeah .__c5
+__s^cs__uh | yeah and again you know i- - that's true either way .__c0
+__s^aa__i mean so take a look at the uh - um the s r i results .__c0
+__s^cs__i mean they're much much better .__c0
+__s^aa__but still you're getting something like one point three percent for uh things that are same data as in t - t i digits - the same - same text .__c0
+__qw__uhhuh .__c5
+__qw^rt__uh and uh | i'm sure the same - same system would - would get you know point - point three or point four or something on the actual t i digits .__c0
+__s^bk__so this - i think on both systems the - these digits are showing up as harder .__c0
+__s^no__huh .__c5
+__s__um ==__c0
+__s^bk__uhhuh .__c5
+__qy^d^g^rt__which i find sort of interesting cause i think this is closer to ==__c0
+__s^aa__uh | i mean it's still read .__c0
+__s.%--__but i still think it's much closer to - to what - what people actually face um when they're - they're dealing with people saying digits over the telephone .__c0
+__qw.%--__i mean - i don't think uh ==__c0
+__s^no__i mean i'm sure they wouldn't release the numbers .__c0
+__qw^rt__but i don't think that uh the uh - the - the companies that - that do telephone speech get anything like point four percent on their digits .__c0
+__qy^bu^d^rt__i'm - i'm - i'm sure they get ==__c0
+__qrr.%-__uh | i mean for one thing people do phone up who don't have uh - uh middle america accents and ==__c0
+__s^na__uhhuh .__c5
+__s__it's a we- - we it's - it's - it's u s .__c0
+__s^bk__it has - has many people who sound in many different ways .__c0
+__fh__so ==__c0
+__s^bk^r__um ==__c0
+__fh__i mean .__c0
+__b__okay .__c0
+__fh__that was that topic .__c0
+__s^e__what else we got ?__c0
+__s^e__um ==__c5
+__b__did we end up giving up on - on any eurospeech submissions ?__c0
+__s^e__but ==__c5
+__fh__or ?==__c0
+__s^bk__i know thilo and dan ellis are - are submitting something .__c0
+__s__but uh ==__c0
+__%--__yeah .__c5
+__b__i - i guess e- - the only thing with these - the meeting recorder and well ==__c5
+__b__so i think - yeah i think we basically gave up .__c5
+__s__um now actually for the - for the aur- - uh ==__c0
+__s__but ==__c5
+__b__we do have stuff for aurora | right ?__c0
+__fg__because - because we have ano- - an extra month or something .__c0
+__fg|s.%--__yeah .__c5
+__s__yeah .__c5
+__s^cs__yeah .__c5
+__fh__so ==__c5
+__fh__yeah for sure we will do something for the special session .__c5
+__s^cs__yeah .__c0
+__b__well that's fine .__c0
+__b__so th- - so - so we have a couple - a couple little things on meeting recorder .__c0
+__fh__yeah .__c5
+__s^bk__uhhuh .__c5
+__fh__and we have - we don't - we don't have to flood it with papers .__c0
+__qy^rt__we're not trying to prove anything to anybody .__c0
+__qw__so ==__c0
+__h__that's fine .__c0
+__s__um ==__c0
+__fh__anything else ?__c0
+__b__yeah .__c5
+__s^r__well so ==__c5
+__fh__perhaps the point is that we've been working on - is ==__c5
+__fg__yeah we have put the um - the good v a d in the system .__c5
+__s^tc.%--__and it really makes a huge difference .__c5
+____um ==__c5
+____so ==__c5
+____yeah .__c5
+____i think - yeah this is perhaps one of the reason why our system was not - not the best .__c5
+____because with the new v a d it's very - the results are similar to the france telecom results and perhaps even better sometimes .__c5
+____huh .__c0
+____huh .__c1
+__s__um | so there is this point .__c5
+__s^e^rt__uh the problem is that it's very big and we still have to think how to - where to put it .__c5
+__fh__and um ==__c5
+__s^rt__uhhuh .__c0
+__fh__because it - it ==__c5
+__s__well this v a d ==__c5
+__s^e__uh either some delay ==__c5
+__s^e__and we - if we put it on the server side it doesn't work .__c5
+__s__because on the server side features you already have l d a applied from the f- - from the terminal side .__c5
+__fh|s__and so you accumulate the delay .__c5
+__s__so the v a d should be before the l d a .__c5
+__s__which means perhaps on the terminal side .__c5
+__fh|s^rt__and then smaller - and ==__c5
+__s^rt__so wha- - where did this good v a d come from ?__c0
+__s^e^rt__so ==__c5
+__s__it's um from o g i .__c5
+__fh__so it's the network trained - it's the network with the huge amounts on hidden - of hidden units .__c5
+__s^e^rt__and um | nine input frames compared to the v a d that was in the proposal which has a very small amount of hidden units and fewer inputs .__c5
+__fh__this is the one they had originally ?__c0
+__s__yeah .__c5
+__s^e__oh .__c0
+__s^e__yeah | but they had to get rid of it because of the space .__c0
+__b__didn't they ?__c0
+__fh__yeah .__c5
+__s^bk__so ==__c5
+__s__yeah .__c5
+__fh__but the abso- - assumption is that we will be able to make a v a d that's small and that works fine .__c5
+__s__and so we can ==__c5
+__s^e__well so that's a problem .__c0
+__s^e__yeah .__c0
+__s^aa__yeah but ==__c5
+__s^cs__nnn ==__c5
+__qy^d^g^rt__but the other thing is uh - to use a different v a d entirely .__c0
+__s^df.%--__i mean uh - i- - if - if there's a if - if ==__c0
+__fh__i - i don't know what the thinking was amongst the - the - the the etsi folk .__c0
+__qw__but um - | if everybody agreed sure let's use this v a d and take that out of there ==__c0
+__qy.%--__uhhuh .__c5
+__s.%--__uhhuh .__c5
+__s.%--__they just want apparently - they don't want to fix the v a d because they think there is some interaction between feature extraction and - and v a d or frame dropping .__c5
+__s.%--__but they still want to - just to give some um requirement for this v a d .__c5
+__s__because it's - it will not be part of - they don't want it to be part of the standard .__c5
+__s^df__okay .__c0
+__s.%-__so - so it must be at least uh somewhat fixed but not completely .__c5
+__%--__so there just will be some requirements that are still not - uh not yet uh ready i think .__c5
+__s^bu|qy^d^g^rt__determined .__c0
+__%__i see .__c0
+__s^aa__nnn .__c5
+__qy^bh__but i was thinking that - that uh s- - sure there may be some interaction .__c0
+__s.%--__but i don't think we need to be stuck on using our or o g i's v a d .__c0
+__s__we could use somebody else's if it's smaller .__c0
+__%-__or ==__c0
+__s^co__yeah .__c5
+__s^e__you know as long as it did the job .__c0
+__qy^d^g^rt__uhhuh .__c5
+__qw^d__so that's good .__c0
+__fh__uh | so there is this thing .__c5
+__%--__there is ==__c5
+__s^aa__um ==__c5
+__fg__yeah .__c5
+__s^cs__uh i designed a new - a new filter .__c5
+__qy^g^rt__because when i designed other filters with shorter delay from the l d a filters there was one filter with fif- - sixty millisecond delay and the other with ten milliseconds .__c5
+__s^aa__and uh hynek suggested that both could have sixty five - sixty s- ==__c5
+__fh|s^cs__right .__c0
+__b__i think it's sixty five .__c5
+__fh__yeah .__c5
+__b__yeah .__c0
+__s^e__both should have sixty five because ==__c5
+__s__yeah .__c5
+__s.%--__you didn't gain anything | right ?__c0
+__fg|s^bu__and so i did that .__c5
+__fh__and uh it's running .__c5
+__s^aa__so let's see what will happen .__c5
+__s^aa__uh but the filter is of course closer to the reference filter .__c5
+__s^aa__uhhuh .__c0
+__s^aa^r__huh .__c5
+__s^aa^r__um yeah .__c5
+__s__i think ==__c5
+__b__so that means logically in principle it should be better .__c0
+__s__so probably it'll be worse ?__c0
+__fg__yeah .__c5
+__s__or in the basic perverse nature uh - of reality .__c0
+__b__yeah .__c0
+__b__okay .__c0
+__fh__yeah .__c5
+__b__sure .__c5
+__s__yeah .__c3
+__s^e__okay .__c0
+__b__yeah | and then we've started to work with this - of um voiced unvoiced stuff .__c5
+__b__uhhuh .__c0
+__fh__and next week i think we will perhaps try to have um - a new system with uh - uh - m s g stream also .__c5
+__fh|s.%--__see what - what happens .__c5
+__fh__so something that's similar to the proposal too but with m s g stream .__c5
+__fh__uhhuh .__c0
+__%--__uhhuh .__c0
+__fh__huh .__c5
+__s__okay .__c0
+__s^e__no i w- - i begin to play with matlab and to found some parameter robust for voiced unvoiced decision .__c4
+__fh__but only to play .__c4
+__b__and we - they - we found that maybe w- - is a classical parameter the sq- - the variance between the um - f f t of the signal and the small spectrum of time we - after the um - mel filter bank .__c4
+__fh|s^cs.%--__uhhuh .__c0
+__fh|s^cc__and well is more or less robust .__c4
+__b__is good for clean speech .__c4
+__b__is quite good for noisy speech .__c4
+__s^df__huh .__c0
+__s^df__uhhuh .__c0
+__b__but um - we must to have bigger statistic with timit .__c4
+__s__uhhuh .__c0
+__b__and is not ready yet to use on ==__c4
+__s__yeah .__c0
+__s^fa__well i don't know .__c4
+__s^bsc__yeah .__c0
+__s^bk|s^m__yeah .__c5
+__fh__so basically we wa- - want to look at something like the ex- - the ex- - excitation signal and ==__c5
+__s__right .__c0
+__%-__uhhuh .__c4
+__s__which are the variance of it and ==__c5
+__s^df__i have here .__c4
+__b__i have here for one signal for one frame .__c4
+__fh__huh .__c5
+__s^df__yeah .__c0
+__b__the - the mix of the two noise and unnoise and the signal is this .__c4
+__s.%--__uhhuh .__c0
+__s__clean and this noise .__c4
+__s^df__uh .__c0
+__b__these are the two .__c4
+__fh|s^cs__the mixed - the big signal is for clean .__c4
+__b__well i'm s- - uh ==__c0
+__s^cs__there's ==__c0
+__b__none of these axes are labeled .__c0
+__fh__so i don't know what this ==__c0
+__b__what's this axis ?__c0
+__qy^rt^tc__uh | this is uh - this axis is nnn frame .__c4
+__qrr.%--__frame .__c0
+__s^nd__uhhuh .__c4
+__fh__and what's th- - what this ?__c0
+__qy^rt^tc__uh | this is uh - energy - log energy of the spectrum .__c4
+__qrr.%--__of the ==__c4
+__h__-no this is the variance .__c4
+__s^ar|s^j__the difference between the spectrum of the signal and f f t of each frame of the signal .__c4
+__fh__and this mouth spectrum of time after the f- - may fit for the two .__c4
+__qo^tc__for this one .__c0
+__h|s^rt__for the noi- ==__c0
+__fh|s__this big to here they are to signal .__c4
+__s^e__this is for clean and this is for noise .__c4
+__fh|s^e__oh .__c0
+__fh|s__there's two things on the same graph .__c0
+__s^e__yeah .__c4
+__b__i don't know .__c4
+__fh|s^e__i - i think that i have d- - another graph .__c4
+__b__but i'm not sure .__c4
+__s__yeah .__c5
+__qy^bh__so w- - which is clean and which is noise ?__c0
+__s^df__i think the lower one is noise .__c5
+__b__the lower is noise and the height is clean .__c4
+__fh|%--__okay .__c0
+__s^cc__so it's harder to distinguish .__c0
+__qy^rt__it's height .__c4
+__s^aa__but it - but it g- ==__c0
+__s.%--__yeah .__c5
+__s^bk|s__with noise of course .__c0
+__b__but - but ==__c0
+__qy^d^f^g^rt__oh i must to have .__c4
+__s__uh ==__c0
+__b__pity but i don't have two different ==__c4
+__s^bk__and presumably when there's a - a ==__c0
+__s^ba__so this should the - the - the t- - voiced portions .__c5
+__b__uhhuh .__c0
+__b__yeah | it is the height is voiced portion .__c4
+__s^ba__the p- - the peaks should be voiced portion .__c5
+__qy^d^f^g^rt__and this is the noise portion .__c4
+__qy^bu^d__uhhuh .__c0
+__b__and this is more or less like this .__c4
+__qy^rt__but i meant to have see @reject@ two - two the picture .__c4
+__s^aa__yeah .__c0
+__%--__yeah .__c0
+__qrr.%--__this is for example for one frame .__c4
+__fh|s__yeah .__c0
+__s^bk__the - the spectrum of the signal .__c4
+__s^e__and this is the small version of the spectrum after m l mel filter bank .__c4
+__b__yeah .__c0
+__fh__and this is the difference ?__c0
+__s^bu.%--__and this is ==__c4
+__s^fa__i don't know .__c4
+__qw^rt__this is not the different .__c4
+__s^bk__this is trying to obtain with l p c model the spectrum .__c4
+__fh|s__but using matlab without going factor and s- ==__c4
+__s__no pre emphasis .__c0
+__qy^bu^d^rt__yeah ?__c0
+__%-__not pre emphasis .__c4
+__s^m^na__nothing .__c4
+__s^bk__yeah so it's ==__c0
+__s^aa__and the ==__c4
+__s^bk__doesn't do too well there .__c0
+__fh__i think that this is good .__c4
+__fh|s^cs__this is quite similar .__c4
+__b__this is - this is another frame .__c4
+__s^df__ho- - how i obtained the envelope this envelope with the mel filter bank .__c4
+__b__right .__c0
+__s^e__so now i wonder ==__c0
+__s^e__i mean do you want to ?==__c0
+__qy^d^f^g^rt__i know you want to get at something orthogonal from what you get with the smooth spectrum .__c0
+__s^e__um | but if you were to really try and get a voiced unvoiced do you - do you want to totally ignore that ?__c0
+__b__i mean do you - do you ?==__c0
+__s^ba__i mean clearly a - a very big - very big cues for voiced unvoiced come from uh - spectral slope and so on .__c0
+__fh__uhhuh .__c5
+__s^ba__right ?__c0
+__fh__um ==__c0
+__s__yeah .__c5
+__s^bk__well this would be - this would be perhaps an additional parameter .__c5
+__fh__simply isn't ==__c5
+__b__yeah .__c0
+__s^tc__i see .__c0
+__s^df__yeah .__c5
+__b__yeah | because when did noise clear in these section is clear .__c4
+__fh|s^cc^tc__uh .__c5
+__s^bk__uhhuh .__c0
+__s__if s- - @reject@ val- - value is indicative that is a voice frame and it's low values @reject@ .__c4
+__s^df__yeah .__c0
+__s__yeah .__c0
+__fh__well you probably want ==__c0
+__fh|s__i mean certainly if you want to do good voiced unvoiced detection you need a few features .__c0
+__s^e__each - each feature is by itself not enough .__c0
+__s__but | you know people look at - at slope and uh - first auto correlation coefficient divided by power .__c0
+__s__huh .__c5
+__s__or - or - uh ==__c0
+__fh__um ==__c0
+__s^cc__there's uh ==__c0
+__s^bsc__i guess we prob- - probably don't have enough computation to do a simple pitch detector or something ?__c0
+__fh__i mean with a pitch detector you could have a - have a - an estimate of - of what the ==__c0
+__s^cc__huh .__c5
+__s^df__uh ==__c0
+__s^cc__or maybe you could you just do it going through the p f f t's figuring out some um - probable um - harmonic structure .__c0
+__fh__right ?__c0
+__s^e__huh .__c5
+__s^e__and - and uh ==__c0
+__s^df__you have read up and - you have a paper the paper that you s- - give me yesterday .__c4
+__b__oh yeah .__c5
+__qw__they say that yesterday they are some problem .__c4
+__s__but ==__c5
+__s^bk|s^e__yeah | but it's not ==__c5
+__s^bk^m__it's ==__c5
+__s.%--__yeah | it's - it's another problem .__c5
+__s__and the ==__c4
+__s^df__yeah .__c5
+__fh|s^cs.%--__is another problem .__c4
+__s^fa__um ==__c5
+__s__yeah there is th- - this fact actually .__c5
+__b__if you look at this um - spectrum .__c5
+__s__yeah .__c0
+__s^bk__what's this again ?__c5
+__s__is it the mel filters ?__c5
+__s__yeah like this .__c4
+__b__yeah .__c5
+__s__of kind like this .__c4
+__fh__okay .__c5
+__b__so | the envelope here is the output of the mel filters .__c5
+__fh__uhhuh .__c0
+__s__and what we clearly see is that in some cases ==__c5
+__s__and it clearly appears here .__c5
+__s__and the - the harmonics are resolved by the f- ==__c5
+__b__well | there are still appear after mel filtering .__c5
+__fh|s__uhhuh .__c0
+__s^e__and it happens for high pitched voice because the width of the lower frequency mel filters is sometimes even smaller than the pitch .__c5
+__fh__yeah .__c0
+__s__it's around one hundred - one hundred and fifty hertz nnn .__c5
+__s__right .__c0
+__%--__and so what happens is that this uh add- - additional variability to this envelope .__c5
+__fg__and um ==__c5
+__s.%--__yeah .__c0
+__s__so we were thinking to modify the mel spectrum to have something that - that's smoother on low frequencies .__c5
+__s^e.%--__that's as - as a separate thing .__c0
+__s__i- ==__c5
+__s^df__yeah .__c0
+__s__yeah .__c5
+__s^df__this is a separate thing .__c5
+__fh|s__yeah .__c4
+__qy^bh__separate thing ?__c0
+__b__yeah .__c0
+__b__and ==__c5
+__b__yeah .__c0
+__s__maybe so .__c0
+__b__um ==__c0
+__b__yeah .__c0
+__s.%--__so what ?==__c0
+__s__yeah .__c0
+__s__what i was talking about was just starting with the f f t .__c0
+__fh__you could - you could uh - do a very rough thing to estimate - estimate uh - pitch .__c0
+__s__yeah .__c5
+__s^e__uhhuh .__c5
+__fh__and uh - uh - | given you know given that uh - you could uh - uh - come up with some kind of estimate of how much of the low frequency energy was - was explained by - by uh - uh those harmonics .__c0
+__fh|s^e__uhhuh .__c5
+__s^e__uh ==__c0
+__fh__it's uh - a variant on what you're s- - what you're doing .__c0
+__s^df__the i mean the - the the mel- - does give a smooth thing .__c0
+__s^df__but as you say it's not that smooth here .__c0
+__fh|s^e__and - and so if you - if you just you know subtracted off uh - your guess of the harmonics then something like this would end up with quite a bit lower energy in the first fifteen hundred hertz or so .__c0
+__s.%--__and - and our first kilohertz even .__c0
+__fh__uhhuh .__c5
+__fh__and um - | if was uh - noisy the proportion that it would go down would be ==__c0
+__s__uhhuh .__c5
+__s^no__if it was - if it was unvoiced or something .__c0
+__s__so you ought to be able to pick out voiced segments .__c0
+__fh__at least it should be another - another cue .__c0
+__fh|s__uhhuh .__c5
+__s^df__so anyway ==__c0
+__fh__okay .__c0
+__s^cs.%--__that's what's going on .__c0
+__fh__uh ==__c0
+__s__what's up with you ?__c0
+__s^cs__um | our t- - i went to talk with uh - mike jordan this - this week .__c1
+__s^df__uhhuh .__c0
+__s__um and uh - | shared with him the ideas about um - extending the larry saul work .__c1
+__s.%--__and um - | i asked him some questions about factorial h m m's .__c1
+__s^df__so | like later down the line when we've come up with these - these feature detectors how do we - how do we uh - you know uh model the time series that - that happens .__c1
+__s^e__um and | and we talked a little bit about factorial h m m's and how um when you're doing inference - or w- - when you're doing recognition there's like simple viterbi stuff that you can do for - for these h m m's .__c1
+__s^e__and | the uh - the great advantages that um a lot of times the factorial h m m's don't um don't over alert the problem .__c1
+__qy^bu.%--__there - they have a limited number of parameters and they focus directly on - on uh - the sub problems at hand .__c1
+__s__so you can imagine um - five or so parallel um features um transitioning independently .__c1
+__b__and then at the end you - you uh - couple these factorial h m m's with uh - with uh - undirected links um based on - based on some more data .__c1
+__s__huh .__c0
+__s__so | he - he seemed - he seemed like really interested in - in um - in this .__c1
+__s__and said - said this is - this is something very do able and can learn a lot .__c1
+__b__and um ==__c1
+__s__yeah | i've just been continue reading um about certain things .__c1
+__s^bd__uhhuh .__c0
+__s^df__um ==__c1
+__s__thinking of maybe using um - um m- - modulation spectrum stuff to um - as features um - also in the - in the sub bands .__c1
+__b__uhhuh .__c0
+__b__because it seems like the modulation um - spectrum tells you a lot about the intelligibility of - of certain um - words and stuff .__c1
+__fh__so um ==__c1
+__s.%--__yeah .__c1
+__s__just ==__c1
+__fh__that's about it .__c1
+__b__okay .__c0
+__s^bk__okay .__c3
+__qo^rt^tc__and ==__c3
+__h|s__um ==__c3
+__fh__so i've been looking at avendano's work .__c3
+__s__and um ==__c3
+__s__uh i'll try to write up in my next stat- - status report a nice description of what he's doing .__c3
+__s__but it's - it's an approach to deal with reverberation or that - the aspect of his work that i'm interested in .__c3
+__s__the idea is that um - normally an- - analysis frames are um - too short to encompass reverberation effects um - in full .__c3
+__s.%--__you miss most of the reverberation tail in a ten millisecond window .__c3
+__s__and so you - you'd like it to be that um the reverberation responses um - simply convolved um in .__c3
+__s__but | it's not really with these ten millisecond frames .__c3
+__s^df__because you j- ==__c3
+__s^fe__but if you take say a two millisecond um window ==__c3
+__s__i'm sorry .__c3
+__s__a two second window .__c3
+__s__then in a room like this most of the reverberation response is included in the window .__c3
+__s^e.%-__and the - then it um - then things are l- - more linear .__c3
+__s.%--__it is - it is more like the reverberation response is simply c- - convolved .__c3
+__s^fa__and um - | and you can use channel normalization techniques like ==__c3
+__s^df__uh - in his thesis he's assuming that the reverberation response is fixed .__c3
+__s__he just does um - mean subtraction .__c3
+__s__which is like removing the d c component of the modulation spectrum .__c3
+__s.%-__and | that's supposed to d- - um deal - uh - deal pretty well with the um - reverberation .__c3
+__qw.%-__and um - | the neat thing is you can't take these two second frames and feed them to a speech recognizer .__c3
+__s^bk__um so | he does this um - method training trading the um - the spectral resolution for time resolution and um - come ca- - uh - synthesizes a new representation which is with say ten second frames but a lower s- - um - frequency resolution .__c3
+__s__so i don't really know the theory .__c3
+__s^bk__i guess it's - these are called time frequency representations .__c3
+__s^bk__and h- - he's making the - the time sh- - um - finer grained and the frequency resolution um - less fine grained .__c3
+__s__uhhuh .__c5
+__s__s- - so i'm - i guess my first stab actually in continuing his work is to um - re implement this - this thing which um - changes the time and frequency resolutions .__c3
+__s__because he doesn't have code for me .__c3
+__s__so that that'll take some reading about the theory .__c3
+__s__i don't really know the theory .__c3
+__s__uhhuh .__c5
+__fh__oh and um | another f- - first step is ==__c3
+__b__um ==__c3
+__s.%--__so the - the way i want to extend his work is make it able to deal with a time varying reverberation response .__c3
+__s__um - and um ==__c3
+__s__we don't really know how fast the um - the reverberation response is varying the meeting recorder data .__c3
+__fh__um so um - | we - we have this um - block least squares um - imp- - echo canceller implementation .__c3
+__s__and um - | i want to try finding the - the response say between a near mike and the table mike for someone using the echo canceller .__c3
+__b__and looking at the echo canceller taps and then see how fast that varies from block to block .__c3
+__s__uhhuh .__c5
+__b__that should give an idea of how fast the reverberation response is changing .__c3
+__s^e__uhhuh .__c5
+__fh|s^tc.%--__okay .__c0
+__s__um | i think we're sort of done .__c0
+__s.%--__yeah .__c5
+__b__so let's read our digits and go home .__c0
+__s^bk__DIGIT_TASK__c5
+__s^j__um ==__c3
+__fh__s- - so um ==__c3
+__fg__y- - you do - i think you read some of the - the zeros as o s and some as zeros .__c3
+__s__yeah .__c0
+__s__is there a particular way we're supposed to read them ?__c3
+__s__there are only zeros here .__c5
+__s__well ==__c5
+__s^e__no .__c0
+__s__o - o - o and zero are two ways that we say that digit .__c0
+__fh__eee .__c5
+__s__yeah .__c5
+__s^df__so it's ==__c0
+__s^e__but ==__c5
+__s__ha !__c1
+__b__so it's - i- ==__c0
+__s__perhaps in the sheets there should be another sign for the ==__c5
+__s^e__if we want to - the - the guy to say o .__c5
+__s^e__or ==__c5
+__b__no .__c0
+__fh__i mean i think people will do what they say .__c0
+__fh__it's ==__c5
+__s.%--__yeah .__c5
+__s.%--__it's okay .__c0
+__s__okay .__c5
+__fh__all right .__c3
+__s^tc__i mean in digit recognition we've done before you have - you have two pronunciations for that value o and zero .__c0
+__fh__okay .__c3
+__s__but it's perhaps more difficult for the people to prepare the database then if ==__c5
+__s__because here you only have zeros .__c5
+__s__no they just write ==__c0
+__fh__and - and people pronounce o or zero .__c5
+__fh__they - they write down o h .__c0
+__s__or they write down z e r o .__c0
+__s__a- - and they - and they each have their own pronunciation .__c0
+__fh__yeah | but if the sh- - the sheet was prepared with a different sign for the o .__c5
+__qo^tc__but people wouldn't know what that wa- ==__c0
+__s__i mean there is no convention for it .__c0
+__fh|s__okay .__c5
+__s^e__yeah .__c5
+__s^e__okay .__c5
+__s^e__see i mean you'd have to tell them okay when we write this say it tha- ==__c0
+__s^e__you know ?__c0
+__qw^rt__and you just - they just want people to read the digits as you ordinarily would .__c0
+__%-__uhhuh .__c5
+__s__yeah .__c5
+__s^bk__yep .__c5
+__s^aa__and - and people say it different ways .__c0
+__s__okay .__c3
+__s__is this a change from the last batch of - of um - forms ?__c3
+__qy^g__because in the last batch it was spelled out which one you should read .__c3
+__qw^br__yeah | it was orthographic .__c5
+__s__so ==__c5
+__s^aa__yes .__c0
+__%-__that's right .__c0
+__s^j__it was - it was spelled out and they decided they wanted to get at more the way people would really say things .__c0
+__s^df^j__oh okay .__c3
+__s^bk__that's also why they're - they're bunched together in these different groups .__c0
+__qw^j__okay .__c3
+__fh__so - so it's ==__c0
+__s^m__yeah .__c0
+__s.%--__so it's - it's ==__c0
+__s.%--__everything's fine .__c0
+__fh__okay .__c3
+__s__okay .__c0
+__fh|s__DIGIT_TASK__c0
+__s__actually let me just s- - since - since you brought it up i was just - it was hard not to be self conscious about that when it after we - since we just discussed it .__c0
+__s__but i realized that - that um when i'm talking on the phone certainly and - and saying these numbers i almost always say zero .__c0
+__s^ar__and uh - because - because uh - i- - it's two syllables .__c0
+__s^bk__it's - it's more likely they'll understand what i said .__c0
+__s.%--__so that - that - that's the habit i'm in .__c0
+__s^na__but some people say o and ==__c0
+__qw^rt__yeah | i normally say o because it's easier to say .__c1
+__qw.%--__yeah it's shorter .__c0
+__s^no__yeah .__c0
+__s^df.%--__so it's - so - so uh ==__c0
+__fh__o ==__c1
+__qy__now don't think about it .__c0
+__qrr.%--__oh no !__c1
+__h|s^rt__DIGIT_TASK__c1
+__qrr.%--__DIGIT_TASK__c3
+__b__DIGIT_TASK__c4
+__b__okay .__c0
+__s__we're done .__c0
